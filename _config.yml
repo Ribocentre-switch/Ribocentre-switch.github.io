@@ -10,7 +10,7 @@ title: RNA club
 email: rnapuzzles@gzlab.ac.cn
 description: > # this means to ignore newlines until "baseurl:"
   Guangzhou RNA club (Seminars+Symposiums), aiming to associate the RNA research society in South China with the global RNA SOCIETY.
-baseurl: ""
+baseurl: "https://ribocentre-switch.github.io/Ribocentre-switch/"
 url: ""
 
 include:
