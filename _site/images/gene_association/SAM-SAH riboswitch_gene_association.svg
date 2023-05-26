@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 800 200" style="enable-background:new 0 0 800 200;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;}
+	.st1{fill:none;stroke:#000000;stroke-miterlimit:10;}
+	.st2{font-family:'ArialMT';}
+	.st3{font-size:18px;}
+	.st4{font-size:18.0431px;}
+	.st5{font-size:18.062px;}
+	.st6{fill:#FF0B0C;}
+</style>
+<line class="st0" x1="137.5" y1="57.9" x2="198.5" y2="58.4"/>
+<line class="st1" x1="137.5" y1="57.9" x2="192.4" y2="58.3"/>
+<path d="M198.5,58.4c-3.1,1.1-6,2.7-8.6,4.7l1.8-4.8l-1.7-4.8C192.5,55.6,195.4,57.2,198.5,58.4z"/>
+<text transform="matrix(1 0 0 1 17.07 61.31)" class="st2 st3">homocysteine</text>
+<line class="st1" x1="714.3" y1="76.3" x2="714.3" y2="123.2"/>
+<text transform="matrix(1 0 0 1 306.48 129.89)" class="st2 st3">S-Adenosylmethionine</text>
+<text transform="matrix(0.8779 0 -0.4789 0.8779 146.9894 48.2601)" class="st2 st4">metB</text>
+<text transform="matrix(1 0 0 1 219.83 150.68)" class="st2 st3">demethylation</text>
+<line class="st0" x1="395" y1="60.7" x2="479.1" y2="61.3"/>
+<line class="st1" x1="395" y1="60.7" x2="473.1" y2="61.3"/>
+<path d="M479.1,61.3c-3.1,1.1-6,2.7-8.6,4.7l1.8-4.8l-1.7-4.8C473.2,58.6,476,60.2,479.1,61.3z"/>
+<text transform="matrix(1 0 0 1 24.72 129.89)" class="st2 st3">S-Adenosylhomocysteine</text>
+<text transform="matrix(1 0 0 1 207.2 63.87)" class="st2 st3">O-acetyl homocysteine</text>
+<path class="st1" d="M407.4,26c0,19.4,13.9,35.1,31.1,35.1"/>
+<text transform="matrix(1 0 0 1 416.05 28.61)" class="st2 st3">cysteine</text>
+<text transform="matrix(0.867 0 -0.4983 0.867 403.2693 80.6893)" class="st2 st5">metB</text>
+<text transform="matrix(1 0 0 1 484.84 65.29)" class="st2 st3">cystathionine</text>
+<line class="st0" x1="595.8" y1="61.3" x2="656.8" y2="61.8"/>
+<line class="st1" x1="595.8" y1="61.3" x2="650.8" y2="61.8"/>
+<path d="M656.8,61.8c-3.1,1.1-6,2.7-8.6,4.7l1.8-4.7l-1.7-4.8C650.9,59,653.7,60.7,656.8,61.8z"/>
+<text transform="matrix(1 0 0 1 659.57 66.21)" class="st2 st3">homocysteine</text>
+<line class="st1" x1="688.2" y1="123.2" x2="713.5" y2="123.2"/>
+<path d="M682.2,123.2c3.1,1.1,6,2.7,8.5,4.8l-1.7-4.8l1.7-4.8C688.2,120.5,685.3,122.1,682.2,123.2z"/>
+<text transform="matrix(0.867 0 -0.4983 0.867 603.4999 48.1303)" class="st2 st5">metC</text>
+<text transform="matrix(1 0 0 1 581.75 127.33)" class="st2 st3">methionine</text>
+<line class="st0" x1="564.3" y1="123.2" x2="503.3" y2="123.2"/>
+<line class="st1" x1="564.3" y1="123.2" x2="509.4" y2="123.2"/>
+<path d="M503.3,123.2c3.1-1.1,6-2.7,8.5-4.8l-1.7,4.8l1.7,4.8C509.3,125.9,506.4,124.3,503.3,123.2z"/>
+<text transform="matrix(0.867 0 -0.4983 0.867 714.871 101.14)" class="st2 st5">metE</text>
+<text transform="matrix(0.867 0 -0.4983 0.867 513.5597 147.0894)" class="st2 st5">metK</text>
+<line class="st0" x1="300.1" y1="125.4" x2="239.1" y2="125.4"/>
+<line class="st1" x1="300.1" y1="125.4" x2="245.2" y2="125.4"/>
+<path d="M239.1,125.4c3.1-1.1,6-2.7,8.5-4.8l-1.7,4.8l1.7,4.8C245.1,128.1,242.2,126.5,239.1,125.4z"/>
+<rect x="20.5" y="170.5" class="st6" width="21.1" height="7.6"/>
+<text transform="matrix(1 0 0 1 56.16 180.99)" class="st2 st3">SAM-SAH riboswitch</text>
+<rect x="527.1" y="109.1" class="st6" width="21.1" height="7.7"/>
+</svg>

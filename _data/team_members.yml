@@ -1,0 +1,60 @@
+- name: Zhichao (Chichau) Miao
+  photo: Chichau_photo.jpg
+  info: Principal Investigator
+  email: miao_zhichao@gzlab.ac.cn
+  number_educ: 5
+  education1: PhD  <a href="http://english.ibp.cas.cn/">Institute of Biophysics, CAS</a>
+  education2: Chercheur at <a href="https://ibmc.cnrs.fr/en/">IBMC, CNRS</a>
+  education3: PostDoc at <a href="https://www.ebi.ac.uk/">EMBL-EBI</a>
+  education4: Visiting Scientist at <a href="https://www.sanger.ac.uk/">Wellcome Sanger Institute</a>
+  education5: Senior Bioinformatician at <a href="https://www.ebi.ac.uk/">EMBL-EBI</a>
+
+- name: Xinyu Guo
+  photo: xinyu.jpeg
+  info: Lab manager
+  email: xxx@gzlab.ac.cn
+  number_educ: 2
+  education1: Master at <a href="https://www.gdufs.edu.cn/">Guangdong University of Foreign Studies</a>
+  education2: B.S. at <a href="https://www.nwsuaf.edu.cn/">Northwest A&F University, China</a> 
+
+- name: Ziliang Huang
+  photo: ziliang.jpeg
+  info: Research Assistant
+  email: xxx@gzlab.ac.cn
+  number_educ: 2
+  education1: Master at <a href="https://www.sysu.edu.cn/">Sun Yat-sen University</a> 
+  education2: B.S. at <a href="https://www.sysu.edu.cn/">Sun Yat-sen University</a> 
+  
+- name: Xinyue Chen
+  photo: XinyueChen.jpg
+  info: Research Assistant
+  email: chen_xinyue@gzlab.ac.cn
+  number_educ: 2
+  education1: Master at <a href= "https://www.anu.edu.au/">The Australian National University</a> 
+  education2: B.S. at <a href= "https://www.anu.edu.au/">The Australian National University</a> 
+  
+- name: Lirong Yang
+  photo: Lirong_Yang.jpg
+  info: Research Assistant
+  email: yang_lirong@gzlab.ac.cn
+  number_educ: 2
+  education1: Master at <a href= "https://uwaterloo.ca/"> University of Waterloo</a>  
+  education2: B.S. at <a href= "https://www.uwo.ca/"> Western University</a>  
+  
+- name: Liping Yao
+  photo: Liping_Yao.jpg
+  info: Research Assistant
+  email: yao_liping@gzlab.ac.cn
+  number_educ: 2
+  education1: Master at <a href= "http://www.huhst.edu.cn/"> Hunan University of Humanities, Science and Technology</a>   
+  education2: B.S. at <a href= "http://www.scnu.edu.cn/"> South China Normal University</a>   
+
+- name: "This could be you !"
+  photo: rock.jpg
+  info: See <a href="http://rnacentre.github.io/vacancies">openings</a> for more info
+  email: miao_zhichao@gzlab.ac.cn
+  number_educ: 0
+  education1:
+  education2:
+  education3:
+  education4:
