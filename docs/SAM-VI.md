@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "SAM"
+title:  "SAM-VI"
 date:   2023-04-28 00:00:00
 author: Zhizhong Lu, Wenjian Liao
-permalink: /docs/SAM/
+permalink: /docs/SAM-VI/
 ---
 **Rfam ID: [RF02885](https://rfam.xfam.org/family/RF02885)(SAM-VI riboswitch)** <br>
 
@@ -83,7 +83,7 @@ permalink: /docs/SAM/
                 
 > Gene regulation
             
-<font size="4"><p>Model of SAM-VI riboswitch sequential folding and translational control.<sup>2.0</sup>.</p></font>
+<font size="4"><p>Model of SAM-VI riboswitch sequential folding and translational control.<sup>[2]</sup>.</p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
   <img src="/images/gene_regulation/SAM-VI_riboswitch_gene_regulation.svg" alt="drawing" style="width:400px;margin-top: 0px;margin-bottom: 0px;" >
@@ -266,12 +266,11 @@ permalink: /docs/SAM/
   color:{r:255,g:170,b:220}
 },
 {
-  struct_asym_id: 'F', 
+  struct_asym_id: 'A', 
   start_residue_number:101, 
   end_residue_number:101, 
   color:{r:255,g:11,b:12}
 }
-
               ]
             viewerInstance1.visual.select({ data: selectSections1, nonSelectedColor: {r:255,g:255,b:255}})" style="float:right;height:25px;width: 120px;">Color Selection</button><br><br>
           <button button style="float: left;height:25px;width: 120px;" onclick="viewerInstance1.visual.clearSelection()">Clear Selection</button><br><br>
@@ -309,7 +308,7 @@ permalink: /docs/SAM/
 > Ligand recognition
             
 <font size=4>
-<p>Chemical structures of various compounds used to probe the binding characteristics of the SAM-VI riboswitch <sup>[2]</sup>.<br /><br /></p>
+<p>Chemical structures of various compounds used to probe the binding characteristics of the SAM-VI riboswitch<sup>[2]</sup>.<br /><br /></p>
 </font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;">
 <tr>

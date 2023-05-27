@@ -159,7 +159,7 @@ permalink: /docs/FMN/
 <p class="header_box">Structure and Ligand recognition</p>
 > 2D representation
         
-<font size=4>Right: Consensus sequence and secondary structure model for the FMN riboswitch. Left: Secondary structure depictions of the FMN riboswitch according to PDB ID: 3F2Q. The bound FMN is in red<sup>[6]</sup>.</font><br>
+<font size=4>Right: Consensus sequence and secondary structure model for the FMN riboswitch. Left: Secondary structure depictions of the FMN riboswitch according to PDB ID: 3F2Q. The bound FMN is denoted in red<sup>[6]</sup>.</font><br>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
 <head>

@@ -175,7 +175,7 @@ permalink: /docs/MoCo&Wco/
 > Ligand recognition
             
 <font size=4>
-<p>Chemical structures of molybdenum cofactor (Moco) and tungsten cofactor (Tuco). The apparent K<sub>D</sub> of each cofactor is no available<sup>[3]</sup>.<br /><br /></p>
+<p>Chemical structures of molybdenum cofactor (Moco) and tungsten cofactor (Tuco). The apparent K<sub>D</sub> of each cofactor is not obtained<sup>[3]</sup>.<br /><br /></p>
 </font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;">
 <tr>

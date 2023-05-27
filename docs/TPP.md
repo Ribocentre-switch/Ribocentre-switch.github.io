@@ -159,7 +159,7 @@ permalink: /docs/TPP/
 <p class="header_box">Structure and Ligand recognition</p>
 > 2D representation
         
-<font size=4>Left: Consensus sequence and secondary structure model for the TPP riboswitch. Right: Secondary structure depictions of the TPP riboswitch according to PDB ID: 2GDI. The bound TPP is in red<sup>[9]</sup>.</font><br>
+<font size=4>Left: Consensus sequence and secondary structure model for the TPP riboswitch. Right: Secondary structure depictions of the TPP riboswitch according to PDB ID: 2GDI. The bound TPP is denoted in red<sup>[9]</sup>.</font><br>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
 <head>
@@ -407,7 +407,7 @@ permalink: /docs/TPP/
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;">
 <tr>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
-  <img src="/images/ligand_recognition/TPP_riboswitch_ligad_recognition.svg" alt="drawing" style="width:800px;margin-top: 0px;margin-bottom: 0px;" >
+  <img src="/images/ligand_recognition/TPP_riboswitch_ligand_recognition.svg" alt="drawing" style="width:800px;margin-top: 0px;margin-bottom: 0px;" >
 </td>
 </tr>
 </table>

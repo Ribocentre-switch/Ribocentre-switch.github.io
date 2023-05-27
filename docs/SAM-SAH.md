@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "SAM"
+title:  "SAM-SAH"
 date:   2023-04-29 00:00:00
 author: Zhizhong Lu, Wenjian Liao
-permalink: /docs/SAM/
+permalink: /docs/SAM-SAH/
 ---
 **Rfam ID: [RF01727](https://rfam.xfam.org/family/RF01727)(SAM/SAH riboswitch)** <br>
 
@@ -270,12 +270,11 @@ permalink: /docs/SAM/
   color:{r:255,g:135,b:10}
 }, 
 {
-  struct_asym_id: 'E', 
+  struct_asym_id: 'A', 
   start_residue_number:101, 
   end_residue_number:101, 
   color:{r:255,g:11,b:12}
 }
-
               ]
             viewerInstance1.visual.select({ data: selectSections1, nonSelectedColor: {r:255,g:255,b:255}})" style="float:right;height:25px;width: 120px;">Color Selection</button><br><br>
           <button button style="float: left;height:25px;width: 120px;" onclick="viewerInstance1.visual.clearSelection()">Clear Selection</button><br><br>
@@ -313,7 +312,7 @@ permalink: /docs/SAM/
 > Ligand recognition
             
 <font size=4>
-<p>Chemical structures of various compounds used to probe the binding characteristics of the SAM-VI riboswitch <sup>[5]</sup>.<br /><br /></p>
+<p>Chemical structures of various compounds used to probe the binding characteristics of the SAM-VI riboswitch<sup>[5]</sup>.<br /><br /></p>
 </font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;">
 <tr>
@@ -347,7 +346,7 @@ Weickhmann, A. K., Keller, H., Wurm, J. P., Strebitzer, E., Juen, M. A., Kremser
 Huang, L., Liao, T. W., Wang, J., Ha, T., & Lilley, D. M. J.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/32520325/" target="_blank">Nucleic Acids Res. 48, 7545–7556 (2020)</a><br /><br /></p>
                 
-<p><strong>[6] Magnesium ions mediate ligand binding and conformational transition of the SAM/SAH riboswitch.</strong><br />
+<p><strong>[6]Magnesium ions mediate ligand binding and conformational transition of the SAM/SAH riboswitch.</strong><br />
 Hu, G., & Zhou, H. X.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/36945415/" target="_blank">bioRxiv : the preprint server for biology, 2023.03.12.532287(2023)</a><br /><br /></p>
                 

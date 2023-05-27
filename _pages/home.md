@@ -3,7 +3,7 @@ title: "Guangzhou RNA club - Home"
 layout: homelay
 excerpt: "Guangzhou RNA club at Bioland"
 sitemap: false
-permalink: /
+permalink: /wrong
 ---
 
 <html lang="en">

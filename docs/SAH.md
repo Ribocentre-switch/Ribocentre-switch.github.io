@@ -274,7 +274,7 @@ permalink: /docs/SAH/
   color:{r:255,g:135,b:10}
 }, 
 {
-  struct_asym_id: 'D', 
+  struct_asym_id: 'A', 
   start_residue_number:55, 
   end_residue_number:55, 
   color:{r:255,g:11,b:12}

@@ -5,7 +5,7 @@ date:   2023-03-19 00:00:00
 author: Xiaowei Lin, Yuanyin Huang
 permalink: /docs/HMP-PP/
 ---
-**Rfam ID: [——](https://rfam.xfam.org/family/——)(——)** <br>
+**Rfam ID: [nan](https://rfam.xfam.org/family/nan)(nan)** <br>
 
 <html lang="zh-cn">
 <head>

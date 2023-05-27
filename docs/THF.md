@@ -5,10 +5,8 @@ date:   2023-04-05 00:00:00
 author: Xiaowei Lin, Yuanyin Huang
 permalink: /docs/THF/
 ---
-**Rfam ID: [RF01831
-](https://rfam.xfam.org/family/RF01831
-)(THF riboswitch)** <br>
-&emsp;&emsp;&emsp;&emsp;**[RF02977](https://rfam.xfam.org/family/RF02977)(folE RNA)** <br>
+**Rfam ID: [RF01831](https://rfam.xfam.org/family/RF01831)(THF riboswitch)** <br>
+&emsp;&emsp;&emsp;&emsp;**[RF02977](https://rfam.xfam.org/family/RF02977)(<i>folE</i> RNA)** <br>
 
 <html lang="zh-cn">
 <head>
@@ -220,7 +218,7 @@ The <i>folE</i> RNA motif, now known as the THF-II riboswitch, is a conserved RN
 </td>
 </tr></table><br>
                 
-<font size=4>Left: Consensus sequence and secondary structure model for the THF-II riboswitch. Right: Secondary structure depictions of the THF-II riboswitch according to PDB ID: 7WI9. Residues are numbered according to THF-II-loti<sub>62</sub> WT RNA<sup></sup>.</font><br>
+<font size=4>Left: Consensus sequence and secondary structure model for the THF-II riboswitch. Right: Secondary structure depictions of the THF-II riboswitch according to PDB ID: 7WI9. Residues are numbered according to THF-II-loti<sub>62</sub> WT RNA. The ribosome binding site (RBS) is boxed in red<sup></sup>.</font><br>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
 <head>
@@ -303,7 +301,7 @@ The <i>folE</i> RNA motif, now known as the THF-II riboswitch, is a conserved RN
                 
 > 3D visualisation
             
-<font size=4>The overall structure of the THF-I riboswitch was generated from PDB ID: 4LVV at 2.10 Å resolution bound with 6S-folinic acid. 6S-folinic acid (shown in sticks) is colored in red <sup>[4]</sup>.</font>
+<font size=4>The overall structure of the THF-I riboswitch was generated from PDB ID: 4LVV at 2.10 Å resolution bound with 6<i>S</i>-folinic acid. 6<i>S</i>-folinic acid (shown in sticks) is colored in red <sup>[4]</sup>.</font>
   <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
   <img src="/images/3D/THF_riboswitch_3D1.svg" alt="drawing" style="width:400px;height:400px;margin-top: 0px;margin-bottom: 0px;" >
@@ -596,7 +594,7 @@ The <i>folE</i> RNA motif, now known as the THF-II riboswitch, is a conserved RN
 > Binding pocket
                 
 <font size=4><p>Left: Surface representation of th
-e binding pocket of the THF-I riboswitch generated from PDB ID: 4LVV. 6S-folinic acid (<i>6S</i>-FA) (shown in sticks) is labeled in red. Right: The hydrogen bonds of two binding sites of the THF-I riboswitch bound with <i>6S</i>-FA<sup>[4]</sup>.<br /></p></font>
+e binding pocket of the THF-I riboswitch generated from PDB ID: 4LVV. 6<i>S</i>-folinic acid (6<i>S</i>-FA) (shown in sticks) is labeled in red. Right: The hydrogen bonds of two binding sites of the THF-I riboswitch bound with 6<i>S</i>-FA<sup>[4]</sup>.<br /></p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/THF_riboswitch_binding_pockets1.svg" alt="drawing" style="width:400px"  px="" /></td>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/THF_riboswitch_binding_pockets2.svg" alt="drawing" style="width:400px"  px="" /></td>
