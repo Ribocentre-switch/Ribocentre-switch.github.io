@@ -1,13 +1,6 @@
----
-title: "Riboswitch - Riboswitch"
-layout: riboswitch
-excerpt: "Riboswitch - Riboswitch"
-sitemap: false
-permalink: /riboswitches/
----
-<html lang="en">
+I"�p<html lang="en">
   <head>
-    <meta charset="utf-8">
+    <meta charset="utf-8" />
     <title>Sort table example</title>
     <style>
 		  table {
@@ -42,9 +35,10 @@ permalink: /riboswitches/
 	  </style>
   </head>
   <body>
+  <br /><br />
 <p class="header_box">Riboswitch</p>
-<strong>content</strong><br><br>
-> List of riboswitch
+<strong>content</strong><br /><br />
+&gt; List of riboswitch
 content    
         
         <table id="table_id" class="table table-striped table-bordered" cellspacing="0" width="100%">
@@ -57,7 +51,7 @@ content
                 <th id="th5" onclick="SortTable(this)" class="as">Rfam-ID<span class="arrow asc"></span></th>
             </tr>
             <tr>
-                <td colspan="6"><font size=4> Cofactors</font></td>
+                <td colspan="6"><font size="4"> Cofactors</font></td>
             </tr>
         
             <tr>
@@ -65,7 +59,7 @@ content
                     <td name="td1">Adenosylcobalanin</td>
                     <td name="td2"></td>
                     <td name="td3"><a href="" target="_blank"><b></b> </a></td>
-                    <td name="td4"><br></td>
+                    <td name="td4"><br /></td>
                     <td name="td5"></td>
                 </tr>
             
@@ -75,7 +69,7 @@ content
                     <td name="td1">Aquacobalabmin</td>
                     <td name="td2"></td>
                     <td name="td3"><a href="" target="_blank"><b></b> </a></td>
-                    <td name="td4"><br></td>
+                    <td name="td4"><br /></td>
                     <td name="td5"></td>
                 </tr>
             
@@ -85,27 +79,27 @@ content
                     <td name="td1">Flain mononucleotide</td>
                     <td name="td2"></td>
                     <td name="td3"><a href="" target="_blank"><b></b> </a></td>
-                    <td name="td4"><br></td>
+                    <td name="td4"><br /></td>
                     <td name="td5"></td>
                 </tr>
             
             
             <tr>
-                    <td name="td0"><a href="https://ribocentre-switch.github.io/docs/MoCo&Wco" target="_blank"><b>MoCo</b></a></td>
+                    <td name="td0"><a href="https://ribocentre-switch.github.io/docs/MoCo&amp;Wco" target="_blank"><b>MoCo</b></a></td>
                     <td name="td1">Molybdenum cofactor</td>
                     <td name="td2"></td>
                     <td name="td3"><a href="" target="_blank"><b></b> </a></td>
-                    <td name="td4"><br></td>
+                    <td name="td4"><br /></td>
                     <td name="td5"></td>
                 </tr>
             
             
             <tr>
-                    <td name="td0"><a href="https://ribocentre-switch.github.io/docs/MoCo&Wco" target="_blank"><b>Wco</b></a></td>
+                    <td name="td0"><a href="https://ribocentre-switch.github.io/docs/MoCo&amp;Wco" target="_blank"><b>Wco</b></a></td>
                     <td name="td1">Tungsten cofactor</td>
                     <td name="td2"></td>
                     <td name="td3"><a href="" target="_blank"><b></b> </a></td>
-                    <td name="td4"><br></td>
+                    <td name="td4"><br /></td>
                     <td name="td5"></td>
                 </tr>
             
@@ -115,7 +109,7 @@ content
                     <td name="td1">Tetrahydrofolate</td>
                     <td name="td2"></td>
                     <td name="td3"><a href="" target="_blank"><b></b> </a></td>
-                    <td name="td4"><br></td>
+                    <td name="td4"><br /></td>
                     <td name="td5"></td>
                 </tr>
             
@@ -125,7 +119,7 @@ content
                     <td name="td1">Tetrahydrofolate</td>
                     <td name="td2"></td>
                     <td name="td3"><a href="" target="_blank"><b></b> </a></td>
-                    <td name="td4"><br></td>
+                    <td name="td4"><br /></td>
                     <td name="td5"></td>
                 </tr>
             
@@ -135,7 +129,7 @@ content
                     <td name="td1">Thiamin pyrophosphate</td>
                     <td name="td2"></td>
                     <td name="td3"><a href="" target="_blank"><b></b> </a></td>
-                    <td name="td4"><br></td>
+                    <td name="td4"><br /></td>
                     <td name="td5"></td>
                 </tr>
             
@@ -145,7 +139,7 @@ content
                     <td name="td1">hydroxymethyl-pyrimidine pyrophosphate</td>
                     <td name="td2"></td>
                     <td name="td3"><a href="" target="_blank"><b></b> </a></td>
-                    <td name="td4"><br></td>
+                    <td name="td4"><br /></td>
                     <td name="td5"></td>
                 </tr>
             
@@ -155,7 +149,7 @@ content
                     <td name="td1">S-Adenosyhomocysteine</td>
                     <td name="td2"></td>
                     <td name="td3"><a href="" target="_blank"><b></b> </a></td>
-                    <td name="td4"><br></td>
+                    <td name="td4"><br /></td>
                     <td name="td5"></td>
                 </tr>
             
@@ -165,7 +159,7 @@ content
                     <td name="td1">S-Adenosyhomocysteine</td>
                     <td name="td2"></td>
                     <td name="td3"><a href="" target="_blank"><b></b> </a></td>
-                    <td name="td4"><br></td>
+                    <td name="td4"><br /></td>
                     <td name="td5"></td>
                 </tr>
             
@@ -175,7 +169,7 @@ content
                     <td name="td1">S-Adenosyhomocysteine</td>
                     <td name="td2"></td>
                     <td name="td3"><a href="" target="_blank"><b></b> </a></td>
-                    <td name="td4"><br></td>
+                    <td name="td4"><br /></td>
                     <td name="td5"></td>
                 </tr>
             
@@ -185,7 +179,7 @@ content
                     <td name="td1">S-Adenosyhomocysteine</td>
                     <td name="td2"></td>
                     <td name="td3"><a href="" target="_blank"><b></b> </a></td>
-                    <td name="td4"><br></td>
+                    <td name="td4"><br /></td>
                     <td name="td5"></td>
                 </tr>
             
@@ -195,7 +189,7 @@ content
                     <td name="td1">S-Adenosyhomocysteine</td>
                     <td name="td2"></td>
                     <td name="td3"><a href="" target="_blank"><b></b> </a></td>
-                    <td name="td4"><br></td>
+                    <td name="td4"><br /></td>
                     <td name="td5"></td>
                 </tr>
             
@@ -205,7 +199,7 @@ content
                     <td name="td1">S-Adenosyhomocysteine</td>
                     <td name="td2"></td>
                     <td name="td3"><a href="" target="_blank"><b></b> </a></td>
-                    <td name="td4"><br></td>
+                    <td name="td4"><br /></td>
                     <td name="td5"></td>
                 </tr>
             
@@ -215,7 +209,7 @@ content
                     <td name="td1">Nicotinamide adenine dinucleotide</td>
                     <td name="td2"></td>
                     <td name="td3"><a href="" target="_blank"><b></b> </a></td>
-                    <td name="td4"><br></td>
+                    <td name="td4"><br /></td>
                     <td name="td5"></td>
                 </tr>
             
@@ -225,13 +219,13 @@ content
                     <td name="td1">Nicotinamide adenine dinucleotide</td>
                     <td name="td2"></td>
                     <td name="td3"><a href="" target="_blank"><b></b> </a></td>
-                    <td name="td4"><br></td>
+                    <td name="td4"><br /></td>
                     <td name="td5"></td>
                 </tr>
             
             
             <tr>
-                <td colspan="6"><font size=4> RNA derivatives</font></td>
+                <td colspan="6"><font size="4"> RNA derivatives</font></td>
             </tr>
         
             <tr>
@@ -239,7 +233,7 @@ content
                     <td name="td1">Xanthine</td>
                     <td name="td2"></td>
                     <td name="td3"><a href="" target="_blank"><b></b> </a></td>
-                    <td name="td4"><br></td>
+                    <td name="td4"><br /></td>
                     <td name="td5"></td>
                 </tr>
 
@@ -249,7 +243,7 @@ content
                     <td name="td1">Xanthine</td>
                     <td name="td2"></td>
                     <td name="td3"><a href="" target="_blank"><b></b> </a></td>
-                    <td name="td4"><br></td>
+                    <td name="td4"><br /></td>
                     <td name="td5"></td>
                 </tr>
 
@@ -259,7 +253,7 @@ content
                     <td name="td1">2’-Deoxyguanosine</td>
                     <td name="td2"></td>
                     <td name="td3"><a href="" target="_blank"><b></b> </a></td>
-                    <td name="td4"><br></td>
+                    <td name="td4"><br /></td>
                     <td name="td5"></td>
                 </tr>
 
@@ -269,7 +263,7 @@ content
                     <td name="td1">2’-Deoxyguanosine</td>
                     <td name="td2"></td>
                     <td name="td3"><a href="" target="_blank"><b></b> </a></td>
-                    <td name="td4"><br></td>
+                    <td name="td4"><br /></td>
                     <td name="td5"></td>
                 </tr>
 
@@ -279,7 +273,7 @@ content
                     <td name="td1">2’-Deoxyguanosine</td>
                     <td name="td2"></td>
                     <td name="td3"><a href="" target="_blank"><b></b> </a></td>
-                    <td name="td4"><br></td>
+                    <td name="td4"><br /></td>
                     <td name="td5"></td>
                 </tr>
 
@@ -289,7 +283,7 @@ content
                     <td name="td1">Prequeusine-1</td>
                     <td name="td2"></td>
                     <td name="td3"><a href="" target="_blank"><b></b> </a></td>
-                    <td name="td4"><br></td>
+                    <td name="td4"><br /></td>
                     <td name="td5"></td>
                 </tr>
 
@@ -299,7 +293,7 @@ content
                     <td name="td1">Prequeusine-1</td>
                     <td name="td2"></td>
                     <td name="td3"><a href="" target="_blank"><b></b> </a></td>
-                    <td name="td4"><br></td>
+                    <td name="td4"><br /></td>
                     <td name="td5"></td>
                 </tr>
 
@@ -309,13 +303,13 @@ content
                     <td name="td1">Prequeusine-1</td>
                     <td name="td2"></td>
                     <td name="td3"><a href="" target="_blank"><b></b> </a></td>
-                    <td name="td4"><br></td>
+                    <td name="td4"><br /></td>
                     <td name="td5"></td>
                 </tr>
 
             
             <tr>
-                <td colspan="6"><font size=4> RNA precursors</font></td>
+                <td colspan="6"><font size="4"> RNA precursors</font></td>
             </tr>
         
             <tr>
@@ -323,7 +317,7 @@ content
                     <td name="td1">Adenine</td>
                     <td name="td2"></td>
                     <td name="td3"><a href="" target="_blank"><b></b> </a></td>
-                    <td name="td4"><br></td>
+                    <td name="td4"><br /></td>
                     <td name="td5"></td>
                 </tr>
 
@@ -333,7 +327,7 @@ content
                     <td name="td1">Guanine</td>
                     <td name="td2"></td>
                     <td name="td3"><a href="" target="_blank"><b></b> </a></td>
-                    <td name="td4"><br></td>
+                    <td name="td4"><br /></td>
                     <td name="td5"></td>
                 </tr>
 
@@ -343,7 +337,7 @@ content
                     <td name="td1">Guanine</td>
                     <td name="td2"></td>
                     <td name="td3"><a href="" target="_blank"><b></b> </a></td>
-                    <td name="td4"><br></td>
+                    <td name="td4"><br /></td>
                     <td name="td5"></td>
                 </tr>
 
@@ -353,7 +347,7 @@ content
                     <td name="td1">Phosphoribosyl Pyrophosphate</td>
                     <td name="td2"></td>
                     <td name="td3"><a href="" target="_blank"><b></b> </a></td>
-                    <td name="td4"><br></td>
+                    <td name="td4"><br /></td>
                     <td name="td5"></td>
                 </tr>
 
@@ -363,7 +357,7 @@ content
                     <td name="td1">5-phospho-Dribosylamine</td>
                     <td name="td2"></td>
                     <td name="td3"><a href="" target="_blank"><b></b> </a></td>
-                    <td name="td4"><br></td>
+                    <td name="td4"><br /></td>
                     <td name="td5"></td>
                 </tr>
 
@@ -373,13 +367,13 @@ content
                     <td name="td1">adenosine diphosphate</td>
                     <td name="td2"></td>
                     <td name="td3"><a href="" target="_blank"><b></b> </a></td>
-                    <td name="td4"><br></td>
+                    <td name="td4"><br /></td>
                     <td name="td5"></td>
                 </tr>
 
             
             <tr>
-                <td colspan="6"><font size=4> Signaling molecules</font></td>
+                <td colspan="6"><font size="4"> Signaling molecules</font></td>
             </tr>
         
             <tr>
@@ -387,7 +381,7 @@ content
                     <td name="td1">Cyclic AMP-GMP</td>
                     <td name="td2"></td>
                     <td name="td3"><a href="" target="_blank"><b></b> </a></td>
-                    <td name="td4"><br></td>
+                    <td name="td4"><br /></td>
                     <td name="td5"></td>
                 </tr>
 
@@ -397,7 +391,7 @@ content
                     <td name="td1">guanosine tetraphosphate</td>
                     <td name="td2"></td>
                     <td name="td3"><a href="" target="_blank"><b></b> </a></td>
-                    <td name="td4"><br></td>
+                    <td name="td4"><br /></td>
                     <td name="td5"></td>
                 </tr>
 
@@ -407,7 +401,7 @@ content
                     <td name="td1">Cyclic di-GMP</td>
                     <td name="td2"></td>
                     <td name="td3"><a href="" target="_blank"><b></b> </a></td>
-                    <td name="td4"><br></td>
+                    <td name="td4"><br /></td>
                     <td name="td5"></td>
                 </tr>
 
@@ -417,7 +411,7 @@ content
                     <td name="td1">Cyclic di-GMP</td>
                     <td name="td2"></td>
                     <td name="td3"><a href="" target="_blank"><b></b> </a></td>
-                    <td name="td4"><br></td>
+                    <td name="td4"><br /></td>
                     <td name="td5"></td>
                 </tr>
 
@@ -427,7 +421,7 @@ content
                     <td name="td1">Cyclic di-AMP</td>
                     <td name="td2"></td>
                     <td name="td3"><a href="" target="_blank"><b></b> </a></td>
-                    <td name="td4"><br></td>
+                    <td name="td4"><br /></td>
                     <td name="td5"></td>
                 </tr>
 
@@ -437,13 +431,13 @@ content
                     <td name="td1">ZTP</td>
                     <td name="td2"></td>
                     <td name="td3"><a href="" target="_blank"><b></b> </a></td>
-                    <td name="td4"><br></td>
+                    <td name="td4"><br /></td>
                     <td name="td5"></td>
                 </tr>
 
             
             <tr>
-                <td colspan="6"><font size=4> Elemental ions</font></td>
+                <td colspan="6"><font size="4"> Elemental ions</font></td>
             </tr>
         
             <tr>
@@ -451,7 +445,7 @@ content
                     <td name="td1">F-</td>
                     <td name="td2"></td>
                     <td name="td3"><a href="" target="_blank"><b></b> </a></td>
-                    <td name="td4"><br></td>
+                    <td name="td4"><br /></td>
                     <td name="td5"></td>
                 </tr>
 
@@ -461,7 +455,7 @@ content
                     <td name="td1">Mg2＋</td>
                     <td name="td2"></td>
                     <td name="td3"><a href="" target="_blank"><b></b> </a></td>
-                    <td name="td4"><br></td>
+                    <td name="td4"><br /></td>
                     <td name="td5"></td>
                 </tr>
 
@@ -471,7 +465,7 @@ content
                     <td name="td1">Mg2＋</td>
                     <td name="td2"></td>
                     <td name="td3"><a href="" target="_blank"><b></b> </a></td>
-                    <td name="td4"><br></td>
+                    <td name="td4"><br /></td>
                     <td name="td5"></td>
                 </tr>
 
@@ -481,7 +475,7 @@ content
                     <td name="td1">Mn2＋</td>
                     <td name="td2"></td>
                     <td name="td3"><a href="" target="_blank"><b></b> </a></td>
-                    <td name="td4"><br></td>
+                    <td name="td4"><br /></td>
                     <td name="td5"></td>
                 </tr>
 
@@ -491,7 +485,7 @@ content
                     <td name="td1">Ni2+ and Co2+</td>
                     <td name="td2"></td>
                     <td name="td3"><a href="" target="_blank"><b></b> </a></td>
-                    <td name="td4"><br></td>
+                    <td name="td4"><br /></td>
                     <td name="td5"></td>
                 </tr>
 
@@ -501,7 +495,7 @@ content
                     <td name="td1">Na+</td>
                     <td name="td2"></td>
                     <td name="td3"><a href="" target="_blank"><b></b> </a></td>
-                    <td name="td4"><br></td>
+                    <td name="td4"><br /></td>
                     <td name="td5"></td>
                 </tr>
 
@@ -511,7 +505,7 @@ content
                     <td name="td1">Na+</td>
                     <td name="td2"></td>
                     <td name="td3"><a href="" target="_blank"><b></b> </a></td>
-                    <td name="td4"><br></td>
+                    <td name="td4"><br /></td>
                     <td name="td5"></td>
                 </tr>
 
@@ -521,7 +515,7 @@ content
                     <td name="td1">Li+</td>
                     <td name="td2"></td>
                     <td name="td3"><a href="" target="_blank"><b></b> </a></td>
-                    <td name="td4"><br></td>
+                    <td name="td4"><br /></td>
                     <td name="td5"></td>
                 </tr>
 
@@ -531,13 +525,13 @@ content
                     <td name="td1">Li+</td>
                     <td name="td2"></td>
                     <td name="td3"><a href="" target="_blank"><b></b> </a></td>
-                    <td name="td4"><br></td>
+                    <td name="td4"><br /></td>
                     <td name="td5"></td>
                 </tr>
 
             
             <tr>
-                <td colspan="6"><font size=4> Amino acids</font></td>
+                <td colspan="6"><font size="4"> Amino acids</font></td>
             </tr>
         
             <tr>
@@ -545,7 +539,7 @@ content
                     <td name="td1">Glycine</td>
                     <td name="td2"></td>
                     <td name="td3"><a href="" target="_blank"><b></b> </a></td>
-                    <td name="td4"><br></td>
+                    <td name="td4"><br /></td>
                     <td name="td5"></td>
                 </tr>
 
@@ -555,7 +549,7 @@ content
                     <td name="td1">Lysine</td>
                     <td name="td2"></td>
                     <td name="td3"><a href="" target="_blank"><b></b> </a></td>
-                    <td name="td4"><br></td>
+                    <td name="td4"><br /></td>
                     <td name="td5"></td>
                 </tr>
 
@@ -565,7 +559,7 @@ content
                     <td name="td1">Glutamine</td>
                     <td name="td2"></td>
                     <td name="td3"><a href="" target="_blank"><b></b> </a></td>
-                    <td name="td4"><br></td>
+                    <td name="td4"><br /></td>
                     <td name="td5"></td>
                 </tr>
 
@@ -575,13 +569,13 @@ content
                     <td name="td1">Glutamine</td>
                     <td name="td2"></td>
                     <td name="td3"><a href="" target="_blank"><b></b> </a></td>
-                    <td name="td4"><br></td>
+                    <td name="td4"><br /></td>
                     <td name="td5"></td>
                 </tr>
 
             
             <tr>
-                <td colspan="6"><font size=4> Sugars</font></td>
+                <td colspan="6"><font size="4"> Sugars</font></td>
             </tr>
         
             <tr>
@@ -589,13 +583,13 @@ content
                     <td name="td1">Glucosamine-6-phosphate</td>
                     <td name="td2"></td>
                     <td name="td3"><a href="" target="_blank"><b></b> </a></td>
-                    <td name="td4"><br></td>
+                    <td name="td4"><br /></td>
                     <td name="td5"></td>
                 </tr>
 
             
             <tr>
-                <td colspan="6"><font size=4> Others</font></td>
+                <td colspan="6"><font size="4"> Others</font></td>
             </tr>
         
             <tr>
@@ -603,7 +597,7 @@ content
                     <td name="td1">Azaaromatic</td>
                     <td name="td2"></td>
                     <td name="td3"><a href="" target="_blank"><b></b> </a></td>
-                    <td name="td4"><br></td>
+                    <td name="td4"><br /></td>
                     <td name="td5"></td>
                 </tr>
 
@@ -613,7 +607,7 @@ content
                     <td name="td1">Guanidine</td>
                     <td name="td2"></td>
                     <td name="td3"><a href="" target="_blank"><b></b> </a></td>
-                    <td name="td4"><br></td>
+                    <td name="td4"><br /></td>
                     <td name="td5"></td>
                 </tr>
 
@@ -623,7 +617,7 @@ content
                     <td name="td1">Guanidine</td>
                     <td name="td2"></td>
                     <td name="td3"><a href="" target="_blank"><b></b> </a></td>
-                    <td name="td4"><br></td>
+                    <td name="td4"><br /></td>
                     <td name="td5"></td>
                 </tr>
 
@@ -633,7 +627,7 @@ content
                     <td name="td1">Guanidine</td>
                     <td name="td2"></td>
                     <td name="td3"><a href="" target="_blank"><b></b> </a></td>
-                    <td name="td4"><br></td>
+                    <td name="td4"><br /></td>
                     <td name="td5"></td>
                 </tr>
 
@@ -643,13 +637,13 @@ content
                     <td name="td1">Guanidine</td>
                     <td name="td2"></td>
                     <td name="td3"><a href="" target="_blank"><b></b> </a></td>
-                    <td name="td4"><br></td>
+                    <td name="td4"><br /></td>
                     <td name="td5"></td>
                 </tr>
 
             
                 <tr>
-                    <td colspan="6"><font size=4> T-box</font></td>
+                    <td colspan="6"><font size="4"> T-box</font></td>
                 </tr>
             
                 <tr>
@@ -657,8 +651,10 @@ content
                         <td name="td1">tRNA</td>
                         <td name="td2"></td>
                         <td name="td3"><a href="" target="_blank"><b></b> </a></td>
-                        <td name="td4"><br></td>
+                        <td name="td4"><br /></td>
                         <td name="td5"></td>
                     </tr>
     
                 
+</table></body></html>
+:ET

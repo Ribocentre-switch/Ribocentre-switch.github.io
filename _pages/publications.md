@@ -3,7 +3,7 @@ title: "Miao Lab - Publications"
 layout: gridlay
 excerpt: "Miao Lab -- Publications."
 sitemap: false
-permalink: /publications/
+permalink: /publicati/
 ---
 
 
