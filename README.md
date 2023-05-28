@@ -1,10 +1,10 @@
-# RNA club Website
+# Ribocentre-switch database
 
-This is the website of Guangzhou RNA club.
+This is the website of Ribocentre-switch database.
 
-We are a group of scientists who are interested in RNA. We promote new research from within the South China area and beyond, for the advancement of RNA science and training. Guangzhou RNA club (Seminars & Symposiums), aim to associate the RNA research society in South China with the global RNA SOCIETY.
+Continuously updated.
 
-Please click the link to find more: https://rnaclub.github.io/ or rnaclub.rnacentre.org .
+Please click the link to find more: https://ribocentre-switch.github.io/.
 
 
 Code released under the MIT License.
