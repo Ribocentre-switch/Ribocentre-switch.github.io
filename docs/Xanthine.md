@@ -6,7 +6,7 @@ author: Mengxiao Li, Xuemei Peng
 permalink: /docs/Xanthine/
 ---
 **Rfam ID: [RF03054](https://rfam.xfam.org/family/RF03054)(Xanthine riboswitch)** <br>
-&emsp;&emsp;&emsp;&emsp;**[—](https://rfam.xfam.org/family/—)(—)** <br>
+&emsp;&emsp;&emsp;&emsp;**[nan](https://rfam.xfam.org/family/nan)(nan)** <br>
 
 <html lang="zh-cn">
 <head>
@@ -33,7 +33,7 @@ permalink: /docs/Xanthine/
           
     <li class="day">
      <div class="events">
-       <p style="width: 380px;">Discovery of NMT1 motif</p>
+       <p >Discovery of NMT1 motif</p>
        <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/28977401/" target="_blank">2017</a><sup>[1]</sup></div>
      </div>
     </li>
@@ -41,7 +41,7 @@ permalink: /docs/Xanthine/
 
     <li class="day">
      <div class="events">
-       <p style="padding-left: 30px;">Demonstration that NMT1 motif is xanthine-I riboswitch</p>
+       <p >Demonstration that NMT1 motif is xanthine-I riboswitch</p>
        <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/32345632/" target="_blank">2020</a><sup>[2]</sup></div>
      </div>
     </li>
@@ -49,7 +49,7 @@ permalink: /docs/Xanthine/
 
     <li class="day">
      <div class="events">
-       <p style="width: 380px;">Crystal structure of xanthine-I riboswitch</p>
+       <p >Crystal structure of xanthine-I riboswitch</p>
        <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/34125892/" target="_blank">2021</a><sup>[3]</sup></div>
      </div>
     </li>
@@ -57,7 +57,7 @@ permalink: /docs/Xanthine/
 
     <li class="day">
      <div class="events">
-       <p style="padding-left: 30px;">Discovery of xanthine-II riboswitch</p>
+       <p >Discovery of xanthine-II riboswitch</p>
        <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/35622895/" target="_blank">2022</a><sup>[4]</sup></div>
      </div>
     </li>
@@ -95,7 +95,7 @@ permalink: /docs/Xanthine/
 <font size="4"><p>Sequence and secondary structure model of a xanthine-II riboswitch is consistent with a genetic “ON” switch wherein ligand binding would preclude formation of the terminator stem<sup>[4]</sup>.</p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
-  <img src="/images/gene_regulation/—" alt="drawing" style="width:400px;margin-top: 0px;margin-bottom: 0px;" >
+  <img src="/images/gene_regulation/—" alt="drawing" style="width:800px;margin-top: 0px;margin-bottom: 0px;" >
   </td>
 </tr>
 </table>
@@ -169,7 +169,7 @@ permalink: /docs/Xanthine/
     <div class="main-container">
         <div class="zoom-wrapper2">
             <div class="zoom-area2">
-                <img src="/images/2D/" alt="drawing" style="width:400px" />
+                <img src="/images/2D/Xanthine-I_riboswitch_2D2.svg" alt="drawing" style="width:400px" />
             </div>
         </div>
     </div>
@@ -386,13 +386,13 @@ permalink: /docs/Xanthine/
   color:{r:255,g:223,b:92}
 },
 {
-  struct_asym_id: 'C', 
+  struct_asym_id: 'A', 
   start_residue_number:101, 
   end_residue_number:101, 
   color:{ r:255,g:223,b:92}
 },
 {
-  struct_asym_id: 'D', 
+  struct_asym_id: 'A', 
   start_residue_number:102, 
   end_residue_number:102, 
   color:{r:255,g:11,b:12}

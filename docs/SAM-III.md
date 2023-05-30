@@ -32,7 +32,7 @@ permalink: /docs/SAM-III/
           
     <li class="day">
      <div class="events">
-       <p style="width: 380px;">discovered for the first time and named Smk box</p>
+       <p >discovered for the first time and named Smk box</p>
        <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/16491091/" target="_blank">2006</a><sup>1</sup></div>
      </div>
     </li>
@@ -40,7 +40,7 @@ permalink: /docs/SAM-III/
 
     <li class="day">
      <div class="events">
-       <p style="padding-left: 30px;">Translation control mechanism about SAM-III riboswitch</p>
+       <p >Translation control mechanism about SAM-III riboswitch</p>
        <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/17360376/" target="_blank">2007</a><sup>2</sup></div>
      </div>
     </li>
@@ -48,7 +48,7 @@ permalink: /docs/SAM-III/
 
     <li class="day">
      <div class="events">
-       <p style="width: 380px;">Crystal structures of the SAM-III/S(MK) riboswitch</p>
+       <p >Crystal structures of the SAM-III/S(MK) riboswitch</p>
        <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/18806797/" target="_blank">2008</a><sup>3</sup></div>
      </div>
     </li>
@@ -56,7 +56,7 @@ permalink: /docs/SAM-III/
 
     <li class="day">
      <div class="events">
-       <p style="padding-left: 30px;">Atomic level understanding of the ligand recognition mechanism of SAM-III riboswitch</p>
+       <p >Atomic level understanding of the ligand recognition mechanism of SAM-III riboswitch</p>
        <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/20614931/" target="_blank">2010</a><sup>4</sup></div>
      </div>
     </li>
@@ -64,7 +64,7 @@ permalink: /docs/SAM-III/
 
     <li class="day">
      <div class="events">
-       <p style="width: 380px;">S(MK) box is a reversible riboswitch</p>
+       <p >S(MK) box is a reversible riboswitch</p>
        <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/21143313/" target="_blank">2010</a><sup>5</sup></div>
      </div>
     </li>
@@ -72,7 +72,7 @@ permalink: /docs/SAM-III/
 
     <li class="day">
      <div class="events">
-       <p style="padding-left: 30px;">probe the ligand-induced conformational switching mechanism.</p>
+       <p >probe the ligand-induced conformational switching mechanism.</p>
        <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/21549712/" target="_blank">2011</a><sup>6</sup></div>
      </div>
     </li>
@@ -80,7 +80,7 @@ permalink: /docs/SAM-III/
 
     <li class="day">
      <div class="events">
-       <p style="width: 380px;">provides a detailed understanding of folded structures of the SAM-III riboswitch in the presence and absence of the ligand, respectively.</p>
+       <p >provides a detailed understanding of folded structures of the SAM-III riboswitch in the presence and absence of the ligand, respectively.</p>
        <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/27249101/" target="_blank">2016</a><sup>7</sup></div>
      </div>
     </li>
@@ -88,7 +88,7 @@ permalink: /docs/SAM-III/
 
     <li class="day">
      <div class="events">
-       <p style="padding-left: 30px;">Gaussian-accelerated molecular dynamics simulations were performed to decipher the identification mechanisms of SAM-III (SMK) on ligands SAM, SAH, and EEM.</p>
+       <p >Gaussian-accelerated molecular dynamics simulations were performed to decipher the identification mechanisms of SAM-III (SMK) on ligands SAM, SAH, and EEM.</p>
        <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/36440874/" target="_blank">2022</a><sup>9</sup></div>
      </div>
     </li>
@@ -126,7 +126,7 @@ permalink: /docs/SAM-III/
 <font size="4"><p>Translation mechanism of the <i>E.faecalis</i> S<sub>MK</sub> box/SAM-III riboswitch,the AUG start codon of <i>metK</i> is indicated in yellow, SD sequence (green) is accessible for translation initiation<sup>[5]</sup>.</p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
-  <img src="/images/gene_regulation/SAM-III_riboswitch_gene_regulation.svg" alt="drawing" style="width:400px;margin-top: 0px;margin-bottom: 0px;" >
+  <img src="/images/gene_regulation/SAM-III_riboswitch_gene_regulation.svg" alt="drawing" style="width:800px;margin-top: 0px;margin-bottom: 0px;" >
   </td>
 </tr>
 </table>

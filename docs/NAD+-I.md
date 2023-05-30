@@ -32,7 +32,7 @@ permalink: /docs/NAD<sup>+</sup>-I/
           
     <li class="day">
      <div class="events">
-       <p style="width: 380px;">Discovery of NAD<sup>+</sup>-I-I riboswitch</p>
+       <p >Discovery of NAD<sup>+</sup>-I-I riboswitch</p>
        <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/28977401/" target="_blank">2017</a><sup>[1]</sup></div>
      </div>
     </li>
@@ -40,7 +40,7 @@ permalink: /docs/NAD<sup>+</sup>-I/
 
     <li class="day">
      <div class="events">
-       <p style="padding-left: 30px;">Biochemical validation of NAD<sup>+</sup>-I-I riboswitch</p>
+       <p >Biochemical validation of NAD<sup>+</sup>-I-I riboswitch</p>
        <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/31467147/" target="_blank">2019</a><sup>[2]</sup></div>
      </div>
     </li>
@@ -48,7 +48,7 @@ permalink: /docs/NAD<sup>+</sup>-I/
 
     <li class="day">
      <div class="events">
-       <p style="width: 380px;">Crystal structure of the domain 1 of NAD<sup>+</sup>-I riboswitch</p>
+       <p >Crystal structure of the domain 1 of NAD<sup>+</sup>-I riboswitch</p>
        <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/32295864/" target="_blank">2020</a><sup>[3]</sup></div>
      </div>
     </li>
@@ -56,7 +56,7 @@ permalink: /docs/NAD<sup>+</sup>-I/
 
     <li class="day">
      <div class="events">
-       <p style="padding-left: 30px;">Crystal structure of the domain 1 and 2 of NAD<sup>+</sup>-I riboswitch</p>
+       <p >Crystal structure of the domain 1 and 2 of NAD<sup>+</sup>-I riboswitch</p>
        <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/33170270/" target="_blank">2020</a><sup>[4]</sup></div>
      </div>
     </li>

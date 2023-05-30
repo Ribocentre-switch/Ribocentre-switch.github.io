@@ -32,7 +32,7 @@ permalink: /docs/FMN/
           
     <li class="day">
      <div class="events">
-       <p style="width: 380px;">Discovery of the RFN element involved in bacterial riboflavin synthesis genes regulation</p>
+       <p >Discovery of the RFN element involved in bacterial riboflavin synthesis genes regulation</p>
        <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/10529804/" target="_blank">1999</a><sup>[1]</sup></div>
      </div>
     </li>
@@ -40,7 +40,7 @@ permalink: /docs/FMN/
 
     <li class="day">
      <div class="events">
-       <p style="padding-left: 30px;">The model of the RFN element to regulate riboflavin metabolism and transportation</p>
+       <p >The model of the RFN element to regulate riboflavin metabolism and transportation</p>
        <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/12136096/" target="_blank">2002</a><sup>[2]</sup></div>
      </div>
     </li>
@@ -48,7 +48,7 @@ permalink: /docs/FMN/
 
     <li class="day">
      <div class="events">
-       <p style="width: 380px;">Validation of the RFN element as the FMN riboswitch</p>
+       <p >Validation of the RFN element as the FMN riboswitch</p>
        <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/12456892/" target="_blank">2002</a><sup>[3]</sup></div>
      </div>
     </li>
@@ -56,7 +56,7 @@ permalink: /docs/FMN/
 
     <li class="day">
      <div class="events">
-       <p style="padding-left: 30px;">The FMN riboswitch is kinetically driven and functions like a "molecular fuse"</p>
+       <p >The FMN riboswitch is kinetically driven and functions like a "molecular fuse"</p>
        <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/15808508/" target="_blank">2005</a><sup>[4]</sup></div>
      </div>
     </li>
@@ -64,7 +64,7 @@ permalink: /docs/FMN/
 
     <li class="day">
      <div class="events">
-       <p style="width: 380px;">Roseoflavin a natural antibiotic directly binds to FMN riboswitch and regulates gene expression</p>
+       <p >Roseoflavin a natural antibiotic directly binds to FMN riboswitch and regulates gene expression</p>
        <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/19246992/" target="_blank">2009</a><sup>[5]</sup></div>
      </div>
     </li>
@@ -72,7 +72,7 @@ permalink: /docs/FMN/
 
     <li class="day">
      <div class="events">
-       <p style="padding-left: 30px;">Crystal structures of FMN riboswitch bound to FMN, riboflavin and  roseoflavin</p>
+       <p >Crystal structures of FMN riboswitch bound to FMN, riboflavin and  roseoflavin</p>
        <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/19169240/" target="_blank">2009</a><sup>[6]</sup></div>
      </div>
     </li>
@@ -80,7 +80,7 @@ permalink: /docs/FMN/
 
     <li class="day">
      <div class="events">
-       <p style="width: 380px;">Crystal structure of FMN riboswitch-Free state</p>
+       <p >Crystal structure of FMN riboswitch-Free state</p>
        <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/21745821/" target="_blank">2011</a><sup>[7]</sup></div>
      </div>
     </li>
@@ -88,7 +88,7 @@ permalink: /docs/FMN/
 
     <li class="day">
      <div class="events">
-       <p style="padding-left: 30px;">Discovery of 5FDQD bound to FMN riboswitch</p>
+       <p >Discovery of 5FDQD bound to FMN riboswitch</p>
        <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/26169403/" target="_blank">2015</a><sup>[8]</sup></div>
      </div>
     </li>
@@ -96,7 +96,7 @@ permalink: /docs/FMN/
 
     <li class="day">
      <div class="events">
-       <p style="width: 380px;">Discovery of ribocil by phenotypic screen and the crystal structure of which bound to FMN riboswitch</p>
+       <p >Discovery of ribocil by phenotypic screen and the crystal structure of which bound to FMN riboswitch</p>
        <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/26416753/" target="_blank">2015</a><sup>[9]</sup></div>
      </div>
     </li>
@@ -104,7 +104,7 @@ permalink: /docs/FMN/
 
     <li class="day">
      <div class="events">
-       <p style="padding-left: 30px;">Discovery of the variants of the FMN riboswitch</p>
+       <p >Discovery of the variants of the FMN riboswitch</p>
        <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/28265071/" target="_blank">2017</a><sup>[11]</sup></div>
      </div>
     </li>
@@ -112,7 +112,7 @@ permalink: /docs/FMN/
 
     <li class="day">
      <div class="events">
-       <p style="width: 380px;">Further insight to the structural basis for conformational switching of the FMN riboswitch</p>
+       <p >Further insight to the structural basis for conformational switching of the FMN riboswitch</p>
        <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/33103111/" target="_blank">2020</a><sup>[14]</sup></div>
      </div>
     </li>
@@ -150,7 +150,7 @@ permalink: /docs/FMN/
 <font size="4"><p>Model for the FMN riboswitch to regulate gene expression. Shaded regions identify the putative anti-terminator structure that is disrupted after binding of FMN and formation of the P1 structure<sup>[2-3]</sup>.</p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
-  <img src="/images/gene_regulation/FMN_riboswitch_gene_regulation.svg" alt="drawing" style="width:400px;margin-top: 0px;margin-bottom: 0px;" >
+  <img src="/images/gene_regulation/FMN_riboswitch_gene_regulation.svg" alt="drawing" style="width:800px;margin-top: 0px;margin-bottom: 0px;" >
   </td>
 </tr>
 </table>

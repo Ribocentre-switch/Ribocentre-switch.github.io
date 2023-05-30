@@ -32,7 +32,7 @@ permalink: /docs/ADP/
           
     <li class="day">
      <div class="events">
-       <p style="width: 380px;">Identification of ykkC motif that exhibit characteristics of riboswitch function</p>
+       <p >Identification of ykkC motif that exhibit characteristics of riboswitch function</p>
        <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/15096624/" target="_blank">2004</a><sup>[1]</sup></div>
      </div>
     </li>
@@ -40,7 +40,7 @@ permalink: /docs/ADP/
 
     <li class="day">
      <div class="events">
-       <p style="padding-left: 30px;">Separation of <i>ykkC</i> subtype 2</p>
+       <p >Separation of <i>ykkC</i> subtype 2</p>
        <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/27989440/" target="_blank">2017</a><sup>[2]</sup></div>
      </div>
     </li>
@@ -48,7 +48,7 @@ permalink: /docs/ADP/
 
     <li class="day">
      <div class="events">
-       <p style="width: 380px;">Further classification of <i>ykkC</i> subtype 2 as subtypes 2a through 2d.</p>
+       <p >Further classification of <i>ykkC</i> subtype 2 as subtypes 2a through 2d.</p>
        <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/29504937/" target="_blank">2018</a><sup>[3]</sup></div>
      </div>
     </li>
@@ -56,7 +56,7 @@ permalink: /docs/ADP/
 
     <li class="day">
      <div class="events">
-       <p style="padding-left: 30px;">Identification of <i>ykkC</i> 2c RNAs as the ADP riboswitchs</p>
+       <p >Identification of <i>ykkC</i> 2c RNAs as the ADP riboswitchs</p>
        <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/30081631/" target="_blank">2019</a><sup>[4]</sup></div>
      </div>
     </li>
@@ -94,7 +94,7 @@ permalink: /docs/ADP/
 <font size="4"><p>Putative mechanisms for regulation of gene expression by ADP riboswitches<sup>[2, 4]</sup>.</p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
-  <img src="/images/gene_regulation/ADP_riboswitch_gene_regulation.svg" alt="drawing" style="width:400px;margin-top: 0px;margin-bottom: 0px;" >
+  <img src="/images/gene_regulation/ADP_riboswitch_gene_regulation.svg" alt="drawing" style="width:800px;margin-top: 0px;margin-bottom: 0px;" >
   </td>
 </tr>
 </table>

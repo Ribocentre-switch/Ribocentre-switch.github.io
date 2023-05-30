@@ -32,7 +32,7 @@ permalink: /docs/SAH/
           
     <li class="day">
      <div class="events">
-       <p style="width: 380px;">Discovery of SAH riboswitch</p>
+       <p >Discovery of SAH riboswitch</p>
        <div class="date"><a href="nan" target="_blank">2008</a><sup>1</sup></div>
      </div>
     </li>
@@ -40,7 +40,7 @@ permalink: /docs/SAH/
 
     <li class="day">
      <div class="events">
-       <p style="padding-left: 30px;">compare the features of SAM and SAH riboswitches</p>
+       <p >compare the features of SAM and SAH riboswitches</p>
        <div class="date"><a href="nan" target="_blank">2008</a><sup>2</sup></div>
      </div>
     </li>
@@ -48,7 +48,7 @@ permalink: /docs/SAH/
 
     <li class="day">
      <div class="events">
-       <p style="width: 380px;">Crystal structure of SAH riboswitch</p>
+       <p >Crystal structure of SAH riboswitch</p>
        <div class="date"><a href="nan" target="_blank">2010</a><sup>3</sup></div>
      </div>
     </li>
@@ -56,7 +56,7 @@ permalink: /docs/SAH/
 
     <li class="day">
      <div class="events">
-       <p style="padding-left: 30px;">SAH riboswitch has been shown to be capable of regulating gene expression in human cells </p>
+       <p >SAH riboswitch has been shown to be capable of regulating gene expression in human cells </p>
        <div class="date"><a href="nan" target="_blank">2010</a><sup>4</sup></div>
      </div>
     </li>
@@ -94,7 +94,7 @@ permalink: /docs/SAH/
 <font size="4"><p>Model of SAH riboswitch sequential folding and translational control.<sup>[1]</sup>.</p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
-  <img src="/images/gene_regulation/SAH_riboswitch_gene_regulation.svg" alt="drawing" style="width:400px;margin-top: 0px;margin-bottom: 0px;" >
+  <img src="/images/gene_regulation/SAH_riboswitch_gene_regulation.svg" alt="drawing" style="width:800px;margin-top: 0px;margin-bottom: 0px;" >
   </td>
 </tr>
 </table>

@@ -32,7 +32,7 @@ permalink: /docs/Adenine/
           
     <li class="day">
      <div class="events">
-       <p style="width: 380px;">Discovery of the adenine riboswitch</p>
+       <p >Discovery of the adenine riboswitch</p>
        <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/14718920/" target="_blank">2004</a><sup>[3]</sup></div>
      </div>
     </li>
@@ -40,7 +40,7 @@ permalink: /docs/Adenine/
 
     <li class="day">
      <div class="events">
-       <p style="padding-left: 30px;">Crystal structures of <i>add</i> adenine riboswitch bound to adenine</p>
+       <p >Crystal structures of <i>add</i> adenine riboswitch bound to adenine</p>
        <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/15610857/" target="_blank">2004</a><sup>[4]</sup></div>
      </div>
     </li>
@@ -48,7 +48,7 @@ permalink: /docs/Adenine/
 
     <li class="day">
      <div class="events">
-       <p style="width: 380px;">Crystal structures of the U65C mutant <i>ydhL</i> adenine riboswitch in ligand-free state</p>
+       <p >Crystal structures of the U65C mutant <i>ydhL</i> adenine riboswitch in ligand-free state</p>
        <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/20022916/" target="_blank">2010</a><sup>[7]</sup></div>
      </div>
     </li>
@@ -56,7 +56,7 @@ permalink: /docs/Adenine/
 
     <li class="day">
      <div class="events">
-       <p style="padding-left: 30px;">Four structures of the <i>add</i> adenine riboswitch during the course of a reaction were determined using femtosecond X-ray free electron laser (XFEL) pulses</p>
+       <p >Four structures of the <i>add</i> adenine riboswitch during the course of a reaction were determined using femtosecond X-ray free electron laser (XFEL) pulses</p>
        <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/27841871/" target="_blank">2017</a><sup>[8]</sup></div>
      </div>
     </li>
@@ -73,7 +73,7 @@ permalink: /docs/Adenine/
         
 <p class="header_box">Description</p>
 ***
-<font size="4">Carrying an aptamer domain similar in sequence and secondary structure to the guanine riboswitch, the adenine riboswitch selectively recognizes adenine, and contains a uracil ribonucleotide in position 74 of the adenine-binding aptamer domain. <i>B. subtilis ydhL</i> (also called <i>pbuE</i>) and two RNAs (<i>add</i> gene) from <i>Clostridium perfringens</i> and <i>Vibrio vulnificus</i> harbor adenine riboswitches in their mRNA elements. The <i>ydhL</i> adenine riboswitch has been shown to control gene expression through transcriptional activation, while the add adenine riboswitch controls gene expression through translational activation<sup>[3-4]</sup>.</font>
+<font size="4">Carrying an aptamer domain similar in sequence and secondary structure to the guanine riboswitch, the adenine riboswitch selectively recognizes adenine, and contains a uracil ribonucleotide in position 74 of the adenine-binding aptamer domain. <i>B. subtilis ydhL</i> (also called <i>pbuE</i>) and two RNAs (<i>add</i> genes) from <i>Clostridium perfringens</i> and <i>Vibrio vulnificus</i> harbor adenine riboswitches in their mRNA elements. The <i>ydhL</i> adenine riboswitch has been shown to control gene expression through transcriptional activation, while the add adenine riboswitch controls gene expression through translational activation<sup>[3-4]</sup>.</font>
 <p><br /></p>
             
 > Gene association
@@ -94,7 +94,7 @@ permalink: /docs/Adenine/
 <font size="4"><p>Mechanisms for regulation of gene expression by adenine riboswitches. The Shine-Dalgarno GAA sequence and the initiation codon are shaded in orange and blue respectively<sup>[3-4]</sup>.</p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
-  <img src="/images/gene_regulation/Adenine_riboswitch_gene_regulation1.svg" alt="drawing" style="width:400px;margin-top: 0px;margin-bottom: 0px;" >
+  <img src="/images/gene_regulation/Adenine_riboswitch_gene_regulation1.svg" alt="drawing" style="width:800px;margin-top: 0px;margin-bottom: 0px;" >
   </td>
 </tr>
 </table>
@@ -308,7 +308,7 @@ permalink: /docs/Adenine/
   start_residue_number:90, 
   end_residue_number:90, 
   color:{r:255,g:11,b:12}
-}"
+}
               ]
             viewerInstance1.visual.select({ data: selectSections1, nonSelectedColor: {r:255,g:255,b:255}})" style="float:right;height:25px;width: 120px;">Color Selection</button><br><br>
           <button button style="float: left;height:25px;width: 120px;" onclick="viewerInstance1.visual.clearSelection()">Clear Selection</button><br><br>
@@ -346,7 +346,7 @@ permalink: /docs/Adenine/
 > Ligand recognition
             
 <font size=4>
-<p>Chemical structures of adenine and its analogs. The apparent K<sub>D</sub> of each compound of the ydhL adenine riboswitch is shown on bottom<sup>[3]</sup>.<br /><br /></p>
+<p>Chemical structures of adenine and its analogs. The apparent K<sub>D</sub> of each compound of the <i>ydhL</i> adenine riboswitch is shown on bottom<sup>[3]</sup>.<br /><br /></p>
 </font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;">
 <tr>

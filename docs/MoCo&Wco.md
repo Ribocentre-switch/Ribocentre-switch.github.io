@@ -32,7 +32,7 @@ permalink: /docs/MoCo&Wco/
           
     <li class="day">
      <div class="events">
-       <p style="width: 380px;">Discovery of the MoCo and Wco riboswitch by the CMfinder comparative genomics pipeline</p>
+       <p >Discovery of the MoCo and Wco riboswitch by the CMfinder comparative genomics pipeline</p>
        <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/17621584/" target="_blank">2007</a><sup>[2]</sup></div>
      </div>
     </li>
@@ -40,8 +40,40 @@ permalink: /docs/MoCo&Wco/
 
     <li class="day">
      <div class="events">
-       <p style="padding-left: 30px;">Biochemical validation of the MoCo and Wco riboswitch</p>
+       <p >Biochemical validation of the MoCo and Wco riboswitch</p>
        <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/18363797/" target="_blank">2008</a><sup>[3]</sup></div>
+     </div>
+    </li>
+        
+
+    <li class="day">
+     <div class="events">
+       <p >Tungsten cofactor biosynthesis pathway in <i>E. coli</i></p>
+       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/18154309/" target="_blank">2008</a><sup>[4]</sup></div>
+     </div>
+    </li>
+        
+
+    <li class="day">
+     <div class="events">
+       <p >Molybdenum cofactor biosynthesis pathway in <i>E. coli</i></p>
+       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/23201473/" target="_blank">2013</a><sup>[5]</sup></div>
+     </div>
+    </li>
+        
+
+    <li class="day">
+     <div class="events">
+       <p >The MoCo riboswitch is proposed as one of promising antibacterial drug targets</p>
+       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/36139956/" target="_blank">2022</a><sup>[7]</sup></div>
+     </div>
+    </li>
+        
+
+    <li class="day">
+     <div class="events">
+       <p >The ion-dependent folding and secondary structural features of the ligand-free MoCo riboswitch</p>
+       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/36774787/" target="_blank">2023</a><sup>[8]</sup></div>
      </div>
     </li>
         
@@ -62,7 +94,7 @@ permalink: /docs/MoCo&Wco/
             
 > Gene association
         
-<font size="4">Pathway for molybdenum cofactor biosynthesis in eubacteria and tungsten cofactor in <i>P. furiosus</i>. Proteins in abbreviation are enzymes in the pathway except for ModABC. Question marks indicate that the biosynthetic enzymes for the conversion are unknown. Proteins whose coding regions are located downstream and near the MoCo and Wco riboswitch in at least one organism are highlighted in red and blue, respectively<sup>[1,3-4]</sup>.</font>
+<font size="4">Pathway for molybdenum cofactor biosynthesis in eubacteria and tungsten cofactor in <i>P. furiosus</i>. Proteins in abbreviation are enzymes in the pathway except for ModABC. Proteins whose coding regions are located downstream and near the MoCo and Wco riboswitch in at least one organism are highlighted in red and blue, respectively<sup>[1,3-4]</sup>.</font>
 <p><br /></p>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;">
 <tr >
@@ -78,7 +110,7 @@ permalink: /docs/MoCo&Wco/
 <font size="4"><p>Potential mechanism of translation regulation by the MoCo riboswitch. The ribosome binding site(RBS) is shaded red<sup>[3]</sup>.</p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
-  <img src="/images/gene_regulation/MoCo_riboswitch_gene_regulation.svg" alt="drawing" style="width:400px;margin-top: 0px;margin-bottom: 0px;" >
+  <img src="/images/gene_regulation/MoCo_riboswitch_gene_regulation.svg" alt="drawing" style="width:800px;margin-top: 0px;margin-bottom: 0px;" >
   </td>
 </tr>
 </table>
@@ -204,4 +236,20 @@ Regulski, E. E. et al<br />
 <p><strong>[4]Function of MoaB proteins in the biosynthesis of the molybdenum and tungsten cofactors.</strong><br />
 Bevers, L. E. et al<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/18154309/" target="_blank">Biochemistry 47, (2008)</a><br /><br /></p>
+                
+<p><strong>[5]Molybdenum enzymes, their maturation and molybdenum cofactor biosynthesis in Escherichia coli.</strong><br />
+Iobbi-Nivol, C. & Leimkühler, S<br />
+<a href="https://pubmed.ncbi.nlm.nih.gov/23201473/" target="_blank">Biochim. Biophys. Acta 1827, 1086–1101 (2013)</a><br /><br /></p>
+                
+<p><strong>[6]Mechanism of pyranopterin ring formation in molybdenum cofactor biosynthesis.</strong><br />
+Hover, B. M., Tonthat, N. K., Schumacher, M. A. & Yokoyama, K<br />
+<a href="https://pubmed.ncbi.nlm.nih.gov/25941396/" target="_blank">Proc. Natl. Acad. Sci. U. S. A. 112, 6347–6352 (2015)</a><br /><br /></p>
+                
+<p><strong>[7]Bioinformatics and Genomic Analyses of the Suitability of Eight Riboswitches for Antibacterial Drug Targets.</strong><br />
+Pavlova, N. & Penchovsky, R<br />
+<a href="https://pubmed.ncbi.nlm.nih.gov/36139956/" target="_blank">Antibiotics (Basel) 11, (2022)</a><br /><br /></p>
+                
+<p><strong>[8]The structural features of the ligand-free moaA riboswitch and its ion-dependent folding.</strong><br />
+Amadei, F., Reichenbach, M., Gallo, S. & Sigel, R. K. O<br />
+<a href="https://pubmed.ncbi.nlm.nih.gov/36774787/" target="_blank">J. Inorg. Biochem. 242, 112153 (2023)</a><br /><br /></p>
                 

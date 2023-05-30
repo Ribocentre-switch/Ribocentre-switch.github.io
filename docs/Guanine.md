@@ -32,7 +32,7 @@ permalink: /docs/Guanine/
           
     <li class="day">
      <div class="events">
-       <p style="width: 380px;">Discovery of <i>xpt-pbuX</i> operon</p>
+       <p >Discovery of <i>xpt-pbuX</i> operon</p>
        <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/9098051/" target="_blank">1997</a><sup>[1]</sup></div>
      </div>
     </li>
@@ -40,7 +40,7 @@ permalink: /docs/Guanine/
 
     <li class="day">
      <div class="events">
-       <p style="padding-left: 30px;">Identification of guanine-I riboswitch in the <i>xpt-pbuX</i> 5'-UTR</p>
+       <p >Identification of guanine-I riboswitch in the <i>xpt-pbuX</i> 5'-UTR</p>
        <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/12787499/" target="_blank">2003</a><sup>[2]</sup></div>
      </div>
     </li>
@@ -48,7 +48,7 @@ permalink: /docs/Guanine/
 
     <li class="day">
      <div class="events">
-       <p style="width: 380px;">Crystal structure of guanine-I riboswitch with hypoxanthine</p>
+       <p >Crystal structure of guanine-I riboswitch with hypoxanthine</p>
        <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/15549109/" target="_blank">2004</a><sup>[3]</sup></div>
      </div>
     </li>
@@ -56,7 +56,7 @@ permalink: /docs/Guanine/
 
     <li class="day">
      <div class="events">
-       <p style="padding-left: 30px;">Crystal structure of guanine-I riboswitch with guanine</p>
+       <p >Crystal structure of guanine-I riboswitch with guanine</p>
        <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/15610857/" target="_blank">2004</a><sup>[4]</sup></div>
      </div>
     </li>
@@ -64,7 +64,7 @@ permalink: /docs/Guanine/
 
     <li class="day">
      <div class="events">
-       <p style="width: 380px;">C74 is the sole determinant of guanine-I riboswitch specificity</p>
+       <p >C74 is the sole determinant of guanine-I riboswitch specificity</p>
        <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/16650860/" target="_blank">2006</a><sup>[5]</sup></div>
      </div>
     </li>
@@ -72,7 +72,7 @@ permalink: /docs/Guanine/
 
     <li class="day">
      <div class="events">
-       <p style="padding-left: 30px;">Ligand-binding capability of guanine-I riboswitch depends on Mg2+</p>
+       <p >Ligand-binding capability of guanine-I riboswitch depends on Mg2+</p>
        <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/21890900/" target="_blank">2011</a><sup>[6]</sup></div>
      </div>
     </li>
@@ -80,7 +80,7 @@ permalink: /docs/Guanine/
 
     <li class="day">
      <div class="events">
-       <p style="width: 380px;">Crystal structure of guanine-I riboswitch with an artificial nucleobase pair (Z:P pair)</p>
+       <p >Crystal structure of guanine-I riboswitch with an artificial nucleobase pair (Z:P pair)</p>
        <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/26223188/" target="_blank">2015</a><sup>[7]</sup></div>
      </div>
     </li>
@@ -88,7 +88,7 @@ permalink: /docs/Guanine/
 
     <li class="day">
      <div class="events">
-       <p style="padding-left: 30px;">Discovery of guanine-II riboswitch</p>
+       <p >Discovery of guanine-II riboswitch</p>
        <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/35622895/" target="_blank">2022</a><sup>[9]</sup></div>
      </div>
     </li>
@@ -110,7 +110,7 @@ permalink: /docs/Guanine/
             
 > Gene association
         
-<font size="4">The guanine-I riboswitch, once thought to be an operon, was originally found in the 5’-UTR of <i>xpt-pbuX</i> gene. The xpt gene and pbuX gene encode a specific xanthine phosphoribosyl-transferase and a xanthine-specific purine permease respectively, and the genes have overlapping coding regions. The guanine-I riboswitch was also identified in other <i>B. subtilis</i> genes (<i>purE</i>, <i>yxjA</i> et.al.) and also in other bacterial species. However, the nucleobase specificities for many annotated PRT enzymes downstream of guanine-II riboswitch have not been established<sup>[1-2, 9]</sup>.</font>
+<font size="4">The guanine-I riboswitch, once thought to be an operon, was originally found in the 5’-UTR of <i>xpt-pbuX</i> gene. The <i>xpt</i> gene and <i>pbuX</i> gene encode a specific xanthine phosphoribosyl-transferase and a xanthine-specific purine permease respectively, and the genes have overlapping coding regions. The guanine-I riboswitch was also identified in other <i>B. subtilis</i> genes (<i>purE</i>, <i>yxjA</i> et.al.) and also in other bacterial species. However, the nucleobase specificities for many annotated PRT enzymes downstream of guanine-II riboswitch have not been established<sup>[1-2, 9]</sup>.</font>
 <p><br /></p>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;">
 <tr >
@@ -126,7 +126,7 @@ permalink: /docs/Guanine/
 <font size="4"><p>(left) The guanine-I riboswitch has been shown to control gene expression through transcriptional termination. It forms an antiterminator in the absence of guanine, thereby allowing RNA transcription elongation to proceed to completion. The presence of guanine results in stabilization of the aptamer domain, thereby facilitating terminator formation and shutting down transcription. (right) Sequence and secondary structure model of a guanine-II riboswitch is consistent with a genetic “ON” switch wherein ligand binding would preclude formation of the terminator stem. <sup>[2, 4]</sup>.</p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
-  <img src="/images/gene_regulation/Guanine_riboswitch_gene_regulation1.svg" alt="drawing" style="width:400px;margin-top: 0px;margin-bottom: 0px;" >
+  <img src="/images/gene_regulation/Guanine_riboswitch_gene_regulation1.svg" alt="drawing" style="width:800px;margin-top: 0px;margin-bottom: 0px;" >
   </td>
 </tr>
 </table>
@@ -216,7 +216,7 @@ permalink: /docs/Guanine/
 </td>
 </tr></table><br>
                 
-<font size=4>(left) Consensus sequence and structural model for guanine-II riboswitch. (right) Sequence and secondary structure model of the guanine-II (92 PRT RNA) riboswitch<sup>[9]</sup>.</font><br>
+<font size=4>Consensus sequence and structural model for guanine-II riboswitch<sup>[9]</sup>.</font><br>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
 <head>
@@ -421,7 +421,7 @@ permalink: /docs/Guanine/
   start_residue_number:101, 
   end_residue_number:101, 
   color:{r:255,g:11,b:12}
-}"
+}
               ]
             viewerInstance1.visual.select({ data: selectSections1, nonSelectedColor: {r:255,g:255,b:255}})" style="float:right;height:25px;width: 120px;">Color Selection</button><br><br>
           <button button style="float: left;height:25px;width: 120px;" onclick="viewerInstance1.visual.clearSelection()">Clear Selection</button><br><br>

@@ -32,7 +32,7 @@ permalink: /docs/Manganese/
           
     <li class="day">
      <div class="events">
-       <p style="width: 380px;">Discovery of <i>yybP-ykoY</i> motif</p>
+       <p >Discovery of <i>yybP-ykoY</i> motif</p>
        <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/15096624/" target="_blank">2004</a><sup>[1]</sup></div>
      </div>
     </li>
@@ -40,7 +40,7 @@ permalink: /docs/Manganese/
 
     <li class="day">
      <div class="events">
-       <p style="padding-left: 30px;">Identify the <i>yybP-ykoY</i> motif as a manganese ion sensor</p>
+       <p >Identify the <i>yybP-ykoY</i> motif as a manganese ion sensor</p>
        <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/25794618/" target="_blank">2015</a><sup>[2]</sup></div>
      </div>
     </li>
@@ -48,7 +48,7 @@ permalink: /docs/Manganese/
 
     <li class="day">
      <div class="events">
-       <p style="width: 380px;">Mn(2+)-sensing mechanisms of <i>yybP-ykoY</i> orphan riboswitches</p>
+       <p >Mn(2+)-sensing mechanisms of <i>yybP-ykoY</i> orphan riboswitches</p>
        <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/25794619/" target="_blank">2015</a><sup>[3]</sup></div>
      </div>
     </li>
@@ -56,7 +56,7 @@ permalink: /docs/Manganese/
 
     <li class="day">
      <div class="events">
-       <p style="padding-left: 30px;">The S.pneumoniae <i>yybP-ykoY</i> riboswitch functions to regulate Ca<sup>2+</sup> efflux</p>
+       <p >The S.pneumoniae <i>yybP-ykoY</i> riboswitch functions to regulate Ca<sup>2+</sup> efflux</p>
        <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/31165873/" target="_blank">2019</a><sup>[4]</sup></div>
      </div>
     </li>
@@ -64,7 +64,7 @@ permalink: /docs/Manganese/
 
     <li class="day">
      <div class="events">
-       <p style="width: 380px;">The ligand-dependent (un)folding path-way of the Mn<sup>2+</sup> sensing riboswitch</p>
+       <p >The ligand-dependent (un)folding path-way of the Mn<sup>2+</sup> sensing riboswitch</p>
        <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/31541094/" target="_blank">2019</a><sup>[5]</sup></div>
      </div>
     </li>
@@ -102,7 +102,7 @@ permalink: /docs/Manganese/
 <font size="4"><p>Potential mechanism of transcriptional regulation by the <i>yybP-ykoY</i> manganese riboswitch. RNA polymerase produced predominantly terminated transcripts in the absence of Mn<sup>2+</sup>. Addition of 0.5 millimolar (mM) Mn<sup>2+</sup>, but not other metals tested (Fe<sup>2+</sup>, Co<sup>2+</sup>, Ni<sup>2+</sup>,and Ca<sup>2+</sup>), led to highly efficient anti-termination<sup>[3]</sup>.</p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
-  <img src="/images/gene_regulation/yybP-ykoY_manganese_riboswitch_gene_regulation.svg" alt="drawing" style="width:400px;margin-top: 0px;margin-bottom: 0px;" >
+  <img src="/images/gene_regulation/yybP-ykoY_manganese_riboswitch_gene_regulation.svg" alt="drawing" style="width:800px;margin-top: 0px;margin-bottom: 0px;" >
   </td>
 </tr>
 </table>

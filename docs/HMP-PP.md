@@ -32,7 +32,7 @@ permalink: /docs/HMP-PP/
           
     <li class="day">
      <div class="events">
-       <p style="width: 380px;">Discovery of HMP-PP riboswitch</p>
+       <p >Discovery of HMP-PP riboswitch</p>
        <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/30902049/" target="_blank">2019</a><sup>[2]</sup></div>
      </div>
     </li>
@@ -40,7 +40,7 @@ permalink: /docs/HMP-PP/
 
     <li class="day">
      <div class="events">
-       <p style="padding-left: 30px;">Bioinformatic and biochemical validation of the ligand for the HMP-PP riboswitch</p>
+       <p >Bioinformatic and biochemical validation of the ligand for the HMP-PP riboswitch</p>
        <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/30950790/" target="_blank">2019</a><sup>[3]</sup></div>
      </div>
     </li>
@@ -78,7 +78,7 @@ permalink: /docs/HMP-PP/
 <font size="4"><p>Potential mechanism of transcription termination regulation for the HMP-PP riboswitch. The shaded nucleotides highlight possible base-pairs of the predicted pseudoknot. Complementary sequences and alternate base-pairing are shown in blue<sup>[3]</sup>.</p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
-  <img src="/images/gene_regulation/HMP-PP_riboswitch_gene_regulation.svg" alt="drawing" style="width:400px;margin-top: 0px;margin-bottom: 0px;" >
+  <img src="/images/gene_regulation/HMP-PP_riboswitch_gene_regulation.svg" alt="drawing" style="width:800px;margin-top: 0px;margin-bottom: 0px;" >
   </td>
 </tr>
 </table>

@@ -37,7 +37,7 @@ permalink: /docs/c-di-GMP/
           
     <li class="day">
      <div class="events">
-       <p style="width: 380px;">Discovery of GEMM motif</p>
+       <p >Discovery of GEMM motif</p>
        <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/17621584/" target="_blank">2007</a><sup>[1]</sup></div>
      </div>
     </li>
@@ -45,7 +45,7 @@ permalink: /docs/c-di-GMP/
 
     <li class="day">
      <div class="events">
-       <p style="padding-left: 30px;">Discovery of c-di-GMP riboswitch</p>
+       <p >Discovery of c-di-GMP riboswitch</p>
        <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/18635805/" target="_blank">2008</a><sup>[2]</sup></div>
      </div>
     </li>
@@ -53,7 +53,7 @@ permalink: /docs/c-di-GMP/
 
     <li class="day">
      <div class="events">
-       <p style="width: 380px;">Structure of a c-di-GMP riboswitch from V. cholerae</p>
+       <p >Structure of a c-di-GMP riboswitch from V. cholerae</p>
        <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/19898477/" target="_blank">2009</a><sup>[3]</sup></div>
      </div>
     </li>
@@ -61,7 +61,7 @@ permalink: /docs/c-di-GMP/
 
     <li class="day">
      <div class="events">
-       <p style="padding-left: 30px;">Native and mutant structure of c-di-GMP riboswitch</p>
+       <p >Native and mutant structure of c-di-GMP riboswitch</p>
        <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/20690679/" target="_blank">2010</a><sup>[4]</sup></div>
      </div>
     </li>
@@ -69,7 +69,7 @@ permalink: /docs/c-di-GMP/
 
     <li class="day">
      <div class="events">
-       <p style="width: 380px;">Discovery of c-di-GMP-Ⅱ riboswitch</p>
+       <p >Discovery of c-di-GMP-Ⅱ riboswitch</p>
        <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/20705859/" target="_blank">2010</a><sup>[5]</sup></div>
      </div>
     </li>
@@ -77,7 +77,7 @@ permalink: /docs/c-di-GMP/
 
     <li class="day">
      <div class="events">
-       <p style="padding-left: 30px;">Structure of a c-di-GMP-II riboswitch from C. acetobutylicum bound to c-di-GMP</p>
+       <p >Structure of a c-di-GMP-II riboswitch from C. acetobutylicum bound to c-di-GMP</p>
        <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/21518891/" target="_blank">2011</a><sup>[6]</sup></div>
      </div>
     </li>
@@ -85,7 +85,7 @@ permalink: /docs/c-di-GMP/
 
     <li class="day">
      <div class="events">
-       <p style="width: 380px;">Structural and biochemical characterization of linear dinucleotide analogues bound to the c-di-GMP-I aptamer</p>
+       <p >Structural and biochemical characterization of linear dinucleotide analogues bound to the c-di-GMP-I aptamer</p>
        <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/22148472/" target="_blank">2012</a><sup>[7]</sup></div>
      </div>
     </li>
@@ -93,7 +93,7 @@ permalink: /docs/c-di-GMP/
 
     <li class="day">
      <div class="events">
-       <p style="padding-left: 30px;">T4P gene transcription is upregulated by c-di-GMP </p>
+       <p >T4P gene transcription is upregulated by c-di-GMP </p>
        <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/25512308/" target="_blank">2015</a><sup>[9]</sup></div>
      </div>
     </li>
@@ -101,7 +101,7 @@ permalink: /docs/c-di-GMP/
 
     <li class="day">
      <div class="events">
-       <p style="width: 380px;">Identified the secondary structures that are possibly responsible for switch-OFF and switch-ON states of translational initiation</p>
+       <p >Identified the secondary structures that are possibly responsible for switch-OFF and switch-ON states of translational initiation</p>
        <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/29693296/" target="_blank">2018</a><sup>[10]</sup></div>
      </div>
     </li>
@@ -129,7 +129,7 @@ Cyclic di-GMP-II riboswitches (also c-di-GMP-II riboswitches) form a class of ri
 <font size="4"><p>Left: c-di-GMP mediated transcriptional termination. Right: c-di-GMP-mediated self-splicing to generate a ribosomal binding site<sup>[8]</sup>.</p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
-  <img src="/images/gene_regulation/c-di-GMP-I_gene_regulation.svg" alt="drawing" style="width:400px;margin-top: 0px;margin-bottom: 0px;" >
+  <img src="/images/gene_regulation/c-di-GMP-I_gene_regulation.svg" alt="drawing" style="width:800px;margin-top: 0px;margin-bottom: 0px;" >
   </td>
 </tr>
 </table>

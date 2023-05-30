@@ -33,7 +33,7 @@ permalink: /docs/THF/
           
     <li class="day">
      <div class="events">
-       <p style="width: 380px;">Discovery of THF-I riboswitch</p>
+       <p >Discovery of THF-I riboswitch</p>
        <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/20659680/" target="_blank">2010</a><sup>[1]</sup></div>
      </div>
     </li>
@@ -41,7 +41,7 @@ permalink: /docs/THF/
 
     <li class="day">
      <div class="events">
-       <p style="padding-left: 30px;">Single binding site of THF-I riboswitch</p>
+       <p >Single binding site of THF-I riboswitch</p>
        <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/21873197/" target="_blank">2011</a><sup>[2]</sup></div>
      </div>
     </li>
@@ -49,7 +49,7 @@ permalink: /docs/THF/
 
     <li class="day">
      <div class="events">
-       <p style="width: 380px;">Two binding sites of THF-I riboswitch</p>
+       <p >Two binding sites of THF-I riboswitch</p>
        <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/21906956/" target="_blank">2011</a><sup>[3]</sup></div>
      </div>
     </li>
@@ -57,7 +57,7 @@ permalink: /docs/THF/
 
     <li class="day">
      <div class="events">
-       <p style="padding-left: 30px;">The correlation between binding affinity and regulation</p>
+       <p >The correlation between binding affinity and regulation</p>
        <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/24388757/" target="_blank">2014</a><sup>[4]</sup></div>
      </div>
     </li>
@@ -65,7 +65,7 @@ permalink: /docs/THF/
 
     <li class="day">
      <div class="events">
-       <p style="width: 380px;">Discovery of THF-II riboswitch</p>
+       <p >Discovery of THF-II riboswitch</p>
        <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/28977401/" target="_blank">2017</a><sup>[5]</sup></div>
      </div>
     </li>
@@ -73,7 +73,7 @@ permalink: /docs/THF/
 
     <li class="day">
      <div class="events">
-       <p style="padding-left: 30px;">Biochemical validation of THF-II riboswitch</p>
+       <p >Biochemical validation of THF-II riboswitch</p>
        <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/31186369/" target="_blank">2019</a><sup>[6]</sup></div>
      </div>
     </li>
@@ -81,7 +81,7 @@ permalink: /docs/THF/
 
     <li class="day">
      <div class="events">
-       <p style="width: 380px;">Molecular basis for gene regulation</p>
+       <p >Molecular basis for gene regulation</p>
        <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/33571639/" target="_blank">2021</a><sup>[7]</sup></div>
      </div>
     </li>
@@ -89,7 +89,7 @@ permalink: /docs/THF/
 
     <li class="day">
      <div class="events">
-       <p style="padding-left: 30px;">Structure of THF-II riboswitch</p>
+       <p >Structure of THF-II riboswitch</p>
        <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/36620887/" target="_blank">2023</a><sup>[8]</sup></div>
      </div>
     </li>
@@ -128,7 +128,7 @@ The <i>folE</i> RNA motif, now known as the THF-II riboswitch, is a conserved RN
 <font size="4"><p>Potential mechanism of translation regulation by the THF-I and THF-II riboswitch. The ribosome binding site (RBS) is showed on red<sup>[7-8]</sup>.</p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
-  <img src="/images/gene_regulation/THF_riboswitch_gene_regulation1.svg" alt="drawing" style="width:400px;margin-top: 0px;margin-bottom: 0px;" >
+  <img src="/images/gene_regulation/THF_riboswitch_gene_regulation1.svg" alt="drawing" style="width:800px;margin-top: 0px;margin-bottom: 0px;" >
   </td>
 </tr>
 </table>

@@ -33,7 +33,7 @@ permalink: /docs/Li<sup>+</sup>/
           
     <li class="day">
      <div class="events">
-       <p style="width: 380px;">Discovery of <i>nhaA</i>-I and <i>nhaA</i>-II motif</p>
+       <p >Discovery of <i>nhaA</i>-I and <i>nhaA</i>-II motif</p>
        <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/28977401/" target="_blank">2017</a><sup>[1]</sup></div>
      </div>
     </li>
@@ -41,7 +41,7 @@ permalink: /docs/Li<sup>+</sup>/
 
     <li class="day">
      <div class="events">
-       <p style="padding-left: 30px;">The experimental validation of two distinct classes of  Li<sup>+</sup> riboswitches</p>
+       <p >The experimental validation of two distinct classes of  Li<sup>+</sup> riboswitches</p>
        <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/36352003/" target="_blank">2022</a><sup>[2]</sup></div>
      </div>
     </li>

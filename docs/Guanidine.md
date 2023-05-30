@@ -8,7 +8,7 @@ permalink: /docs/Guanidine/
 **Rfam ID: [RF00442](https://rfam.xfam.org/family/RF00442)(Guanidine-I riboswitch)** <br>
 &emsp;&emsp;&emsp;&emsp;**[RF01068](https://rfam.xfam.org/family/RF01068)(Guanidine-II riboswitch)** <br>
 &emsp;&emsp;&emsp;&emsp;**[RF01763](https://rfam.xfam.org/family/RF01763)(Guanidine-III riboswitch)** <br>
-&emsp;&emsp;&emsp;&emsp;**[—](https://rfam.xfam.org/family/—)(—)** <br>
+&emsp;&emsp;&emsp;&emsp;**[nan](https://rfam.xfam.org/family/nan)(nan)** <br>
 
 <html lang="zh-cn">
 <head>
@@ -35,7 +35,7 @@ permalink: /docs/Guanidine/
           
     <li class="day">
      <div class="events">
-       <p style="width: 380px;">Discovery of guanidine-I riboswitch</p>
+       <p >Discovery of guanidine-I riboswitch</p>
        <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/27989440/" target="_blank">2017</a><sup>[1]</sup></div>
      </div>
     </li>
@@ -43,7 +43,7 @@ permalink: /docs/Guanidine/
 
     <li class="day">
      <div class="events">
-       <p style="padding-left: 30px;">Discovery of guanidine-II riboswitch</p>
+       <p >Discovery of guanidine-II riboswitch</p>
        <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/28001368/" target="_blank">2017</a><sup>[2]</sup></div>
      </div>
     </li>
@@ -51,7 +51,7 @@ permalink: /docs/Guanidine/
 
     <li class="day">
      <div class="events">
-       <p style="width: 380px;">Discovery of guanidine-III riboswitch</p>
+       <p >Discovery of guanidine-III riboswitch</p>
        <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/28001372/" target="_blank">2017</a><sup>[3]</sup></div>
      </div>
     </li>
@@ -59,7 +59,7 @@ permalink: /docs/Guanidine/
 
     <li class="day">
      <div class="events">
-       <p style="padding-left: 30px;">Crystal structure of guanidine-I riboswitch</p>
+       <p >Crystal structure of guanidine-I riboswitch</p>
        <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/28017522/" target="_blank">2017</a><sup>[4]</sup></div>
      </div>
     </li>
@@ -67,7 +67,7 @@ permalink: /docs/Guanidine/
 
     <li class="day">
      <div class="events">
-       <p style="width: 380px;">Crystal structure of guanidine-I riboswitch</p>
+       <p >Crystal structure of guanidine-I riboswitch</p>
        <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/28096518/" target="_blank">2017</a><sup>[5]</sup></div>
      </div>
     </li>
@@ -75,7 +75,7 @@ permalink: /docs/Guanidine/
 
     <li class="day">
      <div class="events">
-       <p style="padding-left: 30px;">Crystal structure of guanidine-II riboswitch</p>
+       <p >Crystal structure of guanidine-II riboswitch</p>
        <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/28529131/" target="_blank">2017</a><sup>[6]</sup></div>
      </div>
     </li>
@@ -83,7 +83,7 @@ permalink: /docs/Guanidine/
 
     <li class="day">
      <div class="events">
-       <p style="width: 380px;">Crystal structure of guanidine-II riboswitch</p>
+       <p >Crystal structure of guanidine-II riboswitch</p>
        <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/28600356/" target="_blank">2017</a><sup>[7]</sup></div>
      </div>
     </li>
@@ -91,7 +91,7 @@ permalink: /docs/Guanidine/
 
     <li class="day">
      <div class="events">
-       <p style="padding-left: 30px;">Crystal structure of guanidine-III riboswitch</p>
+       <p >Crystal structure of guanidine-III riboswitch</p>
        <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/28988949/" target="_blank">2017</a><sup>[8]</sup></div>
      </div>
     </li>
@@ -99,7 +99,7 @@ permalink: /docs/Guanidine/
 
     <li class="day">
      <div class="events">
-       <p style="width: 380px;">P1 and P2 hairpins of the guanidine-II riboswitch interact</p>
+       <p >P1 and P2 hairpins of the guanidine-II riboswitch interact</p>
        <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/32857846/" target="_blank">2020</a><sup>[9]</sup></div>
      </div>
     </li>
@@ -107,7 +107,7 @@ permalink: /docs/Guanidine/
 
     <li class="day">
      <div class="events">
-       <p style="padding-left: 30px;">Discovery of guanidine-IV riboswitch </p>
+       <p >Discovery of guanidine-IV riboswitch</p>
        <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/33236895/" target="_blank">2020</a><sup>[10]</sup></div>
      </div>
     </li>
@@ -115,7 +115,7 @@ permalink: /docs/Guanidine/
 
     <li class="day">
      <div class="events">
-       <p style="width: 380px;">Discovery of guanidine-IV riboswitch </p>
+       <p >Discovery of guanidine-IV riboswitch</p>
        <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/33237283/" target="_blank">2020</a><sup>[11]</sup></div>
      </div>
     </li>
@@ -123,7 +123,7 @@ permalink: /docs/Guanidine/
 
     <li class="day">
      <div class="events">
-       <p style="padding-left: 30px;">Guanidine is widely used as nitrogen source in bacteria</p>
+       <p >Guanidine is widely used as nitrogen source in bacteria</p>
        <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/33590553/" target="_blank">2021</a><sup>[12]</sup></div>
      </div>
     </li>
@@ -131,7 +131,7 @@ permalink: /docs/Guanidine/
 
     <li class="day">
      <div class="events">
-       <p style="width: 380px;">Three-state folding model of the guanidine-II riboswitch</p>
+       <p >Three-state folding model of the guanidine-II riboswitch</p>
        <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/35573739/" target="_blank">2022</a><sup>[13]</sup></div>
      </div>
     </li>
@@ -169,7 +169,7 @@ permalink: /docs/Guanidine/
 <font size="4"><p>Guanidine-I is a transcriptionally regulated riboswitch that may form a strong intrinsic terminator stem, but ligand binding results in a stable aptamer structure that prevents terminator formation.Guanidine-II differs from guanidine-I in its gene regulatory mechanism. Guanidine-II appears to act as a translational riboswitch. Guanidine stabilizes the loop–loop interaction of the ON state that competes with the OFF structure where a SDS is sequestered in base-pairs<sup>[1-2]</sup>.</p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
-  <img src="/images/gene_regulation/Guanidine-I_riboswitch_gene_regulation.svg" alt="drawing" style="width:400px;margin-top: 0px;margin-bottom: 0px;" >
+  <img src="/images/gene_regulation/Guanidine-I_riboswitch_gene_regulation.svg" alt="drawing" style="width:800px;margin-top: 0px;margin-bottom: 0px;" >
   </td>
 </tr>
 </table>
@@ -178,7 +178,7 @@ permalink: /docs/Guanidine/
 <font size="4"><p>Guanidine-III is a translational riboswitch. Increased stability in the presence of guanidine is necessary for switching to the ON conformation. Guanidine-IV riboswitch is transcriptional regulatory riboswitch. Acts as a genetic "ON" switch, where the ligand-binding structure and the terminator stem will be mutually exclusive structures<sup>[3,10]</sup>.</p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
-  <img src="/images/gene_regulation/Guanidine-III_riboswitch_gene_regulation.svg" alt="drawing" style="width:400px;margin-top: 0px;margin-bottom: 0px;" >
+  <img src="/images/gene_regulation/Guanidine-III_riboswitch_gene_regulation.svg" alt="drawing" style="width:800px;margin-top: 0px;margin-bottom: 0px;" >
   </td>
 </tr>
 </table>
@@ -252,7 +252,7 @@ permalink: /docs/Guanidine/
     <div class="main-container">
         <div class="zoom-wrapper2">
             <div class="zoom-area2">
-                <img src="/images/2D/" alt="drawing" style="width:400px" />
+                <img src="/images/2D/Guanidine-I_riboswitch_2D2.svg" alt="drawing" style="width:400px" />
             </div>
         </div>
     </div>
@@ -333,7 +333,7 @@ permalink: /docs/Guanidine/
     <div class="main-container">
         <div class="zoom-wrapper4">
             <div class="zoom-area4">
-                <img src="/images/2D/" alt="drawing" style="width:400px" />
+                <img src="/images/2D/Guanidine-II_riboswitch_2D2.svg" alt="drawing" style="width:400px" />
             </div>
         </div>
     </div>
@@ -414,7 +414,7 @@ permalink: /docs/Guanidine/
     <div class="main-container">
         <div class="zoom-wrapper6">
             <div class="zoom-area6">
-                <img src="/images/2D/" alt="drawing" style="width:400px" />
+                <img src="/images/2D/Guanidine-III_riboswitch_2D2.svg" alt="drawing" style="width:400px" />
             </div>
         </div>
     </div>
@@ -607,12 +607,11 @@ permalink: /docs/Guanidine/
   color:{r:10,g:11,b:255}
 },
 {
-  struct_asym_id: 'Q', 
+  struct_asym_id: 'A', 
   start_residue_number:116, 
   end_residue_number:116, 
   color:{r:255,g:11,b:12}
 },
-
               ]
             viewerInstance1.visual.select({ data: selectSections1, nonSelectedColor: {r:255,g:255,b:255}})" style="float:right;height:25px;width: 120px;">Color Selection</button><br><br>
           <button button style="float: left;height:25px;width: 120px;" onclick="viewerInstance1.visual.clearSelection()">Clear Selection</button><br><br>
@@ -638,7 +637,7 @@ permalink: /docs/Guanidine/
     </html></td>
   </tr></table><br>
                 
-<font size=4>The structure of guanidine-II riboswitch P1 stem-loop with guanidine was generated from PDB ID: 5NOM at 1.93 Å resolution; and the structure of guanidine-II riboswitch P2 stem-loop with guanidine was generated from PDB ID: 5NDH at 1.81 Å resolution. Guanidine (shown in sticks) is labeled in red <sup>[6]</sup>.</font>
+<font size=4>The structure of guanidine-II riboswitch P1 stem-loop with guanidine was generated from PDB ID: 5NOM at 1.93 Å resolution; and the structure of guanidine-II riboswitch P2 stem-loop with guanidine was generated from PDB ID: 5NDH at 1.81 Å resolution. The structures of P1 stem-loop and P2 stem-loop are very similar. Guanidine (shown in sticks) is labeled in red <sup>[6]</sup>.</font>
   <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
   <img src="/images/3D/Guanidine-II_riboswitch_3D.svg" alt="drawing" style="width:400px;height:400px;margin-top: 0px;margin-bottom: 0px;" >
@@ -689,34 +688,18 @@ permalink: /docs/Guanidine/
         <div class="controlsSection2">
             <button onclick="
               var selectSections2 = [
-                PDB: 5NOM
-{
+                {
   struct_asym_id: 'A', 
   start_residue_number:1, 
   end_residue_number:18, 
   color:{r:128,g:219,b:158}
 },
 {
-  struct_asym_id: 'C', 
+  struct_asym_id: 'A', 
   start_residue_number:102, 
   end_residue_number:102, 
   color:{r:255,g:11,b:12}
 },
-
-PDB: 5NDH
-{
-  struct_asym_id: 'A', 
-  start_residue_number:1, 
-  end_residue_number:16, 
-  color:{r:255,g:223,b:92}
-},
-{
-  struct_asym_id: 'E', 
-  start_residue_number:101, 
-  end_residue_number:101, 
-  color:{r:255,g:11,b:12}
-},
-
               ]
             viewerInstance2.visual.select({ data: selectSections2, nonSelectedColor: {r:255,g:255,b:255}})" style="float:right;height:25px;width: 120px;">Color Selection</button><br><br>
           <button button style="float: left;height:25px;width: 120px;" onclick="viewerInstance2.visual.clearSelection()">Clear Selection</button><br><br>
@@ -729,7 +712,7 @@ PDB: 5NDH
       var viewerInstance2 = new PDBeMolstarPlugin();
       var options2 = {
         customData:{
-        url:'/docs/pdbfiles/5nom, 5ndh.pdb',
+        url:'/docs/pdbfiles/5nom.pdb',
         format: 'pdb'},
         expanded: false,
         hideControls: true,
@@ -830,12 +813,11 @@ PDB: 5NDH
   color:{r:9,g:254,b:254}
 },
 {
-  struct_asym_id: 'C', 
+  struct_asym_id: 'A', 
   start_residue_number:101, 
   end_residue_number:101, 
   color:{r:255,g:11,b:12}
 },
-
               ]
             viewerInstance3.visual.select({ data: selectSections3, nonSelectedColor: {r:255,g:255,b:255}})" style="float:right;height:25px;width: 120px;">Color Selection</button><br><br>
           <button button style="float: left;height:25px;width: 120px;" onclick="viewerInstance3.visual.clearSelection()">Clear Selection</button><br><br>
