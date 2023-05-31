@@ -568,7 +568,7 @@ SAM-IV riboswitches are a kind of riboswitch that specifically binds S-adenosylm
       var viewerInstance1 = new PDBeMolstarPlugin();
       var options1 = {
         customData:{
-        url:'/docs/pdbfiles/2gis.pdb',
+        url:'/docs/pdbfiles/2GIS.pdb',
         format: 'pdb'},
         expanded: false,
         hideControls: true,
@@ -696,7 +696,7 @@ SAM-IV riboswitches are a kind of riboswitch that specifically binds S-adenosylm
       var viewerInstance2 = new PDBeMolstarPlugin();
       var options2 = {
         customData:{
-        url:'/docs/pdbfiles/6uet.pdb',
+        url:'/docs/pdbfiles/6UET.pdb',
         format: 'pdb'},
         expanded: false,
         hideControls: true,
@@ -829,7 +829,7 @@ SAM-IV riboswitches are a kind of riboswitch that specifically binds S-adenosylm
       var viewerInstance3 = new PDBeMolstarPlugin();
       var options3 = {
         customData:{
-        url:'/docs/pdbfiles/4oqu.pdb',
+        url:'/docs/pdbfiles/4OQU.pdb',
         format: 'pdb'},
         expanded: false,
         hideControls: true,

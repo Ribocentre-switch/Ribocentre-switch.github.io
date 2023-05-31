@@ -624,7 +624,7 @@ permalink: /docs/Guanidine/
       var viewerInstance1 = new PDBeMolstarPlugin();
       var options1 = {
         customData:{
-        url:'/docs/pdbfiles/5t83.pdb',
+        url:'/docs/pdbfiles/5T83.pdb',
         format: 'pdb'},
         expanded: false,
         hideControls: true,
@@ -712,7 +712,7 @@ permalink: /docs/Guanidine/
       var viewerInstance2 = new PDBeMolstarPlugin();
       var options2 = {
         customData:{
-        url:'/docs/pdbfiles/5nom.pdb',
+        url:'/docs/pdbfiles/5NOM.pdb',
         format: 'pdb'},
         expanded: false,
         hideControls: true,
@@ -830,7 +830,7 @@ permalink: /docs/Guanidine/
       var viewerInstance3 = new PDBeMolstarPlugin();
       var options3 = {
         customData:{
-        url:'/docs/pdbfiles/5nwq.pdb',
+        url:'/docs/pdbfiles/5NWQ.pdb',
         format: 'pdb'},
         expanded: false,
         hideControls: true,

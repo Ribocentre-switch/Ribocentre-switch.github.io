@@ -384,7 +384,7 @@ permalink: /docs/Glycine/
       var viewerInstance1 = new PDBeMolstarPlugin();
       var options1 = {
         customData:{
-        url:'/docs/pdbfiles/3owz.pdb',
+        url:'/docs/pdbfiles/3OWZ.pdb',
         format: 'pdb'},
         expanded: false,
         hideControls: true,

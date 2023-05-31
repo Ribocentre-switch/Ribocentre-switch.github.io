@@ -294,7 +294,7 @@ permalink: /docs/NAD<sup>+</sup>-I/
       var viewerInstance1 = new PDBeMolstarPlugin();
       var options1 = {
         customData:{
-        url:'/docs/pdbfiles/6tff.pdb',
+        url:'/docs/pdbfiles/6TFF.pdb',
         format: 'pdb'},
         expanded: false,
         hideControls: true,

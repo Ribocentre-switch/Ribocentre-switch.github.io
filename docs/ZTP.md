@@ -363,7 +363,7 @@ permalink: /docs/ZTP/
       var viewerInstance1 = new PDBeMolstarPlugin();
       var options1 = {
         customData:{
-        url:'/docs/pdbfiles/4znp.pdb',
+        url:'/docs/pdbfiles/4ZNP.pdb',
         format: 'pdb'},
         expanded: false,
         hideControls: true,

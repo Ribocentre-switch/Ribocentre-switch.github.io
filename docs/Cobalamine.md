@@ -448,7 +448,7 @@ Cobalamin riboswitches are broadly classified by the identity of the aptamer, bu
       var viewerInstance1 = new PDBeMolstarPlugin();
       var options1 = {
         customData:{
-        url:'/docs/pdbfiles/4gma.pdb',
+        url:'/docs/pdbfiles/4GMA.pdb',
         format: 'pdb'},
         expanded: false,
         hideControls: true,
@@ -578,7 +578,7 @@ Cobalamin riboswitches are broadly classified by the identity of the aptamer, bu
       var viewerInstance2 = new PDBeMolstarPlugin();
       var options2 = {
         customData:{
-        url:'/docs/pdbfiles/4frn.pdb',
+        url:'/docs/pdbfiles/4FRN.pdb',
         format: 'pdb'},
         expanded: false,
         hideControls: true,

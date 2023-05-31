@@ -329,7 +329,7 @@ permalink: /docs/2'-dG/
       var viewerInstance1 = new PDBeMolstarPlugin();
       var options1 = {
         customData:{
-        url:'/docs/pdbfiles/3ski.pdb',
+        url:'/docs/pdbfiles/3SKI.pdb',
         format: 'pdb'},
         expanded: false,
         hideControls: true,
@@ -477,7 +477,7 @@ permalink: /docs/2'-dG/
       var viewerInstance2 = new PDBeMolstarPlugin();
       var options2 = {
         customData:{
-        url:'/docs/pdbfiles/6p2h.pdb',
+        url:'/docs/pdbfiles/6P2H.pdb',
         format: 'pdb'},
         expanded: false,
         hideControls: true,

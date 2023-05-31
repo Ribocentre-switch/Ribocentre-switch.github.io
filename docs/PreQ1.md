@@ -534,7 +534,7 @@ permalink: /docs/PreQ<sub>1</sub>/
       var viewerInstance1 = new PDBeMolstarPlugin();
       var options1 = {
         customData:{
-        url:'/docs/pdbfiles/3fu2.pdb',
+        url:'/docs/pdbfiles/3FU2.pdb',
         format: 'pdb'},
         expanded: false,
         hideControls: true,
@@ -670,7 +670,7 @@ permalink: /docs/PreQ<sub>1</sub>/
       var viewerInstance2 = new PDBeMolstarPlugin();
       var options2 = {
         customData:{
-        url:'/docs/pdbfiles/4jf2.pdb',
+        url:'/docs/pdbfiles/4JF2.pdb',
         format: 'pdb'},
         expanded: false,
         hideControls: true,
@@ -848,7 +848,7 @@ permalink: /docs/PreQ<sub>1</sub>/
       var viewerInstance3 = new PDBeMolstarPlugin();
       var options3 = {
         customData:{
-        url:'/docs/pdbfiles/4rzd.pdb',
+        url:'/docs/pdbfiles/4RZD.pdb',
         format: 'pdb'},
         expanded: false,
         hideControls: true,

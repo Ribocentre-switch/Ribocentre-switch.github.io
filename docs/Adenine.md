@@ -321,7 +321,7 @@ permalink: /docs/Adenine/
       var viewerInstance1 = new PDBeMolstarPlugin();
       var options1 = {
         customData:{
-        url:'/docs/pdbfiles/1y26.pdb',
+        url:'/docs/pdbfiles/1Y26.pdb',
         format: 'pdb'},
         expanded: false,
         hideControls: true,

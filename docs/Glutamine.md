@@ -375,7 +375,7 @@ The Downstream-peptide motif refers to a conserved RNA structure identified by b
       var viewerInstance1 = new PDBeMolstarPlugin();
       var options1 = {
         customData:{
-        url:'/docs/pdbfiles/5ddr.pdb',
+        url:'/docs/pdbfiles/5DDR.pdb',
         format: 'pdb'},
         expanded: false,
         hideControls: true,
@@ -469,7 +469,7 @@ The Downstream-peptide motif refers to a conserved RNA structure identified by b
       var viewerInstance2 = new PDBeMolstarPlugin();
       var options2 = {
         customData:{
-        url:'/docs/pdbfiles/6qn3.pdb',
+        url:'/docs/pdbfiles/6QN3.pdb',
         format: 'pdb'},
         expanded: false,
         hideControls: true,

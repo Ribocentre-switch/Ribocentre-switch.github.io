@@ -377,7 +377,7 @@ permalink: /docs/TPP/
       var viewerInstance1 = new PDBeMolstarPlugin();
       var options1 = {
         customData:{
-        url:'/docs/pdbfiles/2gdi.pdb',
+        url:'/docs/pdbfiles/2GDI.pdb',
         format: 'pdb'},
         expanded: false,
         hideControls: true,

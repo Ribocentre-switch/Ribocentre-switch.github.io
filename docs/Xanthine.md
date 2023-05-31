@@ -409,7 +409,7 @@ permalink: /docs/Xanthine/
       var viewerInstance1 = new PDBeMolstarPlugin();
       var options1 = {
         customData:{
-        url:'/docs/pdbfiles/7elr.pdb',
+        url:'/docs/pdbfiles/7ELR.pdb',
         format: 'pdb'},
         expanded: false,
         hideControls: true,

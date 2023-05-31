@@ -468,7 +468,7 @@ The Magnesium responsive RNA element, not to be confused with the completely dis
       var viewerInstance1 = new PDBeMolstarPlugin();
       var options1 = {
         customData:{
-        url:'/docs/pdbfiles/2qbz.pdb',
+        url:'/docs/pdbfiles/2QBZ.pdb',
         format: 'pdb'},
         expanded: false,
         hideControls: true,

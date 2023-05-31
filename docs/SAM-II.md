@@ -438,7 +438,7 @@ SAM-V riboswitch is the fifth known riboswitch to bind S-adenosyl methionine (SA
       var viewerInstance1 = new PDBeMolstarPlugin();
       var options1 = {
         customData:{
-        url:'/docs/pdbfiles/2qwy.pdb',
+        url:'/docs/pdbfiles/2QWY.pdb',
         format: 'pdb'},
         expanded: false,
         hideControls: true,
@@ -561,7 +561,7 @@ SAM-V riboswitch is the fifth known riboswitch to bind S-adenosyl methionine (SA
       var viewerInstance2 = new PDBeMolstarPlugin();
       var options2 = {
         customData:{
-        url:'/docs/pdbfiles/6fz0.pdb',
+        url:'/docs/pdbfiles/6FZ0.pdb',
         format: 'pdb'},
         expanded: false,
         hideControls: true,

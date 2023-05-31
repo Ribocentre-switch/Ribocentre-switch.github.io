@@ -317,7 +317,7 @@ permalink: /docs/PRPP/
       var viewerInstance1 = new PDBeMolstarPlugin();
       var options1 = {
         customData:{
-        url:'/docs/pdbfiles/6ck5.pdb',
+        url:'/docs/pdbfiles/6CK5.pdb',
         format: 'pdb'},
         expanded: false,
         hideControls: true,

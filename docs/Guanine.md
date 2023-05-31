@@ -434,7 +434,7 @@ permalink: /docs/Guanine/
       var viewerInstance1 = new PDBeMolstarPlugin();
       var options1 = {
         customData:{
-        url:'/docs/pdbfiles/1y27.pdb',
+        url:'/docs/pdbfiles/1Y27.pdb',
         format: 'pdb'},
         expanded: false,
         hideControls: true,

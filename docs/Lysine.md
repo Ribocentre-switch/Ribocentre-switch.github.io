@@ -379,7 +379,7 @@ permalink: /docs/Lysine/
       var viewerInstance1 = new PDBeMolstarPlugin();
       var options1 = {
         customData:{
-        url:'/docs/pdbfiles/3dil.pdb',
+        url:'/docs/pdbfiles/3DIL.pdb',
         format: 'pdb'},
         expanded: false,
         hideControls: true,

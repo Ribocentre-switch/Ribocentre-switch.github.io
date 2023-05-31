@@ -284,7 +284,7 @@ permalink: /docs/SAM-VI/
       var viewerInstance1 = new PDBeMolstarPlugin();
       var options1 = {
         customData:{
-        url:'/docs/pdbfiles/6las.pdb',
+        url:'/docs/pdbfiles/6LAS.pdb',
         format: 'pdb'},
         expanded: false,
         hideControls: true,

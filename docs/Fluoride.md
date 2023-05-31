@@ -402,7 +402,7 @@ permalink: /docs/Fluoride/
       var viewerInstance1 = new PDBeMolstarPlugin();
       var options1 = {
         customData:{
-        url:'/docs/pdbfiles/4enc.pdb',
+        url:'/docs/pdbfiles/4ENC.pdb',
         format: 'pdb'},
         expanded: false,
         hideControls: true,

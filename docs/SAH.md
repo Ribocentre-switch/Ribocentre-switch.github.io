@@ -292,7 +292,7 @@ permalink: /docs/SAH/
       var viewerInstance1 = new PDBeMolstarPlugin();
       var options1 = {
         customData:{
-        url:'/docs/pdbfiles/3npq.pdb',
+        url:'/docs/pdbfiles/3NPQ.pdb',
         format: 'pdb'},
         expanded: false,
         hideControls: true,

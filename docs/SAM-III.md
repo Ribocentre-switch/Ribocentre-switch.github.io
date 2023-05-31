@@ -335,7 +335,7 @@ permalink: /docs/SAM-III/
       var viewerInstance1 = new PDBeMolstarPlugin();
       var options1 = {
         customData:{
-        url:'/docs/pdbfiles/3e5c.pdb',
+        url:'/docs/pdbfiles/3E5C.pdb',
         format: 'pdb'},
         expanded: false,
         hideControls: true,

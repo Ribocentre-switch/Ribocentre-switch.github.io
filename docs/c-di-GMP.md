@@ -431,7 +431,7 @@ Cyclic di-GMP-II riboswitches (also c-di-GMP-II riboswitches) form a class of ri
       var viewerInstance1 = new PDBeMolstarPlugin();
       var options1 = {
         customData:{
-        url:'/docs/pdbfiles/3irw.pdb',
+        url:'/docs/pdbfiles/3IRW.pdb',
         format: 'pdb'},
         expanded: false,
         hideControls: true,
@@ -561,7 +561,7 @@ Cyclic di-GMP-II riboswitches (also c-di-GMP-II riboswitches) form a class of ri
       var viewerInstance2 = new PDBeMolstarPlugin();
       var options2 = {
         customData:{
-        url:'/docs/pdbfiles/3q3z.pdb',
+        url:'/docs/pdbfiles/3Q3Z.pdb',
         format: 'pdb'},
         expanded: false,
         hideControls: true,

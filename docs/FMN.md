@@ -371,7 +371,7 @@ permalink: /docs/FMN/
       var viewerInstance1 = new PDBeMolstarPlugin();
       var options1 = {
         customData:{
-        url:'/docs/pdbfiles/3f2q.pdb',
+        url:'/docs/pdbfiles/3F2Q.pdb',
         format: 'pdb'},
         expanded: false,
         hideControls: true,

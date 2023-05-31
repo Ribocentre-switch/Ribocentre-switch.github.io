@@ -288,7 +288,7 @@ permalink: /docs/SAM-SAH/
       var viewerInstance1 = new PDBeMolstarPlugin();
       var options1 = {
         customData:{
-        url:'/docs/pdbfiles/6ymm.pdb',
+        url:'/docs/pdbfiles/6YMM.pdb',
         format: 'pdb'},
         expanded: false,
         hideControls: true,

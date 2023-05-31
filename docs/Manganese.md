@@ -341,7 +341,7 @@ permalink: /docs/Manganese/
       var viewerInstance1 = new PDBeMolstarPlugin();
       var options1 = {
         customData:{
-        url:'/docs/pdbfiles/4y1i.pdb',
+        url:'/docs/pdbfiles/4Y1I.pdb',
         format: 'pdb'},
         expanded: false,
         hideControls: true,
