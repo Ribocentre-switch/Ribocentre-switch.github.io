@@ -353,7 +353,7 @@ permalink: /docs/PRPP/
 </table>
 <p><br /></p>
                 
-<p class="header_box">Reference</p>
+<p class="header_box">References</p>
 <p><br /></p>
             
 <p><strong>[1]New RNA motifs suggest an expanded scope for riboswitches in bacterial genetic control.</strong><br />

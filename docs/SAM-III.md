@@ -371,7 +371,7 @@ permalink: /docs/SAM-III/
 </table>
 <p><br /></p>
                 
-<p class="header_box">Reference</p>
+<p class="header_box">References</p>
 <p><br /></p>
             
 <p><strong>[1]The S(MK) box is a new SAM-binding RNA for translational regulation of SAM synthetase.</strong><br />

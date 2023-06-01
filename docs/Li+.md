@@ -170,7 +170,7 @@ In 2022, Breaker et al. identified <i>nhaA</i>-I motif and <i>nhaA</i>-II motif 
                 
 > Ligand recognition
             
-<p class="header_box">Reference</p>
+<p class="header_box">References</p>
 <p><br /></p>
             
 <p><strong>[1]Detection of 224 candidate structured RNAs by comparative analysis of specific subsets of intergenic regions.</strong><br />

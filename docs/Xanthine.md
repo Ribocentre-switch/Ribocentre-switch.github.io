@@ -445,7 +445,7 @@ permalink: /docs/Xanthine/
 </table>
 <p><br /></p>
                 
-<p class="header_box">Reference</p>
+<p class="header_box">References</p>
 <p><br /></p>
             
 <p><strong>[1]Detection of 224 candidate structured RNAs by comparative analysis of specific subsets of intergenic regions.</strong><br />

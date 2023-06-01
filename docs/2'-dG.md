@@ -520,7 +520,7 @@ permalink: /docs/2'-dG/
 </table>
 <p><br /></p>
                 
-<p class="header_box">Reference</p>
+<p class="header_box">References</p>
 <p><br /></p>
             
 <p><strong>[1]Interactions between deoxyribonucleotide and DNA synthesis.</strong><br />

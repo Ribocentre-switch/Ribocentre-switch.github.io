@@ -417,7 +417,7 @@ permalink: /docs/GlcN6P/
 </table>
 <p><br /></p>
                 
-<p class="header_box">Reference</p>
+<p class="header_box">References</p>
 <p><br /></p>
             
 <p><strong>[1]Control of gene expression by a natural metabolite-responsive ribozyme.</strong><br />

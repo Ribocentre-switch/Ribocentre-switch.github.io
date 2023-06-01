@@ -415,7 +415,7 @@ permalink: /docs/Lysine/
 </table>
 <p><br /></p>
                 
-<p class="header_box">Reference</p>
+<p class="header_box">References</p>
 <p><br /></p>
             
 <p><strong>[1]An mRNA structure in bacteria that controls gene expression by binding lysine.</strong><br />

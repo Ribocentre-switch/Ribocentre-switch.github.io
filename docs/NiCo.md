@@ -399,7 +399,7 @@ permalink: /docs/NiCo/
 </table>
 <p><br /></p>
                 
-<p class="header_box">Reference</p>
+<p class="header_box">References</p>
 <p><br /></p>
             
 <p><strong>[1]Bacterial riboswitches cooperatively bind Ni(2+) or Co(2+) ions and control  expression of heavy metal transporters.</strong><br />

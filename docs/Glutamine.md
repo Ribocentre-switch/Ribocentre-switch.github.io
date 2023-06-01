@@ -512,7 +512,7 @@ The Downstream-peptide motif refers to a conserved RNA structure identified by b
 </table>
 <p><br /></p>
                 
-<p class="header_box">Reference</p>
+<p class="header_box">References</p>
 <p><br /></p>
             
 <p><strong>[1]Bacterial aptamers that selectively bind glutamine.</strong><br />

@@ -368,7 +368,7 @@ permalink: /docs/NAD<sup>+</sup>-II/
                     
 > Ligand recognition
             
-<p class="header_box">Reference</p>
+<p class="header_box">References</p>
 <p><br /></p>
             
 <p><strong>[1]Comprehensive discovery of novel structured noncoding RNAs in 26 bacterial genomes.</strong><br />

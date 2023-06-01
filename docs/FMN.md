@@ -408,7 +408,7 @@ permalink: /docs/FMN/
 </table>
 <p><br /></p>
                 
-<p class="header_box">Reference</p>
+<p class="header_box">References</p>
 <p><br /></p>
             
 <p><strong>[1]A conserved RNA structure element involved in the regulation of bacterial riboflavin synthesis genes.</strong><br />

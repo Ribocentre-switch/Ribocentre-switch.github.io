@@ -604,7 +604,7 @@ SAM-V riboswitch is the fifth known riboswitch to bind S-adenosyl methionine (SA
 </table>
 <p><br /></p>
                 
-<p class="header_box">Reference</p>
+<p class="header_box">References</p>
 <p><br /></p>
             
 <p><strong>[1]Evidence for a second class of S-adenosylmethionine riboswitches and other regulatory RNA motifs in alpha-proteobacteria.</strong><br />

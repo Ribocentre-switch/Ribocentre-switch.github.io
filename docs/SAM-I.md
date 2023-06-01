@@ -879,7 +879,7 @@ SAM-IV riboswitches are a kind of riboswitch that specifically binds S-adenosylm
 </table>
 <p><br /></p>
                 
-<p class="header_box">Reference</p>
+<p class="header_box">References</p>
 <p><br /></p>
             
 <p><strong>[1]The S box regulon: a new global transcription termination control system for methionine and cysteine biosynthesis genes in gram-positive bacteria.</strong><br />
