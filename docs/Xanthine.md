@@ -5,7 +5,7 @@ date:   20230403
 author: Mengxiao Li, Xuemei Peng
 permalink: /docs/Xanthine/
 ---
-**Rfam ID: [RF03054](https://rfam.xfam.org/family/RF03054)(Xanthine riboswitch)** <br>
+<p style="font-size: 24px"><strong>Rfam ID: [RF03054](https://rfam.xfam.org/family/RF03054)(Xanthine riboswitch)</strong> <br /></p>
 &emsp;&emsp;&emsp;&emsp;**[nan](https://rfam.xfam.org/family/nan)(nan)** <br>
 
 <html lang="zh-cn">
@@ -16,7 +16,7 @@ permalink: /docs/Xanthine/
     border: none;
     border-bottom: 4px solid #005826;
     box-shadow: 5px 5px 5px 5px rgba(0, 0, 0, 0.25);
-    font-size:40px
+    font-size:32px
   }
 </style>
 </head>

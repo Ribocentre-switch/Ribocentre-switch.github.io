@@ -5,7 +5,7 @@ date:   2023-05-23 00:00:00
 author: Yuanlin He, Xiaowei Lin
 permalink: /docs/Li<sup>+</sup>/
 ---
-**Rfam ID: [RF03057](https://rfam.xfam.org/family/RF03057)(nhaA-I RNA)** <br>
+<p style="font-size: 24px"><strong>Rfam ID: [RF03057](https://rfam.xfam.org/family/RF03057)(nhaA-I RNA)</strong> <br /></p>
 &emsp;&emsp;&emsp;&emsp;**[RF03038](https://rfam.xfam.org/family/RF03038)(nhaA-II RNA)** <br>
 
 <html lang="zh-cn">
@@ -16,7 +16,7 @@ permalink: /docs/Li<sup>+</sup>/
     border: none;
     border-bottom: 4px solid #005826;
     box-shadow: 5px 5px 5px 5px rgba(0, 0, 0, 0.25);
-    font-size:40px
+    font-size:32px
   }
 </style>
 </head>

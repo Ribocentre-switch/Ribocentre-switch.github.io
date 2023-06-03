@@ -5,7 +5,7 @@ date:   20230403
 author: Mengxiao Li, Xuemei Peng
 permalink: /docs/Guanidine/
 ---
-**Rfam ID: [RF00442](https://rfam.xfam.org/family/RF00442)(Guanidine-I riboswitch)** <br>
+<p style="font-size: 24px"><strong>Rfam ID: [RF00442](https://rfam.xfam.org/family/RF00442)(Guanidine-I riboswitch)</strong> <br /></p>
 &emsp;&emsp;&emsp;&emsp;**[RF01068](https://rfam.xfam.org/family/RF01068)(Guanidine-II riboswitch)** <br>
 &emsp;&emsp;&emsp;&emsp;**[RF01763](https://rfam.xfam.org/family/RF01763)(Guanidine-III riboswitch)** <br>
 &emsp;&emsp;&emsp;&emsp;**[nan](https://rfam.xfam.org/family/nan)(nan)** <br>
@@ -18,7 +18,7 @@ permalink: /docs/Guanidine/
     border: none;
     border-bottom: 4px solid #005826;
     box-shadow: 5px 5px 5px 5px rgba(0, 0, 0, 0.25);
-    font-size:40px
+    font-size:32px
   }
 </style>
 </head>

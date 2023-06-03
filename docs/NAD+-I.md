@@ -5,7 +5,7 @@ date:   2023-04-15 00:00:00
 author: Xuemei Peng, Xiaoxue Chen
 permalink: /docs/NAD<sup>+</sup>-I/
 ---
-**Rfam ID: [RF03013](https://rfam.xfam.org/family/RF03013)(nadA RNA)** <br>
+<p style="font-size: 24px"><strong>Rfam ID: [RF03013](https://rfam.xfam.org/family/RF03013)(nadA RNA)</strong> <br /></p>
 
 <html lang="zh-cn">
 <head>
@@ -15,7 +15,7 @@ permalink: /docs/NAD<sup>+</sup>-I/
     border: none;
     border-bottom: 4px solid #005826;
     box-shadow: 5px 5px 5px 5px rgba(0, 0, 0, 0.25);
-    font-size:40px
+    font-size:32px
   }
 </style>
 </head>

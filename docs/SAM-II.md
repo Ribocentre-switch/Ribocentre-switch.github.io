@@ -5,7 +5,7 @@ date:   2023-04-19 00:00:00
 author: Zhizhong Lu, Wenjian Liao
 permalink: /docs/SAM-II_clan/
 ---
-**Rfam ID: [RF00521](https://rfam.xfam.org/family/RF00521)(SAM riboswitch (alpha-proteobacteria))** <br>
+<p style="font-size: 24px"><strong>Rfam ID: [RF00521](https://rfam.xfam.org/family/RF00521)(SAM riboswitch (alpha-proteobacteria))</strong> <br /></p>
 &emsp;&emsp;&emsp;&emsp;**[RF01826](https://rfam.xfam.org/family/RF01826)(SAM-V riboswitch)** <br>
 
 <html lang="zh-cn">
@@ -16,7 +16,7 @@ permalink: /docs/SAM-II_clan/
     border: none;
     border-bottom: 4px solid #005826;
     box-shadow: 5px 5px 5px 5px rgba(0, 0, 0, 0.25);
-    font-size:40px
+    font-size:32px
   }
 </style>
 </head>

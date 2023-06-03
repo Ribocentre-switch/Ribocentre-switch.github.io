@@ -5,7 +5,7 @@ date:   2023-05-19 00:00:00
 author: Yuanlin He, Xiaowei Lin
 permalink: /docs/Magnesium/
 ---
-**Rfam ID: [RF00380](https://rfam.xfam.org/family/RF00380)(M-box riboswitch (ykoK leader))** <br>
+<p style="font-size: 24px"><strong>Rfam ID: [RF00380](https://rfam.xfam.org/family/RF00380)(M-box riboswitch (ykoK leader))</strong> <br /></p>
 &emsp;&emsp;&emsp;&emsp;**[RF01056](https://rfam.xfam.org/family/RF01056)(Magnesium Sensor)** <br>
 
 <html lang="zh-cn">
@@ -16,7 +16,7 @@ permalink: /docs/Magnesium/
     border: none;
     border-bottom: 4px solid #005826;
     box-shadow: 5px 5px 5px 5px rgba(0, 0, 0, 0.25);
-    font-size:40px
+    font-size:32px
   }
 </style>
 </head>

@@ -5,7 +5,7 @@ date:   2023-04-20 00:00:00
 author: Jie Deng_Yuanlin He
 permalink: /docs/c-di-GMP/
 ---
-**Rfam ID: [RF01051](https://rfam.xfam.org/family/RF01051)(Cyclic di-GMP-I riboswitch)** <br>
+<p style="font-size: 24px"><strong>Rfam ID: [RF01051](https://rfam.xfam.org/family/RF01051)(Cyclic di-GMP-I riboswitch)</strong> <br /></p>
 &emsp;&emsp;&emsp;&emsp;**[RF03167](https://rfam.xfam.org/family/RF03167)(c-di-GMP-I-GGC riboswitch)** <br>
 &emsp;&emsp;&emsp;&emsp;**[RF03168](https://rfam.xfam.org/family/RF03168)(c-di-GMP-I-UAU riboswitch)** <br>
 &emsp;&emsp;&emsp;&emsp;**[RF01786](https://rfam.xfam.org/family/RF01786)(Cyclic di-GMP-II riboswitch)** <br>
@@ -20,7 +20,7 @@ permalink: /docs/c-di-GMP/
     border: none;
     border-bottom: 4px solid #005826;
     box-shadow: 5px 5px 5px 5px rgba(0, 0, 0, 0.25);
-    font-size:40px
+    font-size:32px
   }
 </style>
 </head>

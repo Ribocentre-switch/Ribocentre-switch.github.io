@@ -5,7 +5,7 @@ date:   2023-04-26 00:00:00
 author: Wenjian Liao
 permalink: /docs/2'-dG/
 ---
-**Rfam ID: [RF00167](https://rfam.xfam.org/family/RF00167)(Purine riboswitch)** <br>
+<p style="font-size: 24px"><strong>Rfam ID: [RF00167](https://rfam.xfam.org/family/RF00167)(Purine riboswitch)</strong> <br /></p>
 
 <html lang="zh-cn">
 <head>
@@ -15,7 +15,7 @@ permalink: /docs/2'-dG/
     border: none;
     border-bottom: 4px solid #005826;
     box-shadow: 5px 5px 5px 5px rgba(0, 0, 0, 0.25);
-    font-size:40px
+    font-size:32px
   }
 </style>
 </head>

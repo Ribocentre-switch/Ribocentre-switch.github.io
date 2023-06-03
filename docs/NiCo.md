@@ -5,7 +5,7 @@ date:   2023-04-27 00:00:00
 author: Yuanlin He, Jie Deng
 permalink: /docs/NiCo/
 ---
-**Rfam ID: [RF02683](https://rfam.xfam.org/family/RF02683)(NiCo riboswitch)** <br>
+<p style="font-size: 24px"><strong>Rfam ID: [RF02683](https://rfam.xfam.org/family/RF02683)(NiCo riboswitch)</strong> <br /></p>
 
 <html lang="zh-cn">
 <head>
@@ -15,7 +15,7 @@ permalink: /docs/NiCo/
     border: none;
     border-bottom: 4px solid #005826;
     box-shadow: 5px 5px 5px 5px rgba(0, 0, 0, 0.25);
-    font-size:40px
+    font-size:32px
   }
 </style>
 </head>

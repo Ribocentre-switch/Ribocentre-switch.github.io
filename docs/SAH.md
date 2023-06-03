@@ -5,7 +5,7 @@ date:   2023-04-29 00:00:00
 author: Zhizhong Lu, Wenjian Liao
 permalink: /docs/SAH/
 ---
-**Rfam ID: [RF01057](https://rfam.xfam.org/family/RF01057)(S-adenosyl-L-homocysteine riboswitch)** <br>
+<p style="font-size: 24px"><strong>Rfam ID: [RF01057](https://rfam.xfam.org/family/RF01057)(S-adenosyl-L-homocysteine riboswitch)</strong> <br /></p>
 
 <html lang="zh-cn">
 <head>
@@ -15,7 +15,7 @@ permalink: /docs/SAH/
     border: none;
     border-bottom: 4px solid #005826;
     box-shadow: 5px 5px 5px 5px rgba(0, 0, 0, 0.25);
-    font-size:40px
+    font-size:32px
   }
 </style>
 </head>
