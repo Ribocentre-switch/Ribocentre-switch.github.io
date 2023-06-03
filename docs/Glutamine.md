@@ -5,8 +5,8 @@ date:   2023-04-23 00:00:00
 author: Yuanyin Huang, Xiaowei Lin
 permalink: /docs/Glutamine/
 ---
-<p style="font-size: 24px"><strong>Rfam ID: [RF01739](https://rfam.xfam.org/family/RF01739)(Glutamine riboswitch)</strong> <br /></p>
-&emsp;&emsp;&emsp;&emsp;**[RF01704](https://rfam.xfam.org/family/RF01704)(Glutamine-II riboswitch)** <br>
+<p style="font-size: 24px"><strong>Rfam ID: [RF01739](https://rfam.xfam.org/family/RF01739,target="_blank")(Glutamine riboswitch)</strong> <br /></p>
+<p style="font-size: 24px"><strong>&emsp;&emsp;&emsp;&emsp;[RF01704](https://rfam.xfam.org/family/RF01704,target="_blank")(Glutamine-II riboswitch)</strong> <br /></p>
 
 <html lang="zh-cn">
 <head>

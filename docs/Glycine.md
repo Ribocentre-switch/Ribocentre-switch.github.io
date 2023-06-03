@@ -5,7 +5,7 @@ date:   2023-04-23 00:00:00
 author: Yuanyin Huang, Xiaowei Lin
 permalink: /docs/Glycine/
 ---
-<p style="font-size: 24px"><strong>Rfam ID: [RF00504](https://rfam.xfam.org/family/RF00504)(Glycine riboswitch)</strong> <br /></p>
+<p style="font-size: 24px"><strong>Rfam ID: [RF00504](https://rfam.xfam.org/family/RF00504,target="_blank")(Glycine riboswitch)</strong> <br /></p>
 
 <html lang="zh-cn">
 <head>

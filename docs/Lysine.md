@@ -5,7 +5,7 @@ date:   2023-04-23 00:00:00
 author: Yuanyin Huang, Xiaowei Lin
 permalink: /docs/Lysine/
 ---
-<p style="font-size: 24px"><strong>Rfam ID: [RF00168](https://rfam.xfam.org/family/RF00168)(Lysine riboswitch)</strong> <br /></p>
+<p style="font-size: 24px"><strong>Rfam ID: [RF00168](https://rfam.xfam.org/family/RF00168,target="_blank")(Lysine riboswitch)</strong> <br /></p>
 
 <html lang="zh-cn">
 <head>

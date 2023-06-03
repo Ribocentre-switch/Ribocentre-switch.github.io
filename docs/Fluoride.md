@@ -5,7 +5,7 @@ date:   2023-04-05 00:00:00
 author: Yuanlin He, Jie Deng
 permalink: /docs/Fluoride/
 ---
-<p style="font-size: 24px"><strong>Rfam ID: [RF01734](https://rfam.xfam.org/family/RF01734)(Fluoride riboswitch (crcB))</strong> <br /></p>
+<p style="font-size: 24px"><strong>Rfam ID: [RF01734](https://rfam.xfam.org/family/RF01734,target="_blank")(Fluoride riboswitch (crcB))</strong> <br /></p>
 
 <html lang="zh-cn">
 <head>

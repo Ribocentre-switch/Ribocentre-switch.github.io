@@ -5,12 +5,12 @@ date:   2023-04-20 00:00:00
 author: Jie Deng_Yuanlin He
 permalink: /docs/c-di-GMP/
 ---
-<p style="font-size: 24px"><strong>Rfam ID: [RF01051](https://rfam.xfam.org/family/RF01051)(Cyclic di-GMP-I riboswitch)</strong> <br /></p>
-&emsp;&emsp;&emsp;&emsp;**[RF03167](https://rfam.xfam.org/family/RF03167)(c-di-GMP-I-GGC riboswitch)** <br>
-&emsp;&emsp;&emsp;&emsp;**[RF03168](https://rfam.xfam.org/family/RF03168)(c-di-GMP-I-UAU riboswitch)** <br>
-&emsp;&emsp;&emsp;&emsp;**[RF01786](https://rfam.xfam.org/family/RF01786)(Cyclic di-GMP-II riboswitch)** <br>
-&emsp;&emsp;&emsp;&emsp;**[RF03169](https://rfam.xfam.org/family/RF03169)(c-di-GMP-II-GAG riboswitch)** <br>
-&emsp;&emsp;&emsp;&emsp;**[RF03170](https://rfam.xfam.org/family/RF03170)(c-di-GMP-II-GCG riboswitch)** <br>
+<p style="font-size: 24px"><strong>Rfam ID: [RF01051](https://rfam.xfam.org/family/RF01051,target="_blank")(Cyclic di-GMP-I riboswitch)</strong> <br /></p>
+<p style="font-size: 24px"><strong>&emsp;&emsp;&emsp;&emsp;[RF03167](https://rfam.xfam.org/family/RF03167,target="_blank")(c-di-GMP-I-GGC riboswitch)</strong> <br /></p>
+<p style="font-size: 24px"><strong>&emsp;&emsp;&emsp;&emsp;[RF03168](https://rfam.xfam.org/family/RF03168,target="_blank")(c-di-GMP-I-UAU riboswitch)</strong> <br /></p>
+<p style="font-size: 24px"><strong>&emsp;&emsp;&emsp;&emsp;[RF01786](https://rfam.xfam.org/family/RF01786,target="_blank")(Cyclic di-GMP-II riboswitch)</strong> <br /></p>
+<p style="font-size: 24px"><strong>&emsp;&emsp;&emsp;&emsp;[RF03169](https://rfam.xfam.org/family/RF03169,target="_blank")(c-di-GMP-II-GAG riboswitch)</strong> <br /></p>
+<p style="font-size: 24px"><strong>&emsp;&emsp;&emsp;&emsp;[RF03170](https://rfam.xfam.org/family/RF03170,target="_blank")(c-di-GMP-II-GCG riboswitch)</strong> <br /></p>
 
 <html lang="zh-cn">
 <head>

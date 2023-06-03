@@ -5,9 +5,9 @@ date:   2023-04-18 00:00:00
 author: Zhizhong Lu, Wenjian Liao
 permalink: /docs/SAM-I_clan/
 ---
-<p style="font-size: 24px"><strong>Rfam ID: [RF00162](https://rfam.xfam.org/family/RF00162)(SAM riboswitch (S box leader))</strong> <br /></p>
-&emsp;&emsp;&emsp;&emsp;**[RF00634](https://rfam.xfam.org/family/RF00634)(S-adenosyl methionine (SAM) riboswitch)** <br>
-&emsp;&emsp;&emsp;&emsp;**[RF01725](https://rfam.xfam.org/family/RF01725)(SAM-I/IV variant riboswitch)** <br>
+<p style="font-size: 24px"><strong>Rfam ID: [RF00162](https://rfam.xfam.org/family/RF00162,target="_blank")(SAM riboswitch (S box leader))</strong> <br /></p>
+<p style="font-size: 24px"><strong>&emsp;&emsp;&emsp;&emsp;[RF00634](https://rfam.xfam.org/family/RF00634,target="_blank")(S-adenosyl methionine (SAM) riboswitch)</strong> <br /></p>
+<p style="font-size: 24px"><strong>&emsp;&emsp;&emsp;&emsp;[RF01725](https://rfam.xfam.org/family/RF01725,target="_blank")(SAM-I/IV variant riboswitch)</strong> <br /></p>
 
 <html lang="zh-cn">
 <head>

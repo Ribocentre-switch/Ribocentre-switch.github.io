@@ -5,8 +5,8 @@ date:   2023-04-05 00:00:00
 author: Xiaowei Lin, Yuanyin Huang
 permalink: /docs/THF/
 ---
-<p style="font-size: 24px"><strong>Rfam ID: [RF01831](https://rfam.xfam.org/family/RF01831)(THF riboswitch)</strong> <br /></p>
-&emsp;&emsp;&emsp;&emsp;**[RF02977](https://rfam.xfam.org/family/RF02977)(<i>folE</i> RNA)** <br>
+<p style="font-size: 24px"><strong>Rfam ID: [RF01831](https://rfam.xfam.org/family/RF01831,target="_blank")(THF riboswitch)</strong> <br /></p>
+<p style="font-size: 24px"><strong>&emsp;&emsp;&emsp;&emsp;[RF02977](https://rfam.xfam.org/family/RF02977,target="_blank")(<i>folE</i> RNA)</strong> <br /></p>
 
 <html lang="zh-cn">
 <head>

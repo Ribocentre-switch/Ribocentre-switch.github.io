@@ -5,7 +5,7 @@ date:   2023-05-15 00:00:00
 author: Xuemei Peng, Xiaoxue Chen
 permalink: /docs/NAD<sup>+</sup>-II/
 ---
-<p style="font-size: 24px"><strong>Rfam ID: [nan](https://rfam.xfam.org/family/nan)(nan)</strong> <br /></p>
+<p style="font-size: 24px"><strong>Rfam ID: [nan](https://rfam.xfam.org/family/nan,target="_blank")(nan)</strong> <br /></p>
 
 <html lang="zh-cn">
 <head>

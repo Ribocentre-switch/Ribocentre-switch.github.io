@@ -5,7 +5,7 @@ date:   2023-04-25 00:00:00
 author: Wenjian Liao, Zhizhong Lu
 permalink: /docs/Adenine/
 ---
-<p style="font-size: 24px"><strong>Rfam ID: [RF00167](https://rfam.xfam.org/family/RF00167)(Purine riboswitch)</strong> <br /></p>
+<p style="font-size: 24px"><strong>Rfam ID: [RF00167](https://rfam.xfam.org/family/RF00167,target="_blank")(Purine riboswitch)</strong> <br /></p>
 
 <html lang="zh-cn">
 <head>

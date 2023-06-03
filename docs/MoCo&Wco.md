@@ -5,7 +5,7 @@ date:   2023-04-08 00:00:00
 author: Xiaowei Lin, Yuanyin Huang
 permalink: /docs/MoCo&Wco/
 ---
-<p style="font-size: 24px"><strong>Rfam ID: [RF01055](https://rfam.xfam.org/family/RF01055)(MoCo (molybdenum cofactor) riboswitch)</strong> <br /></p>
+<p style="font-size: 24px"><strong>Rfam ID: [RF01055](https://rfam.xfam.org/family/RF01055,target="_blank")(MoCo (molybdenum cofactor) riboswitch)</strong> <br /></p>
 
 <html lang="zh-cn">
 <head>

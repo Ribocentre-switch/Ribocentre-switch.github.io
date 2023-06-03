@@ -5,7 +5,7 @@ date:   2023-05-06 00:00:00
 author: Jiuhong Jiang, Xiaowei Lin
 permalink: /docs/GlcN6P/
 ---
-<p style="font-size: 24px"><strong>Rfam ID: [RF00234](https://rfam.xfam.org/family/RF00234)(glmS glucosamine-6-phosphate activated ribozyme)</strong> <br /></p>
+<p style="font-size: 24px"><strong>Rfam ID: [RF00234](https://rfam.xfam.org/family/RF00234,target="_blank")(glmS glucosamine-6-phosphate activated ribozyme)</strong> <br /></p>
 
 <html lang="zh-cn">
 <head>

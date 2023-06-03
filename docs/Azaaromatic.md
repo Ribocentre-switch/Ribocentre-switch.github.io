@@ -5,7 +5,7 @@ date:   2023-04-23 00:00:00
 author: Yuanyin Huang, Xiaowei Lin
 permalink: /docs/Azaaromatic/
 ---
-<p style="font-size: 24px"><strong>Rfam ID: [RF01764](https://rfam.xfam.org/family/RF01764)(yjdF RNA)</strong> <br /></p>
+<p style="font-size: 24px"><strong>Rfam ID: [RF01764](https://rfam.xfam.org/family/RF01764,target="_blank")(yjdF RNA)</strong> <br /></p>
 
 <html lang="zh-cn">
 <head>

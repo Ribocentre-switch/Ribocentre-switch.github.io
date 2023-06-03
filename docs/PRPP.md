@@ -5,7 +5,7 @@ date:   2023-05-17 00:00:00
 author: Wenjian Liao, Zhizhong Lu
 permalink: /docs/PRPP/
 ---
-<p style="font-size: 24px"><strong>Rfam ID: [nan](https://rfam.xfam.org/family/nan)(nan)</strong> <br /></p>
+<p style="font-size: 24px"><strong>Rfam ID: [nan](https://rfam.xfam.org/family/nan,target="_blank")(nan)</strong> <br /></p>
 
 <html lang="zh-cn">
 <head>

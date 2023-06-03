@@ -5,7 +5,7 @@ date:   2023-05-04 00:00:00
 author: Yuanlin He, Jie Deng
 permalink: /docs/Manganese/
 ---
-<p style="font-size: 24px"><strong>Rfam ID: [RF00080](https://rfam.xfam.org/family/RF00080)(<i>yybP-ykoY</i> manganese riboswitch)</strong> <br /></p>
+<p style="font-size: 24px"><strong>Rfam ID: [RF00080](https://rfam.xfam.org/family/RF00080,target="_blank")(<i>yybP-ykoY</i> manganese riboswitch)</strong> <br /></p>
 
 <html lang="zh-cn">
 <head>

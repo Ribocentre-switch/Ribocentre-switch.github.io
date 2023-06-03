@@ -5,7 +5,7 @@ date:   2023-04-28 00:00:00
 author: Zhizhong Lu, Wenjian Liao
 permalink: /docs/SAM-VI/
 ---
-<p style="font-size: 24px"><strong>Rfam ID: [RF02885](https://rfam.xfam.org/family/RF02885)(SAM-VI riboswitch)</strong> <br /></p>
+<p style="font-size: 24px"><strong>Rfam ID: [RF02885](https://rfam.xfam.org/family/RF02885,target="_blank")(SAM-VI riboswitch)</strong> <br /></p>
 
 <html lang="zh-cn">
 <head>
