@@ -57,7 +57,7 @@ permalink: /docs/PRA/
         
 <p class="header_box">Description</p>
 ***
-<font size="4">The PRA riboswitch (<i>Fibro-purF</i> RNA motif) is a conserved RNA structure that was discovered by bioinformatics. All known <i>Fibro-purF</i> RNAs are found upstream of <i>purF</i> genes, which encode amidophosphoribosyltransferase, which participates in the biosynthesis of biological purine molecules. Due to the instability of the proposed ligand, 5-phospho-D-ribosylamine, direct experiments to confirm this ligand have not yet been conducted (From Wikipedia)<sup></sup>.</font>
+<font size="4">The PRA riboswitch (<i>Fibro-purF</i> RNA motif) is a conserved RNA structure that was discovered by bioinformatics. All known <i>Fibro-purF</i> RNAs are found upstream of <i>purF</i> genes, which encode amidophosphoribosyltransferase that participates in the biosynthesis of biological purine molecules. Due to the instability of the proposed ligand, 5-phospho-D-ribosylamine, direct experiments to confirm this ligand have not yet been conducted (From Wikipedia)<sup></sup>.</font>
 <p><br /></p>
             
 > Gene association
@@ -67,7 +67,7 @@ permalink: /docs/PRA/
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;">
 <tr >
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
-  <img src="/images/gene_association/PRA_riboswitch_gene_association" alt="drawing" style="width:800px;margin-top: 0px;margin-bottom: 0px;" >
+  <img src="/images/gene_association/PRA_riboswitch_gene_association.svg" alt="drawing" style="width:800px;margin-top: 0px;margin-bottom: 0px;" >
 </td>
 </tr>
 </table>

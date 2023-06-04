@@ -90,12 +90,12 @@ The Magnesium responsive RNA element, not to be confused with the completely dis
             
 > Gene association
         
-<font size="4">(暂缺)<sup>(暂缺)</sup>.</font>
+<font size="4">Mg<sup>2+</sup> riboswitch in <i>Salmonella enterica</i>. Magnesium-responsive regulatory pathways in the bacteria <i>Salmonella enterica</i> by the two-component regulatory system consisting of PhoQ, the membrane-bound sensor kinase, and PhoP, a transcription regulator. PhoP, which is phosphorylated, affects more than 100 genes in response to fluctuations in the Mg<sup>2+</sup> concentration. The regulatory system PhoQ/PhoP is a two-component system activated in low magnesium levels or by cationic peptides. Genes regulated by PhoP-PhoQ are depicted in grey boxes and ovals<sup></sup>.</font>
 <p><br /></p>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;">
 <tr >
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
-  <img src="/images/gene_association/(暂缺)" alt="drawing" style="width:800px;margin-top: 0px;margin-bottom: 0px;" >
+  <img src="/images/gene_association/Magnesium_riboswitch_gene_association.svg" alt="drawing" style="width:800px;margin-top: 0px;margin-bottom: 0px;" >
 </td>
 </tr>
 </table>
@@ -496,23 +496,23 @@ Right: Nucleotides that contact Mg1-3 via inner and outer sphere interactions ar
 <p class="header_box">References</p>
 <p><br /></p>
             
-<p><strong>[1]New RNA motifs suggest an expanded scope for riboswitches in bacterial genetic control.</strong><br />
-Barrick, J. E. et al<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/15096624/" target="_blank">Proc. Natl. Acad. Sci. U. S. A. 101, 6421–6426 (2004)</a><br /><br /></p>
+<p><strong>[1]New RNA motifs suggest an expanded scope for riboswitches in bacterial genetic control..</strong><br />
+Barrick, J. E. et al.<br />
+<a href="https://pubmed.ncbi.nlm.nih.gov/15096624/" target="_blank">Proc. Natl. Acad. Sci. U. S. A. 101, 6421–6426 (2004).</a><br /><br /></p>
                 
-<p><strong>[2]An RNA sensor for intracellular Mg(2+).</strong><br />
-Cromie, M. J., Shi, Y., Latifi, T. & Groisman, E. A<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/16615891/" target="_blank">Cell 125, 71–84 (2006)</a><br /><br /></p>
+<p><strong>[2]An RNA sensor for intracellular Mg(2+)..</strong><br />
+Cromie, M. J., Shi, Y., Latifi, T. & Groisman, E. A.<br />
+<a href="https://pubmed.ncbi.nlm.nih.gov/16615891/" target="_blank">Cell 125, 71–84 (2006).</a><br /><br /></p>
                 
-<p><strong>[3]Structure and mechanism of a metal-sensing regulatory RNA.</strong><br />
-Dann, C. E., 3rd et al<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/17803910/" target="_blank">Cell 130, 878–892 (2007)</a><br /><br /></p>
+<p><strong>[3]Structure and mechanism of a metal-sensing regulatory RNA..</strong><br />
+Dann, C. E., 3rd et al.<br />
+<a href="https://pubmed.ncbi.nlm.nih.gov/17803910/" target="_blank">Cell 130, 878–892 (2007).</a><br /><br /></p>
                 
-<p><strong>[4]Multiple metal-binding cores are required for metalloregulation by M-box riboswitch RNAs.</strong><br />
-Wakeman, C. A., Ramesh, A. & Winkler, W. C<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/19619558/" target="_blank">J. Mol. Biol. 392, 723–735 (2009)</a><br /><br /></p>
+<p><strong>[4]Multiple metal-binding cores are required for metalloregulation by M-box riboswitch RNAs..</strong><br />
+Wakeman, C. A., Ramesh, A. & Winkler, W. C.<br />
+<a href="https://pubmed.ncbi.nlm.nih.gov/19619558/" target="_blank">J. Mol. Biol. 392, 723–735 (2009).</a><br /><br /></p>
                 
-<p><strong>[5]Insights into metalloregulation by M-box riboswitch RNAs via structural analysis of manganese-bound complexes.</strong><br />
-Ramesh, A., Wakeman, C. A. & Winkler, W. C<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/21315082/" target="_blank">J. Mol. Biol. 407, 556–570 (2011)</a><br /><br /></p>
+<p><strong>[5]Insights into metalloregulation by M-box riboswitch RNAs via structural analysis of manganese-bound complexes..</strong><br />
+Ramesh, A., Wakeman, C. A. & Winkler, W. C.<br />
+<a href="https://pubmed.ncbi.nlm.nih.gov/21315082/" target="_blank">J. Mol. Biol. 407, 556–570 (2011).</a><br /><br /></p>
                 

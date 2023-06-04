@@ -32,7 +32,7 @@ permalink: /docs/NAD<sup>+</sup>-I/
           
     <li class="day">
      <div class="events">
-       <p >Discovery of NAD<sup>+</sup>-I-I riboswitch</p>
+       <p >Discovery of NAD<sup>+</sup>-I riboswitch</p>
        <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/28977401/" target="_blank">2017</a><sup>[1]</sup></div>
      </div>
     </li>
@@ -40,7 +40,7 @@ permalink: /docs/NAD<sup>+</sup>-I/
 
     <li class="day">
      <div class="events">
-       <p >Biochemical validation of NAD<sup>+</sup>-I-I riboswitch</p>
+       <p >Biochemical validation of NAD<sup>+</sup>-I riboswitch</p>
        <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/31467147/" target="_blank">2019</a><sup>[2]</sup></div>
      </div>
     </li>
@@ -334,18 +334,18 @@ permalink: /docs/NAD<sup>+</sup>-I/
 <p><br /></p>
             
 <p><strong>[1]Detection of 224 candidate structured RNAs by comparative analysis of specific subsets of intergenic regions.</strong><br />
-Weinberg, Z. et al<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/28977401/" target="_blank">Nucleic Acids Res. 45, 10811–10823 (2017)</a><br /><br /></p>
+Weinberg, Z. et al.<br />
+<a href="https://pubmed.ncbi.nlm.nih.gov/28977401/" target="_blank">Nucleic Acids Res. 45, 10811–10823 (2017).</a><br /><br /></p>
                 
 <p><strong>[2]Evidence that the nadA motif is a bacterial riboswitch for the ubiquitous enzyme  cofactor NAD.</strong><br />
-Malkowski, S. N., Spencer, T. C. J. & Breaker, R. R<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/31467147/" target="_blank">RNA 25, 1616–1627 (2019)</a><br /><br /></p>
+Malkowski, S. N., Spencer, T. C. J. & Breaker, R. R.<br />
+<a href="https://pubmed.ncbi.nlm.nih.gov/31467147/" target="_blank">RNA 25, 1616–1627 (2019).</a><br /><br /></p>
                 
 <p><strong>[3]Structure and ligand binding of the ADP-binding domain of the NAD<sup>+</sup> riboswitch.</strong><br />
-Huang, L., Wang, J. & Lilley, D. M. J<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/32295864/" target="_blank">RNA 26, 878–887 (2020)</a><br /><br /></p>
+Huang, L., Wang, J. & Lilley, D. M. J.<br />
+<a href="https://pubmed.ncbi.nlm.nih.gov/32295864/" target="_blank">RNA 26, 878–887 (2020).</a><br /><br /></p>
                 
 <p><strong>[4]Structural distinctions between NAD<sup>+</sup> riboswitch domains 1 and 2 determine  differential folding and ligand binding.</strong><br />
-Chen, H. et al<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/33170270/" target="_blank">Nucleic Acids Res. 48, 12394–12406 (2020)</a><br /><br /></p>
+Chen, H. et al.<br />
+<a href="https://pubmed.ncbi.nlm.nih.gov/33170270/" target="_blank">Nucleic Acids Res. 48, 12394–12406 (2020).</a><br /><br /></p>
                 

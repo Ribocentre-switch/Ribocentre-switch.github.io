@@ -221,35 +221,35 @@ permalink: /docs/MoCo&Wco/
 <p class="header_box">References</p>
 <p><br /></p>
             
-<p><strong>[1]Molybdenum cofactor biosynthesis and deficiency.</strong><br />
-Schwarz, G<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/16261263/" target="_blank">Cell. Mol. Life Sci. 62, (2005)</a><br /><br /></p>
+<p><strong>[1]Molybdenum cofactor biosynthesis and deficiency..</strong><br />
+Schwarz, G.<br />
+<a href="https://pubmed.ncbi.nlm.nih.gov/16261263/" target="_blank">Cell. Mol. Life Sci. 62, (2005).</a><br /><br /></p>
                 
-<p><strong>[2]Identification of 22 candidate structured RNAs in bacteria using the CMfinder comparative genomics pipeline.</strong><br />
-Weinberg, Z. et al<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/17621584/" target="_blank">Nucleic Acids Res. 35, (2007)</a><br /><br /></p>
+<p><strong>[2]Identification of 22 candidate structured RNAs in bacteria using the CMfinder comparative genomics pipeline..</strong><br />
+Weinberg, Z. et al.<br />
+<a href="https://pubmed.ncbi.nlm.nih.gov/17621584/" target="_blank">Nucleic Acids Res. 35, (2007).</a><br /><br /></p>
                 
-<p><strong>[3]A widespread riboswitch candidate that controls bacterial genes involved in molybdenum cofactor and tungsten cofactor metabolism.</strong><br />
-Regulski, E. E. et al<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/18363797/" target="_blank">Mol. Microbiol. 68, (2008)</a><br /><br /></p>
+<p><strong>[3]A widespread riboswitch candidate that controls bacterial genes involved in molybdenum cofactor and tungsten cofactor metabolism..</strong><br />
+Regulski, E. E. et al.<br />
+<a href="https://pubmed.ncbi.nlm.nih.gov/18363797/" target="_blank">Mol. Microbiol. 68, (2008).</a><br /><br /></p>
                 
-<p><strong>[4]Function of MoaB proteins in the biosynthesis of the molybdenum and tungsten cofactors.</strong><br />
-Bevers, L. E. et al<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/18154309/" target="_blank">Biochemistry 47, (2008)</a><br /><br /></p>
+<p><strong>[4]Function of MoaB proteins in the biosynthesis of the molybdenum and tungsten cofactors..</strong><br />
+Bevers, L. E. et al.<br />
+<a href="https://pubmed.ncbi.nlm.nih.gov/18154309/" target="_blank">Biochemistry 47, (2008).</a><br /><br /></p>
                 
-<p><strong>[5]Molybdenum enzymes, their maturation and molybdenum cofactor biosynthesis in Escherichia coli.</strong><br />
-Iobbi-Nivol, C. & Leimkühler, S<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/23201473/" target="_blank">Biochim. Biophys. Acta 1827, 1086–1101 (2013)</a><br /><br /></p>
+<p><strong>[5]Molybdenum enzymes, their maturation and molybdenum cofactor biosynthesis in Escherichia coli..</strong><br />
+Iobbi-Nivol, C. & Leimkühler, .<br />
+<a href="https://pubmed.ncbi.nlm.nih.gov/23201473/" target="_blank">Biochim. Biophys. Acta 1827, 1086–1101 (2013).</a><br /><br /></p>
                 
-<p><strong>[6]Mechanism of pyranopterin ring formation in molybdenum cofactor biosynthesis.</strong><br />
-Hover, B. M., Tonthat, N. K., Schumacher, M. A. & Yokoyama, K<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/25941396/" target="_blank">Proc. Natl. Acad. Sci. U. S. A. 112, 6347–6352 (2015)</a><br /><br /></p>
+<p><strong>[6]Mechanism of pyranopterin ring formation in molybdenum cofactor biosynthesis..</strong><br />
+Hover, B. M., Tonthat, N. K., Schumacher, M. A. & Yokoyama, K.<br />
+<a href="https://pubmed.ncbi.nlm.nih.gov/25941396/" target="_blank">Proc. Natl. Acad. Sci. U. S. A. 112, 6347–6352 (2015).</a><br /><br /></p>
                 
-<p><strong>[7]Bioinformatics and Genomic Analyses of the Suitability of Eight Riboswitches for Antibacterial Drug Targets.</strong><br />
-Pavlova, N. & Penchovsky, R<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/36139956/" target="_blank">Antibiotics (Basel) 11, (2022)</a><br /><br /></p>
+<p><strong>[7]Bioinformatics and Genomic Analyses of the Suitability of Eight Riboswitches for Antibacterial Drug Targets..</strong><br />
+Pavlova, N. & Penchovsky, R.<br />
+<a href="https://pubmed.ncbi.nlm.nih.gov/36139956/" target="_blank">Antibiotics (Basel) 11, (2022).</a><br /><br /></p>
                 
-<p><strong>[8]The structural features of the ligand-free moaA riboswitch and its ion-dependent folding.</strong><br />
-Amadei, F., Reichenbach, M., Gallo, S. & Sigel, R. K. O<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/36774787/" target="_blank">J. Inorg. Biochem. 242, 112153 (2023)</a><br /><br /></p>
+<p><strong>[8]The structural features of the ligand-free moaA riboswitch and its ion-dependent folding..</strong><br />
+Amadei, F., Reichenbach, M., Gallo, S. & Sigel, R. K. O.<br />
+<a href="https://pubmed.ncbi.nlm.nih.gov/36774787/" target="_blank">J. Inorg. Biochem. 242, 112153 (2023).</a><br /><br /></p>
                 

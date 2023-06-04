@@ -3,9 +3,11 @@
 <svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 400 400" style="enable-background:new 0 0 400 400;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:#0A0000;}
-	.st1{font-family:'ArialMT';}
-	.st2{font-size:20px;}
+	.st0{enable-background:new    ;}
+	.st1{fill:#0A0000;}
+	.st2{font-family:'ArialMT';}
+	.st3{font-size:20px;}
+	.st4{letter-spacing:30;}
 </style>
 <image style="overflow:visible;enable-background:new    ;" width="1604" height="1485" xlink:href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEBSwFLAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA
 EAMCAwYAAFYRAACgwQABRsX/2wCEABALCwsMCxAMDBAXDw0PFxsUEBAUGx8XFxcXFx8eFxoaGhoX
@@ -1476,11 +1478,11 @@ Co9ZHfhU2lQG3Gh9YHzjnoMpurC4PMf3iPrPhgEOrOLQ4COQ82XCx35V3GpjaKVDZkcFSOvkaIqC
 Tto8+yoI3FmSNFYc4UA/vF/NXu9Ug/K1C+svMfeHT4q7rWJ2PYnS5jfoawx5jWeNR67XRmLTR9uO
 N8Gkb2ezsUZ459H7xyrAMpzBxBoPHBGjDJlRQesD/wDBEf/Z" transform="matrix(0.22 0 0 0.22 35.31 32.68)">
 </image>
-<text transform="matrix(1 0 0 1 115.4603 234.9997)" class="st0 st1 st2">xanthine</text>
-<text transform="matrix(1 0 0 1 278.6737 235)" class="st0 st1 st2">Mg</text>
-<text transform="matrix(1 0 0 1 125.14 72.71)" class="st0 st1 st2">G35</text>
-<text transform="matrix(1 0 0 1 244.6073 327.73)" class="st0 st1 st2">A6</text>
-<text transform="matrix(1 0 0 1 315.36 99.2)" class="st0 st1 st2">G10</text>
-<text transform="matrix(1 0 0 1 57.68 121.7)" class="st0 st1 st2">U40</text>
-<text transform="matrix(1 0 0 1 22.85 225.55)" class="st0 st1 st2">Mg</text>
+<text transform="matrix(1 0 0 1 105.104 232.0466)" class="st0"><tspan x="0" y="0" class="st1 st2 st3 st4">	</tspan><tspan x="36" y="0" class="st1 st2 st3">Xan</tspan></text>
+<text transform="matrix(1 0 0 1 278.6737 235)" class="st1 st2 st3">Mg</text>
+<text transform="matrix(1 0 0 1 125.14 72.71)" class="st1 st2 st3">G35</text>
+<text transform="matrix(1 0 0 1 244.6073 327.73)" class="st1 st2 st3">A6</text>
+<text transform="matrix(1 0 0 1 315.36 99.2)" class="st1 st2 st3">G10</text>
+<text transform="matrix(1 0 0 1 57.68 121.7)" class="st1 st2 st3">U40</text>
+<text transform="matrix(1 0 0 1 22.85 225.55)" class="st1 st2 st3">Mg</text>
 </svg>

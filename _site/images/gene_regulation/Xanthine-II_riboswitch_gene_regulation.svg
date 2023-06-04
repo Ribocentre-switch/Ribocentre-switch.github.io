@@ -5,8 +5,8 @@
 <style type="text/css">
 	.st0{fill:none;stroke:#9D9D9D;}
 	.st1{fill:none;stroke:#251E1C;}
-	.st2{fill:#FFFFFF;stroke:#FFFFFF;stroke-width:1;stroke-miterlimit:3.9999;}
-	.st3{fill:#FFFFFF;stroke:#FFFFFF;stroke-width:1;stroke-miterlimit:4.0001;}
+	.st2{fill:#FFFFFF;stroke:#FFFFFF;stroke-width:1;stroke-miterlimit:3.9998;}
+	.st3{fill:#FFFFFF;stroke:#FFFFFF;stroke-width:1;stroke-miterlimit:4.0002;}
 	.st4{fill:none;stroke:#4EADC2;}
 	.st5{fill:none;}
 	.st6{fill:#4EADC2;}
@@ -41,12 +41,12 @@
 	<path class="st1" d="M169.3,211.8c-6,1.7-12.1-1.8-13.8-7.8s1.8-12.1,7.8-13.8s12.1,1.8,13.8,7.8
 		C178.8,203.9,175.3,210.1,169.3,211.8z"/>
 	
-		<rect x="158.6" y="185.9" transform="matrix(0.9627 -0.2705 0.2705 0.9627 -45.5376 51.3742)" class="st2" width="10" height="10"/>
+		<rect x="158.6" y="185.9" transform="matrix(0.9627 -0.2705 0.2705 0.9627 -45.5402 51.3713)" class="st2" width="10" height="10"/>
 </g>
 <path class="st1" d="M207.8,112.6c-0.8,6.1-6.4,10.5-12.5,9.7s-10.5-6.4-9.7-12.5s6.4-10.5,12.5-9.7
 	C204.2,100.9,208.5,106.5,207.8,112.6z"/>
-<rect x="78" y="92.2" transform="matrix(0.1241 -0.9923 0.9923 0.1241 -23.6609 167.6184)" class="st3" width="10.2" height="10"/>
-<rect x="181.6" y="104.8" transform="matrix(0.1241 -0.9923 0.9923 0.1241 54.4174 281.3418)" class="st3" width="10" height="10"/>
+<rect x="78" y="92.2" transform="matrix(0.1241 -0.9923 0.9923 0.1241 -23.6787 167.617)" class="st3" width="10.2" height="10"/>
+<rect x="181.5" y="104.8" transform="matrix(0.1241 -0.9923 0.9923 0.1241 54.4254 281.2656)" class="st3" width="10" height="10"/>
 <path class="st1" d="M121.5,119.8c-4.3-1.8-8.9-7.3-10.1-12.3"/>
 <path class="st1" d="M113.5,94.8c0.9-7.2,9.4-12.1,18.9-11c9.5,1.2,16.5,8,15.6,15.3"/>
 <g>
@@ -79,8 +79,8 @@
 <path class="st1" d="M235.6,287.8c-0.9,7-7.3,12-14.3,11.1s-12-7.3-11.1-14.3s7.3-12,14.3-11.1C231.5,274.3,236.5,280.7,235.6,287.8
 	z"/>
 <line class="st4" x1="153" y1="295.2" x2="153" y2="345.7"/>
-<rect x="87.1" y="264.4" transform="matrix(0.1241 -0.9923 0.9923 0.1241 -186.6088 328.7798)" class="st3" width="11.7" height="11.4"/>
-<rect x="205.6" y="278.9" transform="matrix(0.1241 -0.9923 0.9923 0.1241 -97.3971 458.9528)" class="st3" width="11.4" height="11.4"/>
+<rect x="87.1" y="264.4" transform="matrix(0.1241 -0.9923 0.9923 0.1241 -186.5652 328.7789)" class="st3" width="11.7" height="11.4"/>
+<rect x="205.5" y="278.9" transform="matrix(0.1241 -0.9923 0.9923 0.1241 -97.3783 458.882)" class="st3" width="11.4" height="11.4"/>
 <path class="st1" d="M136.9,296c-4.9-2-10.1-8.4-11.5-14"/>
 <path class="st1" d="M127.7,267.4c1-8.3,10.7-13.9,21.6-12.5c10.9,1.4,18.9,9.2,17.9,17.5"/>
 <rect x="105.7" y="313.7" class="st5" width="29.3" height="17.4"/>

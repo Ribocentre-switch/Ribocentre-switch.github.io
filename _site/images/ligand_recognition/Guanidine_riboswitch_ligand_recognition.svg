@@ -19,7 +19,7 @@
 	.st13{font-size:8.1753px;}
 </style>
 <line class="st0" x1="65.2" y1="280.8" x2="388.4" y2="280.8"/>
-<text transform="matrix(0.6264 -0.7795 0.7795 0.6264 175.3166 372.8886)" class="st1 st2">Methylguanidine</text>
+<text transform="matrix(0.6264 -0.7795 0.7795 0.6264 173.2916 377.7728)" class="st1 st2">Methylguanidine</text>
 <text transform="matrix(1 0 0 1 178.7558 237.6931)" class="st1 st2">Log K</text>
 <text transform="matrix(1 0 0 1 215.3458 237.6931)" class="st1 st3">D</text>
 <text transform="matrix(1 0 0 1 221.8458 237.6931)" class="st1 st2">(M)</text>
@@ -35,11 +35,11 @@
 <ellipse class="st4" cx="239.8" cy="280.8" rx="1.9" ry="2.2"/>
 <ellipse class="st4" cx="106" cy="280.7" rx="1.9" ry="2.2"/>
 <text transform="matrix(0.8771 0 0 1 119.0386 271.2891)" class="st1 st2">-4</text>
-<text transform="matrix(0.8771 0 0 1 226.8071 271.0381)" class="st1 st2">-3</text>
-<text transform="matrix(0.8771 0 0 1 327.2788 271.0381)" class="st1 st2">-2</text>
-<text transform="matrix(0.6264 -0.7795 0.7795 0.6264 68.144 341.9023)" class="st1 st2">Guanidine</text>
-<text transform="matrix(0.6264 -0.7795 0.7795 0.6264 199.2787 372.8886)" class="st1 st2">Aminoguanidine</text>
-<text transform="matrix(0.6264 -0.7795 0.7795 0.6264 277.599 367.7236)" class="st1 st2">Ethylguanidine</text>
+<text transform="matrix(0.8771 0 0 1 226.8066 271.0381)" class="st1 st2">-3</text>
+<text transform="matrix(0.8771 0 0 1 327.2793 271.0381)" class="st1 st2">-2</text>
+<text transform="matrix(0.6264 -0.7795 0.7795 0.6264 68.1439 341.9026)" class="st1 st2">Guanidine</text>
+<text transform="matrix(0.6264 -0.7795 0.7795 0.6264 195.6813 377.7728)" class="st1 st2">Aminoguanidine</text>
+<text transform="matrix(0.6264 -0.7795 0.7795 0.6264 277.599 372.2239)" class="st1 st2">Ethylguanidine</text>
 <g>
 	<line class="st5" x1="122" y1="55.4" x2="122" y2="79.1"/>
 	<line class="st5" x1="116.3" y1="55.4" x2="116.3" y2="79.1"/>
@@ -66,15 +66,15 @@
 <text transform="matrix(1 0 0 1 131.1456 187.6232)" class="st1 st2">=60uM</text>
 <g>
 	<line class="st5" x1="245.7" y1="79.4" x2="269.1" y2="92.8"/>
-	<text transform="matrix(1.0042 0 0 1 268.147 100.2158)" class="st1 st8">N</text>
-	<text transform="matrix(1.0042 0 0 1 268.147 117.9424)" class="st1 st8">H</text>
+	<text transform="matrix(1.0042 0 0 1 268.1475 100.2158)" class="st1 st8">N</text>
+	<text transform="matrix(1.0042 0 0 1 268.1475 117.9424)" class="st1 st8">H</text>
 	<line class="st5" x1="306.5" y1="79.4" x2="330" y2="92.8"/>
-	<text transform="matrix(1.0042 0 0 1 328.9888 100.2158)" class="st1 st8">N</text>
-	<text transform="matrix(1.0042 0 0 1 340.1821 100.2158)" class="st1 st8">H</text>
-	<text transform="matrix(1.0042 0 0 1 351.3599 104.3398)" class="st1 st9">2</text>
-	<text transform="matrix(1.0042 0 0 1 298.561 47.7373)" class="st1 st8">N</text>
-	<text transform="matrix(1.0042 0 0 1 309.7534 47.7373)" class="st1 st8">H</text>
-	<text transform="matrix(1.0042 0 0 1 320.9321 51.874)" class="st1 st9">2</text>
+	<text transform="matrix(1.0042 0 0 1 328.9893 100.2158)" class="st1 st8">N</text>
+	<text transform="matrix(1.0042 0 0 1 340.1826 100.2158)" class="st1 st8">H</text>
+	<text transform="matrix(1.0042 0 0 1 351.3604 104.3398)" class="st1 st9">2</text>
+	<text transform="matrix(1.0042 0 0 1 298.5615 47.7373)" class="st1 st8">N</text>
+	<text transform="matrix(1.0042 0 0 1 309.7539 47.7373)" class="st1 st8">H</text>
+	<text transform="matrix(1.0042 0 0 1 320.9326 51.874)" class="st1 st9">2</text>
 	<line class="st5" x1="283.1" y1="92.8" x2="306.5" y2="79.4"/>
 	<line class="st5" x1="309.4" y1="54.6" x2="309.4" y2="77.7"/>
 	<line class="st5" x1="303.7" y1="54.6" x2="303.7" y2="77.7"/>

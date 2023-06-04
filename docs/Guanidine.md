@@ -8,7 +8,6 @@ permalink: /docs/Guanidine/
 <p style="font-size: 24px"><strong>Rfam ID: [RF00442](https://rfam.xfam.org/family/RF00442,target="_blank")(Guanidine-I riboswitch)</strong> <br /></p>
 <p style="font-size: 24px"><strong>&emsp;&emsp;&emsp;&emsp;[RF01068](https://rfam.xfam.org/family/RF01068,target="_blank")(Guanidine-II riboswitch)</strong> <br /></p>
 <p style="font-size: 24px"><strong>&emsp;&emsp;&emsp;&emsp;[RF01763](https://rfam.xfam.org/family/RF01763,target="_blank")(Guanidine-III riboswitch)</strong> <br /></p>
-<p style="font-size: 24px"><strong>&emsp;&emsp;&emsp;&emsp;[nan](https://rfam.xfam.org/family/nan,target="_blank")(nan)</strong> <br /></p>
 
 <html lang="zh-cn">
 <head>
@@ -883,55 +882,55 @@ permalink: /docs/Guanidine/
 <p class="header_box">References</p>
 <p><br /></p>
             
-<p><strong>[1]Metabolism of Free Guanidine in Bacteria Is Regulated by a Widespread Riboswitch Class.</strong><br />
-Nelson, J. W., Atilho, R. M., Sherlock, M. E., Stockbridge, R. B. & Breaker, R. R<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/27989440/" target="_blank">Mol. Cell 65, 220–230 (2017)</a><br /><br /></p>
+<p><strong>[1]Metabolism of Free Guanidine in Bacteria Is Regulated by a Widespread Riboswitch Class..</strong><br />
+Nelson, J. W., Atilho, R. M., Sherlock, M. E., Stockbridge, R. B. & Breaker, R. R.<br />
+<a href="https://pubmed.ncbi.nlm.nih.gov/27989440/" target="_blank">Mol. Cell 65, 220–230 (2017).</a><br /><br /></p>
                 
-<p><strong>[2]Biochemical Validation of a Second Guanidine Riboswitch Class in Bacteria.</strong><br />
-Sherlock, M. E., Malkowski, S. N. & Breaker, R. R<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/28001368/" target="_blank">Biochemistry 56, 352–358 (2017)</a><br /><br /></p>
+<p><strong>[2]Biochemical Validation of a Second Guanidine Riboswitch Class in Bacteria..</strong><br />
+Sherlock, M. E., Malkowski, S. N. & Breaker, R. R.<br />
+<a href="https://pubmed.ncbi.nlm.nih.gov/28001368/" target="_blank">Biochemistry 56, 352–358 (2017).</a><br /><br /></p>
                 
-<p><strong>[3]Biochemical Validation of a Third Guanidine Riboswitch Class in Bacteria.</strong><br />
-Sherlock, M. E. & Breaker, R. R<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/28001372/" target="_blank">Biochemistry 56, 359–363 (2017)</a><br /><br /></p>
+<p><strong>[3]Biochemical Validation of a Third Guanidine Riboswitch Class in Bacteria..</strong><br />
+Sherlock, M. E. & Breaker, R. R.<br />
+<a href="https://pubmed.ncbi.nlm.nih.gov/28001372/" target="_blank">Biochemistry 56, 359–363 (2017).</a><br /><br /></p>
                 
-<p><strong>[4]Structural Basis for Ligand Binding to the Guanidine-I Riboswitch.</strong><br />
-Reiss, C. W., Xiong, Y. & Strobel, S. A<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/28017522/" target="_blank">Structure 25, 195–202 (2017)</a><br /><br /></p>
+<p><strong>[4]Structural Basis for Ligand Binding to the Guanidine-I Riboswitch..</strong><br />
+Reiss, C. W., Xiong, Y. & Strobel, S. A.<br />
+<a href="https://pubmed.ncbi.nlm.nih.gov/28017522/" target="_blank">Structure 25, 195–202 (2017).</a><br /><br /></p>
                 
-<p><strong>[5]ykkCStructural basis for guanidine sensing by the family of riboswitches.</strong><br />
-Battaglia, R. A., Price, I. R. & Ke, A<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/28096518/" target="_blank">RNA 23, 578–585 (2017)</a><br /><br /></p>
+<p><strong>[5]ykkCStructural basis for guanidine sensing by the family of riboswitches..</strong><br />
+Battaglia, R. A., Price, I. R. & Ke, A.<br />
+<a href="https://pubmed.ncbi.nlm.nih.gov/28096518/" target="_blank">RNA 23, 578–585 (2017).</a><br /><br /></p>
                 
-<p><strong>[6]The Structure of the Guanidine-II Riboswitch.</strong><br />
-Huang, L., Wang, J. & Lilley, D. M. J<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/28529131/" target="_blank">Cell Chem Biol 24, 695–702.e2 (2017)</a><br /><br /></p>
+<p><strong>[6]The Structure of the Guanidine-II Riboswitch..</strong><br />
+Huang, L., Wang, J. & Lilley, D. M. J.<br />
+<a href="https://pubmed.ncbi.nlm.nih.gov/28529131/" target="_blank">Cell Chem Biol 24, 695–702.e2 (2017).</a><br /><br /></p>
                 
-<p><strong>[7]Structural basis for ligand binding to the guanidine-II riboswitch.</strong><br />
-Reiss, C. W. & Strobel, S. A<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/28600356/" target="_blank">RNA 23, 1338–1343 (2017)</a><br /><br /></p>
+<p><strong>[7]Structural basis for ligand binding to the guanidine-II riboswitch..</strong><br />
+Reiss, C. W. & Strobel, S. A.<br />
+<a href="https://pubmed.ncbi.nlm.nih.gov/28600356/" target="_blank">RNA 23, 1338–1343 (2017).</a><br /><br /></p>
                 
-<p><strong>[8]Structure of the Guanidine III Riboswitch.</strong><br />
-Huang, L., Wang, J., Wilson, T. J. & Lilley, D. M. J<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/28988949/" target="_blank">Cell Chem Biol 24, 1407–1415.e2 (2017)</a><br /><br /></p>
+<p><strong>[8]Structure of the Guanidine III Riboswitch..</strong><br />
+Huang, L., Wang, J., Wilson, T. J. & Lilley, D. M. J.<br />
+<a href="https://pubmed.ncbi.nlm.nih.gov/28988949/" target="_blank">Cell Chem Biol 24, 1407–1415.e2 (2017).</a><br /><br /></p>
                 
 <p><strong>[9]Do the P1 and P2 hairpins of the Guanidine-II riboswitch interact?.</strong><br />
-Wuebben, C., Vicino, M. F., Mueller, M. & Schiemann, O<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/32857846/" target="_blank">Nucleic Acids Res. 48, 10518–10526 (2020)</a><br /><br /></p>
+Wuebben, C., Vicino, M. F., Mueller, M. & Schiemann, O.<br />
+<a href="https://pubmed.ncbi.nlm.nih.gov/32857846/" target="_blank">Nucleic Acids Res. 48, 10518–10526 (2020).</a><br /><br /></p>
                 
-<p><strong>[10]Biochemical Validation of a Fourth Guanidine Riboswitch Class in Bacteria.</strong><br />
-Salvail, H., Balaji, A., Yu, D., Roth, A. & Breaker, R. R<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/33236895/" target="_blank">Biochemistry 59, 4654–4662 (2020)</a><br /><br /></p>
+<p><strong>[10]Biochemical Validation of a Fourth Guanidine Riboswitch Class in Bacteria..</strong><br />
+Salvail, H., Balaji, A., Yu, D., Roth, A. & Breaker, R. R.<br />
+<a href="https://pubmed.ncbi.nlm.nih.gov/33236895/" target="_blank">Biochemistry 59, 4654–4662 (2020).</a><br /><br /></p>
                 
-<p><strong>[11]Discovery and characterization of a fourth class of guanidine riboswitches.</strong><br />
-Lenkeit, F., Eckert, I., Hartig, J. S. & Weinberg, Z<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/33237283/" target="_blank">Nucleic Acids Res. 48, 12889–12899 (2020)</a><br /><br /></p>
+<p><strong>[11]Discovery and characterization of a fourth class of guanidine riboswitches..</strong><br />
+Lenkeit, F., Eckert, I., Hartig, J. S. & Weinberg, Z.<br />
+<a href="https://pubmed.ncbi.nlm.nih.gov/33237283/" target="_blank">Nucleic Acids Res. 48, 12889–12899 (2020).</a><br /><br /></p>
                 
-<p><strong>[12]Widespread bacterial utilization of guanidine as nitrogen source.</strong><br />
-Sinn, M., Hauth, F., Lenkeit, F., Weinberg, Z. & Hartig, J. S<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/33590553/" target="_blank">Mol. Microbiol. 116, 200–210 (2021)</a><br /><br /></p>
+<p><strong>[12]Widespread bacterial utilization of guanidine as nitrogen source..</strong><br />
+Sinn, M., Hauth, F., Lenkeit, F., Weinberg, Z. & Hartig, J. S.<br />
+<a href="https://pubmed.ncbi.nlm.nih.gov/33590553/" target="_blank">Mol. Microbiol. 116, 200–210 (2021).</a><br /><br /></p>
                 
-<p><strong>[13]Combining Coarse-Grained Simulations and Single Molecule Analysis Reveals a Three-State Folding Model of the Guanidine-II Riboswitch.</strong><br />
-Fuks, C., Falkner, S., Schwierz, N. & Hengesbach, M<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/35573739/" target="_blank">Front Mol Biosci 9, 826505 (2022)</a><br /><br /></p>
+<p><strong>[13]Combining Coarse-Grained Simulations and Single Molecule Analysis Reveals a Three-State Folding Model of the Guanidine-II Riboswitch..</strong><br />
+Fuks, C., Falkner, S., Schwierz, N. & Hengesbach, M.<br />
+<a href="https://pubmed.ncbi.nlm.nih.gov/35573739/" target="_blank">Front Mol Biosci 9, 826505 (2022).</a><br /><br /></p>
                 

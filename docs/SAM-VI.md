@@ -83,7 +83,7 @@ permalink: /docs/SAM-VI/
                 
 > Gene regulation
             
-<font size="4"><p>Model of SAM-VI riboswitch sequential folding and translational control.<sup>[2]</sup>.</p></font>
+<font size="4"><p>Model of SAM-VI riboswitch sequential folding and translational control<sup>[2]</sup>.</p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
   <img src="/images/gene_regulation/SAM-VI_riboswitch_gene_regulation.svg" alt="drawing" style="width:800px;margin-top: 0px;margin-bottom: 0px;" >
@@ -95,7 +95,7 @@ permalink: /docs/SAM-VI/
 <p class="header_box">Structure and Ligand recognition</p>
 > 2D representation
         
-<font size=4>Left: Consensus sequence and secondary structure model for the SAM-VI riboswitch. Right: Secondary structure depictions of the SAM-VI riboswitch according to PDB ID:6las.<sup></sup>.</font><br>
+<font size=4>Left: Consensus sequence and secondary structure model for the SAM-VI riboswitch. Right: Secondary structure depictions of the SAM-VI riboswitch according to PDB ID:6las<sup></sup>.</font><br>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
 <head>
@@ -178,7 +178,7 @@ permalink: /docs/SAM-VI/
                 
 > 3D visualisation
             
-<font size=4>2.71-Å resolution crystal structure of an S-adenosylmethionine (SAM) riboswitch from Thermoanaerobacter tengcongensis complexed with S-adenosylmethionine.SAM (shown in sticks) is labeled in red <sup>[2]</sup>.</font>
+<font size=4>2.71-Å resolution crystal structure of an S-adenosylmethionine (SAM) riboswitch from thermoanaerobacter tengcongensis complexed with S-adenosylmethionine.SAM (shown in sticks) is labeled in red <sup>[2]</sup>.</font>
   <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
   <img src="/images/3D/SAM-VI_riboswitch_3D.svg" alt="drawing" style="width:400px;height:400px;margin-top: 0px;margin-bottom: 0px;" >
@@ -271,7 +271,6 @@ permalink: /docs/SAM-VI/
   end_residue_number:101, 
   color:{r:255,g:11,b:12}
 }
-
               ]
             viewerInstance1.visual.select({ data: selectSections1, nonSelectedColor: {r:255,g:255,b:255}})" style="float:right;height:25px;width: 120px;">Color Selection</button><br><br>
           <button button style="float: left;height:25px;width: 120px;" onclick="viewerInstance1.visual.clearSelection()">Clear Selection</button><br><br>
@@ -284,7 +283,7 @@ permalink: /docs/SAM-VI/
       var viewerInstance1 = new PDBeMolstarPlugin();
       var options1 = {
         customData:{
-        url:'/docs/pdbfiles/6LAS.pdb',
+        url:'/docs/pdbfiles/6las.pdb',
         format: 'pdb'},
         expanded: false,
         hideControls: true,
@@ -323,15 +322,15 @@ permalink: /docs/SAM-VI/
 <p class="header_box">References</p>
 <p><br /></p>
             
-<p><strong>[1]SAM-VI RNAs selectively bind S-adenosylmethionine and exhibit similarities to SAM-III riboswitches.</strong><br />
+<p><strong>[1]SAM-VI RNAs selectively bind S-adenosylmethionine and exhibit similarities to SAM-III riboswitches..</strong><br />
 Mirihana Arachchilage, G., Sherlock, M. E., Weinberg, Z., & Breaker, R. R.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/29106323/" target="_blank">RNA Biol. 15, 371–378 (2018)</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/29106323/" target="_blank">RNA Biol. 15, 371–378 (2018).</a><br /><br /></p>
                 
-<p><strong>[2]SAM-VI riboswitch structure and signature for ligand discrimination.</strong><br />
+<p><strong>[2]SAM-VI riboswitch structure and signature for ligand discrimination..</strong><br />
 Sun, A., Gasser, C., Li, F., Chen, H., Mair, S., Krasheninina, O., Micura, R., & Ren, A.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/31844059/" target="_blank">Nat. Commun. 10, 5728 (2019)</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/31844059/" target="_blank">Nat. Commun. 10, 5728 (2019).</a><br /><br /></p>
                 
-<p><strong>[3]Observation of structural switch in nascent SAM-VI riboswitch during transcription at single-nucleotide and single-molecule resolution.</strong><br />
+<p><strong>[3]Observation of structural switch in nascent SAM-VI riboswitch during transcription at single-nucleotide and single-molecule resolution..</strong><br />
 Xue, Y., Li, J., Chen, D., Zhao, X., Hong, L., & Liu, Y.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/37087479/" target="_blank">Nat. Commun. 14, 2320 (2023)</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/37087479/" target="_blank">Nat. Commun. 14, 2320 (2023).</a><br /><br /></p>
                 

@@ -56,8 +56,16 @@ permalink: /docs/Manganese/
 
     <li class="day">
      <div class="events">
+       <p >Demonstrating how the broad family of <i>yybP-ykoY</i> riboswitches use heptacoordination to selectively bind transition metal ions</p>
+       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/29805037/" target="_blank">2018</a><sup>[4]</sup></div>
+     </div>
+    </li>
+        
+
+    <li class="day">
+     <div class="events">
        <p >The S.pneumoniae <i>yybP-ykoY</i> riboswitch functions to regulate Ca<sup>2+</sup> efflux</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/31165873/" target="_blank">2019</a><sup>[4]</sup></div>
+       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/31165873/" target="_blank">2019</a><sup>[5]</sup></div>
      </div>
     </li>
         
@@ -65,7 +73,7 @@ permalink: /docs/Manganese/
     <li class="day">
      <div class="events">
        <p >The ligand-dependent (un)folding path-way of the Mn<sup>2+</sup> sensing riboswitch</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/31541094/" target="_blank">2019</a><sup>[5]</sup></div>
+       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/31541094/" target="_blank">2019</a><sup>[6]</sup></div>
      </div>
     </li>
         
@@ -380,23 +388,27 @@ permalink: /docs/Manganese/
 <p class="header_box">References</p>
 <p><br /></p>
             
-<p><strong>[1]New RNA motifs suggest an expanded scope for riboswitches in bacterial genetic control.</strong><br />
-Barrick, J. E. et al<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/15096624/" target="_blank">Proc. Natl. Acad. Sci. U. S. A. 101, 6421–6426 (2004)</a><br /><br /></p>
+<p><strong>[1]New RNA motifs suggest an expanded scope for riboswitches in bacterial genetic control..</strong><br />
+Barrick, J. E. et al.<br />
+<a href="https://pubmed.ncbi.nlm.nih.gov/15096624/" target="_blank">Proc. Natl. Acad. Sci. U. S. A. 101, 6421–6426 (2004).</a><br /><br /></p>
                 
-<p><strong>[2]The ubiquitous yybP-ykoY riboswitch is a manganese-responsive regulatory element.</strong><br />
-Dambach, M. et al<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/25794618/" target="_blank">Mol. Cell 57, 1099–1109 (2015)</a><br /><br /></p>
+<p><strong>[2]The ubiquitous yybP-ykoY riboswitch is a manganese-responsive regulatory element..</strong><br />
+Dambach, M. et al.<br />
+<a href="https://pubmed.ncbi.nlm.nih.gov/25794618/" target="_blank">Mol. Cell 57, 1099–1109 (2015).</a><br /><br /></p>
                 
-<p><strong>[3]Mn(2+)-sensing mechanisms of yybP-ykoY orphan riboswitches.</strong><br />
-Price, I. R., Gaballa, A., Ding, F., Helmann, J. D. & Ke, A<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/25794619/" target="_blank">Mol. Cell 57, 1110–1123 (2015)</a><br /><br /></p>
+<p><strong>[3]Mn(2+)-sensing mechanisms of yybP-ykoY orphan riboswitches..</strong><br />
+Price, I. R., Gaballa, A., Ding, F., Helmann, J. D. & Ke, A.<br />
+<a href="https://pubmed.ncbi.nlm.nih.gov/25794619/" target="_blank">Mol. Cell 57, 1110–1123 (2015).</a><br /><br /></p>
                 
-<p><strong>[4]A Mn-sensing riboswitch activates expression of a Mn2+/Ca2+ ATPase transporter in Streptococcus.</strong><br />
-Martin, J. E. et al<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/31165873/" target="_blank">Nucleic Acids Res. 47, 6885–6899 (2019)</a><br /><br /></p>
+<p><strong>[4]Convergent Use of Heptacoordination for Cation Selectivity by RNA and Protein Metalloregulators..</strong><br />
+Bachas, S. T. & Ferré-D’Amaré, A. R.<br />
+<a href="https://pubmed.ncbi.nlm.nih.gov/29805037/" target="_blank">Cell Chem Biol 25, 962–973.e5 (2018).</a><br /><br /></p>
                 
-<p><strong>[5]Local-to-global signal transduction at the core of a Mn sensing riboswitch.</strong><br />
-Suddala, K. C. et al<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/31541094/" target="_blank">Nat. Commun. 10, 4304 (2019)</a><br /><br /></p>
+<p><strong>[5]A Mn-sensing riboswitch activates expression of a Mn2+/Ca2+ ATPase transporter in Streptococcus..</strong><br />
+Martin, J. E. et al.<br />
+<a href="https://pubmed.ncbi.nlm.nih.gov/31165873/" target="_blank">Nucleic Acids Res. 47, 6885–6899 (2019).</a><br /><br /></p>
+                
+<p><strong>[6]Local-to-global signal transduction at the core of a Mn sensing riboswitch..</strong><br />
+Suddala, K. C. et al.<br />
+<a href="https://pubmed.ncbi.nlm.nih.gov/31541094/" target="_blank">Nat. Commun. 10, 4304 (2019).</a><br /><br /></p>
                 

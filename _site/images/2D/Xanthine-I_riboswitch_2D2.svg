@@ -471,10 +471,10 @@
 <text transform="matrix(1 0 0 1 231.3076 238.0656)" class="st8 st1 st13">P2a</text>
 <text transform="matrix(1 0 0 1 121.4995 121.6022)" class="st11 st1 st13">P2b</text>
 <text transform="matrix(1 0 0 1 98.5745 309.442)" class="st3 st1 st13">J1</text>
-<path class="st15" d="M200,281.2c0,3.8-9.1,6.9-20.4,6.9c-11.3,0-20.4-3.1-20.4-6.9c0-3.8,9.1-6.9,20.4-6.9
+<path class="st15" d="M200,281.2c0,3.8-9.1,6.9-20.4,6.9c-11.3,0-20.4-3.1-20.4-6.9s9.1-6.9,20.4-6.9
 	C190.8,274.3,200,277.4,200,281.2z"/>
 <text transform="matrix(1 0 0 1 169.4282 284.4852)" class="st16 st1 st4">Xan</text>
 <line class="st5" x1="139" y1="279.8" x2="156" y2="279.8"/>
 <line class="st5" x1="201" y1="282.2" x2="214.7" y2="282.8"/>
-<text transform="matrix(1 0 0 1 30.603 42.5854)" class="st1 st13">Xanthine-I_riboswitch</text>
+<text transform="matrix(1 0 0 1 30.603 42.5854)" class="st1 st13">Xanthine-I riboswitch</text>
 </svg>

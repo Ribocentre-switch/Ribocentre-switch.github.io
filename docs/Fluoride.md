@@ -195,7 +195,7 @@ permalink: /docs/Fluoride/
     <div class="main-container">
         <div class="zoom-wrapper2">
             <div class="zoom-area2">
-                <img src="/images/2D/" alt="drawing" style="width:400px" />
+                <img src="/images/2D/Fluoride_riboswitch_2D2.svg" alt="drawing" style="width:400px" />
             </div>
         </div>
     </div>
@@ -441,31 +441,31 @@ permalink: /docs/Fluoride/
 <p class="header_box">References</p>
 <p><br /></p>
             
-<p><strong>[1]Comparative genomics reveals 104 candidate structured RNAs from bacteria, archaea, and their metagenomes.</strong><br />
-Weinberg, Z. et al<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/20230605/" target="_blank">Genome Biol. 11, R31 (2010)</a><br /><br /></p>
+<p><strong>[1]Comparative genomics reveals 104 candidate structured RNAs from bacteria, archaea, and their metagenomes..</strong><br />
+Weinberg, Z. et al.<br />
+<a href="https://pubmed.ncbi.nlm.nih.gov/20230605/" target="_blank">Genome Biol. 11, R31 (2010).</a><br /><br /></p>
                 
-<p><strong>[2]Widespread genetic switches and toxicity resistance proteins for fluoride.</strong><br />
-Baker, J. L. et al<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/22194412/" target="_blank">Science 335, 233–235 (2012)</a><br /><br /></p>
+<p><strong>[2]Widespread genetic switches and toxicity resistance proteins for fluoride..</strong><br />
+Baker, J. L. et al.<br />
+<a href="https://pubmed.ncbi.nlm.nih.gov/22194412/" target="_blank">Science 335, 233–235 (2012).</a><br /><br /></p>
                 
-<p><strong>[3]Fluoride ion encapsulation by Mg2+ ions and phosphates in a fluoride riboswitch.</strong><br />
-Ren, A., Rajashankar, K. R. & Patel, D. J<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/22678284/" target="_blank">Nature 486, 85–89 (2012)</a><br /><br /></p>
+<p><strong>[3]Fluoride ion encapsulation by Mg2+ ions and phosphates in a fluoride riboswitch..</strong><br />
+Ren, A., Rajashankar, K. R. & Patel, D. J.<br />
+<a href="https://pubmed.ncbi.nlm.nih.gov/22678284/" target="_blank">Nature 486, 85–89 (2012).</a><br /><br /></p>
                 
-<p><strong>[4]Structural stability, acidity, and halide selectivity of the fluoride riboswitch recognition site.</strong><br />
-Chawla, M., Credendino, R., Poater, A., Oliva, R. & Cavallo, L<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/25487435/" target="_blank">J. Am. Chem. Soc. 137, 299–306 (2015)</a><br /><br /></p>
+<p><strong>[4]Structural stability, acidity, and halide selectivity of the fluoride riboswitch recognition site..</strong><br />
+Chawla, M., Credendino, R., Poater, A., Oliva, R. & Cavallo, L.<br />
+<a href="https://pubmed.ncbi.nlm.nih.gov/25487435/" target="_blank">J. Am. Chem. Soc. 137, 299–306 (2015).</a><br /><br /></p>
                 
-<p><strong>[5]An excited state underlies gene regulation of a transcriptional riboswitch.</strong><br />
-Zhao, B., Guffy, S. L., Williams, B. & Zhang, Q<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/28719589/" target="_blank">Nat. Chem. Biol. 13, 968–974 (2017)</a><br /><br /></p>
+<p><strong>[5]An excited state underlies gene regulation of a transcriptional riboswitch..</strong><br />
+Zhao, B., Guffy, S. L., Williams, B. & Zhang, Q.<br />
+<a href="https://pubmed.ncbi.nlm.nih.gov/28719589/" target="_blank">Nat. Chem. Biol. 13, 968–974 (2017).</a><br /><br /></p>
                 
-<p><strong>[6]Dynamic competition between a ligand and transcription factor NusA governs riboswitch-mediated transcription regulation.</strong><br />
-Chauvier, A., Ajmera, P., Yadav, R. & Walter, N. G<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/34782462/" target="_blank">Proc. Natl. Acad. Sci. U. S. A. 118, (2021)</a><br /><br /></p>
+<p><strong>[6]Dynamic competition between a ligand and transcription factor NusA governs riboswitch-mediated transcription regulation..</strong><br />
+Chauvier, A., Ajmera, P., Yadav, R. & Walter, N. G.<br />
+<a href="https://pubmed.ncbi.nlm.nih.gov/34782462/" target="_blank">Proc. Natl. Acad. Sci. U. S. A. 118, (2021).</a><br /><br /></p>
                 
-<p><strong>[7]An anionic ligand snap-locks a long-range interaction in a magnesium-folded riboswitch.</strong><br />
-Yadav, R., Widom, J. R., Chauvier, A. & Walter, N. G<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/35017489/" target="_blank">Nat. Commun. 13, 207 (2022)</a><br /><br /></p>
+<p><strong>[7]An anionic ligand snap-locks a long-range interaction in a magnesium-folded riboswitch..</strong><br />
+Yadav, R., Widom, J. R., Chauvier, A. & Walter, N. G.<br />
+<a href="https://pubmed.ncbi.nlm.nih.gov/35017489/" target="_blank">Nat. Commun. 13, 207 (2022).</a><br /><br /></p>
                 

@@ -57,7 +57,7 @@ permalink: /docs/HMP-PP/
         
 <p class="header_box">Description</p>
 ***
-<font size="4">HMP-PP riboswitches are a class of homologous RNAs in certain bacteria that function as sensors of the thiamin precursor HMP-PP,which is fused with HET-P ultimately to form the final active coenzyme thiamin pyrophosphate (TPP). The HMP-PP riboswitch was initially named as the ‘thiS motif’ because of its frequent association with a gene coding for the ThiS protein, which delivers sulfur to form the thiazole moiety of the thiamin precursor HET-P, which was firstly reported by using a computational approach to identify new riboswitches in bacteria in 2019. Unlike with many other riboswitches ,the small ligand sensing aptamer of the HMP-PP riboswitch was embedded within a terminator, rather than being a separate entity.The 3-d structure of the HMP-PP riboswitch has not been solved yet<sup>[2-3]</sup>.</font>
+<font size="4">HMP-PP riboswitches are a class of homologous RNAs in certain bacteria that function as sensors of the thiamin precursor HMP-PP, which is fused with HET-P ultimately to form the final active coenzyme thiamin pyrophosphate (TPP). The HMP-PP riboswitch was initially named as the ‘thiS motif' because of its frequent association with a gene coding for the ThiS protein, which delivers sulfur to form the thiazole moiety of the thiamin precursor HET-P, which was firstly reported by using a computational approach to identify new riboswitches in bacteria in 2019. Unlike with many other riboswitches,the small ligand sensing aptamer of the HMP-PP riboswitch was embedded within a terminator, rather than being a separate entity. The 3D structure of the HMP-PP riboswitch has not been solved yet<sup>[2-3]</sup>.</font>
 <p><br /></p>
             
 > Gene association
@@ -189,15 +189,15 @@ permalink: /docs/HMP-PP/
 <p class="header_box">References</p>
 <p><br /></p>
             
-<p><strong>[1]Thiamin biosynthesis in prokaryotes.</strong><br />
-Begley, T. P. et al<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/10382260/" target="_blank">Arch. Microbiol. 171, (1999)</a><br /><br /></p>
+<p><strong>[1]Thiamin biosynthesis in prokaryotes..</strong><br />
+Begley, T. P. et al.<br />
+<a href="https://pubmed.ncbi.nlm.nih.gov/10382260/" target="_blank">Arch. Microbiol. 171, (1999).</a><br /><br /></p>
                 
-<p><strong>[2]Genome-wide discovery of structured noncoding RNAs in bacteria.</strong><br />
-Stav, S. et al<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/30902049/" target="_blank">BMC Microbiol. 19, (2019)</a><br /><br /></p>
+<p><strong>[2]Genome-wide discovery of structured noncoding RNAs in bacteria..</strong><br />
+Stav, S. et al.<br />
+<a href="https://pubmed.ncbi.nlm.nih.gov/30902049/" target="_blank">BMC Microbiol. 19, (2019).</a><br /><br /></p>
                 
-<p><strong>[3]A bacterial riboswitch class for the thiamin precursor HMP-PP employs a terminator-embedded aptamer.</strong><br />
-Atilho, R. M., Mirihana, A. G., Greenlee, E. B., Knecht, K. M. & Breaker, R. R<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/30950790/" target="_blank">Elife 8, (2019)</a><br /><br /></p>
+<p><strong>[3]A bacterial riboswitch class for the thiamin precursor HMP-PP employs a terminator-embedded aptamer..</strong><br />
+Atilho, R. M., Mirihana, A. G., Greenlee, E. B., Knecht, K. M. & Breaker, R. R.<br />
+<a href="https://pubmed.ncbi.nlm.nih.gov/30950790/" target="_blank">Elife 8, (2019).</a><br /><br /></p>
                 

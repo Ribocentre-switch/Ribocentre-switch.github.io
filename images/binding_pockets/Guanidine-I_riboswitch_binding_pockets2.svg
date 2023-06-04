@@ -6,7 +6,7 @@
 	.st0{font-family:'ArialMT';}
 	.st1{font-size:20px;}
 </style>
-<image style="overflow:visible;" width="2000" height="1500" xlink:href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEBhQGFAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA
+<image style="overflow:visible;enable-background:new    ;" width="2004" height="1502" xlink:href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEBhQGFAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA
 EAMCAwYAAFHuAACImAAA/t3/2wCEABALCwsMCxAMDBAXDw0PFxsUEBAUGx8XFxcXFx8eFxoaGhoX
 Hh4jJSclIx4vLzMzLy9AQEBAQEBAQEBAQEBAQEABEQ8PERMRFRISFRQRFBEUGhQWFhQaJhoaHBoa
 JjAjHh4eHiMwKy4nJycuKzU1MDA1NUBAP0BAQEBAQEBAQEBAQP/CABEIBd4H1AMBIgACEQEDEQH/
@@ -1150,10 +1150,10 @@ UOddpHiprtosUP8AMj2MPtpZoWupzG0Hce/exnFiMY5B6SHmq0M0cibCbqfCLUNRqnE8y4oAOop3
 caYoa7WPGJjaWPYRv6aWaI8SOLqeb9j300mHFirbVYYgim0044ZYzZhXNXMagkc3axUnfwMU+r6J
 DrNKLalR1lHrgfXXC2DKbEHMEV2cuKmm4fR2UnFsZgvRfD9kBrdKt9RGPeKM5F+0VicRSwQgvI2A
 AqLT5lF6x3scW8p+iX9boU98P5sY9cbxz1wuCjDAg4GhDApt67n0VFR6eP0Yxa+/n/ZHtJtOpc5k
-XW/TwkURpoljvmRifGcfon4pYY5G3soY+UVwooUblFh5P/zJ9//Z" transform="matrix(0.185 0 0 0.185 11.7935 55.2299)">
+XW/TwkURpoljvmRifGcfon4pYY5G3soY+UVwooUblFh5P/zJ9//Z" transform="matrix(0.1846 0 0 0.1846 11.7935 55.3222)">
 </image>
 <text transform="matrix(1 0 0 1 47.7646 178.6295)" class="st0 st1">G73</text>
 <text transform="matrix(1 0 0 1 258.2437 98.5438)" class="st0 st1">G45</text>
 <text transform="matrix(1 0 0 1 254.37 281.1777)" class="st0 st1">G90</text>
-<text transform="matrix(1 0 0 1 211.9812 183.0704)" class="st0 st1">guanidine</text>
+<text transform="matrix(1 0 0 1 211.9812 183.0704)" class="st0 st1">Guan</text>
 </svg>

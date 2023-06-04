@@ -6,7 +6,6 @@ author: Mengxiao Li, Xuemei Peng
 permalink: /docs/Xanthine/
 ---
 <p style="font-size: 24px"><strong>Rfam ID: [RF03054](https://rfam.xfam.org/family/RF03054,target="_blank")(Xanthine riboswitch)</strong> <br /></p>
-<p style="font-size: 24px"><strong>&emsp;&emsp;&emsp;&emsp;[nan](https://rfam.xfam.org/family/nan,target="_blank")(nan)</strong> <br /></p>
 
 <html lang="zh-cn">
 <head>
@@ -95,7 +94,7 @@ permalink: /docs/Xanthine/
 <font size="4"><p>Sequence and secondary structure model of a xanthine-II riboswitch is consistent with a genetic “ON” switch wherein ligand binding would preclude formation of the terminator stem<sup>[4]</sup>.</p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
-  <img src="/images/gene_regulation/—" alt="drawing" style="width:800px;margin-top: 0px;margin-bottom: 0px;" >
+  <img src="/images/gene_regulation/Xanthine-II_riboswitch_gene_regulation.svg" alt="drawing" style="width:800px;margin-top: 0px;margin-bottom: 0px;" >
   </td>
 </tr>
 </table>
@@ -448,19 +447,19 @@ permalink: /docs/Xanthine/
 <p class="header_box">References</p>
 <p><br /></p>
             
-<p><strong>[1]Detection of 224 candidate structured RNAs by comparative analysis of specific subsets of intergenic regions.</strong><br />
-Weinberg, Z. et al<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/28977401/" target="_blank">Nucleic Acids Res. 45, 10811–10823 (2017)</a><br /><br /></p>
+<p><strong>[1]Detection of 224 candidate structured RNAs by comparative analysis of specific subsets of intergenic regions..</strong><br />
+Weinberg, Z. et al.<br />
+<a href="https://pubmed.ncbi.nlm.nih.gov/28977401/" target="_blank">Nucleic Acids Res. 45, 10811–10823 (2017).</a><br /><br /></p>
                 
-<p><strong>[2]A bacterial riboswitch class senses xanthine and uric acid to regulate genes associated with purine oxidation.</strong><br />
-Yu, D. & Breaker, R. R<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/32345632/" target="_blank">RNA 26, 960–968 (2020)</a><br /><br /></p>
+<p><strong>[2]A bacterial riboswitch class senses xanthine and uric acid to regulate genes associated with purine oxidation..</strong><br />
+Yu, D. & Breaker, R. R.<br />
+<a href="https://pubmed.ncbi.nlm.nih.gov/32345632/" target="_blank">RNA 26, 960–968 (2020).</a><br /><br /></p>
                 
-<p><strong>[3]Insights into xanthine riboswitch structure and metal ion-mediated ligand recognition.</strong><br />
-Xu, X. et al<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/34125892/" target="_blank">Nucleic Acids Res. 49, 7139–7153 (2021)</a><br /><br /></p>
+<p><strong>[3]Insights into xanthine riboswitch structure and metal ion-mediated ligand recognition..</strong><br />
+Xu, X. et al.<br />
+<a href="https://pubmed.ncbi.nlm.nih.gov/34125892/" target="_blank">Nucleic Acids Res. 49, 7139–7153 (2021).</a><br /><br /></p>
                 
-<p><strong>[4]Variants of the guanine riboswitch class exhibit altered ligand specificities for xanthine, guanine, or 2'-deoxyguanosine.</strong><br />
-Hamal Dhakal, S., Panchapakesan, S. S. S., Slattery, P., Roth, A. & Breaker, R. R<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/35622895/" target="_blank">Proc. Natl. Acad. Sci. U. S. A. 119, e2120246119 (2022)</a><br /><br /></p>
+<p><strong>[4]Variants of the guanine riboswitch class exhibit altered ligand specificities for xanthine, guanine, or 2'-deoxyguanosine..</strong><br />
+Hamal Dhakal, S., Panchapakesan, S. S. S., Slattery, P., Roth, A. & Breaker, R. R.<br />
+<a href="https://pubmed.ncbi.nlm.nih.gov/35622895/" target="_blank">Proc. Natl. Acad. Sci. U. S. A. 119, e2120246119 (2022).</a><br /><br /></p>
                 
