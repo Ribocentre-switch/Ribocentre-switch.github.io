@@ -1,0 +1,597 @@
+<!DOCTYPE html>
+<!-- saved from url=(0044)http://rna.tbi.univie.ac.at/forna/forna.html -->
+<html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  
+  <title>forna</title>
+
+  <!-- CSS -->
+  <!-- Bootstrap: http://getbootstrap.com/ -->
+  <link rel="stylesheet" type="text/css" href="/css/forna/bootstrap.min.css">
+  <link rel="stylesheet" type="text/css" href="/css/forna/bootstrap-switch.css">
+  <link rel="stylesheet" type="text/css" href="/css/forna/bootstrap-slider.min.css">
+  <!-- custom CSS -->
+  <link rel="stylesheet" type="text/css" href="/css/forna/fornac.css">
+  <link rel="stylesheet" type="text/css" href="/css/forna/interface.css">
+
+  <!-- Java Script -->
+  <!-- jQuery -->
+  <script type="text/javascript" src="/js/forna/jquery.js"></script>
+  <!-- Knockout: http://knockoutjs.com/downloads/index.html -->
+  <script type="text/javascript" src="/js/forna/knockout-3.2.0.js"></script>
+  <script type="text/javascript" src="/js/forna/knockout-bindings.js"></script>
+  <!-- Bootstrap Javascript Plugins: http://getbootstrap.com/ -->
+  <script type="text/javascript" src="/js/forna/bootstrap.min.js"></script>
+  <!-- bootstrap on off switch and slider -->
+  <script type="text/javascript" src="/js/forna/bootstrap-switch.js"></script>
+  <script type="text/javascript" src="/js/forna/bootstrap-slider.min.js"></script>
+  <!-- D3 -->
+  <script type="text/javascript" src="/js/forna/d3.js"></script>
+  <!-- File Saver https://github.com/eligrey/FileSaver.js -->
+  <script type="text/javascript" src="/js/forna/FileSaver.min.js"></script>
+  <!-- saveSvgAsPng.js -->
+  <script type="text/javascript" src="/js/forna/saveSvgAsPng.js"></script>
+</head>
+<body data-new-gr-c-s-check-loaded="14.1058.0" data-gr-ext-installed="">
+<div id="main">
+  <!-- 'Add new molecule' modal -->
+  <div class="modal fade" id="add"> <!-- data-bind="showModal: loaded"-->
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">×</span><span class="sr-only">Close</span></button>
+          <h4 class="modal-title">Add RNA Molecule</h4>
+        </div>
+        <div class="modal-body">
+          <form role="form">
+            <div class="form-group">
+              <label for="Input">Sequence and Structure</label>
+              <div class="inner-addon right-addon">
+                  <span class="glyphicon glyphicon-remove inner-item inner-item-button" aria-hidden="true" data-bind="click: function() { input(&#39;&#39;); }"></span>
+                  <textarea type="text" class="form-control" id="Input" placeholder="" rows="2" data-bind="value: input" autofocus="" required=""></textarea>
+                  <span class="inner-item inner-item-bottom" data-bind="text: cursorPosition"></span>
+              </div>
+            </div><br>
+            <div class="form-group">
+              <label for="inputFastaFile">And/Or load from File</label>
+              <div class="inner-addon left-addon" style="max-width:100%; overflow-x: hidden;">
+                  <span class="glyphicon glyphicon-remove inner-item inner-item-button" aria-hidden="true" data-bind="click: function() { $(&#39;#inputFastaFile&#39;).val(&#39;&#39;); inputFile(null); }, visible: inputFile" style="display: none;"></span>
+                  <input type="file" id="inputFastaFile" data-bind="event: { change: function() { inputFile($element.files[0]) }}">
+                   <p class="help-block">Instead or in addition you may select a Fasta file.</p>
+                   <input type="checkbox" value="circularizeExternal" data-bind="checked: circularizeExternal"><span style="padding-left: 3px">Circularize Exterior Loop</span>
+              </div>
+            </div>
+            <div class="alert alert-danger" role="alert" data-bind="visible: inputError().length &gt; 0, html: inputError" id="inputError" style="display: none;"></div>
+          </form>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-default" data-dismiss="modal" data-bind="click: cancelAddMolecule">Cancel</button>
+          <button type="submit" id="Submit" data-bind="click: submit" class="btn btn-primary" data-loading-text="Loading...">Submit</button>
+        </div>
+      </div><!-- /.modal-content -->
+    </div><!-- /.modal-dialog -->
+  </div><!-- /.modal -->
+  
+  <!-- 'Add from API modal -->
+  <div class="modal fade" id="addAPI"> <!-- data-bind="showModal: loaded"-->
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">×</span><span class="sr-only">Close</span></button>
+          <h4 class="modal-title">Add Molecule from API</h4>
+        </div>
+        <div class="modal-body">
+          <form role="form">
+            <span class="glyphicon glyphicon-refresh glyphicon-refresh-animate" aria-hidden="true" data-bind="visible: inputError().length === 0"></span>
+            <span data-bind="visible: inputError().length === 0">&nbsp;&nbsp;Please wait while we are
+            getting your molecule...</span>
+            <div class="alert alert-danger" role="alert" data-bind="visible: inputError().length &gt; 0, html: inputError" id="inputError" style="display: none;"></div>
+          </form>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-default" data-dismiss="modal" data-bind="click: done">Cancel</button>
+        </div>
+      </div><!-- /.modal-content -->
+    </div><!-- /.modal-dialog -->
+  </div><!-- /.modal -->
+
+  <!-- 'Add new JSON molecule' modal -->
+  <div class="modal fade" id="addJSON"> <!-- data-bind="showModal: loaded"-->
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">×</span><span class="sr-only">Close</span></button>
+          <h4 class="modal-title">Add Molecule from JSON</h4>
+        </div>
+        <div class="modal-body">
+          <form role="form">
+            <div class="form-group">
+              <label for="JSONInput">JSON Text</label>
+                  <div class="inner-addon right-addon">
+                    <span class="glyphicon glyphicon-remove inner-item inner-item-button" aria-hidden="true" data-bind="click: function() { input(&#39;&#39;); }"></span>
+                    <textarea type="text" class="form-control" id="JSONInput" placeholder="" rows="2" data-bind="value: input" autofocus="" required=""></textarea>
+                    <span class="inner-item inner-item-bottom" data-bind="text: cursorPosition"></span>
+                  </div>
+            </div><br>
+            <div class="form-group">
+              <label for="inputJSONFile">And/Or load from File</label>
+              <div class="inner-addon left-addon" style="max-width:100%; overflow-x: hidden;">
+                  <span class="glyphicon glyphicon-remove inner-item inner-item-button" aria-hidden="true" data-bind="click: function() { $(&#39;#inputJSONFile&#39;).val(&#39;&#39;); inputFile(null); }, visible: inputFile" style="display: none;"></span>
+                  <input type="file" id="inputJSONFile" data-bind="event: { change: function() { inputFile($element.files[0]) }}">
+                   <p class="help-block">Instead or in addition you may select a JSON file.</p>
+              </div>
+            </div>
+            <div class="alert alert-danger" role="alert" data-bind="visible: inputError().length &gt; 0, html: inputError" id="inputError" style="display: none;"></div>
+          </form>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-default" data-dismiss="modal" data-bind="click: cancelAddJSON">Cancel</button>
+          <button type="submit" id="SubmitJSON" data-bind="click: submit" class="btn btn-primary" data-loading-text="Loading...">Submit</button>
+        </div>
+      </div><!-- /.modal-content -->
+    </div><!-- /.modal-dialog -->
+  </div><!-- /.modal -->
+  
+  <!-- 'Add PDB molecule' modal -->
+  <div class="modal fade" id="addPDB"> <!-- data-bind="showModal: loaded"-->
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">×</span><span class="sr-only">Close</span></button>
+          <h4 class="modal-title">Add PDB File</h4>
+        </div>
+        <div class="modal-body">
+          <form role="form">
+            <div class="form-group">
+              <label for="inputPDBFile">File Input</label>
+              <div class="inner-addon left-addon" style="max-width:100%; overflow-x: hidden;">
+                  <span class="glyphicon glyphicon-remove inner-item inner-item-button" aria-hidden="true" data-bind="click: function() { $(&#39;#inputPDBFile&#39;).val(&#39;&#39;); inputFile(null); }, visible: inputFile" style="display: none;"></span>
+                  <input type="file" id="inputPDBFile" data-bind="event: { change: function() { inputFile($element.files[0]); parsePDB(); }}">
+                   <p class="help-block">Please select a PDB file to extract the secondary structure from.</p>
+                   <div data-bind="visible: inputFile() !== null" id="compoundList" style="display: none;">
+                       <div class="btn-group btn-group-sm pull-right" role="group" aria-label="..." data-bind="visible: compounds().length &gt; 0" style="display: none;">
+                         <button type="button" class="btn btn-default" data-bind="click: selectAll(true)">All</button>
+                         <button type="button" class="btn btn-default" data-bind="click: selectAll(false)">None</button>
+                       </div>
+                       <label for="compoundList">Select compounds to display:</label>
+                       <span class="glyphicon glyphicon-refresh glyphicon-refresh-animate" aria-hidden="true" data-bind="visible: compounds().length === 0"></span>
+                       <ul class="list-group" data-bind="foreach: compounds" style="word-wrap: break-word; margin: 16px;"></ul>
+                       <div class="btn-group btn-group-sm pull-right" role="group" aria-label="..." data-bind="visible: compounds().length &gt; 0" style="display: none;">
+                         <button type="button" class="btn btn-default" data-bind="click: selectAll(true)">All</button>
+                         <button type="button" class="btn btn-default" data-bind="click: selectAll(false)">None</button>
+                       </div>
+                   </div>
+              </div>
+            </div>
+            <div class="alert alert-danger" role="alert" data-bind="visible: inputError().length &gt; 0, html: inputError" id="inputError" style="display: none;"></div>
+          </form>
+          <!-- <progress></progress> -->
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-default" data-dismiss="modal" data-bind="click: cancelAddPDB">Cancel</button>
+          <button type="submit" id="PDBSubmit" data-bind="click: submit" class="btn btn-primary" data-loading-text="Loading...">Submit</button>
+        </div>
+      </div><!-- /.modal-content -->
+    </div><!-- /.modal-dialog -->
+  </div><!-- /.modal -->
+
+  <!-- 'Add MMCIF molecule' modal -->
+  <div class="modal fade" id="addMMCIF"> <!-- data-bind="showModal: loaded"-->
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">×</span><span class="sr-only">Close</span></button>
+          <h4 class="modal-title">Add MMCIF File</h4>
+        </div>
+        <div class="modal-body">
+          <form role="form">
+            <div class="form-group">
+              <label for="Input">File Input</label>
+              <div class="inner-addon left-addon" style="max-width:100%; overflow-x: hidden;">
+                  <span class="glyphicon glyphicon-remove button" aria-hidden="true" data-bind="click: function() { $(&#39;#inputMMCIFFile&#39;).val(&#39;&#39;); inputFile(null); }, visible: inputFile" style="display: none;"></span>
+                  <input type="file" id="inputMMCIFFile" data-bind="event: { change: function() { inputFile($element.files[0]) }}">
+                   <p class="help-block">Please select a MMCIF file to extract the secondary structure from.</p>
+              </div>
+            </div>
+            <div class="alert alert-danger" role="alert" data-bind="visible: inputError().length &gt; 0, html: inputError" id="inputError" style="display: none;"></div>
+          </form>
+          <!-- <progress></progress> -->
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-default" data-dismiss="modal" data-bind="click: cancelAddMMCIF">Cancel</button>
+          <button type="submit" id="MMCIFSubmit" data-bind="click: submit" class="btn btn-primary" data-loading-text="Loading...">Submit</button>
+        </div>
+      </div><!-- /.modal-content -->
+    </div><!-- /.modal-dialog -->
+  </div><!-- /.modal -->
+
+  <!-- 'Custom Colors' modal -->
+  <div class="modal fade" id="addColors"> <!-- data-bind="showModal: loaded"-->
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">×</span><span class="sr-only">Close</span></button>
+          <h4 class="modal-title">Edit Color Scheme</h4>
+        </div>
+        <div class="modal-body">
+          <form role="form">
+            <div class="form-group">
+              <label for="ColorInput">Color Specifications:</label>
+              <textarea type="text" class="form-control" id="ColorInput" placeholder="" rows="2" data-bind="value: input" autofocus="" required=""></textarea>
+            </div>
+            <div class="alert alert-danger" role="alert" data-bind="visible: inputError().length &gt; 0, html: inputError" id="inputError" style="display: none;"></div>
+          </form>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-default" data-dismiss="modal" data-bind="click: cancelColor">Cancel</button>
+          <button type="submit" id="ColorSubmit" data-bind="click: colorSubmit" class="btn btn-primary" data-loading-text="Loading...">Submit</button>
+        </div>
+      </div><!-- /.modal-content -->
+    </div><!-- /.modal-dialog -->
+  </div><!-- /.modal custom colors -->
+
+  <!-- 'Share' Link modal -->
+  <div class="modal fade" id="shareView"> <!-- data-bind="showModal: loaded"-->
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">×</span><span class="sr-only">Close</span></button>
+          <h4 class="modal-title">Share a Link of your View</h4>
+        </div>
+        <div class="modal-body" style="min-height: 150px;">
+          <form role="form">
+            <span class="glyphicon glyphicon-refresh glyphicon-refresh-animate" aria-hidden="true" data-bind="visible: (inputError().length === 0 &amp;&amp; url().length === 0)"></span>
+            <span data-bind="visible: (inputError().length === 0 &amp;&amp; url().length === 0)">&nbsp;&nbsp;We are generating your link...</span>
+            <div data-bind="visible: url().length !== 0" style="display: none;">
+                <label>Using this link you can return to the current state. This link will be valid for at about 6 weeks.</label>
+                <div class="input-group input-group-lg">
+                    <input id="shareURL" type="text" class="form-control" placeholder="..." aria-describedby="url" data-bind="value: url" onclick="this.select();" readonly="" data-toggle="tooltip" data-placement="bottom" title="" data-delay="{&quot;show&quot;:&quot;100&quot;, &quot;hide&quot;:&quot;50&quot;}" data-original-title="Ctrl + C">
+                    <span class="input-group-addon glyphicon glyphicon-share-alt" id="url"></span>
+                </div>
+            </div>
+            <div class="alert alert-danger" role="alert" data-bind="visible: inputError().length &gt; 0, html: inputError" id="inputError" style="display: none;"></div>
+          </form>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-default" data-dismiss="modal" data-bind="click: done">Done</button>
+        </div>
+      </div><!-- /.modal-content -->
+    </div><!-- /.modal-dialog -->
+  </div><!-- /.modal -->
+
+  <!-- 'About' modal -->
+  <div class="modal fade" id="about">
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="modal-header">
+            <button type="button" class="close" data-dismiss="modal"> <span aria-hidden="true">×</span><span class="sr-only">Close</span></button>
+          <h4 class="modal-title">About forna</h4>
+        </div>
+        <div class="modal-body">
+          <div style="float: right;">
+            <img src="./forna_files/favicon-192x192.png" alt="forna logo" title="forna logo" width="150" align="right">
+          </div>
+          <h1>RNA Secondary Structure Visualization Using a Force Directed Graph Layout</h1>
+          <h4 id="overview">Overview</h4>
+          <p>The <code>forna</code> package provides a web interface for displaying RNA secondary
+          structures using the <a href="https://github.com/mbostock/d3/wiki/Force-Layout">force-directed graph
+          layout</a> provided by the
+          <a href="http://d3js.org/">d3.js visualization library</a>. </p>
+          <p>The front end makes use of <a href="http://getbootstrap.com/">Bootstrap</a> and
+          <a href="http://knockoutjs.com/">Knockout.js</a> for the user interfact while the back end
+          uses <a href="http://flask.pocoo.org/">Flask</a> to serve the static files and provide a
+          REST API. The RNA structure manipulation and graph construction is created
+          using the python <a href="http://www.tbi.univie.ac.at/~pkerp/forgi/">forgi</a> RNA
+          structure manipulation library and the provided <code>forna.py</code> script. We heavily
+          depend on the python bindings of the <a href="http://www.tbi.univie.ac.at/RNA/">ViennaRNA</a> package.</p>
+          <h2 id="usage">Usage</h2>
+          <p>Click on <code>Add Molecule</code> to draw a new secondary structure. The input should
+          contain a sequence and a secondary structure in dot-bracket notation:</p>
+          <pre><code>GCUUCAUAUAAUCCUAAUGAUAUGGUUUGGGAGUUUCUACCAAGAGCCUUAAACUCUUGAUUAUGAAGUG<br>((((((((((..((((((.........))))))......).((((((.......))))))..)))))))))</code></pre>
+          <p>You can also use the <strong>FASTA</strong> format to add multiple molecule at once. If you do
+          not enter a structure, it will calculate the MFE structure at 37°C for you.</p>
+          <p>In the FASTA header you can specify a name and optionally also the number of the first or last nucleotide:
+          </p><pre><code>&gt;name|start=5|end=60</code></pre><p></p>
+          <p><strong>Zooming</strong> can be accomplished using the mouse wheel.
+          Dragging the canvas leads to <strong>panning</strong>.</p>
+          <h3 id="colors">Colors</h3>
+          <h4 id="position">Position</h4>
+          <p>Color the nucleotides according to their position in the molecule. Lower numbered
+          nucleotides are closer to the 5' end and are colored green. Nucleotides in the middle
+          are colored yellow whereas nucleotides near the 3' end are colored red.</p>
+          <h4 id="structure">Structure</h4>
+          <p>Color the nucleotides according to the type of structure that they are in:</p>
+          <p><strong><font color="lightgreen">Green</font></strong>: Stems (canonical helices) <br>
+          <strong><font color="#ff9896">Red</font></strong>: Multiloops (junctions)<br>
+          <strong><font color="#dbdb8d">Yellow</font></strong>: Interior Loops<br>
+          <strong><font color="lightblue">Blue</font></strong>: Hairpin loops<br>
+          <strong><font color="lightsalmon">Orange</font></strong>: 5' and 3' unpaired region<br>
+          </p><h4 id="sequence">Sequence</h4>
+          <p>Color according to the nucleotide types: </p>
+          <p><strong><font color="#dbdb8d">Yellow</font></strong>: Adenine <br>
+          <strong><font color="#98df8a">Green</font></strong>: Cytosine <br>
+          <strong><font color="#ff9896">Blue</font></strong>: Uridine <br>
+          <strong><font color="#aec7e8">Red</font></strong>: Guanine</p>
+          <h4 id="custom">Custom</h4>
+          <p> Create a custom coloring scheme. The colors for each nucleotide or sets of nucleotide are specified in the 
+          text box that appears when the 'set' button is clicked. The format is simple. Numbers entered interpolated to 
+          colors and mapped to the respective nucleotides (the first number colors the first nucleotide, the second the second, etc...).
+          </p><pre>          0.5 0.6 10 13.4
+</pre>
+         This will color the first four nucleotides such that the first two are lightly colored and the last two are more darkly colored.
+         The scale is interpolated between the lowest and highest value. We currently only use the white-blue color scale, but this will
+         be expanded shortly.
+
+        Coloring specific nucleotides is possible using the following format:
+<pre>8:red 10:blue 11:green
+</pre>
+        These directives will color the 8th nucleotide red, the 10th blue and the 11th green. Ranges of colors
+        can also be entered:
+
+        <pre>        1-10:green 15-30:red  13,46,101:blue
+        </pre>
+
+        This will color nucleotides 1-10 green and nucleotides 15-30 red and 13,46, and 101 blue.
+
+        <p>Colors can be specified for each molecule individually by preceding them with the
+        molecule's id</p>
+        <pre>        &gt;molecule1
+        1-10:green 15-30:red  13,46,101:blue
+        &gt;molecule2
+        0.98 .80 0.75
+        </pre>
+
+        <h5>Color ranges and domains</h5>
+        The default color range is white to steelblue. Custom ranges can be specified
+        by entering the following in the custom color screen.
+
+        <pre>        &gt;molecule1
+        1-10:green 15-30:red  13,46,101:blue
+        &gt;molecule2
+        range=white:red
+        0.98 .80 0.75
+        </pre>
+
+        Color domains can be specified in a similar manner. The domain defines the values
+        over which the colors are spread:
+
+        <pre>        domain=0.5:1.0
+        0.98 .80 0.75
+        </pre>
+          <h3>Pseudoknots</h3>
+          Feel free to enter structures with pseudoknots. Here's the format:
+
+        <pre>        &gt;1GID
+        AACCGG
+        ((.[[.)).]]
+        </pre>
+
+          Use your imagination!
+
+
+          <h3>Editing the Structure</h3>
+
+          Links can artificially be added by holding down the shift key and
+          dragging from one nucleotide to another. This will form a
+          spring-loaded bond between two nucleotides. This is useful for
+          drawing interacting pairs of structures. Bonds can be deleted by
+          holding down the shift key and clicking on a bond.
+
+          <h3>Centering the view</h3>
+
+          The view can be centered on molecules being displayed by pressing the
+          'c' key or by clicking on the crosshairs button in the lower left
+          hand corner. 
+
+          <h3>Force</h3>
+
+          The force can be turned off by either hitting the space key or by
+          flipping the switch in the lower left hand corner of the screen.
+
+          <h3>Friction / Wobbliness</h3>
+
+          How 'wobbly' a molecule appears can be adjusted by the friction
+          slider in the settings menu just to the right of the colors menu.
+          Lowering the friction (paradoxically) makes the molecule less wobbly
+          and increasing it makes it more so.
+
+          <h3> PDB Files </h3>
+
+          Secondary structure can automatically be extracted from PDB files and displayed. Simply
+          click on the dropdown arrow next to 'Add Molecule' and select 'Add PDB File'. This will
+          import every RNA chain in the PDB file and display its secondary structure. Proteins
+          will be added as nodes with a size proportional to their length. Interactions between
+          separate protein and nucleotide chains are displayed as dashed lines. The secondary
+          structure is extracted using MC-Annotate [1].
+
+          <h2 id="contact">Contact</h2>
+          <p>Questions and/or comments can be sent to <a href="mailto:forna@tbi.univie.ac.at">forna@tbi.univie.ac.at</a></p>
+          <h4 id="acknowledgement">Acknowledgement</h4>
+          <p>This work was funded by the Austrian DK RNA program
+            FG748004, by the Austrian FWF, project "SFB F43 RNA regulation
+            of the transcriptome," and the European Commission under the
+            Environment Theme of the 7th Framework Program for Research
+            and Technological Development (Grant agreement no: 323987).</p>
+          <h4 id="citations">Citations</h4>
+           [1] Gendron P, Lemieux S, Major F(2001). Quantitative analysis of nucleic acid three-dimensional structures. J Mol Biol 308:919–936.
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+        </div>
+      </div><!-- /.modal-content -->
+    </div><!-- /.modal-dialog -->
+  </div><!-- /.modal -->
+
+  <!-- Main content starts here! -->
+  <!-- the graph goes here -->
+  <div class="gallery" id="chart" tabindex="1">
+
+    <div class="menu-top">
+      <div class="menu-left">
+        <div class="btn-group">
+            <button class="btn btn-primary" data-bind="click: showAdd">Add Molecule</button>
+            <button class="btn btn-primary dropdown-toggle" data-toggle="dropdown" aria-expanded="false">
+                <span class="caret"></span>
+                <span class="sr-only">Toggle Dropdown</span>
+            </button>
+            <ul class="dropdown-menu" role="menu">
+                <li role="presentation"><a data-bind="click: showAdd">Add Sequence and Secondary Structure</a></li>
+                <li role="presentation"><a data-bind="click: showAddPDB">Add PDB File</a></li>
+                <li role="presentation"><a data-bind="click: showAddMMCIF">Add MMCIF File</a></li>
+                <li role="presentation"><a data-bind="click: showAddJSON">Add JSON File</a></li>
+            </ul>
+        </div>
+        <div class="btn-group" data-toggle="tooltip" data-placement="right" title="" data-delay="{&quot;show&quot;:&quot;800&quot;, &quot;hide&quot;:&quot;50&quot;}" data-original-title="Delete everyting">
+          <button class="btn btn-default" data-bind="click: clearGraph">Clear</button>
+        </div>
+      </div>
+      
+      <div class="menu-right">
+        <div class="btn-group" id="About" data-toggle="tooltip" data-placement="bottom" title="" data-delay="{&quot;show&quot;:&quot;800&quot;, &quot;hide&quot;:&quot;50&quot;}" data-original-title="About">
+          <button data-bind="click: showAbout" class="btn btn-default"><span class="glyphicon glyphicon-question-sign"></span></button>
+        </div>
+      </div>
+    </div>
+    
+    <div class="menu-bottom">
+      <div class="menu-left">
+        <div class="btn-group" data-toggle="tooltip" data-placement="top" title="" data-delay="{&quot;show&quot;:&quot;800&quot;, &quot;hide&quot;:&quot;50&quot;}" data-original-title="Animation (Key: Space)">
+          <div class="has-switch" tabindex="0"><div class="switch-animate switch-on"><span class="switch-left">On</span><label>&nbsp;</label><span class="switch-right">Off</span><input type="checkbox" class="bootstrap-switch" data-bind="bootstrapSwitchOn: animation" name="animation-toggle"></div></div>
+        </div>
+        <div class="btn-group" data-toggle="tooltip" data-placement="top" title="" data-delay="{&quot;show&quot;:&quot;800&quot;, &quot;hide&quot;:&quot;50&quot;}" data-original-title="Center molecules (Key: C)">
+          <button data-bind="click: centerMolecules" class="btn btn-default"><span class="glyphicon glyphicon-screenshot"></span></button>
+        </div>
+        
+        <div class="btn-group dropup">
+          <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown" aria-expanded="false">
+            Colors&nbsp;<span class="caret">&nbsp;</span>
+            <span class="sr-only">Toggle Dropdown</span>
+          </button>
+          <ul class="dropdown-menu menu-form" role="menu">
+            <li role="presentation" class="dropdown-header">Color Scheme</li>
+            <li role="presentation" data-bind="css: { active: colors() === &#39;positions&#39; }" class="">
+              <label role="menuitem">
+                <input type="radio" name="colors" data-bind="checked: colors, checkedValue: &#39;positions&#39;" value="positions"> Positions
+              </label>
+            </li><li>
+            </li><li role="presentation" data-bind="css: { active: colors() === &#39;structure&#39; }" class="active">
+              <label role="menuitem">
+                <input type="radio" name="colors" data-bind="checked: colors, checkedValue: &#39;structure&#39;" value="structure"> Structure
+              </label>
+            </li>
+            <li role="presentation" data-bind="css: { active: colors() === &#39;sequence&#39; }" class="">
+              <label role="menuitem">
+                <input type="radio" name="colors" data-bind="checked: colors, checkedValue: &#39;sequence&#39;" value="sequence"> Sequence
+              </label>
+            </li>
+            <li role="presentation" data-bind="css: { active: colors() === &#39;custom&#39; }" class="">
+              <label role="menuitem">
+                <input type="radio" name="colors" data-bind="checked: colors, checkedValue: &#39;custom&#39;, checkedVaue: &#39;custom&#39;" value="custom"> Custom&nbsp;
+                <button type="button" role="menuitem" data-bind="click: showCustomColors, attr: { &#39;class&#39;: colors() === &#39;custom&#39; ? &#39;btn btn-xs btn-default&#39; : &#39;btn btn-xs btn-primary&#39; }" class="btn btn-xs btn-primary">Set</button>
+              </label>
+            </li>
+          </ul>
+        </div>
+        
+        <div class="btn-group dropup">
+          <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown" aria-expanded="false">
+            <span class="glyphicon glyphicon-cog">&nbsp;</span>
+            <span class="caret"></span>
+            <span class="sr-only">Toggle Dropdown</span>
+          </button>
+          <ul class="dropdown-menu menu-form" role="menu">
+              <li role="presentation" class="dropdown-header">Display Options</li>
+              <li role="presentation" data-bind="css: {active: numbering}" class="active">
+                <label role="menuitem">
+                  <input type="checkbox" data-bind="checked: numbering"> Sequence numbering
+                </label>
+              </li>
+              <li role="presentation" data-bind="css: {active: nodeLabel}" class="active">
+                <label role="menuitem">
+                  <input type="checkbox" data-bind="checked: nodeLabel"> Nucleotide label
+                </label>
+              </li>
+              <li role="presentation" data-bind="css: {active: nodeOutline}" class="active">
+                <label role="menuitem">
+                  <input type="checkbox" data-bind="checked: nodeOutline"> Nucleotide outline
+                </label>
+              </li>
+              <li role="presentation" data-bind="css: {active: displayLinks}" class="active">
+                <label role="menuitem">
+                  <input type="checkbox" data-bind="checked: displayLinks"> Links
+                </label>
+              </li>
+              <li role="presentation" data-bind="css: {active: displayPseudoknotLinks}" class="active">
+                <label role="menuitem">
+                  <input type="checkbox" data-bind="checked: displayPseudoknotLinks"> Pseudoknot Links
+                </label>
+              </li>
+              <li role="presentation" data-bind="css: {active: displayProteinLinks}" class="active">
+                <label role="menuitem">
+                  <input type="checkbox" data-bind="checked: displayProteinLinks"> Protein Links
+                </label>
+              </li>
+              <li role="presentation" class="divider"></li>
+              <li role="presentation" class="dropdown-header">Force Field Options</li>
+              <li class="form-group">
+                <label for="pseudoknotStrength" role="menuitem">Pseudoknot strength<br>
+                  <div class="slider slider-horizontal" id=""><div class="slider-track"><div class="slider-selection" style="left: 0%; width: 0%;"></div><div class="slider-handle min-slider-handle round" tabindex="0" style="left: 0%;"></div><div class="slider-handle max-slider-handle round hide" tabindex="0" style="left: 0%;"></div></div><div class="tooltip tooltip-main top" style="left: 0%; margin-left: 0px;"><div class="tooltip-arrow"></div><div class="tooltip-inner">0</div></div><div class="tooltip tooltip-min top"><div class="tooltip-arrow"></div><div class="tooltip-inner"></div></div><div class="tooltip tooltip-max top" style="top: -30px;"><div class="tooltip-arrow"></div><div class="tooltip-inner"></div></div></div><input type="text" id="pseudoknotStrength" class="slider form-control" data-bind="sliderValue: {value: pseudoknotStrength, min:0, max: 2, step: 0.1}" data="value: &#39;0&#39;" value="0" style="display: none;">
+                </label>
+              </li>
+              <li class="form-group">
+                <label for="friction" role="menuitem">Force friction<br>
+                  <div class="slider slider-horizontal" id=""><div class="slider-track"><div class="slider-selection" style="left: 0%; width: 35%;"></div><div class="slider-handle min-slider-handle round" tabindex="0" style="left: 35%;"></div><div class="slider-handle max-slider-handle round hide" tabindex="0" style="left: 0%;"></div></div><div class="tooltip tooltip-main top" style="left: 35%; margin-left: 0px;"><div class="tooltip-arrow"></div><div class="tooltip-inner">35</div></div><div class="tooltip tooltip-min top"><div class="tooltip-arrow"></div><div class="tooltip-inner"></div></div><div class="tooltip tooltip-max top" style="top: -30px;"><div class="tooltip-arrow"></div><div class="tooltip-inner"></div></div></div><input type="text" id="friction" class="slider form-control" data-bind="sliderValue: {value: friction, min:0, max: 100, step: 1}" data="value: &#39;35&#39;" value="35" style="display: none;">
+                </label>
+                <label for="charge" role="menuitem">Node Charge<br>
+                  <div class="slider slider-horizontal" id=""><div class="slider-track"><div class="slider-selection" style="left: 0%; width: 62.5%;"></div><div class="slider-handle min-slider-handle round" tabindex="0" style="left: 62.5%;"></div><div class="slider-handle max-slider-handle round hide" tabindex="0" style="left: 0%;"></div></div><div class="tooltip tooltip-main top" style="left: 62.5%; margin-left: 0px;"><div class="tooltip-arrow"></div><div class="tooltip-inner">-30</div></div><div class="tooltip tooltip-min top"><div class="tooltip-arrow"></div><div class="tooltip-inner"></div></div><div class="tooltip tooltip-max top" style="top: -30px;"><div class="tooltip-arrow"></div><div class="tooltip-inner"></div></div></div><input type="text" id="charge" class="slider form-control" data-bind="sliderValue: {value: charge, min:-80, max: 0, step: 1}" data="value: &#39;-30&#39;" value="-30" style="display: none;">
+                </label>
+              </li>
+              <li class="form-group">
+                <label for="friction" role="menuitem">Gravity<br>
+                  <div class="slider slider-horizontal" id=""><div class="slider-track"><div class="slider-selection" style="left: 0%; width: 0%;"></div><div class="slider-handle min-slider-handle round" tabindex="0" style="left: 0%;"></div><div class="slider-handle max-slider-handle round hide" tabindex="0" style="left: 0%;"></div></div><div class="tooltip tooltip-main top" style="left: 0%; margin-left: 0px;"><div class="tooltip-arrow"></div><div class="tooltip-inner">0</div></div><div class="tooltip tooltip-min top"><div class="tooltip-arrow"></div><div class="tooltip-inner"></div></div><div class="tooltip tooltip-max top" style="top: -30px;"><div class="tooltip-arrow"></div><div class="tooltip-inner"></div></div></div><input type="text" id="gravity" class="slider form-control" data-bind="sliderValue: {value: gravity, min:0, max: 1, step: 0.1}" data="value: &#39;0&#39;" value="0" style="display: none;">
+                </label>
+              </li>
+          </ul>            
+        </div>
+        <div class="btn-group" data-toggle="tooltip" data-placement="top" title="" data-delay="{&quot;show&quot;:&quot;800&quot;, &quot;hide&quot;:&quot;50&quot;}" data-original-title="Fullscreen">
+          <button onclick="toggleFullScreen(&#39;main&#39;); return false;" class="btn btn-default"><span class="glyphicon glyphicon-fullscreen"></span></button>
+        </div>
+      </div>
+      
+      <div class="menu-right">
+        <div class="btn-group" data-toggle="tooltip" data-placement="top" title="" data-delay="{&quot;show&quot;:&quot;800&quot;, &quot;hide&quot;:&quot;50&quot;}" data-original-title="Share Link">
+          <button data-bind="click: shareLink" class="btn btn-default"><span class="glyphicon glyphicon-share-alt"></span></button>
+        </div>
+        <div class="btn-group dropup">
+            <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown" aria-expanded="false">
+                <span class="glyphicon glyphicon-download-alt">&nbsp;</span>
+                <span class="caret"></span>
+                <span class="sr-only">Toggle Dropdown</span>
+            </button>
+            <ul class="dropdown-menu dropdown-menu-right menu-form" role="menu">
+                <!-- Dropdown menu links -->
+                <li role="presentation" data-bind="css: {active: background}" class="active">
+                  <label role="menuitem">
+                    <input type="checkbox" data-bind="checked: background"> Background
+                  </label>
+                </li>
+                <li role="presentation" class="divider"></li>
+                <li role="presentation" class="dropdown-header">Save as ...</li>
+                <li role="presentation"><a role="menuitem" data-bind="click: saveSVG" download="rna.svg">SVG</a></li>
+                <li role="presentation"><a role="menuitem" data-bind="click: savePNG" download="rna.png">PNG</a></li>
+                <li role="presentation"><a role="menuitem" data-bind="click: saveJSON" download="rna.json">JSON</a></li>
+            </ul>
+        </div>
+        
+      </div>
+    </div>
+    
+    <!-- fornac javascript -->
+    <script type="text/javascript" src="./forna_files/fornac.js"></script>
+    <!-- interface javascript -->
+    <script type="text/javascript" src="./forna_files/interface.js"></script><svg width="1737" height="956" id="plotting-area" style="height: 956px; width: 1737px;"><style>svg{display:block;min-width:100%;width:100%;min-height:100%;}circle.node{stroke:#ccc;stroke-width:1px;opacity:1;fill:white;}circle.node.label{stroke:transparent;stroke-width:0;fill:white;}circle.outline_node{stroke-width:1px;fill:red;}circle.protein{fill:gray;fill-opacity:0.5;stroke-width:4;}circle.hidden_outline{stroke-width:0px;}line.link{stroke:#999;stroke-opacity:0.8;stroke-width:2;}line.basepair{stroke:red;}line.intermolecule{stroke:blue;}line.chain_chain{stroke-dasharray:3,3;}line.fake{stroke:green;}.transparent{fill:transparent;stroke-width:0;stroke-opacity:0;opacity:0;visibility:hidden;}.drag_line{stroke:#999;stroke-width:2;pointer-events:none;}.drag_line_hidden{stroke:#999;stroke-width:0;pointer-events:none;}.d3-tip{line-height:1;font-weight:bold;padding:6px;background:rgba(0,0,0,0.6);color:#fff;border-radius:4px;pointer-events:none;}text.node-label{font-weight:bold;font-family:Tahoma,Geneva,sans-serif;color:rgb(100,100,100);pointer-events:none;}text{pointer-events:none;}g.gnode{}circle.outline_node.selected{visibility:visible;}circle.outline_node{visibility:hidden;}.brush.extent{fill-opacity:.1;stroke:#fff;shape-rendering:crispEdges;}.noselect{-webkit-touch-callout:none;-webkit-user-select:none;-khtml-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;}</style><g><rect width="1737" height="956" fill="white" stroke="transparent" stroke-width="1" id="zrect"></rect><g class="brush" style="pointer-events: all; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);"><rect class="background" x="0" width="1737" y="0" height="956" style="visibility: hidden; cursor: auto;"></rect><rect class="extent" x="0" width="0" y="0" height="0" style="cursor: move;"></rect><g class="resize n" transform="translate(0,0)" style="cursor: ns-resize; display: none;"><rect y="-3" width="0" height="6" style="visibility: hidden;"></rect></g><g class="resize e" transform="translate(0,0)" style="cursor: ew-resize; display: none;"><rect x="-3" width="6" height="0" style="visibility: hidden;"></rect></g><g class="resize s" transform="translate(0,0)" style="cursor: ns-resize; display: none;"><rect y="-3" width="0" height="6" style="visibility: hidden;"></rect></g><g class="resize w" transform="translate(0,0)" style="cursor: ew-resize; display: none;"><rect x="-3" width="6" height="0" style="visibility: hidden;"></rect></g><g class="resize nw" transform="translate(0,0)" style="cursor: nwse-resize; display: none;"><rect x="-3" y="-3" width="6" height="6" style="visibility: hidden;"></rect></g><g class="resize ne" transform="translate(0,0)" style="cursor: nesw-resize; display: none;"><rect x="-3" y="-3" width="6" height="6" style="visibility: hidden;"></rect></g><g class="resize se" transform="translate(0,0)" style="cursor: nwse-resize; display: none;"><rect x="-3" y="-3" width="6" height="6" style="visibility: hidden;"></rect></g><g class="resize sw" transform="translate(0,0)" style="cursor: nesw-resize; display: none;"><rect x="-3" y="-3" width="6" height="6" style="visibility: hidden;"></rect></g></g><g><g></g><g></g><line class="drag_line" x1="0" y1="0" x2="0" y2="0"></line></g></g></svg>
+    
+  </div>
+</div> 
+
+
+</body><grammarly-desktop-integration data-grammarly-shadow-root="true"></grammarly-desktop-integration></html>
