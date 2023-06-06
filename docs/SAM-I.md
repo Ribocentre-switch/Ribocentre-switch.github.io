@@ -880,87 +880,87 @@ SAM-IV riboswitches are a kind of riboswitch that specifically binds S-adenosylm
 <p class="header_box">References</p>
 <p><br /></p>
             
-<p><strong>[1]The S box regulon: a new global transcription termination control system for methionine and cysteine biosynthesis genes in gram-positive bacteria..</strong><br />
+<p><strong>[1]The S box regulon: a new global transcription termination control system for methionine and cysteine biosynthesis genes in gram-positive bacteria.</strong><br />
 Grundy, F. J. & Henkin, T. M.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/10094622/" target="_blank">Mol. Microbiol. 30, 737–749 (1998).</a><br /><br /></p>
                 
-<p><strong>[2]An mRNA structure that controls gene expression by binding S-adenosylmethionine..</strong><br />
+<p><strong>[2]An mRNA structure that controls gene expression by binding S-adenosylmethionine.</strong><br />
 Winkler, W. C., Nahvi, A., Sudarsan, N., Barrick, J. E., & Breaker, R. R<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/12910260/" target="_blank">Nat. Struct. Biol. 10, 701–707 (2003).</a><br /><br /></p>
                 
-<p><strong>[3]Transcription termination control of the S box system: direct measurement of S-adenosylmethionine by the leader RNA..</strong><br />
+<p><strong>[3]Transcription termination control of the S box system: direct measurement of S-adenosylmethionine by the leader RNA.</strong><br />
 McDaniel, B. A., Grundy, F. J., Artsimovitch, I., & Henkin, T. M.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/12626738/" target="_blank">Proc. Natl. Acad. Sci. U. S. A. 100, 3083–3088 (2003).</a><br /><br /></p>
                 
-<p><strong>[4]Structure of the S-adenosylmethionine riboswitch regulatory mRNA element..</strong><br />
+<p><strong>[4]Structure of the S-adenosylmethionine riboswitch regulatory mRNA element.</strong><br />
 Montange, R. K., & Batey, R. T.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/16810258/" target="_blank">Nature 441, 1172–1175 (2006).</a><br /><br /></p>
                 
-<p><strong>[5]Identification of 22 candidate structured RNAs in bacteria using the CMfinder comparative genomics pipeline..</strong><br />
+<p><strong>[5]Identification of 22 candidate structured RNAs in bacteria using the CMfinder comparative genomics pipeline.</strong><br />
 Weinberg, Z., Barrick, J. E., Yao, Z., Roth, A., Kim, J. N., Gore, J., Wang, J. X., Lee, E. R., Block, K. F., Sudarsan, N., Neph, S., Tompa, M., Ruzzo, W. L., & Breaker, R. R.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/17621584/" target="_blank">Nucleic Acids Res. 35, 4809–4819 (2007).</a><br /><br /></p>
                 
-<p><strong>[6]A computational pipeline for high-throughput discovery of cis-regulatory noncoding RNA in prokaryotes..</strong><br />
+<p><strong>[6]A computational pipeline for high-throughput discovery of cis-regulatory noncoding RNA in prokaryotes.</strong><br />
 Yao, Z., Barrick, J., Weinberg, Z., Neph, S., Breaker, R., Tompa, M., and Ruzzo, W.L.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/17616982/" target="_blank">PLoS Comput. Biol. 3, e126 (2007).</a><br /><br /></p>
                 
-<p><strong>[7]The aptamer core of SAM-IV riboswitches mimics the ligand-binding site of SAM-I riboswitches..</strong><br />
+<p><strong>[7]The aptamer core of SAM-IV riboswitches mimics the ligand-binding site of SAM-I riboswitches.</strong><br />
 Weinberg, Z., Regulski, E. E., Hammond, M. C., Barrick, J. E., Yao, Z., Ruzzo, W. L., & Breaker, R. R.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/18369181/" target="_blank">RNA 14, 822–828 (2008).</a><br /><br /></p>
                 
-<p><strong>[8]Discrimination between closely related cellular metabolites by the SAM-I riboswitch..</strong><br />
+<p><strong>[8]Discrimination between closely related cellular metabolites by the SAM-I riboswitch.</strong><br />
 Montange, R. K., Mondragón, E., van Tyne, D., Garst, A. D., Ceres, P., & Batey, R. T.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/20006621/" target="_blank">J. Mol. Biol. 396, 761–772 (2010).</a><br /><br /></p>
                 
-<p><strong>[9]Comparative genomics reveals 104 candidate structured RNAs from bacteria, archaea, and their metagenomes..</strong><br />
+<p><strong>[9]Comparative genomics reveals 104 candidate structured RNAs from bacteria, archaea, and their metagenomes.</strong><br />
 Weinberg, Z., Wang, J. X., Bogue, J., Yang, J., Corbino, K., Moy, R. H., & Breaker, R. R.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/20230605/" target="_blank">Genome Biol. 11, R31 (2010).</a><br /><br /></p>
                 
-<p><strong>[10]Free state conformational sampling of the SAM-I riboswitch aptamer domain..</strong><br />
+<p><strong>[10]Free state conformational sampling of the SAM-I riboswitch aptamer domain.</strong><br />
 Stoddard, C. D., Montange, R. K., Hennelly, S. P., Rambo, R. P., Sanbonmatsu, K. Y., & Batey, R. T.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/20637415/" target="_blank">Structure 18, 787–797 (2010).</a><br /><br /></p>
                 
-<p><strong>[11]SAM recognition and conformational switching mechanism in the Bacillus subtilis yitJ S box/SAM-I riboswitch..</strong><br />
+<p><strong>[11]SAM recognition and conformational switching mechanism in the Bacillus subtilis yitJ S box/SAM-I riboswitch.</strong><br />
 Lu, C., Ding, F., Chowdhury, A., Pradhan, V., Tomsic, J., Holmes, W. M., Henkin, T. M., & Ke, A.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/20951706/" target="_blank">J. Mol. Biol. 404, 803–818 (2010).</a><br /><br /></p>
                 
-<p><strong>[12]Molecular insights into the ligand-controlled organization of the SAM-I riboswitch..</strong><br />
+<p><strong>[12]Molecular insights into the ligand-controlled organization of the SAM-I riboswitch.</strong><br />
 Heppell, B., Blouin, S., Dussault, A. M., Mulhbacher, J., Ennifar, E., Penedo, J. C., & Lafontaine, D. A.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/21532599/" target="_blank">Nat. Chem. Biol. 7, 384–392 (2011).</a><br /><br /></p>
                 
-<p><strong>[13]Folding of the SAM-I riboswitch: a tale with a twist..</strong><br />
+<p><strong>[13]Folding of the SAM-I riboswitch: a tale with a twist.</strong><br />
 Eschbach, S. H., St-Pierre, P., Penedo, J. C., & Lafontaine, D. A.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/22336759/" target="_blank">RNA Biol. 9, 535–541 (2012).</a><br /><br /></p>
                 
-<p><strong>[14]Basis for ligand discrimination between ON and OFF state riboswitch conformations: the case of the SAM-I riboswitch..</strong><br />
+<p><strong>[14]Basis for ligand discrimination between ON and OFF state riboswitch conformations: the case of the SAM-I riboswitch.</strong><br />
 Boyapati, V. K., Huang, W., Spedale, J., & Aboul-Ela, F.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/22543867/" target="_blank">RNA 18, 1230–1243 (2012).</a><br /><br /></p>
                 
-<p><strong>[15]Structural basis for diversity in the SAM clan of riboswitches..</strong><br />
+<p><strong>[15]Structural basis for diversity in the SAM clan of riboswitches.</strong><br />
 Trausch, J. J., Xu, Z., Edwards, A. L., Reyes, F. E., Ross, P. E., Knight, R., & Batey, R. T.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/24753586/" target="_blank">Proc. Natl. Acad. Sci. U. S. A. 111, 6624–6629 (2014).</a><br /><br /></p>
                 
-<p><strong>[16]Ligand recognition and helical stacking formation are intimately linked in the SAM-I riboswitch regulatory mechanism..</strong><br />
+<p><strong>[16]Ligand recognition and helical stacking formation are intimately linked in the SAM-I riboswitch regulatory mechanism.</strong><br />
 Dussault, A.-M., Dubé, A., Jacques, F., Grondin, J. P., and Lafontaine, D. A.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/28701520/" target="_blank">RNA 23, 1539–1551 (2017).</a><br /><br /></p>
                 
-<p><strong>[17]Single-molecule FRET reveals the energy landscape of the full-length SAM-I riboswitch..</strong><br />
+<p><strong>[17]Single-molecule FRET reveals the energy landscape of the full-length SAM-I riboswitch.</strong><br />
 Manz, C., Kobitski, A. Y., Samanta, A., Keller, B. G., Jäschke, A., & Nienhaus, G. U.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/28920931/" target="_blank">Nat. Chem. Biol. 13, 1172–1178 (2017).</a><br /><br /></p>
                 
-<p><strong>[18]The multi-state energy landscape of the SAM-I riboswitch: A single-molecule Förster resonance energy transfer spectroscopy study..</strong><br />
+<p><strong>[18]The multi-state energy landscape of the SAM-I riboswitch: A single-molecule Förster resonance energy transfer spectroscopy study.</strong><br />
 Manz, C., Kobitski, A. Y., Samanta, A., Jäschke, A., & Nienhaus, G. U.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/29604896/" target="_blank">J. Chem. Phys. 148, 123324 (2018).</a><br /><br /></p>
                 
-<p><strong>[19]Cryo-EM structure of a 40 kDa SAM-IV riboswitch RNA at 3.7 Å resolution..</strong><br />
+<p><strong>[19]Cryo-EM structure of a 40 kDa SAM-IV riboswitch RNA at 3.7 Å resolution.</strong><br />
 Zhang, K., Li, S., Kappel, K., Pintilie, G., Su, Z., Mou, T. C., Schmid, M. F., Das, R., & Chiu, W.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/31796736/" target="_blank">Nat. Commun. 10, 5511 (2019).</a><br /><br /></p>
                 
-<p><strong>[20]A SAM-I riboswitch with the ability to sense and respond to uncharged initiator tRNA..</strong><br />
+<p><strong>[20]A SAM-I riboswitch with the ability to sense and respond to uncharged initiator tRNA.</strong><br />
 Tang, D. J., Du, X., Shi, Q., Zhang, J. L., He, Y. P., Chen, Y. M., Ming, Z., Wang, D., Zhong, W. Y., Liang, Y. W., Liu, J. Y., Huang, J. M., Zhong, Y. S., An, S. Q., Gu, H., & Tang, J. L.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/32493973/" target="_blank">Nat. Commun. 11, 2794 (2020).</a><br /><br /></p>
                 
-<p><strong>[21]Targeting SAM-I riboswitch using antisense oligonucleotide technology for inhibiting the growth of staphylococcus aureus and listeria monocytogenes..</strong><br />
+<p><strong>[21]Targeting SAM-I riboswitch using antisense oligonucleotide technology for inhibiting the growth of staphylococcus aureus and listeria monocytogenes.</strong><br />
 Traykovska, M., & Penchovsky, R.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/36421306/" target="_blank">Antibiotics (Basel) 11, (2022).</a><br /><br /></p>
                 

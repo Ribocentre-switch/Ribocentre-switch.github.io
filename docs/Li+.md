@@ -173,11 +173,11 @@ In 2022, Breaker et al. identified <i>nhaA</i>-I motif and <i>nhaA</i>-II motif 
 <p class="header_box">References</p>
 <p><br /></p>
             
-<p><strong>[1]Detection of 224 candidate structured RNAs by comparative analysis of specific subsets of intergenic regions..</strong><br />
+<p><strong>[1]Detection of 224 candidate structured RNAs by comparative analysis of specific subsets of intergenic regions.</strong><br />
 Weinberg, Z. et al.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/28977401/" target="_blank">Nucleic Acids Res. 45, 10811–10823 (2017).</a><br /><br /></p>
                 
-<p><strong>[2]Lithium-sensing riboswitch classes regulate expression of bacterial cation transporter genes..</strong><br />
+<p><strong>[2]Lithium-sensing riboswitch classes regulate expression of bacterial cation transporter genes.</strong><br />
 White, N., Sadeeshkumar, H., Sun, A., Sudarsan, N. & Breaker, R. R.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/36352003/" target="_blank">Sci. Rep. 12, 19145 (2022).</a><br /><br /></p>
                 

@@ -625,35 +625,35 @@ e binding pocket of the THF-I riboswitch generated from PDB ID: 4LVV. 6<i>S</i>-
 <p class="header_box">References</p>
 <p><br /></p>
             
-<p><strong>[1]A eubacterial riboswitch class that senses the coenzyme tetrahydrofolate..</strong><br />
+<p><strong>[1]A eubacterial riboswitch class that senses the coenzyme tetrahydrofolate.</strong><br />
 Ames, T. D., Rodionov, D. A., Weinberg, Z. & Breaker, R. R.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/20659680/" target="_blank">Chem. Biol. 17, (2010).</a><br /><br /></p>
                 
-<p><strong>[2]Long-range pseudoknot interactions dictate the regulatory response in the tetrahydrofolate riboswitch..</strong><br />
+<p><strong>[2]Long-range pseudoknot interactions dictate the regulatory response in the tetrahydrofolate riboswitch.</strong><br />
 Huang, L., Ishibe-Murakami, S., Patel, D. J. & Serganov, A.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/21873197/" target="_blank">Proc. Natl. Acad. Sci. U. S. A. 108, (2011).</a><br /><br /></p>
                 
-<p><strong>[3]The structure of a tetrahydrofolate-sensing riboswitch reveals two ligand binding sites in a single aptamer..</strong><br />
+<p><strong>[3]The structure of a tetrahydrofolate-sensing riboswitch reveals two ligand binding sites in a single aptamer.</strong><br />
 Trausch, J. J., Ceres, P., Reyes, F. E. & Batey, R. T.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/21906956/" target="_blank">Structure 19, (2011).</a><br /><br /></p>
                 
-<p><strong>[4]A disconnect between high-affinity binding and efficient regulation by antifolates and purines in the tetrahydrofolate riboswitch..</strong><br />
+<p><strong>[4]A disconnect between high-affinity binding and efficient regulation by antifolates and purines in the tetrahydrofolate riboswitch.</strong><br />
 Trausch, J. J. & Batey, R. T.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/24388757/" target="_blank">Chem. Biol. 21, (2014).</a><br /><br /></p>
                 
-<p><strong>[5]Detection of 224 candidate structured RNAs by comparative analysis of specific subsets of intergenic regions..</strong><br />
+<p><strong>[5]Detection of 224 candidate structured RNAs by comparative analysis of specific subsets of intergenic regions.</strong><br />
 Weinberg, Z. et al.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/28977401/" target="_blank">Nucleic Acids Res. 45, (2017).</a><br /><br /></p>
                 
-<p><strong>[6]Biochemical validation of a second class of tetrahydrofolate riboswitches in bacteria..</strong><br />
+<p><strong>[6]Biochemical validation of a second class of tetrahydrofolate riboswitches in bacteria.</strong><br />
 Chen, X., Mirihana, A. G. & Breaker, R. R.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/31186369/" target="_blank">RNA 25, (2019).</a><br /><br /></p>
                 
-<p><strong>[7]Tying the knot in the tetrahydrofolate (THF) riboswitch: A molecular basis for gene regulation..</strong><br />
+<p><strong>[7]Tying the knot in the tetrahydrofolate (THF) riboswitch: A molecular basis for gene regulation.</strong><br />
 Wilt, H. M., Yu, P., Tan, K., Wang, Y. X. & Stagno, J. R.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/33571639/" target="_blank">J. Struct. Biol. 213, (2021).</a><br /><br /></p>
                 
-<p><strong>[8]Structural insights into translation regulation by the THF-II riboswitch..</strong><br />
+<p><strong>[8]Structural insights into translation regulation by the THF-II riboswitch.</strong><br />
 Xu, L., Xiao, Y., Zhang, J. & Fang, X.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/36620887/" target="_blank">Nucleic Acids Res. 51, (2023).</a><br /><br /></p>
                 

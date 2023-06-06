@@ -901,55 +901,55 @@ permalink: /docs/PreQ<sub>1</sub>/
 <p class="header_box">References</p>
 <p><br /></p>
             
-<p><strong>[1]A riboswitch selective for the queuosine precursor preQ<sub>1</sub> contains an unusually small aptamer domain.</strong><br />
+<p><strong>[1]A riboswitch selective for the queuosine precursor preQ<sub>1</sub> contains an unusually small aptamer domain</strong><br />
 Roth, A. et al<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/17384645/" target="_blank">Nat. Struct. Mol. Biol. 14, (2007)</a><br /><br /></p>
                 
-<p><strong>[2]Confirmation of a second natural preQ<sub>1</sub> aptamer class in Streptococcaceae bacteria.</strong><br />
+<p><strong>[2]Confirmation of a second natural preQ<sub>1</sub> aptamer class in Streptococcaceae bacteria</strong><br />
 Meyer, M. M., Roth, A., Chervin, S. M., Garcia, G. A. & Breaker, R. R<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/18305186/" target="_blank">RNA 14, (2008)</a><br /><br /></p>
                 
-<p><strong>[3]Cocrystal structure of a class I preQ<sub>1</sub> riboswitch reveals a pseudoknot recognizing an essential hypermodified nucleobase.</strong><br />
+<p><strong>[3]Cocrystal structure of a class I preQ<sub>1</sub> riboswitch reveals a pseudoknot recognizing an essential hypermodified nucleobase</strong><br />
 Klein, D. J., Edwards, T. E. & Ferré-D’Amaré, A. R<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/19234468/" target="_blank">Nat. Struct. Mol. Biol. 16, (2009)</a><br /><br /></p>
                 
-<p><strong>[4]Structural Insights into riboswitch control of the biosynthesis of queuosine, a  modified nucleotide found in the anticodon of Trna.</strong><br />
+<p><strong>[4]Structural Insights into riboswitch control of the biosynthesis of queuosine, a  modified nucleotide found in the anticodon of Trna</strong><br />
 Kang, M., Peterson, R. & Feigon, J<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/19285444/" target="_blank">Mol. Cell 33, (2009)</a><br /><br /></p>
                 
-<p><strong>[5]The Structural Basis for Recognition of the PreQ<sub>0</sub> Metabolite by an Unusually Small Riboswitch Aptamer Domain.</strong><br />
+<p><strong>[5]The Structural Basis for Recognition of the PreQ<sub>0</sub> Metabolite by an Unusually Small Riboswitch Aptamer Domain</strong><br />
 Spitale, R. C., Torelli, A. T., Krucinska, J., Bandarian, V. & Wedekind, J. E<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/19261617/" target="_blank">J. Biol. Chem. 284, (2009)</a><br /><br /></p>
                 
-<p><strong>[6]Comparison of a PreQ<sub>1</sub> Riboswitch Aptamer in Metabolite-bound and Free States with Implications for Gene Regulation.</strong><br />
+<p><strong>[6]Comparison of a PreQ<sub>1</sub> Riboswitch Aptamer in Metabolite-bound and Free States with Implications for Gene Regulation</strong><br />
 Jenkins, J. L., Krucinska, J., McCarty, R. M., Bandarian, V. & Wedekind, J. E<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/21592962/" target="_blank">J. Biol. Chem. 286, (2011)</a><br /><br /></p>
                 
-<p><strong>[7]Structure of a class II preQ<sub>1</sub> riboswitch reveals ligand recognition by a new fold.</strong><br />
+<p><strong>[7]Structure of a class II preQ<sub>1</sub> riboswitch reveals ligand recognition by a new fold</strong><br />
 Liberman, J. A., Salim, M., Krucinska, J. & Wedekind, J. E<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/23584677/" target="_blank">Nat. Chem. Biol. 9, (2013)</a><br /><br /></p>
                 
-<p><strong>[8]Structural determinants for ligand capture by a class II preQ<sub>1</sub> riboswitch.</strong><br />
+<p><strong>[8]Structural determinants for ligand capture by a class II preQ<sub>1</sub> riboswitch</strong><br />
 Kang, M., Eichhorn, C. D. & Feigon, J<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/24469808/" target="_blank">Proc. Natl. Acad. Sci. U. S. A. 111, (2014)</a><br /><br /></p>
                 
-<p><strong>[9]Structural, Functional, and Taxonomic Diversity of Three PreQ<sub>1</sub> Riboswitch Classes.</strong><br />
+<p><strong>[9]Structural, Functional, and Taxonomic Diversity of Three PreQ<sub>1</sub> Riboswitch Classes</strong><br />
 McCown, P. J., Liang, J. J., Weinberg, Z. & Breaker, R. R<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/25036777/" target="_blank">Chem. Biol. 21, (2014)</a><br /><br /></p>
                 
-<p><strong>[10]Structural analysis of a class III preQ<sub>1</sub> riboswitch reveals an aptamer distant from a ribosome-binding site regulated by fast dynamics.</strong><br />
+<p><strong>[10]Structural analysis of a class III preQ<sub>1</sub> riboswitch reveals an aptamer distant from a ribosome-binding site regulated by fast dynamics</strong><br />
 Liberman, J. A<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/26106162/" target="_blank">Proc. Natl. Acad. Sci. U. S. A. 112, (2015)</a><br /><br /></p>
                 
-<p><strong>[11]Synthetic ligands for PreQ<sub>1</sub> riboswitches provide structural and mechanistic insights into targeting RNA tertiary structure.</strong><br />
+<p><strong>[11]Synthetic ligands for PreQ<sub>1</sub> riboswitches provide structural and mechanistic insights into targeting RNA tertiary structure</strong><br />
 Connelly, C. M. et al<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/30940810/" target="_blank">Nat. Commun. 10, (2019)</a><br /><br /></p>
                 
-<p><strong>[12]Analysis of a preQ<sub>1</sub>-I riboswitch in effector-free and bound states reveals a metabolite-programmed nucleobase-stacking spine that controls gene regulation.</strong><br />
+<p><strong>[12]Analysis of a preQ<sub>1</sub>-I riboswitch in effector-free and bound states reveals a metabolite-programmed nucleobase-stacking spine that controls gene regulation</strong><br />
 Schroeder, G. M. et al<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/32597951/" target="_blank">Nucleic Acids Res. 48, (2020)</a><br /><br /></p>
                 
-<p><strong>[13]A small RNA that cooperatively senses two stacked metabolites in one pocket for gene control.</strong><br />
+<p><strong>[13]A small RNA that cooperatively senses two stacked metabolites in one pocket for gene control</strong><br />
 Schroeder, G. M. et al<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/35017488/" target="_blank">Nat. Commun. 13, (2022)</a><br /><br /></p>
                 

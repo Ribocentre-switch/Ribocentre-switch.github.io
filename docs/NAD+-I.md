@@ -333,19 +333,19 @@ permalink: /docs/NAD<sup>+</sup>-I/
 <p class="header_box">References</p>
 <p><br /></p>
             
-<p><strong>[1]Detection of 224 candidate structured RNAs by comparative analysis of specific subsets of intergenic regions.</strong><br />
+<p><strong>[1]Detection of 224 candidate structured RNAs by comparative analysis of specific subsets of intergenic regions</strong><br />
 Weinberg, Z. et al.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/28977401/" target="_blank">Nucleic Acids Res. 45, 10811–10823 (2017).</a><br /><br /></p>
                 
-<p><strong>[2]Evidence that the nadA motif is a bacterial riboswitch for the ubiquitous enzyme  cofactor NAD.</strong><br />
+<p><strong>[2]Evidence that the nadA motif is a bacterial riboswitch for the ubiquitous enzyme  cofactor NAD</strong><br />
 Malkowski, S. N., Spencer, T. C. J. & Breaker, R. R.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/31467147/" target="_blank">RNA 25, 1616–1627 (2019).</a><br /><br /></p>
                 
-<p><strong>[3]Structure and ligand binding of the ADP-binding domain of the NAD<sup>+</sup> riboswitch.</strong><br />
+<p><strong>[3]Structure and ligand binding of the ADP-binding domain of the NAD<sup>+</sup> riboswitch</strong><br />
 Huang, L., Wang, J. & Lilley, D. M. J.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/32295864/" target="_blank">RNA 26, 878–887 (2020).</a><br /><br /></p>
                 
-<p><strong>[4]Structural distinctions between NAD<sup>+</sup> riboswitch domains 1 and 2 determine  differential folding and ligand binding.</strong><br />
+<p><strong>[4]Structural distinctions between NAD<sup>+</sup> riboswitch domains 1 and 2 determine  differential folding and ligand binding</strong><br />
 Chen, H. et al.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/33170270/" target="_blank">Nucleic Acids Res. 48, 12394–12406 (2020).</a><br /><br /></p>
                 

@@ -371,19 +371,19 @@ permalink: /docs/NAD<sup>+</sup>-II/
 <p class="header_box">References</p>
 <p><br /></p>
             
-<p><strong>[1]Comprehensive discovery of novel structured noncoding RNAs in 26 bacterial genomes.</strong><br />
+<p><strong>[1]Comprehensive discovery of novel structured noncoding RNAs in 26 bacterial genomes</strong><br />
 Brewer, K. I. et al.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/33970790/" target="_blank">RNA Biol. 18, 2417–2432 (2021).</a><br /><br /></p>
                 
-<p><strong>[2]A second riboswitch class for the enzyme cofactor NAD.</strong><br />
+<p><strong>[2]A second riboswitch class for the enzyme cofactor NAD</strong><br />
 Panchapakesan, S. S. S., Corey, L., Malkowski, S. N., Higgs, G. & Breaker, R. R.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/33087526/" target="_blank">RNA 27, 99–105 (2021).</a><br /><br /></p>
                 
-<p><strong>[3]Structure-based investigations of the NAD<sup>+</sup>-II riboswitch.</strong><br />
+<p><strong>[3]Structure-based investigations of the NAD<sup>+</sup>-II riboswitch</strong><br />
 Xu, X. et al.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/36610789/" target="_blank">Nucleic Acids Res. 51, 54–67 (2023).</a><br /><br /></p>
                 
-<p><strong>[4]Crystal structures of the NAD<sup>+</sup>-II riboswitch reveal two distinct ligand-binding pockets.</strong><br />
+<p><strong>[4]Crystal structures of the NAD<sup>+</sup>-II riboswitch reveal two distinct ligand-binding pockets</strong><br />
 Peng, X., Liao, W., Lin, X., Lilley, D. M. J. & Huang, L.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/36840714/" target="_blank">Nucleic Acids Res. 51, 2904–2914 (2023).</a><br /><br /></p>
                 

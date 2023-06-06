@@ -373,39 +373,39 @@ permalink: /docs/SAM-III/
 <p class="header_box">References</p>
 <p><br /></p>
             
-<p><strong>[1]The S(MK) box is a new SAM-binding RNA for translational regulation of SAM synthetase..</strong><br />
+<p><strong>[1]The S(MK) box is a new SAM-binding RNA for translational regulation of SAM synthetase.</strong><br />
 Fuchs, R. T., Grundy, F. J., & Henkin, T. M.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/16491091/" target="_blank">Nat. Struct. Mol. Biol. 13, 226–233 (2006).</a><br /><br /></p>
                 
-<p><strong>[2]S-adenosylmethionine directly inhibits binding of 30S ribosomal subunits to the S(MK) box translational riboswitch RNA..</strong><br />
+<p><strong>[2]S-adenosylmethionine directly inhibits binding of 30S ribosomal subunits to the S(MK) box translational riboswitch RNA.</strong><br />
 Fuchs, R. T., Grundy, F. J., & Henkin, T. M.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/17360376/" target="_blank">Proc. Natl. Acad. Sci. U. S. A. 104, 4876–4880 (2007).</a><br /><br /></p>
                 
-<p><strong>[3]Crystal structures of the SAM-III/S(MK) riboswitch reveal the SAM-dependent translation inhibition mechanism..</strong><br />
+<p><strong>[3]Crystal structures of the SAM-III/S(MK) riboswitch reveal the SAM-dependent translation inhibition mechanism.</strong><br />
 Lu, C., Smith, A. M., Fuchs, R. T., Ding, F., Rajashankar, K., Henkin, T. M., & Ke, A.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/18806797/" target="_blank">Nat. Struct. Mol. Biol. 15, 1076–1083 (2008).</a><br /><br /></p>
                 
-<p><strong>[4]Atomistic details of the ligand discrimination mechanism of S(MK)/SAM-III riboswitch..</strong><br />
+<p><strong>[4]Atomistic details of the ligand discrimination mechanism of S(MK)/SAM-III riboswitch.</strong><br />
 Priyakumar U. D.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/20614931/" target="_blank">J. Phys. Chem. B 114, 9920–9925 (2010).</a><br /><br /></p>
                 
-<p><strong>[5]The SAM-responsive S(MK) box is a reversible riboswitch..</strong><br />
+<p><strong>[5]The SAM-responsive S(MK) box is a reversible riboswitch.</strong><br />
 Smith, A. M., Fuchs, R. T., Grundy, F. J., & Henkin, T. M.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/21143313/" target="_blank">Mol. Microbiol. 78, 1393–1402 (2010).</a><br /><br /></p>
                 
-<p><strong>[6]Variable sequences outside the SAM-binding core critically influence the conformational dynamics of the SAM-III/SMK box riboswitch..</strong><br />
+<p><strong>[6]Variable sequences outside the SAM-binding core critically influence the conformational dynamics of the SAM-III/SMK box riboswitch.</strong><br />
 Lu, C., Smith, A. M., Ding, F., Chowdhury, A., Henkin, T. M., & Ke, A.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/21549712/" target="_blank">J. Mol. Biol. 409, 786–799 (2011).</a><br /><br /></p>
                 
-<p><strong>[7]Ligand-induced stabilization of a duplex-like architecture is crucial for the switching mechanism of the SAM-III riboswitch..</strong><br />
+<p><strong>[7]Ligand-induced stabilization of a duplex-like architecture is crucial for the switching mechanism of the SAM-III riboswitch.</strong><br />
 Suresh, G., Srinivasan, H., Nanda, S., & Priyakumar, U. D.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/27249101/" target="_blank">Biochemistry 55, 3349–3360 (2016).</a><br /><br /></p>
                 
-<p><strong>[8]Reversible-switch mechanism of the SAM-III riboswitch..</strong><br />
+<p><strong>[8]Reversible-switch mechanism of the SAM-III riboswitch.</strong><br />
 Gong, S., Wang, Y., Wang, Z., Wang, Y., & Zhang, W.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/27934232/" target="_blank">J. Phys. Chem. B 120, 12305–12311 (2016).</a><br /><br /></p>
                 
-<p><strong>[9]Decoding the identification mechanism of an SAM-III riboswitch on ligands through multiple independent gaussian-accelerated molecular dynamics simulations..</strong><br />
+<p><strong>[9]Decoding the identification mechanism of an SAM-III riboswitch on ligands through multiple independent gaussian-accelerated molecular dynamics simulations.</strong><br />
 Chen, J., Zeng, Q., Wang, W., Sun, H., & Hu, G.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/36440874/" target="_blank">J. Chem. Inf. Model. 62, 6118–6132 (2022).</a><br /><br /></p>
                 

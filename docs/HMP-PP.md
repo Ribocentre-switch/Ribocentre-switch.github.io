@@ -189,15 +189,15 @@ permalink: /docs/HMP-PP/
 <p class="header_box">References</p>
 <p><br /></p>
             
-<p><strong>[1]Thiamin biosynthesis in prokaryotes..</strong><br />
+<p><strong>[1]Thiamin biosynthesis in prokaryotes.</strong><br />
 Begley, T. P. et al.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/10382260/" target="_blank">Arch. Microbiol. 171, (1999).</a><br /><br /></p>
                 
-<p><strong>[2]Genome-wide discovery of structured noncoding RNAs in bacteria..</strong><br />
+<p><strong>[2]Genome-wide discovery of structured noncoding RNAs in bacteria.</strong><br />
 Stav, S. et al.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/30902049/" target="_blank">BMC Microbiol. 19, (2019).</a><br /><br /></p>
                 
-<p><strong>[3]A bacterial riboswitch class for the thiamin precursor HMP-PP employs a terminator-embedded aptamer..</strong><br />
+<p><strong>[3]A bacterial riboswitch class for the thiamin precursor HMP-PP employs a terminator-embedded aptamer.</strong><br />
 Atilho, R. M., Mirihana, A. G., Greenlee, E. B., Knecht, K. M. & Breaker, R. R.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/30950790/" target="_blank">Elife 8, (2019).</a><br /><br /></p>
                 

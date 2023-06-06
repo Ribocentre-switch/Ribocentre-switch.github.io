@@ -524,27 +524,27 @@ permalink: /docs/2'-dG/
 <p class="header_box">References</p>
 <p><br /></p>
             
-<p><strong>[1]Interactions between deoxyribonucleotide and DNA synthesis.</strong><br />
+<p><strong>[1]Interactions between deoxyribonucleotide and DNA synthesis</strong><br />
 Reichard, P<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/3052277/" target="_blank">Annu. Rev. Biochem. 57, (1988)</a><br /><br /></p>
                 
-<p><strong>[2]Guanine riboswitch variants from Mesoplasma florum selectively recognize  2'-deoxyguanosine.</strong><br />
+<p><strong>[2]Guanine riboswitch variants from Mesoplasma florum selectively recognize  2'-deoxyguanosine</strong><br />
 Kim, J. N., Roth, A. & Breaker, R. R<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/17911257/" target="_blank">Proc. Natl. Acad. Sci. U. S. A. 104, (2007)</a><br /><br /></p>
                 
-<p><strong>[3]Structural principles of nucleoside selectivity in a 2′-deoxyguanosine riboswitch.</strong><br />
+<p><strong>[3]Structural principles of nucleoside selectivity in a 2′-deoxyguanosine riboswitch</strong><br />
 Pikovskaya, O., Polonskaia, A., Patel, D. J. & Serganov, A<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/21841796/" target="_blank">Nat. Chem. Biol. 7, (2011)</a><br /><br /></p>
                 
-<p><strong>[4]Bioinformatic analysis of riboswitch structures uncovers variant classes with altered ligand specificity.</strong><br />
+<p><strong>[4]Bioinformatic analysis of riboswitch structures uncovers variant classes with altered ligand specificity</strong><br />
 Weinberg, Z., Nelson, J. W., Lünse, C. E., Sherlock, M. E. & Breaker, R. R<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/28265071/" target="_blank">Proc. Natl. Acad. Sci. U. S. A. 114, (2017)</a><br /><br /></p>
                 
-<p><strong>[5]Structural basis for 2′-deoxyguanosine recognition by the 2′-dG-II class of riboswitches.</strong><br />
+<p><strong>[5]Structural basis for 2′-deoxyguanosine recognition by the 2′-dG-II class of riboswitches</strong><br />
 Matyjasik, M. M. & Batey, R. T<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/31598729/" target="_blank">Nucleic Acids Res. 47, (2019)</a><br /><br /></p>
                 
-<p><strong>[6]Variants of the guanine riboswitch class exhibit altered ligand specificities for xanthine, guanine, or 2′-deoxyguanosine.</strong><br />
+<p><strong>[6]Variants of the guanine riboswitch class exhibit altered ligand specificities for xanthine, guanine, or 2′-deoxyguanosine</strong><br />
 Hamal, D. S., Panchapakesan, S. S. S., Slattery, P., Roth, A. & Breaker, R. R<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/35622895/" target="_blank">Proc. Natl. Acad. Sci. U. S. A. 119, (2022)</a><br /><br /></p>
                 

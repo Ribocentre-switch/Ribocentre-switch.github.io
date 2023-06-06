@@ -326,27 +326,27 @@ permalink: /docs/SAM-SAH/
 <p class="header_box">References</p>
 <p><br /></p>
             
-<p><strong>[1]Comparative genomics reveals 104 candidate structured RNAs from bacteria, archaea, and their metagenomes..</strong><br />
+<p><strong>[1]Comparative genomics reveals 104 candidate structured RNAs from bacteria, archaea, and their metagenomes.</strong><br />
 Weinberg, Z., Wang, J. X., Bogue, J., Yang, J., Corbino, K., Moy, R. H., & Breaker, R. R.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/20230605/" target="_blank">Genome Biol. 11, R31 (2010).</a><br /><br /></p>
                 
-<p><strong>[2]Detection of 224 candidate structured RNAs by comparative analysis of specific subsets of intergenic regions..</strong><br />
+<p><strong>[2]Detection of 224 candidate structured RNAs by comparative analysis of specific subsets of intergenic regions.</strong><br />
 Weinberg, Z., Lünse, C. E., Corbino, K. A., Ames, T. D., Nelson, J. W., Roth, A., Perkins, K. R., Sherlock, M. E., & Breaker, R. R.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/28977401/" target="_blank">Nucleic Acids Res. 45, 10811–10823 (2017).</a><br /><br /></p>
                 
-<p><strong>[3]NMR resonance assignments for the SAM/SAH-binding riboswitch RNA bound to S-adenosylhomocysteine..</strong><br />
+<p><strong>[3]NMR resonance assignments for the SAM/SAH-binding riboswitch RNA bound to S-adenosylhomocysteine.</strong><br />
 Weickhmann, A. K., Keller, H., Duchardt-Ferner, E., Strebitzer, E., Juen, M. A., Kremser, J., Wurm, J. P., Kreutz, C., & Wöhnert, J.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/30051308/" target="_blank">Biomol. NMR Assign. 12, 329–334 (2018).</a><br /><br /></p>
                 
-<p><strong>[4]The structure of the SAM/SAH-binding riboswitch..</strong><br />
+<p><strong>[4]The structure of the SAM/SAH-binding riboswitch.</strong><br />
 Weickhmann, A. K., Keller, H., Wurm, J. P., Strebitzer, E., Juen, M. A., Kremser, J., Weinberg, Z., Kreutz, C., Duchardt-Ferner, E., & Wöhnert, J.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/30590743/" target="_blank">Nucleic Acids Res. 47, 2654–2665 (2019).</a><br /><br /></p>
                 
-<p><strong>[5]Crystal structure and ligand-induced folding of the SAM/SAH riboswitch..</strong><br />
+<p><strong>[5]Crystal structure and ligand-induced folding of the SAM/SAH riboswitch.</strong><br />
 Huang, L., Liao, T. W., Wang, J., Ha, T., & Lilley, D. M. J.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/32520325/" target="_blank">Nucleic Acids Res. 48, 7545–7556 (2020).</a><br /><br /></p>
                 
-<p><strong>[6]Magnesium ions mediate ligand binding and conformational transition of the SAM/SAH riboswitch..</strong><br />
+<p><strong>[6]Magnesium ions mediate ligand binding and conformational transition of the SAM/SAH riboswitch.</strong><br />
 Hu, G., & Zhou, H. X.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/36945415/" target="_blank">BioRxiv : the preprint server for biology, 2023.03.12.532287(2023).</a><br /><br /></p>
                 

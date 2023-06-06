@@ -330,19 +330,19 @@ permalink: /docs/SAH/
 <p class="header_box">References</p>
 <p><br /></p>
             
-<p><strong>[1]Riboswitches that sense S-adenosylhomocysteine and activate genes involved in coenzyme recycling..</strong><br />
+<p><strong>[1]Riboswitches that sense S-adenosylhomocysteine and activate genes involved in coenzyme recycling.</strong><br />
 Wang, J. X., Lee, E. R., Morales, D. R., Lim, J., & Breaker, R. R.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/18374645/" target="_blank">Mol. Cell 29, 691–702 (2008).</a><br /><br /></p>
                 
-<p><strong>[2]Riboswitches that sense S-adenosylmethionine and S-adenosylhomocysteine..</strong><br />
+<p><strong>[2]Riboswitches that sense S-adenosylmethionine and S-adenosylhomocysteine.</strong><br />
 Wang, J. X., & Breaker, R. R.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/18443629/" target="_blank">Biochem. Cell Biol. 86, 157–168 (2008).</a><br /><br /></p>
                 
-<p><strong>[3]Structural basis for recognition of S-adenosylhomocysteine by riboswitches..</strong><br />
+<p><strong>[3]Structural basis for recognition of S-adenosylhomocysteine by riboswitches.</strong><br />
 Edwards, A. L., Reyes, F. E., Héroux, A., & Batey, R. T.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/20864509/" target="_blank">RNA 16, 2144–2155 (2010).</a><br /><br /></p>
                 
-<p><strong>[4]Stimulation of -1 programmed ribosomal frameshifting by a metabolite-responsive RNA pseudoknot..</strong><br />
+<p><strong>[4]Stimulation of -1 programmed ribosomal frameshifting by a metabolite-responsive RNA pseudoknot.</strong><br />
 Chou, M. Y., Lin, S. C., & Chang, K. Y.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/20435898/" target="_blank">RNA 16, 1236–1244 (2010).</a><br /><br /></p>
                 
