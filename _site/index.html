@@ -43,8 +43,57 @@
 		#now a:hover{
 			font-size: 20px;
 		}
+		ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #005826;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover:not(.active) {
+    background-color: #005826;
+}
+
+li a.active {
+    background-color: #000000;
+}
+</style>
+<script>
+window.addEventListener("DOMContentLoaded", function() {
+  // 获取当前页面的URL
+  var currentURL = window.location.href;
+  
+  // 获取所有导航按钮
+  var navButtons = document.querySelectorAll("li a");
+  
+  // 遍历导航按钮
+  navButtons.forEach(function(button) {
+    // 获取按钮的链接
+    var buttonURL = button.href;
+    
+    // 比较URL是否与当前页面的URL匹配
+    if (currentURL === buttonURL) {
+      // 设置匹配的按钮为激活状态
+      button.classList.add("active");
+    }
+  });
+});
+</script>
 		
-  </style>
+
 
   <div class="container-fluid">
 	<div class="navbar-header">
@@ -64,14 +113,26 @@
 	<div class="collapse navbar-collapse" id="navbar-collapse-1">
 	  <ul class="nav navbar-nav navbar-right">
 		<li id="now" class="active"><a href="http://localhost:4000/">Home</a></li>
-		<li id="now"><a href="http://localhost:4000/riboswitches/">Riboswitches</a></li>
-		<li id="now"><a href="http://localhost:4000/404.html">Sequences</a></li>
-		<li id="now"><a href="http://localhost:4000/404.html">Structures</a></li>
-		<li id="now"><a href="http://localhost:4000/404.html">Bindingpockets</a></li>
-		<li id="now"><a href="http://localhost:4000/404.html">Applications</a></li>
-		<li id="now"><a href="http://localhost:4000/404.html">Publications</a></li>
+		<li id="now"><a href="http://localhost:4000/riboswitches.html">Riboswitches</a></li>
+		<li id="now"><a href="http://localhost:4000/Sequences.html">Sequences</a></li>
+		<li id="now"><a href="http://localhost:4000/Structures.html">Structures</a></li>
+		<li id="now"><a href="http://localhost:4000/Bindingpockets.html">Bindingpockets</a></li>
+		<li id="now"><a href="http://localhost:4000/Applications.html">Applications</a></li>
+		<li id="now"><a href="http://localhost:4000/Publications.html">Publications</a></li>
 		<li id="now"><a href="http://localhost:4000/404.html">Help</a></li>
 	  </ul>
+	  <script>
+		function setActive(element) {
+		  // 移除所有导航按钮的激活状态
+		  var navButtons = document.querySelectorAll("li a");
+		  navButtons.forEach(function(button) {
+			button.classList.remove("active");
+		  });
+	  
+		  // 给点击的按钮添加激活状态
+		  element.classList.add("active");
+		}
+	  </script>
    </div>
   </div>
 </div>
@@ -116,9 +177,13 @@
 <div class="wrapper box_style">
   <section class="sectiontitle"> 
   <br /><br /><br /><br /><br />
-  <h2><font size="10"><strong>&emsp;Welcome to Ribocentre</strong></font></h2><br /><br /><br />
+  <h2><font size="10"><strong>&emsp;Welcome to Ribocentre-switch</strong></font></h2><br /><br /><br />
     <div class="well" style="border: 1px solid #C9C9C9; background-color: #fff;">
-      <strong style="color:#0874c4;font-weight: bold">Ribocentre</strong> is designed to contain comprehensive information of all natural ribozymes. Ribozymes are good systems for understanding the 'sequence - structure - function' relationship of RNA molecules, since ribozymes are found in the genomes of species from all kingdoms of life and play a role in important reactions such as peptide-bond formation, RNA splicing, transfer RNA biosynthesis, and viral replication. This is therefore an excellent time to summarise these properties, and our new web-based database will make this generally accessible.<br />
+      <strong style="color:#005826;font-weight: bold">Riboswitch</strong>  is a regulatory segment of a messenger RNA molecule that binds a small molecule, resulting in a change in production of the proteins encoded by the mRNA.[1][2][3][4] Thus, an mRNA that contains a riboswitch is directly involved in regulating its own activity, in response to the concentrations of its effector molecule. The discovery that modern organisms use RNA to bind small molecules, and discriminate against closely related analogs, expanded the known natural capabilities of RNA beyond its ability to code for proteins, catalyze reactions, or to bind other RNA or protein macromolecules.
+
+The original definition of the term "riboswitch" specified that they directly sense small-molecule metabolite concentrations.[5] Although this definition remains in common use, some biologists have used a broader definition that includes other cis-regulatory RNAs. However, this article will discuss only metabolite-binding riboswitches.
+
+Most known riboswitches occur in bacteria, but functional riboswitches of one type (the TPP riboswitch) have been discovered in archaea, plants and certain fungi. TPP riboswitches have also been found in eukaryotes eukaryotes that function via alternative splicing of mRNA..<br />
     </div><br /><br />
   <div class="well" style="border: 1px solid #C9C9C9; background-color: #fff;">
     <div style="text-align:center;"><font size="5"> Search in Ribocentre </font></div>

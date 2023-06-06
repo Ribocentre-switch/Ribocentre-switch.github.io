@@ -1,5 +1,4 @@
-I"Á
-<html lang="zh-cn">
+I"j<html lang="zh-cn">
 <head>
 <meta charset="utf-8" /> 
 <style>
@@ -36,9 +35,13 @@
 <div class="wrapper box_style">
   <section class="sectiontitle"> 
   <br /><br /><br /><br /><br />
-  <h2><font size="10"><strong>&emsp;Welcome to Ribocentre</strong></font></h2><br /><br /><br />
+  <h2><font size="10"><strong>&emsp;Welcome to Ribocentre-switch</strong></font></h2><br /><br /><br />
     <div class="well" style="border: 1px solid #C9C9C9; background-color: #fff;">
-      <strong style="color:#0874c4;font-weight: bold">Ribocentre</strong> is designed to contain comprehensive information of all natural ribozymes. Ribozymes are good systems for understanding the 'sequence - structure - function' relationship of RNA molecules, since ribozymes are found in the genomes of species from all kingdoms of life and play a role in important reactions such as peptide-bond formation, RNA splicing, transfer RNA biosynthesis, and viral replication. This is therefore an excellent time to summarise these properties, and our new web-based database will make this generally accessible.<br />
+      <strong style="color:#0874c4;font-weight: bold">Riboswitch</strong>  is a regulatory segment of a messenger RNA molecule that binds a small molecule, resulting in a change in production of the proteins encoded by the mRNA.[1][2][3][4] Thus, an mRNA that contains a riboswitch is directly involved in regulating its own activity, in response to the concentrations of its effector molecule. The discovery that modern organisms use RNA to bind small molecules, and discriminate against closely related analogs, expanded the known natural capabilities of RNA beyond its ability to code for proteins, catalyze reactions, or to bind other RNA or protein macromolecules.
+
+The original definition of the term "riboswitch" specified that they directly sense small-molecule metabolite concentrations.[5] Although this definition remains in common use, some biologists have used a broader definition that includes other cis-regulatory RNAs. However, this article will discuss only metabolite-binding riboswitches.
+
+Most known riboswitches occur in bacteria, but functional riboswitches of one type (the TPP riboswitch) have been discovered in archaea, plants and certain fungi. TPP riboswitches have also been found in eukaryotes eukaryotes that function via alternative splicing of mRNA..<br />
     </div><br /><br />
   <div class="well" style="border: 1px solid #C9C9C9; background-color: #fff;">
     <div style="text-align:center;"><font size="5"> Search in Ribocentre </font></div>

@@ -3,7 +3,7 @@ title: "Riboswitch - Riboswitch"
 layout: riboswitch
 excerpt: "Riboswitch - Riboswitch"
 sitemap: false
-permalink: /riboswitches/
+permalink: /riboswitches.html
 ---
 <html lang="en">
   <head>

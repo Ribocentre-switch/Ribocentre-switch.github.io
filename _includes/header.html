@@ -23,8 +23,57 @@
 		#now a:hover{
 			font-size: 20px;
 		}
+		ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #005826;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover:not(.active) {
+    background-color: #005826;
+}
+
+li a.active {
+    background-color: #000000;
+}
+</style>
+<script>
+window.addEventListener("DOMContentLoaded", function() {
+  // 获取当前页面的URL
+  var currentURL = window.location.href;
+  
+  // 获取所有导航按钮
+  var navButtons = document.querySelectorAll("li a");
+  
+  // 遍历导航按钮
+  navButtons.forEach(function(button) {
+    // 获取按钮的链接
+    var buttonURL = button.href;
+    
+    // 比较URL是否与当前页面的URL匹配
+    if (currentURL === buttonURL) {
+      // 设置匹配的按钮为激活状态
+      button.classList.add("active");
+    }
+  });
+});
+</script>
 		
-  </style>
+
 
   <div class="container-fluid">
 	<div class="navbar-header">
@@ -44,14 +93,26 @@
 	<div class="collapse navbar-collapse" id="navbar-collapse-1">
 	  <ul class="nav navbar-nav navbar-right">
 		<li id="now" class="active"><a href="{{ site.url }}{{ site.baseurl }}/">Home</a></li>
-		<li id="now"><a href="{{ site.url }}{{ site.baseurl }}/riboswitches/">Riboswitches</a></li>
-		<li id="now"><a href="{{ site.url }}{{ site.baseurl }}/404.html">Sequences</a></li>
-		<li id="now"><a href="{{ site.url }}{{ site.baseurl }}/404.html">Structures</a></li>
-		<li id="now"><a href="{{ site.url }}{{ site.baseurl }}/404.html">Bindingpockets</a></li>
-		<li id="now"><a href="{{ site.url }}{{ site.baseurl }}/404.html">Applications</a></li>
-		<li id="now"><a href="{{ site.url }}{{ site.baseurl }}/404.html">Publications</a></li>
+		<li id="now"><a href="{{ site.url }}{{ site.baseurl }}/riboswitches.html">Riboswitches</a></li>
+		<li id="now"><a href="{{ site.url }}{{ site.baseurl }}/Sequences.html">Sequences</a></li>
+		<li id="now"><a href="{{ site.url }}{{ site.baseurl }}/Structures.html">Structures</a></li>
+		<li id="now"><a href="{{ site.url }}{{ site.baseurl }}/Bindingpockets.html">Bindingpockets</a></li>
+		<li id="now"><a href="{{ site.url }}{{ site.baseurl }}/Applications.html">Applications</a></li>
+		<li id="now"><a href="{{ site.url }}{{ site.baseurl }}/Publications.html">Publications</a></li>
 		<li id="now"><a href="{{ site.url }}{{ site.baseurl }}/404.html">Help</a></li>
 	  </ul>
+	  <script>
+		function setActive(element) {
+		  // 移除所有导航按钮的激活状态
+		  var navButtons = document.querySelectorAll("li a");
+		  navButtons.forEach(function(button) {
+			button.classList.remove("active");
+		  });
+	  
+		  // 给点击的按钮添加激活状态
+		  element.classList.add("active");
+		}
+	  </script>
    </div>
   </div>
 </div>
