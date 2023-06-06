@@ -33,7 +33,7 @@ permalink: /docs/PRA/
     <li class="day">
      <div class="events">
        <p >Discovery of <i>Fibro-purF</i> motif by comparative analysis</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/28977401/" target="_blank">2017</a><sup>[1]</sup></div>
+       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/28977401/" target="_blank">2017</ali><sup>[1]</sup></div>
      </div>
     </li>
         
@@ -41,7 +41,7 @@ permalink: /docs/PRA/
     <li class="day">
      <div class="events">
        <p >The <i>Fibro-purF</i> motif is a candidate riboswitch binding to 5-phospho-D-ribosylamine (PRA)</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/32843366/" target="_blank">2020</a><sup>[2]</sup></div>
+       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/32843366/" target="_blank">2020</ali><sup>[2]</sup></div>
      </div>
     </li>
         

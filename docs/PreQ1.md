@@ -35,7 +35,7 @@ permalink: /docs/PreQ<sub>1</sub>/
     <li class="day">
      <div class="events">
        <p >Discovery of preQ<sub>1</sub>-I riboswitch</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/17384645/" target="_blank">2007</a><sup>[1]</sup></div>
+       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/17384645/" target="_blank">2007</ali><sup>[1]</sup></div>
      </div>
     </li>
         
@@ -43,7 +43,7 @@ permalink: /docs/PreQ<sub>1</sub>/
     <li class="day">
      <div class="events">
        <p >Discovery of preQ<sub>1</sub>-II riboswitch</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/18305186/" target="_blank">2008</a><sup>[2]</sup></div>
+       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/18305186/" target="_blank">2008</ali><sup>[2]</sup></div>
      </div>
     </li>
         
@@ -51,7 +51,7 @@ permalink: /docs/PreQ<sub>1</sub>/
     <li class="day">
      <div class="events">
        <p >Crystal structures of the preQ<sub>1</sub>-I type 2 riboswitch bound to preQ<sub>1</sub></p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/19234468/" target="_blank">2009</a><sup>[3]</sup></div>
+       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/19234468/" target="_blank">2009</ali><sup>[3]</sup></div>
      </div>
     </li>
         
@@ -59,7 +59,7 @@ permalink: /docs/PreQ<sub>1</sub>/
     <li class="day">
      <div class="events">
        <p >NMR solution studies of preQ<sub>1</sub>-I type 2 riboswitch bound to preQ<sub>1</sub></p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/19285444/" target="_blank">2009</a><sup>[4]</sup></div>
+       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/19285444/" target="_blank">2009</ali><sup>[4]</sup></div>
      </div>
     </li>
         
@@ -67,7 +67,7 @@ permalink: /docs/PreQ<sub>1</sub>/
     <li class="day">
      <div class="events">
        <p >Crystal structures of the preQ<sub>1</sub>-I type 1 riboswitch bound to preQ<sub>0</sub></p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/19261617/" target="_blank">2009</a><sup>[5]</sup></div>
+       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/19261617/" target="_blank">2009</ali><sup>[5]</sup></div>
      </div>
     </li>
         
@@ -75,7 +75,7 @@ permalink: /docs/PreQ<sub>1</sub>/
     <li class="day">
      <div class="events">
        <p >Crystal structures of the preQ<sub>1</sub> type 2 riboswitch in the preQ<sub>1</sub>-bound and free states</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/21592962/" target="_blank">2011</a><sup>[6]</sup></div>
+       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/21592962/" target="_blank">2011</ali><sup>[6]</sup></div>
      </div>
     </li>
         
@@ -83,7 +83,7 @@ permalink: /docs/PreQ<sub>1</sub>/
     <li class="day">
      <div class="events">
        <p >Crystal structures of the preQ<sub>1</sub>-II riboswitch bound to preQ<sub>1</sub></p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/23584677/" target="_blank">2013</a><sup>[7]</sup></div>
+       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/23584677/" target="_blank">2013</ali><sup>[7]</sup></div>
      </div>
     </li>
         
@@ -91,7 +91,7 @@ permalink: /docs/PreQ<sub>1</sub>/
     <li class="day">
      <div class="events">
        <p >NMR solution studies of preQ<sub>1</sub>-II riboswitch bound to preQ<sub>1</sub></p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/24469808/" target="_blank">2014</a><sup>[8]</sup></div>
+       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/24469808/" target="_blank">2014</ali><sup>[8]</sup></div>
      </div>
     </li>
         
@@ -99,7 +99,7 @@ permalink: /docs/PreQ<sub>1</sub>/
     <li class="day">
      <div class="events">
        <p >Discovery of preQ<sub>1</sub>-I type3 riboswitch and preQ<sub>1</sub>-III riboswitch</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/25036777/" target="_blank">2014</a><sup>[9]</sup></div>
+       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/25036777/" target="_blank">2014</ali><sup>[9]</sup></div>
      </div>
     </li>
         
@@ -107,7 +107,7 @@ permalink: /docs/PreQ<sub>1</sub>/
     <li class="day">
      <div class="events">
        <p >Crystal structures of the preQ<sub>1</sub>-III riboswitch bound to preQ<sub>1</sub></p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/26106162/" target="_blank">2015</a><sup>[10]</sup></div>
+       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/26106162/" target="_blank">2015</ali><sup>[10]</sup></div>
      </div>
     </li>
         
@@ -115,7 +115,7 @@ permalink: /docs/PreQ<sub>1</sub>/
     <li class="day">
      <div class="events">
        <p >long-range stacking spine in preQ<sub>1</sub>-I type 2 riboswitche that links effector binding to the expression platform</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/32597951/" target="_blank">2020</a><sup>[12]</sup></div>
+       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/32597951/" target="_blank">2020</ali><sup>[12]</sup></div>
      </div>
     </li>
         
@@ -123,7 +123,7 @@ permalink: /docs/PreQ<sub>1</sub>/
     <li class="day">
      <div class="events">
        <p >Crystal structures of preQ<sub>1</sub>-I riboswitch bound to two preQ<sub>1</sub> ligands in a single binding pocket</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/35017488/" target="_blank">2022</a><sup>[13]</sup></div>
+       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/35017488/" target="_blank">2022</ali><sup>[13]</sup></div>
      </div>
     </li>
         

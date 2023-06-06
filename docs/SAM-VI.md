@@ -33,7 +33,7 @@ permalink: /docs/SAM-VI/
     <li class="day">
      <div class="events">
        <p >Discovery of SAM-VI riboswitch</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/29106323/" target="_blank">2018</a><sup>1</sup></div>
+       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/29106323/" target="_blank">2018</ali><sup>1</sup></div>
      </div>
     </li>
         
@@ -41,7 +41,7 @@ permalink: /docs/SAM-VI/
     <li class="day">
      <div class="events">
        <p >Crystal structure of SAM-VI riboswitch</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/31844059/" target="_blank">2019</a><sup>2</sup></div>
+       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/31844059/" target="_blank">2019</ali><sup>2</sup></div>
      </div>
     </li>
         
@@ -49,7 +49,7 @@ permalink: /docs/SAM-VI/
     <li class="day">
      <div class="events">
        <p >NMR and smFRET research on SAM-VI riboswitch</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/37087479/" target="_blank">2023</a><sup>3</sup></div>
+       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/37087479/" target="_blank">2023</ali><sup>3</sup></div>
      </div>
     </li>
         

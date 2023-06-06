@@ -33,7 +33,7 @@ permalink: /docs/HMP-PP/
     <li class="day">
      <div class="events">
        <p >Discovery of HMP-PP riboswitch</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/30902049/" target="_blank">2019</a><sup>[2]</sup></div>
+       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/30902049/" target="_blank">2019</ali><sup>[2]</sup></div>
      </div>
     </li>
         
@@ -41,7 +41,7 @@ permalink: /docs/HMP-PP/
     <li class="day">
      <div class="events">
        <p >Bioinformatic and biochemical validation of the ligand for the HMP-PP riboswitch</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/30950790/" target="_blank">2019</a><sup>[3]</sup></div>
+       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/30950790/" target="_blank">2019</ali><sup>[3]</sup></div>
      </div>
     </li>
         

@@ -33,7 +33,7 @@ permalink: /docs/Xanthine/
     <li class="day">
      <div class="events">
        <p >Discovery of NMT1 motif</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/28977401/" target="_blank">2017</a><sup>[1]</sup></div>
+       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/28977401/" target="_blank">2017</ali><sup>[1]</sup></div>
      </div>
     </li>
         
@@ -41,7 +41,7 @@ permalink: /docs/Xanthine/
     <li class="day">
      <div class="events">
        <p >Demonstration that NMT1 motif is xanthine-I riboswitch</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/32345632/" target="_blank">2020</a><sup>[2]</sup></div>
+       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/32345632/" target="_blank">2020</ali><sup>[2]</sup></div>
      </div>
     </li>
         
@@ -49,7 +49,7 @@ permalink: /docs/Xanthine/
     <li class="day">
      <div class="events">
        <p >Crystal structure of xanthine-I riboswitch</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/34125892/" target="_blank">2021</a><sup>[3]</sup></div>
+       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/34125892/" target="_blank">2021</ali><sup>[3]</sup></div>
      </div>
     </li>
         
@@ -57,7 +57,7 @@ permalink: /docs/Xanthine/
     <li class="day">
      <div class="events">
        <p >Discovery of xanthine-II riboswitch</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/35622895/" target="_blank">2022</a><sup>[4]</sup></div>
+       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/35622895/" target="_blank">2022</ali><sup>[4]</sup></div>
      </div>
     </li>
         

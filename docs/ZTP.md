@@ -33,7 +33,7 @@ permalink: /docs/ZTP/
     <li class="day">
      <div class="events">
        <p >Discovery of pfl motif as a riboswitch candidate</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/20230605/" target="_blank">2010</a><sup>[1]</sup></div>
+       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/20230605/" target="_blank">2010</ali><sup>[1]</sup></div>
      </div>
     </li>
         
@@ -41,7 +41,7 @@ permalink: /docs/ZTP/
     <li class="day">
      <div class="events">
        <p >Identification and validation of pfl motif as ZTP riboswitch</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/25616067/" target="_blank">2015</a><sup>[2]</sup></div>
+       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/25616067/" target="_blank">2015</ali><sup>[2]</sup></div>
      </div>
     </li>
         
@@ -49,7 +49,7 @@ permalink: /docs/ZTP/
     <li class="day">
      <div class="events">
        <p >Crystal structure of the ZTP riboswitch bound to ZMP</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/26118534/" target="_blank">2015</a><sup>[3]</sup></div>
+       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/26118534/" target="_blank">2015</ali><sup>[3]</sup></div>
      </div>
     </li>
         
@@ -57,7 +57,7 @@ permalink: /docs/ZTP/
     <li class="day">
      <div class="events">
        <p >Crystal structure of the ZTP riboswitch bound to ZMP at 1.80 Å</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/26144884/" target="_blank">2015</a><sup>[4]</sup></div>
+       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/26144884/" target="_blank">2015</ali><sup>[4]</sup></div>
      </div>
     </li>
         
@@ -65,7 +65,7 @@ permalink: /docs/ZTP/
     <li class="day">
      <div class="events">
        <p >Crystal structure of the Fusobacterium ulcerans ZTP riboswitch bound to ZMP</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/26280533/" target="_blank">2015</a><sup>[5]</sup></div>
+       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/26280533/" target="_blank">2015</ali><sup>[5]</sup></div>
      </div>
     </li>
         
@@ -73,7 +73,7 @@ permalink: /docs/ZTP/
     <li class="day">
      <div class="events">
        <p >Co-crystal structure of the Fusobacterium ulcerans ZTP riboswitch using an X-ray free-electron laser</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/31282869/" target="_blank">2019</a><sup>[6]</sup></div>
+       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/31282869/" target="_blank">2019</ali><sup>[6]</sup></div>
      </div>
     </li>
         
@@ -81,7 +81,7 @@ permalink: /docs/ZTP/
     <li class="day">
      <div class="events">
        <p >The proposed mechanism for the ZTP riboswitch antitermination</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/31636437/" target="_blank">2019</a><sup>[7]</sup></div>
+       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/31636437/" target="_blank">2019</ali><sup>[7]</sup></div>
      </div>
     </li>
         
@@ -89,7 +89,7 @@ permalink: /docs/ZTP/
     <li class="day">
      <div class="events">
        <p >Design and cocrystal structure of synthetic ligands targeting the ZTP riboswitch</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/32795418/" target="_blank">2020</a><sup>[8]</sup></div>
+       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/32795418/" target="_blank">2020</ali><sup>[8]</sup></div>
      </div>
     </li>
         
@@ -97,7 +97,7 @@ permalink: /docs/ZTP/
     <li class="day">
      <div class="events">
        <p >The ZTP riboswitch is kinetically controlled which active as slower unwinding, strategic pausing</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/32913225/" target="_blank">2020</a><sup>[9]</sup></div>
+       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/32913225/" target="_blank">2020</ali><sup>[9]</sup></div>
      </div>
     </li>
         
@@ -105,7 +105,7 @@ permalink: /docs/ZTP/
     <li class="day">
      <div class="events">
        <p >The ZTP riboswitch programmable dynamic range in vivo via tuning strand displacement kinetics</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/36864761/" target="_blank">2023</a><sup>[10]</sup></div>
+       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/36864761/" target="_blank">2023</ali><sup>[10]</sup></div>
      </div>
     </li>
         

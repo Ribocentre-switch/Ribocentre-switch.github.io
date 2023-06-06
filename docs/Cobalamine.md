@@ -35,7 +35,7 @@ permalink: /docs/Cobalamine/
     <li class="day">
      <div class="events">
        <p >Discovery of the 5'-leader sequences of the btuB mRNAs  recognizing cobalamine to control gene expresion</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/10852957/" target="_blank">2000</a><sup>[1]</sup></div>
+       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/10852957/" target="_blank">2000</ali><sup>[1]</sup></div>
      </div>
     </li>
         
@@ -43,7 +43,7 @@ permalink: /docs/Cobalamine/
     <li class="day">
      <div class="events">
        <p >Validation of the AdoCbl  riboswitch</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/12323379/" target="_blank">2002</a><sup>[2]</sup></div>
+       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/12323379/" target="_blank">2002</ali><sup>[2]</sup></div>
      </div>
     </li>
         
@@ -51,7 +51,7 @@ permalink: /docs/Cobalamine/
     <li class="day">
      <div class="events">
        <p >The consensus secondary structure model</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/12923257/" target="_blank">2003</a><sup>[3]</sup></div>
+       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/12923257/" target="_blank">2003</ali><sup>[3]</sup></div>
      </div>
     </li>
         
@@ -59,7 +59,7 @@ permalink: /docs/Cobalamine/
     <li class="day">
      <div class="events">
        <p >The revision of the consensus secondary structure model and validation of the AqCbl  riboswitch</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/14704351/" target="_blank">2004</a><sup>[5]</sup></div>
+       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/14704351/" target="_blank">2004</ali><sup>[5]</sup></div>
      </div>
     </li>
         
@@ -67,7 +67,7 @@ permalink: /docs/Cobalamine/
     <li class="day">
      <div class="events">
        <p >Discovery of the AdoCbl riboswitch variants</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/20230605/" target="_blank">2010</a><sup>[6]</sup></div>
+       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/20230605/" target="_blank">2010</ali><sup>[6]</sup></div>
      </div>
     </li>
         
@@ -75,7 +75,7 @@ permalink: /docs/Cobalamine/
     <li class="day">
      <div class="events">
        <p >Crystal structure of the AdoCbl and AqCbl riboswitch</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/23064232/" target="_blank">2012</a><sup>[7]</sup></div>
+       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/23064232/" target="_blank">2012</ali><sup>[7]</sup></div>
      </div>
     </li>
         
@@ -83,7 +83,7 @@ permalink: /docs/Cobalamine/
     <li class="day">
      <div class="events">
        <p >Crystal structure of AdoCbl riboswitch bound with AdoCbl</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/23064646/" target="_blank">2012</a><sup>[8]</sup></div>
+       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/23064646/" target="_blank">2012</ali><sup>[8]</sup></div>
      </div>
     </li>
         
@@ -91,7 +91,7 @@ permalink: /docs/Cobalamine/
     <li class="day">
      <div class="events">
        <p >Mg<sup>2+</sup> induced conformational changes of the AdoCbl riboswitch from <i>E. coli</i></p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/24243114/" target="_blank">2014</a><sup>[9]</sup></div>
+       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/24243114/" target="_blank">2014</ali><sup>[9]</sup></div>
      </div>
     </li>
         
@@ -99,7 +99,7 @@ permalink: /docs/Cobalamine/
     <li class="day">
      <div class="events">
        <p >New classification of the cobalamine riboswitch</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/28483920/" target="_blank">2017</a><sup>[11]</sup></div>
+       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/28483920/" target="_blank">2017</ali><sup>[11]</sup></div>
      </div>
     </li>
         
@@ -107,7 +107,7 @@ permalink: /docs/Cobalamine/
     <li class="day">
      <div class="events">
        <p >Crystal structure of the atypical cobalamin riboswitch comprising the complete aptamer domain and a part of the expression platform</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/32544228/" target="_blank">2020</a><sup>[12]</sup></div>
+       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/32544228/" target="_blank">2020</ali><sup>[12]</sup></div>
      </div>
     </li>
         
@@ -115,7 +115,7 @@ permalink: /docs/Cobalamine/
     <li class="day">
      <div class="events">
        <p >The conformational ensemble of the AdoCbl riboswitch for ligand recognition</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/33683130/" target="_blank">2021</a><sup>[13]</sup></div>
+       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/33683130/" target="_blank">2021</ali><sup>[13]</sup></div>
      </div>
     </li>
         
@@ -123,7 +123,7 @@ permalink: /docs/Cobalamine/
     <li class="day">
      <div class="events">
        <p >The plasticity and selectivity of the cobalamine riboswitch to sense cobalamin derivatives</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/37094176/" target="_blank">2023</a><sup>[14]</sup></div>
+       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/37094176/" target="_blank">2023</ali><sup>[14]</sup></div>
      </div>
     </li>
         

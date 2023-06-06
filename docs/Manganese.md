@@ -33,7 +33,7 @@ permalink: /docs/Manganese/
     <li class="day">
      <div class="events">
        <p >Discovery of <i>yybP-ykoY</i> motif</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/15096624/" target="_blank">2004</a><sup>[1]</sup></div>
+       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/15096624/" target="_blank">2004</ali><sup>[1]</sup></div>
      </div>
     </li>
         
@@ -41,7 +41,7 @@ permalink: /docs/Manganese/
     <li class="day">
      <div class="events">
        <p >Identify the <i>yybP-ykoY</i> motif as a manganese ion sensor</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/25794618/" target="_blank">2015</a><sup>[2]</sup></div>
+       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/25794618/" target="_blank">2015</ali><sup>[2]</sup></div>
      </div>
     </li>
         
@@ -49,7 +49,7 @@ permalink: /docs/Manganese/
     <li class="day">
      <div class="events">
        <p >Mn(2+)-sensing mechanisms of <i>yybP-ykoY</i> orphan riboswitches</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/25794619/" target="_blank">2015</a><sup>[3]</sup></div>
+       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/25794619/" target="_blank">2015</ali><sup>[3]</sup></div>
      </div>
     </li>
         
@@ -57,7 +57,7 @@ permalink: /docs/Manganese/
     <li class="day">
      <div class="events">
        <p >Demonstrating how the broad family of <i>yybP-ykoY</i> riboswitches use heptacoordination to selectively bind transition metal ions</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/29805037/" target="_blank">2018</a><sup>[4]</sup></div>
+       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/29805037/" target="_blank">2018</ali><sup>[4]</sup></div>
      </div>
     </li>
         
@@ -65,7 +65,7 @@ permalink: /docs/Manganese/
     <li class="day">
      <div class="events">
        <p >The S.pneumoniae <i>yybP-ykoY</i> riboswitch functions to regulate Ca<sup>2+</sup> efflux</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/31165873/" target="_blank">2019</a><sup>[5]</sup></div>
+       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/31165873/" target="_blank">2019</ali><sup>[5]</sup></div>
      </div>
     </li>
         
@@ -73,7 +73,7 @@ permalink: /docs/Manganese/
     <li class="day">
      <div class="events">
        <p >The ligand-dependent (un)folding path-way of the Mn<sup>2+</sup> sensing riboswitch</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/31541094/" target="_blank">2019</a><sup>[6]</sup></div>
+       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/31541094/" target="_blank">2019</ali><sup>[6]</sup></div>
      </div>
     </li>
         

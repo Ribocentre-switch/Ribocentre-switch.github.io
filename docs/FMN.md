@@ -33,7 +33,7 @@ permalink: /docs/FMN/
     <li class="day">
      <div class="events">
        <p >Discovery of the RFN element involved in bacterial riboflavin synthesis genes regulation</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/10529804/" target="_blank">1999</a><sup>[1]</sup></div>
+       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/10529804/" target="_blank">1999</ali><sup>[1]</sup></div>
      </div>
     </li>
         
@@ -41,7 +41,7 @@ permalink: /docs/FMN/
     <li class="day">
      <div class="events">
        <p >The model of the RFN element to regulate riboflavin metabolism and transportation</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/12136096/" target="_blank">2002</a><sup>[2]</sup></div>
+       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/12136096/" target="_blank">2002</ali><sup>[2]</sup></div>
      </div>
     </li>
         
@@ -49,7 +49,7 @@ permalink: /docs/FMN/
     <li class="day">
      <div class="events">
        <p >Validation of the RFN element as the FMN riboswitch</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/12456892/" target="_blank">2002</a><sup>[3]</sup></div>
+       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/12456892/" target="_blank">2002</ali><sup>[3]</sup></div>
      </div>
     </li>
         
@@ -57,7 +57,7 @@ permalink: /docs/FMN/
     <li class="day">
      <div class="events">
        <p >The FMN riboswitch is kinetically driven and functions like a "molecular fuse"</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/15808508/" target="_blank">2005</a><sup>[4]</sup></div>
+       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/15808508/" target="_blank">2005</ali><sup>[4]</sup></div>
      </div>
     </li>
         
@@ -65,7 +65,7 @@ permalink: /docs/FMN/
     <li class="day">
      <div class="events">
        <p >Roseoflavin a natural antibiotic directly binds to FMN riboswitch and regulates gene expression</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/19246992/" target="_blank">2009</a><sup>[5]</sup></div>
+       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/19246992/" target="_blank">2009</ali><sup>[5]</sup></div>
      </div>
     </li>
         
@@ -73,7 +73,7 @@ permalink: /docs/FMN/
     <li class="day">
      <div class="events">
        <p >Crystal structures of FMN riboswitch bound to FMN, riboflavin and  roseoflavin</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/19169240/" target="_blank">2009</a><sup>[6]</sup></div>
+       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/19169240/" target="_blank">2009</ali><sup>[6]</sup></div>
      </div>
     </li>
         
@@ -81,7 +81,7 @@ permalink: /docs/FMN/
     <li class="day">
      <div class="events">
        <p >Crystal structure of FMN riboswitch-Free state</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/21745821/" target="_blank">2011</a><sup>[7]</sup></div>
+       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/21745821/" target="_blank">2011</ali><sup>[7]</sup></div>
      </div>
     </li>
         
@@ -89,7 +89,7 @@ permalink: /docs/FMN/
     <li class="day">
      <div class="events">
        <p >Discovery of 5FDQD bound to FMN riboswitch</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/26169403/" target="_blank">2015</a><sup>[8]</sup></div>
+       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/26169403/" target="_blank">2015</ali><sup>[8]</sup></div>
      </div>
     </li>
         
@@ -97,7 +97,7 @@ permalink: /docs/FMN/
     <li class="day">
      <div class="events">
        <p >Discovery of ribocil by phenotypic screen and the crystal structure of which bound to FMN riboswitch</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/26416753/" target="_blank">2015</a><sup>[9]</sup></div>
+       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/26416753/" target="_blank">2015</ali><sup>[9]</sup></div>
      </div>
     </li>
         
@@ -105,7 +105,7 @@ permalink: /docs/FMN/
     <li class="day">
      <div class="events">
        <p >Discovery of the variants of the FMN riboswitch</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/28265071/" target="_blank">2017</a><sup>[11]</sup></div>
+       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/28265071/" target="_blank">2017</ali><sup>[11]</sup></div>
      </div>
     </li>
         
@@ -113,7 +113,7 @@ permalink: /docs/FMN/
     <li class="day">
      <div class="events">
        <p >Further insight to the structural basis for conformational switching of the FMN riboswitch</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/33103111/" target="_blank">2020</a><sup>[14]</sup></div>
+       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/33103111/" target="_blank">2020</ali><sup>[14]</sup></div>
      </div>
     </li>
         
@@ -121,7 +121,7 @@ permalink: /docs/FMN/
     <li class="day">
      <div class="events">
        <p >New compounds target the FMN riboswitch for antimycobacterial therapy</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/34242760/" target="_blank">2021</a><sup>[15]</sup></div>
+       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/34242760/" target="_blank">2021</ali><sup>[15]</sup></div>
      </div>
     </li>
         
@@ -129,7 +129,7 @@ permalink: /docs/FMN/
     <li class="day">
      <div class="events">
        <p >Design and applications of antisense oligonucleotides as antibacterial agents that target the FMN riboswitch</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/35440139/" target="_blank">2022</a><sup>[16]</sup></div>
+       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/35440139/" target="_blank">2022</ali><sup>[16]</sup></div>
      </div>
     </li>
         
@@ -395,7 +395,6 @@ permalink: /docs/FMN/
         }
       var viewerContainer1 = document.getElementById('myViewer1');
       viewerInstance1.render(viewerContainer1, options1);
-    
     </script>
     </body>
     </html></td>

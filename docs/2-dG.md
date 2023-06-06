@@ -34,7 +34,7 @@ permalink: /docs/2'-dG/
     <li class="day">
      <div class="events">
        <p >Discovery of 2'-dG-I riboswitch</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/17911257/" target="_blank">2007</a><sup>[2]</sup></div>
+       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/17911257/" target="_blank">2007</ali><sup>[2]</sup></div>
      </div>
     </li>
         
@@ -42,7 +42,7 @@ permalink: /docs/2'-dG/
     <li class="day">
      <div class="events">
        <p >Crystal structure of 2'-dG-I riboswitch bound to 2'-dG</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/21841796/" target="_blank">2011</a><sup>[3]</sup></div>
+       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/21841796/" target="_blank">2011</ali><sup>[3]</sup></div>
      </div>
     </li>
         
@@ -50,7 +50,7 @@ permalink: /docs/2'-dG/
     <li class="day">
      <div class="events">
        <p >Discovery of 2'-dG-II riboswitch</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/28265071/" target="_blank">2017</a><sup>[4]</sup></div>
+       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/28265071/" target="_blank">2017</ali><sup>[4]</sup></div>
      </div>
     </li>
         
@@ -58,7 +58,7 @@ permalink: /docs/2'-dG/
     <li class="day">
      <div class="events">
        <p >Crystal structure of 2'-dG-II riboswitch bound to 2'-dG</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/31598729/" target="_blank">2019</a><sup>[5]</sup></div>
+       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/31598729/" target="_blank">2019</ali><sup>[5]</sup></div>
      </div>
     </li>
         
@@ -66,7 +66,7 @@ permalink: /docs/2'-dG/
     <li class="day">
      <div class="events">
        <p >Discovery of 2'-dG-III riboswitch</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/35622895/" target="_blank">2022</a><sup>[6]</sup></div>
+       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/35622895/" target="_blank">2022</ali><sup>[6]</sup></div>
      </div>
     </li>
         

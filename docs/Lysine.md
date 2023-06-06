@@ -33,7 +33,7 @@ permalink: /docs/Lysine/
     <li class="day">
      <div class="events">
        <p >Discovery of lysine riboswitch</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/14597663/" target="_blank">2003</a><sup>[1]</sup></div>
+       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/14597663/" target="_blank">2003</ali><sup>[1]</sup></div>
      </div>
     </li>
         
@@ -41,7 +41,7 @@ permalink: /docs/Lysine/
     <li class="day">
      <div class="events">
        <p >Discovery of lysine riboswitch</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/14523230/" target="_blank">2003</a><sup>[2]</sup></div>
+       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/14523230/" target="_blank">2003</ali><sup>[2]</sup></div>
      </div>
     </li>
         
@@ -49,7 +49,7 @@ permalink: /docs/Lysine/
     <li class="day">
      <div class="events">
        <p >A loop–loop interaction and a K-turn motif are important</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/17585050/" target="_blank">2007</a><sup>[3]</sup></div>
+       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/17585050/" target="_blank">2007</ali><sup>[3]</sup></div>
      </div>
     </li>
         
@@ -57,7 +57,7 @@ permalink: /docs/Lysine/
     <li class="day">
      <div class="events">
        <p >Several lysine analogs binding riboswitches in vitro inhibit Bacillus subtilis growth</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/17143270/" target="_blank">2007</a><sup>[4]</sup></div>
+       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/17143270/" target="_blank">2007</ali><sup>[4]</sup></div>
      </div>
     </li>
         
@@ -65,7 +65,7 @@ permalink: /docs/Lysine/
     <li class="day">
      <div class="events">
        <p >Structure of lysine riboswitch</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/18593706/" target="_blank">2008</a><sup>[5]</sup></div>
+       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/18593706/" target="_blank">2008</ali><sup>[5]</sup></div>
      </div>
     </li>
         
@@ -73,7 +73,7 @@ permalink: /docs/Lysine/
     <li class="day">
      <div class="events">
        <p >Structure of lysine riboswitch</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/18784651/" target="_blank">2008</a><sup>[6]</sup></div>
+       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/18784651/" target="_blank">2008</ali><sup>[6]</sup></div>
      </div>
     </li>
         
@@ -81,7 +81,7 @@ permalink: /docs/Lysine/
     <li class="day">
      <div class="events">
        <p >The interaction of Helix P2–loop L4 is particularly important</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/21169337/" target="_blank">2011</a><sup>[7]</sup></div>
+       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/21169337/" target="_blank">2011</ali><sup>[7]</sup></div>
      </div>
     </li>
         
@@ -89,7 +89,7 @@ permalink: /docs/Lysine/
     <li class="day">
      <div class="events">
        <p >The lysine riboswitch is highly sensitive to the precise placement of the ε-amino group</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/22771573/" target="_blank">2012</a><sup>[8]</sup></div>
+       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/22771573/" target="_blank">2012</ali><sup>[8]</sup></div>
      </div>
     </li>
         
@@ -97,7 +97,7 @@ permalink: /docs/Lysine/
     <li class="day">
      <div class="events">
        <p >Rationally-designed fluorescent lysine riboswitch probes</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/22961337/" target="_blank">2012</a><sup>[9]</sup></div>
+       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/22961337/" target="_blank">2012</ali><sup>[9]</sup></div>
      </div>
     </li>
         
@@ -105,7 +105,7 @@ permalink: /docs/Lysine/
     <li class="day">
      <div class="events">
        <p >The structural elements of the lysine molecule required for recognition</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/22416067/" target="_blank">2012</a><sup>[10]</sup></div>
+       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/22416067/" target="_blank">2012</ali><sup>[10]</sup></div>
      </div>
     </li>
         
@@ -113,7 +113,7 @@ permalink: /docs/Lysine/
     <li class="day">
      <div class="events">
        <p >The engineering of a lysine-ON riboswitch for metabolic control in Corynebacterium glutamicum</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/26300047/" target="_blank">2015</a><sup>[11]</sup></div>
+       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/26300047/" target="_blank">2015</ali><sup>[11]</sup></div>
      </div>
     </li>
         
@@ -121,7 +121,7 @@ permalink: /docs/Lysine/
     <li class="day">
      <div class="events">
        <p >The use of lysine riboswitch binding L-lysine to control the competing metabolic bypathways of lysine biosynthesis</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/25575181/" target="_blank">2015</a><sup>[12]</sup></div>
+       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/25575181/" target="_blank">2015</ali><sup>[12]</sup></div>
      </div>
     </li>
         
@@ -129,7 +129,7 @@ permalink: /docs/Lysine/
     <li class="day">
      <div class="events">
        <p >Lysine binding residues in the global folding of the lysC riboswitch is important</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/26403229/" target="_blank">2015</a><sup>[13]</sup></div>
+       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/26403229/" target="_blank">2015</ali><sup>[13]</sup></div>
      </div>
     </li>
         
@@ -137,7 +137,7 @@ permalink: /docs/Lysine/
     <li class="day">
      <div class="events">
        <p >Trimethylamine N-oxide (TMAO) can stabilize the lysine riboswitch</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/32706360/" target="_blank">2020</a><sup>[15]</sup></div>
+       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/32706360/" target="_blank">2020</ali><sup>[15]</sup></div>
      </div>
     </li>
         
@@ -145,7 +145,7 @@ permalink: /docs/Lysine/
     <li class="day">
      <div class="events">
        <p >K<sup>+</sup> is optimally suited for bridging interactions between lysine and the riboswitch</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/36916791/" target="_blank">2023</a><sup>[16]</sup></div>
+       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/36916791/" target="_blank">2023</ali><sup>[16]</sup></div>
      </div>
     </li>
         

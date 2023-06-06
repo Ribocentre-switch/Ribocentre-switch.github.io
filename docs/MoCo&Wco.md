@@ -33,7 +33,7 @@ permalink: /docs/MoCo&Wco/
     <li class="day">
      <div class="events">
        <p >Discovery of the MoCo and Wco riboswitch by the CMfinder comparative genomics pipeline</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/17621584/" target="_blank">2007</a><sup>[2]</sup></div>
+       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/17621584/" target="_blank">2007</ali><sup>[2]</sup></div>
      </div>
     </li>
         
@@ -41,7 +41,7 @@ permalink: /docs/MoCo&Wco/
     <li class="day">
      <div class="events">
        <p >Biochemical validation of the MoCo and Wco riboswitch</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/18363797/" target="_blank">2008</a><sup>[3]</sup></div>
+       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/18363797/" target="_blank">2008</ali><sup>[3]</sup></div>
      </div>
     </li>
         
@@ -49,7 +49,7 @@ permalink: /docs/MoCo&Wco/
     <li class="day">
      <div class="events">
        <p >Tungsten cofactor biosynthesis pathway in <i>E. coli</i></p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/18154309/" target="_blank">2008</a><sup>[4]</sup></div>
+       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/18154309/" target="_blank">2008</ali><sup>[4]</sup></div>
      </div>
     </li>
         
@@ -57,7 +57,7 @@ permalink: /docs/MoCo&Wco/
     <li class="day">
      <div class="events">
        <p >Molybdenum cofactor biosynthesis pathway in <i>E. coli</i></p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/23201473/" target="_blank">2013</a><sup>[5]</sup></div>
+       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/23201473/" target="_blank">2013</ali><sup>[5]</sup></div>
      </div>
     </li>
         
@@ -65,7 +65,7 @@ permalink: /docs/MoCo&Wco/
     <li class="day">
      <div class="events">
        <p >The MoCo riboswitch is proposed as one of promising antibacterial drug targets</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/36139956/" target="_blank">2022</a><sup>[7]</sup></div>
+       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/36139956/" target="_blank">2022</ali><sup>[7]</sup></div>
      </div>
     </li>
         
@@ -73,7 +73,7 @@ permalink: /docs/MoCo&Wco/
     <li class="day">
      <div class="events">
        <p >The ion-dependent folding and secondary structural features of the ligand-free MoCo riboswitch</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/36774787/" target="_blank">2023</a><sup>[8]</sup></div>
+       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/36774787/" target="_blank">2023</ali><sup>[8]</sup></div>
      </div>
     </li>
         

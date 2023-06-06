@@ -33,7 +33,7 @@ permalink: /docs/SAH/
     <li class="day">
      <div class="events">
        <p >Discovery of SAH riboswitch</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/18374645/" target="_blank">2008</a><sup>[1]</sup></div>
+       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/18374645/" target="_blank">2008</ali><sup>[1]</sup></div>
      </div>
     </li>
         
@@ -41,7 +41,7 @@ permalink: /docs/SAH/
     <li class="day">
      <div class="events">
        <p >Compare the features of SAM and SAH riboswitches</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/18443629/" target="_blank">2008</a><sup>[2]</sup></div>
+       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/18443629/" target="_blank">2008</ali><sup>[2]</sup></div>
      </div>
     </li>
         
@@ -49,7 +49,7 @@ permalink: /docs/SAH/
     <li class="day">
      <div class="events">
        <p >Crystal structure of SAH riboswitch</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/20864509/" target="_blank">2010</a><sup>[3]</sup></div>
+       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/20864509/" target="_blank">2010</ali><sup>[3]</sup></div>
      </div>
     </li>
         
@@ -57,7 +57,7 @@ permalink: /docs/SAH/
     <li class="day">
      <div class="events">
        <p >SAH riboswitch has been shown to be capable of regulating gene expression in human cells</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/20435898/" target="_blank">2010</a><sup>[4]</sup></div>
+       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/20435898/" target="_blank">2010</ali><sup>[4]</sup></div>
      </div>
     </li>
         

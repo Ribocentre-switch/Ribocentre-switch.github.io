@@ -33,7 +33,7 @@ permalink: /docs/Azaaromatic/
     <li class="day">
      <div class="events">
        <p >Discovery of azaaromatic(yjdF) riboswitch</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/26843526/" target="_blank">2016</a><sup>[1]</sup></div>
+       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/26843526/" target="_blank">2016</ali><sup>[1]</sup></div>
      </div>
     </li>
         
@@ -41,7 +41,7 @@ permalink: /docs/Azaaromatic/
     <li class="day">
      <div class="events">
        <p >The genetic regulation mechanism of azaaromatic riboswitch</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/29223402/" target="_blank">2018</a><sup>[2]</sup></div>
+       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/29223402/" target="_blank">2018</ali><sup>[2]</sup></div>
      </div>
     </li>
         
@@ -49,7 +49,7 @@ permalink: /docs/Azaaromatic/
     <li class="day">
      <div class="events">
        <p >Its tRNA-like fold generates from SAXS with bingding ligand</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/35427649/" target="_blank">2022</a><sup>[3]</sup></div>
+       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/35427649/" target="_blank">2022</ali><sup>[3]</sup></div>
      </div>
     </li>
         

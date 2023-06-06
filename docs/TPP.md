@@ -33,7 +33,7 @@ permalink: /docs/TPP/
     <li class="day">
      <div class="events">
        <p >Discovery of Thi-box conserved RNA structure in bacteria</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/11470904/" target="_blank">2001</a><sup>[2]</sup></div>
+       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/11470904/" target="_blank">2001</ali><sup>[2]</sup></div>
      </div>
     </li>
         
@@ -41,7 +41,7 @@ permalink: /docs/TPP/
     <li class="day">
      <div class="events">
        <p >Validation of TPP riboswitch in <i>Escherichia coli</i></p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/12410317/" target="_blank">2002</a><sup>[3]</sup></div>
+       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/12410317/" target="_blank">2002</ali><sup>[3]</sup></div>
      </div>
     </li>
         
@@ -49,7 +49,7 @@ permalink: /docs/TPP/
     <li class="day">
      <div class="events">
        <p >Validation of TPP riboswitch in fungi and in plants</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/12756322/" target="_blank">2003</a><sup>[4]</sup></div>
+       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/12756322/" target="_blank">2003</ali><sup>[4]</sup></div>
      </div>
     </li>
         
@@ -57,7 +57,7 @@ permalink: /docs/TPP/
     <li class="day">
      <div class="events">
        <p >Important roles of Mg<sup>2+</sup> in TPP riboswitch</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/15862294/" target="_blank">2005</a><sup>[6]</sup></div>
+       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/15862294/" target="_blank">2005</ali><sup>[6]</sup></div>
      </div>
     </li>
         
@@ -65,7 +65,7 @@ permalink: /docs/TPP/
     <li class="day">
      <div class="events">
        <p >TPP riboswitches are targets for the antimicrobial compound pyrithiamine</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/16356850/" target="_blank">2005</a><sup>[7]</sup></div>
+       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/16356850/" target="_blank">2005</ali><sup>[7]</sup></div>
      </div>
     </li>
         
@@ -73,7 +73,7 @@ permalink: /docs/TPP/
     <li class="day">
      <div class="events">
        <p >Crystal structure of the eukaryotic TPP riboswitch</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/16675665/" target="_blank">2006</a><sup>[8]</sup></div>
+       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/16675665/" target="_blank">2006</ali><sup>[8]</sup></div>
      </div>
     </li>
         
@@ -81,7 +81,7 @@ permalink: /docs/TPP/
     <li class="day">
      <div class="events">
        <p >Crystal structure of the prokaryotic TPP riboswitch</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/16728979/" target="_blank">2006</a><sup>[9]</sup></div>
+       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/16728979/" target="_blank">2006</ali><sup>[9]</sup></div>
      </div>
     </li>
         
@@ -89,7 +89,7 @@ permalink: /docs/TPP/
     <li class="day">
      <div class="events">
        <p >Crystal structures of the <i>E.coli thiM</i> TPP riboswitch bound to TPP and its analogs</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/16962976/" target="_blank">2006</a><sup>[10]</sup></div>
+       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/16962976/" target="_blank">2006</ali><sup>[10]</sup></div>
      </div>
     </li>
         
@@ -97,7 +97,7 @@ permalink: /docs/TPP/
     <li class="day">
      <div class="events">
        <p >Crystal structures of the eukaryotic TPP riboswitch bound to OTPP and PTPP</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/18533652/" target="_blank">2008</a><sup>[14]</sup></div>
+       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/18533652/" target="_blank">2008</ali><sup>[14]</sup></div>
      </div>
     </li>
         
@@ -105,7 +105,7 @@ permalink: /docs/TPP/
     <li class="day">
      <div class="events">
        <p >Subsite ligand cooperativity and fragment-linking strategies in TPP riboswitch</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/35060698/" target="_blank">2022</a><sup>[22]</sup></div>
+       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/35060698/" target="_blank">2022</ali><sup>[22]</sup></div>
      </div>
     </li>
         
@@ -113,7 +113,7 @@ permalink: /docs/TPP/
     <li class="day">
      <div class="events">
        <p >Small molecule fragments discovery and linked-fragment ligand design in TPP riboswitch</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/35561226/" target="_blank">2022</a><sup>[23]</sup></div>
+       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/35561226/" target="_blank">2022</ali><sup>[23]</sup></div>
      </div>
     </li>
         

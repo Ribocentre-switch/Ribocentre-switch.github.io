@@ -33,7 +33,7 @@ permalink: /docs/Na<sup>+</sup>/
     <li class="day">
      <div class="events">
        <p >Discovery of DUF1646 motif</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/28977401/" target="_blank">2017</a><sup>[1]</sup></div>
+       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/28977401/" target="_blank">2017</ali><sup>[1]</sup></div>
      </div>
     </li>
         
@@ -41,7 +41,7 @@ permalink: /docs/Na<sup>+</sup>/
     <li class="day">
      <div class="events">
        <p >Identify the DUF1646 motif as a Na+ riboswitch</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/35879547/" target="_blank">2022</a><sup>[2]</sup></div>
+       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/35879547/" target="_blank">2022</ali><sup>[2]</sup></div>
      </div>
     </li>
         

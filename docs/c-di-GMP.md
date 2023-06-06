@@ -38,7 +38,7 @@ permalink: /docs/c-di-GMP/
     <li class="day">
      <div class="events">
        <p >Discovery of GEMM motif</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/17621584/" target="_blank">2007</a><sup>[1]</sup></div>
+       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/17621584/" target="_blank">2007</ali><sup>[1]</sup></div>
      </div>
     </li>
         
@@ -46,7 +46,7 @@ permalink: /docs/c-di-GMP/
     <li class="day">
      <div class="events">
        <p >Discovery of c-di-GMP riboswitch</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/18635805/" target="_blank">2008</a><sup>[2]</sup></div>
+       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/18635805/" target="_blank">2008</ali><sup>[2]</sup></div>
      </div>
     </li>
         
@@ -54,7 +54,7 @@ permalink: /docs/c-di-GMP/
     <li class="day">
      <div class="events">
        <p >Structure of a c-di-GMP riboswitch from V. cholerae</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/19898477/" target="_blank">2009</a><sup>[3]</sup></div>
+       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/19898477/" target="_blank">2009</ali><sup>[3]</sup></div>
      </div>
     </li>
         
@@ -62,7 +62,7 @@ permalink: /docs/c-di-GMP/
     <li class="day">
      <div class="events">
        <p >Native and mutant structure of c-di-GMP riboswitch</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/20690679/" target="_blank">2010</a><sup>[4]</sup></div>
+       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/20690679/" target="_blank">2010</ali><sup>[4]</sup></div>
      </div>
     </li>
         
@@ -70,7 +70,7 @@ permalink: /docs/c-di-GMP/
     <li class="day">
      <div class="events">
        <p >Discovery of c-di-GMP-II riboswitch</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/20705859/" target="_blank">2010</a><sup>[5]</sup></div>
+       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/20705859/" target="_blank">2010</ali><sup>[5]</sup></div>
      </div>
     </li>
         
@@ -78,7 +78,7 @@ permalink: /docs/c-di-GMP/
     <li class="day">
      <div class="events">
        <p >Structure of a c-di-GMP-II riboswitch from C. acetobutylicum bound to c-di-GMP</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/21518891/" target="_blank">2011</a><sup>[6]</sup></div>
+       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/21518891/" target="_blank">2011</ali><sup>[6]</sup></div>
      </div>
     </li>
         
@@ -86,7 +86,7 @@ permalink: /docs/c-di-GMP/
     <li class="day">
      <div class="events">
        <p >Structural and biochemical characterization of linear dinucleotide analogues bound to the c-di-GMP-I aptamer</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/22148472/" target="_blank">2012</a><sup>[7]</sup></div>
+       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/22148472/" target="_blank">2012</ali><sup>[7]</sup></div>
      </div>
     </li>
         
@@ -94,7 +94,7 @@ permalink: /docs/c-di-GMP/
     <li class="day">
      <div class="events">
        <p >T4P gene transcription is upregulated by c-di-GMP </p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/25512308/" target="_blank">2015</a><sup>[9]</sup></div>
+       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/25512308/" target="_blank">2015</ali><sup>[9]</sup></div>
      </div>
     </li>
         
@@ -102,7 +102,7 @@ permalink: /docs/c-di-GMP/
     <li class="day">
      <div class="events">
        <p >Identified the secondary structures that are possibly responsible for switch-OFF and switch-ON states of translational initiation</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/29693296/" target="_blank">2018</a><sup>[10]</sup></div>
+       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/29693296/" target="_blank">2018</ali><sup>[10]</sup></div>
      </div>
     </li>
         

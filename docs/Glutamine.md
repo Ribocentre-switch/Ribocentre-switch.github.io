@@ -34,7 +34,7 @@ permalink: /docs/Glutamine/
     <li class="day">
      <div class="events">
        <p >Discovery of glutamine-I and glutamine-II riboswitch</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/21282981/" target="_blank">2011</a><sup>[1]</sup></div>
+       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/21282981/" target="_blank">2011</ali><sup>[1]</sup></div>
      </div>
     </li>
         
@@ -42,7 +42,7 @@ permalink: /docs/Glutamine/
     <li class="day">
      <div class="events">
        <p >Structure of glutamine-I riboswitch</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/26655897/" target="_blank">2015</a><sup>[2]</sup></div>
+       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/26655897/" target="_blank">2015</ali><sup>[2]</sup></div>
      </div>
     </li>
         
@@ -50,7 +50,7 @@ permalink: /docs/Glutamine/
     <li class="day">
      <div class="events">
        <p >These glutamine riboswitches binding glutamine enhance the expression of IF17</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/30085248/" target="_blank">2018</a><sup>[3]</sup></div>
+       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/30085248/" target="_blank">2018</ali><sup>[3]</sup></div>
      </div>
     </li>
         
@@ -58,7 +58,7 @@ permalink: /docs/Glutamine/
     <li class="day">
      <div class="events">
        <p >Structure of glutamine-II riboswitch</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/31216023/" target="_blank">2019</a><sup>[4]</sup></div>
+       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/31216023/" target="_blank">2019</ali><sup>[4]</sup></div>
      </div>
     </li>
         

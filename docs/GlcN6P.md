@@ -33,7 +33,7 @@ permalink: /docs/GlcN6P/
     <li class="day">
      <div class="events">
        <p >Discovery,Secondary structure of the GlcN6P riboswitch</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/15029187" target="_blank">2004</a><sup>[1]</sup></div>
+       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/15029187" target="_blank">2004</ali><sup>[1]</sup></div>
      </div>
     </li>
         
@@ -41,7 +41,7 @@ permalink: /docs/GlcN6P/
     <li class="day">
      <div class="events">
        <p >The gene regulation of GlcN6P</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/15048102" target="_blank">2004</a><sup>[2]</sup></div>
+       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/15048102" target="_blank">2004</ali><sup>[2]</sup></div>
      </div>
     </li>
         
@@ -49,7 +49,7 @@ permalink: /docs/GlcN6P/
     <li class="day">
      <div class="events">
        <p >Location of ligand-binding site</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/16699515" target="_blank">2006</a><sup>[3]</sup></div>
+       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/16699515" target="_blank">2006</ali><sup>[3]</sup></div>
      </div>
     </li>
         
@@ -57,7 +57,7 @@ permalink: /docs/GlcN6P/
     <li class="day">
      <div class="events">
        <p >3D structure with glucosamine-6-phosphate</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/16990543" target="_blank">2006</a><sup>[4]</sup></div>
+       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/16990543" target="_blank">2006</ali><sup>[4]</sup></div>
      </div>
     </li>
         
@@ -65,7 +65,7 @@ permalink: /docs/GlcN6P/
     <li class="day">
      <div class="events">
        <p >3D structure with divalent metal ions</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/16484375" target="_blank">2006</a><sup>[5]</sup></div>
+       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/16484375" target="_blank">2006</ali><sup>[5]</sup></div>
      </div>
     </li>
         
@@ -73,7 +73,7 @@ permalink: /docs/GlcN6P/
     <li class="day">
      <div class="events">
        <p >Pseudoknot structure</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/16464827" target="_blank">2006</a><sup>[6]</sup></div>
+       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/16464827" target="_blank">2006</ali><sup>[6]</sup></div>
      </div>
     </li>
         
@@ -81,7 +81,7 @@ permalink: /docs/GlcN6P/
     <li class="day">
      <div class="events">
        <p >Chemical Mechanism</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/19228039" target="_blank">2009</a><sup>[7]</sup></div>
+       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/19228039" target="_blank">2009</ali><sup>[7]</sup></div>
      </div>
     </li>
         
@@ -89,7 +89,7 @@ permalink: /docs/GlcN6P/
     <li class="day">
      <div class="events">
        <p >signals from activating and inhibitory metabolites</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/21317896" target="_blank">2011</a><sup>[8]</sup></div>
+       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/21317896" target="_blank">2011</ali><sup>[8]</sup></div>
      </div>
     </li>
         
@@ -97,7 +97,7 @@ permalink: /docs/GlcN6P/
     <li class="day">
      <div class="events">
        <p >GlcN6P-like molecules for their ability to support self-cleavage</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/23113700" target="_blank">2012</a><sup>[9]</sup></div>
+       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/23113700" target="_blank">2012</ali><sup>[9]</sup></div>
      </div>
     </li>
         
@@ -105,7 +105,7 @@ permalink: /docs/GlcN6P/
     <li class="day">
      <div class="events">
        <p >Catalytic Mechanism</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/28192411" target="_blank">2017</a><sup>[10]</sup></div>
+       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/28192411" target="_blank">2017</ali><sup>[10]</sup></div>
      </div>
     </li>
         
@@ -113,7 +113,7 @@ permalink: /docs/GlcN6P/
     <li class="day">
      <div class="events">
        <p >Gene association</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/31079546" target="_blank">2019</a><sup>[11]</sup></div>
+       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/31079546" target="_blank">2019</ali><sup>[11]</sup></div>
      </div>
     </li>
         
@@ -121,7 +121,7 @@ permalink: /docs/GlcN6P/
     <li class="day">
      <div class="events">
        <p >As a target for antibacterial drug development</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/34734706" target="_blank">2021</a><sup>[12]</sup></div>
+       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/34734706" target="_blank">2021</ali><sup>[12]</sup></div>
      </div>
     </li>
         

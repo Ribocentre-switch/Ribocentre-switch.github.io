@@ -33,7 +33,7 @@ permalink: /docs/NAD<sup>+</sup>-II/
     <li class="day">
      <div class="events">
        <p >Discovery of NAD<sup>+</sup>-II riboswitch</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/33970790/" target="_blank">2021</a><sup>[1]</sup></div>
+       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/33970790/" target="_blank">2021</ali><sup>[1]</sup></div>
      </div>
     </li>
         
@@ -41,7 +41,7 @@ permalink: /docs/NAD<sup>+</sup>-II/
     <li class="day">
      <div class="events">
        <p >Biochemical validation of NAD<sup>+</sup>-II riboswitch</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/33087526/" target="_blank">2021</a><sup>[2]</sup></div>
+       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/33087526/" target="_blank">2021</ali><sup>[2]</sup></div>
      </div>
     </li>
         
@@ -49,7 +49,7 @@ permalink: /docs/NAD<sup>+</sup>-II/
     <li class="day">
      <div class="events">
        <p >Crystal structure of NAD<sup>+</sup>-II riboswitch</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/36610789/" target="_blank">2023</a><sup>[3]</sup></div>
+       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/36610789/" target="_blank">2023</ali><sup>[3]</sup></div>
      </div>
     </li>
         
@@ -57,7 +57,7 @@ permalink: /docs/NAD<sup>+</sup>-II/
     <li class="day">
      <div class="events">
        <p >Crystal structure of NAD<sup>+</sup>-II riboswitch reveal two distinct ligand-binding pockets</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/36840714/" target="_blank">2023</a><sup>[4]</sup></div>
+       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/36840714/" target="_blank">2023</ali><sup>[4]</sup></div>
      </div>
     </li>
         

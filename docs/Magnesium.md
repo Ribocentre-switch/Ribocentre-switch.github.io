@@ -34,7 +34,7 @@ permalink: /docs/Magnesium/
     <li class="day">
      <div class="events">
        <p >Discovery of ykoK motif</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/15096624/" target="_blank">2004</a><sup>[1]</sup></div>
+       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/15096624/" target="_blank">2004</ali><sup>[1]</sup></div>
      </div>
     </li>
         
@@ -42,7 +42,7 @@ permalink: /docs/Magnesium/
     <li class="day">
      <div class="events">
        <p >Discovery and biochemical validation of Mg<sup>2+</sup>-II riboswitch</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/16615891/" target="_blank">2006</a><sup>[2]</sup></div>
+       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/16615891/" target="_blank">2006</ali><sup>[2]</sup></div>
      </div>
     </li>
         
@@ -50,7 +50,7 @@ permalink: /docs/Magnesium/
     <li class="day">
      <div class="events">
        <p >Molecular mechanism of Mg<sup>2+</sup>-I riboswitch</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/17803910/" target="_blank">2007</a><sup>[3]</sup></div>
+       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/17803910/" target="_blank">2007</ali><sup>[3]</sup></div>
      </div>
     </li>
         
@@ -58,7 +58,7 @@ permalink: /docs/Magnesium/
     <li class="day">
      <div class="events">
        <p >Multiple metal-binding cores are required for metalloregulation in addition to Mg</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/19619558/" target="_blank">2009</a><sup>[4]</sup></div>
+       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/19619558/" target="_blank">2009</ali><sup>[4]</sup></div>
      </div>
     </li>
         
@@ -66,7 +66,7 @@ permalink: /docs/Magnesium/
     <li class="day">
      <div class="events">
        <p >Crystal structure of manganese bound M-box RNA</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/21315082/" target="_blank">2011</a><sup>[5]</sup></div>
+       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/21315082/" target="_blank">2011</ali><sup>[5]</sup></div>
      </div>
     </li>
         

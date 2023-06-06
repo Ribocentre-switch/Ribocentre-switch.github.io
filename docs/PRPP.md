@@ -33,7 +33,7 @@ permalink: /docs/PRPP/
     <li class="day">
      <div class="events">
        <p >Identification of <i>ykkC</i> motif that exhibit characteristics of riboswitch function</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/15096624/" target="_blank">2004</a><sup>[1]</sup></div>
+       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/15096624/" target="_blank">2004</ali><sup>[1]</sup></div>
      </div>
     </li>
         
@@ -41,7 +41,7 @@ permalink: /docs/PRPP/
     <li class="day">
      <div class="events">
        <p >Separation of <i>ykkC</i> subtype 2</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/27989440/" target="_blank">2017</a><sup>[2]</sup></div>
+       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/27989440/" target="_blank">2017</ali><sup>[2]</sup></div>
      </div>
     </li>
         
@@ -49,7 +49,7 @@ permalink: /docs/PRPP/
     <li class="day">
      <div class="events">
        <p >Further classification of <i>ykkC</i> subtype 2 as subtypes 2a through 2d and identification of <i>ykkC</i> subtype 2b RNAs as PRPP riboswitches</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/29504937/" target="_blank">2018</a><sup>[3]</sup></div>
+       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/29504937/" target="_blank">2018</ali><sup>[3]</sup></div>
      </div>
     </li>
         
@@ -57,7 +57,7 @@ permalink: /docs/PRPP/
     <li class="day">
      <div class="events">
        <p >Crystal structures of the PRPP riboswitch bound to PRPP</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/29877798/" target="_blank">2018</a><sup>[4]</sup></div>
+       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/29877798/" target="_blank">2018</ali><sup>[4]</sup></div>
      </div>
     </li>
         
@@ -65,7 +65,7 @@ permalink: /docs/PRPP/
     <li class="day">
      <div class="events">
        <p >Crystal structures of the PRPP riboswitch bound to PRPP</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/30120360/" target="_blank">2018</a><sup>[5]</sup></div>
+       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/30120360/" target="_blank">2018</ali><sup>[5]</sup></div>
      </div>
     </li>
         
