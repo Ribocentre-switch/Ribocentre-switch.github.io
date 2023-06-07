@@ -7,22 +7,67 @@ permalink: /docs/Guanine/
 ---
 <p style="font-size: 24px"><strong>Rfam ID: [RF00167](https://rfam.xfam.org/family/RF00167,target="_blank")(Purine riboswitch)</strong> <br /></p>
 
+<br />
+<html>
+<head>
+  <title>横向排列的点击按钮</title>
+  <style>
+    /* 按钮容器样式 */
+    .button-container {
+      display: flex;
+      justify-content: left;
+      align-items: center;
+      height: 50px;
+    }
+    
+    /* 按钮样式 */
+    .button {
+      display: block;
+      padding: 10px;
+      margin-right: 10px;
+      text-align: center;
+      background-color: #efefef;
+      color: #005826;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    
+    /* 鼠标悬停样式 */
+    .button:hover {
+      background-color: #999;
+      cursor: pointer;
+    }
+  </style>
+</head>
+<body>
+  <p style="font-size: 24px">Click into different sections:</p>
+  
+  <div class="button-container">
+    <a class="button" href="#timeline" style="bold">Timeline</a>
+    <a class="button" href="#description">Description</a>
+    <a class="button" href="#Structure and Ligand recognition">Structure&recognition</a>
+    <a class="button" href="#references">References</a>
+  </div>
+</body>
+</html>
+
 <html lang="zh-cn">
 <head>
 <meta charset="utf-8"> 
 <style>
   .header_box {
     border: none;
-    border-bottom: 4px solid #005826;
     background: #efefef;
     font-size:28px
+  }
+  blockquote {
+  margin: 0 0 0px;
   }
 </style>
 </head>
 <p><br /></p>
 <p class="header_box">Timeline</p>
-<p><br /></p>
-<div class="timeline">
+<div class="timeline" id="timeline">
   <div class="year">
     <div class="inner">
       <span>Start</span>
@@ -102,16 +147,15 @@ permalink: /docs/Guanine/
   </div>
 </div>
 </html>
+<p><br /></p>
         
-<p class="header_box">Description</p>
-***
+<p class="header_box" id="description">Description</p>
 <font size="4">The guanine riboswitch selectively recognizes guanine, and contains a cytosine ribonucleotide in a specific position of the guanine-binding aptamer domain. Now there are two classes of guanine riboswitches have been discovered, most commonly associated with genes encoding phosphoribosyltransferase (PRT) enzymes. Although these two classes of guanine riboswitches have the similar secondary structure, the directionalities of gene control upon ligand binding are predicted to be opposite for the guanine-I (OFF) and guanine-II (ON) riboswitches<sup></sup>.</font>
 <p><br /></p>
             
 > Gene association
         
 <font size="4">The guanine-I riboswitch, once thought to be an operon, was originally found in the 5’-UTR of <i>xpt-pbuX</i> gene. The <i>xpt</i> gene and <i>pbuX</i> gene encode a specific xanthine phosphoribosyl-transferase and a xanthine-specific purine permease respectively, and the genes have overlapping coding regions. The guanine-I riboswitch was also identified in other <i>B. subtilis</i> genes (<i>purE</i>, <i>yxjA</i> et.al.) and also in other bacterial species. However, the nucleobase specificities for many annotated PRT enzymes downstream of guanine-II riboswitch have not been established<sup>[1-2, 9]</sup>.</font>
-<p><br /></p>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;">
 <tr >
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
@@ -132,7 +176,7 @@ permalink: /docs/Guanine/
 </table>
 <p><br /></p>
                     
-<p class="header_box">Structure and Ligand recognition</p>
+<p class="header_box" id="Structure and Ligand recognition">Structure and Ligand recognition</p>
 > 2D representation
         
 <font size=4>(left) Consensus sequence and structural model for guanine-I riboswitch. (right) Sequence and secondary structure model of the guanine-I riboswitch<sup>[3]</sup>.</font><br>
@@ -171,7 +215,7 @@ permalink: /docs/Guanine/
     <div class="main-container">
         <div class="zoom-wrapper1">
             <div class="zoom-area1">
-                <img src="/images/2D/Guanine_riboswitch_2D1.svg" alt="drawing" style="width:400px" />
+                <img src="/images/2D/Guanine_riboswitch_2D1.svg" alt="drawing" style="width:40px" />
             </div>
         </div>
     </div>
@@ -200,7 +244,7 @@ permalink: /docs/Guanine/
     <div class="main-container">
         <div class="zoom-wrapper2">
             <div class="zoom-area2">
-                <img src="/images/2D/Guanine_riboswitch_2D2.svg" alt="drawing" style="width:400px" />
+                <img src="/images/2D/Guanine_riboswitch_2D2.svg" alt="drawing" style="width:40px" />
             </div>
         </div>
     </div>
@@ -215,6 +259,7 @@ permalink: /docs/Guanine/
     </script>
 </td>
 </tr></table><br>
+<p><br /></p>
                 
 <font size=4>Consensus sequence and structural model for guanine-II riboswitch<sup>[9]</sup>.</font><br>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
@@ -252,7 +297,7 @@ permalink: /docs/Guanine/
     <div class="main-container">
         <div class="zoom-wrapper3">
             <div class="zoom-area3">
-                <img src="/images/2D/Guanine_riboswitch_2D3.svg" alt="drawing" style="width:400px" />
+                <img src="/images/2D/Guanine_riboswitch_2D3.svg" alt="drawing" style="width:40px" />
             </div>
         </div>
     </div>
@@ -281,7 +326,7 @@ permalink: /docs/Guanine/
     <div class="main-container">
         <div class="zoom-wrapper4">
             <div class="zoom-area4">
-                <img src="/images/2D/" alt="drawing" style="width:400px" />
+                <img src="/images/2D/" alt="drawing" style="width:40px" />
             </div>
         </div>
     </div>
@@ -296,6 +341,7 @@ permalink: /docs/Guanine/
     </script>
 </td>
 </tr></table><br>
+<p><br /></p>
                 
 > 3D visualisation
             
@@ -446,6 +492,7 @@ permalink: /docs/Guanine/
     </body>
     </html></td>
   </tr></table><br>
+  <p><br /></p>
                 
 > Binding pocket
                 
@@ -455,6 +502,7 @@ permalink: /docs/Guanine/
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/Guanine_riboswitch_binding_pockets2.svg" alt="drawing" style="width:400px"  px="" /></td>
 </tr>
 </table>
+<p><br /></p>
                     
 > Ligand recognition
             
@@ -470,42 +518,50 @@ permalink: /docs/Guanine/
 </table>
 <p><br /></p>
                 
-<p class="header_box">References</p>
-<p><br /></p>
+<p class="header_box" id="references">References</p>
             
 <p><strong>[1] Xanthine metabolism in Bacillus subtilis: characterization of the xpt-pbuX operon and evidence for purine- and nitrogen-controlled expression of genes involved in xanthine salvage and catabolism</strong><br />
 Christiansen, L. C., Schou, S., Nygaard, P. & Saxild, H. H<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/9098051/" target="_blank">J. Bacteriol. 179, (1997)</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/9098051/" target="_blank">J. Bacteriol. 179, (1997)</a>
+<br /><br /></p>
                 
 <p><strong>[2] Riboswitches Control Fundamental Biochemical Pathways in Bacillus subtilis and Other Bacteria</strong><br />
 Mandal, M., Boese, B., Barrick, J. E., Winkler, W. C. & Breaker, R. R<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/12787499/" target="_blank">Cell 113, (2003)</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/12787499/" target="_blank">Cell 113, (2003)</a>
+<br /><br /></p>
                 
 <p><strong>[3] Structure of a natural guanine-responsive riboswitch complexed with the  metabolite hypoxanthine</strong><br />
 Batey, R. T., Gilbert, S. D. & Montange, R. K<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/15549109/" target="_blank">Nature 432, (2004)</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/15549109/" target="_blank">Nature 432, (2004)</a>
+<br /><br /></p>
                 
 <p><strong>[4] Structural Basis for Discriminative Regulation of Gene Expression by Adenine- and Guanine-Sensing mRNAs</strong><br />
 Serganov, A. et al<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/15610857/" target="_blank">Chem. Biol. 11, (2004)</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/15610857/" target="_blank">Chem. Biol. 11, (2004)</a>
+<br /><br /></p>
                 
 <p><strong>[5] Thermodynamic and Kinetic Characterization of Ligand Binding to the Purine Riboswitch Aptamer Domain</strong><br />
 Gilbert, S. D., Stoddard, C. D., Wise, S. J. & Batey, R. T<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/16650860/" target="_blank">J. Mol. Biol. 359, (2006)</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/16650860/" target="_blank">J. Mol. Biol. 359, (2006)</a>
+<br /><br /></p>
                 
 <p><strong>[6] Adaptive Ligand Binding by the Purine Riboswitch in the Recognition of Guanine and Adenine Analogs</strong><br />
 Gilbert, S. D., Reyes, F. E., Edwards, A. L. & Batey, R. T<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/19523903/" target="_blank">Structure 17, (2009)</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/19523903/" target="_blank">Structure 17, (2009)</a>
+<br /><br /></p>
                 
 <p><strong>[7] Influence of ground-state structure and Mg 2+ binding on folding kinetics of the guanine-sensing riboswitch aptamer domain</strong><br />
 Buck, J. et al<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/21890900/" target="_blank">Nucleic Acids Res. 39, (2011)</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/21890900/" target="_blank">Nucleic Acids Res. 39, (2011)</a>
+<br /><br /></p>
                 
 <p><strong>[8] A Crystal Structure of a Functional RNA Molecule Containing an Artificial Nucleobase Pair</strong><br />
 Hernandez, A. R. et al<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/26223188/" target="_blank">Angew. Chem. Int. Ed Engl. 54, (2015)</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/26223188/" target="_blank">Angew. Chem. Int. Ed Engl. 54, (2015)</a>
+<br /><br /></p>
                 
 <p><strong>[9] Variants of the guanine riboswitch class exhibit altered ligand specificities for xanthine, guanine, or 2′-deoxyguanosine</strong><br />
 Hamal, D. S., Panchapakesan, S. S. S., Slattery, P., Roth, A. & Breaker, R. R<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/35622895/" target="_blank">Proc. Natl. Acad. Sci. U. S. A. 119, (2022)</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/35622895/" target="_blank">Proc. Natl. Acad. Sci. U. S. A. 119, (2022)</a>
+<br /><br /></p>
                 

@@ -7,22 +7,67 @@ permalink: /docs/Lysine/
 ---
 <p style="font-size: 24px"><strong>Rfam ID: [RF00168](https://rfam.xfam.org/family/RF00168,target="_blank")(Lysine riboswitch)</strong> <br /></p>
 
+<br />
+<html>
+<head>
+  <title>横向排列的点击按钮</title>
+  <style>
+    /* 按钮容器样式 */
+    .button-container {
+      display: flex;
+      justify-content: left;
+      align-items: center;
+      height: 50px;
+    }
+    
+    /* 按钮样式 */
+    .button {
+      display: block;
+      padding: 10px;
+      margin-right: 10px;
+      text-align: center;
+      background-color: #efefef;
+      color: #005826;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    
+    /* 鼠标悬停样式 */
+    .button:hover {
+      background-color: #999;
+      cursor: pointer;
+    }
+  </style>
+</head>
+<body>
+  <p style="font-size: 24px">Click into different sections:</p>
+  
+  <div class="button-container">
+    <a class="button" href="#timeline" style="bold">Timeline</a>
+    <a class="button" href="#description">Description</a>
+    <a class="button" href="#Structure and Ligand recognition">Structure&recognition</a>
+    <a class="button" href="#references">References</a>
+  </div>
+</body>
+</html>
+
 <html lang="zh-cn">
 <head>
 <meta charset="utf-8"> 
 <style>
   .header_box {
     border: none;
-    border-bottom: 4px solid #005826;
     background: #efefef;
     font-size:28px
+  }
+  blockquote {
+  margin: 0 0 0px;
   }
 </style>
 </head>
 <p><br /></p>
 <p class="header_box">Timeline</p>
-<p><br /></p>
-<div class="timeline">
+<div class="timeline" id="timeline">
   <div class="year">
     <div class="inner">
       <span>Start</span>
@@ -158,16 +203,15 @@ permalink: /docs/Lysine/
   </div>
 </div>
 </html>
+<p><br /></p>
         
-<p class="header_box">Description</p>
-***
+<p class="header_box" id="description">Description</p>
 <font size="4">The Lysine riboswitch is a metabolite binding RNA element found within certain messenger RNAs that serve as a precision sensor for the amino acid lysine. Allosteric rearrangement of mRNA structure is mediated by ligand binding, and this results in modulation of gene expression. Lysine riboswitch are most abundant in Bacillota and Gammaproteobacteria where they are found upstream of a number of genes involved in lysine biosynthesis, transport and catabolism. The lysine riboswitch has also been identified independently and called the L box<sup></sup>.</font>
 <p><br /></p>
             
 > Gene association
         
 <font size="4">The pathway of lysine riboswitches regulating lysine synthesis<sup>[2]</sup>.</font>
-<p><br /></p>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;">
 <tr >
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
@@ -188,7 +232,7 @@ permalink: /docs/Lysine/
 </table>
 <p><br /></p>
                     
-<p class="header_box">Structure and Ligand recognition</p>
+<p class="header_box" id="Structure and Ligand recognition">Structure and Ligand recognition</p>
 > 2D representation
         
 <font size=4>(Left) Consensus sequence and secondary structure model for lysine riboswitch. (Right) Secondary structure depictions of  lysine riboswitch according to PDB ID:3DIL<sup>[1,6]</sup>.</font><br>
@@ -227,7 +271,7 @@ permalink: /docs/Lysine/
     <div class="main-container">
         <div class="zoom-wrapper1">
             <div class="zoom-area1">
-                <img src="/images/2D/Lysine_riboswitch_2D1.svg" alt="drawing" style="width:400px" />
+                <img src="/images/2D/Lysine_riboswitch_2D1.svg" alt="drawing" style="width:40px" />
             </div>
         </div>
     </div>
@@ -256,7 +300,7 @@ permalink: /docs/Lysine/
     <div class="main-container">
         <div class="zoom-wrapper2">
             <div class="zoom-area2">
-                <img src="/images/2D/Lysine_riboswitch_2D2.svg" alt="drawing" style="width:400px" />
+                <img src="/images/2D/Lysine_riboswitch_2D2.svg" alt="drawing" style="width:40px" />
             </div>
         </div>
     </div>
@@ -271,6 +315,7 @@ permalink: /docs/Lysine/
     </script>
 </td>
 </tr></table><br>
+<p><br /></p>
                 
 > 3D visualisation
             
@@ -391,6 +436,7 @@ permalink: /docs/Lysine/
     </body>
     </html></td>
   </tr></table><br>
+  <p><br /></p>
                 
 > Binding pocket
                 
@@ -400,6 +446,7 @@ permalink: /docs/Lysine/
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/Lysine_riboswitch_binding_pockets2.svg" alt="drawing" style="width:400px"  px="" /></td>
 </tr>
 </table>
+<p><br /></p>
                     
 > Ligand recognition
             
@@ -415,70 +462,85 @@ permalink: /docs/Lysine/
 </table>
 <p><br /></p>
                 
-<p class="header_box">References</p>
-<p><br /></p>
+<p class="header_box" id="references">References</p>
             
 <p><strong>[1] An mRNA structure in bacteria that controls gene expression by binding lysine</strong><br />
 Sudarsan, N., Wickiser, J. K., Nakamura, S., Ebert, M. S. & Breaker, R. R.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/14597663/" target="_blank">Genes Dev. 17, 2688–2697 (2003).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/14597663/" target="_blank">Genes Dev. 17, 2688–2697 (2003).</a>
+<br /><br /></p>
                 
 <p><strong>[2] The L box regulon: lysine sensing by leader RNAs of bacterial lysine biosynthesis genes</strong><br />
 Grundy, F. J., Lehman, S. C. & Henkin, T. M.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/14523230/" target="_blank">Proc. Natl. Acad. Sci. U. S. A. 100, 12057–12062 (2003).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/14523230/" target="_blank">Proc. Natl. Acad. Sci. U. S. A. 100, 12057–12062 (2003).</a>
+<br /><br /></p>
                 
 <p><strong>[3] A loop loop interaction and a K-turn motif located in the lysine aptamer domain are important for the riboswitch gene regulation control</strong><br />
 Blouin, S. & Lafontaine, D. A.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/17585050/" target="_blank">RNA 13, 1256–1267 (2007).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/17585050/" target="_blank">RNA 13, 1256–1267 (2007).</a>
+<br /><br /></p>
                 
 <p><strong>[4] Antibacterial lysine analogs that target lysine riboswitches</strong><br />
 Blount, K. F., Wang, J. X., Lim, J., Sudarsan, N. & Breaker, R. R.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/17143270/" target="_blank">Nat. Chem. Biol. 3, 44–49 (2007).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/17143270/" target="_blank">Nat. Chem. Biol. 3, 44–49 (2007).</a>
+<br /><br /></p>
                 
 <p><strong>[5] Crystal structure of the lysine riboswitch regulatory mRNA element</strong><br />
 Garst, A. D., Héroux, A., Rambo, R. P. & Batey, R. T.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/18593706/" target="_blank">J. Biol. Chem. 283, 22347–22351 (2008).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/18593706/" target="_blank">J. Biol. Chem. 283, 22347–22351 (2008).</a>
+<br /><br /></p>
                 
 <p><strong>[6] Structural insights into amino acid binding and gene control by a lysine riboswitch</strong><br />
 Serganov, A., Huang, L. & Patel, D. J.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/18784651/" target="_blank">Nature 455, 1263–1267 (2008).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/18784651/" target="_blank">Nature 455, 1263–1267 (2008).</a>
+<br /><br /></p>
                 
 <p><strong>[7] Folding of the lysine riboswitch: importance of peripheral elements for transcriptional regulation</strong><br />
 Blouin, S., Chinnappan, R. & Lafontaine, D. A.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/21169337/" target="_blank">Nucleic Acids Res. 39, 3373–3387 (2011).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/21169337/" target="_blank">Nucleic Acids Res. 39, 3373–3387 (2011).</a>
+<br /><br /></p>
                 
 <p><strong>[8] Insights into the regulatory landscape of the lysine riboswitch</strong><br />
 Garst, A. D., Porter, E. B. & Batey, R. T.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/22771573/" target="_blank">J. Mol. Biol. 423, 17–33 (2012).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/22771573/" target="_blank">J. Mol. Biol. 423, 17–33 (2012).</a>
+<br /><br /></p>
                 
 <p><strong>[9] Rationally-designed fluorescent lysine riboswitch probes</strong><br />
 Budhathoki, P., Bernal-Perez, L. F., Annunziata, O. & Ryu, Y.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/22961337/" target="_blank">Org. Biomol. Chem. 10, 7872–7874 (2012).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/22961337/" target="_blank">Org. Biomol. Chem. 10, 7872–7874 (2012).</a>
+<br /><br /></p>
                 
 <p><strong>[10] Analysis of lysine recognition and specificity of the Bacillus subtilis L box riboswitch</strong><br />
 Wilson-Mitchell, S. N., Grundy, F. J. & Henkin, T. M.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/22416067/" target="_blank">Nucleic Acids Res. 40, 5706–5717 (2012).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/22416067/" target="_blank">Nucleic Acids Res. 40, 5706–5717 (2012).</a>
+<br /><br /></p>
                 
 <p><strong>[11] Engineering a Lysine-ON Riboswitch for Metabolic Control of Lysine Production in Corynebacterium glutamicum</strong><br />
 Zhou, L.-B. & Zeng, A.-P.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/26300047/" target="_blank">ACS Synth. Biol. 4, 1335–1340 (2015).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/26300047/" target="_blank">ACS Synth. Biol. 4, 1335–1340 (2015).</a>
+<br /><br /></p>
                 
 <p><strong>[12] Exploring lysine riboswitch for metabolic flux control and improvement of L-lysine synthesis in Corynebacterium glutamicum</strong><br />
 Zhou, L.-B. & Zeng, A.-P.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/25575181/" target="_blank">ACS Synth. Biol. 4, 729–734 (2015).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/25575181/" target="_blank">ACS Synth. Biol. 4, 729–734 (2015).</a>
+<br /><br /></p>
                 
 <p><strong>[13] Role of lysine binding residues in the global folding of the lysC riboswitch</strong><br />
 Smith-Peter, E., Lamontagne, A.-M. & Lafontaine, D. A.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/26403229/" target="_blank">RNA Biol. 12, 1372–1382 (2015).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/26403229/" target="_blank">RNA Biol. 12, 1372–1382 (2015).</a>
+<br /><br /></p>
                 
 <p><strong>[14] Comparative genomics and phylogenomic analyses of lysine riboswitch distributions in bacteria</strong><br />
 Mukherjee, S., Barash, D. & Sengupta, S.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/28873470/" target="_blank">PLoS One 12, e0184314 (2017).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/28873470/" target="_blank">PLoS One 12, e0184314 (2017).</a>
+<br /><br /></p>
                 
 <p><strong>[15] High pressure single-molecule FRET studies of the lysine riboswitch: cationic and osmolytic effects on pressure induced denaturation</strong><br />
 Sung, H.-L. & Nesbitt, D. J.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/32706360/" target="_blank">Phys. Chem. Chem. Phys. 22, 15853–15866 (2020).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/32706360/" target="_blank">Phys. Chem. Chem. Phys. 22, 15853–15866 (2020).</a>
+<br /><br /></p>
                 
 <p><strong>[16] Ionic Cooperativity between Lysine and Potassium in the Lysine Riboswitch: Single-Molecule Kinetic and Thermodynamic Studies</strong><br />
 Marton Menendez, A. & Nesbitt, D. J.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/36916791/" target="_blank">J. Phys. Chem. B 127, 2430–2440 (2023).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/36916791/" target="_blank">J. Phys. Chem. B 127, 2430–2440 (2023).</a>
+<br /><br /></p>
                 

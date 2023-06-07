@@ -7,22 +7,67 @@ permalink: /docs/SAH/
 ---
 <p style="font-size: 24px"><strong>Rfam ID: [RF01057](https://rfam.xfam.org/family/RF01057,target="_blank")(S-adenosyl-L-homocysteine riboswitch)</strong> <br /></p>
 
+<br />
+<html>
+<head>
+  <title>横向排列的点击按钮</title>
+  <style>
+    /* 按钮容器样式 */
+    .button-container {
+      display: flex;
+      justify-content: left;
+      align-items: center;
+      height: 50px;
+    }
+    
+    /* 按钮样式 */
+    .button {
+      display: block;
+      padding: 10px;
+      margin-right: 10px;
+      text-align: center;
+      background-color: #efefef;
+      color: #005826;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    
+    /* 鼠标悬停样式 */
+    .button:hover {
+      background-color: #999;
+      cursor: pointer;
+    }
+  </style>
+</head>
+<body>
+  <p style="font-size: 24px">Click into different sections:</p>
+  
+  <div class="button-container">
+    <a class="button" href="#timeline" style="bold">Timeline</a>
+    <a class="button" href="#description">Description</a>
+    <a class="button" href="#Structure and Ligand recognition">Structure&recognition</a>
+    <a class="button" href="#references">References</a>
+  </div>
+</body>
+</html>
+
 <html lang="zh-cn">
 <head>
 <meta charset="utf-8"> 
 <style>
   .header_box {
     border: none;
-    border-bottom: 4px solid #005826;
     background: #efefef;
     font-size:28px
+  }
+  blockquote {
+  margin: 0 0 0px;
   }
 </style>
 </head>
 <p><br /></p>
 <p class="header_box">Timeline</p>
-<p><br /></p>
-<div class="timeline">
+<div class="timeline" id="timeline">
   <div class="year">
     <div class="inner">
       <span>Start</span>
@@ -70,16 +115,15 @@ permalink: /docs/SAH/
   </div>
 </div>
 </html>
+<p><br /></p>
         
-<p class="header_box">Description</p>
-***
+<p class="header_box" id="description">Description</p>
 <font size="4">SAH riboswitches are a kind of riboswitch that bind S-adenosylhomocysteine (SAH). When the coenzyme S-adenosylmethionine (SAM) is used in a methylation reaction, SAH is produced. SAH riboswitches typically up-regulate genes involved in recycling SAH to create more SAM (or the metabolically related methionine). This is particularly relevant to cells, because high levels of SAH can be toxic. Originally identified by bioinformatics, SAH riboswitches are apparent in many species of bacteria, predominantly certain Pseudomonadota and Actinomycetota. The atomic-resolution 3-dimensional structure of an SAH riboswitch has been solved using X-ray crystallography. (from WiKi)<sup></sup>.</font>
 <p><br /></p>
             
 > Gene association
         
 <font size="4">Pathways for sulphate assimilation and biosynthesis of cysteine and methionine.SAH riboswitch (red bar) is involved in multiple gene regulation in the synthetic pathway<sup>[1]</sup>.</font>
-<p><br /></p>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;">
 <tr >
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
@@ -100,7 +144,7 @@ permalink: /docs/SAH/
 </table>
 <p><br /></p>
                     
-<p class="header_box">Structure and Ligand recognition</p>
+<p class="header_box" id="Structure and Ligand recognition">Structure and Ligand recognition</p>
 > 2D representation
         
 <font size=4>Left: Consensus sequence and secondary structure model for the SAH riboswitch. Right: Secondary structure depictions of the SAH riboswitch according to PDB ID:3npq<sup></sup>.</font><br>
@@ -139,7 +183,7 @@ permalink: /docs/SAH/
     <div class="main-container">
         <div class="zoom-wrapper1">
             <div class="zoom-area1">
-                <img src="/images/2D/SAH_riboswitch_2D1.svg" alt="drawing" style="width:400px" />
+                <img src="/images/2D/SAH_riboswitch_2D1.svg" alt="drawing" style="width:40px" />
             </div>
         </div>
     </div>
@@ -168,7 +212,7 @@ permalink: /docs/SAH/
     <div class="main-container">
         <div class="zoom-wrapper2">
             <div class="zoom-area2">
-                <img src="/images/2D/SAH_riboswitch_2D2.svg" alt="drawing" style="width:400px" />
+                <img src="/images/2D/SAH_riboswitch_2D2.svg" alt="drawing" style="width:40px" />
             </div>
         </div>
     </div>
@@ -183,6 +227,7 @@ permalink: /docs/SAH/
     </script>
 </td>
 </tr></table><br>
+<p><br /></p>
                 
 > 3D visualisation
             
@@ -303,6 +348,7 @@ permalink: /docs/SAH/
     </body>
     </html></td>
   </tr></table><br>
+  <p><br /></p>
                 
 > Binding pocket
                 
@@ -312,6 +358,7 @@ permalink: /docs/SAH/
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/SAH_riboswitch_binding_pockets2.svg" alt="drawing" style="width:400px"  px="" /></td>
 </tr>
 </table>
+<p><br /></p>
                     
 > Ligand recognition
             
@@ -327,22 +374,25 @@ permalink: /docs/SAH/
 </table>
 <p><br /></p>
                 
-<p class="header_box">References</p>
-<p><br /></p>
+<p class="header_box" id="references">References</p>
             
 <p><strong>[1] Riboswitches that sense S-adenosylhomocysteine and activate genes involved in coenzyme recycling.</strong><br />
 Wang, J. X., Lee, E. R., Morales, D. R., Lim, J., & Breaker, R. R.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/18374645/" target="_blank">Mol. Cell 29, 691–702 (2008).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/18374645/" target="_blank">Mol. Cell 29, 691–702 (2008).</a>
+<br /><br /></p>
                 
 <p><strong>[2] Riboswitches that sense S-adenosylmethionine and S-adenosylhomocysteine.</strong><br />
 Wang, J. X., & Breaker, R. R.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/18443629/" target="_blank">Biochem. Cell Biol. 86, 157–168 (2008).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/18443629/" target="_blank">Biochem. Cell Biol. 86, 157–168 (2008).</a>
+<br /><br /></p>
                 
 <p><strong>[3] Structural basis for recognition of S-adenosylhomocysteine by riboswitches.</strong><br />
 Edwards, A. L., Reyes, F. E., Héroux, A., & Batey, R. T.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/20864509/" target="_blank">RNA 16, 2144–2155 (2010).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/20864509/" target="_blank">RNA 16, 2144–2155 (2010).</a>
+<br /><br /></p>
                 
 <p><strong>[4] Stimulation of -1 programmed ribosomal frameshifting by a metabolite-responsive RNA pseudoknot.</strong><br />
 Chou, M. Y., Lin, S. C., & Chang, K. Y.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/20435898/" target="_blank">RNA 16, 1236–1244 (2010).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/20435898/" target="_blank">RNA 16, 1236–1244 (2010).</a>
+<br /><br /></p>
                 

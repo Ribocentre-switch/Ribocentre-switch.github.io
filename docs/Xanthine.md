@@ -7,22 +7,67 @@ permalink: /docs/Xanthine/
 ---
 <p style="font-size: 24px"><strong>Rfam ID: [RF03054](https://rfam.xfam.org/family/RF03054,target="_blank")(Xanthine riboswitch)</strong> <br /></p>
 
+<br />
+<html>
+<head>
+  <title>横向排列的点击按钮</title>
+  <style>
+    /* 按钮容器样式 */
+    .button-container {
+      display: flex;
+      justify-content: left;
+      align-items: center;
+      height: 50px;
+    }
+    
+    /* 按钮样式 */
+    .button {
+      display: block;
+      padding: 10px;
+      margin-right: 10px;
+      text-align: center;
+      background-color: #efefef;
+      color: #005826;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    
+    /* 鼠标悬停样式 */
+    .button:hover {
+      background-color: #999;
+      cursor: pointer;
+    }
+  </style>
+</head>
+<body>
+  <p style="font-size: 24px">Click into different sections:</p>
+  
+  <div class="button-container">
+    <a class="button" href="#timeline" style="bold">Timeline</a>
+    <a class="button" href="#description">Description</a>
+    <a class="button" href="#Structure and Ligand recognition">Structure&recognition</a>
+    <a class="button" href="#references">References</a>
+  </div>
+</body>
+</html>
+
 <html lang="zh-cn">
 <head>
 <meta charset="utf-8"> 
 <style>
   .header_box {
     border: none;
-    border-bottom: 4px solid #005826;
     background: #efefef;
     font-size:28px
+  }
+  blockquote {
+  margin: 0 0 0px;
   }
 </style>
 </head>
 <p><br /></p>
 <p class="header_box">Timeline</p>
-<p><br /></p>
-<div class="timeline">
+<div class="timeline" id="timeline">
   <div class="year">
     <div class="inner">
       <span>Start</span>
@@ -70,16 +115,15 @@ permalink: /docs/Xanthine/
   </div>
 </div>
 </html>
+<p><br /></p>
         
-<p class="header_box">Description</p>
-***
+<p class="header_box" id="description">Description</p>
 <font size="4">There are currently two classes of xanthine riboswitches. The xanthine-I riboswitch, formerly known as the NMT1 motif RNA, is associated with genes annotated encoding various dioxygenases, transporters, or proteins, and tightly binds 8-azaxanthine, xanthine, and uric acid. It functions to shut down gene expression following ligand binding, possibly by regulating translation initiation. Xanthine-II riboswitch is a class of xanthine-sensing guanine riboswitch variants that are frequently associated with genes annotated to encode dioxygenase, allantoinase, and xanthine dehydrogenase. The structure of these RNAs is consistent with a genetic "ON" switch, in which ligand binding activates gene expression<sup>[2,4]</sup>.</font>
 <p><br /></p>
             
 > Gene association
         
 <font size="4">Basic purine degradation and utilization pathways. Xanthine riboswitches participate in regulating the degradation or salvation of various purine compounds<sup>[2]</sup>.</font>
-<p><br /></p>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;">
 <tr >
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
@@ -100,7 +144,7 @@ permalink: /docs/Xanthine/
 </table>
 <p><br /></p>
                     
-<p class="header_box">Structure and Ligand recognition</p>
+<p class="header_box" id="Structure and Ligand recognition">Structure and Ligand recognition</p>
 > 2D representation
         
 <font size=4>(Left) Consensus sequence and secondary structure model for the xanthine-I riboswitch. (Right) Secondary structure depictions of the xanthine-I riboswitch according to PDB ID: 7ELR<sup>[2]</sup>.</font><br>
@@ -139,7 +183,7 @@ permalink: /docs/Xanthine/
     <div class="main-container">
         <div class="zoom-wrapper1">
             <div class="zoom-area1">
-                <img src="/images/2D/Xanthine-I_riboswitch_2D1.svg" alt="drawing" style="width:400px" />
+                <img src="/images/2D/Xanthine-I_riboswitch_2D1.svg" alt="drawing" style="width:40px" />
             </div>
         </div>
     </div>
@@ -168,7 +212,7 @@ permalink: /docs/Xanthine/
     <div class="main-container">
         <div class="zoom-wrapper2">
             <div class="zoom-area2">
-                <img src="/images/2D/Xanthine-I_riboswitch_2D2.svg" alt="drawing" style="width:400px" />
+                <img src="/images/2D/Xanthine-I_riboswitch_2D2.svg" alt="drawing" style="width:40px" />
             </div>
         </div>
     </div>
@@ -183,6 +227,7 @@ permalink: /docs/Xanthine/
     </script>
 </td>
 </tr></table><br>
+<p><br /></p>
                 
 <font size=4>(Left) Consensus sequence and secondary structure model for the xanthine-II riboswitch. (Right) Sequence and secondary structure model of the xanthine-II (92 allB RNA) riboswitch<sup>[4]</sup>.</font><br>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
@@ -220,7 +265,7 @@ permalink: /docs/Xanthine/
     <div class="main-container">
         <div class="zoom-wrapper3">
             <div class="zoom-area3">
-                <img src="/images/2D/Xanthine-II_riboswitch_2D1.svg" alt="drawing" style="width:400px" />
+                <img src="/images/2D/Xanthine-II_riboswitch_2D1.svg" alt="drawing" style="width:40px" />
             </div>
         </div>
     </div>
@@ -249,7 +294,7 @@ permalink: /docs/Xanthine/
     <div class="main-container">
         <div class="zoom-wrapper4">
             <div class="zoom-area4">
-                <img src="/images/2D/" alt="drawing" style="width:400px" />
+                <img src="/images/2D/" alt="drawing" style="width:40px" />
             </div>
         </div>
     </div>
@@ -264,6 +309,7 @@ permalink: /docs/Xanthine/
     </script>
 </td>
 </tr></table><br>
+<p><br /></p>
                 
 > 3D visualisation
             
@@ -420,6 +466,7 @@ permalink: /docs/Xanthine/
     </body>
     </html></td>
   </tr></table><br>
+  <p><br /></p>
                 
 > Binding pocket
                 
@@ -429,6 +476,7 @@ permalink: /docs/Xanthine/
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/Xanthine-I_riboswitch_binding_pockets2.svg" alt="drawing" style="width:400px"  px="" /></td>
 </tr>
 </table>
+<p><br /></p>
                     
 > Ligand recognition
             
@@ -444,22 +492,25 @@ permalink: /docs/Xanthine/
 </table>
 <p><br /></p>
                 
-<p class="header_box">References</p>
-<p><br /></p>
+<p class="header_box" id="references">References</p>
             
 <p><strong>[1] Detection of 224 candidate structured RNAs by comparative analysis of specific subsets of intergenic regions.</strong><br />
 Weinberg, Z. et al.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/28977401/" target="_blank">Nucleic Acids Res. 45, 10811–10823 (2017).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/28977401/" target="_blank">Nucleic Acids Res. 45, 10811–10823 (2017).</a>
+<br /><br /></p>
                 
 <p><strong>[2] A bacterial riboswitch class senses xanthine and uric acid to regulate genes associated with purine oxidation.</strong><br />
 Yu, D. & Breaker, R. R.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/32345632/" target="_blank">RNA 26, 960–968 (2020).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/32345632/" target="_blank">RNA 26, 960–968 (2020).</a>
+<br /><br /></p>
                 
 <p><strong>[3] Insights into xanthine riboswitch structure and metal ion-mediated ligand recognition.</strong><br />
 Xu, X. et al.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/34125892/" target="_blank">Nucleic Acids Res. 49, 7139–7153 (2021).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/34125892/" target="_blank">Nucleic Acids Res. 49, 7139–7153 (2021).</a>
+<br /><br /></p>
                 
 <p><strong>[4] Variants of the guanine riboswitch class exhibit altered ligand specificities for xanthine, guanine, or 2'-deoxyguanosine.</strong><br />
 Hamal Dhakal, S., Panchapakesan, S. S. S., Slattery, P., Roth, A. & Breaker, R. R.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/35622895/" target="_blank">Proc. Natl. Acad. Sci. U. S. A. 119, e2120246119 (2022).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/35622895/" target="_blank">Proc. Natl. Acad. Sci. U. S. A. 119, e2120246119 (2022).</a>
+<br /><br /></p>
                 

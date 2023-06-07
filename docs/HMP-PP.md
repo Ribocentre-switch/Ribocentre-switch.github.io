@@ -7,22 +7,67 @@ permalink: /docs/HMP-PP/
 ---
 <p style="font-size: 24px"><strong>Rfam ID: [nan](https://rfam.xfam.org/family/nan,target="_blank")(nan)</strong> <br /></p>
 
+<br />
+<html>
+<head>
+  <title>横向排列的点击按钮</title>
+  <style>
+    /* 按钮容器样式 */
+    .button-container {
+      display: flex;
+      justify-content: left;
+      align-items: center;
+      height: 50px;
+    }
+    
+    /* 按钮样式 */
+    .button {
+      display: block;
+      padding: 10px;
+      margin-right: 10px;
+      text-align: center;
+      background-color: #efefef;
+      color: #005826;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    
+    /* 鼠标悬停样式 */
+    .button:hover {
+      background-color: #999;
+      cursor: pointer;
+    }
+  </style>
+</head>
+<body>
+  <p style="font-size: 24px">Click into different sections:</p>
+  
+  <div class="button-container">
+    <a class="button" href="#timeline" style="bold">Timeline</a>
+    <a class="button" href="#description">Description</a>
+    <a class="button" href="#Structure and Ligand recognition">Structure&recognition</a>
+    <a class="button" href="#references">References</a>
+  </div>
+</body>
+</html>
+
 <html lang="zh-cn">
 <head>
 <meta charset="utf-8"> 
 <style>
   .header_box {
     border: none;
-    border-bottom: 4px solid #005826;
     background: #efefef;
     font-size:28px
+  }
+  blockquote {
+  margin: 0 0 0px;
   }
 </style>
 </head>
 <p><br /></p>
 <p class="header_box">Timeline</p>
-<p><br /></p>
-<div class="timeline">
+<div class="timeline" id="timeline">
   <div class="year">
     <div class="inner">
       <span>Start</span>
@@ -54,16 +99,15 @@ permalink: /docs/HMP-PP/
   </div>
 </div>
 </html>
+<p><br /></p>
         
-<p class="header_box">Description</p>
-***
+<p class="header_box" id="description">Description</p>
 <font size="4">HMP-PP riboswitches are a class of homologous RNAs in certain bacteria that function as sensors of the thiamin precursor HMP-PP, which is fused with HET-P ultimately to form the final active coenzyme thiamin pyrophosphate (TPP). The HMP-PP riboswitch was initially named as the ‘thiS motif' because of its frequent association with a gene coding for the ThiS protein, which delivers sulfur to form the thiazole moiety of the thiamin precursor HET-P, which was firstly reported by using a computational approach to identify new riboswitches in bacteria in 2019. Unlike with many other riboswitches,the small ligand sensing aptamer of the HMP-PP riboswitch was embedded within a terminator, rather than being a separate entity. The 3D structure of the HMP-PP riboswitch has not been solved yet<sup>[2-3]</sup>.</font>
 <p><br /></p>
             
 > Gene association
         
 <font size="4">Typical biosynthetic pathways for the pyrimidine and thiazole moieties of thiamin, and their eventual conversion into the enzyme cofactor thiamin pyrophosphate (TPP). Genes coding for the enzymes involved in HET transport and catalysis of various biosynthetic steps are showed. The genes colored in red are associated with the HMP-PP riboswitch<sup>[1-3]</sup>.</font>
-<p><br /></p>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;">
 <tr >
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
@@ -84,7 +128,7 @@ permalink: /docs/HMP-PP/
 </table>
 <p><br /></p>
                     
-<p class="header_box">Structure and Ligand recognition</p>
+<p class="header_box" id="Structure and Ligand recognition">Structure and Ligand recognition</p>
 > 2D representation
         
 <font size=4>Left: The consensus models and two possible secondary structure models based on 400 representatives for the HMP-PP riboswitch. Right: Sequence and predicted secondary structure of the HMP-PP riboswitch of <i>C. sp.</i> Maddingley (depicted in presumed ‘ON’ state), where the shaded nucleotides highlight possible base-pairs of the predicted pseudoknot. Red nucleotides are >97% conserved as depicted in the HMP-PP riboswitch consensus model<sup>[2-3]</sup>.</font><br>
@@ -123,7 +167,7 @@ permalink: /docs/HMP-PP/
     <div class="main-container">
         <div class="zoom-wrapper1">
             <div class="zoom-area1">
-                <img src="/images/2D/HMP-PP_riboswitch_2D1.svg" alt="drawing" style="width:400px" />
+                <img src="/images/2D/HMP-PP_riboswitch_2D1.svg" alt="drawing" style="width:40px" />
             </div>
         </div>
     </div>
@@ -152,7 +196,7 @@ permalink: /docs/HMP-PP/
     <div class="main-container">
         <div class="zoom-wrapper2">
             <div class="zoom-area2">
-                <img src="/images/2D/HMP-PP_riboswitch_2D2.svg" alt="drawing" style="width:400px" />
+                <img src="/images/2D/HMP-PP_riboswitch_2D2.svg" alt="drawing" style="width:40px" />
             </div>
         </div>
     </div>
@@ -167,6 +211,7 @@ permalink: /docs/HMP-PP/
     </script>
 </td>
 </tr></table><br>
+<p><br /></p>
                 
 > 3D visualisation
             
@@ -186,18 +231,20 @@ permalink: /docs/HMP-PP/
 </table>
 <p><br /></p>
                 
-<p class="header_box">References</p>
-<p><br /></p>
+<p class="header_box" id="references">References</p>
             
 <p><strong>[1] Thiamin biosynthesis in prokaryotes.</strong><br />
 Begley, T. P. et al.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/10382260/" target="_blank">Arch. Microbiol. 171, (1999).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/10382260/" target="_blank">Arch. Microbiol. 171, (1999).</a>
+<br /><br /></p>
                 
 <p><strong>[2] Genome-wide discovery of structured noncoding RNAs in bacteria.</strong><br />
 Stav, S. et al.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/30902049/" target="_blank">BMC Microbiol. 19, (2019).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/30902049/" target="_blank">BMC Microbiol. 19, (2019).</a>
+<br /><br /></p>
                 
 <p><strong>[3] A bacterial riboswitch class for the thiamin precursor HMP-PP employs a terminator-embedded aptamer.</strong><br />
 Atilho, R. M., Mirihana, A. G., Greenlee, E. B., Knecht, K. M. & Breaker, R. R.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/30950790/" target="_blank">Elife 8, (2019).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/30950790/" target="_blank">Elife 8, (2019).</a>
+<br /><br /></p>
                 

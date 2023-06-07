@@ -7,22 +7,67 @@ permalink: /docs/Fluoride/
 ---
 <p style="font-size: 24px"><strong>Rfam ID: [RF01734](https://rfam.xfam.org/family/RF01734,target="_blank")(Fluoride riboswitch (crcB))</strong> <br /></p>
 
+<br />
+<html>
+<head>
+  <title>横向排列的点击按钮</title>
+  <style>
+    /* 按钮容器样式 */
+    .button-container {
+      display: flex;
+      justify-content: left;
+      align-items: center;
+      height: 50px;
+    }
+    
+    /* 按钮样式 */
+    .button {
+      display: block;
+      padding: 10px;
+      margin-right: 10px;
+      text-align: center;
+      background-color: #efefef;
+      color: #005826;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    
+    /* 鼠标悬停样式 */
+    .button:hover {
+      background-color: #999;
+      cursor: pointer;
+    }
+  </style>
+</head>
+<body>
+  <p style="font-size: 24px">Click into different sections:</p>
+  
+  <div class="button-container">
+    <a class="button" href="#timeline" style="bold">Timeline</a>
+    <a class="button" href="#description">Description</a>
+    <a class="button" href="#Structure and Ligand recognition">Structure&recognition</a>
+    <a class="button" href="#references">References</a>
+  </div>
+</body>
+</html>
+
 <html lang="zh-cn">
 <head>
 <meta charset="utf-8"> 
 <style>
   .header_box {
     border: none;
-    border-bottom: 4px solid #005826;
     background: #efefef;
     font-size:28px
+  }
+  blockquote {
+  margin: 0 0 0px;
   }
 </style>
 </head>
 <p><br /></p>
 <p class="header_box">Timeline</p>
-<p><br /></p>
-<div class="timeline">
+<div class="timeline" id="timeline">
   <div class="year">
     <div class="inner">
       <span>Start</span>
@@ -94,9 +139,9 @@ permalink: /docs/Fluoride/
   </div>
 </div>
 </html>
+<p><br /></p>
         
-<p class="header_box">Description</p>
-***
+<p class="header_box" id="description">Description</p>
 <font size="4">  The fluoride riboswitch (formerly called the crcB RNA motif) is a conserved RNA structure identified by bioinformatics in a wide variety of bacteria and archaea. These RNAs were later shown to function as riboswitches that sense fluoride ions. These "fluoride riboswitches" increase expression of downstream genes when fluoride levels are elevated, and the genes are proposed to help mitigate the toxic effects of very high levels of fluoride.
   Many genes are presumed to be regulated by these fluoride riboswitches. Two of the most common encode proteins that are proposed to function by removing fluoride from the cell. These proteins are CrcB proteins and a fluoride-specific subtype of chloride channels referred to as EriC<sup>F</sup> or ClC<sup>F</sup>. ClC<sup>F</sup> proteins have been shown to function as fluoride-specific fluoride/proton antiporters.
   The three-dimensional structure of a fluoride riboswitch has been solved at atomic resolution by X-ray crystallography.
@@ -106,7 +151,6 @@ permalink: /docs/Fluoride/
 > Gene association
         
 <font size="4">Genes most commonly associated with fluoride riboswitches in bacteria and archaea as classified by the Conserved Domain Database. Left: 62% of all riboswitch-associated genes fall into twelve common categories as noted with sections proportional to the number of operons encoding the specified protein. These genes are predominantly bacteria. MFS: major facilitator superfamily; USP: universal stress protein. Right: fluoride riboswitch-associated genes from archaea<sup>[2]</sup>.</font>
-<p><br /></p>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;">
 <tr >
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
@@ -127,7 +171,7 @@ permalink: /docs/Fluoride/
 </table>
 <p><br /></p>
                     
-<p class="header_box">Structure and Ligand recognition</p>
+<p class="header_box" id="Structure and Ligand recognition">Structure and Ligand recognition</p>
 > 2D representation
         
 <font size=4>Left: Consensus sequence and secondary structure model for the Fluoride riboswitch. Right: Secondary structure depictions of the Fluoride riboswitch according to PDB ID: 4ENC<sup>[3]</sup>.</font><br>
@@ -166,7 +210,7 @@ permalink: /docs/Fluoride/
     <div class="main-container">
         <div class="zoom-wrapper1">
             <div class="zoom-area1">
-                <img src="/images/2D/Fluoride_riboswitch_2D1.svg" alt="drawing" style="width:400px" />
+                <img src="/images/2D/Fluoride_riboswitch_2D1.svg" alt="drawing" style="width:40px" />
             </div>
         </div>
     </div>
@@ -195,7 +239,7 @@ permalink: /docs/Fluoride/
     <div class="main-container">
         <div class="zoom-wrapper2">
             <div class="zoom-area2">
-                <img src="/images/2D/Fluoride_riboswitch_2D2.svg" alt="drawing" style="width:400px" />
+                <img src="/images/2D/Fluoride_riboswitch_2D2.svg" alt="drawing" style="width:40px" />
             </div>
         </div>
     </div>
@@ -210,6 +254,7 @@ permalink: /docs/Fluoride/
     </script>
 </td>
 </tr></table><br>
+<p><br /></p>
                 
 > 3D visualisation
             
@@ -414,6 +459,7 @@ permalink: /docs/Fluoride/
     </body>
     </html></td>
   </tr></table><br>
+  <p><br /></p>
                 
 > Binding pocket
                 
@@ -423,6 +469,7 @@ permalink: /docs/Fluoride/
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/Fluoride_riboswitch_ binding_pockets2.svg" alt="drawing" style="width:400px"  px="" /></td>
 </tr>
 </table>
+<p><br /></p>
                     
 > Ligand recognition
             
@@ -438,34 +485,40 @@ permalink: /docs/Fluoride/
 </table>
 <p><br /></p>
                 
-<p class="header_box">References</p>
-<p><br /></p>
+<p class="header_box" id="references">References</p>
             
 <p><strong>[1] Comparative genomics reveals 104 candidate structured RNAs from bacteria, archaea, and their metagenomes.</strong><br />
 Weinberg, Z. et al.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/20230605/" target="_blank">Genome Biol. 11, R31 (2010).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/20230605/" target="_blank">Genome Biol. 11, R31 (2010).</a>
+<br /><br /></p>
                 
 <p><strong>[2] Widespread genetic switches and toxicity resistance proteins for fluoride.</strong><br />
 Baker, J. L. et al.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/22194412/" target="_blank">Science 335, 233–235 (2012).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/22194412/" target="_blank">Science 335, 233–235 (2012).</a>
+<br /><br /></p>
                 
 <p><strong>[3] Fluoride ion encapsulation by Mg2+ ions and phosphates in a fluoride riboswitch.</strong><br />
 Ren, A., Rajashankar, K. R. & Patel, D. J.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/22678284/" target="_blank">Nature 486, 85–89 (2012).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/22678284/" target="_blank">Nature 486, 85–89 (2012).</a>
+<br /><br /></p>
                 
 <p><strong>[4] Structural stability, acidity, and halide selectivity of the fluoride riboswitch recognition site.</strong><br />
 Chawla, M., Credendino, R., Poater, A., Oliva, R. & Cavallo, L.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/25487435/" target="_blank">J. Am. Chem. Soc. 137, 299–306 (2015).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/25487435/" target="_blank">J. Am. Chem. Soc. 137, 299–306 (2015).</a>
+<br /><br /></p>
                 
 <p><strong>[5] An excited state underlies gene regulation of a transcriptional riboswitch.</strong><br />
 Zhao, B., Guffy, S. L., Williams, B. & Zhang, Q.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/28719589/" target="_blank">Nat. Chem. Biol. 13, 968–974 (2017).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/28719589/" target="_blank">Nat. Chem. Biol. 13, 968–974 (2017).</a>
+<br /><br /></p>
                 
 <p><strong>[6] Dynamic competition between a ligand and transcription factor NusA governs riboswitch-mediated transcription regulation.</strong><br />
 Chauvier, A., Ajmera, P., Yadav, R. & Walter, N. G.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/34782462/" target="_blank">Proc. Natl. Acad. Sci. U. S. A. 118, (2021).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/34782462/" target="_blank">Proc. Natl. Acad. Sci. U. S. A. 118, (2021).</a>
+<br /><br /></p>
                 
 <p><strong>[7] An anionic ligand snap-locks a long-range interaction in a magnesium-folded riboswitch.</strong><br />
 Yadav, R., Widom, J. R., Chauvier, A. & Walter, N. G.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/35017489/" target="_blank">Nat. Commun. 13, 207 (2022).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/35017489/" target="_blank">Nat. Commun. 13, 207 (2022).</a>
+<br /><br /></p>
                 

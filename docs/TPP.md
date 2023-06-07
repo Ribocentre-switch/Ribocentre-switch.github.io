@@ -7,22 +7,67 @@ permalink: /docs/TPP/
 ---
 <p style="font-size: 24px"><strong>Rfam ID: [RF00059](https://rfam.xfam.org/family/RF00059,target="_blank")(TPP riboswitch (THI element))</strong> <br /></p>
 
+<br />
+<html>
+<head>
+  <title>横向排列的点击按钮</title>
+  <style>
+    /* 按钮容器样式 */
+    .button-container {
+      display: flex;
+      justify-content: left;
+      align-items: center;
+      height: 50px;
+    }
+    
+    /* 按钮样式 */
+    .button {
+      display: block;
+      padding: 10px;
+      margin-right: 10px;
+      text-align: center;
+      background-color: #efefef;
+      color: #005826;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    
+    /* 鼠标悬停样式 */
+    .button:hover {
+      background-color: #999;
+      cursor: pointer;
+    }
+  </style>
+</head>
+<body>
+  <p style="font-size: 24px">Click into different sections:</p>
+  
+  <div class="button-container">
+    <a class="button" href="#timeline" style="bold">Timeline</a>
+    <a class="button" href="#description">Description</a>
+    <a class="button" href="#Structure and Ligand recognition">Structure&recognition</a>
+    <a class="button" href="#references">References</a>
+  </div>
+</body>
+</html>
+
 <html lang="zh-cn">
 <head>
 <meta charset="utf-8"> 
 <style>
   .header_box {
     border: none;
-    border-bottom: 4px solid #005826;
     background: #efefef;
     font-size:28px
+  }
+  blockquote {
+  margin: 0 0 0px;
   }
 </style>
 </head>
 <p><br /></p>
 <p class="header_box">Timeline</p>
-<p><br /></p>
-<div class="timeline">
+<div class="timeline" id="timeline">
   <div class="year">
     <div class="inner">
       <span>Start</span>
@@ -126,16 +171,15 @@ permalink: /docs/TPP/
   </div>
 </div>
 </html>
+<p><br /></p>
         
-<p class="header_box">Description</p>
-***
+<p class="header_box" id="description">Description</p>
 <font size="4">The TPP riboswitch, also known as the THI element and Thi-box riboswitch, is a highly conserved RNA secondary structure. It serves as a riboswitch that binds thiamine pyrophosphate (TPP) directly and modulates gene expression through a variety of mechanisms in archaea, bacteria and eukaryotes. TPP is the active form of thiamine (vitamin B1), an essential coenzyme synthesised by coupling of pyrimidine and thiazole moieties in bacteria. The THI element is an extension of a previously detected thiamin-regulatory element, the thi box, there is considerable variability in the predicted length and structures of the additional and facultative stem-loops represented in dark blue in the secondary structure diagram Analysis of operon structures has identified a large number of new candidate thiamin-regulated genes, mostly transporters, in various prokaryotic organisms. The x-ray crystal structure of the TPP riboswitch aptamer has been solved (From Wikipedia)<sup></sup>.</font>
 <p><br /></p>
             
 > Gene association
         
 <font size="4">The biosynthetic pathway of TPP in <i>Bacillus subtilis</i>. The genes under contol of the TPP ribswtch are colored in red<sup>[1,20]</sup>.</font>
-<p><br /></p>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;">
 <tr >
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
@@ -156,7 +200,7 @@ permalink: /docs/TPP/
 </table>
 <p><br /></p>
                     
-<p class="header_box">Structure and Ligand recognition</p>
+<p class="header_box" id="Structure and Ligand recognition">Structure and Ligand recognition</p>
 > 2D representation
         
 <font size=4>Left: Consensus sequence and secondary structure model for the TPP riboswitch. Right: Secondary structure depictions of the TPP riboswitch according to PDB ID: 2GDI. The bound TPP is denoted in red<sup>[9]</sup>.</font><br>
@@ -195,7 +239,7 @@ permalink: /docs/TPP/
     <div class="main-container">
         <div class="zoom-wrapper1">
             <div class="zoom-area1">
-                <img src="/images/2D/TPP_riboswitch_2D1.svg" alt="drawing" style="width:400px" />
+                <img src="/images/2D/TPP_riboswitch_2D1.svg" alt="drawing" style="width:40px" />
             </div>
         </div>
     </div>
@@ -224,7 +268,7 @@ permalink: /docs/TPP/
     <div class="main-container">
         <div class="zoom-wrapper2">
             <div class="zoom-area2">
-                <img src="/images/2D/TPP_riboswitch_2D2.svg" alt="drawing" style="width:400px" />
+                <img src="/images/2D/TPP_riboswitch_2D2.svg" alt="drawing" style="width:40px" />
             </div>
         </div>
     </div>
@@ -239,6 +283,7 @@ permalink: /docs/TPP/
     </script>
 </td>
 </tr></table><br>
+<p><br /></p>
                 
 > 3D visualisation
             
@@ -389,6 +434,7 @@ permalink: /docs/TPP/
     </body>
     </html></td>
   </tr></table><br>
+  <p><br /></p>
                 
 > Binding pocket
                 
@@ -398,6 +444,7 @@ permalink: /docs/TPP/
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/TPP_riboswitch_binding_pockets2.svg" alt="drawing" style="width:400px"  px="" /></td>
 </tr>
 </table>
+<p><br /></p>
                     
 > Ligand recognition
             
@@ -413,98 +460,120 @@ permalink: /docs/TPP/
 </table>
 <p><br /></p>
                 
-<p class="header_box">References</p>
-<p><br /></p>
+<p class="header_box" id="references">References</p>
             
 <p><strong>[1] Thiamin biosynthesis in prokaryotes.</strong><br />
 Begley, T. P. et al.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/10382260/" target="_blank">Arch. Microbiol. 171, (1999).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/10382260/" target="_blank">Arch. Microbiol. 171, (1999).</a>
+<br /><br /></p>
                 
 <p><strong>[2] A conserved RNA structure (thi box) is involved in regulation of thiamin biosynthetic gene expression in bacteria.</strong><br />
 Miranda-Ríos, J., Navarro, M. & Soberón, M.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/11470904/" target="_blank">Proc. Natl. Acad. Sci. U. S. A. 98, (2001).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/11470904/" target="_blank">Proc. Natl. Acad. Sci. U. S. A. 98, (2001).</a>
+<br /><br /></p>
                 
 <p><strong>[3] Thiamine derivatives bind messenger RNAs directly to regulate bacterial gene expression.</strong><br />
 Winkler, W., Nahvi, A. & Breaker, R. R.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/12410317/" target="_blank">Nature 419, (2002).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/12410317/" target="_blank">Nature 419, (2002).</a>
+<br /><br /></p>
                 
 <p><strong>[4] Metabolite-binding RNA domains are present in the genes of eukaryotes.</strong><br />
 Sudarsan, N., Barrick, J. E. & Breaker, R. R.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/12756322/" target="_blank">RNA 9, (2003).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/12756322/" target="_blank">RNA 9, (2003).</a>
+<br /><br /></p>
                 
 <p><strong>[5] Thiamine-regulated gene expression of Aspergillus oryzae thiA requires splicing of the intron containing a riboswitch-like domain in the 5'-UTR</strong><br />
 Kubodera, T., M. Watanabe, K. Yoshiuchi, N. Yamashita, A. Nishimura, S. Nakai, K. Gomi and H. Hanamoto.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/14675766/" target="_blank">FEBS Lett 555(3): 516-520.(2003).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/14675766/" target="_blank">FEBS Lett 555(3): 516-520.(2003).</a>
+<br /><br /></p>
                 
 <p><strong>[6] Roles of Mg<sup>2+</sup> in TPP-dependent riboswitch.</strong><br />
 Yamauchi, T. et al.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/15862294/" target="_blank">FEBS Lett. 579, (2005).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/15862294/" target="_blank">FEBS Lett. 579, (2005).</a>
+<br /><br /></p>
                 
 <p><strong>[7] Thiamine pyrophosphate riboswitches are targets for the antimicrobial compound pyrithiamine.</strong><br />
 Sudarsan, N., Cohen-Chalamish, S., Nakamura, S., Emilsson, G. M. & Breaker, R. R.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/16356850/" target="_blank">Chem. Biol. 12, (2005).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/16356850/" target="_blank">Chem. Biol. 12, (2005).</a>
+<br /><br /></p>
                 
 <p><strong>[8] Structure of the eukaryotic thiamine pyrophosphate riboswitch with its regulatory ligand.</strong><br />
 Thore, S., Leibundgut, M. & Ban, N.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/16675665/" target="_blank">Science 312, (2006).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/16675665/" target="_blank">Science 312, (2006).</a>
+<br /><br /></p>
                 
 <p><strong>[9] Structural basis for gene regulation by a thiamine pyrophosphate-sensing riboswitch.</strong><br />
 Serganov, A., Polonskaia, A., Phan, A. T., Breaker, R. R. & Patel, D. J.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/16728979/" target="_blank">Nature 441, (2006).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/16728979/" target="_blank">Nature 441, (2006).</a>
+<br /><br /></p>
                 
 <p><strong>[10] Crystal Structures of the Thi-Box Riboswitch Bound to Thiamine Pyrophosphate Analogs Reveal Adaptive RNA-Small Molecule. Recognition</strong><br />
 Edwards, T. E. & Ferré-D’Amaré, A. R.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/16962976/" target="_blank">Structure 14, (2006).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/16962976/" target="_blank">Structure 14, (2006).</a>
+<br /><br /></p>
                 
 <p><strong>[11] Riboswitch-dependent gene regulation and its evolution in the plant kingdom.</strong><br />
 Bocobza, S. et al.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/18006684/" target="_blank">Genes Dev. 21, (2007).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/18006684/" target="_blank">Genes Dev. 21, (2007).</a>
+<br /><br /></p>
                 
 <p><strong>[12] Control of alternative RNA splicing and gene expression by eukaryotic riboswitches.</strong><br />
 Cheah, M. T., Wachter, A., Sudarsan, N. & Breaker, R. R.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/17468745/" target="_blank">Nature 447, (2007).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/17468745/" target="_blank">Nature 447, (2007).</a>
+<br /><br /></p>
                 
 <p><strong>[13] Riboswitch control of gene expression in plants by splicing and alternative 3' end processing of mRNAs.</strong><br />
 Wachter, A. et al.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/17993623/" target="_blank">Plant Cell 19, (2007).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/17993623/" target="_blank">Plant Cell 19, (2007).</a>
+<br /><br /></p>
                 
 <p><strong>[14] Structural basis of thiamine pyrophosphate analogues binding to the eukaryotic riboswitch.</strong><br />
 Thore, S., Frick, C. & Ban, N.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/18533652/" target="_blank">J. Am. Chem. Soc. 130, (2008).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/18533652/" target="_blank">J. Am. Chem. Soc. 130, (2008).</a>
+<br /><br /></p>
                 
 <p><strong>[15] Thermodynamic analysis of ligand binding and ligand binding-induced tertiary structure formation by the thiamine pyrophosphate. riboswitch</strong><br />
 Kulshina, N., Edwards, T. E. & Ferré-D’Amaré, A. R.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/19948769/" target="_blank">RNA 16, (2010).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/19948769/" target="_blank">RNA 16, (2010).</a>
+<br /><br /></p>
                 
 <p><strong>[16] Riboswitch-mediated control of gene expression in eukaryotes.</strong><br />
 Wachter, A.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/20009507/" target="_blank">RNA Biol. 7, (2010).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/20009507/" target="_blank">RNA Biol. 7, (2010).</a>
+<br /><br /></p>
                 
 <p><strong>[17] Validating fragment-based drug discovery for biological RNAs: lead fragments bind and remodel the TPP riboswitch specifically.</strong><br />
 Warner, K. D. et al.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/24768306/" target="_blank">Chem. Biol. 21, (2014).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/24768306/" target="_blank">Chem. Biol. 21, (2014).</a>
+<br /><br /></p>
                 
 <p><strong>[18] Thiamine pyrophosphate riboswitch in some representative plant species: a bioinformatics study.</strong><br />
 Yadav, S., Swati, D. & Chandrasekharan, H.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/25243980/" target="_blank">J. Comput. Biol. 22, (2015).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/25243980/" target="_blank">J. Comput. Biol. 22, (2015).</a>
+<br /><br /></p>
                 
 <p><strong>[19] Phylogenomic and comparative analysis of the distribution and regulatory patterns of TPP riboswitches in fungi.</strong><br />
 Mukherjee, S., Retwitzer, Barash, D. & Sengupta, S.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/29615754/" target="_blank">Sci. Rep. 8, (2018).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/29615754/" target="_blank">Sci. Rep. 8, (2018).</a>
+<br /><br /></p>
                 
 <p><strong>[20] Genome-wide discovery of structured noncoding RNAs in bacteria.</strong><br />
 Stav, S. et al.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/30902049/" target="_blank">BMC Microbiol. 19, (2019).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/30902049/" target="_blank">BMC Microbiol. 19, (2019).</a>
+<br /><br /></p>
                 
 <p><strong>[21] Identification and characterisation of thiamine pyrophosphate (TPP) riboswitch in Elaeis guineensis.</strong><br />
 Subki, A., Ho, C. L., Ismail, N. F. N., Aa, Z. A. & Zn, B. Y.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/32726320/" target="_blank">PLoS One 15, (2020).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/32726320/" target="_blank">PLoS One 15, (2020).</a>
+<br /><br /></p>
                 
 <p><strong>[22] Subsite Ligand Recognition and Cooperativity in the TPP Riboswitch: Implications for Fragment-Linking in RNA Ligand Discovery.</strong><br />
 Zeller, M. J. et al.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/35060698/" target="_blank">ACS Chem. Biol. 17, (2022).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/35060698/" target="_blank">ACS Chem. Biol. 17, (2022).</a>
+<br /><br /></p>
                 
 <p><strong>[23] SHAPE-enabled fragment-based ligand discovery for RNA.</strong><br />
 Zeller, M. J. et al.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/35561226/" target="_blank">Proc. Natl. Acad. Sci. U. S. A. 119, (2022).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/35561226/" target="_blank">Proc. Natl. Acad. Sci. U. S. A. 119, (2022).</a>
+<br /><br /></p>
                 

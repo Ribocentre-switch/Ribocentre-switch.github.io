@@ -8,22 +8,67 @@ permalink: /docs/2'-dG/
 <p style="font-size: 24px"><strong>Rfam ID: [RF00167](https://rfam.xfam.org/family/RF00167,target="_blank")(Purine riboswitch)</strong> <br /></p>
 <p style="font-size: 24px"><strong>&emsp;&emsp;&emsp;&emsp;[RF03165](https://rfam.xfam.org/family/RF03165,target="_blank")(2dG-II)</strong> <br /></p>
 
+<br />
+<html>
+<head>
+  <title>横向排列的点击按钮</title>
+  <style>
+    /* 按钮容器样式 */
+    .button-container {
+      display: flex;
+      justify-content: left;
+      align-items: center;
+      height: 50px;
+    }
+    
+    /* 按钮样式 */
+    .button {
+      display: block;
+      padding: 10px;
+      margin-right: 10px;
+      text-align: center;
+      background-color: #efefef;
+      color: #005826;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    
+    /* 鼠标悬停样式 */
+    .button:hover {
+      background-color: #999;
+      cursor: pointer;
+    }
+  </style>
+</head>
+<body>
+  <p style="font-size: 24px">Click into different sections:</p>
+  
+  <div class="button-container">
+    <a class="button" href="#timeline" style="bold">Timeline</a>
+    <a class="button" href="#description">Description</a>
+    <a class="button" href="#Structure and Ligand recognition">Structure&recognition</a>
+    <a class="button" href="#references">References</a>
+  </div>
+</body>
+</html>
+
 <html lang="zh-cn">
 <head>
 <meta charset="utf-8"> 
 <style>
   .header_box {
     border: none;
-    border-bottom: 4px solid #005826;
     background: #efefef;
     font-size:28px
+  }
+  blockquote {
+  margin: 0 0 0px;
   }
 </style>
 </head>
 <p><br /></p>
 <p class="header_box">Timeline</p>
-<p><br /></p>
-<div class="timeline">
+<div class="timeline" id="timeline">
   <div class="year">
     <div class="inner">
       <span>Start</span>
@@ -79,16 +124,15 @@ permalink: /docs/2'-dG/
   </div>
 </div>
 </html>
+<p><br /></p>
         
-<p class="header_box">Description</p>
-***
+<p class="header_box" id="description">Description</p>
 <font size="4">Carrying an aptamer domain similar in sequence and secondary structure to the guanine riboswitch, the 2'-dG riboswitch exhibits improved affinities for 2'-deoxyguanosine (2'-dG), 3'-deoxyguanosine (3'-dG) and guanosine, and contains a uracil ribonucleotide in a conserved position of the ligand-binding aptamer domain. Up to now, three classes of 2'-dG riboswitches, named 2'-dG-I, 2'-dG-II and 2'-dG-III, have been identified, wherein the first two classes of 2'-dG riboswitches have atomic-resolution structural models<sup>[2-6]</sup>.</font>
 <p><br /></p>
             
 > Gene association
         
 <font size="4">The gene associateds with 2'-dG-I, 2'-dG-II and 2'-dG-III RNAs are different from each other. 2'-dG-I RNAs are associated with genes annotated as ribonucleotide reductase. Genes located downstream from 2'-dG-II RNAs are predicted to encode a signal receiver domain, endonuclease I, phospholipase D, and ComEC. ComEC is a competence protein involved in importing foreign DNA and endonuclease I could mitigate a lack of 2'-dG by salvaging deoxyribonuc. 2'-dG-III RNAs are associated with genes encoding for purine nucleoside hydrolase, which uses nucleosides as substrates and produces free nucleobases as products<sup>[2,4,6]</sup>.</font>
-<p><br /></p>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;">
 <tr >
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
@@ -109,7 +153,7 @@ permalink: /docs/2'-dG/
 </table>
 <p><br /></p>
                     
-<p class="header_box">Structure and Ligand recognition</p>
+<p class="header_box" id="Structure and Ligand recognition">Structure and Ligand recognition</p>
 > 2D representation
         
 <font size=4>Left: Consensus sequence and secondary structure model for riboswitches that recognize purines, which are dominated by guanine riboswitches. Right: Secondary structure depictions of the 2'-dG-II riboswitch according to PDB ID: 6P2H<sup>[1, 4, 6]</sup>.</font><br>
@@ -148,7 +192,7 @@ permalink: /docs/2'-dG/
     <div class="main-container">
         <div class="zoom-wrapper1">
             <div class="zoom-area1">
-                <img src="/images/2D/2-dG_riboswitch_2D1.svg" alt="drawing" style="width:400px" />
+                <img src="/images/2D/2-dG_riboswitch_2D1.svg" alt="drawing" style="width:40px" />
             </div>
         </div>
     </div>
@@ -177,7 +221,7 @@ permalink: /docs/2'-dG/
     <div class="main-container">
         <div class="zoom-wrapper2">
             <div class="zoom-area2">
-                <img src="/images/2D/2-dG_riboswitch_2D2.svg" alt="drawing" style="width:400px" />
+                <img src="/images/2D/2-dG_riboswitch_2D2.svg" alt="drawing" style="width:40px" />
             </div>
         </div>
     </div>
@@ -192,6 +236,7 @@ permalink: /docs/2'-dG/
     </script>
 </td>
 </tr></table><br>
+<p><br /></p>
                 
 > 3D visualisation
             
@@ -342,6 +387,7 @@ permalink: /docs/2'-dG/
     </body>
     </html></td>
   </tr></table><br>
+  <p><br /></p>
                 
 <font size=4>The overall structure of the 2'-dG-II riboswitch was generated from PDB ID: 6P2H at 2.80 Å resolution bound with 2'-dG. 2'-dG (shown in sticks) is labeled in red <sup>[5]</sup>.</font>
   <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
@@ -490,6 +536,7 @@ permalink: /docs/2'-dG/
     </body>
     </html></td>
   </tr></table><br>
+  <p><br /></p>
                 
 > Binding pocket
                 
@@ -499,6 +546,7 @@ permalink: /docs/2'-dG/
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/2-dG_riboswitch_binding_pockets2.svg" alt="drawing" style="width:400px"  px="" /></td>
 </tr>
 </table>
+<p><br /></p>
                     
 <font size=4><p>Left: Surface representation of the binding pocket of the 2'-dG-II riboswitch generated from PDB ID: 6P2H. 2'-dG (shown in sticks) is labeled in red. Right: The hydrogen bonds of the binding sites of the 2'-dG-II riboswitch bound with 2'-dG<sup>[5]</sup>.<br /></p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
@@ -506,6 +554,7 @@ permalink: /docs/2'-dG/
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/2-dG_riboswitch_binding_pockets4.svg" alt="drawing" style="width:400px"  px="" /></td>
 </tr>
 </table>
+<p><br /></p>
                     
 > Ligand recognition
             
@@ -521,30 +570,35 @@ permalink: /docs/2'-dG/
 </table>
 <p><br /></p>
                 
-<p class="header_box">References</p>
-<p><br /></p>
+<p class="header_box" id="references">References</p>
             
 <p><strong>[1] Interactions between deoxyribonucleotide and DNA synthesis</strong><br />
 Reichard, P<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/3052277/" target="_blank">Annu. Rev. Biochem. 57, (1988)</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/3052277/" target="_blank">Annu. Rev. Biochem. 57, (1988)</a>
+<br /><br /></p>
                 
 <p><strong>[2] Guanine riboswitch variants from Mesoplasma florum selectively recognize  2'-deoxyguanosine</strong><br />
 Kim, J. N., Roth, A. & Breaker, R. R<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/17911257/" target="_blank">Proc. Natl. Acad. Sci. U. S. A. 104, (2007)</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/17911257/" target="_blank">Proc. Natl. Acad. Sci. U. S. A. 104, (2007)</a>
+<br /><br /></p>
                 
 <p><strong>[3] Structural principles of nucleoside selectivity in a 2′-deoxyguanosine riboswitch</strong><br />
 Pikovskaya, O., Polonskaia, A., Patel, D. J. & Serganov, A<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/21841796/" target="_blank">Nat. Chem. Biol. 7, (2011)</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/21841796/" target="_blank">Nat. Chem. Biol. 7, (2011)</a>
+<br /><br /></p>
                 
 <p><strong>[4] Bioinformatic analysis of riboswitch structures uncovers variant classes with altered ligand specificity</strong><br />
 Weinberg, Z., Nelson, J. W., Lünse, C. E., Sherlock, M. E. & Breaker, R. R<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/28265071/" target="_blank">Proc. Natl. Acad. Sci. U. S. A. 114, (2017)</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/28265071/" target="_blank">Proc. Natl. Acad. Sci. U. S. A. 114, (2017)</a>
+<br /><br /></p>
                 
 <p><strong>[5] Structural basis for 2′-deoxyguanosine recognition by the 2′-dG-II class of riboswitches</strong><br />
 Matyjasik, M. M. & Batey, R. T<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/31598729/" target="_blank">Nucleic Acids Res. 47, (2019)</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/31598729/" target="_blank">Nucleic Acids Res. 47, (2019)</a>
+<br /><br /></p>
                 
 <p><strong>[6] Variants of the guanine riboswitch class exhibit altered ligand specificities for xanthine, guanine, or 2′-deoxyguanosine</strong><br />
 Hamal, D. S., Panchapakesan, S. S. S., Slattery, P., Roth, A. & Breaker, R. R<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/35622895/" target="_blank">Proc. Natl. Acad. Sci. U. S. A. 119, (2022)</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/35622895/" target="_blank">Proc. Natl. Acad. Sci. U. S. A. 119, (2022)</a>
+<br /><br /></p>
                 

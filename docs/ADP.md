@@ -7,22 +7,67 @@ permalink: /docs/ADP/
 ---
 <p style="font-size: 24px"><strong>Rfam ID: [nan](https://rfam.xfam.org/family/nan,target="_blank")(nan)</strong> <br /></p>
 
+<br />
+<html>
+<head>
+  <title>横向排列的点击按钮</title>
+  <style>
+    /* 按钮容器样式 */
+    .button-container {
+      display: flex;
+      justify-content: left;
+      align-items: center;
+      height: 50px;
+    }
+    
+    /* 按钮样式 */
+    .button {
+      display: block;
+      padding: 10px;
+      margin-right: 10px;
+      text-align: center;
+      background-color: #efefef;
+      color: #005826;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    
+    /* 鼠标悬停样式 */
+    .button:hover {
+      background-color: #999;
+      cursor: pointer;
+    }
+  </style>
+</head>
+<body>
+  <p style="font-size: 24px">Click into different sections:</p>
+  
+  <div class="button-container">
+    <a class="button" href="#timeline" style="bold">Timeline</a>
+    <a class="button" href="#description">Description</a>
+    <a class="button" href="#Structure and Ligand recognition">Structure&recognition</a>
+    <a class="button" href="#references">References</a>
+  </div>
+</body>
+</html>
+
 <html lang="zh-cn">
 <head>
 <meta charset="utf-8"> 
 <style>
   .header_box {
     border: none;
-    border-bottom: 4px solid #005826;
     background: #efefef;
     font-size:28px
+  }
+  blockquote {
+  margin: 0 0 0px;
   }
 </style>
 </head>
 <p><br /></p>
 <p class="header_box">Timeline</p>
-<p><br /></p>
-<div class="timeline">
+<div class="timeline" id="timeline">
   <div class="year">
     <div class="inner">
       <span>Start</span>
@@ -70,16 +115,15 @@ permalink: /docs/ADP/
   </div>
 </div>
 </html>
+<p><br /></p>
         
-<p class="header_box">Description</p>
-***
+<p class="header_box" id="description">Description</p>
 <font size="4">The <i>ykkC</i> RNAs were initially found in 2004 and in 2017,<i>ykkC</i> subtype 2 RNAs were separated from <i>ykkC</i> RNAs. Further analysis of the RNA sequences and consensus models of <i>ykkC</i> subtype 2 RNAs, and the assessment of the diverse types of genes found downstream of these RNAs, revealed that there are probably at least four additional distinct riboswitch classes present within the <i>ykkC</i> subtype 2 collection, termed <i>ykkC</i> subtypes 2a-2d. At last, <i>ykkC</i> subtype 2c RNAs were proved to recognize adenosine and cytidine 5′-diphosphate molecules in either their ribose or deoxyribose forms (ADP, dADP, CDP, and dCDP)<sup>[2-4]</sup>.</font>
 <p><br /></p>
             
 > Gene association
         
 <font size="4">Nearly all <i>ykkC</i> subtype 2c RNAs are located upstream of genes encoding Nucleoside Diphosphate linked to X (NUDIX) hydrolases. NUDIX hydrolases make up a broad family of proteins that cleave the phosphoester bond between the <i>α</i>- and <i>β</i>-phosphate moieties of various nucleotide substrates. Some nucleoside di- and triphosphate substrates can carry a ribose or a deoxyribose moiety (gray shading)<sup>[4]</sup>.</font>
-<p><br /></p>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;">
 <tr >
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
@@ -100,7 +144,7 @@ permalink: /docs/ADP/
 </table>
 <p><br /></p>
                     
-<p class="header_box">Structure and Ligand recognition</p>
+<p class="header_box" id="Structure and Ligand recognition">Structure and Ligand recognition</p>
 > 2D representation
         
 <font size=4>Left: Consensus sequence and secondary structure model for the PRA riboswitch. <sup>[4]</sup>.</font><br>
@@ -139,7 +183,7 @@ permalink: /docs/ADP/
     <div class="main-container">
         <div class="zoom-wrapper1">
             <div class="zoom-area1">
-                <img src="/images/2D/ADP_riboswitch_2D1.svg" alt="drawing" style="width:400px" />
+                <img src="/images/2D/ADP_riboswitch_2D1.svg" alt="drawing" style="width:40px" />
             </div>
         </div>
     </div>
@@ -168,7 +212,7 @@ permalink: /docs/ADP/
     <div class="main-container">
         <div class="zoom-wrapper2">
             <div class="zoom-area2">
-                <img src="/images/2D/" alt="drawing" style="width:400px" />
+                <img src="/images/2D/" alt="drawing" style="width:40px" />
             </div>
         </div>
     </div>
@@ -183,6 +227,7 @@ permalink: /docs/ADP/
     </script>
 </td>
 </tr></table><br>
+<p><br /></p>
                 
 > 3D visualisation
             
@@ -202,22 +247,25 @@ permalink: /docs/ADP/
 </table>
 <p><br /></p>
                 
-<p class="header_box">References</p>
-<p><br /></p>
+<p class="header_box" id="references">References</p>
             
 <p><strong>[1] New RNA motifs suggest an expanded scope for riboswitches in bacterial genetic control</strong><br />
 Barrick, J. E. et al<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/15096624/" target="_blank">Proc. Natl. Acad. Sci. U. S. A. 101, 6421–6426 (2004)</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/15096624/" target="_blank">Proc. Natl. Acad. Sci. U. S. A. 101, 6421–6426 (2004)</a>
+<br /><br /></p>
                 
 <p><strong>[2] Metabolism of Free Guanidine in Bacteria Is Regulated by a Widespread Riboswitch Class</strong><br />
 Nelson, J. W., Atilho, R. M., Sherlock, M. E., Stockbridge, R. B. & Breaker, R. R<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/27989440/" target="_blank">Mol. Cell 65, 220–230 (2017)</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/27989440/" target="_blank">Mol. Cell 65, 220–230 (2017)</a>
+<br /><br /></p>
                 
 <p><strong>[3] Tandem riboswitches form a natural Boolean logic gate to control purine metabolism in bacteria</strong><br />
 Sherlock, M. E., Sudarsan, N., Stav, S. & Breaker, R. R<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/29504937/" target="_blank">Elife 7, (2018)</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/29504937/" target="_blank">Elife 7, (2018)</a>
+<br /><br /></p>
                 
 <p><strong>[4] Variant Bacterial Riboswitches Associated with Nucleotide Hydrolase Genes Sense Nucleoside Diphosphates</strong><br />
 Sherlock, M. E., Sadeeshkumar, H. & Breaker, R. R<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/30081631/" target="_blank">Biochemistry 58, 401–410 (2019)</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/30081631/" target="_blank">Biochemistry 58, 401–410 (2019)</a>
+<br /><br /></p>
                 

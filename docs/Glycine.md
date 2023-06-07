@@ -7,22 +7,67 @@ permalink: /docs/Glycine/
 ---
 <p style="font-size: 24px"><strong>Rfam ID: [RF00504](https://rfam.xfam.org/family/RF00504,target="_blank")(Glycine riboswitch)</strong> <br /></p>
 
+<br />
+<html>
+<head>
+  <title>横向排列的点击按钮</title>
+  <style>
+    /* 按钮容器样式 */
+    .button-container {
+      display: flex;
+      justify-content: left;
+      align-items: center;
+      height: 50px;
+    }
+    
+    /* 按钮样式 */
+    .button {
+      display: block;
+      padding: 10px;
+      margin-right: 10px;
+      text-align: center;
+      background-color: #efefef;
+      color: #005826;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    
+    /* 鼠标悬停样式 */
+    .button:hover {
+      background-color: #999;
+      cursor: pointer;
+    }
+  </style>
+</head>
+<body>
+  <p style="font-size: 24px">Click into different sections:</p>
+  
+  <div class="button-container">
+    <a class="button" href="#timeline" style="bold">Timeline</a>
+    <a class="button" href="#description">Description</a>
+    <a class="button" href="#Structure and Ligand recognition">Structure&recognition</a>
+    <a class="button" href="#references">References</a>
+  </div>
+</body>
+</html>
+
 <html lang="zh-cn">
 <head>
 <meta charset="utf-8"> 
 <style>
   .header_box {
     border: none;
-    border-bottom: 4px solid #005826;
     background: #efefef;
     font-size:28px
+  }
+  blockquote {
+  margin: 0 0 0px;
   }
 </style>
 </head>
 <p><br /></p>
 <p class="header_box">Timeline</p>
-<p><br /></p>
-<div class="timeline">
+<div class="timeline" id="timeline">
   <div class="year">
     <div class="inner">
       <span>Start</span>
@@ -150,9 +195,9 @@ permalink: /docs/Glycine/
   </div>
 </div>
 </html>
+<p><br /></p>
         
-<p class="header_box">Description</p>
-***
+<p class="header_box" id="description">Description</p>
 <font size="4">The bacterial glycine riboswitch is an RNA element that can bind the amino acid glycine. Glycine riboswitches usually consist of two metabolite-binding aptamer domains with similar structures in tandem. The aptamers were originally thought to cooperatively bind glycine to regulate the expression of downstream genes. In <i>Bacillus subtilis</i>, this riboswitch is found upstream of the <i>gcvT</i> operon which controls glycine degradation. It is thought that when glycine is in excess it will bind to both aptamers to activate these genes and facilitate glycine degradation<sup></sup>.</font>
 <p><br /></p>
             
@@ -169,7 +214,7 @@ permalink: /docs/Glycine/
 </table>
 <p><br /></p>
                     
-<p class="header_box">Structure and Ligand recognition</p>
+<p class="header_box" id="Structure and Ligand recognition">Structure and Ligand recognition</p>
 > 2D representation
         
 <font size=4>(Left) Consensus sequence and secondary structure model for glycine riboswitch. (Right) Secondary structure depictions of glycine riboswitch according to PDB ID:3OWZ<sup>[1,4]</sup>.</font><br>
@@ -208,7 +253,7 @@ permalink: /docs/Glycine/
     <div class="main-container">
         <div class="zoom-wrapper1">
             <div class="zoom-area1">
-                <img src="/images/2D/Glycine_riboswitch_2D1.svg" alt="drawing" style="width:400px" />
+                <img src="/images/2D/Glycine_riboswitch_2D1.svg" alt="drawing" style="width:40px" />
             </div>
         </div>
     </div>
@@ -237,7 +282,7 @@ permalink: /docs/Glycine/
     <div class="main-container">
         <div class="zoom-wrapper2">
             <div class="zoom-area2">
-                <img src="/images/2D/Glycine_riboswitch_2D2.svg" alt="drawing" style="width:400px" />
+                <img src="/images/2D/Glycine_riboswitch_2D2.svg" alt="drawing" style="width:40px" />
             </div>
         </div>
     </div>
@@ -252,6 +297,7 @@ permalink: /docs/Glycine/
     </script>
 </td>
 </tr></table><br>
+<p><br /></p>
                 
 > 3D visualisation
             
@@ -396,6 +442,7 @@ permalink: /docs/Glycine/
     </body>
     </html></td>
   </tr></table><br>
+  <p><br /></p>
                 
 > Binding pocket
                 
@@ -405,6 +452,7 @@ permalink: /docs/Glycine/
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/Glycine_riboswitch_binding_pockets2.svg" alt="drawing" style="width:400px"  px="" /></td>
 </tr>
 </table>
+<p><br /></p>
                     
 > Ligand recognition
             
@@ -420,70 +468,85 @@ permalink: /docs/Glycine/
 </table>
 <p><br /></p>
                 
-<p class="header_box">References</p>
-<p><br /></p>
+<p class="header_box" id="references">References</p>
             
 <p><strong>[1] A glycine-dependent riboswitch that uses cooperative binding to control gene expression</strong><br />
 Mandal, M. et al.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/15472076/" target="_blank">Science 306, 275–279 (2004).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/15472076/" target="_blank">Science 306, 275–279 (2004).</a>
+<br /><br /></p>
                 
 <p><strong>[2] Structural transitions and thermodynamics of a glycine-dependent riboswitch from Vibrio cholerae</strong><br />
 Lipfert, J. et al.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/17118400/" target="_blank">J. Mol. Biol. 365, 1393–1406 (2007).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/17118400/" target="_blank">J. Mol. Biol. 365, 1393–1406 (2007).</a>
+<br /><br /></p>
                 
 <p><strong>[3] Chemical basis of glycine riboswitch cooperativity</strong><br />
 Kwon, M. & Strobel, S. A.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/18042658/" target="_blank">RNA 14, 25–34 (2008).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/18042658/" target="_blank">RNA 14, 25–34 (2008).</a>
+<br /><br /></p>
                 
 <p><strong>[4] Structural insights into ligand recognition by a sensing domain of the cooperative glycine riboswitch</strong><br />
 Huang, L., Serganov, A. & Patel, D. J.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/21145485/" target="_blank">Mol. Cell 40, 774–786 (2010).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/21145485/" target="_blank">Mol. Cell 40, 774–786 (2010).</a>
+<br /><br /></p>
                 
 <p><strong>[5] Dissecting electrostatic screening, specific ion binding, and ligand binding in an energetic model for glycine riboswitch folding</strong><br />
 Lipfert, J., Sim, A. Y. L., Herschlag, D. & Doniach, S.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/20194520/" target="_blank">RNA 16, 708–719 (2010).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/20194520/" target="_blank">RNA 16, 708–719 (2010).</a>
+<br /><br /></p>
                 
 <p><strong>[6] Structural basis of cooperative ligand binding by the glycine riboswitch</strong><br />
 Butler, E. B., Xiong, Y., Wang, J. & Strobel, S. A.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/21439473/" target="_blank">Chem. Biol. 18, 293–298 (2011).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/21439473/" target="_blank">Chem. Biol. 18, 293–298 (2011).</a>
+<br /><br /></p>
                 
 <p><strong>[7] Identification of a tertiary interaction important for cooperative ligand binding by the glycine riboswitch</strong><br />
 Erion, T. V. & Strobel, S. A.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/21098652/" target="_blank">RNA 17, 74–84 (2011).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/21098652/" target="_blank">RNA 17, 74–84 (2011).</a>
+<br /><br /></p>
                 
 <p><strong>[8] Ligand binding by the tandem glycine riboswitch depends on aptamer dimerization but not double ligand occupancy</strong><br />
 Ruff, K. M. & Strobel, S. A.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/25246650/" target="_blank">RNA 20, 1775–1788 (2014).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/25246650/" target="_blank">RNA 20, 1775–1788 (2014).</a>
+<br /><br /></p>
                 
 <p><strong>[9] Engineering and characterization of fluorogenic glycine riboswitches</strong><br />
 Ketterer, S., Gladis, L., Kozica, A. & Meier, M.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/27220466/" target="_blank">Nucleic Acids Res. 44, 5983–5992 (2016).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/27220466/" target="_blank">Nucleic Acids Res. 44, 5983–5992 (2016).</a>
+<br /><br /></p>
                 
 <p><strong>[10] Singlet glycine riboswitches bind ligand as well as tandem riboswitches</strong><br />
 Ruff, K. M., Muhammad, A., McCown, P. J., Breaker, R. R. & Strobel, S. A.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/27659053/" target="_blank">RNA 22, 1728–1738 (2016).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/27659053/" target="_blank">RNA 22, 1728–1738 (2016).</a>
+<br /><br /></p>
                 
 <p><strong>[11] In Vivo Behavior of the Tandem Glycine Riboswitch in <i>Bacillus subtilis</i></strong><br />
 Babina, A. M., Lea, N. E. & Meyer, M. M.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/29089431/" target="_blank">MBio 8, (2017).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/29089431/" target="_blank">MBio 8, (2017).</a>
+<br /><br /></p>
                 
 <p><strong>[12] A Glycine Riboswitch in Controls Expression of a Sodium:Alanine Symporter Family Protein Gene</strong><br />
 Khani, A., Popp, N., Kreikemeyer, B. & Patenge, N.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/29527194/" target="_blank">Front. Microbiol. 9, 200 (2018).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/29527194/" target="_blank">Front. Microbiol. 9, 200 (2018).</a>
+<br /><br /></p>
                 
 <p><strong>[13] Characterization and Engineering of a Clostridium Glycine Riboswitch and Its Use To Control a Novel Metabolic Pathway for 5-Aminolevulinic Acid Production in <i>Escherichia coli</i></strong><br />
 Zhou, L. et al.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/31550137/" target="_blank">ACS Synth. Biol. 8, 2327–2335 (2019).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/31550137/" target="_blank">ACS Synth. Biol. 8, 2327–2335 (2019).</a>
+<br /><br /></p>
                 
 <p><strong>[14] Accelerated cryo-EM-guided determination of three-dimensional RNA-only structures</strong><br />
 Kappel, K. et al.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/32616928/" target="_blank">Nat. Methods 17, 699–707 (2020).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/32616928/" target="_blank">Nat. Methods 17, 699–707 (2020).</a>
+<br /><br /></p>
                 
 <p><strong>[15] The asymmetry and cooperativity of tandem glycine riboswitch aptamers</strong><br />
 Torgerson, C. D., Hiller, D. A. & Strobel, S. A.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/31992591/" target="_blank">RNA 26, 564–580 (2020).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/31992591/" target="_blank">RNA 26, 564–580 (2020).</a>
+<br /><br /></p>
                 
 <p><strong>[16] Development and characterization of a glycine biosensor system for fine-tuned metabolic regulation in Escherichia coli</strong><br />
 Hong, K.-Q., Zhang, J., Jin, B., Chen, T. & Wang, Z.-W.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/35392910/" target="_blank">Microb. Cell Fact. 21, 56 (2022).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/35392910/" target="_blank">Microb. Cell Fact. 21, 56 (2022).</a>
+<br /><br /></p>
                 

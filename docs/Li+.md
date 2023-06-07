@@ -8,22 +8,67 @@ permalink: /docs/Li<sup>+</sup>/
 <p style="font-size: 24px"><strong>Rfam ID: [RF03057](https://rfam.xfam.org/family/RF03057,target="_blank")(nhaA-I RNA)</strong> <br /></p>
 <p style="font-size: 24px"><strong>&emsp;&emsp;&emsp;&emsp;[RF03038](https://rfam.xfam.org/family/RF03038,target="_blank")(nhaA-II RNA)</strong> <br /></p>
 
+<br />
+<html>
+<head>
+  <title>横向排列的点击按钮</title>
+  <style>
+    /* 按钮容器样式 */
+    .button-container {
+      display: flex;
+      justify-content: left;
+      align-items: center;
+      height: 50px;
+    }
+    
+    /* 按钮样式 */
+    .button {
+      display: block;
+      padding: 10px;
+      margin-right: 10px;
+      text-align: center;
+      background-color: #efefef;
+      color: #005826;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    
+    /* 鼠标悬停样式 */
+    .button:hover {
+      background-color: #999;
+      cursor: pointer;
+    }
+  </style>
+</head>
+<body>
+  <p style="font-size: 24px">Click into different sections:</p>
+  
+  <div class="button-container">
+    <a class="button" href="#timeline" style="bold">Timeline</a>
+    <a class="button" href="#description">Description</a>
+    <a class="button" href="#Structure and Ligand recognition">Structure&recognition</a>
+    <a class="button" href="#references">References</a>
+  </div>
+</body>
+</html>
+
 <html lang="zh-cn">
 <head>
 <meta charset="utf-8"> 
 <style>
   .header_box {
     border: none;
-    border-bottom: 4px solid #005826;
     background: #efefef;
     font-size:28px
+  }
+  blockquote {
+  margin: 0 0 0px;
   }
 </style>
 </head>
 <p><br /></p>
 <p class="header_box">Timeline</p>
-<p><br /></p>
-<div class="timeline">
+<div class="timeline" id="timeline">
   <div class="year">
     <div class="inner">
       <span>Start</span>
@@ -55,9 +100,9 @@ permalink: /docs/Li<sup>+</sup>/
   </div>
 </div>
 </html>
+<p><br /></p>
         
-<p class="header_box">Description</p>
-***
+<p class="header_box" id="description">Description</p>
 <font size="4">The <i>nhaA</i>-I RNA motif is a conserved RNA structure that was discovered by bioinformatics. <i>nhaA</i>-I motif RNAs are found in Acidobacteriota, alpha-, beta- and Gammaproteobacteria, Verrucomicrobiota and the tentative phylum NC10 (see bacterial phyla and List of taxa with candidatus status).
 <i>nhaA</i>-I motif RNAs likely function as cis-regulatory elements, in view of their positions upstream of protein-coding genes. Indeed, it is reasonable to speculate that <i>nhaA</i>-I RNAs directly bind a ligand, and therefore function as riboswitches, in view of their widespread distribution and conserved nucleotide positions. <i>nhaA</i>-I RNAs typically occur upstream of genes that encode exchangers of sodium ions and protons. More rarely, they also exist upstream of genes that encode DUF1646 protein domains, or that are involved in cell signaling or peptidoglycan. DUF1646-coding genes are also regulated by the DUF1646 RNA motif, which also has a potential association with sodium ions. <i>nhaA</i>-I RNAs also sometimes occur in tandem pairs, with two such RNAs nearby to one another. Such arrangements have been proposed to implement cooperative binding to more digitally regulate gene expression, although the biology underlying these tandem arrangements of <i>nhaA</i>-I RNAs is, as of 2018, unknown.
 The <i>nhaA</i>-II RNA motif is a conserved RNA structure that was discovered by bioinformatics. <i>nhaA</i>-II motifs are found in Caulobacterales.
@@ -68,7 +113,6 @@ In 2022, Breaker et al. identified <i>nhaA</i>-I motif and <i>nhaA</i>-II motif 
 > Gene association
         
 <font size="4">Annotated functions of proteins encoded by genes commonly associated with the two riboswitch candidates<sup>[2]</sup>.</font>
-<p><br /></p>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;">
 <tr >
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
@@ -80,7 +124,7 @@ In 2022, Breaker et al. identified <i>nhaA</i>-I motif and <i>nhaA</i>-II motif 
                 
 > Gene regulation
             
-<p class="header_box">Structure and Ligand recognition</p>
+<p class="header_box" id="Structure and Ligand recognition">Structure and Ligand recognition</p>
 > 2D representation
         
 <font size=4>Consensus secondary structure and sequence conservation of Li<sup>+</sup> riboswitch<sup></sup>.</font><br>
@@ -119,7 +163,7 @@ In 2022, Breaker et al. identified <i>nhaA</i>-I motif and <i>nhaA</i>-II motif 
     <div class="main-container">
         <div class="zoom-wrapper1">
             <div class="zoom-area1">
-                <img src="/images/2D/Li+_riboswitch_2D.svg" alt="drawing" style="width:400px" />
+                <img src="/images/2D/Li+_riboswitch_2D.svg" alt="drawing" style="width:40px" />
             </div>
         </div>
     </div>
@@ -148,7 +192,7 @@ In 2022, Breaker et al. identified <i>nhaA</i>-I motif and <i>nhaA</i>-II motif 
     <div class="main-container">
         <div class="zoom-wrapper2">
             <div class="zoom-area2">
-                <img src="/images/2D/" alt="drawing" style="width:400px" />
+                <img src="/images/2D/" alt="drawing" style="width:40px" />
             </div>
         </div>
     </div>
@@ -163,6 +207,7 @@ In 2022, Breaker et al. identified <i>nhaA</i>-I motif and <i>nhaA</i>-II motif 
     </script>
 </td>
 </tr></table><br>
+<p><br /></p>
                 
 > 3D visualisation
             
@@ -170,14 +215,15 @@ In 2022, Breaker et al. identified <i>nhaA</i>-I motif and <i>nhaA</i>-II motif 
                 
 > Ligand recognition
             
-<p class="header_box">References</p>
-<p><br /></p>
+<p class="header_box" id="references">References</p>
             
 <p><strong>[1] Detection of 224 candidate structured RNAs by comparative analysis of specific subsets of intergenic regions.</strong><br />
 Weinberg, Z. et al.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/28977401/" target="_blank">Nucleic Acids Res. 45, 10811–10823 (2017).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/28977401/" target="_blank">Nucleic Acids Res. 45, 10811–10823 (2017).</a>
+<br /><br /></p>
                 
 <p><strong>[2] Lithium-sensing riboswitch classes regulate expression of bacterial cation transporter genes.</strong><br />
 White, N., Sadeeshkumar, H., Sun, A., Sudarsan, N. & Breaker, R. R.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/36352003/" target="_blank">Sci. Rep. 12, 19145 (2022).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/36352003/" target="_blank">Sci. Rep. 12, 19145 (2022).</a>
+<br /><br /></p>
                 

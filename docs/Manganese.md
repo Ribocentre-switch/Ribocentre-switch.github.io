@@ -7,22 +7,67 @@ permalink: /docs/Manganese/
 ---
 <p style="font-size: 24px"><strong>Rfam ID: [RF00080](https://rfam.xfam.org/family/RF00080,target="_blank")(<i>yybP-ykoY</i> manganese riboswitch)</strong> <br /></p>
 
+<br />
+<html>
+<head>
+  <title>横向排列的点击按钮</title>
+  <style>
+    /* 按钮容器样式 */
+    .button-container {
+      display: flex;
+      justify-content: left;
+      align-items: center;
+      height: 50px;
+    }
+    
+    /* 按钮样式 */
+    .button {
+      display: block;
+      padding: 10px;
+      margin-right: 10px;
+      text-align: center;
+      background-color: #efefef;
+      color: #005826;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    
+    /* 鼠标悬停样式 */
+    .button:hover {
+      background-color: #999;
+      cursor: pointer;
+    }
+  </style>
+</head>
+<body>
+  <p style="font-size: 24px">Click into different sections:</p>
+  
+  <div class="button-container">
+    <a class="button" href="#timeline" style="bold">Timeline</a>
+    <a class="button" href="#description">Description</a>
+    <a class="button" href="#Structure and Ligand recognition">Structure&recognition</a>
+    <a class="button" href="#references">References</a>
+  </div>
+</body>
+</html>
+
 <html lang="zh-cn">
 <head>
 <meta charset="utf-8"> 
 <style>
   .header_box {
     border: none;
-    border-bottom: 4px solid #005826;
     background: #efefef;
     font-size:28px
+  }
+  blockquote {
+  margin: 0 0 0px;
   }
 </style>
 </head>
 <p><br /></p>
 <p class="header_box">Timeline</p>
-<p><br /></p>
-<div class="timeline">
+<div class="timeline" id="timeline">
   <div class="year">
     <div class="inner">
       <span>Start</span>
@@ -86,16 +131,15 @@ permalink: /docs/Manganese/
   </div>
 </div>
 </html>
+<p><br /></p>
         
-<p class="header_box">Description</p>
-***
+<p class="header_box" id="description">Description</p>
 <font size="4">The <i>yybP-ykoY</i> leader RNA element was originally discovered in <i>E</i>. coli during a large scale screen and was named SraF. This family was later found to exist upstream of related families of protein genes in many bacteria, including the yybP and ykoY genes in <i>B</i>. subtilis. The specific functions of these proteins are unknown, but this structured RNA element may be involved in their genetic regulation as a riboswitch. The <i>yybP-ykoY</i> element was later proposed to be manganese-responsive after another associated family of genes, YebN/MntP, was shown to encode Mn<sup>2+</sup> efflux pumps in several bacteria. Genetic data and a crystal structure confirmed that <i>yybP-ykoY</i> is a manganese riboswitch that directly binds Mn<sup>2+</sup> (From Wikipedia)<sup></sup>.</font>
 <p><br /></p>
             
 > Gene association
         
 <font size="4">Network of genes immediately downstream of the <i>yybP-ykoY</i> riboswitch are predicted to have roles in protecting against metal toxicity. P-ZnR denotes proteins with a peptidase-associated zinc-ribbon and MetJ-Arc denotes proteins with MetJ-Arc DNA-binding domains<sup>[2]</sup>.</font>
-<p><br /></p>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;">
 <tr >
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
@@ -116,7 +160,7 @@ permalink: /docs/Manganese/
 </table>
 <p><br /></p>
                     
-<p class="header_box">Structure and Ligand recognition</p>
+<p class="header_box" id="Structure and Ligand recognition">Structure and Ligand recognition</p>
 > 2D representation
         
 <font size=4>Left: Consensus sequence and secondary structure model for the <i>yybP-ykoY</i> manganese riboswitch. Right: Secondary structure depictions of the <i>yybP-ykoY</i> manganese riboswitch according to PDB ID: 4Y1I<sup>[3]</sup>.</font><br>
@@ -155,7 +199,7 @@ permalink: /docs/Manganese/
     <div class="main-container">
         <div class="zoom-wrapper1">
             <div class="zoom-area1">
-                <img src="/images/2D/yybP-ykoY_manganese_riboswitch_2D1.svg" alt="drawing" style="width:400px" />
+                <img src="/images/2D/yybP-ykoY_manganese_riboswitch_2D1.svg" alt="drawing" style="width:40px" />
             </div>
         </div>
     </div>
@@ -184,7 +228,7 @@ permalink: /docs/Manganese/
     <div class="main-container">
         <div class="zoom-wrapper2">
             <div class="zoom-area2">
-                <img src="/images/2D/" alt="drawing" style="width:400px" />
+                <img src="/images/2D/" alt="drawing" style="width:40px" />
             </div>
         </div>
     </div>
@@ -199,6 +243,7 @@ permalink: /docs/Manganese/
     </script>
 </td>
 </tr></table><br>
+<p><br /></p>
                 
 > 3D visualisation
             
@@ -361,6 +406,7 @@ permalink: /docs/Manganese/
     </body>
     </html></td>
   </tr></table><br>
+  <p><br /></p>
                 
 > Binding pocket
                 
@@ -370,6 +416,7 @@ permalink: /docs/Manganese/
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/yybP-ykoY_manganese_riboswitch_ binding_pockets2.svg" alt="drawing" style="width:400px"  px="" /></td>
 </tr>
 </table>
+<p><br /></p>
                     
 > Ligand recognition
             
@@ -385,30 +432,35 @@ permalink: /docs/Manganese/
 </table>
 <p><br /></p>
                 
-<p class="header_box">References</p>
-<p><br /></p>
+<p class="header_box" id="references">References</p>
             
 <p><strong>[1] New RNA motifs suggest an expanded scope for riboswitches in bacterial genetic control.</strong><br />
 Barrick, J. E. et al.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/15096624/" target="_blank">Proc. Natl. Acad. Sci. U. S. A. 101, 6421–6426 (2004).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/15096624/" target="_blank">Proc. Natl. Acad. Sci. U. S. A. 101, 6421–6426 (2004).</a>
+<br /><br /></p>
                 
 <p><strong>[2] The ubiquitous yybP-ykoY riboswitch is a manganese-responsive regulatory element.</strong><br />
 Dambach, M. et al.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/25794618/" target="_blank">Mol. Cell 57, 1099–1109 (2015).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/25794618/" target="_blank">Mol. Cell 57, 1099–1109 (2015).</a>
+<br /><br /></p>
                 
 <p><strong>[3] Mn(2+)-sensing mechanisms of yybP-ykoY orphan riboswitches.</strong><br />
 Price, I. R., Gaballa, A., Ding, F., Helmann, J. D. & Ke, A.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/25794619/" target="_blank">Mol. Cell 57, 1110–1123 (2015).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/25794619/" target="_blank">Mol. Cell 57, 1110–1123 (2015).</a>
+<br /><br /></p>
                 
 <p><strong>[4] Convergent Use of Heptacoordination for Cation Selectivity by RNA and Protein Metalloregulators.</strong><br />
 Bachas, S. T. & Ferré-D’Amaré, A. R.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/29805037/" target="_blank">Cell Chem Biol 25, 962–973.e5 (2018).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/29805037/" target="_blank">Cell Chem Biol 25, 962–973.e5 (2018).</a>
+<br /><br /></p>
                 
 <p><strong>[5] A Mn-sensing riboswitch activates expression of a Mn2+/Ca2+ ATPase transporter in Streptococcus.</strong><br />
 Martin, J. E. et al.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/31165873/" target="_blank">Nucleic Acids Res. 47, 6885–6899 (2019).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/31165873/" target="_blank">Nucleic Acids Res. 47, 6885–6899 (2019).</a>
+<br /><br /></p>
                 
 <p><strong>[6] Local-to-global signal transduction at the core of a Mn sensing riboswitch.</strong><br />
 Suddala, K. C. et al.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/31541094/" target="_blank">Nat. Commun. 10, 4304 (2019).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/31541094/" target="_blank">Nat. Commun. 10, 4304 (2019).</a>
+<br /><br /></p>
                 

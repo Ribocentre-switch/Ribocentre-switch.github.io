@@ -38,59 +38,15 @@
         }
 
 		#now a{
-			color:#fff;
-			font-size: 20px;
+			color:#fff
 		}
 		#now a:hover{
 			font-size: 20px;
 		}
-	
 		
-li {
-    float: left;
-}
+  </style>
 
-li a {
-    display: block;
-    color: white;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-}
-
-li a:hover:not(.active) {
-    background-color: #005826;
-}
-
-li a.active {
-    background-color: #000000;
-}
-</style>
-<script>
-window.addEventListener("DOMContentLoaded", function() {
-  // 获取当前页面的URL
-  var currentURL = window.location.href;
-  
-  // 获取所有导航按钮
-  var navButtons = document.querySelectorAll("li a");
-  
-  // 遍历导航按钮
-  navButtons.forEach(function(button) {
-    // 获取按钮的链接
-    var buttonURL = button.href;
-    
-    // 比较URL是否与当前页面的URL匹配
-    if (currentURL === buttonURL) {
-      // 设置匹配的按钮为激活状态
-      button.classList.add("active");
-    }
-  });
-});
-</script>
-		
-
-
-  <div class="container-fluid">
+  <div class="container-fluid" style="padding-left: 0px;padding-right: 0px;margin-top: 15px;">
 	<div class="navbar-header">
 	  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse-1" aria-expanded="false">
 		<span class="sr-only">Toggle navigation</span>
@@ -116,34 +72,93 @@ window.addEventListener("DOMContentLoaded", function() {
 		<li id="now"><a href="http://localhost:4000/Publications.html">Publications</a></li>
 		<li id="now"><a href="http://localhost:4000/404.html">Help</a></li>
 	  </ul>
-	  <script>
-		function setActive(element) {
-		  // 移除所有导航按钮的激活状态
-		  var navButtons = document.querySelectorAll("li a");
-		  navButtons.forEach(function(button) {
-			button.classList.remove("active");
-		  });
-	  
-		  // 给点击的按钮添加激活状态
-		  element.classList.add("active");
-		}
-	  </script>
    </div>
   </div>
 </div>
+
+
+
     
       <div class="container-fluid">
         <div class="row">
-          <article class="post" itemscope itemtype="http://schema.org/BlogPosting" >
-  <header class="post-header">
-    <h1 class="post-title" itemprop="name headline">Cobalamine</h1>
-    <p class="post-meta"><time datetime="2023-03-11T08:00:00+08:00" itemprop="datePublished">Mar 11, 2023</time> • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">Xiaowei Lin, Yuanyin Huang</span></span></p>
-  </header>
-
-  <div class="post-content" itemprop="articleBody">
-    <p style="font-size: 24px"><strong>Rfam ID: <a href="https://rfam.xfam.org/family/RF01482,target=&quot;_blank&quot;">RF01482</a>(AdoCbl riboswitch)</strong> <br /></p>
+          <style>
+  .box_style{
+    background: #f4f4f4;
+  }
+  .wrapper {
+    display: block;
+    position: relative;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    text-align: left;
+    word-wrap: break-word;
+    }
+  .sectiontitle {
+    display: block;
+    max-width: 80%;
+    margin: 0 auto ;
+    text-align: left;
+    background :#fff;
+    }
+</style>
+<div class="wrapper box_style" >
+  <section class="sectiontitle"> 
+    <article class="post" itemscope itemtype="http://schema.org/BlogPosting" >
+    <div class="well" style="border: 1px solid #C9C9C9; background-color: #fff;">
+      <div class="post-content" itemprop="articleBody">
+        <header class="post-header">
+          <h1 class="post-title" itemprop="name headline">Cobalamine</h1>
+          <p class="post-meta"><time datetime="2023-03-11T08:00:00+08:00" itemprop="datePublished">Mar 11, 2023</time> • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">Xiaowei Lin, Yuanyin Huang</span></span></p>
+        </header>
+      
+        <p style="font-size: 24px"><strong>Rfam ID: <a href="https://rfam.xfam.org/family/RF01482,target=&quot;_blank&quot;">RF01482</a>(AdoCbl riboswitch)</strong> <br /></p>
 <p style="font-size: 24px"><strong>    <a href="https://rfam.xfam.org/family/RF00174,target=&quot;_blank&quot;">RF00174</a>(Cobalamin riboswitch)</strong> <br /></p>
 <p style="font-size: 24px"><strong>    <a href="https://rfam.xfam.org/family/RF01689,target=&quot;_blank&quot;">RF01689</a>(AdoCbl variant RNA)</strong> <br /></p>
+
+<p><br /></p>
+<html>
+<head>
+  <title>横向排列的点击按钮</title>
+  <style>
+    /* 按钮容器样式 */
+    .button-container {
+      display: flex;
+      justify-content: left;
+      align-items: center;
+      height: 50px;
+    }
+    
+    /* 按钮样式 */
+    .button {
+      display: block;
+      padding: 10px;
+      margin-right: 10px;
+      text-align: center;
+      background-color: #efefef;
+      color: #005826;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    
+    /* 鼠标悬停样式 */
+    .button:hover {
+      background-color: #999;
+      cursor: pointer;
+    }
+  </style>
+</head>
+<body>
+  <p style="font-size: 24px">Click into different sections:</p>
+  
+  <div class="button-container">
+    <a class="button" href="#timeline" style="bold">Timeline</a>
+    <a class="button" href="#description">Description</a>
+    <a class="button" href="#Structure and Ligand recognition">Structure&amp;recognition</a>
+    <a class="button" href="#references">References</a>
+  </div>
+</body>
+</html>
 
 <html lang="zh-cn">
 <head>
@@ -151,16 +166,17 @@ window.addEventListener("DOMContentLoaded", function() {
 <style>
   .header_box {
     border: none;
-    border-bottom: 4px solid #005826;
     background: #efefef;
     font-size:28px
+  }
+  blockquote {
+  margin: 0 0 0px;
   }
 </style>
 </head>
 <p><br /></p>
 <p class="header_box">Timeline</p>
-<p><br /></p>
-<div class="timeline">
+<div class="timeline" id="timeline">
   <div class="year">
     <div class="inner">
       <span>Start</span>
@@ -272,9 +288,9 @@ window.addEventListener("DOMContentLoaded", function() {
   </div>
 </div>
 </html>
+<p><br /></p>
 
-<p class="header_box">Description</p>
-<hr />
+<p class="header_box" id="description">Description</p>
 <font size="4">Cobalamin riboswitch is a cis-regulatory element which is widely distributed in 5' untranslated regions of vitamin B12 (Cobalamin) related genes in bacteria.
 Cobalamin (vitamin B12, coenzyme B12 ) riboswitches are structured RNA elements that regulate adjacent genes related to cobalamin metabolism in response to cobalamin binding. Riboswitches are RNA-based genetic regulatory elements present in the 5’ untranslated region (5' UTR) of primarily bacterial RNA. These switches bind to a ligand, which is generally a metabolite, with high affinity and specificity. Ligand binding mediates allosteric rearrangement of mRNA structure, and this results in modulation of gene expression or translation of mRNA to yield a protein. The cobalamin riboswitch, along with most other riboswitches, are cis-regulatory. This means they regulate genes involved in the same metabolic pathways as the metabolite they bind, which creates regulation through a negative feedback loop. Riboswitches are grouped into classes by the ligand that they bind because the ligand-binding or aptamer domain is highly conserved across species. Riboswitches, including the cobalamin riboswitch, have garnered a lot of attention recently due to their therapeutic and synthetic potential, as well as their interesting structural properties. As of 2019, cobalamin riboswitches have been identified in over 5000 species of bacteria.
 Cobalamin riboswitches are broadly classified by the identity of the aptamer, but can be further classified into AdoCbl riboswitch and AqCbl riboswitch based on cobalamin analogue selectivity and peripheral structural elements  (From Wikipedia)<sup></sup>.</font>
@@ -285,7 +301,6 @@ Cobalamin riboswitches are broadly classified by the identity of the aptamer, bu
 </blockquote>
 
 <font size="4">Biosynthetic pathways for adenosylcobalamin in bacteria. The anaerobic and aerobic Ado-CBL pathways are characterized by the early and late cobalt insertions, respectively<sup>[4]</sup>.</font>
-<p><br /></p>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;">
 <tr>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
@@ -308,7 +323,7 @@ Cobalamin riboswitches are broadly classified by the identity of the aptamer, bu
 </table>
 <p><br /></p>
 
-<p class="header_box">Structure and Ligand recognition</p>
+<p class="header_box" id="Structure and Ligand recognition">Structure and Ligand recognition</p>
 <blockquote>
   <p>2D representation</p>
 </blockquote>
@@ -350,7 +365,7 @@ Cobalamin riboswitches are broadly classified by the identity of the aptamer, bu
     <div class="main-container">
         <div class="zoom-wrapper1">
             <div class="zoom-area1">
-                <img src="/images/2D/AdoCbl_riboswitch_2D1.svg" alt="drawing" style="width:400px" />
+                <img src="/images/2D/AdoCbl_riboswitch_2D1.svg" alt="drawing" style="width:40px" />
             </div>
         </div>
     </div>
@@ -379,7 +394,7 @@ Cobalamin riboswitches are broadly classified by the identity of the aptamer, bu
     <div class="main-container">
         <div class="zoom-wrapper2">
             <div class="zoom-area2">
-                <img src="/images/2D/AdoCbl_riboswitch_2D2.svg" alt="drawing" style="width:400px" />
+                <img src="/images/2D/AdoCbl_riboswitch_2D2.svg" alt="drawing" style="width:40px" />
             </div>
         </div>
     </div>
@@ -394,6 +409,7 @@ Cobalamin riboswitches are broadly classified by the identity of the aptamer, bu
     </script>
 </td>
 </tr></table>
+<p><br /></p>
 <p><br /></p>
 
 <font size="4">Left: Consensus sequence and secondary structure model for the AqCbll riboswitch. Right: Secondary structure depictions of the AqCbl riboswitch according to PDB ID: 4FRN. AqCbl is denoted in red. KL denotes a kissing-loop (KL) interaction between L5 of the receptor and L13 of the regulatory domain that instructs the expression machinery<sup>[5,7]</sup>.</font>
@@ -433,7 +449,7 @@ Cobalamin riboswitches are broadly classified by the identity of the aptamer, bu
     <div class="main-container">
         <div class="zoom-wrapper3">
             <div class="zoom-area3">
-                <img src="/images/2D/AqCbl_riboswitch_2D1.svg" alt="drawing" style="width:400px" />
+                <img src="/images/2D/AqCbl_riboswitch_2D1.svg" alt="drawing" style="width:40px" />
             </div>
         </div>
     </div>
@@ -462,7 +478,7 @@ Cobalamin riboswitches are broadly classified by the identity of the aptamer, bu
     <div class="main-container">
         <div class="zoom-wrapper4">
             <div class="zoom-area4">
-                <img src="/images/2D/AqCbl_riboswitch_2D2.svg" alt="drawing" style="width:400px" />
+                <img src="/images/2D/AqCbl_riboswitch_2D2.svg" alt="drawing" style="width:40px" />
             </div>
         </div>
     </div>
@@ -477,6 +493,7 @@ Cobalamin riboswitches are broadly classified by the identity of the aptamer, bu
     </script>
 </td>
 </tr></table>
+<p><br /></p>
 <p><br /></p>
 
 <blockquote>
@@ -625,6 +642,7 @@ Cobalamin riboswitches are broadly classified by the identity of the aptamer, bu
     </html></td>
   </tr></table>
 <p><br /></p>
+<p><br /></p>
 
 <font size="4">The overall structure of the <i>env8</i>AqCbl riboswitch was generated from PDB ID: 4FRN at 3.43 Å resolution bound with AqCbl. AqCbl (shown in sticks) is colored in red. KL denotes a kissing-loop (KL) interaction between L5 of the receptor and L13 of the regulatory domain that instructs the expression machinery <sup>[7]</sup>.</font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
@@ -756,6 +774,7 @@ Cobalamin riboswitches are broadly classified by the identity of the aptamer, bu
     </html></td>
   </tr></table>
 <p><br /></p>
+<p><br /></p>
 
 <blockquote>
   <p>Binding pocket</p>
@@ -767,6 +786,7 @@ Cobalamin riboswitches are broadly classified by the identity of the aptamer, bu
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/AdoCbl_riboswitch_binding_pockets2.svg" alt="drawing" style="width:400px" px="" /></td>
 </tr>
 </table>
+<p><br /></p>
 
 <font size="4"><p>Left: Surface representation of the binding pocket of the AqCbl riboswitch generated from PDB ID: 4FRN. AqCbl (shown in sticks) is colored in red. Right: Recognition of AqCbl by the AqCbl riboswitch<sup>[7]</sup>.<br /></p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
@@ -774,6 +794,7 @@ Cobalamin riboswitches are broadly classified by the identity of the aptamer, bu
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/AqCbl_riboswitch_binding_pockets2.svg" alt="drawing" style="width:400px" px="" /></td>
 </tr>
 </table>
+<p><br /></p>
 
 <blockquote>
   <p>Ligand recognition</p>
@@ -791,69 +812,84 @@ Cobalamin riboswitches are broadly classified by the identity of the aptamer, bu
 </table>
 <p><br /></p>
 
-<p class="header_box">References</p>
-<p><br /></p>
+<p class="header_box" id="references">References</p>
 
 <p><strong>[1] Adenosylcobalamin inhibits ribosome binding to btuB RNA.</strong><br />
 Nou, X. &amp; Kadner, R. J.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/10852957/" target="_blank">Proc. Natl. Acad. Sci. U. S. A. 97, (2000).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/10852957/" target="_blank">Proc. Natl. Acad. Sci. U. S. A. 97, (2000).</a>
+<br /><br /></p>
 
 <p><strong>[2] Genetic control by a metabolite binding mRNA.</strong><br />
 Nahvi, A. et al.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/12323379/" target="_blank">Chem. Biol. 9, (2002).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/12323379/" target="_blank">Chem. Biol. 9, (2002).</a>
+<br /><br /></p>
 
 <p><strong>[3] Regulation of the vitamin B12 metabolism and transport in bacteria by a conserved RNA structural element.</strong><br />
 Vitreschak, A. G., Rodionov, D. A., Mironov, A. A. &amp; Gelfand, M. S.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/12923257/" target="_blank">RNA 9, (2003).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/12923257/" target="_blank">RNA 9, (2003).</a>
+<br /><br /></p>
 
 <p><strong>[4] Comparative genomics of the vitamin B12 metabolism and regulation in prokaryotes.</strong><br />
 Rodionov, D. A., Vitreschak, A. G., Mironov, A. A. &amp; Gelfand, M. S.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/12869542/" target="_blank">J. Biol. Chem. 278, (2003).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/12869542/" target="_blank">J. Biol. Chem. 278, (2003).</a>
+<br /><br /></p>
 
 <p><strong>[5] Coenzyme B12 riboswitches are widespread genetic control elements in prokaryotes.</strong><br />
 Nahvi, A., Barrick, J. E. &amp; Breaker, R. R.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/14704351/" target="_blank">Nucleic Acids Res. 32, (2004).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/14704351/" target="_blank">Nucleic Acids Res. 32, (2004).</a>
+<br /><br /></p>
 
 <p><strong>[6] Comparative genomics reveals 104 candidate structured RNAs from bacteria, archaea, and their metagenomes.</strong><br />
 Weinberg, Z. et al.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/20230605/" target="_blank">Genome Biol. 11, (2010).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/20230605/" target="_blank">Genome Biol. 11, (2010).</a>
+<br /><br /></p>
 
 <p><strong>[7] B12 cofactors directly stabilize an mRNA regulatory switch.</strong><br />
 Johnson, J. E., Reyes, F. E., Polaski, J. T. &amp; Batey, R. T.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/23064232/" target="_blank">Nature 492, (2012).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/23064232/" target="_blank">Nature 492, (2012).</a>
+<br /><br /></p>
 
 <p><strong>[8] Structural insights into ligand binding and gene expression control by an adenosylcobalamin riboswitch.</strong><br />
 Peselis, A. &amp; Serganov, A.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/23064646/" target="_blank">Nat. Struct. Mol. Biol. 19, (2012).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/23064646/" target="_blank">Nat. Struct. Mol. Biol. 19, (2012).</a>
+<br /><br /></p>
 
 <p><strong>[9] Mg<sup>2+</sup>-induced conformational changes in the btuB riboswitch from <i>E. coli</i>.</strong><br />
 Choudhary, P. K. &amp; Sigel, R. K.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/24243114/" target="_blank">RNA 20, (2014).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/24243114/" target="_blank">RNA 20, (2014).</a>
+<br /><br /></p>
 
 <p><strong>[10] Tb(3+)-Cleavage Assays Reveal Specific Mg(2+) Binding Sites Necessary to Pre-fold the btuB Riboswitch for AdoCbl Binding.</strong><br />
 Choudhary, P. K., Gallo, S. &amp; Sigel, R. K.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/28377919/" target="_blank">Frontiers in chemistry 5, (2017).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/28377919/" target="_blank">Frontiers in chemistry 5, (2017).</a>
+<br /><br /></p>
 
 <p><strong>[11] Cobalamin riboswitches exhibit a broad range of ability to discriminate between methylcobalamin and adenosylcobalamin.</strong><br />
 Polaski, J. T., Webster, S. M., Johnson, J. E. &amp; Batey, R. T.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/28483920/" target="_blank">J. Biol. Chem. 292, (2017).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/28483920/" target="_blank">J. Biol. Chem. 292, (2017).</a>
+<br /><br /></p>
 
 <p><strong>[12] Crystal structure of an atypical cobalamin riboswitch reveals RNA structural adaptability as basis for promiscuous ligand binding.</strong><br />
 Chan, C. W. &amp; Mondragón, A.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/32544228/" target="_blank">Nucleic Acids Res. 48, (2020).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/32544228/" target="_blank">Nucleic Acids Res. 48, (2020).</a>
+<br /><br /></p>
 
 <p><strong>[13] Conformational Ensemble of AdoCbl Riboswitch Provides Stable Structural Elements for Conformation Selection and Population Shift in Cobalamin Recognition.</strong><br />
 Ma, B., Bai, G., Nussinov, R., Ding, J. &amp; Wang, Y.-X.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/33683130/" target="_blank">J. Phys. Chem. B 125, 2589–2596 (2021).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/33683130/" target="_blank">J. Phys. Chem. B 125, 2589–2596 (2021).</a>
+<br /><br /></p>
 
 <p><strong>[14] Targeting Riboswitches with Beta-Axial-Substituted Cobalamins.</strong><br />
 Lennon, S. R. et al.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/37094176/" target="_blank">ACS Chem. Biol. 18, 1136–1147 (2023).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/37094176/" target="_blank">ACS Chem. Biol. 18, 1136–1147 (2023).</a>
+<br /><br /></p>
 
 
-  </div>
-
-</article>
+      </div>
+    </div>
+    </article>
+  </section>
+</div>
 
 
         </div>
@@ -864,7 +900,7 @@ Lennon, S. R. et al.<br />
 	  <div class="row">
 		<div class="col-sm-4">
 			
-		  <p>&copy 2022 Ribocentre. Site made with <a href="https://jekyllrb.com">Jekyll</a>;  <a href="https://www.ribocentre.org/aboutwebsite.html">copy and  modify it for your own research group.</a></p>
+		  <p>&copy 2023 Ribocentre. Site made with <a href="https://jekyllrb.com">Jekyll</a>;  <a href="https://www.ribocentre.org/aboutwebsite.html">copy and  modify it for your own research group.</a></p>
               <p>We are part of the <a href="https://gzlab.ac.cn">Guangzhou Laboratory</a> and <a href="http://www.gzsys.org.cn/">Sun Yat-sen Memorial Hospital of Sun Yat-sen University</a>.</p>
             
 

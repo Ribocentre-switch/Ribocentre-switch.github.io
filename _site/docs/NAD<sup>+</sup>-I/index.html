@@ -38,59 +38,15 @@
         }
 
 		#now a{
-			color:#fff;
-			font-size: 20px;
+			color:#fff
 		}
 		#now a:hover{
 			font-size: 20px;
 		}
-	
 		
-li {
-    float: left;
-}
+  </style>
 
-li a {
-    display: block;
-    color: white;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-}
-
-li a:hover:not(.active) {
-    background-color: #005826;
-}
-
-li a.active {
-    background-color: #000000;
-}
-</style>
-<script>
-window.addEventListener("DOMContentLoaded", function() {
-  // 获取当前页面的URL
-  var currentURL = window.location.href;
-  
-  // 获取所有导航按钮
-  var navButtons = document.querySelectorAll("li a");
-  
-  // 遍历导航按钮
-  navButtons.forEach(function(button) {
-    // 获取按钮的链接
-    var buttonURL = button.href;
-    
-    // 比较URL是否与当前页面的URL匹配
-    if (currentURL === buttonURL) {
-      // 设置匹配的按钮为激活状态
-      button.classList.add("active");
-    }
-  });
-});
-</script>
-		
-
-
-  <div class="container-fluid">
+  <div class="container-fluid" style="padding-left: 0px;padding-right: 0px;margin-top: 15px;">
 	<div class="navbar-header">
 	  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse-1" aria-expanded="false">
 		<span class="sr-only">Toggle navigation</span>
@@ -116,32 +72,91 @@ window.addEventListener("DOMContentLoaded", function() {
 		<li id="now"><a href="http://localhost:4000/Publications.html">Publications</a></li>
 		<li id="now"><a href="http://localhost:4000/404.html">Help</a></li>
 	  </ul>
-	  <script>
-		function setActive(element) {
-		  // 移除所有导航按钮的激活状态
-		  var navButtons = document.querySelectorAll("li a");
-		  navButtons.forEach(function(button) {
-			button.classList.remove("active");
-		  });
-	  
-		  // 给点击的按钮添加激活状态
-		  element.classList.add("active");
-		}
-	  </script>
    </div>
   </div>
 </div>
+
+
+
     
       <div class="container-fluid">
         <div class="row">
-          <article class="post" itemscope itemtype="http://schema.org/BlogPosting" >
-  <header class="post-header">
-    <h1 class="post-title" itemprop="name headline">NAD<sup>+</sup>-I</h1>
-    <p class="post-meta"><time datetime="2023-04-15T08:00:00+08:00" itemprop="datePublished">Apr 15, 2023</time> • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">Xuemei Peng, Xiaoxue Chen</span></span></p>
-  </header>
+          <style>
+  .box_style{
+    background: #f4f4f4;
+  }
+  .wrapper {
+    display: block;
+    position: relative;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    text-align: left;
+    word-wrap: break-word;
+    }
+  .sectiontitle {
+    display: block;
+    max-width: 80%;
+    margin: 0 auto ;
+    text-align: left;
+    background :#fff;
+    }
+</style>
+<div class="wrapper box_style" >
+  <section class="sectiontitle"> 
+    <article class="post" itemscope itemtype="http://schema.org/BlogPosting" >
+    <div class="well" style="border: 1px solid #C9C9C9; background-color: #fff;">
+      <div class="post-content" itemprop="articleBody">
+        <header class="post-header">
+          <h1 class="post-title" itemprop="name headline">NAD<sup>+</sup>-I</h1>
+          <p class="post-meta"><time datetime="2023-04-15T08:00:00+08:00" itemprop="datePublished">Apr 15, 2023</time> • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">Xuemei Peng, Xiaoxue Chen</span></span></p>
+        </header>
+      
+        <p style="font-size: 24px"><strong>Rfam ID: <a href="https://rfam.xfam.org/family/RF03013,target=&quot;_blank&quot;">RF03013</a>(nadA RNA)</strong> <br /></p>
 
-  <div class="post-content" itemprop="articleBody">
-    <p style="font-size: 24px"><strong>Rfam ID: <a href="https://rfam.xfam.org/family/RF03013,target=&quot;_blank&quot;">RF03013</a>(nadA RNA)</strong> <br /></p>
+<p><br /></p>
+<html>
+<head>
+  <title>横向排列的点击按钮</title>
+  <style>
+    /* 按钮容器样式 */
+    .button-container {
+      display: flex;
+      justify-content: left;
+      align-items: center;
+      height: 50px;
+    }
+    
+    /* 按钮样式 */
+    .button {
+      display: block;
+      padding: 10px;
+      margin-right: 10px;
+      text-align: center;
+      background-color: #efefef;
+      color: #005826;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    
+    /* 鼠标悬停样式 */
+    .button:hover {
+      background-color: #999;
+      cursor: pointer;
+    }
+  </style>
+</head>
+<body>
+  <p style="font-size: 24px">Click into different sections:</p>
+  
+  <div class="button-container">
+    <a class="button" href="#timeline" style="bold">Timeline</a>
+    <a class="button" href="#description">Description</a>
+    <a class="button" href="#Structure and Ligand recognition">Structure&amp;recognition</a>
+    <a class="button" href="#references">References</a>
+  </div>
+</body>
+</html>
 
 <html lang="zh-cn">
 <head>
@@ -149,16 +164,17 @@ window.addEventListener("DOMContentLoaded", function() {
 <style>
   .header_box {
     border: none;
-    border-bottom: 4px solid #005826;
     background: #efefef;
     font-size:28px
+  }
+  blockquote {
+  margin: 0 0 0px;
   }
 </style>
 </head>
 <p><br /></p>
 <p class="header_box">Timeline</p>
-<p><br /></p>
-<div class="timeline">
+<div class="timeline" id="timeline">
   <div class="year">
     <div class="inner">
       <span>Start</span>
@@ -206,9 +222,9 @@ window.addEventListener("DOMContentLoaded", function() {
   </div>
 </div>
 </html>
+<p><br /></p>
 
-<p class="header_box">Description</p>
-<hr />
+<p class="header_box" id="description">Description</p>
 <font size="4">NAD<sup>+</sup>-I riboswitch is the first class of riboswitches that recognize NAD<sup>+</sup>. It is usually located upstream of nadA genes  within the phylum Acidobacteria, which encode quinolinate synthetase, an enzyme that performs a step in NAD<sup>+</sup> synthesis. For these reasons it was inferred that the RNAs function as riboswitches<sup></sup>.</font>
 <p><br /></p>
 
@@ -217,7 +233,6 @@ window.addEventListener("DOMContentLoaded", function() {
 </blockquote>
 
 <font size="4">Biosynthetic pathway of NAD<sup>+</sup>and related molecules. All NAD<sup>+</sup>-I riboswitch representatives are found exclusively upstream of nadA genes<sup>[2]</sup>.</font>
-<p><br /></p>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;">
 <tr>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
@@ -231,7 +246,7 @@ window.addEventListener("DOMContentLoaded", function() {
   <p>Gene regulation</p>
 </blockquote>
 
-<p class="header_box">Structure and Ligand recognition</p>
+<p class="header_box" id="Structure and Ligand recognition">Structure and Ligand recognition</p>
 <blockquote>
   <p>2D representation</p>
 </blockquote>
@@ -273,7 +288,7 @@ window.addEventListener("DOMContentLoaded", function() {
     <div class="main-container">
         <div class="zoom-wrapper1">
             <div class="zoom-area1">
-                <img src="/images/2D/NAD+-I_riboswitch_2D.svg" alt="drawing" style="width:400px" />
+                <img src="/images/2D/NAD+-I_riboswitch_2D.svg" alt="drawing" style="width:40px" />
             </div>
         </div>
     </div>
@@ -302,7 +317,7 @@ window.addEventListener("DOMContentLoaded", function() {
     <div class="main-container">
         <div class="zoom-wrapper2">
             <div class="zoom-area2">
-                <img src="/images/2D/" alt="drawing" style="width:400px" />
+                <img src="/images/2D/" alt="drawing" style="width:40px" />
             </div>
         </div>
     </div>
@@ -317,6 +332,7 @@ window.addEventListener("DOMContentLoaded", function() {
     </script>
 </td>
 </tr></table>
+<p><br /></p>
 <p><br /></p>
 
 <blockquote>
@@ -453,6 +469,7 @@ window.addEventListener("DOMContentLoaded", function() {
     </html></td>
   </tr></table>
 <p><br /></p>
+<p><br /></p>
 
 <blockquote>
   <p>Binding pocket</p>
@@ -464,6 +481,7 @@ window.addEventListener("DOMContentLoaded", function() {
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/" alt="drawing" style="width:400px" px="" /></td>
 </tr>
 </table>
+<p><br /></p>
 
 <blockquote>
   <p>Ligand recognition</p>
@@ -481,29 +499,34 @@ window.addEventListener("DOMContentLoaded", function() {
 </table>
 <p><br /></p>
 
-<p class="header_box">References</p>
-<p><br /></p>
+<p class="header_box" id="references">References</p>
 
 <p><strong>[1] Detection of 224 candidate structured RNAs by comparative analysis of specific subsets of intergenic regions</strong><br />
 Weinberg, Z. et al.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/28977401/" target="_blank">Nucleic Acids Res. 45, 10811–10823 (2017).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/28977401/" target="_blank">Nucleic Acids Res. 45, 10811–10823 (2017).</a>
+<br /><br /></p>
 
 <p><strong>[2] Evidence that the nadA motif is a bacterial riboswitch for the ubiquitous enzyme  cofactor NAD</strong><br />
 Malkowski, S. N., Spencer, T. C. J. &amp; Breaker, R. R.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/31467147/" target="_blank">RNA 25, 1616–1627 (2019).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/31467147/" target="_blank">RNA 25, 1616–1627 (2019).</a>
+<br /><br /></p>
 
 <p><strong>[3] Structure and ligand binding of the ADP-binding domain of the NAD<sup>+</sup> riboswitch</strong><br />
 Huang, L., Wang, J. &amp; Lilley, D. M. J.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/32295864/" target="_blank">RNA 26, 878–887 (2020).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/32295864/" target="_blank">RNA 26, 878–887 (2020).</a>
+<br /><br /></p>
 
 <p><strong>[4] Structural distinctions between NAD<sup>+</sup> riboswitch domains 1 and 2 determine  differential folding and ligand binding</strong><br />
 Chen, H. et al.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/33170270/" target="_blank">Nucleic Acids Res. 48, 12394–12406 (2020).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/33170270/" target="_blank">Nucleic Acids Res. 48, 12394–12406 (2020).</a>
+<br /><br /></p>
 
 
-  </div>
-
-</article>
+      </div>
+    </div>
+    </article>
+  </section>
+</div>
 
 
         </div>
@@ -514,7 +537,7 @@ Chen, H. et al.<br />
 	  <div class="row">
 		<div class="col-sm-4">
 			
-		  <p>&copy 2022 Ribocentre. Site made with <a href="https://jekyllrb.com">Jekyll</a>;  <a href="https://www.ribocentre.org/aboutwebsite.html">copy and  modify it for your own research group.</a></p>
+		  <p>&copy 2023 Ribocentre. Site made with <a href="https://jekyllrb.com">Jekyll</a>;  <a href="https://www.ribocentre.org/aboutwebsite.html">copy and  modify it for your own research group.</a></p>
               <p>We are part of the <a href="https://gzlab.ac.cn">Guangzhou Laboratory</a> and <a href="http://www.gzsys.org.cn/">Sun Yat-sen Memorial Hospital of Sun Yat-sen University</a>.</p>
             
 

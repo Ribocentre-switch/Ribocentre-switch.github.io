@@ -38,59 +38,15 @@
         }
 
 		#now a{
-			color:#fff;
-			font-size: 20px;
+			color:#fff
 		}
 		#now a:hover{
 			font-size: 20px;
 		}
-	
 		
-li {
-    float: left;
-}
+  </style>
 
-li a {
-    display: block;
-    color: white;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-}
-
-li a:hover:not(.active) {
-    background-color: #005826;
-}
-
-li a.active {
-    background-color: #000000;
-}
-</style>
-<script>
-window.addEventListener("DOMContentLoaded", function() {
-  // 获取当前页面的URL
-  var currentURL = window.location.href;
-  
-  // 获取所有导航按钮
-  var navButtons = document.querySelectorAll("li a");
-  
-  // 遍历导航按钮
-  navButtons.forEach(function(button) {
-    // 获取按钮的链接
-    var buttonURL = button.href;
-    
-    // 比较URL是否与当前页面的URL匹配
-    if (currentURL === buttonURL) {
-      // 设置匹配的按钮为激活状态
-      button.classList.add("active");
-    }
-  });
-});
-</script>
-		
-
-
-  <div class="container-fluid">
+  <div class="container-fluid" style="padding-left: 0px;padding-right: 0px;margin-top: 15px;">
 	<div class="navbar-header">
 	  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse-1" aria-expanded="false">
 		<span class="sr-only">Toggle navigation</span>
@@ -116,32 +72,91 @@ window.addEventListener("DOMContentLoaded", function() {
 		<li id="now"><a href="http://localhost:4000/Publications.html">Publications</a></li>
 		<li id="now"><a href="http://localhost:4000/404.html">Help</a></li>
 	  </ul>
-	  <script>
-		function setActive(element) {
-		  // 移除所有导航按钮的激活状态
-		  var navButtons = document.querySelectorAll("li a");
-		  navButtons.forEach(function(button) {
-			button.classList.remove("active");
-		  });
-	  
-		  // 给点击的按钮添加激活状态
-		  element.classList.add("active");
-		}
-	  </script>
    </div>
   </div>
 </div>
+
+
+
     
       <div class="container-fluid">
         <div class="row">
-          <article class="post" itemscope itemtype="http://schema.org/BlogPosting" >
-  <header class="post-header">
-    <h1 class="post-title" itemprop="name headline">c-di-AMP</h1>
-    <p class="post-meta"><time datetime="2023-05-31T08:00:00+08:00" itemprop="datePublished">May 31, 2023</time> • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">Jie Deng_Yuanlin He</span></span></p>
-  </header>
+          <style>
+  .box_style{
+    background: #f4f4f4;
+  }
+  .wrapper {
+    display: block;
+    position: relative;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    text-align: left;
+    word-wrap: break-word;
+    }
+  .sectiontitle {
+    display: block;
+    max-width: 80%;
+    margin: 0 auto ;
+    text-align: left;
+    background :#fff;
+    }
+</style>
+<div class="wrapper box_style" >
+  <section class="sectiontitle"> 
+    <article class="post" itemscope itemtype="http://schema.org/BlogPosting" >
+    <div class="well" style="border: 1px solid #C9C9C9; background-color: #fff;">
+      <div class="post-content" itemprop="articleBody">
+        <header class="post-header">
+          <h1 class="post-title" itemprop="name headline">c-di-AMP</h1>
+          <p class="post-meta"><time datetime="2023-05-31T08:00:00+08:00" itemprop="datePublished">May 31, 2023</time> • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">Jie Deng_Yuanlin He</span></span></p>
+        </header>
+      
+        <p style="font-size: 24px"><strong>Rfam ID: <a href="https://rfam.xfam.org/family/RF00379,target=&quot;_blank&quot;">RF00379</a>(YdaO/YuaA leader)</strong> <br /></p>
 
-  <div class="post-content" itemprop="articleBody">
-    <p style="font-size: 24px"><strong>Rfam ID: <a href="https://rfam.xfam.org/family/RF00379,target=&quot;_blank&quot;">RF00379</a>(YdaO/YuaA leader)</strong> <br /></p>
+<p><br /></p>
+<html>
+<head>
+  <title>横向排列的点击按钮</title>
+  <style>
+    /* 按钮容器样式 */
+    .button-container {
+      display: flex;
+      justify-content: left;
+      align-items: center;
+      height: 50px;
+    }
+    
+    /* 按钮样式 */
+    .button {
+      display: block;
+      padding: 10px;
+      margin-right: 10px;
+      text-align: center;
+      background-color: #efefef;
+      color: #005826;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    
+    /* 鼠标悬停样式 */
+    .button:hover {
+      background-color: #999;
+      cursor: pointer;
+    }
+  </style>
+</head>
+<body>
+  <p style="font-size: 24px">Click into different sections:</p>
+  
+  <div class="button-container">
+    <a class="button" href="#timeline" style="bold">Timeline</a>
+    <a class="button" href="#description">Description</a>
+    <a class="button" href="#Structure and Ligand recognition">Structure&amp;recognition</a>
+    <a class="button" href="#references">References</a>
+  </div>
+</body>
+</html>
 
 <html lang="zh-cn">
 <head>
@@ -149,16 +164,17 @@ window.addEventListener("DOMContentLoaded", function() {
 <style>
   .header_box {
     border: none;
-    border-bottom: 4px solid #005826;
     background: #efefef;
     font-size:28px
+  }
+  blockquote {
+  margin: 0 0 0px;
   }
 </style>
 </head>
 <p><br /></p>
 <p class="header_box">Timeline</p>
-<p><br /></p>
-<div class="timeline">
+<div class="timeline" id="timeline">
   <div class="year">
     <div class="inner">
       <span>Start</span>
@@ -238,9 +254,9 @@ window.addEventListener("DOMContentLoaded", function() {
   </div>
 </div>
 </html>
+<p><br /></p>
 
-<p class="header_box">Description</p>
-<hr />
+<p class="header_box" id="description">Description</p>
 <font size="4">The YdaO/YuaA leader (now called the cyclic di-AMP riboswitch) is a conserved RNA structure found upstream of the ydaO and yuaA genes in Bacillus subtilis and related genes in other bacteria. Its secondary structure and gene associations were predicted by bioinformatics. These RNAs function as riboswitches, and sense the signaling molecule cyclic di-AMP<sup></sup>.</font>
 <p><br /></p>
 
@@ -252,7 +268,7 @@ window.addEventListener("DOMContentLoaded", function() {
   <p>Gene regulation</p>
 </blockquote>
 
-<p class="header_box">Structure and Ligand recognition</p>
+<p class="header_box" id="Structure and Ligand recognition">Structure and Ligand recognition</p>
 <blockquote>
   <p>2D representation</p>
 </blockquote>
@@ -294,7 +310,7 @@ window.addEventListener("DOMContentLoaded", function() {
     <div class="main-container">
         <div class="zoom-wrapper1">
             <div class="zoom-area1">
-                <img src="/images/2D/c-di-AMP_2D1.svg" alt="drawing" style="width:400px" />
+                <img src="/images/2D/c-di-AMP_2D1.svg" alt="drawing" style="width:40px" />
             </div>
         </div>
     </div>
@@ -323,7 +339,7 @@ window.addEventListener("DOMContentLoaded", function() {
     <div class="main-container">
         <div class="zoom-wrapper2">
             <div class="zoom-area2">
-                <img src="/images/2D/c-di-AMP_2D2.svg" alt="drawing" style="width:400px" />
+                <img src="/images/2D/c-di-AMP_2D2.svg" alt="drawing" style="width:40px" />
             </div>
         </div>
     </div>
@@ -338,6 +354,7 @@ window.addEventListener("DOMContentLoaded", function() {
     </script>
 </td>
 </tr></table>
+<p><br /></p>
 <p><br /></p>
 
 <blockquote>
@@ -552,6 +569,7 @@ window.addEventListener("DOMContentLoaded", function() {
     </html></td>
   </tr></table>
 <p><br /></p>
+<p><br /></p>
 
 <blockquote>
   <p>Binding pocket</p>
@@ -563,6 +581,7 @@ window.addEventListener("DOMContentLoaded", function() {
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/c-di-AMP_binding_pockets_2.svg" alt="drawing" style="width:400px" px="" /></td>
 </tr>
 </table>
+<p><br /></p>
 
 <blockquote>
   <p>Ligand recognition</p>
@@ -580,45 +599,54 @@ window.addEventListener("DOMContentLoaded", function() {
 </table>
 <p><br /></p>
 
-<p class="header_box">References</p>
-<p><br /></p>
+<p class="header_box" id="references">References</p>
 
 <p><strong>[1] New RNA motifs suggest an expanded scope for riboswitches in bacterial genetic control.</strong><br />
 Barrick, J. E. et al.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/15096624/" target="_blank">Proc. Natl. Acad. Sci. U. S. A. 101, 6421–6426 (2004).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/15096624/" target="_blank">Proc. Natl. Acad. Sci. U. S. A. 101, 6421–6426 (2004).</a>
+<br /><br /></p>
 
 <p><strong>[2] The ydaO motif is an ATP-sensing riboswitch in Bacillus subtilis.</strong><br />
 Watson, P. Y. &amp; Fedor, M. J.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/23086297/" target="_blank">Nat. Chem. Biol. 8, 963–965 (2012).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/23086297/" target="_blank">Nat. Chem. Biol. 8, 963–965 (2012).</a>
+<br /><br /></p>
 
 <p><strong>[3] Riboswitches in eubacteria sense the second messenger c-di-AMP.</strong><br />
 Nelson, J. W. et al.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/24141192/" target="_blank">Nat. Chem. Biol. 9, 834–839 (2013).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/24141192/" target="_blank">Nat. Chem. Biol. 9, 834–839 (2013).</a>
+<br /><br /></p>
 
 <p><strong>[4] c-di-AMP binds the ydaO riboswitch in two pseudo-symmetry-related pockets.</strong><br />
 Ren, A. &amp; Patel, D. J.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/25086509/" target="_blank">Nat. Chem. Biol. 10, 780–786 (2014).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/25086509/" target="_blank">Nat. Chem. Biol. 10, 780–786 (2014).</a>
+<br /><br /></p>
 
 <p><strong>[5] Structural insights into recognition of c-di-AMP by the ydaO riboswitch.</strong><br />
 Gao, A. &amp; Serganov, A.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/25086507/" target="_blank">Nat. Chem. Biol. 10, 787–792 (2014).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/25086507/" target="_blank">Nat. Chem. Biol. 10, 787–792 (2014).</a>
+<br /><br /></p>
 
 <p><strong>[6] Crystal structure of a c-di-AMP riboswitch reveals an internally pseudo-dimeric RNA.</strong><br />
 Jones, C. P. &amp; Ferré-D’Amaré, A. R.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/25271255/" target="_blank">EMBO J. 33, 2692–2703 (2014).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/25271255/" target="_blank">EMBO J. 33, 2692–2703 (2014).</a>
+<br /><br /></p>
 
 <p><strong>[7] A c-di-AMP riboswitch controlling kdpFABC operon transcription regulates the potassium transporter system in Bacillus thuringiensis.</strong><br />
 Wang, X. et al.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/31044176/" target="_blank">Commun Biol 2, 151 (2019).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/31044176/" target="_blank">Commun Biol 2, 151 (2019).</a>
+<br /><br /></p>
 
 <p><strong>[8] C-di-AMP Is a Second Messenger in Corynebacterium glutamicum That Regulates Expression of a Cell Wall-Related Peptidase via a Riboswitch.</strong><br />
 Reich, S. J. et al.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/36838266/" target="_blank">Microorganisms 11, (2023).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/36838266/" target="_blank">Microorganisms 11, (2023).</a>
+<br /><br /></p>
 
 
-  </div>
-
-</article>
+      </div>
+    </div>
+    </article>
+  </section>
+</div>
 
 
         </div>
@@ -629,7 +657,7 @@ Reich, S. J. et al.<br />
 	  <div class="row">
 		<div class="col-sm-4">
 			
-		  <p>&copy 2022 Ribocentre. Site made with <a href="https://jekyllrb.com">Jekyll</a>;  <a href="https://www.ribocentre.org/aboutwebsite.html">copy and  modify it for your own research group.</a></p>
+		  <p>&copy 2023 Ribocentre. Site made with <a href="https://jekyllrb.com">Jekyll</a>;  <a href="https://www.ribocentre.org/aboutwebsite.html">copy and  modify it for your own research group.</a></p>
               <p>We are part of the <a href="https://gzlab.ac.cn">Guangzhou Laboratory</a> and <a href="http://www.gzsys.org.cn/">Sun Yat-sen Memorial Hospital of Sun Yat-sen University</a>.</p>
             
 

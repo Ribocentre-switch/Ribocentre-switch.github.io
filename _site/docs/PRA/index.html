@@ -38,59 +38,15 @@
         }
 
 		#now a{
-			color:#fff;
-			font-size: 20px;
+			color:#fff
 		}
 		#now a:hover{
 			font-size: 20px;
 		}
-	
 		
-li {
-    float: left;
-}
+  </style>
 
-li a {
-    display: block;
-    color: white;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-}
-
-li a:hover:not(.active) {
-    background-color: #005826;
-}
-
-li a.active {
-    background-color: #000000;
-}
-</style>
-<script>
-window.addEventListener("DOMContentLoaded", function() {
-  // 获取当前页面的URL
-  var currentURL = window.location.href;
-  
-  // 获取所有导航按钮
-  var navButtons = document.querySelectorAll("li a");
-  
-  // 遍历导航按钮
-  navButtons.forEach(function(button) {
-    // 获取按钮的链接
-    var buttonURL = button.href;
-    
-    // 比较URL是否与当前页面的URL匹配
-    if (currentURL === buttonURL) {
-      // 设置匹配的按钮为激活状态
-      button.classList.add("active");
-    }
-  });
-});
-</script>
-		
-
-
-  <div class="container-fluid">
+  <div class="container-fluid" style="padding-left: 0px;padding-right: 0px;margin-top: 15px;">
 	<div class="navbar-header">
 	  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse-1" aria-expanded="false">
 		<span class="sr-only">Toggle navigation</span>
@@ -116,32 +72,91 @@ window.addEventListener("DOMContentLoaded", function() {
 		<li id="now"><a href="http://localhost:4000/Publications.html">Publications</a></li>
 		<li id="now"><a href="http://localhost:4000/404.html">Help</a></li>
 	  </ul>
-	  <script>
-		function setActive(element) {
-		  // 移除所有导航按钮的激活状态
-		  var navButtons = document.querySelectorAll("li a");
-		  navButtons.forEach(function(button) {
-			button.classList.remove("active");
-		  });
-	  
-		  // 给点击的按钮添加激活状态
-		  element.classList.add("active");
-		}
-	  </script>
    </div>
   </div>
 </div>
+
+
+
     
       <div class="container-fluid">
         <div class="row">
-          <article class="post" itemscope itemtype="http://schema.org/BlogPosting" >
-  <header class="post-header">
-    <h1 class="post-title" itemprop="name headline">PRA</h1>
-    <p class="post-meta"><time datetime="2023-05-15T08:00:00+08:00" itemprop="datePublished">May 15, 2023</time> • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">Wenjian Liao</span></span></p>
-  </header>
+          <style>
+  .box_style{
+    background: #f4f4f4;
+  }
+  .wrapper {
+    display: block;
+    position: relative;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    text-align: left;
+    word-wrap: break-word;
+    }
+  .sectiontitle {
+    display: block;
+    max-width: 80%;
+    margin: 0 auto ;
+    text-align: left;
+    background :#fff;
+    }
+</style>
+<div class="wrapper box_style" >
+  <section class="sectiontitle"> 
+    <article class="post" itemscope itemtype="http://schema.org/BlogPosting" >
+    <div class="well" style="border: 1px solid #C9C9C9; background-color: #fff;">
+      <div class="post-content" itemprop="articleBody">
+        <header class="post-header">
+          <h1 class="post-title" itemprop="name headline">PRA</h1>
+          <p class="post-meta"><time datetime="2023-05-15T08:00:00+08:00" itemprop="datePublished">May 15, 2023</time> • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">Wenjian Liao</span></span></p>
+        </header>
+      
+        <p style="font-size: 24px"><strong>Rfam ID: <a href="https://rfam.xfam.org/family/RF02974,target=&quot;_blank&quot;">RF02974</a>(<i>Fibro-purF</i>)</strong> <br /></p>
 
-  <div class="post-content" itemprop="articleBody">
-    <p style="font-size: 24px"><strong>Rfam ID: <a href="https://rfam.xfam.org/family/RF02974,target=&quot;_blank&quot;">RF02974</a>(<i>Fibro-purF</i>)</strong> <br /></p>
+<p><br /></p>
+<html>
+<head>
+  <title>横向排列的点击按钮</title>
+  <style>
+    /* 按钮容器样式 */
+    .button-container {
+      display: flex;
+      justify-content: left;
+      align-items: center;
+      height: 50px;
+    }
+    
+    /* 按钮样式 */
+    .button {
+      display: block;
+      padding: 10px;
+      margin-right: 10px;
+      text-align: center;
+      background-color: #efefef;
+      color: #005826;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    
+    /* 鼠标悬停样式 */
+    .button:hover {
+      background-color: #999;
+      cursor: pointer;
+    }
+  </style>
+</head>
+<body>
+  <p style="font-size: 24px">Click into different sections:</p>
+  
+  <div class="button-container">
+    <a class="button" href="#timeline" style="bold">Timeline</a>
+    <a class="button" href="#description">Description</a>
+    <a class="button" href="#Structure and Ligand recognition">Structure&amp;recognition</a>
+    <a class="button" href="#references">References</a>
+  </div>
+</body>
+</html>
 
 <html lang="zh-cn">
 <head>
@@ -149,16 +164,17 @@ window.addEventListener("DOMContentLoaded", function() {
 <style>
   .header_box {
     border: none;
-    border-bottom: 4px solid #005826;
     background: #efefef;
     font-size:28px
+  }
+  blockquote {
+  margin: 0 0 0px;
   }
 </style>
 </head>
 <p><br /></p>
 <p class="header_box">Timeline</p>
-<p><br /></p>
-<div class="timeline">
+<div class="timeline" id="timeline">
   <div class="year">
     <div class="inner">
       <span>Start</span>
@@ -190,9 +206,9 @@ window.addEventListener("DOMContentLoaded", function() {
   </div>
 </div>
 </html>
+<p><br /></p>
 
-<p class="header_box">Description</p>
-<hr />
+<p class="header_box" id="description">Description</p>
 <font size="4">The PRA riboswitch (<i>Fibro-purF</i> RNA motif) is a conserved RNA structure that was discovered by bioinformatics. All known <i>Fibro-purF</i> RNAs are found upstream of <i>purF</i> genes, which encode amidophosphoribosyltransferase that participates in the biosynthesis of biological purine molecules. Due to the instability of the proposed ligand, 5-phospho-D-ribosylamine, direct experiments to confirm this ligand have not yet been conducted (From Wikipedia)<sup></sup>.</font>
 <p><br /></p>
 
@@ -201,7 +217,6 @@ window.addEventListener("DOMContentLoaded", function() {
 </blockquote>
 
 <font size="4">All <i>Fibro-purF</i> motif RNA representatives where determinations can be made are found upstream of a purF gene, which codes for an enzyme, amidophosphoribosyltransferase, that catalyzes the first committed step in the purine biosynthesis pathway.<sup>[1-2]</sup>.</font>
-<p><br /></p>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;">
 <tr>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
@@ -224,7 +239,7 @@ window.addEventListener("DOMContentLoaded", function() {
 </table>
 <p><br /></p>
 
-<p class="header_box">Structure and Ligand recognition</p>
+<p class="header_box" id="Structure and Ligand recognition">Structure and Ligand recognition</p>
 <blockquote>
   <p>2D representation</p>
 </blockquote>
@@ -266,7 +281,7 @@ window.addEventListener("DOMContentLoaded", function() {
     <div class="main-container">
         <div class="zoom-wrapper1">
             <div class="zoom-area1">
-                <img src="/images/2D/PRA_riboswitch_2D1.svg" alt="drawing" style="width:400px" />
+                <img src="/images/2D/PRA_riboswitch_2D1.svg" alt="drawing" style="width:40px" />
             </div>
         </div>
     </div>
@@ -295,7 +310,7 @@ window.addEventListener("DOMContentLoaded", function() {
     <div class="main-container">
         <div class="zoom-wrapper2">
             <div class="zoom-area2">
-                <img src="/images/2D/" alt="drawing" style="width:400px" />
+                <img src="/images/2D/" alt="drawing" style="width:40px" />
             </div>
         </div>
     </div>
@@ -310,6 +325,7 @@ window.addEventListener("DOMContentLoaded", function() {
     </script>
 </td>
 </tr></table>
+<p><br /></p>
 <p><br /></p>
 
 <blockquote>
@@ -336,21 +352,24 @@ window.addEventListener("DOMContentLoaded", function() {
 </table>
 <p><br /></p>
 
-<p class="header_box">References</p>
-<p><br /></p>
+<p class="header_box" id="references">References</p>
 
 <p><strong>[1] Detection of 224 candidate structured RNAs by comparative analysis of specific subsets of intergenic regions</strong><br />
 Weinberg, Z. et al<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/28977401/" target="_blank">Nucleic Acids Res. 45, (2017)</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/28977401/" target="_blank">Nucleic Acids Res. 45, (2017)</a>
+<br /><br /></p>
 
 <p><strong>[2] A rare bacterial RNA motif is implicated in the regulation of the purF gene whose encoded enzyme synthesizes phosphoribosylamine</strong><br />
 Malkowski, S. N., Atilho, R. M., Greenlee, E. B., Weinberg, C. E. &amp; Breaker, R. R<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/32843366/" target="_blank">RNA 26, (2020)</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/32843366/" target="_blank">RNA 26, (2020)</a>
+<br /><br /></p>
 
 
-  </div>
-
-</article>
+      </div>
+    </div>
+    </article>
+  </section>
+</div>
 
 
         </div>
@@ -361,7 +380,7 @@ Malkowski, S. N., Atilho, R. M., Greenlee, E. B., Weinberg, C. E. &amp; Breaker,
 	  <div class="row">
 		<div class="col-sm-4">
 			
-		  <p>&copy 2022 Ribocentre. Site made with <a href="https://jekyllrb.com">Jekyll</a>;  <a href="https://www.ribocentre.org/aboutwebsite.html">copy and  modify it for your own research group.</a></p>
+		  <p>&copy 2023 Ribocentre. Site made with <a href="https://jekyllrb.com">Jekyll</a>;  <a href="https://www.ribocentre.org/aboutwebsite.html">copy and  modify it for your own research group.</a></p>
               <p>We are part of the <a href="https://gzlab.ac.cn">Guangzhou Laboratory</a> and <a href="http://www.gzsys.org.cn/">Sun Yat-sen Memorial Hospital of Sun Yat-sen University</a>.</p>
             
 

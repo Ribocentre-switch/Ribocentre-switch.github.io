@@ -7,22 +7,67 @@ permalink: /docs/GlcN6P/
 ---
 <p style="font-size: 24px"><strong>Rfam ID: [RF00234](https://rfam.xfam.org/family/RF00234,target="_blank")(glmS glucosamine-6-phosphate activated ribozyme)</strong> <br /></p>
 
+<br />
+<html>
+<head>
+  <title>横向排列的点击按钮</title>
+  <style>
+    /* 按钮容器样式 */
+    .button-container {
+      display: flex;
+      justify-content: left;
+      align-items: center;
+      height: 50px;
+    }
+    
+    /* 按钮样式 */
+    .button {
+      display: block;
+      padding: 10px;
+      margin-right: 10px;
+      text-align: center;
+      background-color: #efefef;
+      color: #005826;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    
+    /* 鼠标悬停样式 */
+    .button:hover {
+      background-color: #999;
+      cursor: pointer;
+    }
+  </style>
+</head>
+<body>
+  <p style="font-size: 24px">Click into different sections:</p>
+  
+  <div class="button-container">
+    <a class="button" href="#timeline" style="bold">Timeline</a>
+    <a class="button" href="#description">Description</a>
+    <a class="button" href="#Structure and Ligand recognition">Structure&recognition</a>
+    <a class="button" href="#references">References</a>
+  </div>
+</body>
+</html>
+
 <html lang="zh-cn">
 <head>
 <meta charset="utf-8"> 
 <style>
   .header_box {
     border: none;
-    border-bottom: 4px solid #005826;
     background: #efefef;
     font-size:28px
+  }
+  blockquote {
+  margin: 0 0 0px;
   }
 </style>
 </head>
 <p><br /></p>
 <p class="header_box">Timeline</p>
-<p><br /></p>
-<div class="timeline">
+<div class="timeline" id="timeline">
   <div class="year">
     <div class="inner">
       <span>Start</span>
@@ -134,16 +179,15 @@ permalink: /docs/GlcN6P/
   </div>
 </div>
 </html>
+<p><br /></p>
         
-<p class="header_box">Description</p>
-***
+<p class="header_box" id="description">Description</p>
 <font size="4">The glucosamine-6-phosphate riboswitch ribozyme (glmS ribozyme) is an RNA structure that resides in the 5' untranslated region (UTR) of the mRNA transcript of the glmS gene. This RNA regulates the glmS gene by responding to concentrations of a specific metabolite, glucosamine-6-phosphate (GlcN6P), in addition to catalyzing a self-cleaving chemical reaction upon activation. This cleavage leads to the degradation of the mRNA that contains the ribozyme, and lowers production of GlcN6P. The glmS gene encodes for an enzyme glutamine-fructose-6-phosphate amidotransferase, which catalyzes the formation of GlcN6P, a compound essential for cell wall biosynthesis, from fructose-6-phosphate and glutamine. Thus, when GlcN6P levels are high, the glmS ribozyme is activated and the mRNA transcript is degraded but in the absence of GlcN6P the gene continues to be translated into glutamine-fructose-6-phosphate amidotransferase and GlcN6P is produced. GlcN6P is a cofactor for this cleavage reaction, as it directly participates as an acid-base catalyst. This RNA is the first riboswitch also found to be a self-cleaving ribozyme and, like many others, was discovered using a bioinformatics approach (from wikipedia)<sup></sup>.</font>
 <p><br /></p>
             
 > Gene association
         
 <font size="4">Inhibition of the synthesis of glucosamine-6-phosphate. Three major routes are illustrated, the blocking of which would lead to inhibition of glucosamine-6-phosphate synthesis. In the simultaneous blocking of the GlmS and nagA, which is controlled by the GlcN6P riboswitch, blockade of GlcNc-6-P synthesis within the cell will be observed<sup>[11]</sup>.</font>
-<p><br /></p>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;">
 <tr >
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
@@ -164,7 +208,7 @@ permalink: /docs/GlcN6P/
 </table>
 <p><br /></p>
                     
-<p class="header_box">Structure and Ligand recognition</p>
+<p class="header_box" id="Structure and Ligand recognition">Structure and Ligand recognition</p>
 > 2D representation
         
 <font size=4>Left: Consensus sequence and secondary structure model for the GlcN6P riboswitch. Right: Secondary structure depictions of GlcN6P riboswitch according to PDB ID: 2H0Z<sup>[4]</sup>.</font><br>
@@ -203,7 +247,7 @@ permalink: /docs/GlcN6P/
     <div class="main-container">
         <div class="zoom-wrapper1">
             <div class="zoom-area1">
-                <img src="/images/2D/GlcN6P_riboswitch_2D1.svg" alt="drawing" style="width:400px" />
+                <img src="/images/2D/GlcN6P_riboswitch_2D1.svg" alt="drawing" style="width:40px" />
             </div>
         </div>
     </div>
@@ -232,7 +276,7 @@ permalink: /docs/GlcN6P/
     <div class="main-container">
         <div class="zoom-wrapper2">
             <div class="zoom-area2">
-                <img src="/images/2D/GlcN6P_riboswitch_2D2.svg" alt="drawing" style="width:400px" />
+                <img src="/images/2D/GlcN6P_riboswitch_2D2.svg" alt="drawing" style="width:40px" />
             </div>
         </div>
     </div>
@@ -247,6 +291,7 @@ permalink: /docs/GlcN6P/
     </script>
 </td>
 </tr></table><br>
+<p><br /></p>
                 
 > 3D visualisation
             
@@ -393,6 +438,7 @@ permalink: /docs/GlcN6P/
     </body>
     </html></td>
   </tr></table><br>
+  <p><br /></p>
                 
 > Binding pocket
                 
@@ -402,6 +448,7 @@ permalink: /docs/GlcN6P/
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/GlcN6P_riboswitch_binding_pockets2.svg" alt="drawing" style="width:400px"  px="" /></td>
 </tr>
 </table>
+<p><br /></p>
                     
 > Ligand recognition
             
@@ -417,54 +464,65 @@ permalink: /docs/GlcN6P/
 </table>
 <p><br /></p>
                 
-<p class="header_box">References</p>
-<p><br /></p>
+<p class="header_box" id="references">References</p>
             
 <p><strong>[1] Control of gene expression by a natural metabolite-responsive ribozyme.</strong><br />
 Winkler, W. C., Nahvi, A., Roth, A., Collins, J. A. & Breaker, R. R.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/15029187" target="_blank">Nature 428, 281–286 (2004).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/15029187" target="_blank">Nature 428, 281–286 (2004).</a>
+<br /><br /></p>
                 
 <p><strong>[2] Ribozyme déjà vu.</strong><br />
 Knudsen, S. M. & Ellington, A. D.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/15048102" target="_blank">Nat. Struct. Mol. Biol. 11, 301–303 (2004).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/15048102" target="_blank">Nat. Struct. Mol. Biol. 11, 301–303 (2004).</a>
+<br /><br /></p>
                 
 <p><strong>[3] Backbone and nucleobase contacts to glucosamine-6-phosphate in the glmS ribozyme.</strong><br />
 Jansen, J. A., McCarthy, T. J., Soukup, G. A. & Soukup, J. K.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/16699515" target="_blank">Nat. Struct. Mol. Biol. 13, 517–523 (2006).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/16699515" target="_blank">Nat. Struct. Mol. Biol. 13, 517–523 (2006).</a>
+<br /><br /></p>
                 
 <p><strong>[4] Structural basis of glmS ribozyme activation by glucosamine-6-phosphate.</strong><br />
 Klein, D. J. & Ferré-D’Amaré, A. R.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/16990543" target="_blank">Science 313, 1752–1756 (2006).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/16990543" target="_blank">Science 313, 1752–1756 (2006).</a>
+<br /><br /></p>
                 
 <p><strong>[5] Characteristics of the glmS ribozyme suggest only structural roles for divalent metal ions.</strong><br />
 Roth, A., Nahvi, A., Lee, M., Jona, I. & Breaker, R. R.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/16484375" target="_blank">Rna 12(4):607–619.(2006).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/16484375" target="_blank">Rna 12(4):607–619.(2006).</a>
+<br /><br /></p>
                 
 <p><strong>[6] Core requirements for glmS ribozyme self-cleavage reveal a putative pseudoknot structure.</strong><br />
 Soukup, G. A.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/16464827" target="_blank">Nucleic Acids Res. 34, 968–975 (2006).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/16464827" target="_blank">Nucleic Acids Res. 34, 968–975 (2006).</a>
+<br /><br /></p>
                 
 <p><strong>[7] Structural and chemical basis for glucosamine 6-phosphate binding and activation of the glmS ribozyme.</strong><br />
 Cochrane, J. C., Lipchock, S. V., Smith, K. D. & Strobel, S. A.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/19228039" target="_blank">Biochemistry 48, 3239–3246 (2009).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/19228039" target="_blank">Biochemistry 48, 3239–3246 (2009).</a>
+<br /><br /></p>
                 
 <p><strong>[8] The glmS riboswitch integrates signals from activating and inhibitory metabolites in vivo.</strong><br />
 Watson, P. Y. & Fedor, M. J.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/21317896" target="_blank">Nat. Struct. Mol. Biol. 18, 359–363 (2011).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/21317896" target="_blank">Nat. Struct. Mol. Biol. 18, 359–363 (2011).</a>
+<br /><br /></p>
                 
 <p><strong>[9] The glmS ribozyme cofactor is a general acid-base catalyst.</strong><br />
 Viladoms, J. & Fedor, M. J.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/23113700" target="_blank">J. Am. Chem. Soc. 134, 19043–19049 (2012).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/23113700" target="_blank">J. Am. Chem. Soc. 134, 19043–19049 (2012).</a>
+<br /><br /></p>
                 
 <p><strong>[10] The GlcN6P cofactor plays multiple catalytic roles in the glmS ribozyme.</strong><br />
 Bingaman, J. L. et al.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/28192411" target="_blank">Nat. Chem. Biol. 13, 439–445 (2017).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/28192411" target="_blank">Nat. Chem. Biol. 13, 439–445 (2017).</a>
+<br /><br /></p>
                 
 <p><strong>[11] Genome-wide bioinformatics analysis of FMN, SAM-I, glmS, TPP, lysine, purine, cobalamin, and SAH riboswitches for their applications as allosteric antibacterial drug targets in human pathogenic bacteria.</strong><br />
 Pavlova, N. & Penchovsky, R.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/31079546" target="_blank">Expert Opin. Ther. Targets 23, 631–643 (2019).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/31079546" target="_blank">Expert Opin. Ther. Targets 23, 631–643 (2019).</a>
+<br /><br /></p>
                 
 <p><strong>[12] Targeting glmS Ribozyme with Chimeric Antisense Oligonucleotides for Antibacterial Drug Development.</strong><br />
 Traykovska, M., Popova, K. B. & Penchovsky, R.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/34734706" target="_blank">ACS Synth. Biol. 10, 3167–3176 (2021).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/34734706" target="_blank">ACS Synth. Biol. 10, 3167–3176 (2021).</a>
+<br /><br /></p>
                 

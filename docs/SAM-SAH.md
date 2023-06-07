@@ -7,22 +7,67 @@ permalink: /docs/SAM-SAH/
 ---
 <p style="font-size: 24px"><strong>Rfam ID: [RF01727](https://rfam.xfam.org/family/RF01727,target="_blank")(SAM/SAH riboswitch)</strong> <br /></p>
 
+<br />
+<html>
+<head>
+  <title>横向排列的点击按钮</title>
+  <style>
+    /* 按钮容器样式 */
+    .button-container {
+      display: flex;
+      justify-content: left;
+      align-items: center;
+      height: 50px;
+    }
+    
+    /* 按钮样式 */
+    .button {
+      display: block;
+      padding: 10px;
+      margin-right: 10px;
+      text-align: center;
+      background-color: #efefef;
+      color: #005826;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    
+    /* 鼠标悬停样式 */
+    .button:hover {
+      background-color: #999;
+      cursor: pointer;
+    }
+  </style>
+</head>
+<body>
+  <p style="font-size: 24px">Click into different sections:</p>
+  
+  <div class="button-container">
+    <a class="button" href="#timeline" style="bold">Timeline</a>
+    <a class="button" href="#description">Description</a>
+    <a class="button" href="#Structure and Ligand recognition">Structure&recognition</a>
+    <a class="button" href="#references">References</a>
+  </div>
+</body>
+</html>
+
 <html lang="zh-cn">
 <head>
 <meta charset="utf-8"> 
 <style>
   .header_box {
     border: none;
-    border-bottom: 4px solid #005826;
     background: #efefef;
     font-size:28px
+  }
+  blockquote {
+  margin: 0 0 0px;
   }
 </style>
 </head>
 <p><br /></p>
 <p class="header_box">Timeline</p>
-<p><br /></p>
-<div class="timeline">
+<div class="timeline" id="timeline">
   <div class="year">
     <div class="inner">
       <span>Start</span>
@@ -78,16 +123,15 @@ permalink: /docs/SAM-SAH/
   </div>
 </div>
 </html>
+<p><br /></p>
         
-<p class="header_box">Description</p>
-***
+<p class="header_box" id="description">Description</p>
 <font size="4">The SAM–SAH riboswitch is a conserved RNA structure in certain bacteria that binds S-adenosylmethionine (SAM) and S-adenosylhomocysteine (SAH) and is therefore presumed to be a riboswitch. SAM–SAH riboswitches do not share any apparent structural resemblance to known riboswitches that bind SAM or SAH. The binding affinities for both compounds are similar, but binding for SAH is at least somewhat stronger. SAM–SAH riboswitches are exclusively found in Rhodobacterales, an order of alphaproteobacteria. They are always found in the apparent 5' untranslated regions of <i>metK</i> genes, which encode the enzyme (Methionine adenosyltransferase) that synthesizes SAM. (from WIKi)<sup></sup>.</font>
 <p><br /></p>
             
 > Gene association
         
 <font size="4">Pathways for sulphate assimilation and biosynthesis of cysteine and methionine. SAM-SAH riboswitch (red bar) is involved in multiple gene regulation in the synthetic pathway<sup>[1]</sup>.</font>
-<p><br /></p>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;">
 <tr >
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
@@ -108,7 +152,7 @@ permalink: /docs/SAM-SAH/
 </table>
 <p><br /></p>
                     
-<p class="header_box">Structure and Ligand recognition</p>
+<p class="header_box" id="Structure and Ligand recognition">Structure and Ligand recognition</p>
 > 2D representation
         
 <font size=4>Left: Consensus sequence and secondary structure model for the SAM-SAH riboswitch. Right: Secondary structure depictions of the SAM-SAH riboswitch according to PDB ID:6ymm<sup>[5]</sup>.</font><br>
@@ -147,7 +191,7 @@ permalink: /docs/SAM-SAH/
     <div class="main-container">
         <div class="zoom-wrapper1">
             <div class="zoom-area1">
-                <img src="/images/2D/SAM-SAH_riboswitch_2D1.svg" alt="drawing" style="width:400px" />
+                <img src="/images/2D/SAM-SAH_riboswitch_2D1.svg" alt="drawing" style="width:40px" />
             </div>
         </div>
     </div>
@@ -176,7 +220,7 @@ permalink: /docs/SAM-SAH/
     <div class="main-container">
         <div class="zoom-wrapper2">
             <div class="zoom-area2">
-                <img src="/images/2D/SAM-SAH_riboswitch_2D2.svg" alt="drawing" style="width:400px" />
+                <img src="/images/2D/SAM-SAH_riboswitch_2D2.svg" alt="drawing" style="width:40px" />
             </div>
         </div>
     </div>
@@ -191,6 +235,7 @@ permalink: /docs/SAM-SAH/
     </script>
 </td>
 </tr></table><br>
+<p><br /></p>
                 
 > 3D visualisation
             
@@ -299,6 +344,7 @@ permalink: /docs/SAM-SAH/
     </body>
     </html></td>
   </tr></table><br>
+  <p><br /></p>
                 
 > Binding pocket
                 
@@ -308,6 +354,7 @@ permalink: /docs/SAM-SAH/
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/SAM-SAH_riboswitch_binding_pockets2.svg" alt="drawing" style="width:400px"  px="" /></td>
 </tr>
 </table>
+<p><br /></p>
                     
 > Ligand recognition
             
@@ -323,30 +370,35 @@ permalink: /docs/SAM-SAH/
 </table>
 <p><br /></p>
                 
-<p class="header_box">References</p>
-<p><br /></p>
+<p class="header_box" id="references">References</p>
             
 <p><strong>[1] Comparative genomics reveals 104 candidate structured RNAs from bacteria, archaea, and their metagenomes.</strong><br />
 Weinberg, Z., Wang, J. X., Bogue, J., Yang, J., Corbino, K., Moy, R. H., & Breaker, R. R.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/20230605/" target="_blank">Genome Biol. 11, R31 (2010).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/20230605/" target="_blank">Genome Biol. 11, R31 (2010).</a>
+<br /><br /></p>
                 
 <p><strong>[2] Detection of 224 candidate structured RNAs by comparative analysis of specific subsets of intergenic regions.</strong><br />
 Weinberg, Z., Lünse, C. E., Corbino, K. A., Ames, T. D., Nelson, J. W., Roth, A., Perkins, K. R., Sherlock, M. E., & Breaker, R. R.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/28977401/" target="_blank">Nucleic Acids Res. 45, 10811–10823 (2017).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/28977401/" target="_blank">Nucleic Acids Res. 45, 10811–10823 (2017).</a>
+<br /><br /></p>
                 
 <p><strong>[3] NMR resonance assignments for the SAM/SAH-binding riboswitch RNA bound to S-adenosylhomocysteine.</strong><br />
 Weickhmann, A. K., Keller, H., Duchardt-Ferner, E., Strebitzer, E., Juen, M. A., Kremser, J., Wurm, J. P., Kreutz, C., & Wöhnert, J.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/30051308/" target="_blank">Biomol. NMR Assign. 12, 329–334 (2018).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/30051308/" target="_blank">Biomol. NMR Assign. 12, 329–334 (2018).</a>
+<br /><br /></p>
                 
 <p><strong>[4] The structure of the SAM/SAH-binding riboswitch.</strong><br />
 Weickhmann, A. K., Keller, H., Wurm, J. P., Strebitzer, E., Juen, M. A., Kremser, J., Weinberg, Z., Kreutz, C., Duchardt-Ferner, E., & Wöhnert, J.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/30590743/" target="_blank">Nucleic Acids Res. 47, 2654–2665 (2019).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/30590743/" target="_blank">Nucleic Acids Res. 47, 2654–2665 (2019).</a>
+<br /><br /></p>
                 
 <p><strong>[5] Crystal structure and ligand-induced folding of the SAM/SAH riboswitch.</strong><br />
 Huang, L., Liao, T. W., Wang, J., Ha, T., & Lilley, D. M. J.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/32520325/" target="_blank">Nucleic Acids Res. 48, 7545–7556 (2020).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/32520325/" target="_blank">Nucleic Acids Res. 48, 7545–7556 (2020).</a>
+<br /><br /></p>
                 
 <p><strong>[6] Magnesium ions mediate ligand binding and conformational transition of the SAM/SAH riboswitch.</strong><br />
 Hu, G., & Zhou, H. X.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/36945415/" target="_blank">BioRxiv : the preprint server for biology, 2023.03.12.532287(2023).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/36945415/" target="_blank">BioRxiv : the preprint server for biology, 2023.03.12.532287(2023).</a>
+<br /><br /></p>
                 

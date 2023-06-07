@@ -7,22 +7,67 @@ permalink: /docs/NiCo/
 ---
 <p style="font-size: 24px"><strong>Rfam ID: [RF02683](https://rfam.xfam.org/family/RF02683,target="_blank")(NiCo riboswitch)</strong> <br /></p>
 
+<br />
+<html>
+<head>
+  <title>横向排列的点击按钮</title>
+  <style>
+    /* 按钮容器样式 */
+    .button-container {
+      display: flex;
+      justify-content: left;
+      align-items: center;
+      height: 50px;
+    }
+    
+    /* 按钮样式 */
+    .button {
+      display: block;
+      padding: 10px;
+      margin-right: 10px;
+      text-align: center;
+      background-color: #efefef;
+      color: #005826;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    
+    /* 鼠标悬停样式 */
+    .button:hover {
+      background-color: #999;
+      cursor: pointer;
+    }
+  </style>
+</head>
+<body>
+  <p style="font-size: 24px">Click into different sections:</p>
+  
+  <div class="button-container">
+    <a class="button" href="#timeline" style="bold">Timeline</a>
+    <a class="button" href="#description">Description</a>
+    <a class="button" href="#Structure and Ligand recognition">Structure&recognition</a>
+    <a class="button" href="#references">References</a>
+  </div>
+</body>
+</html>
+
 <html lang="zh-cn">
 <head>
 <meta charset="utf-8"> 
 <style>
   .header_box {
     border: none;
-    border-bottom: 4px solid #005826;
     background: #efefef;
     font-size:28px
+  }
+  blockquote {
+  margin: 0 0 0px;
   }
 </style>
 </head>
 <p><br /></p>
 <p class="header_box">Timeline</p>
-<p><br /></p>
-<div class="timeline">
+<div class="timeline" id="timeline">
   <div class="year">
     <div class="inner">
       <span>Start</span>
@@ -70,16 +115,15 @@ permalink: /docs/NiCo/
   </div>
 </div>
 </html>
+<p><br /></p>
         
-<p class="header_box">Description</p>
-***
+<p class="header_box" id="description">Description</p>
 <font size="4">The NiCo riboswitch is a riboswitch that senses nickel or cobalt ions. Thus, it is an RNA molecule that specifically binds these metal ions, and regulates genes accordingly. The riboswitch is thought to be a part of a system that responds to toxic levels of these metal ions, although the riboswitch might also participate in dealing with the situation where insufficient levels of these trace elements are present in the cell. The crystal structure of a NiCo riboswitch has been determined, and available evidence suggests that the riboswitches bind their metal-ion ligands cooperatively (From Wikipedia)<sup></sup>.</font>
 <p><br /></p>
             
 > Gene association
         
 <font size="4">（暂缺）<sup></sup>.</font>
-<p><br /></p>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;">
 <tr >
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
@@ -100,7 +144,7 @@ permalink: /docs/NiCo/
 </table>
 <p><br /></p>
                     
-<p class="header_box">Structure and Ligand recognition</p>
+<p class="header_box" id="Structure and Ligand recognition">Structure and Ligand recognition</p>
 > 2D representation
         
 <font size=4>Left: Consensus sequence and secondary structure model for the NiCo riboswitch. Right: Secondary structure depictions of the NiCo riboswitch according to PDB ID: 4RUM. Helices P1-P2 (pink) and P3-P4 (blue) form a 'H'-shaped structure stabilized at the junction by four Co<sup>2+</sup> ions. Inner sphere (filled symbols) mediated contacts to different metals are shown in key<sup>[2]</sup>.</font><br>
@@ -139,7 +183,7 @@ permalink: /docs/NiCo/
     <div class="main-container">
         <div class="zoom-wrapper1">
             <div class="zoom-area1">
-                <img src="/images/2D/NiCo_riboswitch_2D1.svg" alt="drawing" style="width:400px" />
+                <img src="/images/2D/NiCo_riboswitch_2D1.svg" alt="drawing" style="width:40px" />
             </div>
         </div>
     </div>
@@ -168,7 +212,7 @@ permalink: /docs/NiCo/
     <div class="main-container">
         <div class="zoom-wrapper2">
             <div class="zoom-area2">
-                <img src="/images/2D/NiCo_riboswitch_2D2.svg" alt="drawing" style="width:400px" />
+                <img src="/images/2D/NiCo_riboswitch_2D2.svg" alt="drawing" style="width:40px" />
             </div>
         </div>
     </div>
@@ -183,6 +227,7 @@ permalink: /docs/NiCo/
     </script>
 </td>
 </tr></table><br>
+<p><br /></p>
                 
 > 3D visualisation
             
@@ -375,6 +420,7 @@ permalink: /docs/NiCo/
     </body>
     </html></td>
   </tr></table><br>
+  <p><br /></p>
                 
 > Binding pocket
                 
@@ -384,6 +430,7 @@ permalink: /docs/NiCo/
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/NiCo_riboswitch_ binding_pockets2.svg" alt="drawing" style="width:400px"  px="" /></td>
 </tr>
 </table>
+<p><br /></p>
                     
 > Ligand recognition
             
@@ -399,22 +446,25 @@ permalink: /docs/NiCo/
 </table>
 <p><br /></p>
                 
-<p class="header_box">References</p>
-<p><br /></p>
+<p class="header_box" id="references">References</p>
             
 <p><strong>[1] Bacterial riboswitches cooperatively bind Ni(2+) or Co(2+) ions and control  expression of heavy metal transporters.</strong><br />
 Furukawa, K. et al.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/25794617/" target="_blank">Mol. Cell 57, 1088–1098 (2015).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/25794617/" target="_blank">Mol. Cell 57, 1088–1098 (2015).</a>
+<br /><br /></p>
                 
 <p><strong>[2] The (NiCo) Riboswitch Responds to Iron(II).</strong><br />
 Xu, J. & Cotruvo, J. A., Jr.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/32250107/" target="_blank">Biochemistry 59, 1508–1516 (2020).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/32250107/" target="_blank">Biochemistry 59, 1508–1516 (2020).</a>
+<br /><br /></p>
                 
 <p><strong>[3] Iron-responsive riboswitches.</strong><br />
 Xu, J. & Cotruvo, J. A., Jr.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/35427920/" target="_blank">Curr. Opin. Chem. Biol. 68, 102135 (2022).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/35427920/" target="_blank">Curr. Opin. Chem. Biol. 68, 102135 (2022).</a>
+<br /><br /></p>
                 
 <p><strong>[4] Reconsidering the (NiCo) Riboswitch as an Iron Riboswitch.</strong><br />
 Xu, J. & Cotruvo, J. A., Jr.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/35996475/" target="_blank">ACS Bio Med Chem Au 2, 376–385 (2022).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/35996475/" target="_blank">ACS Bio Med Chem Au 2, 376–385 (2022).</a>
+<br /><br /></p>
                 

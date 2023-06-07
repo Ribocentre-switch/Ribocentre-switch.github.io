@@ -7,22 +7,67 @@ permalink: /docs/NAD<sup>+</sup>-I/
 ---
 <p style="font-size: 24px"><strong>Rfam ID: [RF03013](https://rfam.xfam.org/family/RF03013,target="_blank")(nadA RNA)</strong> <br /></p>
 
+<br />
+<html>
+<head>
+  <title>横向排列的点击按钮</title>
+  <style>
+    /* 按钮容器样式 */
+    .button-container {
+      display: flex;
+      justify-content: left;
+      align-items: center;
+      height: 50px;
+    }
+    
+    /* 按钮样式 */
+    .button {
+      display: block;
+      padding: 10px;
+      margin-right: 10px;
+      text-align: center;
+      background-color: #efefef;
+      color: #005826;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    
+    /* 鼠标悬停样式 */
+    .button:hover {
+      background-color: #999;
+      cursor: pointer;
+    }
+  </style>
+</head>
+<body>
+  <p style="font-size: 24px">Click into different sections:</p>
+  
+  <div class="button-container">
+    <a class="button" href="#timeline" style="bold">Timeline</a>
+    <a class="button" href="#description">Description</a>
+    <a class="button" href="#Structure and Ligand recognition">Structure&recognition</a>
+    <a class="button" href="#references">References</a>
+  </div>
+</body>
+</html>
+
 <html lang="zh-cn">
 <head>
 <meta charset="utf-8"> 
 <style>
   .header_box {
     border: none;
-    border-bottom: 4px solid #005826;
     background: #efefef;
     font-size:28px
+  }
+  blockquote {
+  margin: 0 0 0px;
   }
 </style>
 </head>
 <p><br /></p>
 <p class="header_box">Timeline</p>
-<p><br /></p>
-<div class="timeline">
+<div class="timeline" id="timeline">
   <div class="year">
     <div class="inner">
       <span>Start</span>
@@ -70,16 +115,15 @@ permalink: /docs/NAD<sup>+</sup>-I/
   </div>
 </div>
 </html>
+<p><br /></p>
         
-<p class="header_box">Description</p>
-***
+<p class="header_box" id="description">Description</p>
 <font size="4">NAD<sup>+</sup>-I riboswitch is the first class of riboswitches that recognize NAD<sup>+</sup>. It is usually located upstream of nadA genes  within the phylum Acidobacteria, which encode quinolinate synthetase, an enzyme that performs a step in NAD<sup>+</sup> synthesis. For these reasons it was inferred that the RNAs function as riboswitches<sup></sup>.</font>
 <p><br /></p>
             
 > Gene association
         
 <font size="4">Biosynthetic pathway of NAD<sup>+</sup>and related molecules. All NAD<sup>+</sup>-I riboswitch representatives are found exclusively upstream of nadA genes<sup>[2]</sup>.</font>
-<p><br /></p>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;">
 <tr >
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
@@ -91,7 +135,7 @@ permalink: /docs/NAD<sup>+</sup>-I/
                 
 > Gene regulation
             
-<p class="header_box">Structure and Ligand recognition</p>
+<p class="header_box" id="Structure and Ligand recognition">Structure and Ligand recognition</p>
 > 2D representation
         
 <font size=4>(Left) Consensus sequence and secondary structure model for the NAD-I riboswitch. (Right) Secondary structure depictions of the NAD-I riboswitch according to PDB ID:7DB1<sup>[1,4]</sup>.</font><br>
@@ -130,7 +174,7 @@ permalink: /docs/NAD<sup>+</sup>-I/
     <div class="main-container">
         <div class="zoom-wrapper1">
             <div class="zoom-area1">
-                <img src="/images/2D/NAD+-I_riboswitch_2D.svg" alt="drawing" style="width:400px" />
+                <img src="/images/2D/NAD+-I_riboswitch_2D.svg" alt="drawing" style="width:40px" />
             </div>
         </div>
     </div>
@@ -159,7 +203,7 @@ permalink: /docs/NAD<sup>+</sup>-I/
     <div class="main-container">
         <div class="zoom-wrapper2">
             <div class="zoom-area2">
-                <img src="/images/2D/" alt="drawing" style="width:400px" />
+                <img src="/images/2D/" alt="drawing" style="width:40px" />
             </div>
         </div>
     </div>
@@ -174,6 +218,7 @@ permalink: /docs/NAD<sup>+</sup>-I/
     </script>
 </td>
 </tr></table><br>
+<p><br /></p>
                 
 > 3D visualisation
             
@@ -306,6 +351,7 @@ permalink: /docs/NAD<sup>+</sup>-I/
     </body>
     </html></td>
   </tr></table><br>
+  <p><br /></p>
                 
 > Binding pocket
                 
@@ -315,6 +361,7 @@ permalink: /docs/NAD<sup>+</sup>-I/
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/" alt="drawing" style="width:400px"  px="" /></td>
 </tr>
 </table>
+<p><br /></p>
                     
 > Ligand recognition
             
@@ -330,22 +377,25 @@ permalink: /docs/NAD<sup>+</sup>-I/
 </table>
 <p><br /></p>
                 
-<p class="header_box">References</p>
-<p><br /></p>
+<p class="header_box" id="references">References</p>
             
 <p><strong>[1] Detection of 224 candidate structured RNAs by comparative analysis of specific subsets of intergenic regions</strong><br />
 Weinberg, Z. et al.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/28977401/" target="_blank">Nucleic Acids Res. 45, 10811–10823 (2017).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/28977401/" target="_blank">Nucleic Acids Res. 45, 10811–10823 (2017).</a>
+<br /><br /></p>
                 
 <p><strong>[2] Evidence that the nadA motif is a bacterial riboswitch for the ubiquitous enzyme  cofactor NAD</strong><br />
 Malkowski, S. N., Spencer, T. C. J. & Breaker, R. R.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/31467147/" target="_blank">RNA 25, 1616–1627 (2019).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/31467147/" target="_blank">RNA 25, 1616–1627 (2019).</a>
+<br /><br /></p>
                 
 <p><strong>[3] Structure and ligand binding of the ADP-binding domain of the NAD<sup>+</sup> riboswitch</strong><br />
 Huang, L., Wang, J. & Lilley, D. M. J.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/32295864/" target="_blank">RNA 26, 878–887 (2020).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/32295864/" target="_blank">RNA 26, 878–887 (2020).</a>
+<br /><br /></p>
                 
 <p><strong>[4] Structural distinctions between NAD<sup>+</sup> riboswitch domains 1 and 2 determine  differential folding and ligand binding</strong><br />
 Chen, H. et al.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/33170270/" target="_blank">Nucleic Acids Res. 48, 12394–12406 (2020).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/33170270/" target="_blank">Nucleic Acids Res. 48, 12394–12406 (2020).</a>
+<br /><br /></p>
                 

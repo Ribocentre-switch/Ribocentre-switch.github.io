@@ -7,22 +7,67 @@ permalink: /docs/c-di-AMP/
 ---
 <p style="font-size: 24px"><strong>Rfam ID: [RF00379](https://rfam.xfam.org/family/RF00379,target="_blank")(YdaO/YuaA leader)</strong> <br /></p>
 
+<br />
+<html>
+<head>
+  <title>横向排列的点击按钮</title>
+  <style>
+    /* 按钮容器样式 */
+    .button-container {
+      display: flex;
+      justify-content: left;
+      align-items: center;
+      height: 50px;
+    }
+    
+    /* 按钮样式 */
+    .button {
+      display: block;
+      padding: 10px;
+      margin-right: 10px;
+      text-align: center;
+      background-color: #efefef;
+      color: #005826;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    
+    /* 鼠标悬停样式 */
+    .button:hover {
+      background-color: #999;
+      cursor: pointer;
+    }
+  </style>
+</head>
+<body>
+  <p style="font-size: 24px">Click into different sections:</p>
+  
+  <div class="button-container">
+    <a class="button" href="#timeline" style="bold">Timeline</a>
+    <a class="button" href="#description">Description</a>
+    <a class="button" href="#Structure and Ligand recognition">Structure&recognition</a>
+    <a class="button" href="#references">References</a>
+  </div>
+</body>
+</html>
+
 <html lang="zh-cn">
 <head>
 <meta charset="utf-8"> 
 <style>
   .header_box {
     border: none;
-    border-bottom: 4px solid #005826;
     background: #efefef;
     font-size:28px
+  }
+  blockquote {
+  margin: 0 0 0px;
   }
 </style>
 </head>
 <p><br /></p>
 <p class="header_box">Timeline</p>
-<p><br /></p>
-<div class="timeline">
+<div class="timeline" id="timeline">
   <div class="year">
     <div class="inner">
       <span>Start</span>
@@ -102,9 +147,9 @@ permalink: /docs/c-di-AMP/
   </div>
 </div>
 </html>
+<p><br /></p>
         
-<p class="header_box">Description</p>
-***
+<p class="header_box" id="description">Description</p>
 <font size="4">The YdaO/YuaA leader (now called the cyclic di-AMP riboswitch) is a conserved RNA structure found upstream of the ydaO and yuaA genes in Bacillus subtilis and related genes in other bacteria. Its secondary structure and gene associations were predicted by bioinformatics. These RNAs function as riboswitches, and sense the signaling molecule cyclic di-AMP<sup></sup>.</font>
 <p><br /></p>
             
@@ -112,7 +157,7 @@ permalink: /docs/c-di-AMP/
         
 > Gene regulation
             
-<p class="header_box">Structure and Ligand recognition</p>
+<p class="header_box" id="Structure and Ligand recognition">Structure and Ligand recognition</p>
 > 2D representation
         
 <font size=4>Left: Consensus sequence and secondary structure model for the c-di-AMP riboswitch. Right: Secondary structure depictions of the c-di-AMP riboswitch according to PDB ID:4W90<sup>[3]</sup>.</font><br>
@@ -151,7 +196,7 @@ permalink: /docs/c-di-AMP/
     <div class="main-container">
         <div class="zoom-wrapper1">
             <div class="zoom-area1">
-                <img src="/images/2D/c-di-AMP_2D1.svg" alt="drawing" style="width:400px" />
+                <img src="/images/2D/c-di-AMP_2D1.svg" alt="drawing" style="width:40px" />
             </div>
         </div>
     </div>
@@ -180,7 +225,7 @@ permalink: /docs/c-di-AMP/
     <div class="main-container">
         <div class="zoom-wrapper2">
             <div class="zoom-area2">
-                <img src="/images/2D/c-di-AMP_2D2.svg" alt="drawing" style="width:400px" />
+                <img src="/images/2D/c-di-AMP_2D2.svg" alt="drawing" style="width:40px" />
             </div>
         </div>
     </div>
@@ -195,6 +240,7 @@ permalink: /docs/c-di-AMP/
     </script>
 </td>
 </tr></table><br>
+<p><br /></p>
                 
 > 3D visualisation
             
@@ -405,6 +451,7 @@ permalink: /docs/c-di-AMP/
     </body>
     </html></td>
   </tr></table><br>
+  <p><br /></p>
                 
 > Binding pocket
                 
@@ -414,6 +461,7 @@ permalink: /docs/c-di-AMP/
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/c-di-AMP_binding_pockets_2.svg" alt="drawing" style="width:400px"  px="" /></td>
 </tr>
 </table>
+<p><br /></p>
                     
 > Ligand recognition
             
@@ -429,38 +477,45 @@ permalink: /docs/c-di-AMP/
 </table>
 <p><br /></p>
                 
-<p class="header_box">References</p>
-<p><br /></p>
+<p class="header_box" id="references">References</p>
             
 <p><strong>[1] New RNA motifs suggest an expanded scope for riboswitches in bacterial genetic control.</strong><br />
 Barrick, J. E. et al.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/15096624/" target="_blank">Proc. Natl. Acad. Sci. U. S. A. 101, 6421–6426 (2004).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/15096624/" target="_blank">Proc. Natl. Acad. Sci. U. S. A. 101, 6421–6426 (2004).</a>
+<br /><br /></p>
                 
 <p><strong>[2] The ydaO motif is an ATP-sensing riboswitch in Bacillus subtilis.</strong><br />
 Watson, P. Y. & Fedor, M. J.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/23086297/" target="_blank">Nat. Chem. Biol. 8, 963–965 (2012).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/23086297/" target="_blank">Nat. Chem. Biol. 8, 963–965 (2012).</a>
+<br /><br /></p>
                 
 <p><strong>[3] Riboswitches in eubacteria sense the second messenger c-di-AMP.</strong><br />
 Nelson, J. W. et al.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/24141192/" target="_blank">Nat. Chem. Biol. 9, 834–839 (2013).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/24141192/" target="_blank">Nat. Chem. Biol. 9, 834–839 (2013).</a>
+<br /><br /></p>
                 
 <p><strong>[4] c-di-AMP binds the ydaO riboswitch in two pseudo-symmetry-related pockets.</strong><br />
 Ren, A. & Patel, D. J.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/25086509/" target="_blank">Nat. Chem. Biol. 10, 780–786 (2014).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/25086509/" target="_blank">Nat. Chem. Biol. 10, 780–786 (2014).</a>
+<br /><br /></p>
                 
 <p><strong>[5] Structural insights into recognition of c-di-AMP by the ydaO riboswitch.</strong><br />
 Gao, A. & Serganov, A.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/25086507/" target="_blank">Nat. Chem. Biol. 10, 787–792 (2014).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/25086507/" target="_blank">Nat. Chem. Biol. 10, 787–792 (2014).</a>
+<br /><br /></p>
                 
 <p><strong>[6] Crystal structure of a c-di-AMP riboswitch reveals an internally pseudo-dimeric RNA.</strong><br />
 Jones, C. P. & Ferré-D’Amaré, A. R.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/25271255/" target="_blank">EMBO J. 33, 2692–2703 (2014).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/25271255/" target="_blank">EMBO J. 33, 2692–2703 (2014).</a>
+<br /><br /></p>
                 
 <p><strong>[7] A c-di-AMP riboswitch controlling kdpFABC operon transcription regulates the potassium transporter system in Bacillus thuringiensis.</strong><br />
 Wang, X. et al.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/31044176/" target="_blank">Commun Biol 2, 151 (2019).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/31044176/" target="_blank">Commun Biol 2, 151 (2019).</a>
+<br /><br /></p>
                 
 <p><strong>[8] C-di-AMP Is a Second Messenger in Corynebacterium glutamicum That Regulates Expression of a Cell Wall-Related Peptidase via a Riboswitch.</strong><br />
 Reich, S. J. et al.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/36838266/" target="_blank">Microorganisms 11, (2023).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/36838266/" target="_blank">Microorganisms 11, (2023).</a>
+<br /><br /></p>
                 

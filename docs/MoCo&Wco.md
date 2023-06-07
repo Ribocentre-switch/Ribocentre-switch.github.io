@@ -7,22 +7,67 @@ permalink: /docs/MoCo&Wco/
 ---
 <p style="font-size: 24px"><strong>Rfam ID: [RF01055](https://rfam.xfam.org/family/RF01055,target="_blank")(MoCo (molybdenum cofactor) riboswitch)</strong> <br /></p>
 
+<br />
+<html>
+<head>
+  <title>横向排列的点击按钮</title>
+  <style>
+    /* 按钮容器样式 */
+    .button-container {
+      display: flex;
+      justify-content: left;
+      align-items: center;
+      height: 50px;
+    }
+    
+    /* 按钮样式 */
+    .button {
+      display: block;
+      padding: 10px;
+      margin-right: 10px;
+      text-align: center;
+      background-color: #efefef;
+      color: #005826;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    
+    /* 鼠标悬停样式 */
+    .button:hover {
+      background-color: #999;
+      cursor: pointer;
+    }
+  </style>
+</head>
+<body>
+  <p style="font-size: 24px">Click into different sections:</p>
+  
+  <div class="button-container">
+    <a class="button" href="#timeline" style="bold">Timeline</a>
+    <a class="button" href="#description">Description</a>
+    <a class="button" href="#Structure and Ligand recognition">Structure&recognition</a>
+    <a class="button" href="#references">References</a>
+  </div>
+</body>
+</html>
+
 <html lang="zh-cn">
 <head>
 <meta charset="utf-8"> 
 <style>
   .header_box {
     border: none;
-    border-bottom: 4px solid #005826;
     background: #efefef;
     font-size:28px
+  }
+  blockquote {
+  margin: 0 0 0px;
   }
 </style>
 </head>
 <p><br /></p>
 <p class="header_box">Timeline</p>
-<p><br /></p>
-<div class="timeline">
+<div class="timeline" id="timeline">
   <div class="year">
     <div class="inner">
       <span>Start</span>
@@ -86,16 +131,15 @@ permalink: /docs/MoCo&Wco/
   </div>
 </div>
 </html>
+<p><br /></p>
         
-<p class="header_box">Description</p>
-***
+<p class="header_box" id="description">Description</p>
 <font size="4">The MoCo RNA motif is a conserved RNA structure that is presumed to be a riboswitch that binds molybdenum cofactor or the related tungsten cofactor. Genetic experiments support the hypothesis that the MoCo RNA motif corresponds to a genetic control element that responds to changing concentrations of molybdenum or tungsten cofactor. As these cofactors are not available in purified form, in vitro binding assays cannot be performed. However, the genetic data, complex structure of the RNA and the failure to detect a protein involved in the regulation suggest that the MoCo RNA motif corresponds to a class of riboswitches (From Wikipedia)<sup></sup>.</font>
 <p><br /></p>
             
 > Gene association
         
 <font size="4">Pathway for molybdenum cofactor biosynthesis in eubacteria and tungsten cofactor in <i>P. furiosus</i>. Proteins in abbreviation are enzymes in the pathway except for ModABC. Proteins whose coding regions are located downstream and near the MoCo and Wco riboswitch in at least one organism are highlighted in red and blue, respectively<sup>[1,3-4]</sup>.</font>
-<p><br /></p>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;">
 <tr >
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
@@ -116,7 +160,7 @@ permalink: /docs/MoCo&Wco/
 </table>
 <p><br /></p>
                     
-<p class="header_box">Structure and Ligand recognition</p>
+<p class="header_box" id="Structure and Ligand recognition">Structure and Ligand recognition</p>
 > 2D representation
         
 <font size=4>Left: Consensus sequence and secondary structure model for the WoCo and Wco riboswitch. Right: Sequence of the 138 moaA RNA of <i>E. coli</i> depicted to conform to the secondary structure model. Nucleotidesshaded in grey undergo greater rates of spontaneous 3’ phosphodiester cleavage, which typically indicates an elevated level of structural flexibility relative to internucleotide linkages present in stable secondary or tertiary structures. The bar in red identifies purine nucleotides predicted to serve as a ribosome binding site and the translation start codon for moaA is boxed in green<sup>[3]</sup>.</font><br>
@@ -155,7 +199,7 @@ permalink: /docs/MoCo&Wco/
     <div class="main-container">
         <div class="zoom-wrapper1">
             <div class="zoom-area1">
-                <img src="/images/2D/Moco_riboswitch_2D1.svg" alt="drawing" style="width:400px" />
+                <img src="/images/2D/Moco_riboswitch_2D1.svg" alt="drawing" style="width:40px" />
             </div>
         </div>
     </div>
@@ -184,7 +228,7 @@ permalink: /docs/MoCo&Wco/
     <div class="main-container">
         <div class="zoom-wrapper2">
             <div class="zoom-area2">
-                <img src="/images/2D/Moco_riboswitch_2D2.svg" alt="drawing" style="width:400px" />
+                <img src="/images/2D/Moco_riboswitch_2D2.svg" alt="drawing" style="width:40px" />
             </div>
         </div>
     </div>
@@ -199,6 +243,7 @@ permalink: /docs/MoCo&Wco/
     </script>
 </td>
 </tr></table><br>
+<p><br /></p>
                 
 > 3D visualisation
             
@@ -218,38 +263,45 @@ permalink: /docs/MoCo&Wco/
 </table>
 <p><br /></p>
                 
-<p class="header_box">References</p>
-<p><br /></p>
+<p class="header_box" id="references">References</p>
             
 <p><strong>[1] Molybdenum cofactor biosynthesis and deficiency.</strong><br />
 Schwarz, G.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/16261263/" target="_blank">Cell. Mol. Life Sci. 62, (2005).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/16261263/" target="_blank">Cell. Mol. Life Sci. 62, (2005).</a>
+<br /><br /></p>
                 
 <p><strong>[2] Identification of 22 candidate structured RNAs in bacteria using the CMfinder comparative genomics pipeline.</strong><br />
 Weinberg, Z. et al.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/17621584/" target="_blank">Nucleic Acids Res. 35, (2007).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/17621584/" target="_blank">Nucleic Acids Res. 35, (2007).</a>
+<br /><br /></p>
                 
 <p><strong>[3] A widespread riboswitch candidate that controls bacterial genes involved in molybdenum cofactor and tungsten cofactor metabolism.</strong><br />
 Regulski, E. E. et al.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/18363797/" target="_blank">Mol. Microbiol. 68, (2008).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/18363797/" target="_blank">Mol. Microbiol. 68, (2008).</a>
+<br /><br /></p>
                 
 <p><strong>[4] Function of MoaB proteins in the biosynthesis of the molybdenum and tungsten cofactors.</strong><br />
 Bevers, L. E. et al.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/18154309/" target="_blank">Biochemistry 47, (2008).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/18154309/" target="_blank">Biochemistry 47, (2008).</a>
+<br /><br /></p>
                 
 <p><strong>[5] Molybdenum enzymes, their maturation and molybdenum cofactor biosynthesis in Escherichia coli.</strong><br />
 Iobbi-Nivol, C. & Leimkühler, .<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/23201473/" target="_blank">Biochim. Biophys. Acta 1827, 1086–1101 (2013).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/23201473/" target="_blank">Biochim. Biophys. Acta 1827, 1086–1101 (2013).</a>
+<br /><br /></p>
                 
 <p><strong>[6] Mechanism of pyranopterin ring formation in molybdenum cofactor biosynthesis.</strong><br />
 Hover, B. M., Tonthat, N. K., Schumacher, M. A. & Yokoyama, K.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/25941396/" target="_blank">Proc. Natl. Acad. Sci. U. S. A. 112, 6347–6352 (2015).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/25941396/" target="_blank">Proc. Natl. Acad. Sci. U. S. A. 112, 6347–6352 (2015).</a>
+<br /><br /></p>
                 
 <p><strong>[7] Bioinformatics and Genomic Analyses of the Suitability of Eight Riboswitches for Antibacterial Drug Targets.</strong><br />
 Pavlova, N. & Penchovsky, R.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/36139956/" target="_blank">Antibiotics (Basel) 11, (2022).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/36139956/" target="_blank">Antibiotics (Basel) 11, (2022).</a>
+<br /><br /></p>
                 
 <p><strong>[8] The structural features of the ligand-free moaA riboswitch and its ion-dependent folding.</strong><br />
 Amadei, F., Reichenbach, M., Gallo, S. & Sigel, R. K. O.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/36774787/" target="_blank">J. Inorg. Biochem. 242, 112153 (2023).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/36774787/" target="_blank">J. Inorg. Biochem. 242, 112153 (2023).</a>
+<br /><br /></p>
                 

@@ -7,22 +7,67 @@ permalink: /docs/NAD<sup>+</sup>-II/
 ---
 <p style="font-size: 24px"><strong>Rfam ID: [nan](https://rfam.xfam.org/family/nan,target="_blank")(nan)</strong> <br /></p>
 
+<br />
+<html>
+<head>
+  <title>横向排列的点击按钮</title>
+  <style>
+    /* 按钮容器样式 */
+    .button-container {
+      display: flex;
+      justify-content: left;
+      align-items: center;
+      height: 50px;
+    }
+    
+    /* 按钮样式 */
+    .button {
+      display: block;
+      padding: 10px;
+      margin-right: 10px;
+      text-align: center;
+      background-color: #efefef;
+      color: #005826;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    
+    /* 鼠标悬停样式 */
+    .button:hover {
+      background-color: #999;
+      cursor: pointer;
+    }
+  </style>
+</head>
+<body>
+  <p style="font-size: 24px">Click into different sections:</p>
+  
+  <div class="button-container">
+    <a class="button" href="#timeline" style="bold">Timeline</a>
+    <a class="button" href="#description">Description</a>
+    <a class="button" href="#Structure and Ligand recognition">Structure&recognition</a>
+    <a class="button" href="#references">References</a>
+  </div>
+</body>
+</html>
+
 <html lang="zh-cn">
 <head>
 <meta charset="utf-8"> 
 <style>
   .header_box {
     border: none;
-    border-bottom: 4px solid #005826;
     background: #efefef;
     font-size:28px
+  }
+  blockquote {
+  margin: 0 0 0px;
   }
 </style>
 </head>
 <p><br /></p>
 <p class="header_box">Timeline</p>
-<p><br /></p>
-<div class="timeline">
+<div class="timeline" id="timeline">
   <div class="year">
     <div class="inner">
       <span>Start</span>
@@ -70,16 +115,15 @@ permalink: /docs/NAD<sup>+</sup>-II/
   </div>
 </div>
 </html>
+<p><br /></p>
         
-<p class="header_box">Description</p>
-***
+<p class="header_box" id="description">Description</p>
 <font size="4">NAD<sup>+</sup>-II riboswitch is the second class of riboswitches that recognize NAD<sup>+</sup>. It is usually associated with pnuC genes, and PnuC proteins are known to transport nicotinamide riboside (NR), which is a component of the ubiquitous and abundant enzyme cofactor nicotinamide adenine dinucleotide (NAD<sup>+</sup>). Thus, “pnuC motif” was inferred to function as aptamers for a novel class of NAD<sup>+</sup>-sensing riboswitches.<sup></sup>.</font>
 <p><br /></p>
             
 > Gene association
         
 <font size="4">Schematic representation of pnuC as a NR transporter involved in NAD+ synthesis. NAD+-II riboswitch representatives are found exclusively upstream of pnuC genes.<sup>[2]</sup>.</font>
-<p><br /></p>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;">
 <tr >
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
@@ -100,7 +144,7 @@ permalink: /docs/NAD<sup>+</sup>-II/
 </table>
 <p><br /></p>
                     
-<p class="header_box">Structure and Ligand recognition</p>
+<p class="header_box" id="Structure and Ligand recognition">Structure and Ligand recognition</p>
 > 2D representation
         
 <font size=4>Consensus sequence and secondary structure model for the NAD-II riboswitch.<sup>[2,4]</sup>.</font><br>
@@ -139,7 +183,7 @@ permalink: /docs/NAD<sup>+</sup>-II/
     <div class="main-container">
         <div class="zoom-wrapper1">
             <div class="zoom-area1">
-                <img src="/images/2D/NAD+-II_riboswitch_2D.svg" alt="drawing" style="width:400px" />
+                <img src="/images/2D/NAD+-II_riboswitch_2D.svg" alt="drawing" style="width:40px" />
             </div>
         </div>
     </div>
@@ -168,7 +212,7 @@ permalink: /docs/NAD<sup>+</sup>-II/
     <div class="main-container">
         <div class="zoom-wrapper2">
             <div class="zoom-area2">
-                <img src="/images/2D/" alt="drawing" style="width:400px" />
+                <img src="/images/2D/" alt="drawing" style="width:40px" />
             </div>
         </div>
     </div>
@@ -183,6 +227,7 @@ permalink: /docs/NAD<sup>+</sup>-II/
     </script>
 </td>
 </tr></table><br>
+<p><br /></p>
                 
 > 3D visualisation
             
@@ -356,6 +401,7 @@ permalink: /docs/NAD<sup>+</sup>-II/
     </body>
     </html></td>
   </tr></table><br>
+  <p><br /></p>
                 
 > Binding pocket
                 
@@ -365,25 +411,29 @@ permalink: /docs/NAD<sup>+</sup>-II/
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/" alt="drawing" style="width:400px"  px="" /></td>
 </tr>
 </table>
+<p><br /></p>
                     
 > Ligand recognition
             
-<p class="header_box">References</p>
-<p><br /></p>
+<p class="header_box" id="references">References</p>
             
 <p><strong>[1] Comprehensive discovery of novel structured noncoding RNAs in 26 bacterial genomes</strong><br />
 Brewer, K. I. et al.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/33970790/" target="_blank">RNA Biol. 18, 2417–2432 (2021).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/33970790/" target="_blank">RNA Biol. 18, 2417–2432 (2021).</a>
+<br /><br /></p>
                 
 <p><strong>[2] A second riboswitch class for the enzyme cofactor NAD</strong><br />
 Panchapakesan, S. S. S., Corey, L., Malkowski, S. N., Higgs, G. & Breaker, R. R.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/33087526/" target="_blank">RNA 27, 99–105 (2021).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/33087526/" target="_blank">RNA 27, 99–105 (2021).</a>
+<br /><br /></p>
                 
 <p><strong>[3] Structure-based investigations of the NAD<sup>+</sup>-II riboswitch</strong><br />
 Xu, X. et al.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/36610789/" target="_blank">Nucleic Acids Res. 51, 54–67 (2023).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/36610789/" target="_blank">Nucleic Acids Res. 51, 54–67 (2023).</a>
+<br /><br /></p>
                 
 <p><strong>[4] Crystal structures of the NAD<sup>+</sup>-II riboswitch reveal two distinct ligand-binding pockets</strong><br />
 Peng, X., Liao, W., Lin, X., Lilley, D. M. J. & Huang, L.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/36840714/" target="_blank">Nucleic Acids Res. 51, 2904–2914 (2023).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/36840714/" target="_blank">Nucleic Acids Res. 51, 2904–2914 (2023).</a>
+<br /><br /></p>
                 

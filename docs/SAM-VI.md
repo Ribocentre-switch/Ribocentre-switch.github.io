@@ -7,22 +7,67 @@ permalink: /docs/SAM-VI/
 ---
 <p style="font-size: 24px"><strong>Rfam ID: [RF02885](https://rfam.xfam.org/family/RF02885,target="_blank")(SAM-VI riboswitch)</strong> <br /></p>
 
+<br />
+<html>
+<head>
+  <title>横向排列的点击按钮</title>
+  <style>
+    /* 按钮容器样式 */
+    .button-container {
+      display: flex;
+      justify-content: left;
+      align-items: center;
+      height: 50px;
+    }
+    
+    /* 按钮样式 */
+    .button {
+      display: block;
+      padding: 10px;
+      margin-right: 10px;
+      text-align: center;
+      background-color: #efefef;
+      color: #005826;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    
+    /* 鼠标悬停样式 */
+    .button:hover {
+      background-color: #999;
+      cursor: pointer;
+    }
+  </style>
+</head>
+<body>
+  <p style="font-size: 24px">Click into different sections:</p>
+  
+  <div class="button-container">
+    <a class="button" href="#timeline" style="bold">Timeline</a>
+    <a class="button" href="#description">Description</a>
+    <a class="button" href="#Structure and Ligand recognition">Structure&recognition</a>
+    <a class="button" href="#references">References</a>
+  </div>
+</body>
+</html>
+
 <html lang="zh-cn">
 <head>
 <meta charset="utf-8"> 
 <style>
   .header_box {
     border: none;
-    border-bottom: 4px solid #005826;
     background: #efefef;
     font-size:28px
+  }
+  blockquote {
+  margin: 0 0 0px;
   }
 </style>
 </head>
 <p><br /></p>
 <p class="header_box">Timeline</p>
-<p><br /></p>
-<div class="timeline">
+<div class="timeline" id="timeline">
   <div class="year">
     <div class="inner">
       <span>Start</span>
@@ -62,16 +107,15 @@ permalink: /docs/SAM-VI/
   </div>
 </div>
 </html>
+<p><br /></p>
         
-<p class="header_box">Description</p>
-***
+<p class="header_box" id="description">Description</p>
 <font size="4">SAM-VI is a member of the riboswitch family. It is predominantly found in Bifidobacterium and exhibits some similarities to the SAM-III (Smk box) riboswitch class, but lacks most of the highly conserved nucleotides of SAM-III class. SAM-VI aptamers bind the cofactor S-adenosylmethinine SAM (a key metabolite in sulphur metabolism) and discriminate strongly against S-adenosylhomocysteine SAH. The class was discovered by further analysis of Bifido-meK motif RNAs. (from WiKi)<sup></sup>.</font>
 <p><br /></p>
             
 > Gene association
         
 <font size="4">Pathways for sulphate assimilation and biosynthesis of cysteine and methionine.SAM-VI riboswitch (red bar) is involved in multiple gene regulation in the synthetic pathway<sup>[1]</sup>.</font>
-<p><br /></p>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;">
 <tr >
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
@@ -92,7 +136,7 @@ permalink: /docs/SAM-VI/
 </table>
 <p><br /></p>
                     
-<p class="header_box">Structure and Ligand recognition</p>
+<p class="header_box" id="Structure and Ligand recognition">Structure and Ligand recognition</p>
 > 2D representation
         
 <font size=4>Left: Consensus sequence and secondary structure model for the SAM-VI riboswitch. Right: Secondary structure depictions of the SAM-VI riboswitch according to PDB ID:6las<sup></sup>.</font><br>
@@ -131,7 +175,7 @@ permalink: /docs/SAM-VI/
     <div class="main-container">
         <div class="zoom-wrapper1">
             <div class="zoom-area1">
-                <img src="/images/2D/SAM-VI_riboswitch_2D1.svg" alt="drawing" style="width:400px" />
+                <img src="/images/2D/SAM-VI_riboswitch_2D1.svg" alt="drawing" style="width:40px" />
             </div>
         </div>
     </div>
@@ -160,7 +204,7 @@ permalink: /docs/SAM-VI/
     <div class="main-container">
         <div class="zoom-wrapper2">
             <div class="zoom-area2">
-                <img src="/images/2D/SAM-VI_riboswitch_2D2.svg" alt="drawing" style="width:400px" />
+                <img src="/images/2D/SAM-VI_riboswitch_2D2.svg" alt="drawing" style="width:40px" />
             </div>
         </div>
     </div>
@@ -175,6 +219,7 @@ permalink: /docs/SAM-VI/
     </script>
 </td>
 </tr></table><br>
+<p><br /></p>
                 
 > 3D visualisation
             
@@ -295,6 +340,7 @@ permalink: /docs/SAM-VI/
     </body>
     </html></td>
   </tr></table><br>
+  <p><br /></p>
                 
 > Binding pocket
                 
@@ -304,6 +350,7 @@ permalink: /docs/SAM-VI/
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/SAM-VI_riboswitch_binding_pockets2.svg" alt="drawing" style="width:400px"  px="" /></td>
 </tr>
 </table>
+<p><br /></p>
                     
 > Ligand recognition
             
@@ -319,18 +366,20 @@ permalink: /docs/SAM-VI/
 </table>
 <p><br /></p>
                 
-<p class="header_box">References</p>
-<p><br /></p>
+<p class="header_box" id="references">References</p>
             
 <p><strong>[1] SAM-VI RNAs selectively bind S-adenosylmethionine and exhibit similarities to SAM-III riboswitches.</strong><br />
 Mirihana Arachchilage, G., Sherlock, M. E., Weinberg, Z., & Breaker, R. R.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/29106323/" target="_blank">RNA Biol. 15, 371–378 (2018).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/29106323/" target="_blank">RNA Biol. 15, 371–378 (2018).</a>
+<br /><br /></p>
                 
 <p><strong>[2] SAM-VI riboswitch structure and signature for ligand discrimination.</strong><br />
 Sun, A., Gasser, C., Li, F., Chen, H., Mair, S., Krasheninina, O., Micura, R., & Ren, A.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/31844059/" target="_blank">Nat. Commun. 10, 5728 (2019).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/31844059/" target="_blank">Nat. Commun. 10, 5728 (2019).</a>
+<br /><br /></p>
                 
 <p><strong>[3] Observation of structural switch in nascent SAM-VI riboswitch during transcription at single-nucleotide and single-molecule resolution.</strong><br />
 Xue, Y., Li, J., Chen, D., Zhao, X., Hong, L., & Liu, Y.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/37087479/" target="_blank">Nat. Commun. 14, 2320 (2023).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/37087479/" target="_blank">Nat. Commun. 14, 2320 (2023).</a>
+<br /><br /></p>
                 

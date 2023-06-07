@@ -8,22 +8,67 @@ permalink: /docs/Magnesium/
 <p style="font-size: 24px"><strong>Rfam ID: [RF00380](https://rfam.xfam.org/family/RF00380,target="_blank")(M-box riboswitch (ykoK leader))</strong> <br /></p>
 <p style="font-size: 24px"><strong>&emsp;&emsp;&emsp;&emsp;[RF01056](https://rfam.xfam.org/family/RF01056,target="_blank")(Magnesium Sensor)</strong> <br /></p>
 
+<br />
+<html>
+<head>
+  <title>横向排列的点击按钮</title>
+  <style>
+    /* 按钮容器样式 */
+    .button-container {
+      display: flex;
+      justify-content: left;
+      align-items: center;
+      height: 50px;
+    }
+    
+    /* 按钮样式 */
+    .button {
+      display: block;
+      padding: 10px;
+      margin-right: 10px;
+      text-align: center;
+      background-color: #efefef;
+      color: #005826;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    
+    /* 鼠标悬停样式 */
+    .button:hover {
+      background-color: #999;
+      cursor: pointer;
+    }
+  </style>
+</head>
+<body>
+  <p style="font-size: 24px">Click into different sections:</p>
+  
+  <div class="button-container">
+    <a class="button" href="#timeline" style="bold">Timeline</a>
+    <a class="button" href="#description">Description</a>
+    <a class="button" href="#Structure and Ligand recognition">Structure&recognition</a>
+    <a class="button" href="#references">References</a>
+  </div>
+</body>
+</html>
+
 <html lang="zh-cn">
 <head>
 <meta charset="utf-8"> 
 <style>
   .header_box {
     border: none;
-    border-bottom: 4px solid #005826;
     background: #efefef;
     font-size:28px
+  }
+  blockquote {
+  margin: 0 0 0px;
   }
 </style>
 </head>
 <p><br /></p>
 <p class="header_box">Timeline</p>
-<p><br /></p>
-<div class="timeline">
+<div class="timeline" id="timeline">
   <div class="year">
     <div class="inner">
       <span>Start</span>
@@ -79,9 +124,9 @@ permalink: /docs/Magnesium/
   </div>
 </div>
 </html>
+<p><br /></p>
         
-<p class="header_box">Description</p>
-***
+<p class="header_box" id="description">Description</p>
 <font size="4">The Ykok leader or M-box is a Mg-sensing RNA structure that controls the expression of Magnesium ion transport proteins in bacteria. It is a distinct structure to the Magnesium responsive RNA element.
 The Ykok leader was originally described as a conserved sequence with potential riboswitch function found upstream of the <i>B. subtilis</i> ykoK gene and genes with related functions in other bacteria. Examples of the conserved M-box RNA structure occur upstream of each of the three major families of Mg transporters (CorA, MgtE and MgtA/MgtB) in various bacterial species.
 The molecular structure of the M-box example upstream of the <i>B. subtilis</i> ykoK gene includes six bound Mg ions. Biochemical studies indicate that this M-Box RNA compacts in the presence of Mg and other divalent ions. This folding process appears to disrupt an antiterminator structure, and thereby allow a transcription terminator structure to form. As expected from this model, B. subtilis cells repress expression of a downstream reporter gene when grown in the presence of Mg. Therefore, the M-box appears to function as a genetic "off" switch that is important for maintaining Mg homeostasis in bacteria.
@@ -91,7 +136,6 @@ The Magnesium responsive RNA element, not to be confused with the completely dis
 > Gene association
         
 <font size="4">Mg<sup>2+</sup> riboswitch in <i>Salmonella enterica</i>. Magnesium-responsive regulatory pathways in the bacteria <i>Salmonella enterica</i> by the two-component regulatory system consisting of PhoQ, the membrane-bound sensor kinase, and PhoP, a transcription regulator. PhoP, which is phosphorylated, affects more than 100 genes in response to fluctuations in the Mg<sup>2+</sup> concentration. The regulatory system PhoQ/PhoP is a two-component system activated in low magnesium levels or by cationic peptides. Genes regulated by PhoP-PhoQ are depicted in grey boxes and ovals<sup></sup>.</font>
-<p><br /></p>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;">
 <tr >
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
@@ -112,7 +156,7 @@ The Magnesium responsive RNA element, not to be confused with the completely dis
 </table>
 <p><br /></p>
                     
-<p class="header_box">Structure and Ligand recognition</p>
+<p class="header_box" id="Structure and Ligand recognition">Structure and Ligand recognition</p>
 > 2D representation
         
 <font size=4>Left: Consensus sequence and secondary structure model for the Mg<sup>2+</sup>-I riboswitch. Right: Secondary structure depictions of the Mg<sup>2+</sup>-I riboswitch according to PDB ID: 2QBZ<sup></sup>.</font><br>
@@ -151,7 +195,7 @@ The Magnesium responsive RNA element, not to be confused with the completely dis
     <div class="main-container">
         <div class="zoom-wrapper1">
             <div class="zoom-area1">
-                <img src="/images/2D/Mg2+-I_riboswitch_2D1.svg" alt="drawing" style="width:400px" />
+                <img src="/images/2D/Mg2+-I_riboswitch_2D1.svg" alt="drawing" style="width:40px" />
             </div>
         </div>
     </div>
@@ -180,7 +224,7 @@ The Magnesium responsive RNA element, not to be confused with the completely dis
     <div class="main-container">
         <div class="zoom-wrapper2">
             <div class="zoom-area2">
-                <img src="/images/2D/" alt="drawing" style="width:400px" />
+                <img src="/images/2D/" alt="drawing" style="width:40px" />
             </div>
         </div>
     </div>
@@ -195,6 +239,7 @@ The Magnesium responsive RNA element, not to be confused with the completely dis
     </script>
 </td>
 </tr></table><br>
+<p><br /></p>
                 
 <font size=4>Left: Consensus sequence and secondary structure model for the Mg<sup>2+</sup>-II riboswitch<sup></sup>.</font><br>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
@@ -232,7 +277,7 @@ The Magnesium responsive RNA element, not to be confused with the completely dis
     <div class="main-container">
         <div class="zoom-wrapper3">
             <div class="zoom-area3">
-                <img src="/images/2D/Mg2+-II_riboswitch_2D1.svg" alt="drawing" style="width:400px" />
+                <img src="/images/2D/Mg2+-II_riboswitch_2D1.svg" alt="drawing" style="width:40px" />
             </div>
         </div>
     </div>
@@ -261,7 +306,7 @@ The Magnesium responsive RNA element, not to be confused with the completely dis
     <div class="main-container">
         <div class="zoom-wrapper4">
             <div class="zoom-area4">
-                <img src="/images/2D/" alt="drawing" style="width:400px" />
+                <img src="/images/2D/" alt="drawing" style="width:40px" />
             </div>
         </div>
     </div>
@@ -276,6 +321,7 @@ The Magnesium responsive RNA element, not to be confused with the completely dis
     </script>
 </td>
 </tr></table><br>
+<p><br /></p>
                 
 > 3D visualisation
             
@@ -480,6 +526,7 @@ The Magnesium responsive RNA element, not to be confused with the completely dis
     </body>
     </html></td>
   </tr></table><br>
+  <p><br /></p>
                 
 > Binding pocket
                 
@@ -490,29 +537,34 @@ Right: Nucleotides that contact Mg1-3 via inner and outer sphere interactions ar
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/Magnesium_riboswitch_ binding_pockets2.svg" alt="drawing" style="width:400px"  px="" /></td>
 </tr>
 </table>
+<p><br /></p>
                     
 > Ligand recognition
             
-<p class="header_box">References</p>
-<p><br /></p>
+<p class="header_box" id="references">References</p>
             
 <p><strong>[1] New RNA motifs suggest an expanded scope for riboswitches in bacterial genetic control.</strong><br />
 Barrick, J. E. et al.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/15096624/" target="_blank">Proc. Natl. Acad. Sci. U. S. A. 101, 6421–6426 (2004).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/15096624/" target="_blank">Proc. Natl. Acad. Sci. U. S. A. 101, 6421–6426 (2004).</a>
+<br /><br /></p>
                 
 <p><strong>[2] An RNA sensor for intracellular Mg(2+).</strong><br />
 Cromie, M. J., Shi, Y., Latifi, T. & Groisman, E. A.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/16615891/" target="_blank">Cell 125, 71–84 (2006).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/16615891/" target="_blank">Cell 125, 71–84 (2006).</a>
+<br /><br /></p>
                 
 <p><strong>[3] Structure and mechanism of a metal-sensing regulatory RNA.</strong><br />
 Dann, C. E., 3rd et al.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/17803910/" target="_blank">Cell 130, 878–892 (2007).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/17803910/" target="_blank">Cell 130, 878–892 (2007).</a>
+<br /><br /></p>
                 
 <p><strong>[4] Multiple metal-binding cores are required for metalloregulation by M-box riboswitch RNAs.</strong><br />
 Wakeman, C. A., Ramesh, A. & Winkler, W. C.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/19619558/" target="_blank">J. Mol. Biol. 392, 723–735 (2009).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/19619558/" target="_blank">J. Mol. Biol. 392, 723–735 (2009).</a>
+<br /><br /></p>
                 
 <p><strong>[5] Insights into metalloregulation by M-box riboswitch RNAs via structural analysis of manganese-bound complexes.</strong><br />
 Ramesh, A., Wakeman, C. A. & Winkler, W. C.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/21315082/" target="_blank">J. Mol. Biol. 407, 556–570 (2011).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/21315082/" target="_blank">J. Mol. Biol. 407, 556–570 (2011).</a>
+<br /><br /></p>
                 

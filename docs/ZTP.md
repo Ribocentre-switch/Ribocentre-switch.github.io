@@ -7,22 +7,67 @@ permalink: /docs/ZTP/
 ---
 <p style="font-size: 24px"><strong>Rfam ID: [RF01750](https://rfam.xfam.org/family/RF01750,target="_blank")(ZMP/ZTP riboswitch)</strong> <br /></p>
 
+<br />
+<html>
+<head>
+  <title>横向排列的点击按钮</title>
+  <style>
+    /* 按钮容器样式 */
+    .button-container {
+      display: flex;
+      justify-content: left;
+      align-items: center;
+      height: 50px;
+    }
+    
+    /* 按钮样式 */
+    .button {
+      display: block;
+      padding: 10px;
+      margin-right: 10px;
+      text-align: center;
+      background-color: #efefef;
+      color: #005826;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    
+    /* 鼠标悬停样式 */
+    .button:hover {
+      background-color: #999;
+      cursor: pointer;
+    }
+  </style>
+</head>
+<body>
+  <p style="font-size: 24px">Click into different sections:</p>
+  
+  <div class="button-container">
+    <a class="button" href="#timeline" style="bold">Timeline</a>
+    <a class="button" href="#description">Description</a>
+    <a class="button" href="#Structure and Ligand recognition">Structure&recognition</a>
+    <a class="button" href="#references">References</a>
+  </div>
+</body>
+</html>
+
 <html lang="zh-cn">
 <head>
 <meta charset="utf-8"> 
 <style>
   .header_box {
     border: none;
-    border-bottom: 4px solid #005826;
     background: #efefef;
     font-size:28px
+  }
+  blockquote {
+  margin: 0 0 0px;
   }
 </style>
 </head>
 <p><br /></p>
 <p class="header_box">Timeline</p>
-<p><br /></p>
-<div class="timeline">
+<div class="timeline" id="timeline">
   <div class="year">
     <div class="inner">
       <span>Start</span>
@@ -118,16 +163,15 @@ permalink: /docs/ZTP/
   </div>
 </div>
 </html>
+<p><br /></p>
         
-<p class="header_box">Description</p>
-***
+<p class="header_box" id="description">Description</p>
 <font size="4">The ZMP/ZTP riboswitch (called the <i>pfl</i> RNA motif before) refers to a conserved RNA structure present in some bacteria and originally discovered using bioinformatics. ZMP/ZTP riboswitch are consistently present in genomic locations that likely correspond to the 5' untranslated regions (5' UTRs) of protein-coding genes. This arrangement in bacteria is commonly associated with cis-regulatory elements. Moreover, they are in presumed 5' UTRs of multiple non-homologous genes, suggesting that they function only in these locations. Additional evidence of cis-regulatory function came from the observation that predicted rho-independent transcription terminators overlap pfl RNAs. This overlap suggests that the alternate secondary structures of <i>pfl</i> RNA and the transcription terminator stem-loops compete with each other, and this is a common mechanism for cis gene control in bacteria. ZMP/ZTP riboswitch are found in a variety of phyla of bacteria, but are not found in all the species of that phylum. ZMP/ZTP riboswitch are common among species of orders Actinomycetales and Clostridiales, the classes Alphaproteobacteria and Betaproteobacteria and the genus Deinococcus. They are also found in isolated species of Bacteroidota, Chloroflexota, and Deltaproteobacteria. The genes regulated by ZMP/ZTP riboswitch relate to one-carbon metabolism. Most obviously, for example, formate-tetrahydrofolate ligase synthesizes 10-formyltetrahydrofolate. The <i>glyA</i> and <i>folD</i> convert between other one-carbon adducts of tetrahydrofolate. Another gene commonly associated with ZMP/ZTP riboswitch is <i>purH</i>, which catalyzes the formylation of the intermediate AICAR in <i>de novo</i> synthesis of purines. The formyl group is taken from formyltetrahydrofolate, and purine biosynthesis is often the dominant user of formyltetrahydrofolate. In similar fashions, if less directly, most ZMP/ZTP riboswitch are associated with genes that are directly or indirectly involved in one-carbon metabolism. It appears that the ZTP/ZMP purine derivatives can be used to regulate one-carbon metabolism by indirectly sensing a shortage of 10-formyl-tetrahydrofolate. The atomic-resolution structure has been solved by X-ray crystallography. These structures were deposited into the Protein Data Bank under accessions 4ZNP  (From Wikipedia)<sup></sup>.</font>
 <p><br /></p>
             
 > Gene association
         
 <font size="4">Genes most frequently associated with ZMP/ZTP riboswitch are highlighted in red and genes that are occasionally associated are highlighted in green. Genes in black have not been observed to be associated with ZMP/ZTP riboswitch<sup>[2]</sup>.</font>
-<p><br /></p>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;">
 <tr >
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
@@ -148,7 +192,7 @@ permalink: /docs/ZTP/
 </table>
 <p><br /></p>
                     
-<p class="header_box">Structure and Ligand recognition</p>
+<p class="header_box" id="Structure and Ligand recognition">Structure and Ligand recognition</p>
 > 2D representation
         
 <font size=4>Left: Consensus sequence and secondary structure model for the ZTP riboswitch. Right: Secondary structure depictions of the ZTP riboswitch according to PDB ID: 4ZNP<sup>[3]</sup>.</font><br>
@@ -187,7 +231,7 @@ permalink: /docs/ZTP/
     <div class="main-container">
         <div class="zoom-wrapper1">
             <div class="zoom-area1">
-                <img src="/images/2D/ZTP_riboswitch_2D1.svg" alt="drawing" style="width:400px" />
+                <img src="/images/2D/ZTP_riboswitch_2D1.svg" alt="drawing" style="width:40px" />
             </div>
         </div>
     </div>
@@ -216,7 +260,7 @@ permalink: /docs/ZTP/
     <div class="main-container">
         <div class="zoom-wrapper2">
             <div class="zoom-area2">
-                <img src="/images/2D/ZTP_riboswitch_2D2.svg" alt="drawing" style="width:400px" />
+                <img src="/images/2D/ZTP_riboswitch_2D2.svg" alt="drawing" style="width:40px" />
             </div>
         </div>
     </div>
@@ -231,6 +275,7 @@ permalink: /docs/ZTP/
     </script>
 </td>
 </tr></table><br>
+<p><br /></p>
                 
 > 3D visualisation
             
@@ -375,6 +420,7 @@ permalink: /docs/ZTP/
     </body>
     </html></td>
   </tr></table><br>
+  <p><br /></p>
                 
 > Binding pocket
                 
@@ -384,6 +430,7 @@ permalink: /docs/ZTP/
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/ZTP_riboswitch_binding_pockets2.svg" alt="drawing" style="width:400px"  px="" /></td>
 </tr>
 </table>
+<p><br /></p>
                     
 > Ligand recognition
             
@@ -399,50 +446,60 @@ permalink: /docs/ZTP/
 </table>
 <p><br /></p>
                 
-<p class="header_box">References</p>
-<p><br /></p>
+<p class="header_box" id="references">References</p>
             
 <p><strong>[1] Comparative genomics reveals 104 candidate structured RNAs from bacteria, archaea, and their metagenomes</strong><br />
 Weinberg, Z. et al.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/20230605/" target="_blank">Genome Biol. 11, R31 (2010).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/20230605/" target="_blank">Genome Biol. 11, R31 (2010).</a>
+<br /><br /></p>
                 
 <p><strong>[2] An ancient riboswitch class in bacteria regulates purine biosynthesis and one-carbon metabolism</strong><br />
 Kim, P. B., Nelson, J. W. & Breaker, R. R.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/25616067/" target="_blank">Mol. Cell 57, 317–328 (2015).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/25616067/" target="_blank">Mol. Cell 57, 317–328 (2015).</a>
+<br /><br /></p>
                 
 <p><strong>[3] Global RNA Fold and Molecular Recognition for a pfl Riboswitch Bound to ZMP, a Master Regulator of One-Carbon Metabolism</strong><br />
 Ren, A., Rajashankar, K. R. & Patel, D. J.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/26118534/" target="_blank">Structure 23, 1375–1381 (2015).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/26118534/" target="_blank">Structure 23, 1375–1381 (2015).</a>
+<br /><br /></p>
                 
 <p><strong>[4] Metal Ion-Mediated Nucleobase Recognition by the ZTP Riboswitch</strong><br />
 Trausch, J. J., Marcano-Velázquez, J. G., Matyjasik, M. M. & Batey, R. T.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/26144884/" target="_blank">Chem. Biol. 22, 829–837 (2015).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/26144884/" target="_blank">Chem. Biol. 22, 829–837 (2015).</a>
+<br /><br /></p>
                 
 <p><strong>[5] Recognition of the bacterial alarmone ZMP through long-distance association of two RNA subdomains</strong><br />
 Jones, C. P. & Ferré-D’Amaré, A. R.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/26280533/" target="_blank">Nat. Struct. Mol. Biol. 22, 679–685 (2015).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/26280533/" target="_blank">Nat. Struct. Mol. Biol. 22, 679–685 (2015).</a>
+<br /><br /></p>
                 
 <p><strong>[6] Co-crystal structure of the Fusobacterium ulcerans ZTP riboswitch using an X-ray free-electron laser</strong><br />
 Jones, C. et al.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/31282869/" target="_blank">Acta Crystallogr. Sect. F Struct. Biol. Cryst. Commun. 75, 496–500 (2019).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/31282869/" target="_blank">Acta Crystallogr. Sect. F Struct. Biol. Cryst. Commun. 75, 496–500 (2019).</a>
+<br /><br /></p>
                 
 <p><strong>[7] A ligand-gated strand displacement mechanism for ZTP riboswitch transcription control</strong><br />
 Strobel, E. J., Cheng, L., Berman, K. E., Carlson, P. D. & Lucks, J. B.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/31636437/" target="_blank">Nat. Chem. Biol. 15, 1067–1076 (2019).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/31636437/" target="_blank">Nat. Chem. Biol. 15, 1067–1076 (2019).</a>
+<br /><br /></p>
                 
 <p><strong>[8] Parallel Discovery Strategies Provide a Basis for Riboswitch Ligand Design</strong><br />
 Tran, B. et al.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/32795418/" target="_blank">Cell Chem Biol 27, 1241–1249.e4 (2020).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/32795418/" target="_blank">Cell Chem Biol 27, 1241–1249.e4 (2020).</a>
+<br /><br /></p>
                 
 <p><strong>[9] Real-time monitoring of single ZTP riboswitches reveals a complex and kinetically controlled decision landscape</strong><br />
 Hua, B. et al.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/32913225/" target="_blank">Nat. Commun. 11, 4531 (2020).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/32913225/" target="_blank">Nat. Commun. 11, 4531 (2020).</a>
+<br /><br /></p>
                 
 <p><strong>[10] Tuning strand displacement kinetics enables programmable ZTP riboswitch dynamic range in vivo</strong><br />
 Bushhouse, D. Z. & Lucks, J. B.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/36864761/" target="_blank">Nucleic Acids Res. 51, 2891–2903 (2023).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/36864761/" target="_blank">Nucleic Acids Res. 51, 2891–2903 (2023).</a>
+<br /><br /></p>
                 
 <p><strong>[11] Employing a ZTP Riboswitch to Detect Bacterial Folate Biosynthesis Inhibitors in a Small Molecule High-Throughput Screen</strong><br />
 Perkins, K. R., Atilho, R. M., Moon, M. H. & Breaker, R. R.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/31609568/" target="_blank">ACS Chem. Biol. 14, 2841–2850 (2019).</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/31609568/" target="_blank">ACS Chem. Biol. 14, 2841–2850 (2019).</a>
+<br /><br /></p>
                 

@@ -12,22 +12,67 @@ permalink: /docs/c-di-GMP/
 <p style="font-size: 24px"><strong>&emsp;&emsp;&emsp;&emsp;[RF03169](https://rfam.xfam.org/family/RF03169,target="_blank")(c-di-GMP-II-GAG riboswitch)</strong> <br /></p>
 <p style="font-size: 24px"><strong>&emsp;&emsp;&emsp;&emsp;[RF03170](https://rfam.xfam.org/family/RF03170,target="_blank")(c-di-GMP-II-GCG riboswitch)</strong> <br /></p>
 
+<br />
+<html>
+<head>
+  <title>横向排列的点击按钮</title>
+  <style>
+    /* 按钮容器样式 */
+    .button-container {
+      display: flex;
+      justify-content: left;
+      align-items: center;
+      height: 50px;
+    }
+    
+    /* 按钮样式 */
+    .button {
+      display: block;
+      padding: 10px;
+      margin-right: 10px;
+      text-align: center;
+      background-color: #efefef;
+      color: #005826;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    
+    /* 鼠标悬停样式 */
+    .button:hover {
+      background-color: #999;
+      cursor: pointer;
+    }
+  </style>
+</head>
+<body>
+  <p style="font-size: 24px">Click into different sections:</p>
+  
+  <div class="button-container">
+    <a class="button" href="#timeline" style="bold">Timeline</a>
+    <a class="button" href="#description">Description</a>
+    <a class="button" href="#Structure and Ligand recognition">Structure&recognition</a>
+    <a class="button" href="#references">References</a>
+  </div>
+</body>
+</html>
+
 <html lang="zh-cn">
 <head>
 <meta charset="utf-8"> 
 <style>
   .header_box {
     border: none;
-    border-bottom: 4px solid #005826;
     background: #efefef;
     font-size:28px
+  }
+  blockquote {
+  margin: 0 0 0px;
   }
 </style>
 </head>
 <p><br /></p>
 <p class="header_box">Timeline</p>
-<p><br /></p>
-<div class="timeline">
+<div class="timeline" id="timeline">
   <div class="year">
     <div class="inner">
       <span>Start</span>
@@ -115,9 +160,9 @@ permalink: /docs/c-di-GMP/
   </div>
 </div>
 </html>
+<p><br /></p>
         
-<p class="header_box">Description</p>
-***
+<p class="header_box" id="description">Description</p>
 <font size="4">Cyclic di-GMP-I riboswitches are a class of riboswitch that specifically bind cyclic di-GMP, which is a second messenger that is used in a variety of microbial processes including virulence, motility and biofilm formation. Cyclic di-GMP-I riboswitches were originally identified by bioinformatics as a conserved RNA-like structure called the "GEMM motif". These riboswitches are present in a wide variety of bacteria, and are most common in Clostridia and certain varieties of Pseudomonadota. The riboswitches are present in pathogens such as Clostridium difficile, Vibrio cholerae (which causes cholera) and Bacillus anthracis (which causes anthrax). Geobacter uraniumreducens is predicted to have 30 instances of this riboswitch in its genome. A bacteriophage that infects C. difficile is predicted to carry a cyclic di-GMP-I riboswitch, which it might use to detect and exploit the physiological state of bacteria that it infects  
 Cyclic di-GMP-II riboswitches (also c-di-GMP-II riboswitches) form a class of riboswitches that specifically bind cyclic di-GMP, a second messenger used in multiple bacterial processes such as virulence, motility and biofilm formation. Cyclic di-GMP II riboswitches are structurally unrelated to cyclic di-GMP-I riboswitches, though they have the same function.Cyclic di-GMP-II riboswitches were discovered by bioinformatics, and are common in species within the class Clostridia and the genus Deinococcus. They are also found in some other bacterial lineages. There is significant overlap between species that use cyclic di-GMP-I and cyclic di-GMP-II riboswitches, as both riboswitch classes are common in Clostridia(From Wikipedia)<sup></sup>.</font>
 <p><br /></p>
@@ -135,7 +180,7 @@ Cyclic di-GMP-II riboswitches (also c-di-GMP-II riboswitches) form a class of ri
 </table>
 <p><br /></p>
                     
-<p class="header_box">Structure and Ligand recognition</p>
+<p class="header_box" id="Structure and Ligand recognition">Structure and Ligand recognition</p>
 > 2D representation
         
 <font size=4>Left: Consensus sequence and secondary structure model for the c-di-GMP-I riboswitch. Right: Secondary structure depictions of the c-di-GMP-I riboswitch according to PDB ID:3IRW<sup>[2]</sup>.</font><br>
@@ -174,7 +219,7 @@ Cyclic di-GMP-II riboswitches (also c-di-GMP-II riboswitches) form a class of ri
     <div class="main-container">
         <div class="zoom-wrapper1">
             <div class="zoom-area1">
-                <img src="/images/2D/c-di-GMP-I_2D1.svg" alt="drawing" style="width:400px" />
+                <img src="/images/2D/c-di-GMP-I_2D1.svg" alt="drawing" style="width:40px" />
             </div>
         </div>
     </div>
@@ -203,7 +248,7 @@ Cyclic di-GMP-II riboswitches (also c-di-GMP-II riboswitches) form a class of ri
     <div class="main-container">
         <div class="zoom-wrapper2">
             <div class="zoom-area2">
-                <img src="/images/2D/c-di-GMP-I_2D2.svg" alt="drawing" style="width:400px" />
+                <img src="/images/2D/c-di-GMP-I_2D2.svg" alt="drawing" style="width:40px" />
             </div>
         </div>
     </div>
@@ -218,6 +263,7 @@ Cyclic di-GMP-II riboswitches (also c-di-GMP-II riboswitches) form a class of ri
     </script>
 </td>
 </tr></table><br>
+<p><br /></p>
                 
 <font size=4>Left: Consensus sequence and secondary structure model for the c-di-GMP-II riboswitch. Right: Secondary structure depictions of the c-di-GMP-II riboswitch according to PDB ID:3Q3Z<sup>[5]</sup>.</font><br>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
@@ -255,7 +301,7 @@ Cyclic di-GMP-II riboswitches (also c-di-GMP-II riboswitches) form a class of ri
     <div class="main-container">
         <div class="zoom-wrapper3">
             <div class="zoom-area3">
-                <img src="/images/2D/c-di-GMP-II_2D1.svg" alt="drawing" style="width:400px" />
+                <img src="/images/2D/c-di-GMP-II_2D1.svg" alt="drawing" style="width:40px" />
             </div>
         </div>
     </div>
@@ -284,7 +330,7 @@ Cyclic di-GMP-II riboswitches (also c-di-GMP-II riboswitches) form a class of ri
     <div class="main-container">
         <div class="zoom-wrapper4">
             <div class="zoom-area4">
-                <img src="/images/2D/c-di-GMP-II_2D2.svg" alt="drawing" style="width:400px" />
+                <img src="/images/2D/c-di-GMP-II_2D2.svg" alt="drawing" style="width:40px" />
             </div>
         </div>
     </div>
@@ -299,6 +345,7 @@ Cyclic di-GMP-II riboswitches (also c-di-GMP-II riboswitches) form a class of ri
     </script>
 </td>
 </tr></table><br>
+<p><br /></p>
                 
 > 3D visualisation
             
@@ -443,6 +490,7 @@ Cyclic di-GMP-II riboswitches (also c-di-GMP-II riboswitches) form a class of ri
     </body>
     </html></td>
   </tr></table><br>
+  <p><br /></p>
                 
 <font size=4>Structure of a c-di-GMP-II riboswitch from C. acetobutylicum bound to c-di-GMP <sup>[6]</sup>.</font>
   <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
@@ -573,6 +621,7 @@ Cyclic di-GMP-II riboswitches (also c-di-GMP-II riboswitches) form a class of ri
     </body>
     </html></td>
   </tr></table><br>
+  <p><br /></p>
                 
 > Binding pocket
                 
@@ -582,6 +631,7 @@ Cyclic di-GMP-II riboswitches (also c-di-GMP-II riboswitches) form a class of ri
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/c-di-GMP-I_binding_pockets_2.svg" alt="drawing" style="width:400px"  px="" /></td>
 </tr>
 </table>
+<p><br /></p>
                     
 <font size=4><p>Left: Surface representation of the binding pocket of the c-di-GMP-II riboswitch generated from PDB ID:3Q3Z. c-di-GMP (shown in sticks) is labeled in red. Right: The hydrogen bonds of the binding site of the c-di-GMP-II riboswitch bound with c-di-GMP<sup>[6]</sup>.<br /></p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
@@ -589,6 +639,7 @@ Cyclic di-GMP-II riboswitches (also c-di-GMP-II riboswitches) form a class of ri
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/c-di-GMP-II_binding_pockets_2.svg" alt="drawing" style="width:400px"  px="" /></td>
 </tr>
 </table>
+<p><br /></p>
                     
 > Ligand recognition
             
@@ -604,46 +655,55 @@ Cyclic di-GMP-II riboswitches (also c-di-GMP-II riboswitches) form a class of ri
 </table>
 <p><br /></p>
                 
-<p class="header_box">References</p>
-<p><br /></p>
+<p class="header_box" id="references">References</p>
             
 <p><strong>[1] Identification of 22 candidate structured RNAs in bacteria using the CMfinder comparative genomics pipeline</strong><br />
 Weinberg, Z. et al.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/17621584/" target="_blank">Nucleic Acids Res. 35, 4809–4819 (2007)</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/17621584/" target="_blank">Nucleic Acids Res. 35, 4809–4819 (2007)</a>
+<br /><br /></p>
                 
 <p><strong>[2] Riboswitches in eubacteria sense the second messenger cyclic di-GMP</strong><br />
 Sudarsan, N. et al.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/18635805/" target="_blank">Science 321, 411–413 (2008)</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/18635805/" target="_blank">Science 321, 411–413 (2008)</a>
+<br /><br /></p>
                 
 <p><strong>[3] Structural basis of ligand binding by a c-di-GMP riboswitch</strong><br />
 Smith, K. D. et al<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/19898477/" target="_blank">Nat. Struct. Mol. Biol. 16, 1218–1223 (2009)</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/19898477/" target="_blank">Nat. Struct. Mol. Biol. 16, 1218–1223 (2009)</a>
+<br /><br /></p>
                 
 <p><strong>[4] Structural and biochemical determinants of ligand binding by the c-di-GMP riboswitch</strong><br />
 Smith, K. D., Lipchock, S. V., Livingston, A. L., Shanahan, C. A. & Strobel, S. A.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/20690679/" target="_blank">Biochemistry 49, 7351–7359 (2010)</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/20690679/" target="_blank">Biochemistry 49, 7351–7359 (2010)</a>
+<br /><br /></p>
                 
 <p><strong>[5] An allosteric self-splicing ribozyme triggered by a bacterial second messenger</strong><br />
 Lee, E. R., Baker, J. L., Weinberg, Z., Sudarsan, N. & Breaker, R. R.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/20705859/" target="_blank">Science 329, 845–848 (2010)</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/20705859/" target="_blank">Science 329, 845–848 (2010)</a>
+<br /><br /></p>
                 
 <p><strong>[6] Structural basis of differential ligand recognition by two classes of bis-(3'-5')-cyclic dimeric guanosine monophosphate-binding riboswitches</strong><br />
 Smith, K. D., Shanahan, C. A., Moore, E. L., Simon, A. C. & Strobel, S. A.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/21518891/" target="_blank">Proc. Natl. Acad. Sci. U. S. A. 108, 7757–7762 (2011)</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/21518891/" target="_blank">Proc. Natl. Acad. Sci. U. S. A. 108, 7757–7762 (2011)</a>
+<br /><br /></p>
                 
 <p><strong>[7] Structural and biochemical characterization of linear dinucleotide analogues bound to the c-di-GMP-I aptamer</strong><br />
 Smith, K. D., Lipchock, S. V. & Strobel, S. A.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/22148472/" target="_blank">Biochemistry 51, 425–432 (2012)</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/22148472/" target="_blank">Biochemistry 51, 425–432 (2012)</a>
+<br /><br /></p>
                 
 <p><strong>[8] Nucleotide, c-di-GMP, c-di-AMP, cGMP, cAMP, (p)ppGpp signaling in bacteria and implications in pathogenesis</strong><br />
 Kalia, D. et al.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/23023210/" target="_blank">Chem. Soc. Rev. 42, 305–341 (2013)</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/23023210/" target="_blank">Chem. Soc. Rev. 42, 305–341 (2013)</a>
+<br /><br /></p>
                 
 <p><strong>[9] Cyclic di-GMP riboswitch-regulated type IV pili contribute to aggregation of Clostridium difficile</strong><br />
 Bordeleau, E. et al.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/25512308/" target="_blank">J. Bacteriol. 197, 819–832 (2015)</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/25512308/" target="_blank">J. Bacteriol. 197, 819–832 (2015)</a>
+<br /><br /></p>
                 
 <p><strong>[10] Recognition of cyclic-di-GMP by a riboswitch conducts translational repression through masking the ribosome-binding site distant from the aptamer domain</strong><br />
 Inuzuka, S. et al.<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/29693296/" target="_blank">Genes Cells 23, 435–447 (2018)</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/29693296/" target="_blank">Genes Cells 23, 435–447 (2018)</a>
+<br /><br /></p>
                 

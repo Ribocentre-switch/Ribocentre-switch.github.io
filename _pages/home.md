@@ -23,7 +23,7 @@ permalink: /
     }
   .sectiontitle {
     display: block;
-    max-width: 90%;
+    max-width: 75%;
     margin: 0 auto ;
     text-align: left;
     background :#fff;
@@ -35,9 +35,11 @@ permalink: /
     max-width: 90%;
     margin: 0 auto;
     border-top: 3px solid black;
+    }
   .gsc-search-button-v2, .gsc-search-button-v2:hover, .gsc-search-button-v2:focus {
     border-color: #005826;
     background-color: #005826;
+    }
 </style>
 </head>
 

@@ -37,59 +37,15 @@
         }
 
 		#now a{
-			color:#fff;
-			font-size: 20px;
+			color:#fff
 		}
 		#now a:hover{
 			font-size: 20px;
 		}
-	
 		
-li {
-    float: left;
-}
+  </style>
 
-li a {
-    display: block;
-    color: white;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-}
-
-li a:hover:not(.active) {
-    background-color: #005826;
-}
-
-li a.active {
-    background-color: #000000;
-}
-</style>
-<script>
-window.addEventListener("DOMContentLoaded", function() {
-  // 获取当前页面的URL
-  var currentURL = window.location.href;
-  
-  // 获取所有导航按钮
-  var navButtons = document.querySelectorAll("li a");
-  
-  // 遍历导航按钮
-  navButtons.forEach(function(button) {
-    // 获取按钮的链接
-    var buttonURL = button.href;
-    
-    // 比较URL是否与当前页面的URL匹配
-    if (currentURL === buttonURL) {
-      // 设置匹配的按钮为激活状态
-      button.classList.add("active");
-    }
-  });
-});
-</script>
-		
-
-
-  <div class="container-fluid">
+  <div class="container-fluid" style="padding-left: 0px;padding-right: 0px;margin-top: 15px;">
 	<div class="navbar-header">
 	  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse-1" aria-expanded="false">
 		<span class="sr-only">Toggle navigation</span>
@@ -115,21 +71,12 @@ window.addEventListener("DOMContentLoaded", function() {
 		<li id="now"><a href="http://localhost:4000/Publications.html">Publications</a></li>
 		<li id="now"><a href="http://localhost:4000/404.html">Help</a></li>
 	  </ul>
-	  <script>
-		function setActive(element) {
-		  // 移除所有导航按钮的激活状态
-		  var navButtons = document.querySelectorAll("li a");
-		  navButtons.forEach(function(button) {
-			button.classList.remove("active");
-		  });
-	  
-		  // 给点击的按钮添加激活状态
-		  element.classList.add("active");
-		}
-	  </script>
    </div>
   </div>
 </div>
+
+
+
     
       <div class="container-fluid">
         <div class="row">
@@ -508,7 +455,7 @@ For large datasets please directly contact the database team group member <a hre
 	  <div class="row">
 		<div class="col-sm-4">
 			
-		  <p>&copy 2022 Ribocentre. Site made with <a href="https://jekyllrb.com">Jekyll</a>;  <a href="https://www.ribocentre.org/aboutwebsite.html">copy and  modify it for your own research group.</a></p>
+		  <p>&copy 2023 Ribocentre. Site made with <a href="https://jekyllrb.com">Jekyll</a>;  <a href="https://www.ribocentre.org/aboutwebsite.html">copy and  modify it for your own research group.</a></p>
               <p>We are part of the <a href="https://gzlab.ac.cn">Guangzhou Laboratory</a> and <a href="http://www.gzsys.org.cn/">Sun Yat-sen Memorial Hospital of Sun Yat-sen University</a>.</p>
             
 

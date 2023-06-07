@@ -7,22 +7,67 @@ permalink: /docs/Adenine/
 ---
 <p style="font-size: 24px"><strong>Rfam ID: [RF00167](https://rfam.xfam.org/family/RF00167,target="_blank")(Purine riboswitch)</strong> <br /></p>
 
+<br />
+<html>
+<head>
+  <title>横向排列的点击按钮</title>
+  <style>
+    /* 按钮容器样式 */
+    .button-container {
+      display: flex;
+      justify-content: left;
+      align-items: center;
+      height: 50px;
+    }
+    
+    /* 按钮样式 */
+    .button {
+      display: block;
+      padding: 10px;
+      margin-right: 10px;
+      text-align: center;
+      background-color: #efefef;
+      color: #005826;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    
+    /* 鼠标悬停样式 */
+    .button:hover {
+      background-color: #999;
+      cursor: pointer;
+    }
+  </style>
+</head>
+<body>
+  <p style="font-size: 24px">Click into different sections:</p>
+  
+  <div class="button-container">
+    <a class="button" href="#timeline" style="bold">Timeline</a>
+    <a class="button" href="#description">Description</a>
+    <a class="button" href="#Structure and Ligand recognition">Structure&recognition</a>
+    <a class="button" href="#references">References</a>
+  </div>
+</body>
+</html>
+
 <html lang="zh-cn">
 <head>
 <meta charset="utf-8"> 
 <style>
   .header_box {
     border: none;
-    border-bottom: 4px solid #005826;
     background: #efefef;
     font-size:28px
+  }
+  blockquote {
+  margin: 0 0 0px;
   }
 </style>
 </head>
 <p><br /></p>
 <p class="header_box">Timeline</p>
-<p><br /></p>
-<div class="timeline">
+<div class="timeline" id="timeline">
   <div class="year">
     <div class="inner">
       <span>Start</span>
@@ -70,16 +115,15 @@ permalink: /docs/Adenine/
   </div>
 </div>
 </html>
+<p><br /></p>
         
-<p class="header_box">Description</p>
-***
+<p class="header_box" id="description">Description</p>
 <font size="4">Carrying an aptamer domain similar in sequence and secondary structure to the guanine riboswitch, the adenine riboswitch selectively recognizes adenine, and contains a uracil ribonucleotide in position 74 of the adenine-binding aptamer domain. <i>B. subtilis ydhL</i> (also called <i>pbuE</i>) and two RNAs (<i>add</i> genes) from <i>Clostridium perfringens</i> and <i>Vibrio vulnificus</i> harbor adenine riboswitches in their mRNA elements. The <i>ydhL</i> adenine riboswitch has been shown to control gene expression through transcriptional activation, while the add adenine riboswitch controls gene expression through translational activation<sup>[3-4]</sup>.</font>
 <p><br /></p>
             
 > Gene association
         
 <font size="4">Purine salvage, interconversion, and catabolic pathways in <i>B. subtilis</i>. It has been demonstrated that the <i>ydhL</i> gene, encoding for the putative purine efflux pump, and the <i>add</i> gene, encoding for adenine deaminase<sup>[1-4]</sup>.</font>
-<p><br /></p>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;">
 <tr >
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
@@ -100,7 +144,7 @@ permalink: /docs/Adenine/
 </table>
 <p><br /></p>
                     
-<p class="header_box">Structure and Ligand recognition</p>
+<p class="header_box" id="Structure and Ligand recognition">Structure and Ligand recognition</p>
 > 2D representation
         
 <font size=4>Left: Consensus sequence and secondary structure model for the adenine riboswitch. Right: Secondary structure depictions of the adenine riboswitch according to PDB ID: 1Y26<sup>[4]</sup>.</font><br>
@@ -139,7 +183,7 @@ permalink: /docs/Adenine/
     <div class="main-container">
         <div class="zoom-wrapper1">
             <div class="zoom-area1">
-                <img src="/images/2D/Adenine_riboswitch_2D1.svg" alt="drawing" style="width:400px" />
+                <img src="/images/2D/Adenine_riboswitch_2D1.svg" alt="drawing" style="width:40px" />
             </div>
         </div>
     </div>
@@ -168,7 +212,7 @@ permalink: /docs/Adenine/
     <div class="main-container">
         <div class="zoom-wrapper2">
             <div class="zoom-area2">
-                <img src="/images/2D/Adenine_riboswitch_2D2.svg" alt="drawing" style="width:400px" />
+                <img src="/images/2D/Adenine_riboswitch_2D2.svg" alt="drawing" style="width:40px" />
             </div>
         </div>
     </div>
@@ -183,6 +227,7 @@ permalink: /docs/Adenine/
     </script>
 </td>
 </tr></table><br>
+<p><br /></p>
                 
 > 3D visualisation
             
@@ -333,6 +378,7 @@ permalink: /docs/Adenine/
     </body>
     </html></td>
   </tr></table><br>
+  <p><br /></p>
                 
 > Binding pocket
                 
@@ -342,6 +388,7 @@ permalink: /docs/Adenine/
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/Adenine_riboswitch_binding_pockets2.svg" alt="drawing" style="width:400px"  px="" /></td>
 </tr>
 </table>
+<p><br /></p>
                     
 > Ligand recognition
             
@@ -357,38 +404,45 @@ permalink: /docs/Adenine/
 </table>
 <p><br /></p>
                 
-<p class="header_box">References</p>
-<p><br /></p>
+<p class="header_box" id="references">References</p>
             
 <p><strong>[1] Xanthine metabolism in Bacillus subtilis: characterization of the xpt-pbuX operon and evidence for purine- and nitrogen-controlled expression of genes involved in xanthine salvage and catabolism</strong><br />
 Christiansen, L. C., Schou, S., Nygaard, P. & Saxild, H. H<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/9098051/" target="_blank">J. Bacteriol. 179, (1997)</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/9098051/" target="_blank">J. Bacteriol. 179, (1997)</a>
+<br /><br /></p>
                 
 <p><strong>[2] Definition of a second Bacillus subtilis pur regulon comprising the pur and  xpt-pbuX operons plus pbuG, nupG (yxjA), and pbuE (ydhL)</strong><br />
 Johansen, L. E., Nygaard, P., Lassen, C., Agersø, Y. & Saxild, H. H<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/12923093/" target="_blank">J. Bacteriol. 185, (2003)</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/12923093/" target="_blank">J. Bacteriol. 185, (2003)</a>
+<br /><br /></p>
                 
 <p><strong>[3] Adenine riboswitches and gene activation by disruption of a transcription terminator</strong><br />
 Mandal, M. & Breaker, R. R<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/14718920/" target="_blank">Nat. Struct. Mol. Biol. 11, (2004)</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/14718920/" target="_blank">Nat. Struct. Mol. Biol. 11, (2004)</a>
+<br /><br /></p>
                 
 <p><strong>[4] Structural Basis for Discriminative Regulation of Gene Expression by Adenine- and Guanine-Sensing mRNAs</strong><br />
 Serganov, A. et al<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/15610857/" target="_blank">Chem. Biol. 11, (2004)</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/15610857/" target="_blank">Chem. Biol. 11, (2004)</a>
+<br /><br /></p>
                 
 <p><strong>[5] The Kinetics of Ligand Binding by an Adenine-Sensing Riboswitch</strong><br />
 Wickiser, J. K., Cheah, M. T., Breaker, R. R. & Crothers, D. M<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/16201765/" target="_blank">Biochemistry 44, (2005)</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/16201765/" target="_blank">Biochemistry 44, (2005)</a>
+<br /><br /></p>
                 
 <p><strong>[6] Folding of the Adenine Riboswitch</strong><br />
 Lemay, J. F., Penedo, J. C., Tremblay, R., Lilley, D. M. & Lafontaine, D. A<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/16931335/" target="_blank">Chem. Biol. 13, (2006)</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/16931335/" target="_blank">Chem. Biol. 13, (2006)</a>
+<br /><br /></p>
                 
 <p><strong>[7] Riboswitch structure: an internal residue mimicking the purine ligand</strong><br />
 Delfosse, V. et al<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/20022916/" target="_blank">Nucleic Acids Res. 38, (2010)</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/20022916/" target="_blank">Nucleic Acids Res. 38, (2010)</a>
+<br /><br /></p>
                 
 <p><strong>[8] Structures of riboswitch RNA reaction states by mix-and-inject XFEL serial crystallography</strong><br />
 Stagno, J. R. et al<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/27841871/" target="_blank">Nature 541, (2017)</a><br /><br /></p>
+<a href="https://pubmed.ncbi.nlm.nih.gov/27841871/" target="_blank">Nature 541, (2017)</a>
+<br /><br /></p>
                 
