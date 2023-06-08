@@ -1,4 +1,48 @@
-I"N<p style="font-size: 24px"><strong>Rfam ID: <a href="https://rfam.xfam.org/family/RF01750,target=&quot;_blank&quot;">RF01750</a>(ZMP/ZTP riboswitch)</strong> <br /></p>
+I"�R<p style="font-size: 24px"><strong>Rfam ID: <a href="https://rfam.xfam.org/family/RF01750,target=&quot;_blank&quot;">RF01750</a>(ZMP/ZTP riboswitch)</strong> <br /></p>
+
+<p><br /></p>
+<html>
+<head>
+  <title>横向排列的点击按钮</title>
+  <style>
+    /* 按钮容器样式 */
+    .button-container {
+      display: flex;
+      justify-content: left;
+      align-items: center;
+      height: 50px;
+    }
+    
+    /* 按钮样式 */
+    .button {
+      display: block;
+      padding: 10px;
+      margin-right: 10px;
+      text-align: center;
+      background-color: #efefef;
+      color: #005826;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    
+    /* 鼠标悬停样式 */
+    .button:hover {
+      background-color: #999;
+      cursor: pointer;
+    }
+  </style>
+</head>
+<body>
+  <p style="font-size: 24px">Click into different sections:</p>
+  
+  <div class="button-container">
+    <a class="button" href="#timeline" style="bold">Timeline</a>
+    <a class="button" href="#description">Description</a>
+    <a class="button" href="#Structure and Ligand recognition">Structure&amp;recognition</a>
+    <a class="button" href="#references">References</a>
+  </div>
+</body>
+</html>
 
 <html lang="zh-cn">
 <head>
@@ -9,11 +53,14 @@
     background: #efefef;
     font-size:28px
   }
+  blockquote {
+  margin: 0 0 0px;
+  }
 </style>
 </head>
 <p><br /></p>
 <p class="header_box">Timeline</p>
-<div class="timeline">
+<div class="timeline" id="timeline">
   <div class="year">
     <div class="inner">
       <span>Start</span>
@@ -24,7 +71,7 @@
     <li class="day">
      <div class="events">
        <p>Discovery of pfl motif as a riboswitch candidate</p>
-       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/20230605/" target="_blank">2010</ali><sup>[1]</sup></div>
+       <div class="date"><li href="https://pubmed.ncbi.nlm.nih.gov/20230605/" target="_blank">2010</li><sup>[1]</sup></div>
      </div>
     </li>
         
@@ -111,7 +158,7 @@
 </html>
 <p><br /></p>
 
-<p class="header_box">Description</p>
+<p class="header_box" id="description">Description</p>
 <font size="4">The ZMP/ZTP riboswitch (called the <i>pfl</i> RNA motif before) refers to a conserved RNA structure present in some bacteria and originally discovered using bioinformatics. ZMP/ZTP riboswitch are consistently present in genomic locations that likely correspond to the 5' untranslated regions (5' UTRs) of protein-coding genes. This arrangement in bacteria is commonly associated with cis-regulatory elements. Moreover, they are in presumed 5' UTRs of multiple non-homologous genes, suggesting that they function only in these locations. Additional evidence of cis-regulatory function came from the observation that predicted rho-independent transcription terminators overlap pfl RNAs. This overlap suggests that the alternate secondary structures of <i>pfl</i> RNA and the transcription terminator stem-loops compete with each other, and this is a common mechanism for cis gene control in bacteria. ZMP/ZTP riboswitch are found in a variety of phyla of bacteria, but are not found in all the species of that phylum. ZMP/ZTP riboswitch are common among species of orders Actinomycetales and Clostridiales, the classes Alphaproteobacteria and Betaproteobacteria and the genus Deinococcus. They are also found in isolated species of Bacteroidota, Chloroflexota, and Deltaproteobacteria. The genes regulated by ZMP/ZTP riboswitch relate to one-carbon metabolism. Most obviously, for example, formate-tetrahydrofolate ligase synthesizes 10-formyltetrahydrofolate. The <i>glyA</i> and <i>folD</i> convert between other one-carbon adducts of tetrahydrofolate. Another gene commonly associated with ZMP/ZTP riboswitch is <i>purH</i>, which catalyzes the formylation of the intermediate AICAR in <i>de novo</i> synthesis of purines. The formyl group is taken from formyltetrahydrofolate, and purine biosynthesis is often the dominant user of formyltetrahydrofolate. In similar fashions, if less directly, most ZMP/ZTP riboswitch are associated with genes that are directly or indirectly involved in one-carbon metabolism. It appears that the ZTP/ZMP purine derivatives can be used to regulate one-carbon metabolism by indirectly sensing a shortage of 10-formyl-tetrahydrofolate. The atomic-resolution structure has been solved by X-ray crystallography. These structures were deposited into the Protein Data Bank under accessions 4ZNP  (From Wikipedia)<sup></sup>.</font>
 <p><br /></p>
 
@@ -142,7 +189,7 @@
 </table>
 <p><br /></p>
 
-<p class="header_box">Structure and Ligand recognition</p>
+<p class="header_box" id="Structure and Ligand recognition">Structure and Ligand recognition</p>
 <blockquote>
   <p>2D representation</p>
 </blockquote>
@@ -407,7 +454,7 @@
 </table>
 <p><br /></p>
 
-<p class="header_box">References</p>
+<p class="header_box" id="references">References</p>
 
 <p><strong>[1] Comparative genomics reveals 104 candidate structured RNAs from bacteria, archaea, and their metagenomes</strong><br />
 Weinberg, Z. et al.<br />

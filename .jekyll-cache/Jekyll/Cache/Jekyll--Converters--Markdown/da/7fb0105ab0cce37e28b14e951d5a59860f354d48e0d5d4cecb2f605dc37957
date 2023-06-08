@@ -1,87 +1,4 @@
-<!DOCTYPE html>
-<html>
-
-  <head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Riboswitch - Riboswitch</title>
-  <meta name="description" content="Riboswitch - Riboswitch">
-  <!--<link rel="stylesheet" href="http://localhost:4000/css/main.css>-->
-  <link rel="stylesheet" href="/css/main.css">
-  <link rel="canonical" href="http://localhost:4000/riboswitches.html">
-  <link rel="shortcut icon" type ="image/x-icon" href="http://localhost:4000/images/favicon.ico">
-
-
-
-</head>
-
-
-  <body>
-    
-	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-  
-<div class="navbar navbar-default navbar-fixed-top" role="navigation">
-  <style>
-    
-        .navbar {
-            background-color: #005826;
-        }
-        .navbar .navbar-brand,
-        .navbar .navbar-text {
-            color: #eeeeee;
-        }
-		.nav-tabs>li>a:hover {
-           color:black;
-           border-color: transparent;
-        }
-
-		#now a{
-			color:#fff
-		}
-		#now a:hover{
-			font-size: 20px;
-		}
-		
-  </style>
-
-  <div class="container-fluid" style="padding-left: 0px;padding-right: 0px;margin-top: 15px;">
-	<div class="navbar-header">
-	  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse-1" aria-expanded="false">
-		<span class="sr-only">Toggle navigation</span>
-		<span class="icon-bar"></span>
-		<span class="icon-bar"></span>
-		<span class="icon-bar"></span>
-	  </button>
-	
-    <a class="navbar-brand" href="https://www.ribocentre.org/">
-		
-		<img class="navbar-brand" src="/images/Riboswitch_logo_new.png" style='height:50px;margin-top:-14px;margin-bottom:0;padding:0;font-size: 20px;' alt="logo">
-		&nbsp;Ribocentre-switch 
-	</a>
-	</div>
-	<div class="collapse navbar-collapse" id="navbar-collapse-1">
-	  <ul class="nav navbar-nav navbar-right">
-		<li id="now" class="active"><a href="http://localhost:4000/">Home</a></li>
-		<li id="now"><a href="http://localhost:4000/riboswitches.html">Riboswitches</a></li>
-		<li id="now"><a href="http://localhost:4000/Sequences.html">Sequences</a></li>
-		<li id="now"><a href="http://localhost:4000/Structures.html">Structures</a></li>
-		<li id="now"><a href="http://localhost:4000/Bindingpockets.html">Bindingpockets</a></li>
-		<li id="now"><a href="http://localhost:4000/Applications.html">Applications</a></li>
-		<li id="now"><a href="http://localhost:4000/Publications.html">Publications</a></li>
-		<li id="now"><a href="http://localhost:4000/404.html">Help</a></li>
-	  </ul>
-   </div>
-  </div>
-</div>
-
-
-
-    
-      <div class="container-fluid">
-        <div class="row">
-          <div id="ribozyme" class="col-sm-12">
-  <html lang="en">
+I"üÚ<html lang="en">
   <head>
     <meta charset="utf-8" />
     <title>Sort table example</title>
@@ -111,7 +28,6 @@
 		}
 		.header_box {
     border: none;
-    border-bottom: 4px solid #005826;
     background: #efefef;
     font-size:28px
   }
@@ -394,7 +310,7 @@ RF00174</td>
 
             
             <tr>
-                    <td name="td0"><a href="https://ribocentre-switch.github.io/docs/PreQ&lt;sub&gt;1&lt;/sub&gt;-I" target="_blank"><b>PreQ<sub>1</sub>-I</b></a></td>
+                    <td name="td0"><a href="https://ribocentre-switch.github.io/docs/PreQ&lt;sub&gt;1&lt;/sub&gt;/" target="_blank"><b>PreQ<sub>1</sub>-I</b></a></td>
                     <td name="td1">Prequeusine-1</td>
                     <td name="td2">PreQ<sub>1</sub> is a guanine-derived nucleobase that is known to be incorporated in the wobble position of tRNAs containing the GUN anticodon sequence and then further modified to yield queuosine (Q). PreQ<sub>1</sub>-I has a distinctly small aptamer, ranging from 25 to 45 nucleotides long, and it is represented by RNAs sub-classified as 'type 1', 'type 2' and 'type 3'.</td>
                     <td name="td3"><a href="https://pubmed.ncbi.nlm.nih.gov/17384645/" target="_blank"><b>2007</b> </a></td>
@@ -404,7 +320,7 @@ RF00174</td>
 
             
             <tr>
-                    <td name="td0"><a href="https://ribocentre-switch.github.io/docs/PreQ&lt;sub&gt;1&lt;/sub&gt;-I" target="_blank"><b>PreQ<sub>1</sub>-II</b></a></td>
+                    <td name="td0"><a href="https://ribocentre-switch.github.io/docs/PreQ&lt;sub&gt;1&lt;/sub&gt;/" target="_blank"><b>PreQ<sub>1</sub>-II</b></a></td>
                     <td name="td1">Prequeusine-1</td>
                     <td name="td2">PreQ<sub>1</sub>-II riboswitch, only found in <i>Lactobacillales</i>, has a larger and more complex consensus sequence and structure than preQ<sub>1</sub>-I riboswitch, with an average of 58 nucleotides composing its aptamer, which forms as many as five base-paired substructures</td>
                     <td name="td3"><a href="https://pubmed.ncbi.nlm.nih.gov/18305186/" target="_blank"><b>2008</b> </a></td>
@@ -414,7 +330,7 @@ RF00174</td>
 
             
             <tr>
-                    <td name="td0"><a href="https://ribocentre-switch.github.io/docs/PreQ&lt;sub&gt;1&lt;/sub&gt;-I" target="_blank"><b>preQ<sub>1</sub>-III</b></a></td>
+                    <td name="td0"><a href="https://ribocentre-switch.github.io/docs/PreQ&lt;sub&gt;1&lt;/sub&gt;/" target="_blank"><b>preQ<sub>1</sub>-III</b></a></td>
                     <td name="td1">Prequeusine-1</td>
                     <td name="td2">PreQ<sub>1</sub>-III riboswitch has a distinct structure and is also larger in aptamer size than preQ<sub>1</sub>-I riboswitch, ranging from 33 to 58 nucleotides.</td>
                     <td name="td3"><a href="https://pubmed.ncbi.nlm.nih.gov/25036777/" target="_blank"><b>2014</b> </a></td>
@@ -606,7 +522,7 @@ RF00174</td>
 
             
             <tr>
-                    <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Na&lt;sup&gt;+&lt;/sup&gt;-I" target="_blank"><b>Na<sup>+</sup>-I</b></a></td>
+                    <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Na&lt;sup&gt;+&lt;/sup&gt;" target="_blank"><b>Na<sup>+</sup>-I</b></a></td>
                     <td name="td1">Na<sup>+</sup></td>
                     <td name="td2">The DUF1646 RNA motif is a conserved RNA structure that was discovered by bioinformatics. The genes apparently regulated by DUF1646 RNAs are often related to the transportation of sodium ions. A DUF1646 RNA occurs upstream of an operon in <i>Enterococcus hirae</i> that was shown to regulate the downstream genes based on sodium ion concentrations. However, it is unclear whether this DUF1646 RNA participates in sodium-based gene regulation.</td>
                     <td name="td3"><a href="https://pubmed.ncbi.nlm.nih.gov/28977401/" target="_blank"><b>2017.0</b> </a></td>
@@ -616,7 +532,7 @@ RF00174</td>
 
             
             <tr>
-                    <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Na&lt;sup&gt;+&lt;/sup&gt;-I" target="_blank"><b>Na<sup>+</sup>-II</b></a></td>
+                    <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Na&lt;sup&gt;+&lt;/sup&gt;" target="_blank"><b>Na<sup>+</sup>-II</b></a></td>
                     <td name="td1">Na<sup>+</sup></td>
                     <td name="td2">NA</td>
                     <td name="td3"><a href="NA" target="_blank"><b>NA</b> </a></td>
@@ -626,7 +542,7 @@ RF00174</td>
 
             
             <tr>
-                    <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Li&lt;sup&gt;+&lt;/sup&gt;-I" target="_blank"><b>Li<sup>+</sup>-I</b></a></td>
+                    <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Li&lt;sup&gt;+&lt;/sup&gt;" target="_blank"><b>Li<sup>+</sup>-I</b></a></td>
                     <td name="td1">Li<sup>+</sup></td>
                     <td name="td2">The <i>nhaA</i>-I RNA motif is a conserved RNA structure that was discovered by bioinformatics. <i>nhaA</i>-I motif RNAs are found in <i>Acidobacteriota</i>, alpha-, beta- and Gammaproteobacteria, <i>Verrucomicrobiota</i> and the tentative phylum NC10. <i>nhaA</i>-I RNAs typically occur upstream of genes that encode exchangers of sodium ions and protons. In 2022, Breaker et al. identified <i>nhaA</i>-I motif as Li<sup>+</sup>-I riboswitches.</td>
                     <td name="td3"><a href="https://pubmed.ncbi.nlm.nih.gov/28977401/" target="_blank"><b>2017.0</b> </a></td>
@@ -636,7 +552,7 @@ RF00174</td>
 
             
             <tr>
-                    <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Li&lt;sup&gt;+&lt;/sup&gt;-I" target="_blank"><b>Li<sup>+</sup>-II</b></a></td>
+                    <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Li&lt;sup&gt;+&lt;/sup&gt;" target="_blank"><b>Li<sup>+</sup>-II</b></a></td>
                     <td name="td1">Li<sup>+</sup></td>
                     <td name="td2">The <i>nhaA</i>-II RNA motif is a conserved RNA structure that was discovered by bioinformatics. <i>nhaA</i>-II motifs are found in <i>Caulobacterales</i>.<i>nhaA</i>-I RNAs typically occur upstream of genes that encode exchangers of sodium ions and protons. In 2022, Breaker et al. identified <i>nhaA</i>-II motif as Li<sup>+</sup>-II riboswitches.</td>
                     <td name="td3"><a href="https://pubmed.ncbi.nlm.nih.gov/28977401/" target="_blank"><b>2017.0</b> </a></td>
@@ -772,53 +688,4 @@ RF00174</td>
     
                 
 </table></body></html>
-
-</div>
-
-        </div>
-      </div>
-    <div id="footer" class="panel">
-  <div class="panel-footer">
-	<div class="container-fluid">
-	  <div class="row">
-		<div class="col-sm-4">
-			
-		  <p>&copy 2023 Ribocentre. Site made with <a href="https://jekyllrb.com">Jekyll</a>;  <a href="https://www.ribocentre.org/aboutwebsite.html">copy and  modify it for your own research group.</a></p>
-              <p>We are part of the <a href="https://gzlab.ac.cn">Guangzhou Laboratory</a> and <a href="http://www.gzsys.org.cn/">Sun Yat-sen Memorial Hospital of Sun Yat-sen University</a>.</p>
-            
-
-		   <p>  </p><p>
-            		  
-            
-		</div>
-		<div class="col-sm-4">
-		  Funding:<br />
-		  - <a href="https://www.nsfc.gov.cn/">NSFC</a> <br />
-		  - <a href="http://www.most.gov.cn/">MOST IT+BT project</a> <br />
-          - <a href="https://gzlab.ac.cn">GZlab starting grant</a><br />
-		  <br>
-		  <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
-		  <!--<span class="glyphicon glyphicon-user"></span>&nbsp;&nbsp;<span id="busuanzi_container_site_uv"><strong>: <a href=""><span id="busuanzi_value_site_uv"></span></strong></a> </span> &nbsp;&nbsp;
-		  !--><span class="glyphicon glyphicon-eye-open"></span>&nbsp;&nbsp;<span id="busuanzi_container_site_pv"><strong>: <a href=""><span id="busuanzi_value_site_pv"></span></strong></a> </span>
-
-		</div>
-		<div class="col-sm-4">
-		  Contact:<br />
-		  Building B2, Guangzhou Laboratory<br />
-		  96 Xingdao South Road, Guangzhou International Bio Island, <br />
-		  Haizhu District, Guangzhou, Guangdong,<br />
-		  China. <br />
-          (<a href="https://goo.gl/maps/hDLr6siEAS2Eaypt8">Maps</a>)
-		</div>
-	  </div>
-	</div>
-  </div>
-</div>
-
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-<script src="https://www.ribocentre.org/js/bootstrap.min.js"></script>
-
-
-  </body>
-
-</html>
+:ET
