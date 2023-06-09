@@ -1,18 +1,11 @@
----
-layout: post
-title:  "c-di-GMP"
-date:   2023-04-20 00:00:00
-author: Jie Deng_Yuanlin He
-permalink: /docs/c-di-GMP/
----
-<p style="font-size: 24px"><strong>Rfam ID: [RF01051](https://rfam.xfam.org/family/RF01051,target="_blank")</strong> (Cyclic di-GMP-I riboswitch)<br /></p>
-<p style="font-size: 24px"><strong>&emsp;&emsp;&emsp;&emsp;[RF03167](https://rfam.xfam.org/family/RF03167,target="_blank")</strong> (c-di-GMP-I-GGC riboswitch) <br /></p>
-<p style="font-size: 24px"><strong>&emsp;&emsp;&emsp;&emsp;[RF03168](https://rfam.xfam.org/family/RF03168,target="_blank")</strong> (c-di-GMP-I-UAU riboswitch) <br /></p>
-<p style="font-size: 24px"><strong>&emsp;&emsp;&emsp;&emsp;[RF01786](https://rfam.xfam.org/family/RF01786,target="_blank")</strong> (Cyclic di-GMP-II riboswitch) <br /></p>
-<p style="font-size: 24px"><strong>&emsp;&emsp;&emsp;&emsp;[RF03169](https://rfam.xfam.org/family/RF03169,target="_blank")</strong> (c-di-GMP-II-GAG riboswitch) <br /></p>
-<p style="font-size: 24px"><strong>&emsp;&emsp;&emsp;&emsp;[RF03170](https://rfam.xfam.org/family/RF03170,target="_blank")</strong> (c-di-GMP-II-GCG riboswitch) <br /></p>
+I"�i<p style="font-size: 24px"><strong>Rfam ID: <a href="https://rfam.xfam.org/family/RF01051,target=&quot;_blank&quot;">RF01051</a></strong> (Cyclic di-GMP-I riboswitch)<br /></p>
+<p style="font-size: 24px"><strong>    <a href="https://rfam.xfam.org/family/RF03167,target=&quot;_blank&quot;">RF03167</a></strong> (c-di-GMP-I-GGC riboswitch) <br /></p>
+<p style="font-size: 24px"><strong>    <a href="https://rfam.xfam.org/family/RF03168,target=&quot;_blank&quot;">RF03168</a></strong> (c-di-GMP-I-UAU riboswitch) <br /></p>
+<p style="font-size: 24px"><strong>    <a href="https://rfam.xfam.org/family/RF01786,target=&quot;_blank&quot;">RF01786</a></strong> (Cyclic di-GMP-II riboswitch) <br /></p>
+<p style="font-size: 24px"><strong>    <a href="https://rfam.xfam.org/family/RF03169,target=&quot;_blank&quot;">RF03169</a></strong> (c-di-GMP-II-GAG riboswitch) <br /></p>
+<p style="font-size: 24px"><strong>    <a href="https://rfam.xfam.org/family/RF03170,target=&quot;_blank&quot;">RF03170</a></strong> (c-di-GMP-II-GCG riboswitch) <br /></p>
 
-<br />
+<p><br /></p>
 <html>
 <head>
   <title>横向排列的点击按钮</title>
@@ -54,7 +47,7 @@ permalink: /docs/c-di-GMP/
   <div class="button-container">
     <a class="button" href="#timeline" style="bold">Timeline</a>
     <a class="button" href="#description">Description</a>
-    <a class="button" href="#Structure and Ligand recognition">Structure&recognition</a>
+    <a class="button" href="#Structure and Ligand recognition">Structure&amp;recognition</a>
     <a class="button" href="#references">References</a>
   </div>
 </body>
@@ -62,7 +55,7 @@ permalink: /docs/c-di-GMP/
 
 <html lang="zh-cn">
 <head>
-<meta charset="utf-8"> 
+<meta charset="utf-8" /> 
 <style>
   .header_box {
     border: none;
@@ -86,7 +79,7 @@ permalink: /docs/c-di-GMP/
           
     <li class="day">
      <div class="events">
-       <p >Discovery of GEMM motif</p>
+       <p>Discovery of GEMM motif</p>
        <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/17621584/" target="_blank">2007</ali><sup>[1]</sup></div>
      </div>
     </li>
@@ -94,7 +87,7 @@ permalink: /docs/c-di-GMP/
 
     <li class="day">
      <div class="events">
-       <p >Discovery of c-di-GMP riboswitch</p>
+       <p>Discovery of c-di-GMP riboswitch</p>
        <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/18635805/" target="_blank">2008</ali><sup>[2]</sup></div>
      </div>
     </li>
@@ -102,7 +95,7 @@ permalink: /docs/c-di-GMP/
 
     <li class="day">
      <div class="events">
-       <p >Structure of a c-di-GMP riboswitch from V. cholerae</p>
+       <p>Structure of a c-di-GMP riboswitch from V. cholerae</p>
        <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/19898477/" target="_blank">2009</ali><sup>[3]</sup></div>
      </div>
     </li>
@@ -110,7 +103,7 @@ permalink: /docs/c-di-GMP/
 
     <li class="day">
      <div class="events">
-       <p >Native and mutant structure of c-di-GMP riboswitch</p>
+       <p>Native and mutant structure of c-di-GMP riboswitch</p>
        <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/20690679/" target="_blank">2010</ali><sup>[4]</sup></div>
      </div>
     </li>
@@ -118,7 +111,7 @@ permalink: /docs/c-di-GMP/
 
     <li class="day">
      <div class="events">
-       <p >Discovery of c-di-GMP-II riboswitch</p>
+       <p>Discovery of c-di-GMP-II riboswitch</p>
        <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/20705859/" target="_blank">2010</ali><sup>[5]</sup></div>
      </div>
     </li>
@@ -126,7 +119,7 @@ permalink: /docs/c-di-GMP/
 
     <li class="day">
      <div class="events">
-       <p >Structure of a c-di-GMP-II riboswitch from C. acetobutylicum bound to c-di-GMP</p>
+       <p>Structure of a c-di-GMP-II riboswitch from C. acetobutylicum bound to c-di-GMP</p>
        <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/21518891/" target="_blank">2011</ali><sup>[6]</sup></div>
      </div>
     </li>
@@ -134,7 +127,7 @@ permalink: /docs/c-di-GMP/
 
     <li class="day">
      <div class="events">
-       <p >Structural and biochemical characterization of linear dinucleotide analogues bound to the c-di-GMP-I aptamer</p>
+       <p>Structural and biochemical characterization of linear dinucleotide analogues bound to the c-di-GMP-I aptamer</p>
        <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/22148472/" target="_blank">2012</ali><sup>[7]</sup></div>
      </div>
     </li>
@@ -142,7 +135,7 @@ permalink: /docs/c-di-GMP/
 
     <li class="day">
      <div class="events">
-       <p >T4P gene transcription is upregulated by c-di-GMP </p>
+       <p>T4P gene transcription is upregulated by c-di-GMP </p>
        <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/25512308/" target="_blank">2015</ali><sup>[9]</sup></div>
      </div>
     </li>
@@ -150,7 +143,7 @@ permalink: /docs/c-di-GMP/
 
     <li class="day">
      <div class="events">
-       <p >Identified the secondary structures that are possibly responsible for switch-OFF and switch-ON states of translational initiation</p>
+       <p>Identified the secondary structures that are possibly responsible for switch-OFF and switch-ON states of translational initiation</p>
        <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/29693296/" target="_blank">2018</ali><sup>[10]</sup></div>
      </div>
     </li>
@@ -165,35 +158,42 @@ permalink: /docs/c-di-GMP/
 </div>
 </html>
 <p><br /></p>
-        
+
 <p class="header_box" id="description">Description</p>
-<font >Cyclic di-GMP-I riboswitches are a class of riboswitch that specifically bind cyclic di-GMP, which is a second messenger that is used in a variety of microbial processes including virulence, motility and biofilm formation. Cyclic di-GMP-I riboswitches were originally identified by bioinformatics as a conserved RNA-like structure called the "GEMM motif". These riboswitches are present in a wide variety of bacteria, and are most common in Clostridia and certain varieties of Pseudomonadota. The riboswitches are present in pathogens such as Clostridium difficile, Vibrio cholerae (which causes cholera) and Bacillus anthracis (which causes anthrax). Geobacter uraniumreducens is predicted to have 30 instances of this riboswitch in its genome. A bacteriophage that infects C. difficile is predicted to carry a cyclic di-GMP-I riboswitch, which it might use to detect and exploit the physiological state of bacteria that it infects  
+<font>Cyclic di-GMP-I riboswitches are a class of riboswitch that specifically bind cyclic di-GMP, which is a second messenger that is used in a variety of microbial processes including virulence, motility and biofilm formation. Cyclic di-GMP-I riboswitches were originally identified by bioinformatics as a conserved RNA-like structure called the "GEMM motif". These riboswitches are present in a wide variety of bacteria, and are most common in Clostridia and certain varieties of Pseudomonadota. The riboswitches are present in pathogens such as Clostridium difficile, Vibrio cholerae (which causes cholera) and Bacillus anthracis (which causes anthrax). Geobacter uraniumreducens is predicted to have 30 instances of this riboswitch in its genome. A bacteriophage that infects C. difficile is predicted to carry a cyclic di-GMP-I riboswitch, which it might use to detect and exploit the physiological state of bacteria that it infects  
 Cyclic di-GMP-II riboswitches (also c-di-GMP-II riboswitches) form a class of riboswitches that specifically bind cyclic di-GMP, a second messenger used in multiple bacterial processes such as virulence, motility and biofilm formation. Cyclic di-GMP II riboswitches are structurally unrelated to cyclic di-GMP-I riboswitches, though they have the same function.Cyclic di-GMP-II riboswitches were discovered by bioinformatics, and are common in species within the class Clostridia and the genus Deinococcus. They are also found in some other bacterial lineages. There is significant overlap between species that use cyclic di-GMP-I and cyclic di-GMP-II riboswitches, as both riboswitch classes are common in Clostridia(From Wikipedia)<sup></sup>.</font>
 <p><br /></p>
-            
-> Gene association
-        
-> Gene regulation
-            
-<font ><p>Left: c-di-GMP mediated transcriptional termination. Right: c-di-GMP-mediated self-splicing to generate a ribosomal binding site<sup>[8]</sup>.</p></font>
+
+<blockquote>
+  <p>Gene association</p>
+</blockquote>
+
+<blockquote>
+  <p>Gene regulation</p>
+</blockquote>
+
+<font><p>Left: c-di-GMP mediated transcriptional termination. Right: c-di-GMP-mediated self-splicing to generate a ribosomal binding site<sup>[8]</sup>.</p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
-  <img src="/images/gene_regulation/c-di-GMP-I_gene_regulation.svg" alt="drawing" style="width:800px;margin-top: 0px;margin-bottom: 0px;" >
+  <img src="/images/gene_regulation/c-di-GMP-I_gene_regulation.svg" alt="drawing" style="width:800px;margin-top: 0px;margin-bottom: 0px;" />
   </td>
 </tr>
 </table>
 <p><br /></p>
-                    
+
 <p class="header_box" id="Structure and Ligand recognition">Structure and Ligand recognition</p>
-> 2D representation
-        
-<font >Left: Consensus sequence and secondary structure model for the c-di-GMP-I riboswitch. Right: Secondary structure depictions of the c-di-GMP-I riboswitch according to PDB ID:3IRW<sup>[2]</sup>.</font><br>
+<blockquote>
+  <p>2D representation</p>
+</blockquote>
+
+<font>Left: Consensus sequence and secondary structure model for the c-di-GMP-I riboswitch. Right: Secondary structure depictions of the c-di-GMP-I riboswitch according to PDB ID:3IRW<sup>[2]</sup>.</font>
+<p><br /></p>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
 <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Document</title>
 </head>
 <style>
@@ -227,7 +227,7 @@ Cyclic di-GMP-II riboswitches (also c-di-GMP-II riboswitches) form a class of ri
         </div>
     </div>
     <script src="https://www.ribocentre.org/js/panzoom.js"></script>
-    <script type='text/javascript'>
+    <script type="text/javascript">
       var zoomWraper1 = document.querySelector(".zoom-wrapper1");
       var panzoom1 = Panzoom(document.querySelector(".zoom-area1"), {
       maxScale: 6
@@ -256,7 +256,7 @@ Cyclic di-GMP-II riboswitches (also c-di-GMP-II riboswitches) form a class of ri
         </div>
     </div>
     <script src="https://www.ribocentre.org/js/panzoom.js"></script>
-    <script type='text/javascript'>
+    <script type="text/javascript">
       var zoomWraper2 = document.querySelector(".zoom-wrapper2");
       var panzoom2 = Panzoom(document.querySelector(".zoom-area2"), {
       maxScale: 6
@@ -265,16 +265,18 @@ Cyclic di-GMP-II riboswitches (also c-di-GMP-II riboswitches) form a class of ri
       panzoom2.zoom(0.8);
     </script>
 </td>
-</tr></table><br>
+</tr></table>
 <p><br /></p>
-                
-<font >Left: Consensus sequence and secondary structure model for the c-di-GMP-II riboswitch. Right: Secondary structure depictions of the c-di-GMP-II riboswitch according to PDB ID:3Q3Z<sup>[5]</sup>.</font><br>
+<p><br /></p>
+
+<font>Left: Consensus sequence and secondary structure model for the c-di-GMP-II riboswitch. Right: Secondary structure depictions of the c-di-GMP-II riboswitch according to PDB ID:3Q3Z<sup>[5]</sup>.</font>
+<p><br /></p>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
 <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Document</title>
 </head>
 <style>
@@ -308,7 +310,7 @@ Cyclic di-GMP-II riboswitches (also c-di-GMP-II riboswitches) form a class of ri
         </div>
     </div>
     <script src="https://www.ribocentre.org/js/panzoom.js"></script>
-    <script type='text/javascript'>
+    <script type="text/javascript">
       var zoomWraper3 = document.querySelector(".zoom-wrapper3");
       var panzoom3 = Panzoom(document.querySelector(".zoom-area3"), {
       maxScale: 6
@@ -337,7 +339,7 @@ Cyclic di-GMP-II riboswitches (also c-di-GMP-II riboswitches) form a class of ri
         </div>
     </div>
     <script src="https://www.ribocentre.org/js/panzoom.js"></script>
-    <script type='text/javascript'>
+    <script type="text/javascript">
       var zoomWraper4 = document.querySelector(".zoom-wrapper4");
       var panzoom4 = Panzoom(document.querySelector(".zoom-area4"), {
       maxScale: 6
@@ -346,25 +348,28 @@ Cyclic di-GMP-II riboswitches (also c-di-GMP-II riboswitches) form a class of ri
       panzoom4.zoom(0.8);
     </script>
 </td>
-</tr></table><br>
+</tr></table>
 <p><br /></p>
-                
-> 3D visualisation
-            
-<font >Structure of a c-di-GMP riboswitch from V. cholerae <sup>[3]</sup>.</font>
-  <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
+<p><br /></p>
+
+<blockquote>
+  <p>3D visualisation</p>
+</blockquote>
+
+<font>Structure of a c-di-GMP riboswitch from V. cholerae <sup>[3]</sup>.</font>
+<table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
-  <img src="/images/3D/c-di-GMP-I_3D.svg" alt="drawing" style="width:400px;height:400px;margin-top: 0px;margin-bottom: 0px;" >
+  <img src="/images/3D/c-di-GMP-I_3D.svg" alt="drawing" style="width:400px;height:400px;margin-top: 0px;margin-bottom: 0px;" />
   </td>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
   <html lang="en">
     <head>
       <meta charset="utf-8" />
-      <meta name="viewport" content="width=device-width, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0">
-      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <meta name="viewport" content="width=device-width, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0" />
+      <meta http-equiv="X-UA-Compatible" content="IE=edge" />
       <title>PDBe Molstar</title>
       <!-- Molstar CSS & JS -->
-      <link rel="stylesheet" type="text/css" href="https://www.ebi.ac.uk/pdbe/pdb-component-library/css/pdbe-molstar-1.2.1.css">
+      <link rel="stylesheet" type="text/css" href="https://www.ebi.ac.uk/pdbe/pdb-component-library/css/pdbe-molstar-1.2.1.css" />
       <script src="https://www.ebi.ac.uk/pdbe/pdb-component-library/js/pdbe-molstar-plugin-1.2.1.js"></script>
         <style>
           * {
@@ -469,8 +474,8 @@ Cyclic di-GMP-II riboswitches (also c-di-GMP-II riboswitches) form a class of ri
   color:{r:255,g:11,b:12}
 },
               ]
-            viewerInstance1.visual.select({ data: selectSections1, nonSelectedColor: {r:255,g:255,b:255}})" style="float:right;height:25px;width: 120px;">Color Selection</button><br><br>
-          <button button style="float: left;height:25px;width: 120px;" onclick="viewerInstance1.visual.clearSelection()">Clear Selection</button><br><br>
+            viewerInstance1.visual.select({ data: selectSections1, nonSelectedColor: {r:255,g:255,b:255}})" style="float:right;height:25px;width: 120px;">Color Selection</button><br /><br />
+          <button button="" style="float: left;height:25px;width: 120px;" onclick="viewerInstance1.visual.clearSelection()">Clear Selection</button><br /><br />
       </div>
     <div class="viewerSection1">
     <!-- Molstar container -->
@@ -491,23 +496,24 @@ Cyclic di-GMP-II riboswitches (also c-di-GMP-II riboswitches) form a class of ri
     </script>
     </body>
     </html></td>
-  </tr></table><br>
-  <p><br /></p>
-                
-<font >Structure of a c-di-GMP-II riboswitch from C. acetobutylicum bound to c-di-GMP <sup>[6]</sup>.</font>
-  <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
+  </tr></table>
+<p><br /></p>
+<p><br /></p>
+
+<font>Structure of a c-di-GMP-II riboswitch from C. acetobutylicum bound to c-di-GMP <sup>[6]</sup>.</font>
+<table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
-  <img src="/images/3D/c-di-GMP-II_3D.svg" alt="drawing" style="width:400px;height:400px;margin-top: 0px;margin-bottom: 0px;" >
+  <img src="/images/3D/c-di-GMP-II_3D.svg" alt="drawing" style="width:400px;height:400px;margin-top: 0px;margin-bottom: 0px;" />
   </td>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
   <html lang="en">
     <head>
       <meta charset="utf-8" />
-      <meta name="viewport" content="width=device-width, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0">
-      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <meta name="viewport" content="width=device-width, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0" />
+      <meta http-equiv="X-UA-Compatible" content="IE=edge" />
       <title>PDBe Molstar</title>
       <!-- Molstar CSS & JS -->
-      <link rel="stylesheet" type="text/css" href="https://www.ebi.ac.uk/pdbe/pdb-component-library/css/pdbe-molstar-1.2.1.css">
+      <link rel="stylesheet" type="text/css" href="https://www.ebi.ac.uk/pdbe/pdb-component-library/css/pdbe-molstar-1.2.1.css" />
       <script src="https://www.ebi.ac.uk/pdbe/pdb-component-library/js/pdbe-molstar-plugin-1.2.1.js"></script>
         <style>
           * {
@@ -600,8 +606,8 @@ Cyclic di-GMP-II riboswitches (also c-di-GMP-II riboswitches) form a class of ri
   color:{r:255,g:11,b:12}
 },
               ]
-            viewerInstance2.visual.select({ data: selectSections2, nonSelectedColor: {r:255,g:255,b:255}})" style="float:right;height:25px;width: 120px;">Color Selection</button><br><br>
-          <button button style="float: left;height:25px;width: 120px;" onclick="viewerInstance2.visual.clearSelection()">Clear Selection</button><br><br>
+            viewerInstance2.visual.select({ data: selectSections2, nonSelectedColor: {r:255,g:255,b:255}})" style="float:right;height:25px;width: 120px;">Color Selection</button><br /><br />
+          <button button="" style="float: left;height:25px;width: 120px;" onclick="viewerInstance2.visual.clearSelection()">Clear Selection</button><br /><br />
       </div>
     <div class="viewerSection2">
     <!-- Molstar container -->
@@ -622,90 +628,96 @@ Cyclic di-GMP-II riboswitches (also c-di-GMP-II riboswitches) form a class of ri
     </script>
     </body>
     </html></td>
-  </tr></table><br>
-  <p><br /></p>
-                
-> Binding pocket
-                
-<font ><p>Left: Surface representation of the binding pocket of the c-di-GMP-I riboswitch generated from PDB ID:3IRW. c-di-GMP (shown in sticks) is labeled in red. Right: The hydrogen bonds of the two binding sites of the c-di-GMP-I riboswitch bound with c-di-GMP<sup>[3]</sup>.<br /></p></font>
+  </tr></table>
+<p><br /></p>
+<p><br /></p>
+
+<blockquote>
+  <p>Binding pocket</p>
+</blockquote>
+
+<font><p>Left: Surface representation of the binding pocket of the c-di-GMP-I riboswitch generated from PDB ID:3IRW. c-di-GMP (shown in sticks) is labeled in red. Right: The hydrogen bonds of the two binding sites of the c-di-GMP-I riboswitch bound with c-di-GMP<sup>[3]</sup>.<br /></p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
-<td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/c-di-GMP-I_binding_pockets_1.svg" alt="drawing" style="width:400px"  px="" /></td>
-<td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/c-di-GMP-I_binding_pockets_2.svg" alt="drawing" style="width:400px"  px="" /></td>
+<td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/c-di-GMP-I_binding_pockets_1.svg" alt="drawing" style="width:400px" px="" /></td>
+<td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/c-di-GMP-I_binding_pockets_2.svg" alt="drawing" style="width:400px" px="" /></td>
 </tr>
 </table>
 <p><br /></p>
-                    
-<font ><p>Left: Surface representation of the binding pocket of the c-di-GMP-II riboswitch generated from PDB ID:3Q3Z. c-di-GMP (shown in sticks) is labeled in red. Right: The hydrogen bonds of the binding site of the c-di-GMP-II riboswitch bound with c-di-GMP<sup>[6]</sup>.<br /></p></font>
+
+<font><p>Left: Surface representation of the binding pocket of the c-di-GMP-II riboswitch generated from PDB ID:3Q3Z. c-di-GMP (shown in sticks) is labeled in red. Right: The hydrogen bonds of the binding site of the c-di-GMP-II riboswitch bound with c-di-GMP<sup>[6]</sup>.<br /></p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
-<td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/c-di-GMP-II_binding_pockets_1.svg" alt="drawing" style="width:400px"  px="" /></td>
-<td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/c-di-GMP-II_binding_pockets_2.svg" alt="drawing" style="width:400px"  px="" /></td>
+<td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/c-di-GMP-II_binding_pockets_1.svg" alt="drawing" style="width:400px" px="" /></td>
+<td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/c-di-GMP-II_binding_pockets_2.svg" alt="drawing" style="width:400px" px="" /></td>
 </tr>
 </table>
 <p><br /></p>
-                    
-> Ligand recognition
-            
-<font >
+
+<blockquote>
+  <p>Ligand recognition</p>
+</blockquote>
+
+<font>
 <p>KD values exhibited by c-di-GMP-I riboswitch and c-di-GMP-II rioswitch for c-di-GMP and its analogs<sup>[2, 5]</sup>.<br /><br /></p>
 </font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;">
 <tr>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
-  <img src="/images/ligand_recognition/c-di-GMP_ligand.svg" alt="drawing" style="width:800px;margin-top: 0px;margin-bottom: 0px;" >
+  <img src="/images/ligand_recognition/c-di-GMP_ligand.svg" alt="drawing" style="width:800px;margin-top: 0px;margin-bottom: 0px;" />
 </td>
 </tr>
 </table>
 <p><br /></p>
-                
+
 <p class="header_box" id="references">References</p>
-            
+
 <p><strong>[1] Identification of 22 candidate structured RNAs in bacteria using the CMfinder comparative genomics pipeline</strong><br />
 Weinberg, Z. et al.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/17621584/" target="_blank">Nucleic Acids Res. 35, 4809–4819 (2007)</a>
 <br /><br /></p>
-                
+
 <p><strong>[2] Riboswitches in eubacteria sense the second messenger cyclic di-GMP</strong><br />
 Sudarsan, N. et al.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/18635805/" target="_blank">Science 321, 411–413 (2008)</a>
 <br /><br /></p>
-                
+
 <p><strong>[3] Structural basis of ligand binding by a c-di-GMP riboswitch</strong><br />
 Smith, K. D. et al<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/19898477/" target="_blank">Nat. Struct. Mol. Biol. 16, 1218–1223 (2009)</a>
 <br /><br /></p>
-                
+
 <p><strong>[4] Structural and biochemical determinants of ligand binding by the c-di-GMP riboswitch</strong><br />
-Smith, K. D., Lipchock, S. V., Livingston, A. L., Shanahan, C. A. & Strobel, S. A.<br />
+Smith, K. D., Lipchock, S. V., Livingston, A. L., Shanahan, C. A. &amp; Strobel, S. A.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/20690679/" target="_blank">Biochemistry 49, 7351–7359 (2010)</a>
 <br /><br /></p>
-                
+
 <p><strong>[5] An allosteric self-splicing ribozyme triggered by a bacterial second messenger</strong><br />
-Lee, E. R., Baker, J. L., Weinberg, Z., Sudarsan, N. & Breaker, R. R.<br />
+Lee, E. R., Baker, J. L., Weinberg, Z., Sudarsan, N. &amp; Breaker, R. R.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/20705859/" target="_blank">Science 329, 845–848 (2010)</a>
 <br /><br /></p>
-                
-<p><strong>[6] Structural basis of differential ligand recognition by two classes of bis-(3'-5')-cyclic dimeric guanosine monophosphate-binding riboswitches</strong><br />
-Smith, K. D., Shanahan, C. A., Moore, E. L., Simon, A. C. & Strobel, S. A.<br />
+
+<p><strong>[6] Structural basis of differential ligand recognition by two classes of bis-(3’-5’)-cyclic dimeric guanosine monophosphate-binding riboswitches</strong><br />
+Smith, K. D., Shanahan, C. A., Moore, E. L., Simon, A. C. &amp; Strobel, S. A.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/21518891/" target="_blank">Proc. Natl. Acad. Sci. U. S. A. 108, 7757–7762 (2011)</a>
 <br /><br /></p>
-                
+
 <p><strong>[7] Structural and biochemical characterization of linear dinucleotide analogues bound to the c-di-GMP-I aptamer</strong><br />
-Smith, K. D., Lipchock, S. V. & Strobel, S. A.<br />
+Smith, K. D., Lipchock, S. V. &amp; Strobel, S. A.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/22148472/" target="_blank">Biochemistry 51, 425–432 (2012)</a>
 <br /><br /></p>
-                
+
 <p><strong>[8] Nucleotide, c-di-GMP, c-di-AMP, cGMP, cAMP, (p)ppGpp signaling in bacteria and implications in pathogenesis</strong><br />
 Kalia, D. et al.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/23023210/" target="_blank">Chem. Soc. Rev. 42, 305–341 (2013)</a>
 <br /><br /></p>
-                
+
 <p><strong>[9] Cyclic di-GMP riboswitch-regulated type IV pili contribute to aggregation of Clostridium difficile</strong><br />
 Bordeleau, E. et al.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/25512308/" target="_blank">J. Bacteriol. 197, 819–832 (2015)</a>
 <br /><br /></p>
-                
+
 <p><strong>[10] Recognition of cyclic-di-GMP by a riboswitch conducts translational repression through masking the ribosome-binding site distant from the aptamer domain</strong><br />
 Inuzuka, S. et al.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/29693296/" target="_blank">Genes Cells 23, 435–447 (2018)</a>
 <br /><br /></p>
-                
+
+:ET

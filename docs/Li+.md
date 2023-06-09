@@ -6,7 +6,7 @@ author: Yuanlin He, Xiaowei Lin
 permalink: /docs/Li/
 ---
 <p style="font-size: 24px"><strong>Rfam ID: [RF03057](https://rfam.xfam.org/family/RF03057,target="_blank")</strong> (nhaA-I RNA)<br /></p>
-<p style="font-size: 24px"><strong>&emsp;&emsp;&emsp;&emsp;[RF03038](https://rfam.xfam.org/family/RF03038,target="_blank")(nhaA-II RNA)</strong> <br /></p>
+<p style="font-size: 24px"><strong>&emsp;&emsp;&emsp;&emsp;[RF03038](https://rfam.xfam.org/family/RF03038,target="_blank")</strong> (nhaA-II RNA) <br /></p>
 
 <br />
 <html>

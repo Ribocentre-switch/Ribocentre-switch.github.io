@@ -6,7 +6,7 @@ author: Wenjian Liao
 permalink: /docs/2-dG/
 ---
 <p style="font-size: 24px"><strong>Rfam ID: [RF00167](https://rfam.xfam.org/family/RF00167,target="_blank")</strong> (Purine riboswitch)<br /></p>
-<p style="font-size: 24px"><strong>&emsp;&emsp;&emsp;&emsp;[RF03165](https://rfam.xfam.org/family/RF03165,target="_blank")(2dG-II)</strong> <br /></p>
+<p style="font-size: 24px"><strong>&emsp;&emsp;&emsp;&emsp;[RF03165](https://rfam.xfam.org/family/RF03165,target="_blank")</strong> (2dG-II) <br /></p>
 
 <br />
 <html>

@@ -6,7 +6,7 @@ author: Xiaowei Lin, Yuanyin Huang
 permalink: /docs/THF/
 ---
 <p style="font-size: 24px"><strong>Rfam ID: [RF01831](https://rfam.xfam.org/family/RF01831,target="_blank")</strong> (THF riboswitch)<br /></p>
-<p style="font-size: 24px"><strong>&emsp;&emsp;&emsp;&emsp;[RF02977](https://rfam.xfam.org/family/RF02977,target="_blank")(<i>folE</i> RNA)</strong> <br /></p>
+<p style="font-size: 24px"><strong>&emsp;&emsp;&emsp;&emsp;[RF02977](https://rfam.xfam.org/family/RF02977,target="_blank")</strong> (<i>folE</i> RNA) <br /></p>
 
 <br />
 <html>

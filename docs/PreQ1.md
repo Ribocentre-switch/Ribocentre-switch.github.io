@@ -6,8 +6,8 @@ author: Wenjian Liao, Zhizhong Lu
 permalink: /docs/PreQ/
 ---
 <p style="font-size: 24px"><strong>Rfam ID: [RF00522](https://rfam.xfam.org/family/RF00522,target="_blank")</strong> (PreQ<sub>1</sub>-I riboswitch)<br /></p>
-<p style="font-size: 24px"><strong>&emsp;&emsp;&emsp;&emsp;[RF01054](https://rfam.xfam.org/family/RF01054,target="_blank")(PreQ<sub>1</sub>-II riboswitch)</strong> <br /></p>
-<p style="font-size: 24px"><strong>&emsp;&emsp;&emsp;&emsp;[RF02680](https://rfam.xfam.org/family/RF02680,target="_blank")(PreQ<sub>1</sub>-III riboswitch)</strong> <br /></p>
+<p style="font-size: 24px"><strong>&emsp;&emsp;&emsp;&emsp;[RF01054](https://rfam.xfam.org/family/RF01054,target="_blank")</strong> (PreQ<sub>1</sub>-II riboswitch) <br /></p>
+<p style="font-size: 24px"><strong>&emsp;&emsp;&emsp;&emsp;[RF02680](https://rfam.xfam.org/family/RF02680,target="_blank")</strong> (PreQ<sub>1</sub>-III riboswitch) <br /></p>
 
 <br />
 <html>
