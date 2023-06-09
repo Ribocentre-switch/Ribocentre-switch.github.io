@@ -250,7 +250,7 @@ RF00174</td>
             
             
             <tr>
-                    <td name="td0"><a href="https://ribocentre-switch.github.io/docs/NAD<sup>+</sup>-I" target="_blank"><b>NAD<sup>+</sup>-I</b></a></td>
+                    <td name="td0"><a href="https://ribocentre-switch.github.io/docs/NAD" target="_blank"><b>NAD<sup>+</sup>-I</b></a></td>
                     <td name="td1">Nicotinamide adenine dinucleotide</td>
                     <td name="td2">NAD<sup>+</sup>-I riboswitch is the first class of riboswitches that recognize NAD<sup>+</sup>. It is usually located upstream of <i>nadA</i> genes within the phylum Acidobacteria, which encode quinolinate synthetase, an enzyme that performs a step in NAD<sup>+</sup> synthesis.</td>
                     <td name="td3"><a href="https://pubmed.ncbi.nlm.nih.gov/28977401/" target="_blank"><b>2017</b> </a></td>
@@ -260,7 +260,7 @@ RF00174</td>
             
             
             <tr>
-                    <td name="td0"><a href="https://ribocentre-switch.github.io/docs/NAD<sup>+</sup>-I" target="_blank"><b>NAD<sup>+</sup>-II</b></a></td>
+                    <td name="td0"><a href="https://ribocentre-switch.github.io/docs/NAD2" target="_blank"><b>NAD<sup>+</sup>-II</b></a></td>
                     <td name="td1">Nicotinamide adenine dinucleotide</td>
                     <td name="td2">NAD<sup>+</sup>-II riboswitch is the second class of riboswitches that recognize NAD<sup>+</sup>. It is usually associated with <i>pnuC</i> genes, and PnuC proteins are known to transport nicotinamide riboside (NR), which is a component of the ubiquitous and abundant enzyme cofactor nicotinamide adenine dinucleotide (NAD<sup>+</sup>).</td>
                     <td name="td3"><a href="https://pubmed.ncbi.nlm.nih.gov/33970790/" target="_blank"><b>2021</b> </a></td>
@@ -324,7 +324,7 @@ RF00174</td>
 
             
             <tr>
-                    <td name="td0"><a href="https://ribocentre-switch.github.io/docs/PreQ<sub>1</sub>-I" target="_blank"><b>PreQ<sub>1</sub>-I</b></a></td>
+                    <td name="td0"><a href="https://ribocentre-switch.github.io/docs/PreQ" target="_blank"><b>PreQ<sub>1</sub>-I</b></a></td>
                     <td name="td1">Prequeusine-1</td>
                     <td name="td2">PreQ<sub>1</sub> is a guanine-derived nucleobase that is known to be incorporated in the wobble position of tRNAs containing the GUN anticodon sequence and then further modified to yield queuosine (Q). PreQ<sub>1</sub>-I has a distinctly small aptamer, ranging from 25 to 45 nucleotides long, and it is represented by RNAs sub-classified as 'type 1', 'type 2' and 'type 3'.</td>
                     <td name="td3"><a href="https://pubmed.ncbi.nlm.nih.gov/17384645/" target="_blank"><b>2007</b> </a></td>
@@ -334,7 +334,7 @@ RF00174</td>
 
             
             <tr>
-                    <td name="td0"><a href="https://ribocentre-switch.github.io/docs/PreQ<sub>1</sub>-I" target="_blank"><b>PreQ<sub>1</sub>-II</b></a></td>
+                    <td name="td0"><a href="https://ribocentre-switch.github.io/docs/PreQ" target="_blank"><b>PreQ<sub>1</sub>-II</b></a></td>
                     <td name="td1">Prequeusine-1</td>
                     <td name="td2">PreQ<sub>1</sub>-II riboswitch, only found in <i>Lactobacillales</i>, has a larger and more complex consensus sequence and structure than preQ<sub>1</sub>-I riboswitch, with an average of 58 nucleotides composing its aptamer, which forms as many as five base-paired substructures</td>
                     <td name="td3"><a href="https://pubmed.ncbi.nlm.nih.gov/18305186/" target="_blank"><b>2008</b> </a></td>
@@ -344,7 +344,7 @@ RF00174</td>
 
             
             <tr>
-                    <td name="td0"><a href="https://ribocentre-switch.github.io/docs/PreQ<sub>1</sub>-I" target="_blank"><b>preQ<sub>1</sub>-III</b></a></td>
+                    <td name="td0"><a href="https://ribocentre-switch.github.io/docs/PreQ" target="_blank"><b>preQ<sub>1</sub>-III</b></a></td>
                     <td name="td1">Prequeusine-1</td>
                     <td name="td2">PreQ<sub>1</sub>-III riboswitch has a distinct structure and is also larger in aptamer size than preQ<sub>1</sub>-I riboswitch, ranging from 33 to 58 nucleotides.</td>
                     <td name="td3"><a href="https://pubmed.ncbi.nlm.nih.gov/25036777/" target="_blank"><b>2014</b> </a></td>
@@ -544,7 +544,7 @@ RF03170</td>
 
             
             <tr>
-                    <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Na<sup>+</sup>-I" target="_blank"><b>Na<sup>+</sup>-I</b></a></td>
+                    <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Na" target="_blank"><b>Na<sup>+</sup>-I</b></a></td>
                     <td name="td1">Na<sup>+</sup></td>
                     <td name="td2">The DUF1646 RNA motif is a conserved RNA structure that was discovered by bioinformatics. The genes apparently regulated by DUF1646 RNAs are often related to the transportation of sodium ions. A DUF1646 RNA occurs upstream of an operon in <i>Enterococcus hirae</i> that was shown to regulate the downstream genes based on sodium ion concentrations. However, it is unclear whether this DUF1646 RNA participates in sodium-based gene regulation.</td>
                     <td name="td3"><a href="https://pubmed.ncbi.nlm.nih.gov/28977401/" target="_blank"><b>2017</b> </a></td>
@@ -554,7 +554,7 @@ RF03170</td>
 
             
             <tr>
-                    <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Na<sup>+</sup>-I" target="_blank"><b>Na<sup>+</sup>-II</b></a></td>
+                    <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Na" target="_blank"><b>Na<sup>+</sup>-II</b></a></td>
                     <td name="td1">Na<sup>+</sup></td>
                     <td name="td2">None</td>
                     <td name="td3"><a href="None" target="_blank"><b>None</b> </a></td>
@@ -564,7 +564,7 @@ RF03170</td>
 
             
             <tr>
-                    <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Li<sup>+</sup>-I" target="_blank"><b>Li<sup>+</sup>-I</b></a></td>
+                    <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Li" target="_blank"><b>Li<sup>+</sup>-I</b></a></td>
                     <td name="td1">Li<sup>+</sup></td>
                     <td name="td2">The <i>nhaA</i>-I RNA motif is a conserved RNA structure that was discovered by bioinformatics. <i>nhaA</i>-I motif RNAs are found in <i>Acidobacteriota</i>, alpha-, beta- and Gammaproteobacteria, <i>Verrucomicrobiota</i> and the tentative phylum NC10. <i>nhaA</i>-I RNAs typically occur upstream of genes that encode exchangers of sodium ions and protons. In 2022, Breaker et al. identified <i>nhaA</i>-I motif as Li<sup>+</sup>-I riboswitches.</td>
                     <td name="td3"><a href="https://pubmed.ncbi.nlm.nih.gov/28977401/" target="_blank"><b>2017</b> </a></td>
@@ -574,7 +574,7 @@ RF03170</td>
 
             
             <tr>
-                    <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Li<sup>+</sup>-I" target="_blank"><b>Li<sup>+</sup>-II</b></a></td>
+                    <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Li" target="_blank"><b>Li<sup>+</sup>-II</b></a></td>
                     <td name="td1">Li<sup>+</sup></td>
                     <td name="td2">The <i>nhaA</i>-II RNA motif is a conserved RNA structure that was discovered by bioinformatics. <i>nhaA</i>-II motifs are found in <i>Caulobacterales</i>.<i>nhaA</i>-I RNAs typically occur upstream of genes that encode exchangers of sodium ions and protons. In 2022, Breaker et al. identified <i>nhaA</i>-II motif as Li<sup>+</sup>-II riboswitches.</td>
                     <td name="td3"><a href="https://pubmed.ncbi.nlm.nih.gov/28977401/" target="_blank"><b>2017</b> </a></td>
