@@ -82,7 +82,7 @@ window.addEventListener("DOMContentLoaded", function() {
 		
 
 
-  <div class="container-fluid">
+  <div class="container-fluid2">
 	<div class="navbar-header">
 	  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse-1" aria-expanded="false">
 		<span class="sr-only">Toggle navigation</span>
@@ -126,13 +126,41 @@ window.addEventListener("DOMContentLoaded", function() {
     
       <div class="container-fluid">
         <div class="row">
-          <div id="ribozyme" class="col-sm-12">
-  <html lang="en">
+          <style>
+  .box_style{
+    background: #f4f4f4;
+  }
+  .wrapper {
+    display: block;
+    position: relative;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    text-align: left;
+    word-wrap: break-word;
+    }
+  .sectiontitle {
+    display: block;
+    max-width: 70%;
+    margin: 0 auto ;
+    text-align: left;
+    background :#fff;
+    }
+    body {
+    padding-top: 70px;
+  }
+</style>
+
+  <div class="wrapper box_style " >
+    <section class="sectiontitle"> 
+      <div class="well" style="border: 1px solid #C9C9C9; background-color: #fff;">
+       <html lang="en">
   <head>
     <meta charset="utf-8" />
     <title>Sort table example</title>
-    <style>
-		  table {
+     <style>
+    /* 样式表格 */
+    table {
         border: 2px solid #f8f8ff;
         border: 2px solid #767676;
 		    border: 2px solid #767676;
@@ -155,14 +183,20 @@ window.addEventListener("DOMContentLoaded", function() {
 		  min-width: 90px;
 		  padding: 10px 10px;
 		}
-		.header_box {
-    border: none;
-    background: #efefef;
-    font-size:28px
-  }
-	  </style>
+
+    /* 隐藏所有 sheet */
+    .sheet {
+      display: none;
+    }
+    
+  </style>
   </head>
   <body>
+  <body>
+  <!-- 按钮 -->
+  <button onclick="showSheet('sheet1')">Sheet 1</button>
+  <button onclick="showSheet('sheet2')">Sheet 2</button>
+  <button onclick="showSheet('sheet3')">Sheet 3</button>
   <br /><br />
 <p class="header_box">Riboswitch</p>
 <strong>content</strong><br /><br />
@@ -229,8 +263,8 @@ RF00174</td>
                     <td name="td1">Tungsten cofactor</td>
                     <td name="td2">The Moco RNA motif is a conserved RNA structure that is presumed to be a riboswitch that binds molybdenum cofactor or the related tungsten cofactor. As these cofactors are not available in purified form, in vitro binding assays cannot be performed. However, the genetic data, complex structure of the RNA and the failure to detect a protein involved in the regulation suggest that the Moco RNA motif corresponds to a class of riboswitches.</td>
                     <td name="td3"><a href="https://pubmed.ncbi.nlm.nih.gov/17621584/" target="_blank"><b>2007</b> </a></td>
-                    <td name="td4">NA<br /></td>
-                    <td name="td5">NA</td>
+                    <td name="td4">None<br /></td>
+                    <td name="td5">None</td>
                 </tr>
             
             
@@ -269,8 +303,8 @@ RF00174</td>
                     <td name="td1">Hydroxymethyl-pyrimidine pyrophosphate</td>
                     <td name="td2">HMP-PP riboswitches are a class of homologous RNAs in certain bacteria that function as sensors of the thiamin precursor HMP-PP. The HMP-PP riboswitch was initially named as the ‘thiS motif’ because of its frequent association with a gene coding for the ThiS protein, which delivers sulfur to form the thiazole moiety of the thiamin precursor HET-P. The 3D structure of the HMP-PP riboswitch has not been solved yet.</td>
                     <td name="td3"><a href="https://pubmed.ncbi.nlm.nih.gov/30902049/" target="_blank"><b>2019</b> </a></td>
-                    <td name="td4">NA<br /></td>
-                    <td name="td5">NA</td>
+                    <td name="td4">None<br /></td>
+                    <td name="td5">None</td>
                 </tr>
             
             
@@ -375,12 +409,12 @@ RF00174</td>
             
             
             <tr>
-                    <td name="td0"><a href="https://ribocentre-switch.github.io/docs/NAD&lt;sup&gt;+&lt;/sup&gt;-I" target="_blank"><b>NAD<sup>+</sup>-II</b></a></td>
+                    <td name="td0"><a href="https://ribocentre-switch.github.io/docs/NAD&lt;sup&gt;+&lt;/sup&gt;-II" target="_blank"><b>NAD<sup>+</sup>-II</b></a></td>
                     <td name="td1">Nicotinamide adenine dinucleotide</td>
                     <td name="td2">NAD<sup>+</sup>-II riboswitch is the second class of riboswitches that recognize NAD<sup>+</sup>. It is usually associated with <i>pnuC</i> genes, and PnuC proteins are known to transport nicotinamide riboside (NR), which is a component of the ubiquitous and abundant enzyme cofactor nicotinamide adenine dinucleotide (NAD<sup>+</sup>).</td>
                     <td name="td3"><a href="https://pubmed.ncbi.nlm.nih.gov/33970790/" target="_blank"><b>2021</b> </a></td>
-                    <td name="td4">NA<br /></td>
-                    <td name="td5">NA</td>
+                    <td name="td4">None<br /></td>
+                    <td name="td5">None</td>
                 </tr>
             
             
@@ -403,8 +437,8 @@ RF00174</td>
                     <td name="td1">Xanthine</td>
                     <td name="td2">There are two classes of xanthine riboswitches. The xanthine-I riboswitch, formerly known as the NMT1 motif RNA, is tightly binds 8-azaxanthine, xanthine, and uric acid. Xanthine-II riboswitch is a class of xanthine-sensing guanine riboswitch variants.</td>
                     <td name="td3"><a href="https://pubmed.ncbi.nlm.nih.gov/35622895/" target="_blank"><b>2022</b> </a></td>
-                    <td name="td4">NA<br /></td>
-                    <td name="td5">NA</td>
+                    <td name="td4">None<br /></td>
+                    <td name="td5">None</td>
                 </tr>
 
             
@@ -507,8 +541,8 @@ RF00174</td>
                     <td name="td1">Phosphoribosyl Pyrophosphate</td>
                     <td name="td2">The <i>ykkC</i> RNAs were initially found in 2004. Phosphoribosyl pyrophosphate (PRPP, 5-phospho-α-D-ribose 1-diphosphate) was identified as the ligand for <i>ykkC</i> subtype 2b RNAs (PRPP riboswitches).</td>
                     <td name="td3"><a href="https://pubmed.ncbi.nlm.nih.gov/29504937/" target="_blank"><b>2018</b> </a></td>
-                    <td name="td4">NA<br /></td>
-                    <td name="td5">NA</td>
+                    <td name="td4">None<br /></td>
+                    <td name="td5">None</td>
                 </tr>
 
             
@@ -527,8 +561,8 @@ RF00174</td>
                     <td name="td1">Adenosine diphosphate</td>
                     <td name="td2">The <i>ykkC</i> RNAs were initially found in 2004. The <i>ykkC</i> subtype 2c RNAs were proved to recognize adenosine and cytidine 5′-diphosphate molecules in either their ribose or deoxyribose forms (ADP, dADP, CDP, and dCDP) in 2019.</td>
                     <td name="td3"><a href="https://pubmed.ncbi.nlm.nih.gov/30081631/" target="_blank"><b>2019</b> </a></td>
-                    <td name="td4">NA<br /></td>
-                    <td name="td5">NA</td>
+                    <td name="td4">None<br /></td>
+                    <td name="td5">None</td>
                 </tr>
 
             
@@ -541,8 +575,8 @@ RF00174</td>
                     <td name="td1">Cyclic AMP-GMP</td>
                     <td name="td2">The c-AMP-GMP riboswitch (also known as c-GAMP riboswitch) form a class of riboswitch that binds specifically to cyclic AMP-GMP. Previously annotated as the c-di-GMP-I riboswitch, its mutant c-AMP-GMP riboswitch is able to bind to a second messenger, c-AMP-GMP. The c-AMP-GMP riboswitch recognizes c-AMP-GMP and controls a group of genes important for utilizing iron oxide (III) in external power generation. The riboswitch are predominantly found in species of <i>Bacillales</i>, <i>Clostridia</i>, <i>Deltaproteobacteria</i>, and <i>Gammaproteobacteria</i> .</td>
                     <td name="td3"><a href="https://pubmed.ncbi.nlm.nih.gov/25848023/" target="_blank"><b>2015</b> </a></td>
-                    <td name="td4">NA<br /></td>
-                    <td name="td5">NA</td>
+                    <td name="td4">None<br /></td>
+                    <td name="td5">None</td>
                 </tr>
 
             
@@ -551,8 +585,8 @@ RF00174</td>
                     <td name="td1">Guanosine tetraphosphate</td>
                     <td name="td2">The ppGpp riboswitches, originally identified by bioinformatics and classified as subtypes 2a of "The ykkC motif", form a class of riboswitch that specifically bind guanosine tetraphosphate (ppGpp), which is a well-known alarmone produced during various stresses including stringent response, causing by a shortage of amino acids. The ppGpp riboswitches control genes involved in biosynthesis and transport of branched-chain amino acids and genes encoding for glutamate synthase and the ATP-binding cassette transporters (ABC transporters).</td>
                     <td name="td3"><a href="https://pubmed.ncbi.nlm.nih.gov/29784782/" target="_blank"><b>2018</b> </a></td>
-                    <td name="td4">NA<br /></td>
-                    <td name="td5">NA</td>
+                    <td name="td4">None<br /></td>
+                    <td name="td5">None</td>
                 </tr>
 
             
@@ -604,7 +638,7 @@ RF00174</td>
                     <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Fluoride" target="_blank"><b>Fluoride</b></a></td>
                     <td name="td1">F<sup>-</sup></td>
                     <td name="td2">The fluoride riboswitch (formerly called the <i>crcB</i> RNA motif) is a conserved RNA structure identified by bioinformatics in a wide variety of bacteria and archaea. These RNAs were later shown to function as riboswitches that sense fluoride ions. These "fluoride riboswitches" increase expression of downstream genes when fluoride levels are elevated, and the genes are proposed to help mitigate the toxic effects of very high levels of fluoride.</td>
-                    <td name="td3"><a href="https://pubmed.ncbi.nlm.nih.gov/20230605/" target="_blank"><b>2010.0</b> </a></td>
+                    <td name="td3"><a href="https://pubmed.ncbi.nlm.nih.gov/20230605/" target="_blank"><b>2010</b> </a></td>
                     <td name="td4">Fluoride riboswitch (crcB)<br /></td>
                     <td name="td5">RF01734</td>
                 </tr>
@@ -614,7 +648,7 @@ RF00174</td>
                     <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Magnesium" target="_blank"><b>Mg<sup>2＋</sup>-I</b></a></td>
                     <td name="td1">Mg<sup>2＋</sup></td>
                     <td name="td2">The Ykok leader or M-box is a Mg-sensing RNA structure that controls the expression of Magnesium ion transport proteins in bacteria. It is a distinct structure to the Magnesium responsive RNA element. Examples of the conserved M-box RNA structure occur upstream of each of the three major families of Mg transporters (CorA, MgtE and MgtA/MgtB) in various bacterial species.</td>
-                    <td name="td3"><a href="https://pubmed.ncbi.nlm.nih.gov/15096624/" target="_blank"><b>2004.0</b> </a></td>
+                    <td name="td3"><a href="https://pubmed.ncbi.nlm.nih.gov/15096624/" target="_blank"><b>2004</b> </a></td>
                     <td name="td4">M-box riboswitch (ykoK leader)<br /></td>
                     <td name="td5">RF00380</td>
                 </tr>
@@ -624,7 +658,7 @@ RF00174</td>
                     <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Magnesium" target="_blank"><b>Mg<sup>2＋</sup>-II</b></a></td>
                     <td name="td1">Mg<sup>2＋</sup></td>
                     <td name="td2">The Magnesium responsive RNA element is a cis-regulatory element that regulates the expression of the magnesium transporter protein MgtA. It is located in the 5' UTR of this gene. A recent report suggests that the RNA element targets the mgtA transcript for degradation by RNase E when cells are grown in high Mg<sup>2+</sup> environments.</td>
-                    <td name="td3"><a href="https://pubmed.ncbi.nlm.nih.gov/16615891/" target="_blank"><b>2006.0</b> </a></td>
+                    <td name="td3"><a href="https://pubmed.ncbi.nlm.nih.gov/16615891/" target="_blank"><b>2006</b> </a></td>
                     <td name="td4">Magnesium Sensor<br /></td>
                     <td name="td5">RF01056</td>
                 </tr>
@@ -634,7 +668,7 @@ RF00174</td>
                     <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Manganese" target="_blank"><b>Mn<sup>2＋</sup></b></a></td>
                     <td name="td1">Mn<sup>2＋</sup></td>
                     <td name="td2">The yybP-ykoY leader RNA element was originally discovered in <i>E. coli</i> during a large scale screen and was named SraF. This family was later found to exist upstream of the yybP and ykoY genes in <i>B. subtilis</i>. The<i>yybP-ykoY</i> element was later proposed to be manganese-responsive after another associated family of genes, YebN/MntP, was shown to encode Mn efflux pumps in several bacteria. Genetic data and a crystal structure confirmed that <i>yybP-ykoY</i> is a manganese riboswitch that directly binds Mn<sup>2+</sup>.</td>
-                    <td name="td3"><a href="https://pubmed.ncbi.nlm.nih.gov/15096624/" target="_blank"><b>2004.0</b> </a></td>
+                    <td name="td3"><a href="https://pubmed.ncbi.nlm.nih.gov/15096624/" target="_blank"><b>2004</b> </a></td>
                     <td name="td4">yybP-ykoYmanganese riboswitch<br /></td>
                     <td name="td5">RF00080</td>
                 </tr>
@@ -644,7 +678,7 @@ RF00174</td>
                     <td name="td0"><a href="https://ribocentre-switch.github.io/docs/NiCo" target="_blank"><b>NiCo</b></a></td>
                     <td name="td1">Ni<sup>2＋</sup> and Co<sup>2＋</sup></td>
                     <td name="td2">The NiCo riboswitch is a riboswitch that senses nickel or cobalt ions. Iron responsiveness is also a generalproperty of the <i>czcD</i> family. Thus, it is an RNA molecule that specifically binds these metal ions, and regulates genes accordingly.</td>
-                    <td name="td3"><a href="https://pubmed.ncbi.nlm.nih.gov/25794617/" target="_blank"><b>2015.0</b> </a></td>
+                    <td name="td3"><a href="https://pubmed.ncbi.nlm.nih.gov/25794617/" target="_blank"><b>2015</b> </a></td>
                     <td name="td4">NiCo riboswitch<br /></td>
                     <td name="td5">RF02683</td>
                 </tr>
@@ -654,7 +688,7 @@ RF00174</td>
                     <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Na&lt;sup&gt;+&lt;/sup&gt;" target="_blank"><b>Na<sup>+</sup>-I</b></a></td>
                     <td name="td1">Na<sup>+</sup></td>
                     <td name="td2">The DUF1646 RNA motif is a conserved RNA structure that was discovered by bioinformatics. The genes apparently regulated by DUF1646 RNAs are often related to the transportation of sodium ions. A DUF1646 RNA occurs upstream of an operon in <i>Enterococcus hirae</i> that was shown to regulate the downstream genes based on sodium ion concentrations. However, it is unclear whether this DUF1646 RNA participates in sodium-based gene regulation.</td>
-                    <td name="td3"><a href="https://pubmed.ncbi.nlm.nih.gov/28977401/" target="_blank"><b>2017.0</b> </a></td>
+                    <td name="td3"><a href="https://pubmed.ncbi.nlm.nih.gov/28977401/" target="_blank"><b>2017</b> </a></td>
                     <td name="td4">Na+ riboswitch (DUF1646 RNA)<br /></td>
                     <td name="td5">RF03071</td>
                 </tr>
@@ -663,10 +697,10 @@ RF00174</td>
             <tr>
                     <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Na&lt;sup&gt;+&lt;/sup&gt;" target="_blank"><b>Na<sup>+</sup>-II</b></a></td>
                     <td name="td1">Na<sup>+</sup></td>
-                    <td name="td2">NA</td>
-                    <td name="td3"><a href="NA" target="_blank"><b>NA</b> </a></td>
-                    <td name="td4">NA<br /></td>
-                    <td name="td5">NA</td>
+                    <td name="td2">None</td>
+                    <td name="td3"><a href="None" target="_blank"><b>None</b> </a></td>
+                    <td name="td4">None<br /></td>
+                    <td name="td5">None</td>
                 </tr>
 
             
@@ -674,7 +708,7 @@ RF00174</td>
                     <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Li&lt;sup&gt;+&lt;/sup&gt;" target="_blank"><b>Li<sup>+</sup>-I</b></a></td>
                     <td name="td1">Li<sup>+</sup></td>
                     <td name="td2">The <i>nhaA</i>-I RNA motif is a conserved RNA structure that was discovered by bioinformatics. <i>nhaA</i>-I motif RNAs are found in <i>Acidobacteriota</i>, alpha-, beta- and Gammaproteobacteria, <i>Verrucomicrobiota</i> and the tentative phylum NC10. <i>nhaA</i>-I RNAs typically occur upstream of genes that encode exchangers of sodium ions and protons. In 2022, Breaker et al. identified <i>nhaA</i>-I motif as Li<sup>+</sup>-I riboswitches.</td>
-                    <td name="td3"><a href="https://pubmed.ncbi.nlm.nih.gov/28977401/" target="_blank"><b>2017.0</b> </a></td>
+                    <td name="td3"><a href="https://pubmed.ncbi.nlm.nih.gov/28977401/" target="_blank"><b>2017</b> </a></td>
                     <td name="td4">nhaA-I RNA<br /></td>
                     <td name="td5">RF03057</td>
                 </tr>
@@ -684,7 +718,7 @@ RF00174</td>
                     <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Li&lt;sup&gt;+&lt;/sup&gt;" target="_blank"><b>Li<sup>+</sup>-II</b></a></td>
                     <td name="td1">Li<sup>+</sup></td>
                     <td name="td2">The <i>nhaA</i>-II RNA motif is a conserved RNA structure that was discovered by bioinformatics. <i>nhaA</i>-II motifs are found in <i>Caulobacterales</i>.<i>nhaA</i>-I RNAs typically occur upstream of genes that encode exchangers of sodium ions and protons. In 2022, Breaker et al. identified <i>nhaA</i>-II motif as Li<sup>+</sup>-II riboswitches.</td>
-                    <td name="td3"><a href="https://pubmed.ncbi.nlm.nih.gov/28977401/" target="_blank"><b>2017.0</b> </a></td>
+                    <td name="td3"><a href="https://pubmed.ncbi.nlm.nih.gov/28977401/" target="_blank"><b>2017</b> </a></td>
                     <td name="td4">nhaA-II RNA<br /></td>
                     <td name="td5">RF03038</td>
                 </tr>
@@ -797,8 +831,8 @@ RF00174</td>
                     <td name="td1">Guanidine</td>
                     <td name="td2">Four classes of riboswitches have been identified that bind the cationic molecule guanidine (Gdm<sup>+</sup> ). Now known as guanidine-I, -II, -III and -IV riboswitches.</td>
                     <td name="td3"><a href="https://pubmed.ncbi.nlm.nih.gov/33236895/" target="_blank"><b>2020</b> </a></td>
-                    <td name="td4">NA<br /></td>
-                    <td name="td5">NA</td>
+                    <td name="td4">None<br /></td>
+                    <td name="td5">None</td>
                 </tr>
 
             
@@ -816,15 +850,19 @@ RF00174</td>
                     </tr>
     
                 
-</table></body></html>
+</table></body></body></html>
 
-</div>
+      </div>
+    </section>
+  </div>
 
+ 
+  
         </div>
       </div>
     <div id="footer" class="panel">
   <div class="panel-footer">
-	<div class="container-fluid">
+	<div class="container-fluid2">
 	  <div class="row">
 		<div class="col-sm-4">
 			

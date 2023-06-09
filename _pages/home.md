@@ -23,7 +23,7 @@ permalink: /
     }
   .sectiontitle {
     display: block;
-    max-width: 75%;
+    max-width: 68%;
     margin: 0 auto ;
     text-align: left;
     background :#fff;
@@ -42,7 +42,7 @@ permalink: /
     }
 </style>
 </head>
-
+<body>
 <div class="wrapper box_style" >
   <section class="sectiontitle"> 
   <br><br><br><br><br>
@@ -74,8 +74,8 @@ Most known riboswitches occur in bacteria, but functional riboswitches of one ty
   
 </div>
 <br>
-
-
+</body>
+</html>
 
 
 

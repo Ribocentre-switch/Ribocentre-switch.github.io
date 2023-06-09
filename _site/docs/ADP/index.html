@@ -83,7 +83,7 @@ window.addEventListener("DOMContentLoaded", function() {
 		
 
 
-  <div class="container-fluid">
+  <div class="container-fluid2">
 	<div class="navbar-header">
 	  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse-1" aria-expanded="false">
 		<span class="sr-only">Toggle navigation</span>
@@ -142,7 +142,7 @@ window.addEventListener("DOMContentLoaded", function() {
     }
   .sectiontitle {
     display: block;
-    max-width: 80%;
+    max-width: 70%;
     margin: 0 auto ;
     text-align: left;
     background :#fff;
@@ -183,6 +183,9 @@ window.addEventListener("DOMContentLoaded", function() {
       color: #005826;
       text-decoration: none;
       font-weight: bold;
+      border: 1px solid #005826;
+      border-radius: 5px;
+      box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.2);
     }
     
     /* 鼠标悬停样式 */
@@ -314,7 +317,6 @@ window.addEventListener("DOMContentLoaded", function() {
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="stylesheet" href="style.css" />
     <title>Document</title>
 </head>
 <style>
@@ -343,7 +345,7 @@ window.addEventListener("DOMContentLoaded", function() {
     <div class="main-container">
         <div class="zoom-wrapper1">
             <div class="zoom-area1">
-                <img src="/images/2D/ADP_riboswitch_2D1.svg" alt="drawing" style="width:40px" />
+                <img src="/images/2D/ADP_riboswitch_2D1.svg" alt="drawing" style="width:400px" />
             </div>
         </div>
     </div>
@@ -354,7 +356,7 @@ window.addEventListener("DOMContentLoaded", function() {
       maxScale: 6
       });
       zoomWraper1.addEventListener("wheel", panzoom1.zoomWithWheel);
-      panzoom1.zoom(300 / document.querySelector(".zoom-area1 img").height);
+      panzoom1.zoom(0.8);
       </script>
 </td>
 <!--2D模2--------------------------->
@@ -372,7 +374,7 @@ window.addEventListener("DOMContentLoaded", function() {
     <div class="main-container">
         <div class="zoom-wrapper2">
             <div class="zoom-area2">
-                <img src="/images/2D/" alt="drawing" style="width:40px" />
+                <img src="/images/2D/" alt="drawing" style="width:400px" />
             </div>
         </div>
     </div>
@@ -383,7 +385,7 @@ window.addEventListener("DOMContentLoaded", function() {
       maxScale: 6
       });
       zoomWraper2.addEventListener("wheel", panzoom2.zoomWithWheel);
-      panzoom2.zoom(300 / document.querySelector(".zoom-area2 img").height);
+      panzoom2.zoom(0.8);
     </script>
 </td>
 </tr></table>
@@ -448,7 +450,7 @@ Sherlock, M. E., Sadeeshkumar, H. &amp; Breaker, R. R<br />
       </div>
     <div id="footer" class="panel">
   <div class="panel-footer">
-	<div class="container-fluid">
+	<div class="container-fluid2">
 	  <div class="row">
 		<div class="col-sm-4">
 			

@@ -43,9 +43,15 @@ firstp {
 .container-fluid {
   margin-right: auto;
   margin-left: auto;
-  max-width: 80%; /* or 950px 1320px*/
+  max-width: 100%; /* or 950px 1320px*/
 }
 
+.container-fluid2 {
+	margin-right: auto;
+	margin-left: auto;
+	max-width: 72%; /* or 950px 1320px*/
+  }
+  
 /* Home, News */
 #newsid p {
 	text-align: center;

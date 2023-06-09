@@ -773,7 +773,7 @@ abbr[title], abbr[data-original-title] { cursor: help; border-bottom: 1px dotted
 
 .initialism { font-size: 90%; }
 
-blockquote { margin: 0 0 22px; font-size: 24px; font-weight: bold; }
+blockquote { margin: 0 0 0; font-size: 24px; font-weight: bold; }
 
 blockquote p:last-child, blockquote ul:last-child, blockquote ol:last-child { margin-bottom: 0; }
 
@@ -2595,7 +2595,9 @@ p.byline { text-align: center; font-size: 18px; line-height: 36px; margin-top: -
 pubtit { font-weight: bold; }
 
 /* the all layout*/
-.container-fluid { margin-right: auto; margin-left: auto; max-width: 80%; /* or 950px 1320px*/ }
+.container-fluid { margin-right: auto; margin-left: auto; max-width: 100%; /* or 950px 1320px*/ }
+
+.container-fluid2 { margin-right: auto; margin-left: auto; max-width: 72%; /* or 950px 1320px*/ }
 
 /* Home, News */
 #newsid p { text-align: center; }

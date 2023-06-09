@@ -32,6 +32,9 @@ permalink: /docs/Cobalamine/
       color: #005826;
       text-decoration: none;
       font-weight: bold;
+      border: 1px solid #005826;
+      border-radius: 5px;
+      box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.2);
     }
     
     /* 鼠标悬停样式 */
@@ -222,7 +225,6 @@ Cobalamin riboswitches are broadly classified by the identity of the aptamer, bu
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="style.css">
     <title>Document</title>
 </head>
 <style>
@@ -251,7 +253,7 @@ Cobalamin riboswitches are broadly classified by the identity of the aptamer, bu
     <div class="main-container">
         <div class="zoom-wrapper1">
             <div class="zoom-area1">
-                <img src="/images/2D/AdoCbl_riboswitch_2D1.svg" alt="drawing" style="width:40px" />
+                <img src="/images/2D/AdoCbl_riboswitch_2D1.svg" alt="drawing" style="width:400px" />
             </div>
         </div>
     </div>
@@ -262,7 +264,7 @@ Cobalamin riboswitches are broadly classified by the identity of the aptamer, bu
       maxScale: 6
       });
       zoomWraper1.addEventListener("wheel", panzoom1.zoomWithWheel);
-      panzoom1.zoom(300 / document.querySelector(".zoom-area1 img").height);
+      panzoom1.zoom(0.8);
       </script>
 </td>
 <!--2D模2--------------------------->
@@ -280,7 +282,7 @@ Cobalamin riboswitches are broadly classified by the identity of the aptamer, bu
     <div class="main-container">
         <div class="zoom-wrapper2">
             <div class="zoom-area2">
-                <img src="/images/2D/AdoCbl_riboswitch_2D2.svg" alt="drawing" style="width:40px" />
+                <img src="/images/2D/AdoCbl_riboswitch_2D2.svg" alt="drawing" style="width:400px" />
             </div>
         </div>
     </div>
@@ -291,7 +293,7 @@ Cobalamin riboswitches are broadly classified by the identity of the aptamer, bu
       maxScale: 6
       });
       zoomWraper2.addEventListener("wheel", panzoom2.zoomWithWheel);
-      panzoom2.zoom(300 / document.querySelector(".zoom-area2 img").height);
+      panzoom2.zoom(0.8);
     </script>
 </td>
 </tr></table><br>
@@ -304,7 +306,6 @@ Cobalamin riboswitches are broadly classified by the identity of the aptamer, bu
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="style.css">
     <title>Document</title>
 </head>
 <style>
@@ -333,7 +334,7 @@ Cobalamin riboswitches are broadly classified by the identity of the aptamer, bu
     <div class="main-container">
         <div class="zoom-wrapper3">
             <div class="zoom-area3">
-                <img src="/images/2D/AqCbl_riboswitch_2D1.svg" alt="drawing" style="width:40px" />
+                <img src="/images/2D/AqCbl_riboswitch_2D1.svg" alt="drawing" style="width:400px" />
             </div>
         </div>
     </div>
@@ -344,7 +345,7 @@ Cobalamin riboswitches are broadly classified by the identity of the aptamer, bu
       maxScale: 6
       });
       zoomWraper3.addEventListener("wheel", panzoom3.zoomWithWheel);
-      panzoom3.zoom(300 / document.querySelector(".zoom-area3 img").height);
+      panzoom3.zoom(0.8);
       </script>
 </td>
 <!--2D模2--------------------------->
@@ -362,7 +363,7 @@ Cobalamin riboswitches are broadly classified by the identity of the aptamer, bu
     <div class="main-container">
         <div class="zoom-wrapper4">
             <div class="zoom-area4">
-                <img src="/images/2D/AqCbl_riboswitch_2D2.svg" alt="drawing" style="width:40px" />
+                <img src="/images/2D/AqCbl_riboswitch_2D2.svg" alt="drawing" style="width:400px" />
             </div>
         </div>
     </div>
@@ -373,7 +374,7 @@ Cobalamin riboswitches are broadly classified by the identity of the aptamer, bu
       maxScale: 6
       });
       zoomWraper4.addEventListener("wheel", panzoom4.zoomWithWheel);
-      panzoom4.zoom(300 / document.querySelector(".zoom-area4 img").height);
+      panzoom4.zoom(0.8);
     </script>
 </td>
 </tr></table><br>

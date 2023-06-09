@@ -30,6 +30,9 @@ permalink: /docs/Manganese/
       color: #005826;
       text-decoration: none;
       font-weight: bold;
+      border: 1px solid #005826;
+      border-radius: 5px;
+      box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.2);
     }
     
     /* 鼠标悬停样式 */
@@ -170,7 +173,6 @@ permalink: /docs/Manganese/
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="style.css">
     <title>Document</title>
 </head>
 <style>
@@ -199,7 +201,7 @@ permalink: /docs/Manganese/
     <div class="main-container">
         <div class="zoom-wrapper1">
             <div class="zoom-area1">
-                <img src="/images/2D/yybP-ykoY_manganese_riboswitch_2D1.svg" alt="drawing" style="width:40px" />
+                <img src="/images/2D/yybP-ykoY_manganese_riboswitch_2D1.svg" alt="drawing" style="width:400px" />
             </div>
         </div>
     </div>
@@ -210,7 +212,7 @@ permalink: /docs/Manganese/
       maxScale: 6
       });
       zoomWraper1.addEventListener("wheel", panzoom1.zoomWithWheel);
-      panzoom1.zoom(300 / document.querySelector(".zoom-area1 img").height);
+      panzoom1.zoom(0.8);
       </script>
 </td>
 <!--2D模2--------------------------->
@@ -228,7 +230,7 @@ permalink: /docs/Manganese/
     <div class="main-container">
         <div class="zoom-wrapper2">
             <div class="zoom-area2">
-                <img src="/images/2D/" alt="drawing" style="width:40px" />
+                <img src="/images/2D/" alt="drawing" style="width:400px" />
             </div>
         </div>
     </div>
@@ -239,7 +241,7 @@ permalink: /docs/Manganese/
       maxScale: 6
       });
       zoomWraper2.addEventListener("wheel", panzoom2.zoomWithWheel);
-      panzoom2.zoom(300 / document.querySelector(".zoom-area2 img").height);
+      panzoom2.zoom(0.8);
     </script>
 </td>
 </tr></table><br>
