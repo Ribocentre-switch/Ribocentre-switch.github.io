@@ -5,7 +5,7 @@ date:   2023-05-15 00:00:00
 author: Xuemei Peng, Xiaoxue Chen
 permalink: /docs/NAD2/
 ---
-<p style="font-size: 24px"><strong>Rfam ID: [nan](https://rfam.xfam.org/family/nan,target="_blank")(nan)</strong> <br /></p>
+<p style="font-size: 24px"><strong>Rfam ID: [nan](https://rfam.xfam.org/family/nan,target="_blank")</strong> (nan)<br /></p>
 
 <br />
 <html>
@@ -24,6 +24,7 @@ permalink: /docs/NAD2/
     .button {
       display: block;
       padding: 10px;
+      font-size:24px;
       margin-right: 10px;
       text-align: center;
       background-color: #efefef;
@@ -43,7 +44,7 @@ permalink: /docs/NAD2/
   </style>
 </head>
 <body>
-  <p style="font-size: 24px">Click into different sections:</p>
+  <p style="font-size: 16px">Click into different sections:</p>
   
   <div class="button-container">
     <a class="button" href="#timeline" style="bold">Timeline</a>
@@ -61,7 +62,7 @@ permalink: /docs/NAD2/
   .header_box {
     border: none;
     background: #efefef;
-    font-size:28px
+    font-size:24px
   }
   blockquote {
   margin: 0 0 0px;
@@ -121,12 +122,12 @@ permalink: /docs/NAD2/
 <p><br /></p>
         
 <p class="header_box" id="description">Description</p>
-<font size="4">NAD<sup>+</sup>-II riboswitch is the second class of riboswitches that recognize NAD<sup>+</sup>. It is usually associated with pnuC genes, and PnuC proteins are known to transport nicotinamide riboside (NR), which is a component of the ubiquitous and abundant enzyme cofactor nicotinamide adenine dinucleotide (NAD<sup>+</sup>). Thus, “pnuC motif” was inferred to function as aptamers for a novel class of NAD<sup>+</sup>-sensing riboswitches.<sup></sup>.</font>
+<font >NAD<sup>+</sup>-II riboswitch is the second class of riboswitches that recognize NAD<sup>+</sup>. It is usually associated with pnuC genes, and PnuC proteins are known to transport nicotinamide riboside (NR), which is a component of the ubiquitous and abundant enzyme cofactor nicotinamide adenine dinucleotide (NAD<sup>+</sup>). Thus, “pnuC motif” was inferred to function as aptamers for a novel class of NAD<sup>+</sup>-sensing riboswitches.<sup></sup>.</font>
 <p><br /></p>
             
 > Gene association
         
-<font size="4">Schematic representation of pnuC as a NR transporter involved in NAD+ synthesis. NAD+-II riboswitch representatives are found exclusively upstream of pnuC genes.<sup>[2]</sup>.</font>
+<font >Schematic representation of pnuC as a NR transporter involved in NAD+ synthesis. NAD+-II riboswitch representatives are found exclusively upstream of pnuC genes.<sup>[2]</sup>.</font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;">
 <tr >
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
@@ -138,7 +139,7 @@ permalink: /docs/NAD2/
                 
 > Gene regulation
             
-<font size="4"><p>Potential mechanism of translation regulation by the NAD-II riboswitch.The ribosome binding site (RBS) is showed on red.<sup>[4]</sup>.</p></font>
+<font ><p>Potential mechanism of translation regulation by the NAD-II riboswitch.The ribosome binding site (RBS) is showed on red.<sup>[4]</sup>.</p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
   <img src="/images/gene_regulation/NAD+-II_gene_regulation.svg" alt="drawing" style="width:800px;margin-top: 0px;margin-bottom: 0px;" >
@@ -150,7 +151,7 @@ permalink: /docs/NAD2/
 <p class="header_box" id="Structure and Ligand recognition">Structure and Ligand recognition</p>
 > 2D representation
         
-<font size=4>Consensus sequence and secondary structure model for the NAD-II riboswitch.<sup>[2,4]</sup>.</font><br>
+<font >Consensus sequence and secondary structure model for the NAD-II riboswitch.<sup>[2,4]</sup>.</font><br>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
 <head>
@@ -233,7 +234,7 @@ permalink: /docs/NAD2/
                 
 > 3D visualisation
             
-<font size=4>Crystal structure of NAD<sup>+</sup>-II riboswitch <sup>[3]</sup>.</font>
+<font >Crystal structure of NAD<sup>+</sup>-II riboswitch <sup>[3]</sup>.</font>
   <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
   <img src="/images/3D/NAD+-II_riboswitvh_3D.svg" alt="drawing" style="width:400px;height:400px;margin-top: 0px;margin-bottom: 0px;" >
@@ -407,7 +408,7 @@ permalink: /docs/NAD2/
                 
 > Binding pocket
                 
-<font size=4><p>(Left) Surface representation of the binding site 1 and 2 of NAD-II riboswitch generated from PDB ID:8I3Z. NMN (shown in sticks) is labeled in red. (Right) The hydrogen bonds of the two binding sites of the NAD-II riboswitch bound with NMN.<sup>[4]</sup>.<br /></p></font>
+<font ><p>(Left) Surface representation of the binding site 1 and 2 of NAD-II riboswitch generated from PDB ID:8I3Z. NMN (shown in sticks) is labeled in red. (Right) The hydrogen bonds of the two binding sites of the NAD-II riboswitch bound with NMN.<sup>[4]</sup>.<br /></p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/NAD+-II_riboswitch-binding_pockets.svg" alt="drawing" style="width:400px"  px="" /></td>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/" alt="drawing" style="width:400px"  px="" /></td>

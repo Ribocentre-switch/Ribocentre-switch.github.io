@@ -5,7 +5,7 @@ date:   2023-05-31 00:00:00
 author: Jie Deng_Yuanlin He
 permalink: /docs/c-di-AMP/
 ---
-<p style="font-size: 24px"><strong>Rfam ID: [RF00379](https://rfam.xfam.org/family/RF00379,target="_blank")(YdaO/YuaA leader)</strong> <br /></p>
+<p style="font-size: 24px"><strong>Rfam ID: [RF00379](https://rfam.xfam.org/family/RF00379,target="_blank")</strong> (YdaO/YuaA leader)<br /></p>
 
 <br />
 <html>
@@ -24,6 +24,7 @@ permalink: /docs/c-di-AMP/
     .button {
       display: block;
       padding: 10px;
+      font-size:24px;
       margin-right: 10px;
       text-align: center;
       background-color: #efefef;
@@ -43,7 +44,7 @@ permalink: /docs/c-di-AMP/
   </style>
 </head>
 <body>
-  <p style="font-size: 24px">Click into different sections:</p>
+  <p style="font-size: 16px">Click into different sections:</p>
   
   <div class="button-container">
     <a class="button" href="#timeline" style="bold">Timeline</a>
@@ -61,7 +62,7 @@ permalink: /docs/c-di-AMP/
   .header_box {
     border: none;
     background: #efefef;
-    font-size:28px
+    font-size:24px
   }
   blockquote {
   margin: 0 0 0px;
@@ -153,7 +154,7 @@ permalink: /docs/c-di-AMP/
 <p><br /></p>
         
 <p class="header_box" id="description">Description</p>
-<font size="4">The YdaO/YuaA leader (now called the cyclic di-AMP riboswitch) is a conserved RNA structure found upstream of the ydaO and yuaA genes in Bacillus subtilis and related genes in other bacteria. Its secondary structure and gene associations were predicted by bioinformatics. These RNAs function as riboswitches, and sense the signaling molecule cyclic di-AMP<sup></sup>.</font>
+<font >The YdaO/YuaA leader (now called the cyclic di-AMP riboswitch) is a conserved RNA structure found upstream of the ydaO and yuaA genes in Bacillus subtilis and related genes in other bacteria. Its secondary structure and gene associations were predicted by bioinformatics. These RNAs function as riboswitches, and sense the signaling molecule cyclic di-AMP<sup></sup>.</font>
 <p><br /></p>
             
 > Gene association
@@ -163,7 +164,7 @@ permalink: /docs/c-di-AMP/
 <p class="header_box" id="Structure and Ligand recognition">Structure and Ligand recognition</p>
 > 2D representation
         
-<font size=4>Left: Consensus sequence and secondary structure model for the c-di-AMP riboswitch. Right: Secondary structure depictions of the c-di-AMP riboswitch according to PDB ID:4W90<sup>[3]</sup>.</font><br>
+<font >Left: Consensus sequence and secondary structure model for the c-di-AMP riboswitch. Right: Secondary structure depictions of the c-di-AMP riboswitch according to PDB ID:4W90<sup>[3]</sup>.</font><br>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
 <head>
@@ -246,7 +247,7 @@ permalink: /docs/c-di-AMP/
                 
 > 3D visualisation
             
-<font size=4>Crystal structure of Bacillus subtilis cyclic-di-AMP riboswitch ydaO <sup>[6]</sup>.</font>
+<font >Crystal structure of Bacillus subtilis cyclic-di-AMP riboswitch ydaO <sup>[6]</sup>.</font>
   <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
   <img src="/images/3D/c-di-AMP_3D.svg" alt="drawing" style="width:400px;height:400px;margin-top: 0px;margin-bottom: 0px;" >
@@ -457,7 +458,7 @@ permalink: /docs/c-di-AMP/
                 
 > Binding pocket
                 
-<font size=4><p>Left: Surface representation of the binding pocket of the c-di-AMP riboswitch generated from PDB ID:4W90. c-di-AMP (shown in sticks) is labeled in red. Right: The hydrogen bonds of the two binding sites of the c-di-AMP riboswitch bound with c-di-AMP<sup>[6]</sup>.<br /></p></font>
+<font ><p>Left: Surface representation of the binding pocket of the c-di-AMP riboswitch generated from PDB ID:4W90. c-di-AMP (shown in sticks) is labeled in red. Right: The hydrogen bonds of the two binding sites of the c-di-AMP riboswitch bound with c-di-AMP<sup>[6]</sup>.<br /></p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/c-di-AMP_binding_pockets_1.svg" alt="drawing" style="width:400px"  px="" /></td>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/c-di-AMP_binding_pockets_2.svg" alt="drawing" style="width:400px"  px="" /></td>
@@ -467,7 +468,7 @@ permalink: /docs/c-di-AMP/
                     
 > Ligand recognition
             
-<font size=4>
+<font >
 <p>Plot of the K<sub>D</sub> values for the binding of c-di-AMP analogs by WT 165 ydaO RNA<sup>[3]</sup>.<br /><br /></p>
 </font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;">

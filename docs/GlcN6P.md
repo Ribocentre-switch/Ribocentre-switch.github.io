@@ -5,7 +5,7 @@ date:   2023-05-06 00:00:00
 author: Jiuhong Jiang, Xiaowei Lin
 permalink: /docs/GlcN6P/
 ---
-<p style="font-size: 24px"><strong>Rfam ID: [RF00234](https://rfam.xfam.org/family/RF00234,target="_blank")(glmS glucosamine-6-phosphate activated ribozyme)</strong> <br /></p>
+<p style="font-size: 24px"><strong>Rfam ID: [RF00234](https://rfam.xfam.org/family/RF00234,target="_blank")</strong> (glmS glucosamine-6-phosphate activated ribozyme)<br /></p>
 
 <br />
 <html>
@@ -24,6 +24,7 @@ permalink: /docs/GlcN6P/
     .button {
       display: block;
       padding: 10px;
+      font-size:24px;
       margin-right: 10px;
       text-align: center;
       background-color: #efefef;
@@ -43,7 +44,7 @@ permalink: /docs/GlcN6P/
   </style>
 </head>
 <body>
-  <p style="font-size: 24px">Click into different sections:</p>
+  <p style="font-size: 16px">Click into different sections:</p>
   
   <div class="button-container">
     <a class="button" href="#timeline" style="bold">Timeline</a>
@@ -61,7 +62,7 @@ permalink: /docs/GlcN6P/
   .header_box {
     border: none;
     background: #efefef;
-    font-size:28px
+    font-size:24px
   }
   blockquote {
   margin: 0 0 0px;
@@ -185,12 +186,12 @@ permalink: /docs/GlcN6P/
 <p><br /></p>
         
 <p class="header_box" id="description">Description</p>
-<font size="4">The glucosamine-6-phosphate riboswitch ribozyme (glmS ribozyme) is an RNA structure that resides in the 5' untranslated region (UTR) of the mRNA transcript of the glmS gene. This RNA regulates the glmS gene by responding to concentrations of a specific metabolite, glucosamine-6-phosphate (GlcN6P), in addition to catalyzing a self-cleaving chemical reaction upon activation. This cleavage leads to the degradation of the mRNA that contains the ribozyme, and lowers production of GlcN6P. The glmS gene encodes for an enzyme glutamine-fructose-6-phosphate amidotransferase, which catalyzes the formation of GlcN6P, a compound essential for cell wall biosynthesis, from fructose-6-phosphate and glutamine. Thus, when GlcN6P levels are high, the glmS ribozyme is activated and the mRNA transcript is degraded but in the absence of GlcN6P the gene continues to be translated into glutamine-fructose-6-phosphate amidotransferase and GlcN6P is produced. GlcN6P is a cofactor for this cleavage reaction, as it directly participates as an acid-base catalyst. This RNA is the first riboswitch also found to be a self-cleaving ribozyme and, like many others, was discovered using a bioinformatics approach (from wikipedia)<sup></sup>.</font>
+<font >The glucosamine-6-phosphate riboswitch ribozyme (glmS ribozyme) is an RNA structure that resides in the 5' untranslated region (UTR) of the mRNA transcript of the glmS gene. This RNA regulates the glmS gene by responding to concentrations of a specific metabolite, glucosamine-6-phosphate (GlcN6P), in addition to catalyzing a self-cleaving chemical reaction upon activation. This cleavage leads to the degradation of the mRNA that contains the ribozyme, and lowers production of GlcN6P. The glmS gene encodes for an enzyme glutamine-fructose-6-phosphate amidotransferase, which catalyzes the formation of GlcN6P, a compound essential for cell wall biosynthesis, from fructose-6-phosphate and glutamine. Thus, when GlcN6P levels are high, the glmS ribozyme is activated and the mRNA transcript is degraded but in the absence of GlcN6P the gene continues to be translated into glutamine-fructose-6-phosphate amidotransferase and GlcN6P is produced. GlcN6P is a cofactor for this cleavage reaction, as it directly participates as an acid-base catalyst. This RNA is the first riboswitch also found to be a self-cleaving ribozyme and, like many others, was discovered using a bioinformatics approach (from wikipedia)<sup></sup>.</font>
 <p><br /></p>
             
 > Gene association
         
-<font size="4">Inhibition of the synthesis of glucosamine-6-phosphate. Three major routes are illustrated, the blocking of which would lead to inhibition of glucosamine-6-phosphate synthesis. In the simultaneous blocking of the GlmS and nagA, which is controlled by the GlcN6P riboswitch, blockade of GlcNc-6-P synthesis within the cell will be observed<sup>[11]</sup>.</font>
+<font >Inhibition of the synthesis of glucosamine-6-phosphate. Three major routes are illustrated, the blocking of which would lead to inhibition of glucosamine-6-phosphate synthesis. In the simultaneous blocking of the GlmS and nagA, which is controlled by the GlcN6P riboswitch, blockade of GlcNc-6-P synthesis within the cell will be observed<sup>[11]</sup>.</font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;">
 <tr >
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
@@ -202,7 +203,7 @@ permalink: /docs/GlcN6P/
                 
 > Gene regulation
             
-<font size="4"><p>Schematic representation of the mechanism of gene regulation by the GlcN6P riboswitch. The GlcN6P riboswitch is located on the glmS mRNA. The glmS mRNA translate the protein Glucosmine-6-phosphate synthetase (GlmS). GlmS catalyzes conversion of fructose-6-phosphate (Fru6P) and glutamine (Gln) into glutamate (Glu) and glucosamine-6-phosphate (GlcN6P). When GlcN6P accumulates cytoplasmically, it binds to the GlcN6P riboswitch domain, activating a latent self-cleavage activity. A portion of the 5′ UTR of the glmS gene was cleaved off, leading to reduced expression (gray X) of the GlmS protein. This feedback loop allows for fine-tuned regulation of GlcN6P synthesis in response to cellular needs<sup>[2]</sup>.</p></font>
+<font ><p>Schematic representation of the mechanism of gene regulation by the GlcN6P riboswitch. The GlcN6P riboswitch is located on the glmS mRNA. The glmS mRNA translate the protein Glucosmine-6-phosphate synthetase (GlmS). GlmS catalyzes conversion of fructose-6-phosphate (Fru6P) and glutamine (Gln) into glutamate (Glu) and glucosamine-6-phosphate (GlcN6P). When GlcN6P accumulates cytoplasmically, it binds to the GlcN6P riboswitch domain, activating a latent self-cleavage activity. A portion of the 5′ UTR of the glmS gene was cleaved off, leading to reduced expression (gray X) of the GlmS protein. This feedback loop allows for fine-tuned regulation of GlcN6P synthesis in response to cellular needs<sup>[2]</sup>.</p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
   <img src="/images/gene_regulation/GlcN6P_riboswitch_gene_regulation1.svg" alt="drawing" style="width:800px;margin-top: 0px;margin-bottom: 0px;" >
@@ -214,7 +215,7 @@ permalink: /docs/GlcN6P/
 <p class="header_box" id="Structure and Ligand recognition">Structure and Ligand recognition</p>
 > 2D representation
         
-<font size=4>Left: Consensus sequence and secondary structure model for the GlcN6P riboswitch. Right: Secondary structure depictions of GlcN6P riboswitch according to PDB ID: 2H0Z<sup>[4]</sup>.</font><br>
+<font >Left: Consensus sequence and secondary structure model for the GlcN6P riboswitch. Right: Secondary structure depictions of GlcN6P riboswitch according to PDB ID: 2H0Z<sup>[4]</sup>.</font><br>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
 <head>
@@ -297,7 +298,7 @@ permalink: /docs/GlcN6P/
                 
 > 3D visualisation
             
-<font size=4>The overall structure of the GlcN6P riboswitch was generated based on PDB ID: 2H0Z, which was resolved at 2.7 Å resolution and bound with glucose-6-phosphate (G6P) and Mg<sup>2+</sup>. In the structure model, glucose-6-phosphate (depicted in sticks) and Mg<sup>2+</sup> (depicted in sphere) were highlighted in red <sup>[4]</sup>.</font>
+<font >The overall structure of the GlcN6P riboswitch was generated based on PDB ID: 2H0Z, which was resolved at 2.7 Å resolution and bound with glucose-6-phosphate (G6P) and Mg<sup>2+</sup>. In the structure model, glucose-6-phosphate (depicted in sticks) and Mg<sup>2+</sup> (depicted in sphere) were highlighted in red <sup>[4]</sup>.</font>
   <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
   <img src="/images/3D/GlcN6P_riboswitch_3D1.svg" alt="drawing" style="width:400px;height:400px;margin-top: 0px;margin-bottom: 0px;" >
@@ -444,7 +445,7 @@ permalink: /docs/GlcN6P/
                 
 > Binding pocket
                 
-<font size=4><p>Left: Surface representation of the binding pocket of the GlcN6P riboswitch generated from PDB ID: 2H0Z. The glucose-6-phosphate (<i>G6P</i>, depicted in sticks) and Mg<sup>2+</sup> (M depicted in sphere) were highlighted in red. Right: The hydrogen bonds of the binding sites of the GlcN6P riboswitch bound with <i>G6P</i>, M<sup>[4]</sup>.<br /></p></font>
+<font ><p>Left: Surface representation of the binding pocket of the GlcN6P riboswitch generated from PDB ID: 2H0Z. The glucose-6-phosphate (<i>G6P</i>, depicted in sticks) and Mg<sup>2+</sup> (M depicted in sphere) were highlighted in red. Right: The hydrogen bonds of the binding sites of the GlcN6P riboswitch bound with <i>G6P</i>, M<sup>[4]</sup>.<br /></p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/GlcN6P_riboswitch_binding_pockets1.svg" alt="drawing" style="width:400px"  px="" /></td>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/GlcN6P_riboswitch_binding_pockets2.svg" alt="drawing" style="width:400px"  px="" /></td>
@@ -454,7 +455,7 @@ permalink: /docs/GlcN6P/
                     
 > Ligand recognition
             
-<font size=4>
+<font >
 <p>Chemical structures of the glucosamine-6-phosphate (GLcN6P) and other cofactors that reaction with the GLcN6P riboswitch. The apparent equilibrium dissociation constants (K<sub>d,app</sub>) of each compound of the GLcN6P riboswitch is shown on bottom at pH 7.5 and 25 °C<sup>[9]</sup>.<br /><br /></p>
 </font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;">

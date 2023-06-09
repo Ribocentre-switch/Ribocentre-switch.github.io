@@ -661,7 +661,7 @@ h4, .h4, h5, .h5, h6, .h6 { margin-top: 11px; margin-bottom: 11px; }
 
 h4 small, h4 .small, .h4 small, .h4 .small, h5 small, h5 .small, .h5 small, .h5 .small, h6 small, h6 .small, .h6 small, .h6 .small { font-size: 75%; }
 
-h1, .h1 { font-size: 41px; }
+h1, .h1 { font-size: 40px; }
 
 h2, .h2 { font-size: 34px; }
 
@@ -773,7 +773,7 @@ abbr[title], abbr[data-original-title] { cursor: help; border-bottom: 1px dotted
 
 .initialism { font-size: 90%; }
 
-blockquote { margin: 0 0 0; font-size: 24px; font-weight: bold; }
+blockquote { margin: 0 0 0; font-size: 20px; font-weight: bold; }
 
 blockquote p:last-child, blockquote ul:last-child, blockquote ol:last-child { margin-bottom: 0; }
 

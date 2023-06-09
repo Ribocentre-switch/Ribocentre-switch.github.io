@@ -5,7 +5,7 @@ date:   2023-04-19 00:00:00
 author: Zhizhong Lu, Wenjian Liao
 permalink: /docs/SAM-II_clan/
 ---
-<p style="font-size: 24px"><strong>Rfam ID: [RF00521](https://rfam.xfam.org/family/RF00521,target="_blank")(SAM riboswitch (alpha-proteobacteria))</strong> <br /></p>
+<p style="font-size: 24px"><strong>Rfam ID: [RF00521](https://rfam.xfam.org/family/RF00521,target="_blank")</strong> (SAM riboswitch (alpha-proteobacteria))<br /></p>
 <p style="font-size: 24px"><strong>&emsp;&emsp;&emsp;&emsp;[RF01826](https://rfam.xfam.org/family/RF01826,target="_blank")(SAM-V riboswitch)</strong> <br /></p>
 
 <br />
@@ -25,6 +25,7 @@ permalink: /docs/SAM-II_clan/
     .button {
       display: block;
       padding: 10px;
+      font-size:24px;
       margin-right: 10px;
       text-align: center;
       background-color: #efefef;
@@ -44,7 +45,7 @@ permalink: /docs/SAM-II_clan/
   </style>
 </head>
 <body>
-  <p style="font-size: 24px">Click into different sections:</p>
+  <p style="font-size: 16px">Click into different sections:</p>
   
   <div class="button-container">
     <a class="button" href="#timeline" style="bold">Timeline</a>
@@ -62,7 +63,7 @@ permalink: /docs/SAM-II_clan/
   .header_box {
     border: none;
     background: #efefef;
-    font-size:28px
+    font-size:24px
   }
   blockquote {
   margin: 0 0 0px;
@@ -178,13 +179,13 @@ permalink: /docs/SAM-II_clan/
 <p><br /></p>
         
 <p class="header_box" id="description">Description</p>
-<font size="4">The SAM-II riboswitch is a RNA element found predominantly in Alphaproteobacteria that binds S-adenosyl methionine (SAM). Its structure and sequence appear to be unrelated to the SAM riboswitch found in Gram-positive bacteria. This SAM riboswitch is located upstream of the metA and metC genes in Agrobacterium tumefaciens, and other methionine and SAM biosynthesis genes in other alpha-proteobacteria. Like the other SAM riboswitch, it probably functions to turn off expression of these genes in response to elevated SAM levels. A significant variant of SAM-II riboswitches was found in Pelagibacter ubique and related marine bacteria and called SAM-V. Also, like many structured RNAs, SAM-II riboswitches can tolerate long loops between their stems.（from WiKi)
+<font >The SAM-II riboswitch is a RNA element found predominantly in Alphaproteobacteria that binds S-adenosyl methionine (SAM). Its structure and sequence appear to be unrelated to the SAM riboswitch found in Gram-positive bacteria. This SAM riboswitch is located upstream of the metA and metC genes in Agrobacterium tumefaciens, and other methionine and SAM biosynthesis genes in other alpha-proteobacteria. Like the other SAM riboswitch, it probably functions to turn off expression of these genes in response to elevated SAM levels. A significant variant of SAM-II riboswitches was found in Pelagibacter ubique and related marine bacteria and called SAM-V. Also, like many structured RNAs, SAM-II riboswitches can tolerate long loops between their stems.（from WiKi)
 SAM-V riboswitch is the fifth known riboswitch to bind S-adenosyl methionine (SAM). It was first discovered in the marine bacterium Candidatus Pelagibacter ubique and can also be found in marine metagenomes. SAM-V features a similar consensus sequence and secondary structure as the binding site of SAM-II riboswitch, but bioinformatics scans cluster the two aptamers independently. These similar binding pockets suggest that the two riboswitches have undergone convergent evolution. (from WiKi)<sup></sup>.</font>
 <p><br /></p>
             
 > Gene association
         
-<font size="4">Pathways for sulphate assimilation and biosynthesis of cysteine and methionine. SAM-II riboswitch (red bar) and SAM-V riboswitch (yellow bar) are involved in multiple gene regulation in the synthetic pathway<sup>[1，5]</sup>.</font>
+<font >Pathways for sulphate assimilation and biosynthesis of cysteine and methionine. SAM-II riboswitch (red bar) and SAM-V riboswitch (yellow bar) are involved in multiple gene regulation in the synthetic pathway<sup>[1，5]</sup>.</font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;">
 <tr >
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
@@ -196,7 +197,7 @@ SAM-V riboswitch is the fifth known riboswitch to bind S-adenosyl methionine (SA
                 
 > Gene regulation
             
-<font size="4"><p>Potential mechanism of translation regulation by the SAM-II riboswitch<sup>[7]</sup>.</p></font>
+<font ><p>Potential mechanism of translation regulation by the SAM-II riboswitch<sup>[7]</sup>.</p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
   <img src="/images/gene_regulation/SAM-II_riboswitch_gene_regulation.svg" alt="drawing" style="width:800px;margin-top: 0px;margin-bottom: 0px;" >
@@ -205,7 +206,7 @@ SAM-V riboswitch is the fifth known riboswitch to bind S-adenosyl methionine (SA
 </table>
 <p><br /></p>
                     
-<font size="4"><p>Potential mechanism of translation regulation by the  SAM-V riboswitch<sup>[12]</sup>.</p></font>
+<font ><p>Potential mechanism of translation regulation by the  SAM-V riboswitch<sup>[12]</sup>.</p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
   <img src="/images/gene_regulation/SAM-V_riboswitch_gene_regulation.svg" alt="drawing" style="width:800px;margin-top: 0px;margin-bottom: 0px;" >
@@ -217,7 +218,7 @@ SAM-V riboswitch is the fifth known riboswitch to bind S-adenosyl methionine (SA
 <p class="header_box" id="Structure and Ligand recognition">Structure and Ligand recognition</p>
 > 2D representation
         
-<font size=4>Left: Consensus sequence and secondary structure model for the SAM-II riboswitch. Right: Secondary structure depictions of the SAM-I riboswitch according to PDB ID:2qwy<sup></sup>.</font><br>
+<font >Left: Consensus sequence and secondary structure model for the SAM-II riboswitch. Right: Secondary structure depictions of the SAM-I riboswitch according to PDB ID:2qwy<sup></sup>.</font><br>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
 <head>
@@ -298,7 +299,7 @@ SAM-V riboswitch is the fifth known riboswitch to bind S-adenosyl methionine (SA
 </tr></table><br>
 <p><br /></p>
                 
-<font size=4>Left: Consensus sequence and secondary structure model for the SAM-V riboswitch. Right: Secondary structure depictions of the SAM-V riboswitch according to PDB ID:6fz0<sup></sup>.</font><br>
+<font >Left: Consensus sequence and secondary structure model for the SAM-V riboswitch. Right: Secondary structure depictions of the SAM-V riboswitch according to PDB ID:6fz0<sup></sup>.</font><br>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
 <head>
@@ -381,7 +382,7 @@ SAM-V riboswitch is the fifth known riboswitch to bind S-adenosyl methionine (SA
                 
 > 3D visualisation
             
-<font size=4>2.8-Å resolution crystal structure of an S-adenosylmethionine (SAM) riboswitch from thermoanaerobacter tengcongensis complexed with S-adenosylmethionine.SAM (shown in sticks) is labeled in red <sup>[3]</sup>.</font>
+<font >2.8-Å resolution crystal structure of an S-adenosylmethionine (SAM) riboswitch from thermoanaerobacter tengcongensis complexed with S-adenosylmethionine.SAM (shown in sticks) is labeled in red <sup>[3]</sup>.</font>
   <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
   <img src="/images/3D/SAM-II_riboswitch_3D.svg" alt="drawing" style="width:400px;height:400px;margin-top: 0px;margin-bottom: 0px;" >
@@ -494,7 +495,7 @@ SAM-V riboswitch is the fifth known riboswitch to bind S-adenosyl methionine (SA
   </tr></table><br>
   <p><br /></p>
                 
-<font size=4>2.50-Å resolution crystal structure of an S-adenosylmethionine (SAM) riboswitch from thermoanaerobacter tengcongensis complexed with S-adenosylmethionine.SAM (shown in sticks) is labeled in red <sup>[12]</sup>.</font>
+<font >2.50-Å resolution crystal structure of an S-adenosylmethionine (SAM) riboswitch from thermoanaerobacter tengcongensis complexed with S-adenosylmethionine.SAM (shown in sticks) is labeled in red <sup>[12]</sup>.</font>
   <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
   <img src="/images/3D/SAM-V_riboswitch_3D.svg" alt="drawing" style="width:400px;height:400px;margin-top: 0px;margin-bottom: 0px;" >
@@ -614,7 +615,7 @@ SAM-V riboswitch is the fifth known riboswitch to bind S-adenosyl methionine (SA
                 
 > Binding pocket
                 
-<font size=4><p>Left: Surface representation of the binding pocket of the SAM-II riboswitch generated from PDB ID:2QWY. S-adenosylmethionine (SAM) (shown in sticks) is labeled in red.Right: Hydrogen bonding between SAM and adjacent bases<sup>[3]</sup>.<br /></p></font>
+<font ><p>Left: Surface representation of the binding pocket of the SAM-II riboswitch generated from PDB ID:2QWY. S-adenosylmethionine (SAM) (shown in sticks) is labeled in red.Right: Hydrogen bonding between SAM and adjacent bases<sup>[3]</sup>.<br /></p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/SAM-II_riboswitch_binding_pockets1.svg" alt="drawing" style="width:400px"  px="" /></td>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/SAM-II_riboswitch_binding_pockets2.svg" alt="drawing" style="width:400px"  px="" /></td>
@@ -622,7 +623,7 @@ SAM-V riboswitch is the fifth known riboswitch to bind S-adenosyl methionine (SA
 </table>
 <p><br /></p>
                     
-<font size=4><p>Left: Surface representation of the binding pocket of the SAM-V riboswitch generated from PDB ID:6FZ0. S-adenosylmethionine (SAM) (shown in sticks) is labeled in red.Right: Hydrogen bonding between SAM and adjacent bases<sup>[12]</sup>.<br /></p></font>
+<font ><p>Left: Surface representation of the binding pocket of the SAM-V riboswitch generated from PDB ID:6FZ0. S-adenosylmethionine (SAM) (shown in sticks) is labeled in red.Right: Hydrogen bonding between SAM and adjacent bases<sup>[12]</sup>.<br /></p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/SAM-V_riboswitch_binding_pockets1.svg" alt="drawing" style="width:400px"  px="" /></td>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/SAM-V_riboswitch_binding_pockets2.svg" alt="drawing" style="width:400px"  px="" /></td>
@@ -632,7 +633,7 @@ SAM-V riboswitch is the fifth known riboswitch to bind S-adenosyl methionine (SA
                     
 > Ligand recognition
             
-<font size=4>
+<font >
 <p>Chemical structures of various compounds used to probe the binding characteristics of the SAM-II riboswitch and SAM-V riboswitch<sup>[3,5]</sup>.<br /><br /></p>
 </font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;">

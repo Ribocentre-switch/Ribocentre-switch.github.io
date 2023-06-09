@@ -5,7 +5,7 @@ date:   2023-03-19 00:00:00
 author: Xiaowei Lin, Yuanyin Huang
 permalink: /docs/HMP-PP/
 ---
-<p style="font-size: 24px"><strong>Rfam ID: [nan](https://rfam.xfam.org/family/nan,target="_blank")(nan)</strong> <br /></p>
+<p style="font-size: 24px"><strong>Rfam ID: [nan](https://rfam.xfam.org/family/nan,target="_blank")</strong> (nan)<br /></p>
 
 <br />
 <html>
@@ -24,6 +24,7 @@ permalink: /docs/HMP-PP/
     .button {
       display: block;
       padding: 10px;
+      font-size:24px;
       margin-right: 10px;
       text-align: center;
       background-color: #efefef;
@@ -43,7 +44,7 @@ permalink: /docs/HMP-PP/
   </style>
 </head>
 <body>
-  <p style="font-size: 24px">Click into different sections:</p>
+  <p style="font-size: 16px">Click into different sections:</p>
   
   <div class="button-container">
     <a class="button" href="#timeline" style="bold">Timeline</a>
@@ -61,7 +62,7 @@ permalink: /docs/HMP-PP/
   .header_box {
     border: none;
     background: #efefef;
-    font-size:28px
+    font-size:24px
   }
   blockquote {
   margin: 0 0 0px;
@@ -105,12 +106,12 @@ permalink: /docs/HMP-PP/
 <p><br /></p>
         
 <p class="header_box" id="description">Description</p>
-<font size="4">HMP-PP riboswitches are a class of homologous RNAs in certain bacteria that function as sensors of the thiamin precursor HMP-PP, which is fused with HET-P ultimately to form the final active coenzyme thiamin pyrophosphate (TPP). The HMP-PP riboswitch was initially named as the ‘thiS motif' because of its frequent association with a gene coding for the ThiS protein, which delivers sulfur to form the thiazole moiety of the thiamin precursor HET-P, which was firstly reported by using a computational approach to identify new riboswitches in bacteria in 2019. Unlike with many other riboswitches,the small ligand sensing aptamer of the HMP-PP riboswitch was embedded within a terminator, rather than being a separate entity. The 3D structure of the HMP-PP riboswitch has not been solved yet<sup>[2-3]</sup>.</font>
+<font >HMP-PP riboswitches are a class of homologous RNAs in certain bacteria that function as sensors of the thiamin precursor HMP-PP, which is fused with HET-P ultimately to form the final active coenzyme thiamin pyrophosphate (TPP). The HMP-PP riboswitch was initially named as the ‘thiS motif' because of its frequent association with a gene coding for the ThiS protein, which delivers sulfur to form the thiazole moiety of the thiamin precursor HET-P, which was firstly reported by using a computational approach to identify new riboswitches in bacteria in 2019. Unlike with many other riboswitches,the small ligand sensing aptamer of the HMP-PP riboswitch was embedded within a terminator, rather than being a separate entity. The 3D structure of the HMP-PP riboswitch has not been solved yet<sup>[2-3]</sup>.</font>
 <p><br /></p>
             
 > Gene association
         
-<font size="4">Typical biosynthetic pathways for the pyrimidine and thiazole moieties of thiamin, and their eventual conversion into the enzyme cofactor thiamin pyrophosphate (TPP). Genes coding for the enzymes involved in HET transport and catalysis of various biosynthetic steps are showed. The genes colored in red are associated with the HMP-PP riboswitch<sup>[1-3]</sup>.</font>
+<font >Typical biosynthetic pathways for the pyrimidine and thiazole moieties of thiamin, and their eventual conversion into the enzyme cofactor thiamin pyrophosphate (TPP). Genes coding for the enzymes involved in HET transport and catalysis of various biosynthetic steps are showed. The genes colored in red are associated with the HMP-PP riboswitch<sup>[1-3]</sup>.</font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;">
 <tr >
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
@@ -122,7 +123,7 @@ permalink: /docs/HMP-PP/
                 
 > Gene regulation
             
-<font size="4"><p>Potential mechanism of transcription termination regulation for the HMP-PP riboswitch. The shaded nucleotides highlight possible base-pairs of the predicted pseudoknot. Complementary sequences and alternate base-pairing are shown in blue<sup>[3]</sup>.</p></font>
+<font ><p>Potential mechanism of transcription termination regulation for the HMP-PP riboswitch. The shaded nucleotides highlight possible base-pairs of the predicted pseudoknot. Complementary sequences and alternate base-pairing are shown in blue<sup>[3]</sup>.</p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
   <img src="/images/gene_regulation/HMP-PP_riboswitch_gene_regulation.svg" alt="drawing" style="width:800px;margin-top: 0px;margin-bottom: 0px;" >
@@ -134,7 +135,7 @@ permalink: /docs/HMP-PP/
 <p class="header_box" id="Structure and Ligand recognition">Structure and Ligand recognition</p>
 > 2D representation
         
-<font size=4>Left: The consensus models and two possible secondary structure models based on 400 representatives for the HMP-PP riboswitch. Right: Sequence and predicted secondary structure of the HMP-PP riboswitch of <i>C. sp.</i> Maddingley (depicted in presumed ‘ON’ state), where the shaded nucleotides highlight possible base-pairs of the predicted pseudoknot. Red nucleotides are >97% conserved as depicted in the HMP-PP riboswitch consensus model<sup>[2-3]</sup>.</font><br>
+<font >Left: The consensus models and two possible secondary structure models based on 400 representatives for the HMP-PP riboswitch. Right: Sequence and predicted secondary structure of the HMP-PP riboswitch of <i>C. sp.</i> Maddingley (depicted in presumed ‘ON’ state), where the shaded nucleotides highlight possible base-pairs of the predicted pseudoknot. Red nucleotides are >97% conserved as depicted in the HMP-PP riboswitch consensus model<sup>[2-3]</sup>.</font><br>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
 <head>
@@ -221,7 +222,7 @@ permalink: /docs/HMP-PP/
                 
 > Ligand recognition
             
-<font size=4>
+<font >
 <p>Chemical structures of hydroxymethyl-pyrimidine pyrophosphate (HMP-PP) and its precursors. The apparent K<sub>D</sub>  of each compound is shown on bottom<sup>[3]</sup>.<br /><br /></p>
 </font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;">

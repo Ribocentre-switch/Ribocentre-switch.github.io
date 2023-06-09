@@ -5,7 +5,7 @@ date:   2023-05-23 00:00:00
 author: Yuanlin He, Xiaowei Lin
 permalink: /docs/Li/
 ---
-<p style="font-size: 24px"><strong>Rfam ID: [RF03057](https://rfam.xfam.org/family/RF03057,target="_blank")(nhaA-I RNA)</strong> <br /></p>
+<p style="font-size: 24px"><strong>Rfam ID: [RF03057](https://rfam.xfam.org/family/RF03057,target="_blank")</strong> (nhaA-I RNA)<br /></p>
 <p style="font-size: 24px"><strong>&emsp;&emsp;&emsp;&emsp;[RF03038](https://rfam.xfam.org/family/RF03038,target="_blank")(nhaA-II RNA)</strong> <br /></p>
 
 <br />
@@ -25,6 +25,7 @@ permalink: /docs/Li/
     .button {
       display: block;
       padding: 10px;
+      font-size:24px;
       margin-right: 10px;
       text-align: center;
       background-color: #efefef;
@@ -44,7 +45,7 @@ permalink: /docs/Li/
   </style>
 </head>
 <body>
-  <p style="font-size: 24px">Click into different sections:</p>
+  <p style="font-size: 16px">Click into different sections:</p>
   
   <div class="button-container">
     <a class="button" href="#timeline" style="bold">Timeline</a>
@@ -62,7 +63,7 @@ permalink: /docs/Li/
   .header_box {
     border: none;
     background: #efefef;
-    font-size:28px
+    font-size:24px
   }
   blockquote {
   margin: 0 0 0px;
@@ -106,7 +107,7 @@ permalink: /docs/Li/
 <p><br /></p>
         
 <p class="header_box" id="description">Description</p>
-<font size="4">The <i>nhaA</i>-I RNA motif is a conserved RNA structure that was discovered by bioinformatics. <i>nhaA</i>-I motif RNAs are found in Acidobacteriota, alpha-, beta- and Gammaproteobacteria, Verrucomicrobiota and the tentative phylum NC10 (see bacterial phyla and List of taxa with candidatus status).
+<font >The <i>nhaA</i>-I RNA motif is a conserved RNA structure that was discovered by bioinformatics. <i>nhaA</i>-I motif RNAs are found in Acidobacteriota, alpha-, beta- and Gammaproteobacteria, Verrucomicrobiota and the tentative phylum NC10 (see bacterial phyla and List of taxa with candidatus status).
 <i>nhaA</i>-I motif RNAs likely function as cis-regulatory elements, in view of their positions upstream of protein-coding genes. Indeed, it is reasonable to speculate that <i>nhaA</i>-I RNAs directly bind a ligand, and therefore function as riboswitches, in view of their widespread distribution and conserved nucleotide positions. <i>nhaA</i>-I RNAs typically occur upstream of genes that encode exchangers of sodium ions and protons. More rarely, they also exist upstream of genes that encode DUF1646 protein domains, or that are involved in cell signaling or peptidoglycan. DUF1646-coding genes are also regulated by the DUF1646 RNA motif, which also has a potential association with sodium ions. <i>nhaA</i>-I RNAs also sometimes occur in tandem pairs, with two such RNAs nearby to one another. Such arrangements have been proposed to implement cooperative binding to more digitally regulate gene expression, although the biology underlying these tandem arrangements of <i>nhaA</i>-I RNAs is, as of 2018, unknown.
 The <i>nhaA</i>-II RNA motif is a conserved RNA structure that was discovered by bioinformatics. <i>nhaA</i>-II motifs are found in Caulobacterales.
 <i>nhaA</i>-II motif RNAs likely function as cis-regulatory elements, in view of their positions upstream of protein-coding genes. nhaA-I RNAs typically occur upstream of genes that encode exchangers of sodium ions and protons. More rarely, they also exist upstream of methyltransferases that use S-adenosylmethionine as a donor.
@@ -115,7 +116,7 @@ In 2022, Breaker et al. identified <i>nhaA</i>-I motif and <i>nhaA</i>-II motif 
             
 > Gene association
         
-<font size="4">Annotated functions of proteins encoded by genes commonly associated with the two riboswitch candidates<sup>[2]</sup>.</font>
+<font >Annotated functions of proteins encoded by genes commonly associated with the two riboswitch candidates<sup>[2]</sup>.</font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;">
 <tr >
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
@@ -130,7 +131,7 @@ In 2022, Breaker et al. identified <i>nhaA</i>-I motif and <i>nhaA</i>-II motif 
 <p class="header_box" id="Structure and Ligand recognition">Structure and Ligand recognition</p>
 > 2D representation
         
-<font size=4>Consensus secondary structure and sequence conservation of Li<sup>+</sup> riboswitch<sup></sup>.</font><br>
+<font >Consensus secondary structure and sequence conservation of Li<sup>+</sup> riboswitch<sup></sup>.</font><br>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
 <head>

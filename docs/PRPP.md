@@ -5,7 +5,7 @@ date:   2023-05-17 00:00:00
 author: Wenjian Liao, Zhizhong Lu
 permalink: /docs/PRPP/
 ---
-<p style="font-size: 24px"><strong>Rfam ID: [nan](https://rfam.xfam.org/family/nan,target="_blank")(nan)</strong> <br /></p>
+<p style="font-size: 24px"><strong>Rfam ID: [nan](https://rfam.xfam.org/family/nan,target="_blank")</strong> (nan)<br /></p>
 
 <br />
 <html>
@@ -24,6 +24,7 @@ permalink: /docs/PRPP/
     .button {
       display: block;
       padding: 10px;
+      font-size:24px;
       margin-right: 10px;
       text-align: center;
       background-color: #efefef;
@@ -43,7 +44,7 @@ permalink: /docs/PRPP/
   </style>
 </head>
 <body>
-  <p style="font-size: 24px">Click into different sections:</p>
+  <p style="font-size: 16px">Click into different sections:</p>
   
   <div class="button-container">
     <a class="button" href="#timeline" style="bold">Timeline</a>
@@ -61,7 +62,7 @@ permalink: /docs/PRPP/
   .header_box {
     border: none;
     background: #efefef;
-    font-size:28px
+    font-size:24px
   }
   blockquote {
   margin: 0 0 0px;
@@ -129,12 +130,12 @@ permalink: /docs/PRPP/
 <p><br /></p>
         
 <p class="header_box" id="description">Description</p>
-<font size="4">The <i>ykkC</i> RNAs were initially found in 2004 and in 2017,<i>ykkC</i> subtype 2 RNAs were separated from <i>ykkC</i> RNAs. Further analysis of the RNA sequences and consensus models of <i>ykkC</i> subtype 2 RNAs, and the assessment of the diverse types of genes found downstream of these RNAs, revealed that there are probably at least four additional distinct riboswitch classes present within the <i>ykkC</i> subtype 2 collection, termed <i>ykkC</i> subtypes 2a-2d. Phosphoribosyl pyrophosphate (PRPP, 5-phospho-α-D-ribose 1-diphosphate) was identified as the ligand for <i>ykkC</i> subtype 2b RNAs (PRPP riboswitches)<sup>[1-3]</sup>.</font>
+<font >The <i>ykkC</i> RNAs were initially found in 2004 and in 2017,<i>ykkC</i> subtype 2 RNAs were separated from <i>ykkC</i> RNAs. Further analysis of the RNA sequences and consensus models of <i>ykkC</i> subtype 2 RNAs, and the assessment of the diverse types of genes found downstream of these RNAs, revealed that there are probably at least four additional distinct riboswitch classes present within the <i>ykkC</i> subtype 2 collection, termed <i>ykkC</i> subtypes 2a-2d. Phosphoribosyl pyrophosphate (PRPP, 5-phospho-α-D-ribose 1-diphosphate) was identified as the ligand for <i>ykkC</i> subtype 2b RNAs (PRPP riboswitches)<sup>[1-3]</sup>.</font>
 <p><br /></p>
             
 > Gene association
         
-<font size="4">Representatives of PRPP riboswitch commonly associate with genes for de novo purine biosynthesis. The genes commonly asssociated with PRPP riboswitches are shown in orange <sup>[3]</sup>.</font>
+<font >Representatives of PRPP riboswitch commonly associate with genes for de novo purine biosynthesis. The genes commonly asssociated with PRPP riboswitches are shown in orange <sup>[3]</sup>.</font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;">
 <tr >
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
@@ -146,7 +147,7 @@ permalink: /docs/PRPP/
                 
 > Gene regulation
             
-<font size="4"><p>Putative mechanisms for regulation of gene expression by PRPP riboswitches<sup>[3]</sup>.</p></font>
+<font ><p>Putative mechanisms for regulation of gene expression by PRPP riboswitches<sup>[3]</sup>.</p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
   <img src="/images/gene_regulation/PRPP_riboswitch_gene_regulation.svg" alt="drawing" style="width:800px;margin-top: 0px;margin-bottom: 0px;" >
@@ -158,7 +159,7 @@ permalink: /docs/PRPP/
 <p class="header_box" id="Structure and Ligand recognition">Structure and Ligand recognition</p>
 > 2D representation
         
-<font size=4>Left: Consensus sequence and secondary structure model for the PRPP riboswitch. Right: Secondary structure depictions of the PRPP riboswitch according to PDB ID: 6CK5<sup>[4]</sup>.</font><br>
+<font >Left: Consensus sequence and secondary structure model for the PRPP riboswitch. Right: Secondary structure depictions of the PRPP riboswitch according to PDB ID: 6CK5<sup>[4]</sup>.</font><br>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
 <head>
@@ -241,7 +242,7 @@ permalink: /docs/PRPP/
                 
 > 3D visualisation
             
-<font size=4>The overall structure of the PRPP riboswitch was generated from PDB ID: 6CK5 at 2.49 Å resolution bound with PRPP. PRPP (shown in sticks) is labeled in red <sup>[4]</sup>.</font>
+<font >The overall structure of the PRPP riboswitch was generated from PDB ID: 6CK5 at 2.49 Å resolution bound with PRPP. PRPP (shown in sticks) is labeled in red <sup>[4]</sup>.</font>
   <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
   <img src="/images/3D/PRPP_riboswitch_3D1.svg" alt="drawing" style="width:400px;height:400px;margin-top: 0px;margin-bottom: 0px;" >
@@ -380,7 +381,7 @@ permalink: /docs/PRPP/
                 
 > Binding pocket
                 
-<font size=4><p>Left: Surface representation of the binding pocket of the PRPP riboswitch generated from PDB ID: 6CK5. PRPP (shown in sticks) is labeled in red. Right: The hydrogen bonds of the binding sites of the PRPP riboswitch bound with PRPP<sup>[4]</sup>.<br /></p></font>
+<font ><p>Left: Surface representation of the binding pocket of the PRPP riboswitch generated from PDB ID: 6CK5. PRPP (shown in sticks) is labeled in red. Right: The hydrogen bonds of the binding sites of the PRPP riboswitch bound with PRPP<sup>[4]</sup>.<br /></p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/PRPP_riboswitch_binding_pockets1.svg" alt="drawing" style="width:400px"  px="" /></td>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/PRPP_riboswitch_binding_pockets2.svg" alt="drawing" style="width:400px"  px="" /></td>
@@ -390,7 +391,7 @@ permalink: /docs/PRPP/
                     
 > Ligand recognition
             
-<font size=4>
+<font >
 <p>Chemical structures of PRPP. The apparent K<sub>D</sub> is shown on bottom<sup>[3, 4, 5]</sup>.<br /><br /></p>
 </font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;">

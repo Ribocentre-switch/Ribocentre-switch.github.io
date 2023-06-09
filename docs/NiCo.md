@@ -5,7 +5,7 @@ date:   2023-04-27 00:00:00
 author: Yuanlin He, Jie Deng
 permalink: /docs/NiCo/
 ---
-<p style="font-size: 24px"><strong>Rfam ID: [RF02683](https://rfam.xfam.org/family/RF02683,target="_blank")(NiCo riboswitch)</strong> <br /></p>
+<p style="font-size: 24px"><strong>Rfam ID: [RF02683](https://rfam.xfam.org/family/RF02683,target="_blank")</strong> (NiCo riboswitch)<br /></p>
 
 <br />
 <html>
@@ -24,6 +24,7 @@ permalink: /docs/NiCo/
     .button {
       display: block;
       padding: 10px;
+      font-size:24px;
       margin-right: 10px;
       text-align: center;
       background-color: #efefef;
@@ -43,7 +44,7 @@ permalink: /docs/NiCo/
   </style>
 </head>
 <body>
-  <p style="font-size: 24px">Click into different sections:</p>
+  <p style="font-size: 16px">Click into different sections:</p>
   
   <div class="button-container">
     <a class="button" href="#timeline" style="bold">Timeline</a>
@@ -61,7 +62,7 @@ permalink: /docs/NiCo/
   .header_box {
     border: none;
     background: #efefef;
-    font-size:28px
+    font-size:24px
   }
   blockquote {
   margin: 0 0 0px;
@@ -121,12 +122,12 @@ permalink: /docs/NiCo/
 <p><br /></p>
         
 <p class="header_box" id="description">Description</p>
-<font size="4">The NiCo riboswitch is a riboswitch that senses nickel or cobalt ions. Thus, it is an RNA molecule that specifically binds these metal ions, and regulates genes accordingly. The riboswitch is thought to be a part of a system that responds to toxic levels of these metal ions, although the riboswitch might also participate in dealing with the situation where insufficient levels of these trace elements are present in the cell. The crystal structure of a NiCo riboswitch has been determined, and available evidence suggests that the riboswitches bind their metal-ion ligands cooperatively (From Wikipedia)<sup></sup>.</font>
+<font >The NiCo riboswitch is a riboswitch that senses nickel or cobalt ions. Thus, it is an RNA molecule that specifically binds these metal ions, and regulates genes accordingly. The riboswitch is thought to be a part of a system that responds to toxic levels of these metal ions, although the riboswitch might also participate in dealing with the situation where insufficient levels of these trace elements are present in the cell. The crystal structure of a NiCo riboswitch has been determined, and available evidence suggests that the riboswitches bind their metal-ion ligands cooperatively (From Wikipedia)<sup></sup>.</font>
 <p><br /></p>
             
 > Gene association
         
-<font size="4">（暂缺）<sup></sup>.</font>
+<font >（暂缺）<sup></sup>.</font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;">
 <tr >
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
@@ -138,7 +139,7 @@ permalink: /docs/NiCo/
                 
 > Gene regulation
             
-<font size="4"><p>The NiCo riboswitch is an “on” transcription-termination riboswitch. In the ligand-unbound form, a terminator stem is formed, which leads to transcription to be aborted by RNA polymerase. Binding of the ligand induces a conformational change in which part of the terminator stem sequence is sequestered, allowing transcription read-through and expression of the downstream gene<sup>[3]</sup>.</p></font>
+<font ><p>The NiCo riboswitch is an “on” transcription-termination riboswitch. In the ligand-unbound form, a terminator stem is formed, which leads to transcription to be aborted by RNA polymerase. Binding of the ligand induces a conformational change in which part of the terminator stem sequence is sequestered, allowing transcription read-through and expression of the downstream gene<sup>[3]</sup>.</p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
   <img src="/images/gene_regulation/NiCo_riboswitch_gene_regulation.svg" alt="drawing" style="width:800px;margin-top: 0px;margin-bottom: 0px;" >
@@ -150,7 +151,7 @@ permalink: /docs/NiCo/
 <p class="header_box" id="Structure and Ligand recognition">Structure and Ligand recognition</p>
 > 2D representation
         
-<font size=4>Left: Consensus sequence and secondary structure model for the NiCo riboswitch. Right: Secondary structure depictions of the NiCo riboswitch according to PDB ID: 4RUM. Helices P1-P2 (pink) and P3-P4 (blue) form a 'H'-shaped structure stabilized at the junction by four Co<sup>2+</sup> ions. Inner sphere (filled symbols) mediated contacts to different metals are shown in key<sup>[2]</sup>.</font><br>
+<font >Left: Consensus sequence and secondary structure model for the NiCo riboswitch. Right: Secondary structure depictions of the NiCo riboswitch according to PDB ID: 4RUM. Helices P1-P2 (pink) and P3-P4 (blue) form a 'H'-shaped structure stabilized at the junction by four Co<sup>2+</sup> ions. Inner sphere (filled symbols) mediated contacts to different metals are shown in key<sup>[2]</sup>.</font><br>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
 <head>
@@ -233,7 +234,7 @@ permalink: /docs/NiCo/
                 
 > 3D visualisation
             
-<font size=4>The overall structure of the NiCo riboswitch was generated from PDB ID: 4RUM at 2.64 Å resolution bound to cobalt. Crystal structure of NiCo shows two sets of coaxially stacked helices: P1-P2 (pink) and P3-P4 (palegreen). Interhelical nucleotides coordinate four Co<sup>2+</sup> ions (red). Anti-terminator nucleotides 78 to 98 (cyan) are sequestered within P4 and P1, making direct contacts with Co<sup>2+</sup> ions <sup>[1]</sup>.</font>
+<font >The overall structure of the NiCo riboswitch was generated from PDB ID: 4RUM at 2.64 Å resolution bound to cobalt. Crystal structure of NiCo shows two sets of coaxially stacked helices: P1-P2 (pink) and P3-P4 (palegreen). Interhelical nucleotides coordinate four Co<sup>2+</sup> ions (red). Anti-terminator nucleotides 78 to 98 (cyan) are sequestered within P4 and P1, making direct contacts with Co<sup>2+</sup> ions <sup>[1]</sup>.</font>
   <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
   <img src="/images/3D/NiCo_riboswitch_3D.svg" alt="drawing" style="width:400px;height:400px;margin-top: 0px;margin-bottom: 0px;" >
@@ -426,7 +427,7 @@ permalink: /docs/NiCo/
                 
 > Binding pocket
                 
-<font size=4><p>Left: Surface representation of the binding pocket of the NiCo riboswitch generated from PDB ID: 4RUM. The Co<sup>2+</sup> ions are labeled in red. Right: Co<sup>2+</sup> ions (red) bound to NiCo are coordinated by interhelical nucleotides from diametrically opposite sides of the RNA. G87 coordinates cobalt 1 via N7 and cobalt 2 via its ribose oxygen. G45 coordinates cobalt 2 via water mediated contacts with a ribosyl oxygen and cobalt 3 via its N7. These long-range connections extend from A14 to G86 via G45 and G87, connecting three of the Co<sup>2+</sup> sites<sup>[1]</sup>.<br /></p></font>
+<font ><p>Left: Surface representation of the binding pocket of the NiCo riboswitch generated from PDB ID: 4RUM. The Co<sup>2+</sup> ions are labeled in red. Right: Co<sup>2+</sup> ions (red) bound to NiCo are coordinated by interhelical nucleotides from diametrically opposite sides of the RNA. G87 coordinates cobalt 1 via N7 and cobalt 2 via its ribose oxygen. G45 coordinates cobalt 2 via water mediated contacts with a ribosyl oxygen and cobalt 3 via its N7. These long-range connections extend from A14 to G86 via G45 and G87, connecting three of the Co<sup>2+</sup> sites<sup>[1]</sup>.<br /></p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/NiCo_riboswitch_ binding_pockets1.svg" alt="drawing" style="width:400px"  px="" /></td>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/NiCo_riboswitch_ binding_pockets2.svg" alt="drawing" style="width:400px"  px="" /></td>
@@ -436,7 +437,7 @@ permalink: /docs/NiCo/
                     
 > Ligand recognition
             
-<font size=4>
+<font >
 <p>Isothermal titration calorimetry studies of the native <i>czcD</i> riboswitches show no response to Mn<sup>II</sup>, a weak response to Zn<sup>II</sup>, and similar dissociation constants (∼1μM) and conformational responses for Fe<sup>II</sup>, Co<sup>II</sup>, and Ni<sup>II</sup><sup>[4]</sup>.<br /><br /></p>
 </font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;">

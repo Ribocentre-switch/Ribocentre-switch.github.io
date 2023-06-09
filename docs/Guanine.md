@@ -5,7 +5,7 @@ date:   2023-05-02 00:00:00
 author: Wenjian Liao
 permalink: /docs/Guanine/
 ---
-<p style="font-size: 24px"><strong>Rfam ID: [RF00167](https://rfam.xfam.org/family/RF00167,target="_blank")(Purine riboswitch)</strong> <br /></p>
+<p style="font-size: 24px"><strong>Rfam ID: [RF00167](https://rfam.xfam.org/family/RF00167,target="_blank")</strong> (Purine riboswitch)<br /></p>
 
 <br />
 <html>
@@ -24,6 +24,7 @@ permalink: /docs/Guanine/
     .button {
       display: block;
       padding: 10px;
+      font-size:24px;
       margin-right: 10px;
       text-align: center;
       background-color: #efefef;
@@ -43,7 +44,7 @@ permalink: /docs/Guanine/
   </style>
 </head>
 <body>
-  <p style="font-size: 24px">Click into different sections:</p>
+  <p style="font-size: 16px">Click into different sections:</p>
   
   <div class="button-container">
     <a class="button" href="#timeline" style="bold">Timeline</a>
@@ -61,7 +62,7 @@ permalink: /docs/Guanine/
   .header_box {
     border: none;
     background: #efefef;
-    font-size:28px
+    font-size:24px
   }
   blockquote {
   margin: 0 0 0px;
@@ -153,12 +154,12 @@ permalink: /docs/Guanine/
 <p><br /></p>
         
 <p class="header_box" id="description">Description</p>
-<font size="4">The guanine riboswitch selectively recognizes guanine, and contains a cytosine ribonucleotide in a specific position of the guanine-binding aptamer domain. Now there are two classes of guanine riboswitches have been discovered, most commonly associated with genes encoding phosphoribosyltransferase (PRT) enzymes. Although these two classes of guanine riboswitches have the similar secondary structure, the directionalities of gene control upon ligand binding are predicted to be opposite for the guanine-I (OFF) and guanine-II (ON) riboswitches<sup></sup>.</font>
+<font >The guanine riboswitch selectively recognizes guanine, and contains a cytosine ribonucleotide in a specific position of the guanine-binding aptamer domain. Now there are two classes of guanine riboswitches have been discovered, most commonly associated with genes encoding phosphoribosyltransferase (PRT) enzymes. Although these two classes of guanine riboswitches have the similar secondary structure, the directionalities of gene control upon ligand binding are predicted to be opposite for the guanine-I (OFF) and guanine-II (ON) riboswitches<sup></sup>.</font>
 <p><br /></p>
             
 > Gene association
         
-<font size="4">The guanine-I riboswitch, once thought to be an operon, was originally found in the 5’-UTR of <i>xpt-pbuX</i> gene. The <i>xpt</i> gene and <i>pbuX</i> gene encode a specific xanthine phosphoribosyl-transferase and a xanthine-specific purine permease respectively, and the genes have overlapping coding regions. The guanine-I riboswitch was also identified in other <i>B. subtilis</i> genes (<i>purE</i>, <i>yxjA</i> et.al.) and also in other bacterial species. However, the nucleobase specificities for many annotated PRT enzymes downstream of guanine-II riboswitch have not been established<sup>[1-2, 9]</sup>.</font>
+<font >The guanine-I riboswitch, once thought to be an operon, was originally found in the 5’-UTR of <i>xpt-pbuX</i> gene. The <i>xpt</i> gene and <i>pbuX</i> gene encode a specific xanthine phosphoribosyl-transferase and a xanthine-specific purine permease respectively, and the genes have overlapping coding regions. The guanine-I riboswitch was also identified in other <i>B. subtilis</i> genes (<i>purE</i>, <i>yxjA</i> et.al.) and also in other bacterial species. However, the nucleobase specificities for many annotated PRT enzymes downstream of guanine-II riboswitch have not been established<sup>[1-2, 9]</sup>.</font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;">
 <tr >
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
@@ -170,7 +171,7 @@ permalink: /docs/Guanine/
                 
 > Gene regulation
             
-<font size="4"><p>(left) The guanine-I riboswitch has been shown to control gene expression through transcriptional termination. It forms an antiterminator in the absence of guanine, thereby allowing RNA transcription elongation to proceed to completion. The presence of guanine results in stabilization of the aptamer domain, thereby facilitating terminator formation and shutting down transcription. (right) Sequence and secondary structure model of a guanine-II riboswitch is consistent with a genetic “ON” switch wherein ligand binding would preclude formation of the terminator stem. <sup>[2, 4]</sup>.</p></font>
+<font ><p>(left) The guanine-I riboswitch has been shown to control gene expression through transcriptional termination. It forms an antiterminator in the absence of guanine, thereby allowing RNA transcription elongation to proceed to completion. The presence of guanine results in stabilization of the aptamer domain, thereby facilitating terminator formation and shutting down transcription. (right) Sequence and secondary structure model of a guanine-II riboswitch is consistent with a genetic “ON” switch wherein ligand binding would preclude formation of the terminator stem. <sup>[2, 4]</sup>.</p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
   <img src="/images/gene_regulation/Guanine_riboswitch_gene_regulation1.svg" alt="drawing" style="width:800px;margin-top: 0px;margin-bottom: 0px;" >
@@ -182,7 +183,7 @@ permalink: /docs/Guanine/
 <p class="header_box" id="Structure and Ligand recognition">Structure and Ligand recognition</p>
 > 2D representation
         
-<font size=4>(left) Consensus sequence and structural model for guanine-I riboswitch. (right) Sequence and secondary structure model of the guanine-I riboswitch<sup>[3]</sup>.</font><br>
+<font >(left) Consensus sequence and structural model for guanine-I riboswitch. (right) Sequence and secondary structure model of the guanine-I riboswitch<sup>[3]</sup>.</font><br>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
 <head>
@@ -263,7 +264,7 @@ permalink: /docs/Guanine/
 </tr></table><br>
 <p><br /></p>
                 
-<font size=4>Consensus sequence and structural model for guanine-II riboswitch<sup>[9]</sup>.</font><br>
+<font >Consensus sequence and structural model for guanine-II riboswitch<sup>[9]</sup>.</font><br>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
 <head>
@@ -346,7 +347,7 @@ permalink: /docs/Guanine/
                 
 > 3D visualisation
             
-<font size=4>The overall structure of the guanine-I riboswitch was generated from PDB ID:1Y27 at 2.40Å resolution bound with guanine. Guanine (shown in sticks) is labeled in red <sup>[4]</sup>.</font>
+<font >The overall structure of the guanine-I riboswitch was generated from PDB ID:1Y27 at 2.40Å resolution bound with guanine. Guanine (shown in sticks) is labeled in red <sup>[4]</sup>.</font>
   <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
   <img src="/images/3D/Guanine_riboswitch_3D1.svg" alt="drawing" style="width:400px;height:400px;margin-top: 0px;margin-bottom: 0px;" >
@@ -497,7 +498,7 @@ permalink: /docs/Guanine/
                 
 > Binding pocket
                 
-<font size=4><p>Hydrogen-bonding alignments to bound guanine in the guanine-I riboswitch, generated from PDB ID:1Y27. The bound guanine forms a Watson-Crick pair with C74. Hydrogen bonds involving 2’-OH of U22 and base edges of U47 and U51 are common to both riboswitches<sup>[4]</sup>.<br /></p></font>
+<font ><p>Hydrogen-bonding alignments to bound guanine in the guanine-I riboswitch, generated from PDB ID:1Y27. The bound guanine forms a Watson-Crick pair with C74. Hydrogen bonds involving 2’-OH of U22 and base edges of U47 and U51 are common to both riboswitches<sup>[4]</sup>.<br /></p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/Guanine_riboswitch_binding_pockets1.svg" alt="drawing" style="width:400px"  px="" /></td>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/Guanine_riboswitch_binding_pockets2.svg" alt="drawing" style="width:400px"  px="" /></td>
@@ -507,7 +508,7 @@ permalink: /docs/Guanine/
                     
 > Ligand recognition
             
-<font size=4>
+<font >
 <p>Chemical structures of guanine and its various analogs. The apparent K<sub>D</sub> of each compound of guanine-I riboswitch and partial compounds of guanine-II riboswitch are shown on bottom. G-I, guanine-I riboswitch. G-II, guanine-II riboswitch<sup>[2, 9]</sup>.<br /><br /></p>
 </font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;">

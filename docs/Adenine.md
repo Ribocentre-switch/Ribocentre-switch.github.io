@@ -5,7 +5,7 @@ date:   2023-04-25 00:00:00
 author: Wenjian Liao, Zhizhong Lu
 permalink: /docs/Adenine/
 ---
-<p style="font-size: 24px"><strong>Rfam ID: [RF00167](https://rfam.xfam.org/family/RF00167,target="_blank")(Purine riboswitch)</strong> <br /></p>
+<p style="font-size: 24px"><strong>Rfam ID: [RF00167](https://rfam.xfam.org/family/RF00167,target="_blank")</strong> (Purine riboswitch)<br /></p>
 
 <br />
 <html>
@@ -24,6 +24,7 @@ permalink: /docs/Adenine/
     .button {
       display: block;
       padding: 10px;
+      font-size:24px;
       margin-right: 10px;
       text-align: center;
       background-color: #efefef;
@@ -43,7 +44,7 @@ permalink: /docs/Adenine/
   </style>
 </head>
 <body>
-  <p style="font-size: 24px">Click into different sections:</p>
+  <p style="font-size: 16px">Click into different sections:</p>
   
   <div class="button-container">
     <a class="button" href="#timeline" style="bold">Timeline</a>
@@ -61,7 +62,7 @@ permalink: /docs/Adenine/
   .header_box {
     border: none;
     background: #efefef;
-    font-size:28px
+    font-size:24px
   }
   blockquote {
   margin: 0 0 0px;
@@ -121,12 +122,12 @@ permalink: /docs/Adenine/
 <p><br /></p>
         
 <p class="header_box" id="description">Description</p>
-<font size="4">Carrying an aptamer domain similar in sequence and secondary structure to the guanine riboswitch, the adenine riboswitch selectively recognizes adenine, and contains a uracil ribonucleotide in position 74 of the adenine-binding aptamer domain. <i>B. subtilis ydhL</i> (also called <i>pbuE</i>) and two RNAs (<i>add</i> genes) from <i>Clostridium perfringens</i> and <i>Vibrio vulnificus</i> harbor adenine riboswitches in their mRNA elements. The <i>ydhL</i> adenine riboswitch has been shown to control gene expression through transcriptional activation, while the add adenine riboswitch controls gene expression through translational activation<sup>[3-4]</sup>.</font>
+<font >Carrying an aptamer domain similar in sequence and secondary structure to the guanine riboswitch, the adenine riboswitch selectively recognizes adenine, and contains a uracil ribonucleotide in position 74 of the adenine-binding aptamer domain. <i>B. subtilis ydhL</i> (also called <i>pbuE</i>) and two RNAs (<i>add</i> genes) from <i>Clostridium perfringens</i> and <i>Vibrio vulnificus</i> harbor adenine riboswitches in their mRNA elements. The <i>ydhL</i> adenine riboswitch has been shown to control gene expression through transcriptional activation, while the add adenine riboswitch controls gene expression through translational activation<sup>[3-4]</sup>.</font>
 <p><br /></p>
             
 > Gene association
         
-<font size="4">Purine salvage, interconversion, and catabolic pathways in <i>B. subtilis</i>. It has been demonstrated that the <i>ydhL</i> gene, encoding for the putative purine efflux pump, and the <i>add</i> gene, encoding for adenine deaminase<sup>[1-4]</sup>.</font>
+<font >Purine salvage, interconversion, and catabolic pathways in <i>B. subtilis</i>. It has been demonstrated that the <i>ydhL</i> gene, encoding for the putative purine efflux pump, and the <i>add</i> gene, encoding for adenine deaminase<sup>[1-4]</sup>.</font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;">
 <tr >
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
@@ -138,7 +139,7 @@ permalink: /docs/Adenine/
                 
 > Gene regulation
             
-<font size="4"><p>Mechanisms for regulation of gene expression by adenine riboswitches. The Shine-Dalgarno GAA sequence and the initiation codon are shaded in orange and blue respectively<sup>[3-4]</sup>.</p></font>
+<font ><p>Mechanisms for regulation of gene expression by adenine riboswitches. The Shine-Dalgarno GAA sequence and the initiation codon are shaded in orange and blue respectively<sup>[3-4]</sup>.</p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
   <img src="/images/gene_regulation/Adenine_riboswitch_gene_regulation1.svg" alt="drawing" style="width:800px;margin-top: 0px;margin-bottom: 0px;" >
@@ -150,7 +151,7 @@ permalink: /docs/Adenine/
 <p class="header_box" id="Structure and Ligand recognition">Structure and Ligand recognition</p>
 > 2D representation
         
-<font size=4>Left: Consensus sequence and secondary structure model for the adenine riboswitch. Right: Secondary structure depictions of the adenine riboswitch according to PDB ID: 1Y26<sup>[4]</sup>.</font><br>
+<font >Left: Consensus sequence and secondary structure model for the adenine riboswitch. Right: Secondary structure depictions of the adenine riboswitch according to PDB ID: 1Y26<sup>[4]</sup>.</font><br>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
 <head>
@@ -233,7 +234,7 @@ permalink: /docs/Adenine/
                 
 > 3D visualisation
             
-<font size=4>The overall structure of the adenine riboswitch was generated from PDB ID: 1Y26 at 2.10 Å resolution bound with adenine. Adenine (shown in sticks) is labeled in red <sup>[4]</sup>.</font>
+<font >The overall structure of the adenine riboswitch was generated from PDB ID: 1Y26 at 2.10 Å resolution bound with adenine. Adenine (shown in sticks) is labeled in red <sup>[4]</sup>.</font>
   <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
   <img src="/images/3D/Adenine_riboswitch_3D1.svg" alt="drawing" style="width:400px;height:400px;margin-top: 0px;margin-bottom: 0px;" >
@@ -384,7 +385,7 @@ permalink: /docs/Adenine/
                 
 > Binding pocket
                 
-<font size=4><p>Left: Surface representation of the binding pocket of the adenine riboswitch generated from PDB ID: 1Y26. Adenine (shown in sticks) is labeled in red. Right: The hydrogen bonds of the binding sites of the adenine riboswitch bound with adenine<sup>[4]</sup>.<br /></p></font>
+<font ><p>Left: Surface representation of the binding pocket of the adenine riboswitch generated from PDB ID: 1Y26. Adenine (shown in sticks) is labeled in red. Right: The hydrogen bonds of the binding sites of the adenine riboswitch bound with adenine<sup>[4]</sup>.<br /></p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/Adenine_riboswitch_binding_pockets1.svg" alt="drawing" style="width:400px"  px="" /></td>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/Adenine_riboswitch_binding_pockets2.svg" alt="drawing" style="width:400px"  px="" /></td>
@@ -394,7 +395,7 @@ permalink: /docs/Adenine/
                     
 > Ligand recognition
             
-<font size=4>
+<font >
 <p>Chemical structures of adenine and its analogs. The apparent K<sub>D</sub> of each compound of the <i>ydhL</i> adenine riboswitch is shown on bottom<sup>[3]</sup>.<br /><br /></p>
 </font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;">

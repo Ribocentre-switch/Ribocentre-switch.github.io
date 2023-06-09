@@ -5,7 +5,7 @@ date:   2023-05-15 00:00:00
 author: Wenjian Liao
 permalink: /docs/PRA/
 ---
-<p style="font-size: 24px"><strong>Rfam ID: [RF02974](https://rfam.xfam.org/family/RF02974,target="_blank")(<i>Fibro-purF</i>)</strong> <br /></p>
+<p style="font-size: 24px"><strong>Rfam ID: [RF02974](https://rfam.xfam.org/family/RF02974,target="_blank")</strong> (<i>Fibro-purF</i>)<br /></p>
 
 <br />
 <html>
@@ -24,6 +24,7 @@ permalink: /docs/PRA/
     .button {
       display: block;
       padding: 10px;
+      font-size:24px;
       margin-right: 10px;
       text-align: center;
       background-color: #efefef;
@@ -43,7 +44,7 @@ permalink: /docs/PRA/
   </style>
 </head>
 <body>
-  <p style="font-size: 24px">Click into different sections:</p>
+  <p style="font-size: 16px">Click into different sections:</p>
   
   <div class="button-container">
     <a class="button" href="#timeline" style="bold">Timeline</a>
@@ -61,7 +62,7 @@ permalink: /docs/PRA/
   .header_box {
     border: none;
     background: #efefef;
-    font-size:28px
+    font-size:24px
   }
   blockquote {
   margin: 0 0 0px;
@@ -105,12 +106,12 @@ permalink: /docs/PRA/
 <p><br /></p>
         
 <p class="header_box" id="description">Description</p>
-<font size="4">The PRA riboswitch (<i>Fibro-purF</i> RNA motif) is a conserved RNA structure that was discovered by bioinformatics. All known <i>Fibro-purF</i> RNAs are found upstream of <i>purF</i> genes, which encode amidophosphoribosyltransferase that participates in the biosynthesis of biological purine molecules. Due to the instability of the proposed ligand, 5-phospho-D-ribosylamine, direct experiments to confirm this ligand have not yet been conducted (From Wikipedia)<sup></sup>.</font>
+<font >The PRA riboswitch (<i>Fibro-purF</i> RNA motif) is a conserved RNA structure that was discovered by bioinformatics. All known <i>Fibro-purF</i> RNAs are found upstream of <i>purF</i> genes, which encode amidophosphoribosyltransferase that participates in the biosynthesis of biological purine molecules. Due to the instability of the proposed ligand, 5-phospho-D-ribosylamine, direct experiments to confirm this ligand have not yet been conducted (From Wikipedia)<sup></sup>.</font>
 <p><br /></p>
             
 > Gene association
         
-<font size="4">All <I>Fibro-purF</I> motif RNA representatives where determinations can be made are found upstream of a purF gene, which codes for an enzyme, amidophosphoribosyltransferase, that catalyzes the first committed step in the purine biosynthesis pathway.<sup>[1-2]</sup>.</font>
+<font >All <I>Fibro-purF</I> motif RNA representatives where determinations can be made are found upstream of a purF gene, which codes for an enzyme, amidophosphoribosyltransferase, that catalyzes the first committed step in the purine biosynthesis pathway.<sup>[1-2]</sup>.</font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;">
 <tr >
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
@@ -122,7 +123,7 @@ permalink: /docs/PRA/
                 
 > Gene regulation
             
-<font size="4"><p>Putative mechanisms for regulation of gene expression by PRA riboswitches. The Shine-Dalgarno sequence are shaded in orange<sup>[2]</sup>.</p></font>
+<font ><p>Putative mechanisms for regulation of gene expression by PRA riboswitches. The Shine-Dalgarno sequence are shaded in orange<sup>[2]</sup>.</p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
   <img src="/images/gene_regulation/PRA_riboswitch_gene_regulation1.svg" alt="drawing" style="width:800px;margin-top: 0px;margin-bottom: 0px;" >
@@ -134,7 +135,7 @@ permalink: /docs/PRA/
 <p class="header_box" id="Structure and Ligand recognition">Structure and Ligand recognition</p>
 > 2D representation
         
-<font size=4>Left: Consensus sequence and secondary structure model for the PRA riboswitch. <sup>[1-2]</sup>.</font><br>
+<font >Left: Consensus sequence and secondary structure model for the PRA riboswitch. <sup>[1-2]</sup>.</font><br>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
 <head>
@@ -221,7 +222,7 @@ permalink: /docs/PRA/
                 
 > Ligand recognition
             
-<font size=4>
+<font >
 <p>Chemical structures of PRA and C-PRA. In vitro experiments have corroborated the predicted structure, but no ligand has been established<sup>[3]</sup>.<br /><br /></p>
 </font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;">

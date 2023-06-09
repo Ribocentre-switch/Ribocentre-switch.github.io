@@ -5,7 +5,7 @@ date:   2023-05-12 00:00:00
 author: Wenjian Liao, Zhizhong Lu
 permalink: /docs/PreQ/
 ---
-<p style="font-size: 24px"><strong>Rfam ID: [RF00522](https://rfam.xfam.org/family/RF00522,target="_blank")(PreQ<sub>1</sub>-I riboswitch)</strong> <br /></p>
+<p style="font-size: 24px"><strong>Rfam ID: [RF00522](https://rfam.xfam.org/family/RF00522,target="_blank")</strong> (PreQ<sub>1</sub>-I riboswitch)<br /></p>
 <p style="font-size: 24px"><strong>&emsp;&emsp;&emsp;&emsp;[RF01054](https://rfam.xfam.org/family/RF01054,target="_blank")(PreQ<sub>1</sub>-II riboswitch)</strong> <br /></p>
 <p style="font-size: 24px"><strong>&emsp;&emsp;&emsp;&emsp;[RF02680](https://rfam.xfam.org/family/RF02680,target="_blank")(PreQ<sub>1</sub>-III riboswitch)</strong> <br /></p>
 
@@ -26,6 +26,7 @@ permalink: /docs/PreQ/
     .button {
       display: block;
       padding: 10px;
+      font-size:24px;
       margin-right: 10px;
       text-align: center;
       background-color: #efefef;
@@ -45,7 +46,7 @@ permalink: /docs/PreQ/
   </style>
 </head>
 <body>
-  <p style="font-size: 24px">Click into different sections:</p>
+  <p style="font-size: 16px">Click into different sections:</p>
   
   <div class="button-container">
     <a class="button" href="#timeline" style="bold">Timeline</a>
@@ -63,7 +64,7 @@ permalink: /docs/PreQ/
   .header_box {
     border: none;
     background: #efefef;
-    font-size:28px
+    font-size:24px
   }
   blockquote {
   margin: 0 0 0px;
@@ -187,12 +188,12 @@ permalink: /docs/PreQ/
 <p><br /></p>
         
 <p class="header_box" id="description">Description</p>
-<font size="4">PreQ<sub>1</sub> is a guanine-derived nucleobase that is known to be incorporated in the wobble position of tRNAs containing the GUN anticodon sequence and then further modified to yield queuosine (Q). Three subcategories of the PreQ<sub>1</sub> riboswitch exist: preQ<sub>1</sub>-I, preQ<sub>1</sub>-II, and preQ<sub>1</sub>-III. PreQ<sub>1</sub>-I has a distinctly small aptamer, ranging from 25 to 45 nucleotides long, and it is represented by RNAs sub-classified as ‘type 1’, ‘type 2’ and ‘type 3’. PreQ<sub>1</sub>-II riboswitch, only found in <i>Lactobacillales</i>, has a larger and more complex consensus sequence and structure than preQ<sub>1</sub>-I riboswitch, with an average of 58 nucleotides composing its aptamer, which forms as many as five base-paired substructures. PreQ<sub>1</sub>-III riboswitch has a distinct structure and is also larger in aptamer size than preQ<sub>1</sub>-I riboswitch, ranging from 33 to 58 nucleotides (from Wikipedia)<sup></sup>.</font>
+<font >PreQ<sub>1</sub> is a guanine-derived nucleobase that is known to be incorporated in the wobble position of tRNAs containing the GUN anticodon sequence and then further modified to yield queuosine (Q). Three subcategories of the PreQ<sub>1</sub> riboswitch exist: preQ<sub>1</sub>-I, preQ<sub>1</sub>-II, and preQ<sub>1</sub>-III. PreQ<sub>1</sub>-I has a distinctly small aptamer, ranging from 25 to 45 nucleotides long, and it is represented by RNAs sub-classified as ‘type 1’, ‘type 2’ and ‘type 3’. PreQ<sub>1</sub>-II riboswitch, only found in <i>Lactobacillales</i>, has a larger and more complex consensus sequence and structure than preQ<sub>1</sub>-I riboswitch, with an average of 58 nucleotides composing its aptamer, which forms as many as five base-paired substructures. PreQ<sub>1</sub>-III riboswitch has a distinct structure and is also larger in aptamer size than preQ<sub>1</sub>-I riboswitch, ranging from 33 to 58 nucleotides (from Wikipedia)<sup></sup>.</font>
 <p><br /></p>
             
 > Gene association
         
-<font size="4">PreQ<sub>1</sub>-I regulates expression of genes (which have been named <i>queC</i>, <i>queD</i>, <i>queE</i> and <i>queF</i>) involved in biosynthesis of the nucleoside queuosine (Q) from GTP. Unlike other preQ<sub>1</sub>-I riboswitches, PreQ<sub>1</sub>-I type 3 RNAs were found only in association with <i>yhhQ</i> genes, which are proposed to code for inner membrane proteins of unknown function. PreQ<sub>1</sub>-II was identified upstream of genes classified as COG4708, which are predicted to be a transporter of preQ<sub>1</sub>. Most sequenced examples of preQ<sub>1</sub>-III riboswitches are obtained from environmental DNA samples, and known examples of preQ<sub>1</sub>-III riboswitches are found upstream of <i>queT</i> genes, which are expected to encode transporters of a queuosine derivative<sup>[1, 2, 9]</sup>.</font>
+<font >PreQ<sub>1</sub>-I regulates expression of genes (which have been named <i>queC</i>, <i>queD</i>, <i>queE</i> and <i>queF</i>) involved in biosynthesis of the nucleoside queuosine (Q) from GTP. Unlike other preQ<sub>1</sub>-I riboswitches, PreQ<sub>1</sub>-I type 3 RNAs were found only in association with <i>yhhQ</i> genes, which are proposed to code for inner membrane proteins of unknown function. PreQ<sub>1</sub>-II was identified upstream of genes classified as COG4708, which are predicted to be a transporter of preQ<sub>1</sub>. Most sequenced examples of preQ<sub>1</sub>-III riboswitches are obtained from environmental DNA samples, and known examples of preQ<sub>1</sub>-III riboswitches are found upstream of <i>queT</i> genes, which are expected to encode transporters of a queuosine derivative<sup>[1, 2, 9]</sup>.</font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;">
 <tr >
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
@@ -204,7 +205,7 @@ permalink: /docs/PreQ/
                 
 > Gene regulation
             
-<font size="4"><p>PreQ<sub>1</sub>-I riboswitches control gene expression through transcriptional termination or translational termination. The Shine-Dalgarno (SD) sequence is shaded in orange<sup>[1, 9]</sup>.</p></font>
+<font ><p>PreQ<sub>1</sub>-I riboswitches control gene expression through transcriptional termination or translational termination. The Shine-Dalgarno (SD) sequence is shaded in orange<sup>[1, 9]</sup>.</p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
   <img src="/images/gene_regulation/PreQ1_riboswitch_gene_regulation1.svg" alt="drawing" style="width:800px;margin-top: 0px;margin-bottom: 0px;" >
@@ -213,7 +214,7 @@ permalink: /docs/PreQ/
 </table>
 <p><br /></p>
                     
-<font size="4"><p>Mechanisms for regulation of gene expression by PreQ<sub>1</sub>-II and PreQ<sub>1</sub>-III riboswitches. The Shine-Dalgarno sequence (SD) is shaded in orange<sup>[2, 9, 10]</sup>.</p></font>
+<font ><p>Mechanisms for regulation of gene expression by PreQ<sub>1</sub>-II and PreQ<sub>1</sub>-III riboswitches. The Shine-Dalgarno sequence (SD) is shaded in orange<sup>[2, 9, 10]</sup>.</p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
   <img src="/images/gene_regulation/PreQ1_riboswitch_gene_regulation3.svg" alt="drawing" style="width:800px;margin-top: 0px;margin-bottom: 0px;" >
@@ -225,7 +226,7 @@ permalink: /docs/PreQ/
 <p class="header_box" id="Structure and Ligand recognition">Structure and Ligand recognition</p>
 > 2D representation
         
-<font size=4>Left: Consensus sequence and secondary structure model for the PreQ<sub>1</sub>-I riboswitch. Right: Secondary structure depictions of the PreQ<sub>1</sub>-I type 2 riboswitch according to PDB ID: 3FU2<sup>[1, 3, 9]</sup>.</font><br>
+<font >Left: Consensus sequence and secondary structure model for the PreQ<sub>1</sub>-I riboswitch. Right: Secondary structure depictions of the PreQ<sub>1</sub>-I type 2 riboswitch according to PDB ID: 3FU2<sup>[1, 3, 9]</sup>.</font><br>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
 <head>
@@ -306,7 +307,7 @@ permalink: /docs/PreQ/
 </tr></table><br>
 <p><br /></p>
                 
-<font size=4>Left: Consensus sequence and secondary structure model for the PreQ<sub>1</sub>-II riboswitch. Right: Secondary structure depictions of the PreQ<sub>1</sub>-II riboswitch according to PDB ID: 4JF2<sup>[7, 9]</sup>.</font><br>
+<font >Left: Consensus sequence and secondary structure model for the PreQ<sub>1</sub>-II riboswitch. Right: Secondary structure depictions of the PreQ<sub>1</sub>-II riboswitch according to PDB ID: 4JF2<sup>[7, 9]</sup>.</font><br>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
 <head>
@@ -387,7 +388,7 @@ permalink: /docs/PreQ/
 </tr></table><br>
 <p><br /></p>
                 
-<font size=4>Left: Consensus sequence and secondary structure model for the PreQ<sub>1</sub>-III riboswitch. Right: Secondary structure depictions of the PreQ<sub>1</sub>-III riboswitch according to PDB ID: 4RZD<sup>[9, 10]</sup>.</font><br>
+<font >Left: Consensus sequence and secondary structure model for the PreQ<sub>1</sub>-III riboswitch. Right: Secondary structure depictions of the PreQ<sub>1</sub>-III riboswitch according to PDB ID: 4RZD<sup>[9, 10]</sup>.</font><br>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
 <head>
@@ -470,7 +471,7 @@ permalink: /docs/PreQ/
                 
 > 3D visualisation
             
-<font size=4>The overall structure of the PreQ<sub>1</sub>-I riboswitch was generated from PDB ID: 3FU2 at 2.85 Å resolution bound with PreQ<sub>1</sub>. PreQ<sub>1</sub> (shown in sticks) is labeled in red <sup>[3]</sup>.</font>
+<font >The overall structure of the PreQ<sub>1</sub>-I riboswitch was generated from PDB ID: 3FU2 at 2.85 Å resolution bound with PreQ<sub>1</sub>. PreQ<sub>1</sub> (shown in sticks) is labeled in red <sup>[3]</sup>.</font>
   <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
   <img src="/images/3D/PreQ1_riboswitch_3D1.svg" alt="drawing" style="width:400px;height:400px;margin-top: 0px;margin-bottom: 0px;" >
@@ -595,7 +596,7 @@ permalink: /docs/PreQ/
   </tr></table><br>
   <p><br /></p>
                 
-<font size=4>The overall structure of the PreQ<sub>1</sub>-II riboswitch was generated from PDB ID: 4JF2 at 2.28 Å resolution bound with PreQ<sub>1</sub>. PreQ<sub>1</sub> (shown in sticks) is labeled in red <sup>[7]</sup>.</font>
+<font >The overall structure of the PreQ<sub>1</sub>-II riboswitch was generated from PDB ID: 4JF2 at 2.28 Å resolution bound with PreQ<sub>1</sub>. PreQ<sub>1</sub> (shown in sticks) is labeled in red <sup>[7]</sup>.</font>
   <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
   <img src="/images/3D/PreQ1_riboswitch_3D2.svg" alt="drawing" style="width:400px;height:400px;margin-top: 0px;margin-bottom: 0px;" >
@@ -732,7 +733,7 @@ permalink: /docs/PreQ/
   </tr></table><br>
   <p><br /></p>
                 
-<font size=4>The overall structure of the PreQ<sub>1</sub>-III riboswitch was generated from PDB ID: 4RZD at 2.75 Å resolution bound with PreQ<sub>1</sub>. PreQ<sub>1</sub> (shown in sticks) is labeled in red <sup>[10]</sup>.</font>
+<font >The overall structure of the PreQ<sub>1</sub>-III riboswitch was generated from PDB ID: 4RZD at 2.75 Å resolution bound with PreQ<sub>1</sub>. PreQ<sub>1</sub> (shown in sticks) is labeled in red <sup>[10]</sup>.</font>
   <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
   <img src="/images/3D/PreQ1_riboswitch_3D3.svg" alt="drawing" style="width:400px;height:400px;margin-top: 0px;margin-bottom: 0px;" >
@@ -913,7 +914,7 @@ permalink: /docs/PreQ/
                 
 > Binding pocket
                 
-<font size=4><p>Left: Surface representation of the binding pocket of the PreQ<sub>1</sub>-I riboswitch generated from PDB ID: 3FU2. PreQ<sub>1</sub> (shown in sticks) is labeled in red. Right: The hydrogen bonds of the binding sites of the PreQ<sub>1</sub>-I riboswitch bound with PreQ<sub>1</sub><sup>[3]</sup>.<br /></p></font>
+<font ><p>Left: Surface representation of the binding pocket of the PreQ<sub>1</sub>-I riboswitch generated from PDB ID: 3FU2. PreQ<sub>1</sub> (shown in sticks) is labeled in red. Right: The hydrogen bonds of the binding sites of the PreQ<sub>1</sub>-I riboswitch bound with PreQ<sub>1</sub><sup>[3]</sup>.<br /></p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/PreQ1_riboswitch_binding_pockets1.svg" alt="drawing" style="width:400px"  px="" /></td>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/PreQ1_riboswitch_binding_pockets2.svg" alt="drawing" style="width:400px"  px="" /></td>
@@ -921,7 +922,7 @@ permalink: /docs/PreQ/
 </table>
 <p><br /></p>
                     
-<font size=4><p>Left: Surface representation of the binding pocket of the PreQ<sub>1</sub>-II riboswitch generated from PDB ID: 4JF2. PreQ<sub>1</sub> (shown in sticks) is labeled in red. Right: The hydrogen bonds of the binding sites of the PreQ<sub>1</sub>-II riboswitch bound with PreQ<sub>1</sub><sup>[7]</sup>.<br /></p></font>
+<font ><p>Left: Surface representation of the binding pocket of the PreQ<sub>1</sub>-II riboswitch generated from PDB ID: 4JF2. PreQ<sub>1</sub> (shown in sticks) is labeled in red. Right: The hydrogen bonds of the binding sites of the PreQ<sub>1</sub>-II riboswitch bound with PreQ<sub>1</sub><sup>[7]</sup>.<br /></p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/PreQ1_riboswitch_binding_pockets3.svg" alt="drawing" style="width:400px"  px="" /></td>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/PreQ1_riboswitch_binding_pockets4.svg" alt="drawing" style="width:400px"  px="" /></td>
@@ -929,7 +930,7 @@ permalink: /docs/PreQ/
 </table>
 <p><br /></p>
                     
-<font size=4><p>Left: Surface representation of the binding pocket of the PreQ<sub>1</sub>-III riboswitch generated from PDB ID: 4RZD. PreQ<sub>1</sub> (shown in sticks) is labeled in red. Right: The hydrogen bonds of the binding sites of the PreQ<sub>1</sub>-III riboswitch bound with PreQ<sub>1</sub><sup>[10]</sup>.<br /></p></font>
+<font ><p>Left: Surface representation of the binding pocket of the PreQ<sub>1</sub>-III riboswitch generated from PDB ID: 4RZD. PreQ<sub>1</sub> (shown in sticks) is labeled in red. Right: The hydrogen bonds of the binding sites of the PreQ<sub>1</sub>-III riboswitch bound with PreQ<sub>1</sub><sup>[10]</sup>.<br /></p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/PreQ1_riboswitch_binding_pockets5.svg" alt="drawing" style="width:400px"  px="" /></td>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/PreQ1_riboswitch_binding_pockets6.svg" alt="drawing" style="width:400px"  px="" /></td>
@@ -939,7 +940,7 @@ permalink: /docs/PreQ/
                     
 > Ligand recognition
             
-<font size=4>
+<font >
 <p>Chemical structures of PreQ<sub>1</sub> and its analogs. The apparent K<sub>D</sub> of each compound of three classes of preQ<sub>1</sub> riboswitches is shown on bottom<sup>[1-3, 9-10, 13]</sup>.<br /><br /></p>
 </font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;">

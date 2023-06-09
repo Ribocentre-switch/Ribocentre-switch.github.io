@@ -5,7 +5,7 @@ date:   2023-04-29 00:00:00
 author: Zhizhong Lu, Wenjian Liao
 permalink: /docs/SAH/
 ---
-<p style="font-size: 24px"><strong>Rfam ID: [RF01057](https://rfam.xfam.org/family/RF01057,target="_blank")(S-adenosyl-L-homocysteine riboswitch)</strong> <br /></p>
+<p style="font-size: 24px"><strong>Rfam ID: [RF01057](https://rfam.xfam.org/family/RF01057,target="_blank")</strong> (S-adenosyl-L-homocysteine riboswitch)<br /></p>
 
 <br />
 <html>
@@ -24,6 +24,7 @@ permalink: /docs/SAH/
     .button {
       display: block;
       padding: 10px;
+      font-size:24px;
       margin-right: 10px;
       text-align: center;
       background-color: #efefef;
@@ -43,7 +44,7 @@ permalink: /docs/SAH/
   </style>
 </head>
 <body>
-  <p style="font-size: 24px">Click into different sections:</p>
+  <p style="font-size: 16px">Click into different sections:</p>
   
   <div class="button-container">
     <a class="button" href="#timeline" style="bold">Timeline</a>
@@ -61,7 +62,7 @@ permalink: /docs/SAH/
   .header_box {
     border: none;
     background: #efefef;
-    font-size:28px
+    font-size:24px
   }
   blockquote {
   margin: 0 0 0px;
@@ -121,12 +122,12 @@ permalink: /docs/SAH/
 <p><br /></p>
         
 <p class="header_box" id="description">Description</p>
-<font size="4">SAH riboswitches are a kind of riboswitch that bind S-adenosylhomocysteine (SAH). When the coenzyme S-adenosylmethionine (SAM) is used in a methylation reaction, SAH is produced. SAH riboswitches typically up-regulate genes involved in recycling SAH to create more SAM (or the metabolically related methionine). This is particularly relevant to cells, because high levels of SAH can be toxic. Originally identified by bioinformatics, SAH riboswitches are apparent in many species of bacteria, predominantly certain Pseudomonadota and Actinomycetota. The atomic-resolution 3-dimensional structure of an SAH riboswitch has been solved using X-ray crystallography. (from WiKi)<sup></sup>.</font>
+<font >SAH riboswitches are a kind of riboswitch that bind S-adenosylhomocysteine (SAH). When the coenzyme S-adenosylmethionine (SAM) is used in a methylation reaction, SAH is produced. SAH riboswitches typically up-regulate genes involved in recycling SAH to create more SAM (or the metabolically related methionine). This is particularly relevant to cells, because high levels of SAH can be toxic. Originally identified by bioinformatics, SAH riboswitches are apparent in many species of bacteria, predominantly certain Pseudomonadota and Actinomycetota. The atomic-resolution 3-dimensional structure of an SAH riboswitch has been solved using X-ray crystallography. (from WiKi)<sup></sup>.</font>
 <p><br /></p>
             
 > Gene association
         
-<font size="4">Pathways for sulphate assimilation and biosynthesis of cysteine and methionine.SAH riboswitch (red bar) is involved in multiple gene regulation in the synthetic pathway<sup>[1]</sup>.</font>
+<font >Pathways for sulphate assimilation and biosynthesis of cysteine and methionine.SAH riboswitch (red bar) is involved in multiple gene regulation in the synthetic pathway<sup>[1]</sup>.</font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;">
 <tr >
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
@@ -138,7 +139,7 @@ permalink: /docs/SAH/
                 
 > Gene regulation
             
-<font size="4"><p>Model of SAH riboswitch sequential folding and translational control<sup>[1]</sup>.</p></font>
+<font ><p>Model of SAH riboswitch sequential folding and translational control<sup>[1]</sup>.</p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
   <img src="/images/gene_regulation/SAH_riboswitch_gene_regulation.svg" alt="drawing" style="width:800px;margin-top: 0px;margin-bottom: 0px;" >
@@ -150,7 +151,7 @@ permalink: /docs/SAH/
 <p class="header_box" id="Structure and Ligand recognition">Structure and Ligand recognition</p>
 > 2D representation
         
-<font size=4>Left: Consensus sequence and secondary structure model for the SAH riboswitch. Right: Secondary structure depictions of the SAH riboswitch according to PDB ID:3npq<sup></sup>.</font><br>
+<font >Left: Consensus sequence and secondary structure model for the SAH riboswitch. Right: Secondary structure depictions of the SAH riboswitch according to PDB ID:3npq<sup></sup>.</font><br>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
 <head>
@@ -233,7 +234,7 @@ permalink: /docs/SAH/
                 
 > 3D visualisation
             
-<font size=4>2.18-Å resolution crystal structure of an S-adenosylmethionine (SAM) riboswitch from thermoanaerobacter tengcongensis complexed with S-adenosylmethionine.SAM (shown in sticks) is labeled in red <sup>[3]</sup>.</font>
+<font >2.18-Å resolution crystal structure of an S-adenosylmethionine (SAM) riboswitch from thermoanaerobacter tengcongensis complexed with S-adenosylmethionine.SAM (shown in sticks) is labeled in red <sup>[3]</sup>.</font>
   <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
   <img src="/images/3D/SAH_riboswitch_3D.svg" alt="drawing" style="width:400px;height:400px;margin-top: 0px;margin-bottom: 0px;" >
@@ -354,7 +355,7 @@ permalink: /docs/SAH/
                 
 > Binding pocket
                 
-<font size=4><p>Left: Surface representation of the binding pocket of the SAH riboswitch generated from PDB ID:3NPQ. S-adenosylmethionine (SAM) (shown in sticks) is labeled in red.Right: Hydrogen bonding between SAM and adjacent bases<sup>[3]</sup>.<br /></p></font>
+<font ><p>Left: Surface representation of the binding pocket of the SAH riboswitch generated from PDB ID:3NPQ. S-adenosylmethionine (SAM) (shown in sticks) is labeled in red.Right: Hydrogen bonding between SAM and adjacent bases<sup>[3]</sup>.<br /></p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/SAH_riboswitch_binding_pockets1.svg" alt="drawing" style="width:400px"  px="" /></td>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/SAH_riboswitch_binding_pockets2.svg" alt="drawing" style="width:400px"  px="" /></td>
@@ -364,7 +365,7 @@ permalink: /docs/SAH/
                     
 > Ligand recognition
             
-<font size=4>
+<font >
 <p>Chemical structures of various compounds used to probe the binding characteristics of the SAH riboswitch<sup>[3]</sup>.<br /><br /></p>
 </font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;">

@@ -5,7 +5,7 @@ date:   2023-04-08 00:00:00
 author: Xiaowei Lin, Yuanyin Huang
 permalink: /docs/MoCo&Wco/
 ---
-<p style="font-size: 24px"><strong>Rfam ID: [RF01055](https://rfam.xfam.org/family/RF01055,target="_blank")(MoCo (molybdenum cofactor) riboswitch)</strong> <br /></p>
+<p style="font-size: 24px"><strong>Rfam ID: [RF01055](https://rfam.xfam.org/family/RF01055,target="_blank")</strong> (MoCo (molybdenum cofactor) riboswitch)<br /></p>
 
 <br />
 <html>
@@ -24,6 +24,7 @@ permalink: /docs/MoCo&Wco/
     .button {
       display: block;
       padding: 10px;
+      font-size:24px;
       margin-right: 10px;
       text-align: center;
       background-color: #efefef;
@@ -43,7 +44,7 @@ permalink: /docs/MoCo&Wco/
   </style>
 </head>
 <body>
-  <p style="font-size: 24px">Click into different sections:</p>
+  <p style="font-size: 16px">Click into different sections:</p>
   
   <div class="button-container">
     <a class="button" href="#timeline" style="bold">Timeline</a>
@@ -61,7 +62,7 @@ permalink: /docs/MoCo&Wco/
   .header_box {
     border: none;
     background: #efefef;
-    font-size:28px
+    font-size:24px
   }
   blockquote {
   margin: 0 0 0px;
@@ -137,12 +138,12 @@ permalink: /docs/MoCo&Wco/
 <p><br /></p>
         
 <p class="header_box" id="description">Description</p>
-<font size="4">The MoCo RNA motif is a conserved RNA structure that is presumed to be a riboswitch that binds molybdenum cofactor or the related tungsten cofactor. Genetic experiments support the hypothesis that the MoCo RNA motif corresponds to a genetic control element that responds to changing concentrations of molybdenum or tungsten cofactor. As these cofactors are not available in purified form, in vitro binding assays cannot be performed. However, the genetic data, complex structure of the RNA and the failure to detect a protein involved in the regulation suggest that the MoCo RNA motif corresponds to a class of riboswitches (From Wikipedia)<sup></sup>.</font>
+<font >The MoCo RNA motif is a conserved RNA structure that is presumed to be a riboswitch that binds molybdenum cofactor or the related tungsten cofactor. Genetic experiments support the hypothesis that the MoCo RNA motif corresponds to a genetic control element that responds to changing concentrations of molybdenum or tungsten cofactor. As these cofactors are not available in purified form, in vitro binding assays cannot be performed. However, the genetic data, complex structure of the RNA and the failure to detect a protein involved in the regulation suggest that the MoCo RNA motif corresponds to a class of riboswitches (From Wikipedia)<sup></sup>.</font>
 <p><br /></p>
             
 > Gene association
         
-<font size="4">Pathway for molybdenum cofactor biosynthesis in eubacteria and tungsten cofactor in <i>P. furiosus</i>. Proteins in abbreviation are enzymes in the pathway except for ModABC. Proteins whose coding regions are located downstream and near the MoCo and Wco riboswitch in at least one organism are highlighted in red and blue, respectively<sup>[1,3-4]</sup>.</font>
+<font >Pathway for molybdenum cofactor biosynthesis in eubacteria and tungsten cofactor in <i>P. furiosus</i>. Proteins in abbreviation are enzymes in the pathway except for ModABC. Proteins whose coding regions are located downstream and near the MoCo and Wco riboswitch in at least one organism are highlighted in red and blue, respectively<sup>[1,3-4]</sup>.</font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;">
 <tr >
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
@@ -154,7 +155,7 @@ permalink: /docs/MoCo&Wco/
                 
 > Gene regulation
             
-<font size="4"><p>Potential mechanism of translation regulation by the MoCo riboswitch. The ribosome binding site(RBS) is shaded red<sup>[3]</sup>.</p></font>
+<font ><p>Potential mechanism of translation regulation by the MoCo riboswitch. The ribosome binding site(RBS) is shaded red<sup>[3]</sup>.</p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
   <img src="/images/gene_regulation/MoCo_riboswitch_gene_regulation.svg" alt="drawing" style="width:800px;margin-top: 0px;margin-bottom: 0px;" >
@@ -166,7 +167,7 @@ permalink: /docs/MoCo&Wco/
 <p class="header_box" id="Structure and Ligand recognition">Structure and Ligand recognition</p>
 > 2D representation
         
-<font size=4>Left: Consensus sequence and secondary structure model for the WoCo and Wco riboswitch. Right: Sequence of the 138 moaA RNA of <i>E. coli</i> depicted to conform to the secondary structure model. Nucleotidesshaded in grey undergo greater rates of spontaneous 3’ phosphodiester cleavage, which typically indicates an elevated level of structural flexibility relative to internucleotide linkages present in stable secondary or tertiary structures. The bar in red identifies purine nucleotides predicted to serve as a ribosome binding site and the translation start codon for moaA is boxed in green<sup>[3]</sup>.</font><br>
+<font >Left: Consensus sequence and secondary structure model for the WoCo and Wco riboswitch. Right: Sequence of the 138 moaA RNA of <i>E. coli</i> depicted to conform to the secondary structure model. Nucleotidesshaded in grey undergo greater rates of spontaneous 3’ phosphodiester cleavage, which typically indicates an elevated level of structural flexibility relative to internucleotide linkages present in stable secondary or tertiary structures. The bar in red identifies purine nucleotides predicted to serve as a ribosome binding site and the translation start codon for moaA is boxed in green<sup>[3]</sup>.</font><br>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
 <head>
@@ -253,7 +254,7 @@ permalink: /docs/MoCo&Wco/
                 
 > Ligand recognition
             
-<font size=4>
+<font >
 <p>Chemical structures of molybdenum cofactor (Moco) and tungsten cofactor (Tuco). The apparent K<sub>D</sub> of each cofactor is not obtained<sup>[3]</sup>.<br /><br /></p>
 </font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;">

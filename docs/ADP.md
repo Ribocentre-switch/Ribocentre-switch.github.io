@@ -5,7 +5,7 @@ date:   2023-05-16 00:00:00
 author: Wenjian Liao, Zhizhong Lu
 permalink: /docs/ADP/
 ---
-<p style="font-size: 24px"><strong>Rfam ID: [nan](https://rfam.xfam.org/family/nan,target="_blank")(nan)</strong> <br /></p>
+<p style="font-size: 24px"><strong>Rfam ID: [nan](https://rfam.xfam.org/family/nan,target="_blank")</strong> (nan)<br /></p>
 
 <br />
 <html>
@@ -24,6 +24,7 @@ permalink: /docs/ADP/
     .button {
       display: block;
       padding: 10px;
+      font-size:24px;
       margin-right: 10px;
       text-align: center;
       background-color: #efefef;
@@ -43,7 +44,7 @@ permalink: /docs/ADP/
   </style>
 </head>
 <body>
-  <p style="font-size: 24px">Click into different sections:</p>
+  <p style="font-size: 16px">Click into different sections:</p>
   
   <div class="button-container">
     <a class="button" href="#timeline" style="bold">Timeline</a>
@@ -61,7 +62,7 @@ permalink: /docs/ADP/
   .header_box {
     border: none;
     background: #efefef;
-    font-size:28px
+    font-size:24px
   }
   blockquote {
   margin: 0 0 0px;
@@ -121,12 +122,12 @@ permalink: /docs/ADP/
 <p><br /></p>
         
 <p class="header_box" id="description">Description</p>
-<font size="4">The <i>ykkC</i> RNAs were initially found in 2004 and in 2017,<i>ykkC</i> subtype 2 RNAs were separated from <i>ykkC</i> RNAs. Further analysis of the RNA sequences and consensus models of <i>ykkC</i> subtype 2 RNAs, and the assessment of the diverse types of genes found downstream of these RNAs, revealed that there are probably at least four additional distinct riboswitch classes present within the <i>ykkC</i> subtype 2 collection, termed <i>ykkC</i> subtypes 2a-2d. At last, <i>ykkC</i> subtype 2c RNAs were proved to recognize adenosine and cytidine 5′-diphosphate molecules in either their ribose or deoxyribose forms (ADP, dADP, CDP, and dCDP)<sup>[2-4]</sup>.</font>
+<font >The <i>ykkC</i> RNAs were initially found in 2004 and in 2017,<i>ykkC</i> subtype 2 RNAs were separated from <i>ykkC</i> RNAs. Further analysis of the RNA sequences and consensus models of <i>ykkC</i> subtype 2 RNAs, and the assessment of the diverse types of genes found downstream of these RNAs, revealed that there are probably at least four additional distinct riboswitch classes present within the <i>ykkC</i> subtype 2 collection, termed <i>ykkC</i> subtypes 2a-2d. At last, <i>ykkC</i> subtype 2c RNAs were proved to recognize adenosine and cytidine 5′-diphosphate molecules in either their ribose or deoxyribose forms (ADP, dADP, CDP, and dCDP)<sup>[2-4]</sup>.</font>
 <p><br /></p>
             
 > Gene association
         
-<font size="4">Nearly all <i>ykkC</i> subtype 2c RNAs are located upstream of genes encoding Nucleoside Diphosphate linked to X (NUDIX) hydrolases. NUDIX hydrolases make up a broad family of proteins that cleave the phosphoester bond between the <i>α</i>- and <i>β</i>-phosphate moieties of various nucleotide substrates. Some nucleoside di- and triphosphate substrates can carry a ribose or a deoxyribose moiety (gray shading)<sup>[4]</sup>.</font>
+<font >Nearly all <i>ykkC</i> subtype 2c RNAs are located upstream of genes encoding Nucleoside Diphosphate linked to X (NUDIX) hydrolases. NUDIX hydrolases make up a broad family of proteins that cleave the phosphoester bond between the <i>α</i>- and <i>β</i>-phosphate moieties of various nucleotide substrates. Some nucleoside di- and triphosphate substrates can carry a ribose or a deoxyribose moiety (gray shading)<sup>[4]</sup>.</font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;">
 <tr >
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
@@ -138,7 +139,7 @@ permalink: /docs/ADP/
                 
 > Gene regulation
             
-<font size="4"><p>Putative mechanisms for regulation of gene expression by ADP riboswitches<sup>[2, 4]</sup>.</p></font>
+<font ><p>Putative mechanisms for regulation of gene expression by ADP riboswitches<sup>[2, 4]</sup>.</p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
   <img src="/images/gene_regulation/ADP_riboswitch_gene_regulation.svg" alt="drawing" style="width:800px;margin-top: 0px;margin-bottom: 0px;" >
@@ -150,7 +151,7 @@ permalink: /docs/ADP/
 <p class="header_box" id="Structure and Ligand recognition">Structure and Ligand recognition</p>
 > 2D representation
         
-<font size=4>Left: Consensus sequence and secondary structure model for the PRA riboswitch. <sup>[4]</sup>.</font><br>
+<font >Left: Consensus sequence and secondary structure model for the PRA riboswitch. <sup>[4]</sup>.</font><br>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
 <head>
@@ -237,7 +238,7 @@ permalink: /docs/ADP/
                 
 > Ligand recognition
             
-<font size=4>
+<font >
 <p>Chemical structures of ADP, dADP, CDP and dCDP. The apparent K<sub>D</sub> of each compound is shown on bottom<sup>[4]</sup>.<br /><br /></p>
 </font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;">

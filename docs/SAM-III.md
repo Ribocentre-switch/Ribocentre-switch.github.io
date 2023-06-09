@@ -5,7 +5,7 @@ date:   2023-04-27 00:00:00
 author: Zhizhong Lu, Wenjian Liao
 permalink: /docs/SAM-III/
 ---
-<p style="font-size: 24px"><strong>Rfam ID: [RF01767](https://rfam.xfam.org/family/RF01767,target="_blank")(SMK box translational riboswitch (SAM-III))</strong> <br /></p>
+<p style="font-size: 24px"><strong>Rfam ID: [RF01767](https://rfam.xfam.org/family/RF01767,target="_blank")</strong> (SMK box translational riboswitch (SAM-III))<br /></p>
 
 <br />
 <html>
@@ -24,6 +24,7 @@ permalink: /docs/SAM-III/
     .button {
       display: block;
       padding: 10px;
+      font-size:24px;
       margin-right: 10px;
       text-align: center;
       background-color: #efefef;
@@ -43,7 +44,7 @@ permalink: /docs/SAM-III/
   </style>
 </head>
 <body>
-  <p style="font-size: 24px">Click into different sections:</p>
+  <p style="font-size: 16px">Click into different sections:</p>
   
   <div class="button-container">
     <a class="button" href="#timeline" style="bold">Timeline</a>
@@ -61,7 +62,7 @@ permalink: /docs/SAM-III/
   .header_box {
     border: none;
     background: #efefef;
-    font-size:28px
+    font-size:24px
   }
   blockquote {
   margin: 0 0 0px;
@@ -153,12 +154,12 @@ permalink: /docs/SAM-III/
 <p><br /></p>
         
 <p class="header_box" id="description">Description</p>
-<font size="4">The S<sub>MK</sub>box riboswitch (also known as SAM-III) is an RNA element that regulates gene expression in bacteria. The S<sub>MK</sub> box riboswitch is found in the 5' UTR of the <i>MetK</i> gene in lactic acid bacteria. The structure of this element changes upon binding to S-adenosyl methionine (SAM) to a conformation that blocks the shine-dalgarno sequence and blocks translation of the gene.There are other known SAM-binding riboswitches such as SAM-I and SAM-II, but these appear to share no similarity in sequence or structure to SAM-III. (from WiKi)<sup></sup>.</font>
+<font >The S<sub>MK</sub>box riboswitch (also known as SAM-III) is an RNA element that regulates gene expression in bacteria. The S<sub>MK</sub> box riboswitch is found in the 5' UTR of the <i>MetK</i> gene in lactic acid bacteria. The structure of this element changes upon binding to S-adenosyl methionine (SAM) to a conformation that blocks the shine-dalgarno sequence and blocks translation of the gene.There are other known SAM-binding riboswitches such as SAM-I and SAM-II, but these appear to share no similarity in sequence or structure to SAM-III. (from WiKi)<sup></sup>.</font>
 <p><br /></p>
             
 > Gene association
         
-<font size="4">Pathways for sulphate assimilation and biosynthesis of cysteine and methionine. SAM-III riboswitch (red bar) is involved in multiple gene regulation in the synthetic pathway<sup>[1]</sup>.</font>
+<font >Pathways for sulphate assimilation and biosynthesis of cysteine and methionine. SAM-III riboswitch (red bar) is involved in multiple gene regulation in the synthetic pathway<sup>[1]</sup>.</font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;">
 <tr >
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
@@ -170,7 +171,7 @@ permalink: /docs/SAM-III/
                 
 > Gene regulation
             
-<font size="4"><p>Translation mechanism of the <i>E.faecalis</i> S<sub>MK</sub> box/SAM-III riboswitch,the AUG start codon of <i>metK</i> is indicated in yellow, SD sequence (green) is accessible for translation initiation<sup>[5]</sup>.</p></font>
+<font ><p>Translation mechanism of the <i>E.faecalis</i> S<sub>MK</sub> box/SAM-III riboswitch,the AUG start codon of <i>metK</i> is indicated in yellow, SD sequence (green) is accessible for translation initiation<sup>[5]</sup>.</p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
   <img src="/images/gene_regulation/SAM-III_riboswitch_gene_regulation.svg" alt="drawing" style="width:800px;margin-top: 0px;margin-bottom: 0px;" >
@@ -182,7 +183,7 @@ permalink: /docs/SAM-III/
 <p class="header_box" id="Structure and Ligand recognition">Structure and Ligand recognition</p>
 > 2D representation
         
-<font size=4>Left: Consensus sequence and secondary structure model for the SAM-III riboswitch. Right: Secondary structure depictions of the SAM-III riboswitch according to PDB ID:3e5c<sup></sup>.</font><br>
+<font >Left: Consensus sequence and secondary structure model for the SAM-III riboswitch. Right: Secondary structure depictions of the SAM-III riboswitch according to PDB ID:3e5c<sup></sup>.</font><br>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
 <head>
@@ -265,7 +266,7 @@ permalink: /docs/SAM-III/
                 
 > 3D visualisation
             
-<font size=4>2.25-Å resolution crystal structure of an S-adenosylmethionine (SAM) riboswitch from thermoanaerobacter tengcongensis complexed with S-adenosylmethionine.SAM (shown in sticks) is labeled in red <sup>[3]</sup>.</font>
+<font >2.25-Å resolution crystal structure of an S-adenosylmethionine (SAM) riboswitch from thermoanaerobacter tengcongensis complexed with S-adenosylmethionine.SAM (shown in sticks) is labeled in red <sup>[3]</sup>.</font>
   <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
   <img src="/images/3D/SAM-III_riboswitch_3D.svg" alt="drawing" style="width:400px;height:400px;margin-top: 0px;margin-bottom: 0px;" >
@@ -397,7 +398,7 @@ permalink: /docs/SAM-III/
                 
 > Binding pocket
                 
-<font size=4><p>Left: Surface representation of the binding pocket of the SAM-III riboswitch generated from PDB ID:3E5C. S-adenosylmethionine (SAM) (shown in sticks) is labeled in red.Right: Hydrogen bonding between SAM and adjacent bases<sup>[3]</sup>.<br /></p></font>
+<font ><p>Left: Surface representation of the binding pocket of the SAM-III riboswitch generated from PDB ID:3E5C. S-adenosylmethionine (SAM) (shown in sticks) is labeled in red.Right: Hydrogen bonding between SAM and adjacent bases<sup>[3]</sup>.<br /></p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/SAM-III_riboswitch_binding_pockets1.svg" alt="drawing" style="width:400px"  px="" /></td>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/SAM-III_riboswitch_binding_pockets2.svg" alt="drawing" style="width:400px"  px="" /></td>
@@ -407,7 +408,7 @@ permalink: /docs/SAM-III/
                     
 > Ligand recognition
             
-<font size=4>
+<font >
 <p>Chemical structures of various compounds used to probe the binding characteristics of the SAM-III riboswitch<sup>[6]</sup>.<br /><br /></p>
 </font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;">

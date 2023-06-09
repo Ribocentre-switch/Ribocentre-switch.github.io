@@ -5,7 +5,7 @@ date:   2023-04-15 00:00:00
 author: Xuemei Peng, Xiaoxue Chen
 permalink: /docs/NAD/
 ---
-<p style="font-size: 24px"><strong>Rfam ID: [RF03013](https://rfam.xfam.org/family/RF03013,target="_blank")(nadA RNA)</strong> <br /></p>
+<p style="font-size: 24px"><strong>Rfam ID: [RF03013](https://rfam.xfam.org/family/RF03013,target="_blank")</strong> (nadA RNA)<br /></p>
 
 <br />
 <html>
@@ -24,6 +24,7 @@ permalink: /docs/NAD/
     .button {
       display: block;
       padding: 10px;
+      font-size:24px;
       margin-right: 10px;
       text-align: center;
       background-color: #efefef;
@@ -43,7 +44,7 @@ permalink: /docs/NAD/
   </style>
 </head>
 <body>
-  <p style="font-size: 24px">Click into different sections:</p>
+  <p style="font-size: 16px">Click into different sections:</p>
   
   <div class="button-container">
     <a class="button" href="#timeline" style="bold">Timeline</a>
@@ -61,7 +62,7 @@ permalink: /docs/NAD/
   .header_box {
     border: none;
     background: #efefef;
-    font-size:28px
+    font-size:24px
   }
   blockquote {
   margin: 0 0 0px;
@@ -121,12 +122,12 @@ permalink: /docs/NAD/
 <p><br /></p>
         
 <p class="header_box" id="description">Description</p>
-<font size="4">NAD<sup>+</sup>-I riboswitch is the first class of riboswitches that recognize NAD<sup>+</sup>. It is usually located upstream of nadA genes  within the phylum Acidobacteria, which encode quinolinate synthetase, an enzyme that performs a step in NAD<sup>+</sup> synthesis. For these reasons it was inferred that the RNAs function as riboswitches<sup></sup>.</font>
+<font >NAD<sup>+</sup>-I riboswitch is the first class of riboswitches that recognize NAD<sup>+</sup>. It is usually located upstream of nadA genes  within the phylum Acidobacteria, which encode quinolinate synthetase, an enzyme that performs a step in NAD<sup>+</sup> synthesis. For these reasons it was inferred that the RNAs function as riboswitches<sup></sup>.</font>
 <p><br /></p>
             
 > Gene association
         
-<font size="4">Biosynthetic pathway of NAD<sup>+</sup>and related molecules. All NAD<sup>+</sup>-I riboswitch representatives are found exclusively upstream of nadA genes<sup>[2]</sup>.</font>
+<font >Biosynthetic pathway of NAD<sup>+</sup>and related molecules. All NAD<sup>+</sup>-I riboswitch representatives are found exclusively upstream of nadA genes<sup>[2]</sup>.</font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;">
 <tr >
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
@@ -141,7 +142,7 @@ permalink: /docs/NAD/
 <p class="header_box" id="Structure and Ligand recognition">Structure and Ligand recognition</p>
 > 2D representation
         
-<font size=4>(Left) Consensus sequence and secondary structure model for the NAD-I riboswitch. (Right) Secondary structure depictions of the NAD-I riboswitch according to PDB ID:7DB1<sup>[1,4]</sup>.</font><br>
+<font >(Left) Consensus sequence and secondary structure model for the NAD-I riboswitch. (Right) Secondary structure depictions of the NAD-I riboswitch according to PDB ID:7DB1<sup>[1,4]</sup>.</font><br>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
 <head>
@@ -224,7 +225,7 @@ permalink: /docs/NAD/
                 
 > 3D visualisation
             
-<font size=4>Crystal structure of the domain 1 of NAD<sup>+</sup>-I riboswitch <sup>[3]</sup>.</font>
+<font >Crystal structure of the domain 1 of NAD<sup>+</sup>-I riboswitch <sup>[3]</sup>.</font>
   <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
   <img src="/images/3D/NAD+-I_riboswitvh_3D.svg" alt="drawing" style="width:400px;height:400px;margin-top: 0px;margin-bottom: 0px;" >
@@ -357,7 +358,7 @@ permalink: /docs/NAD/
                 
 > Binding pocket
                 
-<font size=4><p>(Left) Surface representation of the binding pocket of the the domain 1 and 2 of NAD-I riboswitch generated from PDB ID:6TFF and 6DB1. NAD+ (shown in sticks) is labeled in red. (Right) The hydrogen bonds of the two binding sites of the NAD-I riboswitch bound with NAD+<sup>[3-4]</sup>.<br /></p></font>
+<font ><p>(Left) Surface representation of the binding pocket of the the domain 1 and 2 of NAD-I riboswitch generated from PDB ID:6TFF and 6DB1. NAD+ (shown in sticks) is labeled in red. (Right) The hydrogen bonds of the two binding sites of the NAD-I riboswitch bound with NAD+<sup>[3-4]</sup>.<br /></p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/NAD+-I_riboswitch_binding_pockets.svg" alt="drawing" style="width:400px"  px="" /></td>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/" alt="drawing" style="width:400px"  px="" /></td>
@@ -367,7 +368,7 @@ permalink: /docs/NAD/
                     
 > Ligand recognition
             
-<font size=4>
+<font >
 <p>Chemical structures of NAD<sup>+</sup> and its analogs. The apparent KD of each compound of NAD<sup>+</sup>-I riboswitch is shown on bottom<sup>[2]</sup>.<br /><br /></p>
 </font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;">

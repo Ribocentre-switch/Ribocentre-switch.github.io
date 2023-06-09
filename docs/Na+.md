@@ -5,7 +5,7 @@ date:   2023-05-23 00:00:00
 author: Yuanlin He, Xiaowei Lin
 permalink: /docs/Na/
 ---
-<p style="font-size: 24px"><strong>Rfam ID: [RF03071](https://rfam.xfam.org/family/RF03071,target="_blank")(Na+ riboswitch (DUF1646 RNA))</strong> <br /></p>
+<p style="font-size: 24px"><strong>Rfam ID: [RF03071](https://rfam.xfam.org/family/RF03071,target="_blank")</strong> (Na+ riboswitch (DUF1646 RNA))<br /></p>
 
 <br />
 <html>
@@ -24,6 +24,7 @@ permalink: /docs/Na/
     .button {
       display: block;
       padding: 10px;
+      font-size:24px;
       margin-right: 10px;
       text-align: center;
       background-color: #efefef;
@@ -43,7 +44,7 @@ permalink: /docs/Na/
   </style>
 </head>
 <body>
-  <p style="font-size: 24px">Click into different sections:</p>
+  <p style="font-size: 16px">Click into different sections:</p>
   
   <div class="button-container">
     <a class="button" href="#timeline" style="bold">Timeline</a>
@@ -61,7 +62,7 @@ permalink: /docs/Na/
   .header_box {
     border: none;
     background: #efefef;
-    font-size:28px
+    font-size:24px
   }
   blockquote {
   margin: 0 0 0px;
@@ -105,14 +106,14 @@ permalink: /docs/Na/
 <p><br /></p>
         
 <p class="header_box" id="description">Description</p>
-<font size="4">The DUF1646 RNA motif is a conserved RNA structure that was discovered by bioinformatics. One of the two DUF1646 RNAs in <i>Enterococcus faecalis</i> was independently detected by term-seq. Data from both discoveries suggest that DUF1646 RNAs are cis-regulatory RNAss, and that at least some DUF1646 RNAs use Rho-independent transcription terminators as their mechanism to regulate gene expression.
+<font >The DUF1646 RNA motif is a conserved RNA structure that was discovered by bioinformatics. One of the two DUF1646 RNAs in <i>Enterococcus faecalis</i> was independently detected by term-seq. Data from both discoveries suggest that DUF1646 RNAs are cis-regulatory RNAss, and that at least some DUF1646 RNAs use Rho-independent transcription terminators as their mechanism to regulate gene expression.
 The genes apparently regulated by DUF1646 RNAs are often related to the transportation of sodium ions. Among the two most commonly regulated gene classes are those encoding sodium/proton antiporters whose relationship to sodium ion transport is obvious. The other highly common gene class encodes proteins containing a DUF1646 domain, whose biochemical and biological function is unknown. Also regulated are genes encoding proteins that transport sodium using ATP, as well as genes encoding oxaloacetate carboxyltransferase. The reaction catalyzed by oxaloacetate carboxyltransferase is tied to transporting a sodium ion across the membrane. DUF1646 RNAs rarely occur upstream of c-di-AMP riboswitches, and in these cases they apparently regulate genes that are typical for c-di-AMP signalling. In these cases, the association to sodium is at least not direct.
 A DUF1646 RNA occurs upstream of an operon in <i>Enterococcus</i> hirae that was shown to regulate the downstream genes based on sodium ion concentrations. However, it is unclear whether this DUF1646 RNA participates in sodium-based gene regulation (From Wikipedia)<sup></sup>.</font>
 <p><br /></p>
             
 > Gene association
         
-<font size="4">Existing annotations of the protein products whose genes are associated with DUF1646 motif RNAs<sup>[2]</sup>.</font>
+<font >Existing annotations of the protein products whose genes are associated with DUF1646 motif RNAs<sup>[2]</sup>.</font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;">
 <tr >
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
@@ -127,7 +128,7 @@ A DUF1646 RNA occurs upstream of an operon in <i>Enterococcus</i> hirae that was
 <p class="header_box" id="Structure and Ligand recognition">Structure and Ligand recognition</p>
 > 2D representation
         
-<font size=4>Consensus secondary structure and sequence conservation of DUF1646 RNA<sup>[2]</sup>.</font><br>
+<font >Consensus secondary structure and sequence conservation of DUF1646 RNA<sup>[2]</sup>.</font><br>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
 <head>
@@ -214,7 +215,7 @@ A DUF1646 RNA occurs upstream of an operon in <i>Enterococcus</i> hirae that was
                 
 > Ligand recognition
             
-<font size=4>
+<font >
 <p>Na+ riboswitches exhibit dissociation constants in the low mM range, and strongly reject all other alkali and alkaline earth ions<sup>[2]</sup>.<br /><br /></p>
 </font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;">

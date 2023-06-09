@@ -5,7 +5,7 @@ date:   2023-04-23 00:00:00
 author: Yuanyin Huang, Xiaowei Lin
 permalink: /docs/Lysine/
 ---
-<p style="font-size: 24px"><strong>Rfam ID: [RF00168](https://rfam.xfam.org/family/RF00168,target="_blank")(Lysine riboswitch)</strong> <br /></p>
+<p style="font-size: 24px"><strong>Rfam ID: [RF00168](https://rfam.xfam.org/family/RF00168,target="_blank")</strong> (Lysine riboswitch)<br /></p>
 
 <br />
 <html>
@@ -24,6 +24,7 @@ permalink: /docs/Lysine/
     .button {
       display: block;
       padding: 10px;
+      font-size:24px;
       margin-right: 10px;
       text-align: center;
       background-color: #efefef;
@@ -43,7 +44,7 @@ permalink: /docs/Lysine/
   </style>
 </head>
 <body>
-  <p style="font-size: 24px">Click into different sections:</p>
+  <p style="font-size: 16px">Click into different sections:</p>
   
   <div class="button-container">
     <a class="button" href="#timeline" style="bold">Timeline</a>
@@ -61,7 +62,7 @@ permalink: /docs/Lysine/
   .header_box {
     border: none;
     background: #efefef;
-    font-size:28px
+    font-size:24px
   }
   blockquote {
   margin: 0 0 0px;
@@ -209,12 +210,12 @@ permalink: /docs/Lysine/
 <p><br /></p>
         
 <p class="header_box" id="description">Description</p>
-<font size="4">The Lysine riboswitch is a metabolite binding RNA element found within certain messenger RNAs that serve as a precision sensor for the amino acid lysine. Allosteric rearrangement of mRNA structure is mediated by ligand binding, and this results in modulation of gene expression. Lysine riboswitch are most abundant in Bacillota and Gammaproteobacteria where they are found upstream of a number of genes involved in lysine biosynthesis, transport and catabolism. The lysine riboswitch has also been identified independently and called the L box<sup></sup>.</font>
+<font >The Lysine riboswitch is a metabolite binding RNA element found within certain messenger RNAs that serve as a precision sensor for the amino acid lysine. Allosteric rearrangement of mRNA structure is mediated by ligand binding, and this results in modulation of gene expression. Lysine riboswitch are most abundant in Bacillota and Gammaproteobacteria where they are found upstream of a number of genes involved in lysine biosynthesis, transport and catabolism. The lysine riboswitch has also been identified independently and called the L box<sup></sup>.</font>
 <p><br /></p>
             
 > Gene association
         
-<font size="4">The pathway of lysine riboswitches regulating lysine synthesis<sup>[2]</sup>.</font>
+<font >The pathway of lysine riboswitches regulating lysine synthesis<sup>[2]</sup>.</font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;">
 <tr >
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
@@ -226,7 +227,7 @@ permalink: /docs/Lysine/
                 
 > Gene regulation
             
-<font size="4"><p>Potential mechanism of translation regulation by lysine riboswitch<sup>[2]</sup>.</p></font>
+<font ><p>Potential mechanism of translation regulation by lysine riboswitch<sup>[2]</sup>.</p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
   <img src="/images/gene_regulation/Lysine_riboswitch_gene_regulation.svg" alt="drawing" style="width:800px;margin-top: 0px;margin-bottom: 0px;" >
@@ -238,7 +239,7 @@ permalink: /docs/Lysine/
 <p class="header_box" id="Structure and Ligand recognition">Structure and Ligand recognition</p>
 > 2D representation
         
-<font size=4>(Left) Consensus sequence and secondary structure model for lysine riboswitch. (Right) Secondary structure depictions of  lysine riboswitch according to PDB ID:3DIL<sup>[1,6]</sup>.</font><br>
+<font >(Left) Consensus sequence and secondary structure model for lysine riboswitch. (Right) Secondary structure depictions of  lysine riboswitch according to PDB ID:3DIL<sup>[1,6]</sup>.</font><br>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
 <head>
@@ -321,7 +322,7 @@ permalink: /docs/Lysine/
                 
 > 3D visualisation
             
-<font size=4>The overall structure of lysine riboswitch was generated from PDB ID:3DIL at 1.90 Å resolution bound with lysine.  Lysine (shown in sticks) is labeled in red <sup>[6]</sup>.</font>
+<font >The overall structure of lysine riboswitch was generated from PDB ID:3DIL at 1.90 Å resolution bound with lysine.  Lysine (shown in sticks) is labeled in red <sup>[6]</sup>.</font>
   <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
   <img src="/images/3D/Lysine_riboswitch_3D1.svg" alt="drawing" style="width:400px;height:400px;margin-top: 0px;margin-bottom: 0px;" >
@@ -442,7 +443,7 @@ permalink: /docs/Lysine/
                 
 > Binding pocket
                 
-<font size=4><p>(Left) Surface representation of the binding pocket of lysine riboswitch generated from PDB ID:3DIL. Lysine (shown in sticks) is labeled in red. (Right) The hydrogen bonds of the binding site of lysine  riboswitch bound with lysine<sup>[6]</sup>.<br /></p></font>
+<font ><p>(Left) Surface representation of the binding pocket of lysine riboswitch generated from PDB ID:3DIL. Lysine (shown in sticks) is labeled in red. (Right) The hydrogen bonds of the binding site of lysine  riboswitch bound with lysine<sup>[6]</sup>.<br /></p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/Lysine_riboswitch_binding_pockets1.svg" alt="drawing" style="width:400px"  px="" /></td>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/Lysine_riboswitch_binding_pockets2.svg" alt="drawing" style="width:400px"  px="" /></td>
@@ -452,7 +453,7 @@ permalink: /docs/Lysine/
                     
 > Ligand recognition
             
-<font size=4>
+<font >
 <p>Chemical structures of lysine and its analogs. The apparent KD of each compound of lysine riboswitch is shown on bottom<sup>[1,4]</sup>.<br /><br /></p>
 </font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;">

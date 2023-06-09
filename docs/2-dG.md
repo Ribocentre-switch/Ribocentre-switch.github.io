@@ -5,7 +5,7 @@ date:   2023-04-26 00:00:00
 author: Wenjian Liao
 permalink: /docs/2-dG/
 ---
-<p style="font-size: 24px"><strong>Rfam ID: [RF00167](https://rfam.xfam.org/family/RF00167,target="_blank")(Purine riboswitch)</strong> <br /></p>
+<p style="font-size: 24px"><strong>Rfam ID: [RF00167](https://rfam.xfam.org/family/RF00167,target="_blank")</strong> (Purine riboswitch)<br /></p>
 <p style="font-size: 24px"><strong>&emsp;&emsp;&emsp;&emsp;[RF03165](https://rfam.xfam.org/family/RF03165,target="_blank")(2dG-II)</strong> <br /></p>
 
 <br />
@@ -25,6 +25,7 @@ permalink: /docs/2-dG/
     .button {
       display: block;
       padding: 10px;
+      font-size:24px;
       margin-right: 10px;
       text-align: center;
       background-color: #efefef;
@@ -44,7 +45,7 @@ permalink: /docs/2-dG/
   </style>
 </head>
 <body>
-  <p style="font-size: 24px">Click into different sections:</p>
+  <p style="font-size: 16px">Click into different sections:</p>
   
   <div class="button-container">
     <a class="button" href="#timeline" style="bold">Timeline</a>
@@ -62,7 +63,7 @@ permalink: /docs/2-dG/
   .header_box {
     border: none;
     background: #efefef;
-    font-size:28px
+    font-size:24px
   }
   blockquote {
   margin: 0 0 0px;
@@ -130,12 +131,12 @@ permalink: /docs/2-dG/
 <p><br /></p>
         
 <p class="header_box" id="description">Description</p>
-<font size="4">Carrying an aptamer domain similar in sequence and secondary structure to the guanine riboswitch, the 2'-dG riboswitch exhibits improved affinities for 2'-deoxyguanosine (2'-dG), 3'-deoxyguanosine (3'-dG) and guanosine, and contains a uracil ribonucleotide in a conserved position of the ligand-binding aptamer domain. Up to now, three classes of 2'-dG riboswitches, named 2'-dG-I, 2'-dG-II and 2'-dG-III, have been identified, wherein the first two classes of 2'-dG riboswitches have atomic-resolution structural models<sup>[2-6]</sup>.</font>
+<font >Carrying an aptamer domain similar in sequence and secondary structure to the guanine riboswitch, the 2'-dG riboswitch exhibits improved affinities for 2'-deoxyguanosine (2'-dG), 3'-deoxyguanosine (3'-dG) and guanosine, and contains a uracil ribonucleotide in a conserved position of the ligand-binding aptamer domain. Up to now, three classes of 2'-dG riboswitches, named 2'-dG-I, 2'-dG-II and 2'-dG-III, have been identified, wherein the first two classes of 2'-dG riboswitches have atomic-resolution structural models<sup>[2-6]</sup>.</font>
 <p><br /></p>
             
 > Gene association
         
-<font size="4">The gene associateds with 2'-dG-I, 2'-dG-II and 2'-dG-III RNAs are different from each other. 2'-dG-I RNAs are associated with genes annotated as ribonucleotide reductase. Genes located downstream from 2'-dG-II RNAs are predicted to encode a signal receiver domain, endonuclease I, phospholipase D, and ComEC. ComEC is a competence protein involved in importing foreign DNA and endonuclease I could mitigate a lack of 2'-dG by salvaging deoxyribonuc. 2'-dG-III RNAs are associated with genes encoding for purine nucleoside hydrolase, which uses nucleosides as substrates and produces free nucleobases as products<sup>[2,4,6]</sup>.</font>
+<font >The gene associateds with 2'-dG-I, 2'-dG-II and 2'-dG-III RNAs are different from each other. 2'-dG-I RNAs are associated with genes annotated as ribonucleotide reductase. Genes located downstream from 2'-dG-II RNAs are predicted to encode a signal receiver domain, endonuclease I, phospholipase D, and ComEC. ComEC is a competence protein involved in importing foreign DNA and endonuclease I could mitigate a lack of 2'-dG by salvaging deoxyribonuc. 2'-dG-III RNAs are associated with genes encoding for purine nucleoside hydrolase, which uses nucleosides as substrates and produces free nucleobases as products<sup>[2,4,6]</sup>.</font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;">
 <tr >
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
@@ -147,7 +148,7 @@ permalink: /docs/2-dG/
                 
 > Gene regulation
             
-<font size="4"><p>Putative mechanisms for regulation of gene expression by 2'-dG riboswitch<sup>[2,4,6]</sup>.</p></font>
+<font ><p>Putative mechanisms for regulation of gene expression by 2'-dG riboswitch<sup>[2,4,6]</sup>.</p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
   <img src="/images/gene_regulation/2-dG_riboswitch_gene_regulation1.svg" alt="drawing" style="width:800px;margin-top: 0px;margin-bottom: 0px;" >
@@ -159,7 +160,7 @@ permalink: /docs/2-dG/
 <p class="header_box" id="Structure and Ligand recognition">Structure and Ligand recognition</p>
 > 2D representation
         
-<font size=4>Left: Consensus sequence and secondary structure model for riboswitches that recognize purines, which are dominated by guanine riboswitches. Right: Secondary structure depictions of the 2'-dG-II riboswitch according to PDB ID: 6P2H<sup>[1, 4, 6]</sup>.</font><br>
+<font >Left: Consensus sequence and secondary structure model for riboswitches that recognize purines, which are dominated by guanine riboswitches. Right: Secondary structure depictions of the 2'-dG-II riboswitch according to PDB ID: 6P2H<sup>[1, 4, 6]</sup>.</font><br>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
 <head>
@@ -242,7 +243,7 @@ permalink: /docs/2-dG/
                 
 > 3D visualisation
             
-<font size=4>The overall structure of the 2'-dG-I riboswitch was generated from PDB ID: 3SKI at 2.30 Å resolution bound with 2'-dG. 2'-dG (shown in sticks) is labeled in red <sup>[3]</sup>.</font>
+<font >The overall structure of the 2'-dG-I riboswitch was generated from PDB ID: 3SKI at 2.30 Å resolution bound with 2'-dG. 2'-dG (shown in sticks) is labeled in red <sup>[3]</sup>.</font>
   <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
   <img src="/images/3D/2-dG_riboswitch_3D1.svg" alt="drawing" style="width:400px;height:400px;margin-top: 0px;margin-bottom: 0px;" >
@@ -391,7 +392,7 @@ permalink: /docs/2-dG/
   </tr></table><br>
   <p><br /></p>
                 
-<font size=4>The overall structure of the 2'-dG-II riboswitch was generated from PDB ID: 6P2H at 2.80 Å resolution bound with 2'-dG. 2'-dG (shown in sticks) is labeled in red <sup>[5]</sup>.</font>
+<font >The overall structure of the 2'-dG-II riboswitch was generated from PDB ID: 6P2H at 2.80 Å resolution bound with 2'-dG. 2'-dG (shown in sticks) is labeled in red <sup>[5]</sup>.</font>
   <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
   <img src="/images/3D/2-dG_riboswitch_3D2.svg" alt="drawing" style="width:400px;height:400px;margin-top: 0px;margin-bottom: 0px;" >
@@ -542,7 +543,7 @@ permalink: /docs/2-dG/
                 
 > Binding pocket
                 
-<font size=4><p>Left: Surface representation of the binding pocket of the 2'-dG-I riboswitch generated from PDB ID: 3SKI. 2'-dG (shown in sticks) is labeled in red. Right: The hydrogen bonds of the binding sites of the 2'-dG-I riboswitch bound with 2'-dG<sup>[3]</sup>.<br /></p></font>
+<font ><p>Left: Surface representation of the binding pocket of the 2'-dG-I riboswitch generated from PDB ID: 3SKI. 2'-dG (shown in sticks) is labeled in red. Right: The hydrogen bonds of the binding sites of the 2'-dG-I riboswitch bound with 2'-dG<sup>[3]</sup>.<br /></p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/2-dG_riboswitch_binding_pockets1.svg" alt="drawing" style="width:400px"  px="" /></td>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/2-dG_riboswitch_binding_pockets2.svg" alt="drawing" style="width:400px"  px="" /></td>
@@ -550,7 +551,7 @@ permalink: /docs/2-dG/
 </table>
 <p><br /></p>
                     
-<font size=4><p>Left: Surface representation of the binding pocket of the 2'-dG-II riboswitch generated from PDB ID: 6P2H. 2'-dG (shown in sticks) is labeled in red. Right: The hydrogen bonds of the binding sites of the 2'-dG-II riboswitch bound with 2'-dG<sup>[5]</sup>.<br /></p></font>
+<font ><p>Left: Surface representation of the binding pocket of the 2'-dG-II riboswitch generated from PDB ID: 6P2H. 2'-dG (shown in sticks) is labeled in red. Right: The hydrogen bonds of the binding sites of the 2'-dG-II riboswitch bound with 2'-dG<sup>[5]</sup>.<br /></p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/2-dG_riboswitch_binding_pockets3.svg" alt="drawing" style="width:400px"  px="" /></td>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/2-dG_riboswitch_binding_pockets4.svg" alt="drawing" style="width:400px"  px="" /></td>
@@ -560,7 +561,7 @@ permalink: /docs/2-dG/
                     
 > Ligand recognition
             
-<font size=4>
+<font >
 <p>Chemical structures of 2'-dG and its analogs. The apparent K<sub>D</sub> of each compound of three classes of 2-dG riboswitches is shown on bottom<sup>[2, 4, 6]</sup>.<br /><br /></p>
 </font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;">

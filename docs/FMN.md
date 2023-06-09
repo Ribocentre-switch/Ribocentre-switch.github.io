@@ -5,7 +5,7 @@ date:   2023-04-10 00:00:00
 author: Xiaowei Lin, Yuanyin Huang
 permalink: /docs/FMN/
 ---
-<p style="font-size: 24px"><strong>Rfam ID: [RF00050](https://rfam.xfam.org/family/RF00050,target="_blank")(FMN riboswitch (RFN element))</strong> <br /></p>
+<p style="font-size: 24px"><strong>Rfam ID: [RF00050](https://rfam.xfam.org/family/RF00050,target="_blank")</strong> (FMN riboswitch (RFN element))<br /></p>
 
 <br />
 <html>
@@ -24,6 +24,7 @@ permalink: /docs/FMN/
     .button {
       display: block;
       padding: 10px;
+      font-size:24px;
       margin-right: 10px;
       text-align: center;
       background-color: #efefef;
@@ -43,7 +44,7 @@ permalink: /docs/FMN/
   </style>
 </head>
 <body>
-  <p style="font-size: 24px">Click into different sections:</p>
+  <p style="font-size: 16px">Click into different sections:</p>
   
   <div class="button-container">
     <a class="button" href="#timeline" style="bold">Timeline</a>
@@ -61,7 +62,7 @@ permalink: /docs/FMN/
   .header_box {
     border: none;
     background: #efefef;
-    font-size:28px
+    font-size:24px
   }
   blockquote {
   margin: 0 0 0px;
@@ -193,12 +194,12 @@ permalink: /docs/FMN/
 <p><br /></p>
         
 <p class="header_box" id="description">Description</p>
-<font size="4">The FMN riboswitch (also known as RFN element) is a highly conserved RNA element which is naturally occurring, and is found frequently in the 5'-untranslated regions of prokaryotic mRNAs that encode for flavin mononucleotide (FMN) biosynthesis and transport proteins. This element is a metabolite-dependent riboswitch that directly binds FMN in the absence of proteins, thus giving it the ability to regulate RNA expression by responding to changes in the concentration of FMN. In <i>Bacillus subtilis</i>, previous studies have shown that this bacterium utilizes at least two FMN riboswitches, where one controls translation initiation, and the other controls premature transcription termination. Regarding the second riboswitch in Bacilius subtilis, premature transcription termination occurs within the 5' untranslated region of the ribDEAHT operon, precluding access to the ribosome-binding site of ypaA mRNA. FMN riboswitches also have various magnesium and potassium ions dispersed throughout the nucleotide structure, some of which participate in binding of FMN (From Wikipedia)<sup></sup>.</font>
+<font >The FMN riboswitch (also known as RFN element) is a highly conserved RNA element which is naturally occurring, and is found frequently in the 5'-untranslated regions of prokaryotic mRNAs that encode for flavin mononucleotide (FMN) biosynthesis and transport proteins. This element is a metabolite-dependent riboswitch that directly binds FMN in the absence of proteins, thus giving it the ability to regulate RNA expression by responding to changes in the concentration of FMN. In <i>Bacillus subtilis</i>, previous studies have shown that this bacterium utilizes at least two FMN riboswitches, where one controls translation initiation, and the other controls premature transcription termination. Regarding the second riboswitch in Bacilius subtilis, premature transcription termination occurs within the 5' untranslated region of the ribDEAHT operon, precluding access to the ribosome-binding site of ypaA mRNA. FMN riboswitches also have various magnesium and potassium ions dispersed throughout the nucleotide structure, some of which participate in binding of FMN (From Wikipedia)<sup></sup>.</font>
 <p><br /></p>
             
 > Gene association
         
-<font size="4">The riboflavin biosynthesis pathway in bacteria. The genes under contol of the FMN ribswtch are colored in red<sup>[2]</sup>.</font>
+<font >The riboflavin biosynthesis pathway in bacteria. The genes under contol of the FMN ribswtch are colored in red<sup>[2]</sup>.</font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;">
 <tr >
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
@@ -210,7 +211,7 @@ permalink: /docs/FMN/
                 
 > Gene regulation
             
-<font size="4"><p>Model for the FMN riboswitch to regulate gene expression. Shaded regions identify the putative anti-terminator structure that is disrupted after binding of FMN and formation of the P1 structure<sup>[2-3]</sup>.</p></font>
+<font ><p>Model for the FMN riboswitch to regulate gene expression. Shaded regions identify the putative anti-terminator structure that is disrupted after binding of FMN and formation of the P1 structure<sup>[2-3]</sup>.</p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
   <img src="/images/gene_regulation/FMN_riboswitch_gene_regulation.svg" alt="drawing" style="width:800px;margin-top: 0px;margin-bottom: 0px;" >
@@ -222,7 +223,7 @@ permalink: /docs/FMN/
 <p class="header_box" id="Structure and Ligand recognition">Structure and Ligand recognition</p>
 > 2D representation
         
-<font size=4>Left: Consensus sequence and secondary structure model for the FMN riboswitch. Right: Secondary structure depictions of the FMN riboswitch according to PDB ID: 3F2Q. The bound FMN is denoted in red<sup>[6]</sup>.</font><br>
+<font >Left: Consensus sequence and secondary structure model for the FMN riboswitch. Right: Secondary structure depictions of the FMN riboswitch according to PDB ID: 3F2Q. The bound FMN is denoted in red<sup>[6]</sup>.</font><br>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
 <head>
@@ -305,7 +306,7 @@ permalink: /docs/FMN/
                 
 > 3D visualisation
             
-<font size=4>The overall structure of the FMN riboswitch was generated from PDB ID: 3F2Q at 2.95 Å resolution bound with FMN. FMN (shown in sticks) is colored in red <sup>[6]</sup>.</font>
+<font >The overall structure of the FMN riboswitch was generated from PDB ID: 3F2Q at 2.95 Å resolution bound with FMN. FMN (shown in sticks) is colored in red <sup>[6]</sup>.</font>
   <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
   <img src="/images/3D/FMN_riboswitch_3D.svg" alt="drawing" style="width:400px;height:400px;margin-top: 0px;margin-bottom: 0px;" >
@@ -450,7 +451,7 @@ permalink: /docs/FMN/
                 
 > Binding pocket
                 
-<font size=4><p>Left: Surface representation of the binding pocket of the FMN riboswitch generated from PDB ID: 3F2Q. FMN (shown in sticks) is labeled in red. Right: The hydrogen bonds of the binding site of the FMN riboswitch bound with FMN<sup>[6]</sup>.<br /></p></font>
+<font ><p>Left: Surface representation of the binding pocket of the FMN riboswitch generated from PDB ID: 3F2Q. FMN (shown in sticks) is labeled in red. Right: The hydrogen bonds of the binding site of the FMN riboswitch bound with FMN<sup>[6]</sup>.<br /></p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/FMN_riboswitch_binding_pockets1.svg" alt="drawing" style="width:400px"  px="" /></td>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/FMN_riboswitch_binding_pockets2.svg" alt="drawing" style="width:400px"  px="" /></td>
@@ -460,7 +461,7 @@ permalink: /docs/FMN/
                     
 > Ligand recognition
             
-<font size=4>
+<font >
 <p>Chemical structures of FMN and its analogs. The apparent K<sub>D</sub>
  of each compound is shown on bottom<sup>[3,6,8-9]</sup>.<br /><br /></p>
 </font>

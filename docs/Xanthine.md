@@ -5,7 +5,7 @@ date:   20230403
 author: Mengxiao Li, Xuemei Peng
 permalink: /docs/Xanthine/
 ---
-<p style="font-size: 24px"><strong>Rfam ID: [RF03054](https://rfam.xfam.org/family/RF03054,target="_blank")(Xanthine riboswitch)</strong> <br /></p>
+<p style="font-size: 24px"><strong>Rfam ID: [RF03054](https://rfam.xfam.org/family/RF03054,target="_blank")</strong> (Xanthine riboswitch)<br /></p>
 
 <br />
 <html>
@@ -24,6 +24,7 @@ permalink: /docs/Xanthine/
     .button {
       display: block;
       padding: 10px;
+      font-size:24px;
       margin-right: 10px;
       text-align: center;
       background-color: #efefef;
@@ -43,7 +44,7 @@ permalink: /docs/Xanthine/
   </style>
 </head>
 <body>
-  <p style="font-size: 24px">Click into different sections:</p>
+  <p style="font-size: 16px">Click into different sections:</p>
   
   <div class="button-container">
     <a class="button" href="#timeline" style="bold">Timeline</a>
@@ -61,7 +62,7 @@ permalink: /docs/Xanthine/
   .header_box {
     border: none;
     background: #efefef;
-    font-size:28px
+    font-size:24px
   }
   blockquote {
   margin: 0 0 0px;
@@ -121,12 +122,12 @@ permalink: /docs/Xanthine/
 <p><br /></p>
         
 <p class="header_box" id="description">Description</p>
-<font size="4">There are currently two classes of xanthine riboswitches. The xanthine-I riboswitch, formerly known as the NMT1 motif RNA, is associated with genes annotated encoding various dioxygenases, transporters, or proteins, and tightly binds 8-azaxanthine, xanthine, and uric acid. It functions to shut down gene expression following ligand binding, possibly by regulating translation initiation. Xanthine-II riboswitch is a class of xanthine-sensing guanine riboswitch variants that are frequently associated with genes annotated to encode dioxygenase, allantoinase, and xanthine dehydrogenase. The structure of these RNAs is consistent with a genetic "ON" switch, in which ligand binding activates gene expression<sup>[2,4]</sup>.</font>
+<font >There are currently two classes of xanthine riboswitches. The xanthine-I riboswitch, formerly known as the NMT1 motif RNA, is associated with genes annotated encoding various dioxygenases, transporters, or proteins, and tightly binds 8-azaxanthine, xanthine, and uric acid. It functions to shut down gene expression following ligand binding, possibly by regulating translation initiation. Xanthine-II riboswitch is a class of xanthine-sensing guanine riboswitch variants that are frequently associated with genes annotated to encode dioxygenase, allantoinase, and xanthine dehydrogenase. The structure of these RNAs is consistent with a genetic "ON" switch, in which ligand binding activates gene expression<sup>[2,4]</sup>.</font>
 <p><br /></p>
             
 > Gene association
         
-<font size="4">Basic purine degradation and utilization pathways. Xanthine riboswitches participate in regulating the degradation or salvation of various purine compounds<sup>[2]</sup>.</font>
+<font >Basic purine degradation and utilization pathways. Xanthine riboswitches participate in regulating the degradation or salvation of various purine compounds<sup>[2]</sup>.</font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;">
 <tr >
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
@@ -138,7 +139,7 @@ permalink: /docs/Xanthine/
                 
 > Gene regulation
             
-<font size="4"><p>Sequence and secondary structure model of a xanthine-II riboswitch is consistent with a genetic “ON” switch wherein ligand binding would preclude formation of the terminator stem<sup>[4]</sup>.</p></font>
+<font ><p>Sequence and secondary structure model of a xanthine-II riboswitch is consistent with a genetic “ON” switch wherein ligand binding would preclude formation of the terminator stem<sup>[4]</sup>.</p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
   <img src="/images/gene_regulation/Xanthine-II_riboswitch_gene_regulation.svg" alt="drawing" style="width:800px;margin-top: 0px;margin-bottom: 0px;" >
@@ -150,7 +151,7 @@ permalink: /docs/Xanthine/
 <p class="header_box" id="Structure and Ligand recognition">Structure and Ligand recognition</p>
 > 2D representation
         
-<font size=4>(Left) Consensus sequence and secondary structure model for the xanthine-I riboswitch. (Right) Secondary structure depictions of the xanthine-I riboswitch according to PDB ID: 7ELR<sup>[2]</sup>.</font><br>
+<font >(Left) Consensus sequence and secondary structure model for the xanthine-I riboswitch. (Right) Secondary structure depictions of the xanthine-I riboswitch according to PDB ID: 7ELR<sup>[2]</sup>.</font><br>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
 <head>
@@ -231,7 +232,7 @@ permalink: /docs/Xanthine/
 </tr></table><br>
 <p><br /></p>
                 
-<font size=4>(Left) Consensus sequence and secondary structure model for the xanthine-II riboswitch. (Right) Sequence and secondary structure model of the xanthine-II (92 allB RNA) riboswitch<sup>[4]</sup>.</font><br>
+<font >(Left) Consensus sequence and secondary structure model for the xanthine-II riboswitch. (Right) Sequence and secondary structure model of the xanthine-II (92 allB RNA) riboswitch<sup>[4]</sup>.</font><br>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
 <head>
@@ -314,7 +315,7 @@ permalink: /docs/Xanthine/
                 
 > 3D visualisation
             
-<font size=4>The overall structure of the xanthine-I riboswitch was generated from PDB ID: 7ELR at 2.66 Å resolution bound with xanthine. Xanthine (shown in sticks) is labeled in red <sup>[3]</sup>.</font>
+<font >The overall structure of the xanthine-I riboswitch was generated from PDB ID: 7ELR at 2.66 Å resolution bound with xanthine. Xanthine (shown in sticks) is labeled in red <sup>[3]</sup>.</font>
   <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
   <img src="/images/3D/Xanthine-I_riboswitch_3D.svg" alt="drawing" style="width:400px;height:400px;margin-top: 0px;margin-bottom: 0px;" >
@@ -471,7 +472,7 @@ permalink: /docs/Xanthine/
                 
 > Binding pocket
                 
-<font size=4><p>(Left) Surface representation of the binding pocket of the xanthine-I riboswitch generated from PDB ID: 7ELR. Xanthine (shown in sticks) is labeled in red. (Right) Ligand interaction between xanthine and xanthine-I riboswitch<sup>[3]</sup>.<br /></p></font>
+<font ><p>(Left) Surface representation of the binding pocket of the xanthine-I riboswitch generated from PDB ID: 7ELR. Xanthine (shown in sticks) is labeled in red. (Right) Ligand interaction between xanthine and xanthine-I riboswitch<sup>[3]</sup>.<br /></p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/Xanthine-I_riboswitch_binding_pockets1.svg" alt="drawing" style="width:400px"  px="" /></td>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/Xanthine-I_riboswitch_binding_pockets2.svg" alt="drawing" style="width:400px"  px="" /></td>
@@ -481,7 +482,7 @@ permalink: /docs/Xanthine/
                     
 > Ligand recognition
             
-<font size=4>
+<font >
 <p>Chemical structures of xanthine and its analogs. The apparent K<sub>D</sub> of each compound of xanthine-I and xanthine-II riboswitch is shown on bottom<sup>[2,4]</sup>.<br /><br /></p>
 </font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;">

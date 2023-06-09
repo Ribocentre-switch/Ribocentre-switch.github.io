@@ -5,7 +5,7 @@ date:   2023-04-05 00:00:00
 author: Xiaowei Lin, Yuanyin Huang
 permalink: /docs/TPP/
 ---
-<p style="font-size: 24px"><strong>Rfam ID: [RF00059](https://rfam.xfam.org/family/RF00059,target="_blank")(TPP riboswitch (THI element))</strong> <br /></p>
+<p style="font-size: 24px"><strong>Rfam ID: [RF00059](https://rfam.xfam.org/family/RF00059,target="_blank")</strong> (TPP riboswitch (THI element))<br /></p>
 
 <br />
 <html>
@@ -24,6 +24,7 @@ permalink: /docs/TPP/
     .button {
       display: block;
       padding: 10px;
+      font-size:24px;
       margin-right: 10px;
       text-align: center;
       background-color: #efefef;
@@ -43,7 +44,7 @@ permalink: /docs/TPP/
   </style>
 </head>
 <body>
-  <p style="font-size: 24px">Click into different sections:</p>
+  <p style="font-size: 16px">Click into different sections:</p>
   
   <div class="button-container">
     <a class="button" href="#timeline" style="bold">Timeline</a>
@@ -61,7 +62,7 @@ permalink: /docs/TPP/
   .header_box {
     border: none;
     background: #efefef;
-    font-size:28px
+    font-size:24px
   }
   blockquote {
   margin: 0 0 0px;
@@ -177,12 +178,12 @@ permalink: /docs/TPP/
 <p><br /></p>
         
 <p class="header_box" id="description">Description</p>
-<font size="4">The TPP riboswitch, also known as the THI element and Thi-box riboswitch, is a highly conserved RNA secondary structure. It serves as a riboswitch that binds thiamine pyrophosphate (TPP) directly and modulates gene expression through a variety of mechanisms in archaea, bacteria and eukaryotes. TPP is the active form of thiamine (vitamin B1), an essential coenzyme synthesised by coupling of pyrimidine and thiazole moieties in bacteria. The THI element is an extension of a previously detected thiamin-regulatory element, the thi box, there is considerable variability in the predicted length and structures of the additional and facultative stem-loops represented in dark blue in the secondary structure diagram Analysis of operon structures has identified a large number of new candidate thiamin-regulated genes, mostly transporters, in various prokaryotic organisms. The x-ray crystal structure of the TPP riboswitch aptamer has been solved (From Wikipedia)<sup></sup>.</font>
+<font >The TPP riboswitch, also known as the THI element and Thi-box riboswitch, is a highly conserved RNA secondary structure. It serves as a riboswitch that binds thiamine pyrophosphate (TPP) directly and modulates gene expression through a variety of mechanisms in archaea, bacteria and eukaryotes. TPP is the active form of thiamine (vitamin B1), an essential coenzyme synthesised by coupling of pyrimidine and thiazole moieties in bacteria. The THI element is an extension of a previously detected thiamin-regulatory element, the thi box, there is considerable variability in the predicted length and structures of the additional and facultative stem-loops represented in dark blue in the secondary structure diagram Analysis of operon structures has identified a large number of new candidate thiamin-regulated genes, mostly transporters, in various prokaryotic organisms. The x-ray crystal structure of the TPP riboswitch aptamer has been solved (From Wikipedia)<sup></sup>.</font>
 <p><br /></p>
             
 > Gene association
         
-<font size="4">The biosynthetic pathway of TPP in <i>Bacillus subtilis</i>. The genes under contol of the TPP ribswtch are colored in red<sup>[1,20]</sup>.</font>
+<font >The biosynthetic pathway of TPP in <i>Bacillus subtilis</i>. The genes under contol of the TPP ribswtch are colored in red<sup>[1,20]</sup>.</font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;">
 <tr >
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
@@ -194,7 +195,7 @@ permalink: /docs/TPP/
                 
 > Gene regulation
             
-<font size="4"><p>Typical mechanisms of the TPP riboswitch to repress gene expression. Top: translation initiation regulation (<i>thiM</i> genes). Bottom: transcription termination regulation (<i>thiC</i> genes). Complementary sequences and alternate base-pairing are shown in cyan. SD sequence and initiation codon are shaded green. TPP and Mg2+ ions are depicted in red and pink, respectively<sup>[2,7-8]</sup>.</p></font>
+<font ><p>Typical mechanisms of the TPP riboswitch to repress gene expression. Top: translation initiation regulation (<i>thiM</i> genes). Bottom: transcription termination regulation (<i>thiC</i> genes). Complementary sequences and alternate base-pairing are shown in cyan. SD sequence and initiation codon are shaded green. TPP and Mg2+ ions are depicted in red and pink, respectively<sup>[2,7-8]</sup>.</p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
   <img src="/images/gene_regulation/TPP_riboswitch_gene_regulation.svg" alt="drawing" style="width:800px;margin-top: 0px;margin-bottom: 0px;" >
@@ -206,7 +207,7 @@ permalink: /docs/TPP/
 <p class="header_box" id="Structure and Ligand recognition">Structure and Ligand recognition</p>
 > 2D representation
         
-<font size=4>Left: Consensus sequence and secondary structure model for the TPP riboswitch. Right: Secondary structure depictions of the TPP riboswitch according to PDB ID: 2GDI. The bound TPP is denoted in red<sup>[9]</sup>.</font><br>
+<font >Left: Consensus sequence and secondary structure model for the TPP riboswitch. Right: Secondary structure depictions of the TPP riboswitch according to PDB ID: 2GDI. The bound TPP is denoted in red<sup>[9]</sup>.</font><br>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
 <head>
@@ -289,7 +290,7 @@ permalink: /docs/TPP/
                 
 > 3D visualisation
             
-<font size=4>The overall structure of the TPP riboswitch was generated from PDB ID: 2GDI at 2.05 Å resolution bound with TPP. TPP (shown in sticks) is colored in red <sup>[9]</sup>.</font>
+<font >The overall structure of the TPP riboswitch was generated from PDB ID: 2GDI at 2.05 Å resolution bound with TPP. TPP (shown in sticks) is colored in red <sup>[9]</sup>.</font>
   <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
   <img src="/images/3D/TPP_riboswitch_3D.svg" alt="drawing" style="width:400px;height:400px;margin-top: 0px;margin-bottom: 0px;" >
@@ -440,7 +441,7 @@ permalink: /docs/TPP/
                 
 > Binding pocket
                 
-<font size=4><p>Left: Surface representation of the binding pocket of the TPP riboswitch generated from PDB ID: 2GDI. TPP (shown in sticks) is colored in red. Right: The hydrogen bonds of the binding site of the  TPP riboswitch bound with TPP<sup>[9]</sup>.<br /></p></font>
+<font ><p>Left: Surface representation of the binding pocket of the TPP riboswitch generated from PDB ID: 2GDI. TPP (shown in sticks) is colored in red. Right: The hydrogen bonds of the binding site of the  TPP riboswitch bound with TPP<sup>[9]</sup>.<br /></p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/TPP_riboswitch_binding_pockets1.svg" alt="drawing" style="width:400px"  px="" /></td>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/TPP_riboswitch_binding_pockets2.svg" alt="drawing" style="width:400px"  px="" /></td>
@@ -450,7 +451,7 @@ permalink: /docs/TPP/
                     
 > Ligand recognition
             
-<font size=4>
+<font >
 <p>Chemical structures of TPP and its analogs. TP is thiamine monophosphate, PTPP is Pyrithiamine pyrophosphate. The apparent K<sub>D</sub> of each compound is shown on bottom<sup>[3,8-10,22-23]</sup>.<br /><br /></p>
 </font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;">
