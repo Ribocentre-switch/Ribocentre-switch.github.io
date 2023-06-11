@@ -1,5 +1,4 @@
-I"z6<h1 id="help">Help</h1>
-<h1 class="post-title" itemprop="name headline">Structure Updating</h1>
+I"26<h1 id="help">Help</h1>
 
 <p><br /><br />
 <strong>Ribocentre is designed to contain comprehensive information of all natural ribozymes. In addition to a brief introduction to ribozymes,on each ribozyme page, you’ll see a timeline of vital breakthroughs in ribozyme research,representative structures and the chemical mechanism of this ribozyme. Besides, we provide multiple indexing and searching methods, you can index/search about the publications, structures, catalyses and applications of ribozymes that interest you. Users are welcomed to submit new ribozyme cases or related comments through the submission portal to help us improve our database.</strong></p>
@@ -68,7 +67,7 @@ For large datasets please directly contact the database team group member <a hre
 <div class="row">
 
   <div class="col-sm-6 clearfix">
-    <p><img src="http://localhost:4001/images/teampic/David.jpg" class="img-responsive" width="25%" style="float: left" /></p>
+    <p><img src="http://localhost:4000/images/teampic/David.jpg" class="img-responsive" width="25%" style="float: left" /></p>
     <h4><a href="Email:d.m.j.lilley@dundee.ac.uk">David Lilley/李大卫</a></h4>
     <p><i><a href="http://www.dundee.ac.uk/biocentre/nasg/index.php/"> Professor David Lilley FRS FRSE FRSC </a> <!--<br>email: <d.m.j.lilley@dundee.ac.uk></i> --></i></p>
     <ul style="overflow: hidden">
@@ -90,7 +89,7 @@ For large datasets please directly contact the database team group member <a hre
   </div>
 
   <div class="col-sm-6 clearfix">
-    <p><img src="http://localhost:4001/images/teampic/Chichau_photo.jpg" class="img-responsive" width="25%" style="float: left" /></p>
+    <p><img src="http://localhost:4000/images/teampic/Chichau_photo.jpg" class="img-responsive" width="25%" style="float: left" /></p>
     <h4><a href="Email:miao_zhichao@gzlab.ac.cn">Zhichao (Chichau) Miao/苗智超</a></h4>
     <p><i>Principal Investigator of Guangzhou Lab <!--<br>email: <miao_zhichao@gzlab.ac.cn></i> --></i></p>
     <ul style="overflow: hidden">
@@ -119,7 +118,7 @@ For large datasets please directly contact the database team group member <a hre
 <div class="row">
 
   <div class="col-sm-6 clearfix">
-    <p><img src="http://localhost:4001/images/teampic/Lin Huang.jpg" class="img-responsive" width="25%" style="float: left" /></p>
+    <p><img src="http://localhost:4000/images/teampic/Lin Huang.jpg" class="img-responsive" width="25%" style="float: left" /></p>
     <h4><a href="Email:huanglin36@mail.sysu.edu.cn">Lin Huang/黄林</a></h4>
     <p><i>Principal Investigator of Sun Yat-sen University <!--<br>email: <huanglin36@mail.sysu.edu.cn></i> --></i></p>
     <ul style="overflow: hidden">
@@ -142,7 +141,7 @@ For large datasets please directly contact the database team group member <a hre
   </div>
 
   <div class="col-sm-6 clearfix">
-    <p><img src="http://localhost:4001/images/teampic/Jie Deng.jpg" class="img-responsive" width="25%" style="float: left" /></p>
+    <p><img src="http://localhost:4000/images/teampic/Jie Deng.jpg" class="img-responsive" width="25%" style="float: left" /></p>
     <h4>Jie Deng</h4>
     <p><i>Graduate student <!--<br>email: <dengj77@mail2.sysu.edu.cn></i> --></i></p>
     <ul style="overflow: hidden">
@@ -168,7 +167,7 @@ For large datasets please directly contact the database team group member <a hre
 <div class="row">
 
   <div class="col-sm-6 clearfix">
-    <p><img src="http://localhost:4001/images/teampic/yaohuang.jpg" class="img-responsive" width="25%" style="float: left" /></p>
+    <p><img src="http://localhost:4000/images/teampic/yaohuang.jpg" class="img-responsive" width="25%" style="float: left" /></p>
     <h4>Yaohuang Shi</h4>
     <p><i>Graduate student <!--<br>email: <shiyh@shanghaitech.edu.cn></i> --></i></p>
     <ul style="overflow: hidden">
@@ -191,7 +190,7 @@ For large datasets please directly contact the database team group member <a hre
   </div>
 
   <div class="col-sm-6 clearfix">
-    <p><img src="http://localhost:4001/images/teampic/Xuemei Peng.jpg" class="img-responsive" width="25%" style="float: left" /></p>
+    <p><img src="http://localhost:4000/images/teampic/Xuemei Peng.jpg" class="img-responsive" width="25%" style="float: left" /></p>
     <h4>Xuemei Peng</h4>
     <p><i>Graduate student <!--<br>email: <pengxm25@mail2.sysu.edu.cn></i> --></i></p>
     <ul style="overflow: hidden">
@@ -218,7 +217,7 @@ For large datasets please directly contact the database team group member <a hre
 <div class="row">
 
   <div class="col-sm-6 clearfix">
-    <p><img src="http://localhost:4001/images/teampic/Yuanlin He.jpg" class="img-responsive" width="25%" style="float: left" /></p>
+    <p><img src="http://localhost:4000/images/teampic/Yuanlin He.jpg" class="img-responsive" width="25%" style="float: left" /></p>
     <h4>Yuanlin He</h4>
     <p><i>Graduate student <!--<br>email: <yuanlin2022607@163.com></i> --></i></p>
     <ul style="overflow: hidden">
@@ -240,7 +239,7 @@ For large datasets please directly contact the database team group member <a hre
   </div>
 
   <div class="col-sm-6 clearfix">
-    <p><img src="http://localhost:4001/images/teampic/Mengxiao Li.jpg" class="img-responsive" width="25%" style="float: left" /></p>
+    <p><img src="http://localhost:4000/images/teampic/Mengxiao Li.jpg" class="img-responsive" width="25%" style="float: left" /></p>
     <h4>Mengxiao Li</h4>
     <p><i>Research assistant <!--<br>email: <limx86@mail2.sysu.edu.cn></i> --></i></p>
     <ul style="overflow: hidden">
@@ -266,7 +265,7 @@ For large datasets please directly contact the database team group member <a hre
 <div class="row">
 
   <div class="col-sm-6 clearfix">
-    <p><img src="http://localhost:4001/images/teampic/Wenjian Liao.jpg" class="img-responsive" width="25%" style="float: left" /></p>
+    <p><img src="http://localhost:4000/images/teampic/Wenjian Liao.jpg" class="img-responsive" width="25%" style="float: left" /></p>
     <h4>Wenjian Liao</h4>
     <p><i>Graduate student <!--<br>email: <liaowj7@mail2.sysu.edu.cn></i> --></i></p>
     <ul style="overflow: hidden">
@@ -288,7 +287,7 @@ For large datasets please directly contact the database team group member <a hre
   </div>
 
   <div class="col-sm-6 clearfix">
-    <p><img src="http://localhost:4001/images/teampic/Xiaoxue Chen.jpg" class="img-responsive" width="25%" style="float: left" /></p>
+    <p><img src="http://localhost:4000/images/teampic/Xiaoxue Chen.jpg" class="img-responsive" width="25%" style="float: left" /></p>
     <h4>Xiaoxue Chen</h4>
     <p><i>Postdoctoral Researcher <!--<br>email: <chenxx57@mail2.sysu.edu.cn></i> --></i></p>
     <ul style="overflow: hidden">
@@ -314,7 +313,7 @@ For large datasets please directly contact the database team group member <a hre
 <div class="row">
 
   <div class="col-sm-6 clearfix">
-    <p><img src="http://localhost:4001/images/teampic/Xiaowei Lin.jpg" class="img-responsive" width="25%" style="float: left" /></p>
+    <p><img src="http://localhost:4000/images/teampic/Xiaowei Lin.jpg" class="img-responsive" width="25%" style="float: left" /></p>
     <h4>XiaoWei Lin</h4>
     <p><i>Graduate student <!--<br>email: <linxw7@mail2.sysu.edu.cn></i> --></i></p>
     <ul style="overflow: hidden">
@@ -336,7 +335,7 @@ For large datasets please directly contact the database team group member <a hre
   </div>
 
   <div class="col-sm-6 clearfix">
-    <p><img src="http://localhost:4001/images/teampic/Yuanyi Huang.jpg" class="img-responsive" width="25%" style="float: left" /></p>
+    <p><img src="http://localhost:4000/images/teampic/Yuanyi Huang.jpg" class="img-responsive" width="25%" style="float: left" /></p>
     <h4>Yuanyin Huang</h4>
     <p><i>Research assistant <!--<br>email: <huangyuanyin2022@163.com></i> --></i></p>
     <ul style="overflow: hidden">

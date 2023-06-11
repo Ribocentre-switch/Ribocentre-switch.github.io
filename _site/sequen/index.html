@@ -5,11 +5,11 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Ribocentre - Home</title>
-  <meta name="description" content="Ribocentre: A ribozyme database">
+  <title>Sequence-info</title>
+  <meta name="description" content="sequence info ">
   <!--<link rel="stylesheet" href="http://localhost:4000/css/main.css>-->
   <link rel="stylesheet" href="/css/main.css">
-  <link rel="canonical" href="http://localhost:4000/search_test/">
+  <link rel="canonical" href="http://localhost:4000/sequen/">
   <link rel="shortcut icon" type ="image/x-icon" href="http://localhost:4000/images/favicon.ico">
 
 
@@ -116,55 +116,12 @@
     
       <div class="container-fluid">
         <div class="row">
-            <div id="homeid" >
-	<p><br /></p>
-
-<html>
-<head>
-<meta name="viewport" content="width=device-width, initial-scale=1" />
-<style>
-* {box-sizing: border-box}
-/* Set height of body and the document to 100% */
-
-/* Style tab links */
-.tablink {
-  background-color: #f4f4f4;
-  color: #005826;
-  border: none;
-  outline: none;
-  cursor: pointer;
-  padding:3px 12px;
-  font-size: 20px;
-  font-weight:bold
-  
-}
-p {
-    margin: 0 0 0px;
-}
-.tablink:hover {
-  background-color: #777;
-}
-
-/* Style the tab content (and add height:100% for full page content) */
-.tabcontent {
-  color: black;
-  display: none;
-  padding: 20px 20px;
-  height: 100%;
-}
-.search_bg{
-    background: #f4f4f4;
-  }
- .box_style{
+          <style>
+  .box_style{
     background: #f4f4f4;
   }
   .well {
     max-width: 70%;
-    margin: 0 auto;
-    border-top: 3px solid black;
-    }
-  .smallwell {
-    max-width: 90%;
     margin: 0 auto;
     border-top: 3px solid black;
     }
@@ -188,79 +145,34 @@ p {
     padding-top: 70px;
   }
 </style>
-</head>
-<body>
-<div class="wrapper box_style ">
-<br />
-<div class="well" style="border: 1px solid #C9C9C9; background-color: #fff;">
-  <button class="tablink" onclick="openPage('Home', this, 'white' )" id="defaultOpen"><font size="4">Search by sequence</font></button>
-  <button class="tablink" onclick="openPage('Contact', this, 'white')"><font size="4">Search by text</font></button>
-<div class="wrapper search_bg " style="border: 1px solid #C9C9C9;">
 
-<div id="Home" class="tabcontent" style="width: 100%;height: 300px; overflow-x:hidden;overflow-y: auto;">
+<div class="wrapper box_style " >
+  <br>
+  <div class="well" style="border: 1px solid #C9C9C9; background-color: #fff;">
+    <section class="sectiontitle"> 
+   
+     <h2 id="sequence">Sequence</h2>
+<p><strong> Shows the sequence of Ribozyme (Rfam ID for fasta file download). We keep the U in the partial sequence because it is consistent with the sequence information in the fasta file. ( We provide the script could change T into U on the page).<strong> <a href="https://www.ribocentre.org/downloads/sequence-T2U.ipynb" target="_blank" download="sequence-T2U.ipynb"><button class="btn btn-secondary"><span class="glyphicon glyphicon-download-alt"></span>  Download Script</button></a><br /><br /></strong></strong></p>
+
 <html>
   <head>
     <title>Sequence search</title>
   </head>
   <body>
     <rnacentral-sequence-search databases="[&quot;ribocentre&quot;]" examples="[
-              {&quot;description&quot;: &quot;Hepatitis delta virus&quot;, &quot;urs&quot;: &quot;&quot;, &quot;sequence&quot;: &quot;TCGGGTCGGCATGGCATCTCCACCTCCTCGCGGTCCGACCTGGGCATCCGAAGGAGGACGCACGTCCACTCGGATGGCTAAGGGAGAGCCACT&quot;},
-              {&quot;description&quot;: &quot;Group II self-splicing intron&quot;, &quot;urs&quot;: &quot;&quot;, &quot;sequence&quot;: &quot;AGGAGCCGTGCGAGATGAAAGTCTCATGCACGGTTTTGCATGATAGAAAGAAGCGAGGAATCCTCTTTTCGACTCTGAC&quot;}
+              { &quot;description&quot;:&quot;c-di-GMP-II-GAG riboswitch&quot;,&quot;urs&quot;: &quot;&quot;, &quot;sequence&quot;: &quot;CUGCACGCGGGAGGCUGUGAUCCGCCGGACGUACCGACUGCGGCCACCGCAGUCCGGCGGGGAGCCACUGGUGAGACCGGCCCCCGAAG&quot;},
+              { &quot;description&quot;:&quot;TPP riboswitch&quot;,&quot;urs&quot;: &quot;&quot;, &quot;sequence&quot;: &quot;AGGAGCCGTGCGAGATGAAAGTCTCATGCACGGTTTTGCATGATAGAAAGAAGCGAGGAATCCTCTTTTCGACTCTGAC&quot;}
             ]" rfam="true" />
   <script type="text/javascript" src="https://www.ribocentre.org/js/RNAcentral-sequence-search.js"></script></body>
 </html>
-</div>
 
-<div id="Contact" class="tabcontent" style="width: 100%;height: 300px; overflow-x:hidden;overflow-y: auto;">
-<html>
-<div style="text-align:center;"><font size="5"> Search in Ribocentre </font></div>
-      <!--<div class="well">-->
-      <script async="" src="https://cse.google.com/cse.js?cx=2dcb771063bc36a13"></script>
-      <div class="gcse-searchbox-only" style="text-align:center;"></div>
-        <p><b>Example:&nbsp;</b>
-          <a href="https://www.ribocentre.org/search.html?q=rna#gsc.tab=0&amp;gsc.q=rna&amp;gsc.page=1" target="_blank">RNA</a>&nbsp;&nbsp;
-          <a href="https://www.ribocentre.org/search.html?q=Ribo#gsc.tab=0&amp;gsc.q=Ribo&amp;gsc.page=1" target="_blank">Ribo</a>&nbsp;&nbsp;
-          <a href="https://www.ribocentre.org/search.html?q=breaker#gsc.tab=0&amp;gsc.q=breaker&amp;gsc.page=1" target="_blank">Breaker</a>&nbsp;&nbsp;<br />
-          <b>Quick links:&nbsp;</b>
-          <a href="https://www.ribocentre.org/ribozyme">Ribozymes</a>&nbsp;&nbsp;
-          <a href="https://www.ribocentre.org/publications">Publications</a>&nbsp;&nbsp;
-          <a href="https://www.ribocentre.org/docs/VS-ribozyme.html" target="_blank"> VS with 3D structures</a>&nbsp;&nbsp;
-          <a href="https://www.ribocentre.org/Helps">Teams</a>&nbsp;&nbsp;
-        </p>
-      <br />
-</html>
-</div>
-
-
-<script>
-function openPage(pageName,elmnt,color) {
-  var i, tabcontent, tablinks;
-  tabcontent = document.getElementsByClassName("tabcontent");
-  for (i = 0; i < tabcontent.length; i++) {
-    tabcontent[i].style.display = "none";
-  }
-  tablinks = document.getElementsByClassName("tablink");
-  for (i = 0; i < tablinks.length; i++) {
-    tablinks[i].style.backgroundColor = "";
-  }
-  document.getElementById(pageName).style.display = "block";
-  elmnt.style.backgroundColor = color;
-}
-
-// Get the element with id="defaultOpen" and click on it
-document.getElementById("defaultOpen").click();
-</script>
-</div>
-</div>
-</div>   
-</body>
-
- </html>
-
-
+    
+    </section>
+    
   </div>
-
-
+  <br>
+</div>
+<br>
         </div>
       </div>
     <div id="footer" class="panel">

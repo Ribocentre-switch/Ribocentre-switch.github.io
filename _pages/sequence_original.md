@@ -3,7 +3,7 @@ title: "Sequence-info"
 layout: gridlay
 excerpt: "sequence info "
 sitemap: false
-permalink: /sequences/
+permalink: /sequen/
 ---
 
 ## Sequence
