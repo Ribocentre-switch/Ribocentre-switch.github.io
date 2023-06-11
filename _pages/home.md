@@ -74,7 +74,7 @@ permalink: /
   <button class="tablink" onclick="openPage('Contact', this, 'white')" style="font-size: 20px;">Search by text</button>
 <div class="wrapper search_bg " style="border: 1px solid #C9C9C9;">
 
-<div id="Home" class="tabcontent" style="width: 100%;height: 200px; overflow-x:hidden;overflow-y: auto;">
+<div id="Home" class="tabcontent" style="width: 100%;height: 250px; overflow-x:hidden;overflow-y: auto;">
 <html>
   <head>
     <title>Sequence search</title>
@@ -83,8 +83,8 @@ permalink: /
     <rnacentral-sequence-search
             databases='["ribocentre"]'
             examples='[
-              {"description": "Hepatitis delta virus", "urs": "", "sequence": "TCGGGTCGGCATGGCATCTCCACCTCCTCGCGGTCCGACCTGGGCATCCGAAGGAGGACGCACGTCCACTCGGATGGCTAAGGGAGAGCCACT"},
-              {"description": "Group II self-splicing intron", "urs": "", "sequence": "AGGAGCCGTGCGAGATGAAAGTCTCATGCACGGTTTTGCATGATAGAAAGAAGCGAGGAATCCTCTTTTCGACTCTGAC"}
+              {"description": "c-di-GMP-II-GAG riboswitch", "urs": "", "sequence": "CUGCACGCGGGAGGCUGUGAUCCGCCGGACGUACCGACUGCGGCCACCGCAGUCCGGCGGGGAGCCACUGGUGAGACCGGCCCCCGAAG"},
+              {"description": "TPP riboswitch (THI element)", "urs": "", "sequence": "GTGTCCACTCACGGGTGCGCTTCATTAAGCGCTGAGAATAAACCGTTTGAACCTGATCCGGGTTATGCCGGCGATAGGAAGAGAATTATGCATAATG"}
             ]'
             rfam="true"
     />
@@ -92,7 +92,7 @@ permalink: /
 </html>
 </div>
 
-<div id="Contact" class="tabcontent" style="width: 100%;height: 200px; overflow-x:hidden;overflow-y: auto;">
+<div id="Contact" class="tabcontent" style="width: 100%;height: 250px; overflow-x:hidden;overflow-y: auto;">
 <html>
 <div style="text-align:center;"><font size="5"> Search in Ribocentre </font></div>
       <!--<div class="well">-->

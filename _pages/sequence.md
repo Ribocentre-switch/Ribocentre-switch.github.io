@@ -17,8 +17,8 @@ Shows the sequence of Riboswitch (Rfam ID for fasta file download). We keep the 
     <rnacentral-sequence-search
             databases='["ribocentre"]'
             examples='[
-              {"description": "Hepatitis delta virus", "urs": "", "sequence": "TCGGGTCGGCATGGCATCTCCACCTCCTCGCGGTCCGACCTGGGCATCCGAAGGAGGACGCACGTCCACTCGGATGGCTAAGGGAGAGCCACT"},
-              {"description": "Group II self-splicing intron", "urs": "", "sequence": "AGGAGCCGTGCGAGATGAAAGTCTCATGCACGGTTTTGCATGATAGAAAGAAGCGAGGAATCCTCTTTTCGACTCTGAC"}
+              {"description": "c-di-GMP-II-GAG riboswitch", "urs": "", "sequence": "CUGCACGCGGGAGGCUGUGAUCCGCCGGACGUACCGACUGCGGCCACCGCAGUCCGGCGGGGAGCCACUGGUGAGACCGGCCCCCGAAG"},
+              {"description": "TPP riboswitch (THI element)", "urs": "", "sequence": "GTGTCCACTCACGGGTGCGCTTCATTAAGCGCTGAGAATAAACCGTTTGAACCTGATCCGGGTTATGCCGGCGATAGGAAGAGAATTATGCATAATG"}
             ]'
             rfam="true"
     />

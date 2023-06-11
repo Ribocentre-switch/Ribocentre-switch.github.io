@@ -1,4 +1,4 @@
-I"é<html lang="zh-cn">
+I"<html lang="zh-cn">
 <head>
 <meta charset="utf-8" /> 
 <style>
@@ -61,27 +61,27 @@
   Most known riboswitches occur in bacteria, but functional riboswitches of one type (the TPP riboswitch) have been discovered in archaea, plants and certain fungi. TPP riboswitches have also been found in eukaryotes eukaryotes that function via alternative splicing of mRNA..<br />
       </div><br /><br />
     
-        <div class="wrapper box_style ">
+  <div class="wrapper box_style " style="background-color: #fff">
 
   <button class="tablink" onclick="openPage('Home', this, 'white' )" id="defaultOpen" style="font-size: 20px;">Search by sequence</button>
   <button class="tablink" onclick="openPage('Contact', this, 'white')" style="font-size: 20px;">Search by text</button>
 <div class="wrapper search_bg " style="border: 1px solid #C9C9C9;">
 
-<div id="Home" class="tabcontent" style="width: 100%;height: 200px; overflow-x:hidden;overflow-y: auto;">
+<div id="Home" class="tabcontent" style="width: 100%;height: 300px; overflow-x:hidden;overflow-y: auto;">
 <html>
   <head>
     <title>Sequence search</title>
   </head>
   <body>
     <rnacentral-sequence-search databases="[&quot;ribocentre&quot;]" examples="[
-              {&quot;description&quot;: &quot;Hepatitis delta virus&quot;, &quot;urs&quot;: &quot;&quot;, &quot;sequence&quot;: &quot;TCGGGTCGGCATGGCATCTCCACCTCCTCGCGGTCCGACCTGGGCATCCGAAGGAGGACGCACGTCCACTCGGATGGCTAAGGGAGAGCCACT&quot;},
-              {&quot;description&quot;: &quot;Group II self-splicing intron&quot;, &quot;urs&quot;: &quot;&quot;, &quot;sequence&quot;: &quot;AGGAGCCGTGCGAGATGAAAGTCTCATGCACGGTTTTGCATGATAGAAAGAAGCGAGGAATCCTCTTTTCGACTCTGAC&quot;}
+              {&quot;description&quot;: &quot;c-di-GMP-II-GAG riboswitch&quot;, &quot;urs&quot;: &quot;&quot;, &quot;sequence&quot;: &quot;CUGCACGCGGGAGGCUGUGAUCCGCCGGACGUACCGACUGCGGCCACCGCAGUCCGGCGGGGAGCCACUGGUGAGACCGGCCCCCGAAG&quot;},
+              {&quot;description&quot;: &quot;TPP riboswitch (THI element)&quot;, &quot;urs&quot;: &quot;&quot;, &quot;sequence&quot;: &quot;GTGTCCACTCACGGGTGCGCTTCATTAAGCGCTGAGAATAAACCGTTTGAACCTGATCCGGGTTATGCCGGCGATAGGAAGAGAATTATGCATAATG&quot;}
             ]" rfam="true" />
   <script type="text/javascript" src="https://www.ribocentre.org/js/RNAcentral-sequence-search.js"></script></body>
 </html>
 </div>
 
-<div id="Contact" class="tabcontent" style="width: 100%;height: 200px; overflow-x:hidden;overflow-y: auto;">
+<div id="Contact" class="tabcontent" style="width: 100%;height: 250px; overflow-x:hidden;overflow-y: auto;">
 <html>
 <div style="text-align:center;"><font size="5"> Search in Ribocentre </font></div>
       <!--<div class="well">-->
