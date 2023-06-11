@@ -47,7 +47,7 @@ permalink: /docs/SAM-SAH/
   <p style="font-size: 16px">Click into different sections:</p>
   
   <div class="button-container">
-    <a class="button" href="#timeline" style="bold">Timeline</a>
+    <a class="button" href="#timeline" >Timeline</a>
     <a class="button" href="#description">Description</a>
     <a class="button" href="#Structure and Ligand recognition">Structure&recognition</a>
     <a class="button" href="#references">References</a>
@@ -70,8 +70,8 @@ permalink: /docs/SAM-SAH/
 </style>
 </head>
 <p><br /></p>
-<p class="header_box">Timeline</p>
-<div class="timeline" id="timeline">
+<p class="header_box" id="timeline">Timeline</p>
+<div class="timeline" >
   <div class="year">
     <div class="inner">
       <span>Start</span>
@@ -79,44 +79,44 @@ permalink: /docs/SAM-SAH/
   </div>
   <ul class="days">
           
-    <li class="day">
+    <timelineli class="day">
      <div class="events">
        <p >Discovery of SAM-SAH riboswitch</p>
-       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/20230605/" target="_blank">2010</ali><sup>1</sup></div>
+       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/20230605/" target="_blank">2010</a><sup>1</sup></div>
      </div>
-    </li>
+    </timelineli>
         
 
-    <li class="day">
+    <timelineli class="day">
      <div class="events">
        <p >The NMR resonance assignment of the SAM/SAH binding riboswitch (env9b) in complex with SAH</p>
-       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/30051308/" target="_blank">2018</ali><sup>3</sup></div>
+       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/30051308/" target="_blank">2018</a><sup>3</sup></div>
      </div>
-    </li>
+    </timelineli>
         
 
-    <li class="day">
+    <timelineli class="day">
      <div class="events">
        <p >NMR structure of the SAM/SAH-binding riboswitch</p>
-       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/30590743/" target="_blank">2019</ali><sup>4</sup></div>
+       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/30590743/" target="_blank">2019</a><sup>4</sup></div>
      </div>
-    </li>
+    </timelineli>
         
 
-    <li class="day">
+    <timelineli class="day">
      <div class="events">
        <p >Crystal structure of the SAM/SAH riboswitch</p>
-       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/32520325/" target="_blank">2020</ali><sup>5</sup></div>
+       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/32520325/" target="_blank">2020</a><sup>5</sup></div>
      </div>
-    </li>
+    </timelineli>
         
 
-    <li class="day">
+    <timelineli class="day">
      <div class="events">
        <p >Mg <sup>2+</sup> plays vital roles in SAM/SAH riboswitch function.</p>
-       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/36945415/" target="_blank">2023</ali><sup>6</sup></div>
+       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/36945415/" target="_blank">2023</a><sup>6</sup></div>
      </div>
-    </li>
+    </timelineli>
         
 
   </ul>

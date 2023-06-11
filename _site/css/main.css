@@ -2491,7 +2491,7 @@ table .success, table .warning, table .danger, table .info, .table .success, .ta
 
 table .success a:not(.btn), table .warning a:not(.btn), table .danger a:not(.btn), table .info a:not(.btn), .table .success a:not(.btn), .table .warning a:not(.btn), .table .danger a:not(.btn), .table .info a:not(.btn) { color: #fff; }
 
-table:not(.table-bordered) > thead > tr > th, table:not(.table-bordered) > tbody > tr > th, table:not(.table-bordered) > tfoot > tr > th, table:not(.table-bordered) > thead > tr > td, table:not(.table-bordered) > tbody > tr > td, table:not(.table-bordered) > tfoot > tr > td, .table:not(.table-bordered) > thead > tr > th, .table:not(.table-bordered) > tbody > tr > th, .table:not(.table-bordered) > tfoot > tr > th, .table:not(.table-bordered) > thead > tr > td, .table:not(.table-bordered) > tbody > tr > td, .table:not(.table-bordered) > tfoot > tr > td { border-color: transparent; }
+table:not(.table-bordered) > thead > tr > th, table:not(.table-bordered) > tbody > tr > th, table:not(.table-bordered) > tfoot > tr > th, table:not(.table-bordered) > thead > tr > td, table:not(.table-bordered) > tbody > tr > td, table:not(.table-bordered) > tfoot > tr > td, .table:not(.table-bordered) > thead > tr > th, .table:not(.table-bordered) > tbody > tr > th, .table:not(.table-bordered) > tfoot > tr > th, .table:not(.table-bordered) > thead > tr > td, .table:not(.table-bordered) > tbody > tr > td, .table:not(.table-bordered) > tfoot > tr > td { border-color: transparent; border: 1px solid #000000; }
 
 .form-control { -webkit-box-shadow: inset 0 2px 0 rgba(0, 0, 0, 0.075); box-shadow: inset 0 2px 0 rgba(0, 0, 0, 0.075); }
 

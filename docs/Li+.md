@@ -48,7 +48,7 @@ permalink: /docs/Li/
   <p style="font-size: 16px">Click into different sections:</p>
   
   <div class="button-container">
-    <a class="button" href="#timeline" style="bold">Timeline</a>
+    <a class="button" href="#timeline" >Timeline</a>
     <a class="button" href="#description">Description</a>
     <a class="button" href="#Structure and Ligand recognition">Structure&recognition</a>
     <a class="button" href="#references">References</a>
@@ -71,8 +71,8 @@ permalink: /docs/Li/
 </style>
 </head>
 <p><br /></p>
-<p class="header_box">Timeline</p>
-<div class="timeline" id="timeline">
+<p class="header_box" id="timeline">Timeline</p>
+<div class="timeline" >
   <div class="year">
     <div class="inner">
       <span>Start</span>
@@ -80,20 +80,20 @@ permalink: /docs/Li/
   </div>
   <ul class="days">
           
-    <li class="day">
+    <timelineli class="day">
      <div class="events">
        <p >Discovery of <i>nhaA</i>-I and <i>nhaA</i>-II motif</p>
-       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/28977401/" target="_blank">2017</ali><sup>[1]</sup></div>
+       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/28977401/" target="_blank">2017</a><sup>[1]</sup></div>
      </div>
-    </li>
+    </timelineli>
         
 
-    <li class="day">
+    <timelineli class="day">
      <div class="events">
        <p >The experimental validation of two distinct classes of  Li<sup>+</sup> riboswitches</p>
-       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/36352003/" target="_blank">2022</ali><sup>[2]</sup></div>
+       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/36352003/" target="_blank">2022</a><sup>[2]</sup></div>
      </div>
-    </li>
+    </timelineli>
         
 
   </ul>

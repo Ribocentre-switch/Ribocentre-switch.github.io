@@ -7,10 +7,10 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>News</title>
   <meta name="description" content="Miao Lab at Guangzhou Laboratory">
-  <!--<link rel="stylesheet" href="http://localhost:4000/css/main.css>-->
+  <!--<link rel="stylesheet" href="http://localhost:4001/css/main.css>-->
   <link rel="stylesheet" href="/css/main.css">
-  <link rel="canonical" href="http://localhost:4000/allnews.html">
-  <link rel="shortcut icon" type ="image/x-icon" href="http://localhost:4000/images/favicon.ico">
+  <link rel="canonical" href="http://localhost:4001/allnews.html">
+  <link rel="shortcut icon" type ="image/x-icon" href="http://localhost:4001/images/favicon.ico">
 
 
 
@@ -58,28 +58,7 @@
 		background-color: #000000;
 }
 </style>
-<script>
-window.addEventListener("DOMContentLoaded", function() {
-  // 获取当前页面的URL
-  var currentURL = window.location.href;
-  
-  // 获取所有导航按钮
-  var navButtons = document.querySelectorAll("li a");
-  
-  // 遍历导航按钮
-  navButtons.forEach(function(button) {
-    // 获取按钮的链接
-    var buttonURL = button.href;
-    
-    // 比较URL是否与当前页面的URL匹配
-    if (currentURL === buttonURL) {
-      // 设置匹配的按钮为激活状态
-      button.classList.add("active");
-    }
-  });
-});
-</script>
-		
+
 
 
   <div class="container-fluid2">
@@ -99,27 +78,38 @@ window.addEventListener("DOMContentLoaded", function() {
 	</div>
 	<div class="collapse navbar-collapse" id="navbar-collapse-1">
 	  <ul class="nav navbar-nav navbar-right">
-		<li id="now" class="active"><a href="http://localhost:4000/">Home</a></li>
-		<li id="now"><a href="http://localhost:4000/riboswitches.html/">Riboswitches</a></li>
-		<li id="now"><a href="http://localhost:4000/Sequences.html">Sequences</a></li>
-		<li id="now"><a href="http://localhost:4000/Structures.html">Structures</a></li>
-		<li id="now"><a href="http://localhost:4000/Bindingpockets.html">Bindingpockets</a></li>
-		<li id="now"><a href="http://localhost:4000/Applications.html">Applications</a></li>
-		<li id="now"><a href="http://localhost:4000/Publications.html">Publications</a></li>
-		<li id="now"><a href="http://localhost:4000/404.html">Help</a></li>
+		<li id="now" ><a href="http://localhost:4001">Home</a></li>
+		<li id="now"><a href="http://localhost:4001/riboswitches">Riboswitches</a></li>
+		<li id="now"><a href="http://localhost:4001/sequences">Sequences</a></li>
+		<li id="now"><a href="http://localhost:4001/structures">Structures</a></li>
+		<li id="now"><a href="http://localhost:4001/bindingpockets">Bindingpockets</a></li>
+		<li id="now"><a href="http://localhost:4001/applications">Applications</a></li>
+		<li id="now"><a href="http://localhost:4001/publications">Publications</a></li>
+		<li id="now"><a href="http://localhost:4001/helps">Help</a></li>
 	  </ul>
 	  <script>
-		function setActive(element) {
-		  // 移除所有导航按钮的激活状态
+		window.addEventListener("DOMContentLoaded", function() {
+		  // 获取当前页面的URL
+		  var currentURL = window.location.href;
+		  
+		  // 获取所有导航按钮
 		  var navButtons = document.querySelectorAll("li a");
+		  
+		  // 遍历导航按钮
 		  navButtons.forEach(function(button) {
-			button.classList.remove("active");
+				// 获取按钮的链接
+				var buttonURL = button.href;
+				
+				// 比较URL是否与当前页面的URL匹配
+				if (currentURL === buttonURL) {
+				  // 设置匹配的按钮为激活状态
+				  button.classList.add("active");
+				}
 		  });
+		});
+		</script>
 	  
-		  // 给点击的按钮添加激活状态
-		  element.classList.add("active");
-		}
-	  </script>
+				
    </div>
   </div>
 </div>

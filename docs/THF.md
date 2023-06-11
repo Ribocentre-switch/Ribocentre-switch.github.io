@@ -48,7 +48,7 @@ permalink: /docs/THF/
   <p style="font-size: 16px">Click into different sections:</p>
   
   <div class="button-container">
-    <a class="button" href="#timeline" style="bold">Timeline</a>
+    <a class="button" href="#timeline" >Timeline</a>
     <a class="button" href="#description">Description</a>
     <a class="button" href="#Structure and Ligand recognition">Structure&recognition</a>
     <a class="button" href="#references">References</a>
@@ -71,8 +71,8 @@ permalink: /docs/THF/
 </style>
 </head>
 <p><br /></p>
-<p class="header_box">Timeline</p>
-<div class="timeline" id="timeline">
+<p class="header_box" id="timeline">Timeline</p>
+<div class="timeline" >
   <div class="year">
     <div class="inner">
       <span>Start</span>
@@ -80,68 +80,68 @@ permalink: /docs/THF/
   </div>
   <ul class="days">
           
-    <li class="day">
+    <timelineli class="day">
      <div class="events">
        <p >Discovery of THF-I riboswitch</p>
-       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/20659680/" target="_blank">2010</ali><sup>[1]</sup></div>
+       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/20659680/" target="_blank">2010</a><sup>[1]</sup></div>
      </div>
-    </li>
+    </timelineli>
         
 
-    <li class="day">
+    <timelineli class="day">
      <div class="events">
        <p >Single binding site of THF-I riboswitch</p>
-       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/21873197/" target="_blank">2011</ali><sup>[2]</sup></div>
+       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/21873197/" target="_blank">2011</a><sup>[2]</sup></div>
      </div>
-    </li>
+    </timelineli>
         
 
-    <li class="day">
+    <timelineli class="day">
      <div class="events">
        <p >Two binding sites of THF-I riboswitch</p>
-       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/21906956/" target="_blank">2011</ali><sup>[3]</sup></div>
+       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/21906956/" target="_blank">2011</a><sup>[3]</sup></div>
      </div>
-    </li>
+    </timelineli>
         
 
-    <li class="day">
+    <timelineli class="day">
      <div class="events">
        <p >The correlation between binding affinity and regulation</p>
-       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/24388757/" target="_blank">2014</ali><sup>[4]</sup></div>
+       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/24388757/" target="_blank">2014</a><sup>[4]</sup></div>
      </div>
-    </li>
+    </timelineli>
         
 
-    <li class="day">
+    <timelineli class="day">
      <div class="events">
        <p >Discovery of THF-II riboswitch</p>
-       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/28977401/" target="_blank">2017</ali><sup>[5]</sup></div>
+       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/28977401/" target="_blank">2017</a><sup>[5]</sup></div>
      </div>
-    </li>
+    </timelineli>
         
 
-    <li class="day">
+    <timelineli class="day">
      <div class="events">
        <p >Biochemical validation of THF-II riboswitch</p>
-       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/31186369/" target="_blank">2019</ali><sup>[6]</sup></div>
+       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/31186369/" target="_blank">2019</a><sup>[6]</sup></div>
      </div>
-    </li>
+    </timelineli>
         
 
-    <li class="day">
+    <timelineli class="day">
      <div class="events">
        <p >Molecular basis for gene regulation</p>
-       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/33571639/" target="_blank">2021</ali><sup>[7]</sup></div>
+       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/33571639/" target="_blank">2021</a><sup>[7]</sup></div>
      </div>
-    </li>
+    </timelineli>
         
 
-    <li class="day">
+    <timelineli class="day">
      <div class="events">
        <p >Structure of THF-II riboswitch</p>
-       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/36620887/" target="_blank">2023</ali><sup>[8]</sup></div>
+       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/36620887/" target="_blank">2023</a><sup>[8]</sup></div>
      </div>
-    </li>
+    </timelineli>
         
 
   </ul>

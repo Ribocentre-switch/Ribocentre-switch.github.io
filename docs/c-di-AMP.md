@@ -47,7 +47,7 @@ permalink: /docs/c-di-AMP/
   <p style="font-size: 16px">Click into different sections:</p>
   
   <div class="button-container">
-    <a class="button" href="#timeline" style="bold">Timeline</a>
+    <a class="button" href="#timeline" >Timeline</a>
     <a class="button" href="#description">Description</a>
     <a class="button" href="#Structure and Ligand recognition">Structure&recognition</a>
     <a class="button" href="#references">References</a>
@@ -70,8 +70,8 @@ permalink: /docs/c-di-AMP/
 </style>
 </head>
 <p><br /></p>
-<p class="header_box">Timeline</p>
-<div class="timeline" id="timeline">
+<p class="header_box" id="timeline">Timeline</p>
+<div class="timeline" >
   <div class="year">
     <div class="inner">
       <span>Start</span>
@@ -79,68 +79,68 @@ permalink: /docs/c-di-AMP/
   </div>
   <ul class="days">
           
-    <li class="day">
+    <timelineli class="day">
      <div class="events">
        <p >The ydaO motif was first identified</p>
-       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/15096624/" target="_blank">2004</ali><sup>[1]</sup></div>
+       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/15096624/" target="_blank">2004</a><sup>[1]</sup></div>
      </div>
-    </li>
+    </timelineli>
         
 
-    <li class="day">
+    <timelineli class="day">
      <div class="events">
        <p >The ydaO motif specifically bound ATP</p>
-       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/23086297/" target="_blank">2012</ali><sup>[2]</sup></div>
+       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/23086297/" target="_blank">2012</a><sup>[2]</sup></div>
      </div>
-    </li>
+    </timelineli>
         
 
-    <li class="day">
+    <timelineli class="day">
      <div class="events">
        <p >c-di-AMP is the real ligand of ydaO motif</p>
-       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/24141192/" target="_blank">2013</ali><sup>[3]</sup></div>
+       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/24141192/" target="_blank">2013</a><sup>[3]</sup></div>
      </div>
-    </li>
+    </timelineli>
         
 
-    <li class="day">
+    <timelineli class="day">
      <div class="events">
        <p >Structure of ydao riboswitch binding with c-di-Damp</p>
-       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/25086509/" target="_blank">2014</ali><sup>[4]</sup></div>
+       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/25086509/" target="_blank">2014</a><sup>[4]</sup></div>
      </div>
-    </li>
+    </timelineli>
         
 
-    <li class="day">
+    <timelineli class="day">
      <div class="events">
        <p >Thermoanaerobacter pseudethanolicus c-di-AMP riboswitch</p>
-       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/25086507/" target="_blank">2014</ali><sup>[5]</sup></div>
+       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/25086507/" target="_blank">2014</a><sup>[5]</sup></div>
      </div>
-    </li>
+    </timelineli>
         
 
-    <li class="day">
+    <timelineli class="day">
      <div class="events">
        <p >Crystal structure of Bacillus subtilis c-di-AMP riboswitch ydaO</p>
-       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/25271255/" target="_blank">2014</ali><sup>[6]</sup></div>
+       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/25271255/" target="_blank">2014</a><sup>[6]</sup></div>
      </div>
-    </li>
+    </timelineli>
         
 
-    <li class="day">
+    <timelineli class="day">
      <div class="events">
        <p >The combination of c-di-AMP and riboswitch promotes the internal termination of blocking kdpFABC transcription</p>
-       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/31044176/" target="_blank">2019</ali><sup>[7]</sup></div>
+       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/31044176/" target="_blank">2019</a><sup>[7]</sup></div>
      </div>
-    </li>
+    </timelineli>
         
 
-    <li class="day">
+    <timelineli class="day">
      <div class="events">
        <p >c-di-AMP riboswitch may affect the translation of downstream genes</p>
-       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/36838266/" target="_blank">2023</ali><sup>[8]</sup></div>
+       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/36838266/" target="_blank">2023</a><sup>[8]</sup></div>
      </div>
-    </li>
+    </timelineli>
         
 
   </ul>

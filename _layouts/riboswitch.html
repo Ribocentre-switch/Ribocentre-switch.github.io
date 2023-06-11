@@ -5,6 +5,11 @@ layout: default
   .box_style{
     background: #f4f4f4;
   }
+  .well {
+    max-width: 70%;
+    margin: 0 auto;
+    border-top: 3px solid black;
+    }
   .wrapper {
     display: block;
     position: relative;
@@ -16,7 +21,7 @@ layout: default
     }
   .sectiontitle {
     display: block;
-    max-width: 70%;
+    max-width: 100%;
     margin: 0 auto ;
     text-align: left;
     background :#fff;
@@ -27,12 +32,18 @@ layout: default
 </style>
 
   <div class="wrapper box_style " >
-    <section class="sectiontitle"> 
-      <div class="well" style="border: 1px solid #C9C9C9; background-color: #fff;">
+    <br>
+    <div class="well" style="border: 1px solid #C9C9C9; background-color: #fff;">
+      <section class="sectiontitle"> 
+     
        {{ content }}
-      </div>
-    </section>
+      
+      </section>
+      
+    </div>
+    <br>
   </div>
-
+  <br>
+  
  
   

@@ -48,7 +48,7 @@ permalink: /docs/SAM-II_clan/
   <p style="font-size: 16px">Click into different sections:</p>
   
   <div class="button-container">
-    <a class="button" href="#timeline" style="bold">Timeline</a>
+    <a class="button" href="#timeline" >Timeline</a>
     <a class="button" href="#description">Description</a>
     <a class="button" href="#Structure and Ligand recognition">Structure&recognition</a>
     <a class="button" href="#references">References</a>
@@ -71,8 +71,8 @@ permalink: /docs/SAM-II_clan/
 </style>
 </head>
 <p><br /></p>
-<p class="header_box">Timeline</p>
-<div class="timeline" id="timeline">
+<p class="header_box" id="timeline">Timeline</p>
+<div class="timeline" >
   <div class="year">
     <div class="inner">
       <span>Start</span>
@@ -80,92 +80,92 @@ permalink: /docs/SAM-II_clan/
   </div>
   <ul class="days">
           
-    <li class="day">
+    <timelineli class="day">
      <div class="events">
        <p >Discovery of SAM-II riboswitch</p>
-       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/16086852/" target="_blank">2005</ali><sup>1</sup></div>
+       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/16086852/" target="_blank">2005</a><sup>1</sup></div>
      </div>
-    </li>
+    </timelineli>
         
 
-    <li class="day">
+    <timelineli class="day">
      <div class="events">
        <p >Crystalline structure of the SAM-II riboswitch</p>
-       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/18204466/" target="_blank">2008</ali><sup>3</sup></div>
+       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/18204466/" target="_blank">2008</a><sup>3</sup></div>
      </div>
-    </li>
+    </timelineli>
         
 
-    <li class="day">
+    <timelineli class="day">
      <div class="events">
        <p >Discovery of SAM-V riboswitch</p>
-       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/19531245/" target="_blank">2009</ali><sup>4</sup></div>
+       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/19531245/" target="_blank">2009</a><sup>4</sup></div>
      </div>
-    </li>
+    </timelineli>
         
 
-    <li class="day">
+    <timelineli class="day">
      <div class="events">
        <p >Described SAM-V riboswitch carefully for the first time.</p>
-       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/19776155/" target="_blank">2009</ali><sup>5</sup></div>
+       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/19776155/" target="_blank">2009</a><sup>5</sup></div>
      </div>
-    </li>
+    </timelineli>
         
 
-    <li class="day">
+    <timelineli class="day">
      <div class="events">
        <p >Explored the ligand-induced folding process of the S-adenosylmethionine type II</p>
-       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/21532598/" target="_blank">2011</ali><sup>6</sup></div>
+       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/21532598/" target="_blank">2011</a><sup>6</sup></div>
      </div>
-    </li>
+    </timelineli>
         
 
-    <li class="day">
+    <timelineli class="day">
      <div class="events">
        <p >The conformational state of the structure is explained</p>
-       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/22139931/" target="_blank">2012</ali><sup>7</sup></div>
+       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/22139931/" target="_blank">2012</a><sup>7</sup></div>
      </div>
-    </li>
+    </timelineli>
         
 
-    <li class="day">
+    <timelineli class="day">
      <div class="events">
        <p >Metabolite recognition and specificity of the SAM-II riboswitch</p>
-       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/22194311/" target="_blank">2012</ali><sup>8</sup></div>
+       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/22194311/" target="_blank">2012</a><sup>8</sup></div>
      </div>
-    </li>
+    </timelineli>
         
 
-    <li class="day">
+    <timelineli class="day">
      <div class="events">
        <p >Study on the folding mechanism of proteobacteria SAM-II riboswitch by molecular dynamics</p>
-       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/25451761/" target="_blank">2015</ali><sup>9</sup></div>
+       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/25451761/" target="_blank">2015</a><sup>9</sup></div>
      </div>
-    </li>
+    </timelineli>
         
 
-    <li class="day">
+    <timelineli class="day">
      <div class="events">
        <p >SAM-II riboswitch samples at least two conformations in solution</p>
-       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/26800479/" target="_blank">2016</ali><sup>10</sup></div>
+       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/26800479/" target="_blank">2016</a><sup>10</sup></div>
      </div>
-    </li>
+    </timelineli>
         
 
-    <li class="day">
+    <timelineli class="day">
      <div class="events">
        <p >Effect of magnesium ion on preorganized SAM-II</p>
-       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/28248966/" target="_blank">2017</ali><sup>11</sup></div>
+       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/28248966/" target="_blank">2017</a><sup>11</sup></div>
      </div>
-    </li>
+    </timelineli>
         
 
-    <li class="day">
+    <timelineli class="day">
      <div class="events">
        <p >Solved the X-ray structure of SAM-V riboswitch</p>
-       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/29931337/" target="_blank">2018</ali><sup>12</sup></div>
+       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/29931337/" target="_blank">2018</a><sup>12</sup></div>
      </div>
-    </li>
+    </timelineli>
         
 
   </ul>

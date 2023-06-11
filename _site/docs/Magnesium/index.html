@@ -8,10 +8,10 @@
   <title>Magnesium</title>
   <meta name="description" content="Ribo centre is a database of ribozymes.
 ">
-  <!--<link rel="stylesheet" href="http://localhost:4000/css/main.css>-->
+  <!--<link rel="stylesheet" href="http://localhost:4001/css/main.css>-->
   <link rel="stylesheet" href="/css/main.css">
-  <link rel="canonical" href="http://localhost:4000/docs/Magnesium/">
-  <link rel="shortcut icon" type ="image/x-icon" href="http://localhost:4000/images/favicon.ico">
+  <link rel="canonical" href="http://localhost:4001/docs/Magnesium/">
+  <link rel="shortcut icon" type ="image/x-icon" href="http://localhost:4001/images/favicon.ico">
 
 
 
@@ -59,28 +59,7 @@
 		background-color: #000000;
 }
 </style>
-<script>
-window.addEventListener("DOMContentLoaded", function() {
-  // 获取当前页面的URL
-  var currentURL = window.location.href;
-  
-  // 获取所有导航按钮
-  var navButtons = document.querySelectorAll("li a");
-  
-  // 遍历导航按钮
-  navButtons.forEach(function(button) {
-    // 获取按钮的链接
-    var buttonURL = button.href;
-    
-    // 比较URL是否与当前页面的URL匹配
-    if (currentURL === buttonURL) {
-      // 设置匹配的按钮为激活状态
-      button.classList.add("active");
-    }
-  });
-});
-</script>
-		
+
 
 
   <div class="container-fluid2">
@@ -100,27 +79,38 @@ window.addEventListener("DOMContentLoaded", function() {
 	</div>
 	<div class="collapse navbar-collapse" id="navbar-collapse-1">
 	  <ul class="nav navbar-nav navbar-right">
-		<li id="now" class="active"><a href="http://localhost:4000/">Home</a></li>
-		<li id="now"><a href="http://localhost:4000/riboswitches.html/">Riboswitches</a></li>
-		<li id="now"><a href="http://localhost:4000/Sequences.html">Sequences</a></li>
-		<li id="now"><a href="http://localhost:4000/Structures.html">Structures</a></li>
-		<li id="now"><a href="http://localhost:4000/Bindingpockets.html">Bindingpockets</a></li>
-		<li id="now"><a href="http://localhost:4000/Applications.html">Applications</a></li>
-		<li id="now"><a href="http://localhost:4000/Publications.html">Publications</a></li>
-		<li id="now"><a href="http://localhost:4000/404.html">Help</a></li>
+		<li id="now" ><a href="http://localhost:4001">Home</a></li>
+		<li id="now"><a href="http://localhost:4001/riboswitches">Riboswitches</a></li>
+		<li id="now"><a href="http://localhost:4001/sequences">Sequences</a></li>
+		<li id="now"><a href="http://localhost:4001/structures">Structures</a></li>
+		<li id="now"><a href="http://localhost:4001/bindingpockets">Bindingpockets</a></li>
+		<li id="now"><a href="http://localhost:4001/applications">Applications</a></li>
+		<li id="now"><a href="http://localhost:4001/publications">Publications</a></li>
+		<li id="now"><a href="http://localhost:4001/helps">Help</a></li>
 	  </ul>
 	  <script>
-		function setActive(element) {
-		  // 移除所有导航按钮的激活状态
+		window.addEventListener("DOMContentLoaded", function() {
+		  // 获取当前页面的URL
+		  var currentURL = window.location.href;
+		  
+		  // 获取所有导航按钮
 		  var navButtons = document.querySelectorAll("li a");
+		  
+		  // 遍历导航按钮
 		  navButtons.forEach(function(button) {
-			button.classList.remove("active");
+				// 获取按钮的链接
+				var buttonURL = button.href;
+				
+				// 比较URL是否与当前页面的URL匹配
+				if (currentURL === buttonURL) {
+				  // 设置匹配的按钮为激活状态
+				  button.classList.add("active");
+				}
 		  });
+		});
+		</script>
 	  
-		  // 给点击的按钮添加激活状态
-		  element.classList.add("active");
-		}
-	  </script>
+				
    </div>
   </div>
 </div>
@@ -201,7 +191,7 @@ window.addEventListener("DOMContentLoaded", function() {
   <p style="font-size: 16px">Click into different sections:</p>
   
   <div class="button-container">
-    <a class="button" href="#timeline" style="bold">Timeline</a>
+    <a class="button" href="#timeline">Timeline</a>
     <a class="button" href="#description">Description</a>
     <a class="button" href="#Structure and Ligand recognition">Structure&amp;recognition</a>
     <a class="button" href="#references">References</a>
@@ -224,8 +214,8 @@ window.addEventListener("DOMContentLoaded", function() {
 </style>
 </head>
 <p><br /></p>
-<p class="header_box">Timeline</p>
-<div class="timeline" id="timeline">
+<p class="header_box" id="timeline">Timeline</p>
+<div class="timeline">
   <div class="year">
     <div class="inner">
       <span>Start</span>
@@ -233,44 +223,44 @@ window.addEventListener("DOMContentLoaded", function() {
   </div>
   <ul class="days">
           
-    <li class="day">
+    <timelineli class="day">
      <div class="events">
        <p>Discovery of ykoK motif</p>
-       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/15096624/" target="_blank">2004</ali><sup>[1]</sup></div>
+       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/15096624/" target="_blank">2004</a><sup>[1]</sup></div>
      </div>
-    </li>
+    </timelineli>
         
 
-    <li class="day">
+    <timelineli class="day">
      <div class="events">
        <p>Discovery and biochemical validation of Mg<sup>2+</sup>-II riboswitch</p>
-       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/16615891/" target="_blank">2006</ali><sup>[2]</sup></div>
+       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/16615891/" target="_blank">2006</a><sup>[2]</sup></div>
      </div>
-    </li>
+    </timelineli>
         
 
-    <li class="day">
+    <timelineli class="day">
      <div class="events">
        <p>Molecular mechanism of Mg<sup>2+</sup>-I riboswitch</p>
-       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/17803910/" target="_blank">2007</ali><sup>[3]</sup></div>
+       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/17803910/" target="_blank">2007</a><sup>[3]</sup></div>
      </div>
-    </li>
+    </timelineli>
         
 
-    <li class="day">
+    <timelineli class="day">
      <div class="events">
        <p>Multiple metal-binding cores are required for metalloregulation in addition to Mg</p>
-       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/19619558/" target="_blank">2009</ali><sup>[4]</sup></div>
+       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/19619558/" target="_blank">2009</a><sup>[4]</sup></div>
      </div>
-    </li>
+    </timelineli>
         
 
-    <li class="day">
+    <timelineli class="day">
      <div class="events">
        <p>Crystal structure of manganese bound M-box RNA</p>
-       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/21315082/" target="_blank">2011</ali><sup>[5]</sup></div>
+       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/21315082/" target="_blank">2011</a><sup>[5]</sup></div>
      </div>
-    </li>
+    </timelineli>
         
 
   </ul>

@@ -47,7 +47,7 @@ permalink: /docs/NiCo/
   <p style="font-size: 16px">Click into different sections:</p>
   
   <div class="button-container">
-    <a class="button" href="#timeline" style="bold">Timeline</a>
+    <a class="button" href="#timeline" >Timeline</a>
     <a class="button" href="#description">Description</a>
     <a class="button" href="#Structure and Ligand recognition">Structure&recognition</a>
     <a class="button" href="#references">References</a>
@@ -70,8 +70,8 @@ permalink: /docs/NiCo/
 </style>
 </head>
 <p><br /></p>
-<p class="header_box">Timeline</p>
-<div class="timeline" id="timeline">
+<p class="header_box" id="timeline">Timeline</p>
+<div class="timeline" >
   <div class="year">
     <div class="inner">
       <span>Start</span>
@@ -79,36 +79,36 @@ permalink: /docs/NiCo/
   </div>
   <ul class="days">
           
-    <li class="day">
+    <timelineli class="day">
      <div class="events">
        <p >Discovery of NiCo riboswitch</p>
-       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/25794617/" target="_blank">2015</ali><sup>[1]</sup></div>
+       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/25794617/" target="_blank">2015</a><sup>[1]</sup></div>
      </div>
-    </li>
+    </timelineli>
         
 
-    <li class="day">
+    <timelineli class="day">
      <div class="events">
        <p >The NiCo riboswitch can respond to multiple divalent transition metals, including Fe<sup>II</sup></p>
-       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/32250107/" target="_blank">2020</ali><sup>[2]</sup></div>
+       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/32250107/" target="_blank">2020</a><sup>[2]</sup></div>
      </div>
-    </li>
+    </timelineli>
         
 
-    <li class="day">
+    <timelineli class="day">
      <div class="events">
        <p >To review the evidence that the primary function of the NiCo riboswitch is response to iron</p>
-       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/35427920/" target="_blank">2022</ali><sup>[3]</sup></div>
+       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/35427920/" target="_blank">2022</a><sup>[3]</sup></div>
      </div>
-    </li>
+    </timelineli>
         
 
-    <li class="day">
+    <timelineli class="day">
      <div class="events">
        <p >Reconsidering the NiCo Riboswitch as an Iron Riboswitch</p>
-       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/35996475/" target="_blank">2022</ali><sup>[4]</sup></div>
+       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/35996475/" target="_blank">2022</a><sup>[4]</sup></div>
      </div>
-    </li>
+    </timelineli>
         
 
   </ul>

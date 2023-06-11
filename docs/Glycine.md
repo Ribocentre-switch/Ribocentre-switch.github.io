@@ -47,7 +47,7 @@ permalink: /docs/Glycine/
   <p style="font-size: 16px">Click into different sections:</p>
   
   <div class="button-container">
-    <a class="button" href="#timeline" style="bold">Timeline</a>
+    <a class="button" href="#timeline" >Timeline</a>
     <a class="button" href="#description">Description</a>
     <a class="button" href="#Structure and Ligand recognition">Structure&recognition</a>
     <a class="button" href="#references">References</a>
@@ -70,8 +70,8 @@ permalink: /docs/Glycine/
 </style>
 </head>
 <p><br /></p>
-<p class="header_box">Timeline</p>
-<div class="timeline" id="timeline">
+<p class="header_box" id="timeline">Timeline</p>
+<div class="timeline" >
   <div class="year">
     <div class="inner">
       <span>Start</span>
@@ -79,116 +79,116 @@ permalink: /docs/Glycine/
   </div>
   <ul class="days">
           
-    <li class="day">
+    <timelineli class="day">
      <div class="events">
        <p >The discovery of glycine riboswitch</p>
-       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/15472076/" target="_blank">2004</ali><sup>[1]</sup></div>
+       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/15472076/" target="_blank">2004</a><sup>[1]</sup></div>
      </div>
-    </li>
+    </timelineli>
         
 
-    <li class="day">
+    <timelineli class="day">
      <div class="events">
        <p >The chemical basis of glycine riboswitch cooperativity</p>
-       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/18042658/" target="_blank">2008</ali><sup>[3]</sup></div>
+       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/18042658/" target="_blank">2008</a><sup>[3]</sup></div>
      </div>
-    </li>
+    </timelineli>
         
 
-    <li class="day">
+    <timelineli class="day">
      <div class="events">
        <p >The crystal structures of glycine-free and glycine-bound glycine riboswitch VCII</p>
-       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/21145485/" target="_blank">2010</ali><sup>[4]</sup></div>
+       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/21145485/" target="_blank">2010</a><sup>[4]</sup></div>
      </div>
-    </li>
+    </timelineli>
         
 
-    <li class="day">
+    <timelineli class="day">
      <div class="events">
        <p >Mg2+, Ca2+ and Mn2+ facilitate glycine binding</p>
-       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/20194520/" target="_blank">2010</ali><sup>[5]</sup></div>
+       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/20194520/" target="_blank">2010</a><sup>[5]</sup></div>
      </div>
-    </li>
+    </timelineli>
         
 
-    <li class="day">
+    <timelineli class="day">
      <div class="events">
        <p >The crystal structure of glycine-bound glycine riboswitch</p>
-       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/21439473/" target="_blank">2011</ali><sup>[6]</sup></div>
+       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/21439473/" target="_blank">2011</a><sup>[6]</sup></div>
      </div>
-    </li>
+    </timelineli>
         
 
-    <li class="day">
+    <timelineli class="day">
      <div class="events">
        <p >The tertiary interaction for cooperative ligand binding by the glycine riboswitch</p>
-       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/21098652/" target="_blank">2011</ali><sup>[7]</sup></div>
+       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/21098652/" target="_blank">2011</a><sup>[7]</sup></div>
      </div>
-    </li>
+    </timelineli>
         
 
-    <li class="day">
+    <timelineli class="day">
      <div class="events">
        <p >Ligand binding by the glycine riboswitch depends on aptamer dimerization</p>
-       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/25246650/" target="_blank">2014</ali><sup>[8]</sup></div>
+       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/25246650/" target="_blank">2014</a><sup>[8]</sup></div>
      </div>
-    </li>
+    </timelineli>
         
 
-    <li class="day">
+    <timelineli class="day">
      <div class="events">
        <p >The engineering of fluorogenic glycine riboswitches</p>
-       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/27220466/" target="_blank">2016</ali><sup>[9]</sup></div>
+       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/27220466/" target="_blank">2016</a><sup>[9]</sup></div>
      </div>
-    </li>
+    </timelineli>
         
 
-    <li class="day">
+    <timelineli class="day">
      <div class="events">
        <p >The discovery of Singlet glycine riboswitch with one aptamer domain</p>
-       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/27659053/" target="_blank">2016</ali><sup>[10]</sup></div>
+       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/27659053/" target="_blank">2016</a><sup>[10]</sup></div>
      </div>
-    </li>
+    </timelineli>
         
 
-    <li class="day">
+    <timelineli class="day">
      <div class="events">
        <p >In vivo behavior of the tandem glycine riboswitch</p>
-       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/29089431/" target="_blank">2017</ali><sup>[11]</sup></div>
+       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/29089431/" target="_blank">2017</a><sup>[11]</sup></div>
      </div>
-    </li>
+    </timelineli>
         
 
-    <li class="day">
+    <timelineli class="day">
      <div class="events">
        <p >The engineering of a glycine riboswitch to control a Novel Metabolic Pathway for 5‑Aminolevulinic Acid Production in <i>Escherichia coli</i></p>
-       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/31550137/" target="_blank">2019</ali><sup>[13]</sup></div>
+       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/31550137/" target="_blank">2019</a><sup>[13]</sup></div>
      </div>
-    </li>
+    </timelineli>
         
 
-    <li class="day">
+    <timelineli class="day">
      <div class="events">
        <p >The cryo-EM three-dimensional structures of glycine riboswitch</p>
-       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/32616928/" target="_blank">2020</ali><sup>[14]</sup></div>
+       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/32616928/" target="_blank">2020</a><sup>[14]</sup></div>
      </div>
-    </li>
+    </timelineli>
         
 
-    <li class="day">
+    <timelineli class="day">
      <div class="events">
        <p >Tandem ON switch preferentially utilize binding to the first aptamer to promote helical switching, while OFF switch variants favor binding to the second aptamer</p>
-       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/31992591/" target="_blank">2020</ali><sup>[15]</sup></div>
+       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/31992591/" target="_blank">2020</a><sup>[15]</sup></div>
      </div>
-    </li>
+    </timelineli>
         
 
-    <li class="day">
+    <timelineli class="day">
      <div class="events">
        <p >The synthetic glycine-ON and -OFF riboswitches for metabolic regulation in <i>Escherichia coli</i></p>
-       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/35392910/" target="_blank">2022</ali><sup>[16]</sup></div>
+       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/35392910/" target="_blank">2022</a><sup>[16]</sup></div>
      </div>
-    </li>
+    </timelineli>
         
 
   </ul>

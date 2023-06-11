@@ -47,7 +47,7 @@ permalink: /docs/HMP-PP/
   <p style="font-size: 16px">Click into different sections:</p>
   
   <div class="button-container">
-    <a class="button" href="#timeline" style="bold">Timeline</a>
+    <a class="button" href="#timeline" >Timeline</a>
     <a class="button" href="#description">Description</a>
     <a class="button" href="#Structure and Ligand recognition">Structure&recognition</a>
     <a class="button" href="#references">References</a>
@@ -70,8 +70,8 @@ permalink: /docs/HMP-PP/
 </style>
 </head>
 <p><br /></p>
-<p class="header_box">Timeline</p>
-<div class="timeline" id="timeline">
+<p class="header_box" id="timeline">Timeline</p>
+<div class="timeline" >
   <div class="year">
     <div class="inner">
       <span>Start</span>
@@ -79,20 +79,20 @@ permalink: /docs/HMP-PP/
   </div>
   <ul class="days">
           
-    <li class="day">
+    <timelineli class="day">
      <div class="events">
        <p >Discovery of HMP-PP riboswitch</p>
-       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/30902049/" target="_blank">2019</ali><sup>[2]</sup></div>
+       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/30902049/" target="_blank">2019</a><sup>[2]</sup></div>
      </div>
-    </li>
+    </timelineli>
         
 
-    <li class="day">
+    <timelineli class="day">
      <div class="events">
        <p >Bioinformatic and biochemical validation of the ligand for the HMP-PP riboswitch</p>
-       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/30950790/" target="_blank">2019</ali><sup>[3]</sup></div>
+       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/30950790/" target="_blank">2019</a><sup>[3]</sup></div>
      </div>
-    </li>
+    </timelineli>
         
 
   </ul>

@@ -47,7 +47,7 @@ permalink: /docs/SAM-III/
   <p style="font-size: 16px">Click into different sections:</p>
   
   <div class="button-container">
-    <a class="button" href="#timeline" style="bold">Timeline</a>
+    <a class="button" href="#timeline" >Timeline</a>
     <a class="button" href="#description">Description</a>
     <a class="button" href="#Structure and Ligand recognition">Structure&recognition</a>
     <a class="button" href="#references">References</a>
@@ -70,8 +70,8 @@ permalink: /docs/SAM-III/
 </style>
 </head>
 <p><br /></p>
-<p class="header_box">Timeline</p>
-<div class="timeline" id="timeline">
+<p class="header_box" id="timeline">Timeline</p>
+<div class="timeline" >
   <div class="year">
     <div class="inner">
       <span>Start</span>
@@ -79,68 +79,68 @@ permalink: /docs/SAM-III/
   </div>
   <ul class="days">
           
-    <li class="day">
+    <timelineli class="day">
      <div class="events">
        <p >Discovered for the first time and named S<sub>MK</sub> box</p>
-       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/16491091/" target="_blank">2006</ali><sup>1</sup></div>
+       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/16491091/" target="_blank">2006</a><sup>1</sup></div>
      </div>
-    </li>
+    </timelineli>
         
 
-    <li class="day">
+    <timelineli class="day">
      <div class="events">
        <p >Translation control mechanism about SAM-III riboswitch</p>
-       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/17360376/" target="_blank">2007</ali><sup>2</sup></div>
+       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/17360376/" target="_blank">2007</a><sup>2</sup></div>
      </div>
-    </li>
+    </timelineli>
         
 
-    <li class="day">
+    <timelineli class="day">
      <div class="events">
        <p >Crystal structures of the SAM-III/S(MK) riboswitch</p>
-       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/18806797/" target="_blank">2008</ali><sup>3</sup></div>
+       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/18806797/" target="_blank">2008</a><sup>3</sup></div>
      </div>
-    </li>
+    </timelineli>
         
 
-    <li class="day">
+    <timelineli class="day">
      <div class="events">
        <p >Atomic level understanding of the ligand recognition mechanism of SAM-III riboswitch</p>
-       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/20614931/" target="_blank">2010</ali><sup>4</sup></div>
+       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/20614931/" target="_blank">2010</a><sup>4</sup></div>
      </div>
-    </li>
+    </timelineli>
         
 
-    <li class="day">
+    <timelineli class="day">
      <div class="events">
        <p >S(MK) box is a reversible riboswitch</p>
-       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/21143313/" target="_blank">2010</ali><sup>5</sup></div>
+       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/21143313/" target="_blank">2010</a><sup>5</sup></div>
      </div>
-    </li>
+    </timelineli>
         
 
-    <li class="day">
+    <timelineli class="day">
      <div class="events">
        <p >Probe the ligand-induced conformational switching mechanism</p>
-       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/21549712/" target="_blank">2011</ali><sup>6</sup></div>
+       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/21549712/" target="_blank">2011</a><sup>6</sup></div>
      </div>
-    </li>
+    </timelineli>
         
 
-    <li class="day">
+    <timelineli class="day">
      <div class="events">
        <p >Provides a detailed understanding of folded structures of the SAM-III riboswitch in the presence and absence of the ligand, respectively</p>
-       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/27249101/" target="_blank">2016</ali><sup>7</sup></div>
+       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/27249101/" target="_blank">2016</a><sup>7</sup></div>
      </div>
-    </li>
+    </timelineli>
         
 
-    <li class="day">
+    <timelineli class="day">
      <div class="events">
        <p >Gaussian-accelerated molecular dynamics simulations were performed to decipher the identification mechanisms of SAM-III (SMK) on ligands SAM, SAH, and EEM</p>
-       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/36440874/" target="_blank">2022</ali><sup>9</sup></div>
+       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/36440874/" target="_blank">2022</a><sup>9</sup></div>
      </div>
-    </li>
+    </timelineli>
         
 
   </ul>

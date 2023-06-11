@@ -47,7 +47,7 @@ permalink: /docs/Adenine/
   <p style="font-size: 16px">Click into different sections:</p>
   
   <div class="button-container">
-    <a class="button" href="#timeline" style="bold">Timeline</a>
+    <a class="button" href="#timeline" >Timeline</a>
     <a class="button" href="#description">Description</a>
     <a class="button" href="#Structure and Ligand recognition">Structure&recognition</a>
     <a class="button" href="#references">References</a>
@@ -70,8 +70,8 @@ permalink: /docs/Adenine/
 </style>
 </head>
 <p><br /></p>
-<p class="header_box">Timeline</p>
-<div class="timeline" id="timeline">
+<p class="header_box" id="timeline">Timeline</p>
+<div class="timeline" >
   <div class="year">
     <div class="inner">
       <span>Start</span>
@@ -79,36 +79,36 @@ permalink: /docs/Adenine/
   </div>
   <ul class="days">
           
-    <li class="day">
+    <timelineli class="day">
      <div class="events">
        <p >Discovery of the adenine riboswitch</p>
-       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/14718920/" target="_blank">2004</ali><sup>[3]</sup></div>
+       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/14718920/" target="_blank">2004</a><sup>[3]</sup></div>
      </div>
-    </li>
+    </timelineli>
         
 
-    <li class="day">
+    <timelineli class="day">
      <div class="events">
        <p >Crystal structures of <i>add</i> adenine riboswitch bound to adenine</p>
-       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/15610857/" target="_blank">2004</ali><sup>[4]</sup></div>
+       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/15610857/" target="_blank">2004</a><sup>[4]</sup></div>
      </div>
-    </li>
+    </timelineli>
         
 
-    <li class="day">
+    <timelineli class="day">
      <div class="events">
        <p >Crystal structures of the U65C mutant <i>ydhL</i> adenine riboswitch in ligand-free state</p>
-       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/20022916/" target="_blank">2010</ali><sup>[7]</sup></div>
+       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/20022916/" target="_blank">2010</a><sup>[7]</sup></div>
      </div>
-    </li>
+    </timelineli>
         
 
-    <li class="day">
+    <timelineli class="day">
      <div class="events">
        <p >Four structures of the <i>add</i> adenine riboswitch during the course of a reaction were determined using femtosecond X-ray free electron laser (XFEL) pulses</p>
-       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/27841871/" target="_blank">2017</ali><sup>[8]</sup></div>
+       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/27841871/" target="_blank">2017</a><sup>[8]</sup></div>
      </div>
-    </li>
+    </timelineli>
         
 
   </ul>

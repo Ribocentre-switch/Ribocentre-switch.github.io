@@ -91,7 +91,7 @@ content
   <!-- 表格 -->
   
   <div id="sheet1" class="sheet">
-    <h2>Sheet 1</h2>
+    <p style='font-size:20px'>Sheet 1</p>
     <table>
       <tr>
         <th>Header 1</th>

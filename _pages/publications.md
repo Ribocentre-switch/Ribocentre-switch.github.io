@@ -3,7 +3,7 @@ title: "Ribocentre - Publications"
 layout: gridlay
 excerpt: "Ribocentre -- Publications."
 sitemap: false
-permalink: /publications/
+permalink: /publicatio
 ---
 
 # Publications

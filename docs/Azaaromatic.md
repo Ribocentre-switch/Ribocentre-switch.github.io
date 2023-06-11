@@ -47,7 +47,7 @@ permalink: /docs/Azaaromatic/
   <p style="font-size: 16px">Click into different sections:</p>
   
   <div class="button-container">
-    <a class="button" href="#timeline" style="bold">Timeline</a>
+    <a class="button" href="#timeline" >Timeline</a>
     <a class="button" href="#description">Description</a>
     <a class="button" href="#Structure and Ligand recognition">Structure&recognition</a>
     <a class="button" href="#references">References</a>
@@ -70,8 +70,8 @@ permalink: /docs/Azaaromatic/
 </style>
 </head>
 <p><br /></p>
-<p class="header_box">Timeline</p>
-<div class="timeline" id="timeline">
+<p class="header_box" id="timeline">Timeline</p>
+<div class="timeline" >
   <div class="year">
     <div class="inner">
       <span>Start</span>
@@ -79,28 +79,28 @@ permalink: /docs/Azaaromatic/
   </div>
   <ul class="days">
           
-    <li class="day">
+    <timelineli class="day">
      <div class="events">
        <p >Discovery of azaaromatic(yjdF) riboswitch</p>
-       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/26843526/" target="_blank">2016</ali><sup>[1]</sup></div>
+       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/26843526/" target="_blank">2016</a><sup>[1]</sup></div>
      </div>
-    </li>
+    </timelineli>
         
 
-    <li class="day">
+    <timelineli class="day">
      <div class="events">
        <p >The genetic regulation mechanism of azaaromatic riboswitch</p>
-       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/29223402/" target="_blank">2018</ali><sup>[2]</sup></div>
+       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/29223402/" target="_blank">2018</a><sup>[2]</sup></div>
      </div>
-    </li>
+    </timelineli>
         
 
-    <li class="day">
+    <timelineli class="day">
      <div class="events">
        <p >Its tRNA-like fold generates from SAXS with bingding ligand</p>
-       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/35427649/" target="_blank">2022</ali><sup>[3]</sup></div>
+       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/35427649/" target="_blank">2022</a><sup>[3]</sup></div>
      </div>
-    </li>
+    </timelineli>
         
 
   </ul>

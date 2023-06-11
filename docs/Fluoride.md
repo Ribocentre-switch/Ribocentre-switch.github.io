@@ -47,7 +47,7 @@ permalink: /docs/Fluoride/
   <p style="font-size: 16px">Click into different sections:</p>
   
   <div class="button-container">
-    <a class="button" href="#timeline" style="bold">Timeline</a>
+    <a class="button" href="#timeline" >Timeline</a>
     <a class="button" href="#description">Description</a>
     <a class="button" href="#Structure and Ligand recognition">Structure&recognition</a>
     <a class="button" href="#references">References</a>
@@ -70,8 +70,8 @@ permalink: /docs/Fluoride/
 </style>
 </head>
 <p><br /></p>
-<p class="header_box">Timeline</p>
-<div class="timeline" id="timeline">
+<p class="header_box" id="timeline">Timeline</p>
+<div class="timeline" >
   <div class="year">
     <div class="inner">
       <span>Start</span>
@@ -79,60 +79,60 @@ permalink: /docs/Fluoride/
   </div>
   <ul class="days">
           
-    <li class="day">
+    <timelineli class="day">
      <div class="events">
        <p >Discovery of <i>crcB</i> motif</p>
-       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/20230605/" target="_blank">2010</ali><sup>[1]</sup></div>
+       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/20230605/" target="_blank">2010</a><sup>[1]</sup></div>
      </div>
-    </li>
+    </timelineli>
         
 
-    <li class="day">
+    <timelineli class="day">
      <div class="events">
        <p >Identify the <i>crcB</i> motif as a fluoride riboswitch</p>
-       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/22194412/" target="_blank">2012</ali><sup>[2]</sup></div>
+       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/22194412/" target="_blank">2012</a><sup>[2]</sup></div>
      </div>
-    </li>
+    </timelineli>
         
 
-    <li class="day">
+    <timelineli class="day">
      <div class="events">
        <p >Ligand-bound structure of the <i>Thermotoga petrophila</i> fluoride riboswitch</p>
-       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/22678284/" target="_blank">2012</ali><sup>[3]</sup></div>
+       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/22678284/" target="_blank">2012</a><sup>[3]</sup></div>
      </div>
-    </li>
+    </timelineli>
         
 
-    <li class="day">
+    <timelineli class="day">
      <div class="events">
        <p >Structural stability, acidity, and halide selectivity of the fluoride riboswitch  recognition site</p>
-       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/25487435/" target="_blank">2015</ali><sup>[4]</sup></div>
+       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/25487435/" target="_blank">2015</a><sup>[4]</sup></div>
      </div>
-    </li>
+    </timelineli>
         
 
-    <li class="day">
+    <timelineli class="day">
      <div class="events">
        <p >Unveiling a novel switching mechanism that employs ligand-dependent suppression of an aptamer excited state to coordinate regulatory conformational transitions</p>
-       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/28719589/" target="_blank">2017</ali><sup>[5]</sup></div>
+       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/28719589/" target="_blank">2017</a><sup>[5]</sup></div>
      </div>
-    </li>
+    </timelineli>
         
 
-    <li class="day">
+    <timelineli class="day">
      <div class="events">
        <p >Ligand F<sup>-</sup> and transcription factor NusA oppose each other's modulation of downstream pausing and termination by RNA polymerase</p>
-       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/34782462/" target="_blank">2021</ali><sup>[6]</sup></div>
+       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/34782462/" target="_blank">2021</a><sup>[6]</sup></div>
      </div>
-    </li>
+    </timelineli>
         
 
-    <li class="day">
+    <timelineli class="day">
      <div class="events">
        <p >The conformational dynamics of the <i>B.cereus crcB</i> fluoride riboswitch at the single-molecule level</p>
-       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/35017489/" target="_blank">2022</ali><sup>[7]</sup></div>
+       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/35017489/" target="_blank">2022</a><sup>[7]</sup></div>
      </div>
-    </li>
+    </timelineli>
         
 
   </ul>

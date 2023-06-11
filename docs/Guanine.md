@@ -47,7 +47,7 @@ permalink: /docs/Guanine/
   <p style="font-size: 16px">Click into different sections:</p>
   
   <div class="button-container">
-    <a class="button" href="#timeline" style="bold">Timeline</a>
+    <a class="button" href="#timeline" >Timeline</a>
     <a class="button" href="#description">Description</a>
     <a class="button" href="#Structure and Ligand recognition">Structure&recognition</a>
     <a class="button" href="#references">References</a>
@@ -70,8 +70,8 @@ permalink: /docs/Guanine/
 </style>
 </head>
 <p><br /></p>
-<p class="header_box">Timeline</p>
-<div class="timeline" id="timeline">
+<p class="header_box" id="timeline">Timeline</p>
+<div class="timeline" >
   <div class="year">
     <div class="inner">
       <span>Start</span>
@@ -79,68 +79,68 @@ permalink: /docs/Guanine/
   </div>
   <ul class="days">
           
-    <li class="day">
+    <timelineli class="day">
      <div class="events">
        <p >Discovery of <i>xpt-pbuX</i> operon</p>
-       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/9098051/" target="_blank">1997</ali><sup>[1]</sup></div>
+       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/9098051/" target="_blank">1997</a><sup>[1]</sup></div>
      </div>
-    </li>
+    </timelineli>
         
 
-    <li class="day">
+    <timelineli class="day">
      <div class="events">
        <p >Identification of guanine-I riboswitch in the <i>xpt-pbuX</i> 5'-UTR</p>
-       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/12787499/" target="_blank">2003</ali><sup>[2]</sup></div>
+       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/12787499/" target="_blank">2003</a><sup>[2]</sup></div>
      </div>
-    </li>
+    </timelineli>
         
 
-    <li class="day">
+    <timelineli class="day">
      <div class="events">
        <p >Crystal structure of guanine-I riboswitch with hypoxanthine</p>
-       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/15549109/" target="_blank">2004</ali><sup>[3]</sup></div>
+       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/15549109/" target="_blank">2004</a><sup>[3]</sup></div>
      </div>
-    </li>
+    </timelineli>
         
 
-    <li class="day">
+    <timelineli class="day">
      <div class="events">
        <p >Crystal structure of guanine-I riboswitch with guanine</p>
-       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/15610857/" target="_blank">2004</ali><sup>[4]</sup></div>
+       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/15610857/" target="_blank">2004</a><sup>[4]</sup></div>
      </div>
-    </li>
+    </timelineli>
         
 
-    <li class="day">
+    <timelineli class="day">
      <div class="events">
        <p >C74 is the sole determinant of guanine-I riboswitch specificity</p>
-       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/16650860/" target="_blank">2006</ali><sup>[5]</sup></div>
+       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/16650860/" target="_blank">2006</a><sup>[5]</sup></div>
      </div>
-    </li>
+    </timelineli>
         
 
-    <li class="day">
+    <timelineli class="day">
      <div class="events">
        <p >Ligand-binding capability of guanine-I riboswitch depends on Mg2+</p>
-       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/21890900/" target="_blank">2011</ali><sup>[6]</sup></div>
+       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/21890900/" target="_blank">2011</a><sup>[6]</sup></div>
      </div>
-    </li>
+    </timelineli>
         
 
-    <li class="day">
+    <timelineli class="day">
      <div class="events">
        <p >Crystal structure of guanine-I riboswitch with an artificial nucleobase pair (Z:P pair)</p>
-       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/26223188/" target="_blank">2015</ali><sup>[7]</sup></div>
+       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/26223188/" target="_blank">2015</a><sup>[7]</sup></div>
      </div>
-    </li>
+    </timelineli>
         
 
-    <li class="day">
+    <timelineli class="day">
      <div class="events">
        <p >Discovery of guanine-II riboswitch</p>
-       <div class="date"><ali href="https://pubmed.ncbi.nlm.nih.gov/35622895/" target="_blank">2022</ali><sup>[9]</sup></div>
+       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/35622895/" target="_blank">2022</a><sup>[9]</sup></div>
      </div>
-    </li>
+    </timelineli>
         
 
   </ul>
