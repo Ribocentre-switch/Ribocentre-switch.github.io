@@ -547,7 +547,7 @@ permalink: /docs/Guanidine/
     <div class="main-container">
         <div class="zoom-wrapper8">
             <div class="zoom-area8">
-                <img src="/images/2D/" alt="drawing" style="width:400px" />
+                <img src="/images/2D/nan" alt="drawing" style="width:400px" />
             </div>
         </div>
     </div>

@@ -207,10 +207,7 @@ Thus, when GlcN6P levels are high, the glmS ribozyme is activated and the mRNA t
 <font ><p>Schematic representation of the mechanism of gene regulation by the GlcN6P riboswitch. The GlcN6P riboswitch is located on the glmS mRNA. The glmS mRNA translate the protein Glucosmine-6-phosphate synthetase (GlmS). GlmS catalyzes conversion of fructose-6-phosphate (Fru6P) and glutamine (Gln) into glutamate (Glu) and glucosamine-6-phosphate (GlcN6P). When GlcN6P accumulates cytoplasmically, it binds to the GlcN6P riboswitch domain, activating a latent self-cleavage activity. A portion of the 5′ UTR of the glmS gene was cleaved off, leading to reduced expression (gray X) of the GlmS protein. This feedback loop allows for fine-tuned regulation of GlcN6P synthesis in response to cellular needs<sup>[2]</sup>.</p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
-  <img src="/images/gene_regulation/GlcN6P_riboswitch_gene_regulation1.svg" alt="drawing" style="width:400px;margin-top: 0px;margin-bottom: 0px;" >
-  </td>
-  <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
-  <img src="/images/gene_regulation/" alt="drawing" style="width:400px;margin-top: 0px;margin-bottom: 0px;" >
+  <img src="/images/gene_regulation/GlcN6P_riboswitch_gene_regulation1.svg" alt="drawing" style="width:800px;margin-top: 0px;margin-bottom: 0px;" >
   </td>
 </tr>
 </table>

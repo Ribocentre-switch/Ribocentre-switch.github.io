@@ -234,10 +234,7 @@ SAM-IV riboswitches are a kind of riboswitch that specifically binds S-adenosylm
 <font ><p>Sequence and structural model for the <i>metI</i> riboswitch in two structural states<sup>[2]</sup>.</p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
-  <img src="/images/gene_regulation/SAM-I_riboswitch_gene_regulation.svg" alt="drawing" style="width:400px;margin-top: 0px;margin-bottom: 0px;" >
-  </td>
-  <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
-  <img src="/images/gene_regulation/" alt="drawing" style="width:400px;margin-top: 0px;margin-bottom: 0px;" >
+  <img src="/images/gene_regulation/SAM-I_riboswitch_gene_regulation.svg" alt="drawing" style="width:800px;margin-top: 0px;margin-bottom: 0px;" >
   </td>
 </tr>
 </table>
@@ -246,10 +243,7 @@ SAM-IV riboswitches are a kind of riboswitch that specifically binds S-adenosylm
 <font ><p>Regulation mechanism of SAM-IV riboswitch, PK-2 plays a direct role in both ligand binding and regulation<sup>[19]</sup>.</p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
-  <img src="/images/gene_regulation/SAM-IV_riboswitch_gene_regulation.svg" alt="drawing" style="width:400px;margin-top: 0px;margin-bottom: 0px;" >
-  </td>
-  <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
-  <img src="/images/gene_regulation/" alt="drawing" style="width:400px;margin-top: 0px;margin-bottom: 0px;" >
+  <img src="/images/gene_regulation/SAM-IV_riboswitch_gene_regulation.svg" alt="drawing" style="width:800px;margin-top: 0px;margin-bottom: 0px;" >
   </td>
 </tr>
 </table>
@@ -258,10 +252,7 @@ SAM-IV riboswitches are a kind of riboswitch that specifically binds S-adenosylm
 <font ><p>Regulation mechanism of SAM-I/IV riboswitch, PK-3 plays a direct role in both ligand binding and regulation<sup>[15,19]</sup>.</p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
-  <img src="/images/gene_regulation/SAM-I+IV_riboswitch_gene_regulation.svg" alt="drawing" style="width:400px;margin-top: 0px;margin-bottom: 0px;" >
-  </td>
-  <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
-  <img src="/images/gene_regulation/" alt="drawing" style="width:400px;margin-top: 0px;margin-bottom: 0px;" >
+  <img src="/images/gene_regulation/SAM-I+IV_riboswitch_gene_regulation.svg" alt="drawing" style="width:800px;margin-top: 0px;margin-bottom: 0px;" >
   </td>
 </tr>
 </table>

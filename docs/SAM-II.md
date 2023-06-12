@@ -200,10 +200,7 @@ SAM-V riboswitch is the fifth known riboswitch to bind S-adenosyl methionine (SA
 <font ><p>Potential mechanism of translation regulation by the SAM-II riboswitch<sup>[7]</sup>.</p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
-  <img src="/images/gene_regulation/SAM-II_riboswitch_gene_regulation.svg" alt="drawing" style="width:400px;margin-top: 0px;margin-bottom: 0px;" >
-  </td>
-  <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
-  <img src="/images/gene_regulation/" alt="drawing" style="width:400px;margin-top: 0px;margin-bottom: 0px;" >
+  <img src="/images/gene_regulation/SAM-II_riboswitch_gene_regulation.svg" alt="drawing" style="width:800px;margin-top: 0px;margin-bottom: 0px;" >
   </td>
 </tr>
 </table>
@@ -212,10 +209,7 @@ SAM-V riboswitch is the fifth known riboswitch to bind S-adenosyl methionine (SA
 <font ><p>Potential mechanism of translation regulation by the  SAM-V riboswitch<sup>[12]</sup>.</p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
-  <img src="/images/gene_regulation/SAM-V_riboswitch_gene_regulation.svg" alt="drawing" style="width:400px;margin-top: 0px;margin-bottom: 0px;" >
-  </td>
-  <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
-  <img src="/images/gene_regulation/" alt="drawing" style="width:400px;margin-top: 0px;margin-bottom: 0px;" >
+  <img src="/images/gene_regulation/SAM-V_riboswitch_gene_regulation.svg" alt="drawing" style="width:800px;margin-top: 0px;margin-bottom: 0px;" >
   </td>
 </tr>
 </table>

@@ -195,7 +195,7 @@ In 2022, Breaker et al. identified <i>nhaA</i>-I motif and <i>nhaA</i>-II motif 
     <div class="main-container">
         <div class="zoom-wrapper2">
             <div class="zoom-area2">
-                <img src="/images/2D/" alt="drawing" style="width:400px" />
+                <img src="/images/2D/nan" alt="drawing" style="width:400px" />
             </div>
         </div>
     </div>

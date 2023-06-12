@@ -169,10 +169,7 @@ permalink: /docs/Fluoride/
 <font ><p>The fluoride riboswitch from <i>B. cereus</i> regulates gene expression at the transcriptional level. Stabilization of the pseudoknot (PK) upon F<sup>-</sup> binding (F<sup>-</sup>) prevents the formation of an intrinsic terminator hairpin, leading to the transcription of the downstream gene<sup>[6]</sup>.</p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
-  <img src="/images/gene_regulation/Fluoride_riboswitch_gene_regulation.svg" alt="drawing" style="width:400px;margin-top: 0px;margin-bottom: 0px;" >
-  </td>
-  <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
-  <img src="/images/gene_regulation/" alt="drawing" style="width:400px;margin-top: 0px;margin-bottom: 0px;" >
+  <img src="/images/gene_regulation/Fluoride_riboswitch_gene_regulation.svg" alt="drawing" style="width:800px;margin-top: 0px;margin-bottom: 0px;" >
   </td>
 </tr>
 </table>

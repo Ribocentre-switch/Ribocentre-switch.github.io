@@ -331,7 +331,7 @@ permalink: /docs/Guanine/
     <div class="main-container">
         <div class="zoom-wrapper4">
             <div class="zoom-area4">
-                <img src="/images/2D/" alt="drawing" style="width:400px" />
+                <img src="/images/2D/nan" alt="drawing" style="width:400px" />
             </div>
         </div>
     </div>

@@ -206,10 +206,7 @@ permalink: /docs/TPP/
 <font ><p>Typical mechanisms of the TPP riboswitch to repress gene expression. Top: translation initiation regulation (<i>thiM</i> genes). Bottom: transcription termination regulation (<i>thiC</i> genes). Complementary sequences and alternate base-pairing are shown in cyan. SD sequence and initiation codon are shaded green. TPP and Mg2+ ions are depicted in red and pink, respectively<sup>[2,7-8]</sup>.</p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
-  <img src="/images/gene_regulation/TPP_riboswitch_gene_regulation.svg" alt="drawing" style="width:400px;margin-top: 0px;margin-bottom: 0px;" >
-  </td>
-  <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
-  <img src="/images/gene_regulation/" alt="drawing" style="width:400px;margin-top: 0px;margin-bottom: 0px;" >
+  <img src="/images/gene_regulation/TPP_riboswitch_gene_regulation.svg" alt="drawing" style="width:800px;margin-top: 0px;margin-bottom: 0px;" >
   </td>
 </tr>
 </table>
