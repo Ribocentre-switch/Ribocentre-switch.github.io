@@ -2,7 +2,7 @@
 layout: post
 title:  "Manganese"
 date:   2023-05-04 00:00:00
-author: Yuanlin He, Jie Deng
+author: Yuanlin He, Xiaowei Lin
 permalink: /docs/Manganese/
 ---
 <p style="font-size: 24px"><strong>Rfam ID: [RF00080](https://rfam.xfam.org/family/RF00080,target="_blank")</strong> (<i>yybP-ykoY</i> manganese riboswitch)<br /></p>
@@ -97,7 +97,7 @@ permalink: /docs/Manganese/
 
     <timelineli class="day">
      <div class="events">
-       <p >Mn(2+)-sensing mechanisms of <i>yybP-ykoY</i> orphan riboswitches</p>
+       <p >Mn(2+)-sensing mechanisms of <i>yybP-ykoY</i> riboswitches</p>
        <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/25794619/" target="_blank">2015</a><sup>[3]</sup></div>
      </div>
     </timelineli>
@@ -113,7 +113,7 @@ permalink: /docs/Manganese/
 
     <timelineli class="day">
      <div class="events">
-       <p >The S.pneumoniae <i>yybP-ykoY</i> riboswitch functions to regulate Ca<sup>2+</sup> efflux</p>
+       <p >The <i>S.pneumoniae</i> <i>yybP-ykoY</i> riboswitch functions to regulate Ca<sup>2+</sup> efflux</p>
        <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/31165873/" target="_blank">2019</a><sup>[5]</sup></div>
      </div>
     </timelineli>
@@ -231,7 +231,7 @@ permalink: /docs/Manganese/
     <div class="main-container">
         <div class="zoom-wrapper2">
             <div class="zoom-area2">
-                <img src="/images/2D/" alt="drawing" style="width:400px" />
+                <img src="/images/2D/yybP-ykoY_manganese_riboswitch_2D2.svg" alt="drawing" style="width:400px" />
             </div>
         </div>
     </div>
@@ -415,8 +415,8 @@ permalink: /docs/Manganese/
                 
 <font ><p>Left: Surface representation of the binding pocket of the <i>yybP-ykoY</i> manganese riboswitch generated from PDB ID: 4Y1I. The manganese ion is labeled in red. Right: The metal coordination scheme. Mg<sup>2+</sup> is coordinated octahedrally by five backbone phosphates and a water. The Mn<sup>2+</sup> contains five backbone phosphates and the N7 of A41. N6 of A41 also makes a H-bond to the phosphate of U39<sup>[3]</sup>.<br /></p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
-<td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/yybP-ykoY_manganese_riboswitch_ binding_pockets1.svg" alt="drawing" style="width:400px"  px="" /></td>
-<td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/yybP-ykoY_manganese_riboswitch_ binding_pockets2.svg" alt="drawing" style="width:400px"  px="" /></td>
+<td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/yybP-ykoY_manganese_riboswitch_binding_pockets1.svg" alt="drawing" style="width:400px"  px="" /></td>
+<td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/yybP-ykoY_manganese_riboswitch_binding_pockets2.svg" alt="drawing" style="width:400px"  px="" /></td>
 </tr>
 </table>
 <p><br /></p>

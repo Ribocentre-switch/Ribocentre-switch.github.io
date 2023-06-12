@@ -405,28 +405,28 @@ permalink: /docs/PRPP/
                 
 <p class="header_box" id="references">References</p>
             
-<p><strong>[1] New RNA motifs suggest an expanded scope for riboswitches in bacterial genetic control</strong><br />
-Barrick, J. E. et al<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/15096624/" target="_blank">Proc. Natl. Acad. Sci. U. S. A. 101, 6421–6426 (2004)</a>
+<p><strong>[1] New RNA motifs suggest an expanded scope for riboswitches in bacterial genetic control.</strong><br />
+Barrick, J. E. et al.<br />
+<a href="https://pubmed.ncbi.nlm.nih.gov/15096624/" target="_blank">Proc. Natl. Acad. Sci. U. S. A. 101, 6421–6426 (2004).</a>
 <br /><br /></p>
                 
-<p><strong>[2] Metabolism of Free Guanidine in Bacteria Is Regulated by a Widespread Riboswitch Class</strong><br />
-Nelson, J. W., Atilho, R. M., Sherlock, M. E., Stockbridge, R. B. & Breaker, R. R<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/27989440/" target="_blank">Mol. Cell 65, (2017)</a>
+<p><strong>[2] Metabolism of Free Guanidine in Bacteria Is Regulated by a Widespread Riboswitch Class.</strong><br />
+Nelson, J. W., Atilho, R. M., Sherlock, M. E., Stockbridge, R. B. & Breaker, R. R.<br />
+<a href="https://pubmed.ncbi.nlm.nih.gov/27989440/" target="_blank">Mol. Cell 65, (2017).</a>
 <br /><br /></p>
                 
-<p><strong>[3] Tandem riboswitches form a natural Boolean logic gate to control purine metabolism in bacteria</strong><br />
-Sherlock, M. E., Sudarsan, N., Stav, S. & Breaker, R. R<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/29504937/" target="_blank">Elife 7, (2018)</a>
+<p><strong>[3] Tandem riboswitches form a natural Boolean logic gate to control purine metabolism in bacteria.</strong><br />
+Sherlock, M. E., Sudarsan, N., Stav, S. & Breaker, R. R.<br />
+<a href="https://pubmed.ncbi.nlm.nih.gov/29504937/" target="_blank">Elife 7, (2018).</a>
 <br /><br /></p>
                 
-<p><strong>[4] Structures of two aptamers with differing ligand specificity reveal ruggedness in the functional landscape of RNA</strong><br />
-Knappenberger, A. J., Reiss, C. W. & Strobel, S. A<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/29877798/" target="_blank">Elife 7, (2018)</a>
+<p><strong>[4] Structures of two aptamers with differing ligand specificity reveal ruggedness in the functional landscape of RNA.</strong><br />
+Knappenberger, A. J., Reiss, C. W. & Strobel, S. A.<br />
+<a href="https://pubmed.ncbi.nlm.nih.gov/29877798/" target="_blank">Elife 7, (2018).</a>
 <br /><br /></p>
                 
-<p><strong>[5] ykkC riboswitches employ an add-on helix to adjust specificity for polyanionic ligands</strong><br />
-Peselis, A. & Serganov, A<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/30120360/" target="_blank">Nat. Chem. Biol. 14, 887–894 (2018)</a>
+<p><strong>[5] ykkC riboswitches employ an add-on helix to adjust specificity for polyanionic ligands.</strong><br />
+Peselis, A. & Serganov, A.<br />
+<a href="https://pubmed.ncbi.nlm.nih.gov/30120360/" target="_blank">Nat. Chem. Biol. 14, 887–894 (2018).</a>
 <br /><br /></p>
                 

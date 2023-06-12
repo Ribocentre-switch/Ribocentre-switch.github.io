@@ -105,7 +105,7 @@ permalink: /docs/Lysine/
 
     <timelineli class="day">
      <div class="events">
-       <p >Several lysine analogs binding riboswitches in vitro inhibit Bacillus subtilis growth</p>
+       <p >Several lysine analogs binding riboswitches in vitro inhibit <i>Bacillus subtilis</i> growth</p>
        <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/17143270/" target="_blank">2007</a><sup>[4]</sup></div>
      </div>
     </timelineli>
@@ -161,7 +161,7 @@ permalink: /docs/Lysine/
 
     <timelineli class="day">
      <div class="events">
-       <p >The engineering of a lysine-ON riboswitch for metabolic control in Corynebacterium glutamicum</p>
+       <p >The engineering of a lysine-ON riboswitch for metabolic control in <i>Corynebacterium glutamicum</i></p>
        <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/26300047/" target="_blank">2015</a><sup>[11]</sup></div>
      </div>
     </timelineli>
@@ -210,7 +210,7 @@ permalink: /docs/Lysine/
 <p><br /></p>
         
 <p class="header_box" id="description">Description</p>
-<font >The Lysine riboswitch is a metabolite binding RNA element found within certain messenger RNAs that serve as a precision sensor for the amino acid lysine. Allosteric rearrangement of mRNA structure is mediated by ligand binding, and this results in modulation of gene expression. Lysine riboswitch are most abundant in Bacillota and Gammaproteobacteria where they are found upstream of a number of genes involved in lysine biosynthesis, transport and catabolism. The lysine riboswitch has also been identified independently and called the L box<sup></sup>.</font>
+<font >The Lysine riboswitch is a metabolite binding RNA element found within certain messenger RNAs that serve as a precision sensor for the amino acid lysine. Allosteric rearrangement of mRNA structure is mediated by ligand binding, and this results in modulation of gene expression. Lysine riboswitch are most abundant in Bacillota and Gammaproteobacteria where they are found upstream of a number of genes involved in lysine biosynthesis, transport and catabolism. The lysine riboswitch has also been identified independently and called the L box (From Wikipedia)<sup></sup>.</font>
 <p><br /></p>
             
 > Gene association
@@ -454,7 +454,7 @@ permalink: /docs/Lysine/
 > Ligand recognition
             
 <font >
-<p>Chemical structures of lysine and its analogs. The apparent KD of each compound of lysine riboswitch is shown on bottom<sup>[1,4]</sup>.<br /><br /></p>
+<p>Chemical structures of lysine and its analogs. The apparent K<sub>D</sub> of each compound of lysine riboswitch is shown on bottom<sup>[1,4]</sup>.<br /><br /></p>
 </font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;">
 <tr>

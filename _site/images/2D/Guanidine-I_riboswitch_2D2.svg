@@ -1258,6 +1258,6 @@
 <circle class="st15" cx="203.3" cy="343.7" r="5"/>
 <text transform="matrix(1 0 0 1 214.2297 342.7789)" class="st2 st16">Nucleotide directly</text>
 <text transform="matrix(1 0 0 1 214.2297 352.3788)" class="st2 st16">contacts guanidinium</text>
-<rect x="193.9" y="330" class="st17" width="98.3" height="27.6"/>
+<rect x="193.9" y="330" class="st17" width="109.9" height="27.6"/>
 <text transform="matrix(1 0 0 1 20.3146 32.7158)" class="st2 st18">Guanidine-I riboswitch</text>
 </svg>

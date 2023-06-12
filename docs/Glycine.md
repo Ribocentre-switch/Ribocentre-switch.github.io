@@ -97,7 +97,7 @@ permalink: /docs/Glycine/
 
     <timelineli class="day">
      <div class="events">
-       <p >The crystal structures of glycine-free and glycine-bound glycine riboswitch VCII</p>
+       <p >The crystal structures of glycine-free and glycine-bound glycine riboswitch</p>
        <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/21145485/" target="_blank">2010</a><sup>[4]</sup></div>
      </div>
     </timelineli>
@@ -105,7 +105,7 @@ permalink: /docs/Glycine/
 
     <timelineli class="day">
      <div class="events">
-       <p >Mg2+, Ca2+ and Mn2+ facilitate glycine binding</p>
+       <p >Mg<sup>2+</sup>, Ca<sup>2+</sup> and Mn<sup>2+</sup> facilitate glycine binding</p>
        <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/20194520/" target="_blank">2010</a><sup>[5]</sup></div>
      </div>
     </timelineli>
@@ -202,7 +202,7 @@ permalink: /docs/Glycine/
 <p><br /></p>
         
 <p class="header_box" id="description">Description</p>
-<font >The bacterial glycine riboswitch is an RNA element that can bind the amino acid glycine. Glycine riboswitches usually consist of two metabolite-binding aptamer domains with similar structures in tandem. The aptamers were originally thought to cooperatively bind glycine to regulate the expression of downstream genes. In <i>Bacillus subtilis</i>, this riboswitch is found upstream of the <i>gcvT</i> operon which controls glycine degradation. It is thought that when glycine is in excess it will bind to both aptamers to activate these genes and facilitate glycine degradation<sup></sup>.</font>
+<font >The bacterial glycine riboswitch is an RNA element that can bind the amino acid glycine. Glycine riboswitches usually consist of two metabolite-binding aptamer domains with similar structures in tandem. The aptamers were originally thought to cooperatively bind glycine to regulate the expression of downstream genes. In <i>Bacillus subtilis</i>, this riboswitch is found upstream of the <i>gcvT</i> operon which controls glycine degradation. It is thought that when glycine is in excess it will bind to both aptamers to activate these genes and facilitate glycine degradation (From Wikipedia)<sup></sup>.</font>
 <p><br /></p>
             
 > Gene association
@@ -460,7 +460,7 @@ permalink: /docs/Glycine/
 > Ligand recognition
             
 <font >
-<p>Chemical structures of glycine and its analogs. The apparent KD of each compound of glycine riboswitch is shown on bottom<sup>[1]</sup>.<br /><br /></p>
+<p>Chemical structures of glycine and its analogs. The apparent K<sub>D</sub> of each compound of glycine riboswitch is shown on bottom<sup>[1]</sup>.<br /><br /></p>
 </font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;">
 <tr>

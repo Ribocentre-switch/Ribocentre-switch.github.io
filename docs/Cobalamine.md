@@ -83,7 +83,7 @@ permalink: /docs/Cobalamine/
           
     <timelineli class="day">
      <div class="events">
-       <p >Discovery of the 5'-leader sequences of the btuB mRNAs  recognizing cobalamine to control gene expresion</p>
+       <p >Discovery of the 5'-leader sequences of the <i>btuB</i> mRNAs recognizing cobalamine to control gene expresion</p>
        <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/10852957/" target="_blank">2000</a><sup>[1]</sup></div>
      </div>
     </timelineli>

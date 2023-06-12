@@ -97,7 +97,7 @@ permalink: /docs/ADP/
 
     <timelineli class="day">
      <div class="events">
-       <p >Further classification of <i>ykkC</i> subtype 2 as subtypes 2a through 2d.</p>
+       <p >Further classification of <i>ykkC</i> subtype 2 as subtypes 2a through 2d</p>
        <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/29504937/" target="_blank">2018</a><sup>[3]</sup></div>
      </div>
     </timelineli>
@@ -131,7 +131,7 @@ permalink: /docs/ADP/
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;">
 <tr >
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
-  <img src="/images/gene_association/ADP_riboswitch_gene_association" alt="drawing" style="width:800px;margin-top: 0px;margin-bottom: 0px;" >
+  <img src="/images/gene_association/ADP_riboswitch_gene_association.svg" alt="drawing" style="width:800px;margin-top: 0px;margin-bottom: 0px;" >
 </td>
 </tr>
 </table>
@@ -252,23 +252,23 @@ permalink: /docs/ADP/
                 
 <p class="header_box" id="references">References</p>
             
-<p><strong>[1] New RNA motifs suggest an expanded scope for riboswitches in bacterial genetic control</strong><br />
-Barrick, J. E. et al<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/15096624/" target="_blank">Proc. Natl. Acad. Sci. U. S. A. 101, 6421–6426 (2004)</a>
+<p><strong>[1] New RNA motifs suggest an expanded scope for riboswitches in bacterial genetic control.</strong><br />
+Barrick, J. E. et al.<br />
+<a href="https://pubmed.ncbi.nlm.nih.gov/15096624/" target="_blank">Proc. Natl. Acad. Sci. U. S. A. 101, 6421–6426 (2004).</a>
 <br /><br /></p>
                 
-<p><strong>[2] Metabolism of Free Guanidine in Bacteria Is Regulated by a Widespread Riboswitch Class</strong><br />
-Nelson, J. W., Atilho, R. M., Sherlock, M. E., Stockbridge, R. B. & Breaker, R. R<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/27989440/" target="_blank">Mol. Cell 65, 220–230 (2017)</a>
+<p><strong>[2] Metabolism of Free Guanidine in Bacteria Is Regulated by a Widespread Riboswitch Class.</strong><br />
+Nelson, J. W., Atilho, R. M., Sherlock, M. E., Stockbridge, R. B. & Breaker, R. R.<br />
+<a href="https://pubmed.ncbi.nlm.nih.gov/27989440/" target="_blank">Mol. Cell 65, 220–230 (2017).</a>
 <br /><br /></p>
                 
-<p><strong>[3] Tandem riboswitches form a natural Boolean logic gate to control purine metabolism in bacteria</strong><br />
-Sherlock, M. E., Sudarsan, N., Stav, S. & Breaker, R. R<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/29504937/" target="_blank">Elife 7, (2018)</a>
+<p><strong>[3] Tandem riboswitches form a natural Boolean logic gate to control purine metabolism in bacteria.</strong><br />
+Sherlock, M. E., Sudarsan, N., Stav, S. & Breaker, R. R.<br />
+<a href="https://pubmed.ncbi.nlm.nih.gov/29504937/" target="_blank">Elife 7, (2018).</a>
 <br /><br /></p>
                 
-<p><strong>[4] Variant Bacterial Riboswitches Associated with Nucleotide Hydrolase Genes Sense Nucleoside Diphosphates</strong><br />
-Sherlock, M. E., Sadeeshkumar, H. & Breaker, R. R<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/30081631/" target="_blank">Biochemistry 58, 401–410 (2019)</a>
+<p><strong>[4] Variant Bacterial Riboswitches Associated with Nucleotide Hydrolase Genes Sense Nucleoside Diphosphates.</strong><br />
+Sherlock, M. E., Sadeeshkumar, H. & Breaker, R. R.<br />
+<a href="https://pubmed.ncbi.nlm.nih.gov/30081631/" target="_blank">Biochemistry 58, 401–410 (2019).</a>
 <br /><br /></p>
                 

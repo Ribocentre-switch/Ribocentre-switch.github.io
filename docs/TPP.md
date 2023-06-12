@@ -167,6 +167,14 @@ permalink: /docs/TPP/
     </timelineli>
         
 
+    <timelineli class="day">
+     <div class="events">
+       <p >Crystal structure of <i>E. coli</i> TPP riboswitch in the apo state</p>
+       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/37253356/" target="_blank">2023</a><sup>[24]</sup></div>
+     </div>
+    </timelineli>
+        
+
   </ul>
   <div class="year year--end">
     <div class="inner">
@@ -578,5 +586,10 @@ Zeller, M. J. et al.<br />
 <p><strong>[23] SHAPE-enabled fragment-based ligand discovery for RNA.</strong><br />
 Zeller, M. J. et al.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/35561226/" target="_blank">Proc. Natl. Acad. Sci. U. S. A. 119, (2022).</a>
+<br /><br /></p>
+                
+<p><strong>[24] Crystal structure of Escherichia coli thiamine pyrophosphate-sensing riboswitch in the apo state.</strong><br />
+Lee, H. K. et al.<br />
+<a href="https://pubmed.ncbi.nlm.nih.gov/37253356/" target="_blank">Structure (2023) doi:10.1016/j.str.2023.05.003.</a>
 <br /><br /></p>
                 

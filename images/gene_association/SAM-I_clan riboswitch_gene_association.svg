@@ -22,7 +22,7 @@
 <text transform="matrix(0.8779 0 -0.4789 0.8779 146.9896 148.2601)" class="st2 st4">metB</text>
 <text transform="matrix(1 0 0 1 219.83 250.68)" class="st2 st3">demethylation</text>
 <line class="st0" x1="395" y1="160.7" x2="479.1" y2="161.3"/>
-<line class="st1" x1="395" y1="160.7" x2="473.1" y2="161.3"/>
+<line class="st1" x1="416.9" y1="160.7" x2="473.1" y2="161.3"/>
 <path d="M479.1,161.3c-3.1,1.1-6,2.7-8.6,4.7l1.8-4.8l-1.7-4.8C473.2,158.6,476,160.2,479.1,161.3z"/>
 <text transform="matrix(1 0 0 1 24.72 229.89)" class="st2 st3">S-Adenosylhomocysteine</text>
 <text transform="matrix(1 0 0 1 207.2 163.87)" class="st2 st3">O-acetyl homocysteine</text>
@@ -31,7 +31,7 @@
 <text transform="matrix(0.867 0 -0.4983 0.867 403.2701 180.689)" class="st2 st5">metB</text>
 <text transform="matrix(1 0 0 1 484.84 165.29)" class="st2 st3">cystathionine</text>
 <line class="st0" x1="595.8" y1="161.3" x2="656.8" y2="161.8"/>
-<line class="st1" x1="595.8" y1="161.3" x2="650.8" y2="161.8"/>
+<line class="st1" x1="607.7" y1="161.3" x2="650.8" y2="161.8"/>
 <path d="M656.8,161.8c-3.1,1.1-6,2.7-8.6,4.7l1.8-4.7l-1.7-4.8C650.9,159,653.7,160.7,656.8,161.8z"/>
 <text transform="matrix(1 0 0 1 659.57 166.21)" class="st2 st3">homocysteine</text>
 <line class="st1" x1="688.2" y1="223.2" x2="713.5" y2="223.2"/>
@@ -43,9 +43,9 @@
 <path d="M503.3,223.2c3.1-1.1,6-2.7,8.5-4.8l-1.7,4.8l1.7,4.8C509.3,225.9,506.4,224.3,503.3,223.2z"/>
 <text transform="matrix(0.867 0 -0.4983 0.867 714.8718 201.1397)" class="st2 st5">metE</text>
 <text transform="matrix(0.867 0 -0.4983 0.867 513.5605 247.089)" class="st2 st5">metK</text>
-<line class="st0" x1="300.1" y1="225.4" x2="239.1" y2="225.4"/>
-<line class="st1" x1="300.1" y1="225.4" x2="245.2" y2="225.4"/>
-<path d="M239.1,225.4c3.1-1.1,6-2.7,8.5-4.8l-1.7,4.8l1.7,4.8C245.1,228.1,242.2,226.5,239.1,225.4z"/>
+<line class="st0" x1="292.5" y1="225.4" x2="251.2" y2="225.4"/>
+<line class="st1" x1="292.5" y1="225.4" x2="255.4" y2="225.4"/>
+<path d="M251.2,225.4c2.1-1.1,4.1-2.7,5.7-4.8l-1.1,4.8l1.1,4.8C255.3,228.1,253.3,226.5,251.2,225.4z"/>
 <rect x="454.1" y="175.1" class="st6" width="21.1" height="7.6"/>
 <rect x="13.2" y="292.1" class="st6" width="21.1" height="7.6"/>
 <text transform="matrix(1 0 0 1 48.8799 302.5441)" class="st2 st3">SAM-I riboswitch</text>

@@ -114,7 +114,7 @@ permalink: /docs/Azaaromatic/
 <p><br /></p>
         
 <p class="header_box" id="description">Description</p>
-<font >The azaaromatic riboswitch was named <i>yjdF</i> RNA. The <i>yjdF</i> RNA motif is a conserved RNA structure identified using bioinformatics. Most <i>yjdF</i> RNAs are located in bacteria classified within the phylum Bacillota. A <i>yjdF</i> RNA is found in the presumed 5' untranslated region (5' UTR) of the <i>yjdF</i> gene in <i>Bacillus subtilis</i>, and almost all <i>yjdF</i> RNAs are found in the 5' UTRs of homologs of this gene. <i>yjdF</i> RNAs appear to function as riboswitches that sense azaaromatic compounds, although the precise compound or set of compounds that is sensed by this riboswitch in the cell remains unclear<sup></sup>.</font>
+<font >The azaaromatic riboswitch was named <i>yjdF</i> RNA. The <i>yjdF</i> RNA motif is a conserved RNA structure identified using bioinformatics. Most <i>yjdF</i> RNAs are located in bacteria classified within the phylum Bacillota. A <i>yjdF</i> RNA is found in the presumed 5' untranslated region (5' UTR) of the <i>yjdF</i> gene in <i>Bacillus subtilis</i>, and almost all <i>yjdF</i> RNAs are found in the 5' UTRs of homologs of this gene. <i>yjdF</i> RNAs appear to function as riboswitches that sense azaaromatic compounds, although the precise compound or set of compounds that is sensed by this riboswitch in the cell remains unclear (From Wikipedia)<sup></sup>.</font>
 <p><br /></p>
             
 > Gene association
@@ -221,7 +221,7 @@ permalink: /docs/Azaaromatic/
 > Ligand recognition
             
 <font >
-<p>Chemical structures of azaaromatic. The apparent KD of each compound of azaaromatic riboswitch is shown on bottom<sup>[1]</sup>.<br /><br /></p>
+<p>Chemical structures of azaaromatic. The apparent K<sub>D</sub> of each compound of azaaromatic riboswitch is shown on bottom<sup>[1]</sup>.<br /><br /></p>
 </font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;">
 <tr>

@@ -522,48 +522,48 @@ permalink: /docs/Guanine/
                 
 <p class="header_box" id="references">References</p>
             
-<p><strong>[1] Xanthine metabolism in Bacillus subtilis: characterization of the xpt-pbuX operon and evidence for purine- and nitrogen-controlled expression of genes involved in xanthine salvage and catabolism</strong><br />
-Christiansen, L. C., Schou, S., Nygaard, P. & Saxild, H. H<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/9098051/" target="_blank">J. Bacteriol. 179, (1997)</a>
+<p><strong>[1] Xanthine metabolism in Bacillus subtilis: characterization of the xpt-pbuX operon and evidence for purine- and nitrogen-controlled expression of genes involved in xanthine salvage and catabolism.</strong><br />
+Christiansen, L. C., Schou, S., Nygaard, P. & Saxild, H. H.<br />
+<a href="https://pubmed.ncbi.nlm.nih.gov/9098051/" target="_blank">J. Bacteriol. 179, (1997).</a>
 <br /><br /></p>
                 
-<p><strong>[2] Riboswitches Control Fundamental Biochemical Pathways in Bacillus subtilis and Other Bacteria</strong><br />
-Mandal, M., Boese, B., Barrick, J. E., Winkler, W. C. & Breaker, R. R<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/12787499/" target="_blank">Cell 113, (2003)</a>
+<p><strong>[2] Riboswitches Control Fundamental Biochemical Pathways in Bacillus subtilis and Other Bacteria.</strong><br />
+Mandal, M., Boese, B., Barrick, J. E., Winkler, W. C. & Breaker, R. R.<br />
+<a href="https://pubmed.ncbi.nlm.nih.gov/12787499/" target="_blank">Cell 113, (2003).</a>
 <br /><br /></p>
                 
-<p><strong>[3] Structure of a natural guanine-responsive riboswitch complexed with the  metabolite hypoxanthine</strong><br />
-Batey, R. T., Gilbert, S. D. & Montange, R. K<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/15549109/" target="_blank">Nature 432, (2004)</a>
+<p><strong>[3] Structure of a natural guanine-responsive riboswitch complexed with the  metabolite hypoxanthine.</strong><br />
+Batey, R. T., Gilbert, S. D. & Montange, R. K.<br />
+<a href="https://pubmed.ncbi.nlm.nih.gov/15549109/" target="_blank">Nature 432, (2004).</a>
 <br /><br /></p>
                 
-<p><strong>[4] Structural Basis for Discriminative Regulation of Gene Expression by Adenine- and Guanine-Sensing mRNAs</strong><br />
-Serganov, A. et al<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/15610857/" target="_blank">Chem. Biol. 11, (2004)</a>
+<p><strong>[4] Structural Basis for Discriminative Regulation of Gene Expression by Adenine- and Guanine-Sensing mRNAs.</strong><br />
+Serganov, A. et al.<br />
+<a href="https://pubmed.ncbi.nlm.nih.gov/15610857/" target="_blank">Chem. Biol. 11, (2004).</a>
 <br /><br /></p>
                 
-<p><strong>[5] Thermodynamic and Kinetic Characterization of Ligand Binding to the Purine Riboswitch Aptamer Domain</strong><br />
-Gilbert, S. D., Stoddard, C. D., Wise, S. J. & Batey, R. T<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/16650860/" target="_blank">J. Mol. Biol. 359, (2006)</a>
+<p><strong>[5] Thermodynamic and Kinetic Characterization of Ligand Binding to the Purine Riboswitch Aptamer Domain.</strong><br />
+Gilbert, S. D., Stoddard, C. D., Wise, S. J. & Batey, R. T.<br />
+<a href="https://pubmed.ncbi.nlm.nih.gov/16650860/" target="_blank">J. Mol. Biol. 359, (2006).</a>
 <br /><br /></p>
                 
-<p><strong>[6] Adaptive Ligand Binding by the Purine Riboswitch in the Recognition of Guanine and Adenine Analogs</strong><br />
-Gilbert, S. D., Reyes, F. E., Edwards, A. L. & Batey, R. T<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/19523903/" target="_blank">Structure 17, (2009)</a>
+<p><strong>[6] Adaptive Ligand Binding by the Purine Riboswitch in the Recognition of Guanine and Adenine Analogs.</strong><br />
+Gilbert, S. D., Reyes, F. E., Edwards, A. L. & Batey, R. T.<br />
+<a href="https://pubmed.ncbi.nlm.nih.gov/19523903/" target="_blank">Structure 17, (2009).</a>
 <br /><br /></p>
                 
-<p><strong>[7] Influence of ground-state structure and Mg 2+ binding on folding kinetics of the guanine-sensing riboswitch aptamer domain</strong><br />
-Buck, J. et al<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/21890900/" target="_blank">Nucleic Acids Res. 39, (2011)</a>
+<p><strong>[7] Influence of ground-state structure and Mg 2+ binding on folding kinetics of the guanine-sensing riboswitch aptamer domain.</strong><br />
+Buck, J. et al.<br />
+<a href="https://pubmed.ncbi.nlm.nih.gov/21890900/" target="_blank">Nucleic Acids Res. 39, (2011).</a>
 <br /><br /></p>
                 
-<p><strong>[8] A Crystal Structure of a Functional RNA Molecule Containing an Artificial Nucleobase Pair</strong><br />
-Hernandez, A. R. et al<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/26223188/" target="_blank">Angew. Chem. Int. Ed Engl. 54, (2015)</a>
+<p><strong>[8] A Crystal Structure of a Functional RNA Molecule Containing an Artificial Nucleobase Pair.</strong><br />
+Hernandez, A. R. et al.<br />
+<a href="https://pubmed.ncbi.nlm.nih.gov/26223188/" target="_blank">Angew. Chem. Int. Ed Engl. 54, (2015).</a>
 <br /><br /></p>
                 
-<p><strong>[9] Variants of the guanine riboswitch class exhibit altered ligand specificities for xanthine, guanine, or 2′-deoxyguanosine</strong><br />
-Hamal, D. S., Panchapakesan, S. S. S., Slattery, P., Roth, A. & Breaker, R. R<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/35622895/" target="_blank">Proc. Natl. Acad. Sci. U. S. A. 119, (2022)</a>
+<p><strong>[9] Variants of the guanine riboswitch class exhibit altered ligand specificities for xanthine, guanine, or 2′-deoxyguanosine.</strong><br />
+Hamal, D. S., Panchapakesan, S. S. S., Slattery, P., Roth, A. & Breaker, R. R.<br />
+<a href="https://pubmed.ncbi.nlm.nih.gov/35622895/" target="_blank">Proc. Natl. Acad. Sci. U. S. A. 119, (2022).</a>
 <br /><br /></p>
                 

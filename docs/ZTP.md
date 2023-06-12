@@ -81,7 +81,7 @@ permalink: /docs/ZTP/
           
     <timelineli class="day">
      <div class="events">
-       <p >Discovery of pfl motif as a riboswitch candidate</p>
+       <p >Discovery of <i>pfl</i> motif as a riboswitch candidate</p>
        <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/20230605/" target="_blank">2010</a><sup>[1]</sup></div>
      </div>
     </timelineli>
@@ -89,7 +89,7 @@ permalink: /docs/ZTP/
 
     <timelineli class="day">
      <div class="events">
-       <p >Identification and validation of pfl motif as ZTP riboswitch</p>
+       <p >Identification and validation of <i>pfl</i> motif as ZTP riboswitch</p>
        <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/25616067/" target="_blank">2015</a><sup>[2]</sup></div>
      </div>
     </timelineli>
@@ -113,7 +113,7 @@ permalink: /docs/ZTP/
 
     <timelineli class="day">
      <div class="events">
-       <p >Crystal structure of the Fusobacterium ulcerans ZTP riboswitch bound to ZMP</p>
+       <p >Crystal structure of the <i>Fusobacterium ulcerans</i> ZTP riboswitch bound to ZMP</p>
        <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/26280533/" target="_blank">2015</a><sup>[5]</sup></div>
      </div>
     </timelineli>
@@ -121,7 +121,7 @@ permalink: /docs/ZTP/
 
     <timelineli class="day">
      <div class="events">
-       <p >Co-crystal structure of the Fusobacterium ulcerans ZTP riboswitch using an X-ray free-electron laser</p>
+       <p >Co-crystal structure of the <i>Fusobacterium ulcerans</i> ZTP riboswitch using an X-ray free-electron laser</p>
        <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/31282869/" target="_blank">2019</a><sup>[6]</sup></div>
      </div>
     </timelineli>
@@ -153,7 +153,7 @@ permalink: /docs/ZTP/
 
     <timelineli class="day">
      <div class="events">
-       <p >The ZTP riboswitch programmable dynamic range in vivo via tuning strand displacement kinetics</p>
+       <p >The ZTP riboswitch programmable dynamic range <i>in vivo</i> via tuning strand displacement kinetics</p>
        <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/36864761/" target="_blank">2023</a><sup>[10]</sup></div>
      </div>
     </timelineli>
@@ -170,7 +170,9 @@ permalink: /docs/ZTP/
 <p><br /></p>
         
 <p class="header_box" id="description">Description</p>
-<font >The ZMP/ZTP riboswitch (called the <i>pfl</i> RNA motif before) refers to a conserved RNA structure present in some bacteria and originally discovered using bioinformatics. ZMP/ZTP riboswitch are consistently present in genomic locations that likely correspond to the 5' untranslated regions (5' UTRs) of protein-coding genes. This arrangement in bacteria is commonly associated with cis-regulatory elements. Moreover, they are in presumed 5' UTRs of multiple non-homologous genes, suggesting that they function only in these locations. Additional evidence of cis-regulatory function came from the observation that predicted rho-independent transcription terminators overlap pfl RNAs. This overlap suggests that the alternate secondary structures of <i>pfl</i> RNA and the transcription terminator stem-loops compete with each other, and this is a common mechanism for cis gene control in bacteria. ZMP/ZTP riboswitch are found in a variety of phyla of bacteria, but are not found in all the species of that phylum. ZMP/ZTP riboswitch are common among species of orders Actinomycetales and Clostridiales, the classes Alphaproteobacteria and Betaproteobacteria and the genus Deinococcus. They are also found in isolated species of Bacteroidota, Chloroflexota, and Deltaproteobacteria. The genes regulated by ZMP/ZTP riboswitch relate to one-carbon metabolism. Most obviously, for example, formate-tetrahydrofolate ligase synthesizes 10-formyltetrahydrofolate. The <i>glyA</i> and <i>folD</i> convert between other one-carbon adducts of tetrahydrofolate. Another gene commonly associated with ZMP/ZTP riboswitch is <i>purH</i>, which catalyzes the formylation of the intermediate AICAR in <i>de novo</i> synthesis of purines. The formyl group is taken from formyltetrahydrofolate, and purine biosynthesis is often the dominant user of formyltetrahydrofolate. In similar fashions, if less directly, most ZMP/ZTP riboswitch are associated with genes that are directly or indirectly involved in one-carbon metabolism. It appears that the ZTP/ZMP purine derivatives can be used to regulate one-carbon metabolism by indirectly sensing a shortage of 10-formyl-tetrahydrofolate. The atomic-resolution structure has been solved by X-ray crystallography. These structures were deposited into the Protein Data Bank under accessions 4ZNP  (From Wikipedia)<sup></sup>.</font>
+<font >The ZMP/ZTP riboswitch (called the <i>pfl</i> RNA motif before) refers to a conserved RNA structure present in some bacteria and originally discovered using bioinformatics. ZMP/ZTP riboswitch are consistently present in genomic locations that likely correspond to the 5' untranslated regions (5' UTRs) of protein-coding genes. This arrangement in bacteria is commonly associated with <i>cis</i>-regulatory elements. Moreover, they are in presumed 5' UTRs of multiple non-homologous genes, suggesting that they function only in these locations. Additional evidence of <i>cis</i>-regulatory function came from the observation that predicted rho-independent transcription terminators overlap pfl RNAs. This overlap suggests that the alternate secondary structures of <i>pfl</i> RNA and the transcription terminator stem-loops compete with each other, and this is a common mechanism for <i>cis</i> gene control in bacteria. ZMP/ZTP riboswitch are found in a variety of phyla of bacteria, but are not found in all the species of that phylum. ZMP/ZTP riboswitch are common among species of orders <i>Actinomycetales</i> and <i>Clostridiales</i>, the classes <i>Alphaproteobacteria</i> and <i>Betaproteobacteria</i> and the genus <i>Deinococcus</i>. They are also found in isolated species of <i>Bacteroidota</i>, <i>Chloroflexota</i>, and <i>Deltaproteobacteria</i>. 
+
+The genes regulated by ZMP/ZTP riboswitch relate to one-carbon metabolism. Most obviously, for example, formate-tetrahydrofolate ligase synthesizes 10-formyltetrahydrofolate. The <i>glyA</i> and <i>folD</i> convert between other one-carbon adducts of tetrahydrofolate. Another gene commonly associated with ZMP/ZTP riboswitch is <i>purH</i>, which catalyzes the formylation of the intermediate AICAR in <i>de novo</i> synthesis of purines. The formyl group is taken from formyltetrahydrofolate, and purine biosynthesis is often the dominant user of formyltetrahydrofolate. In similar fashions, if less directly, most ZMP/ZTP riboswitch are associated with genes that are directly or indirectly involved in one-carbon metabolism. It appears that the ZTP/ZMP purine derivatives can be used to regulate one-carbon metabolism by indirectly sensing a shortage of 10-formyl-tetrahydrofolate. The atomic-resolution structure has been solved by X-ray crystallography. These structures were deposited into the Protein Data Bank under accessions 4ZNP  (From Wikipedia)<sup></sup>.</font>
 <p><br /></p>
             
 > Gene association

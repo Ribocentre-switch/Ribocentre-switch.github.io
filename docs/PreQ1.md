@@ -5,9 +5,9 @@ date:   2023-05-12 00:00:00
 author: Wenjian Liao, Zhizhong Lu
 permalink: /docs/PreQ/
 ---
-<p style="font-size: 24px"><strong>Rfam ID: [RF00522](https://rfam.xfam.org/family/RF00522,target="_blank")</strong> (PreQ<sub>1</sub>-I riboswitch)<br /></p>
-<p style="font-size: 24px"><strong>&emsp;&emsp;&emsp;&emsp;[RF01054](https://rfam.xfam.org/family/RF01054,target="_blank")</strong> (PreQ<sub>1</sub>-II riboswitch) <br /></p>
-<p style="font-size: 24px"><strong>&emsp;&emsp;&emsp;&emsp;[RF02680](https://rfam.xfam.org/family/RF02680,target="_blank")</strong> (PreQ<sub>1</sub>-III riboswitch) <br /></p>
+<p style="font-size: 24px"><strong>Rfam ID: [RF00522](https://rfam.xfam.org/family/RF00522,target="_blank")</strong> (PreQ1 riboswitch)<br /></p>
+<p style="font-size: 24px"><strong>&emsp;&emsp;&emsp;&emsp;[RF01054](https://rfam.xfam.org/family/RF01054,target="_blank")</strong> (preQ1-II (pre queuosine) riboswitch ) <br /></p>
+<p style="font-size: 24px"><strong>&emsp;&emsp;&emsp;&emsp;[RF02680](https://rfam.xfam.org/family/RF02680,target="_blank")</strong> (PreQ1-III riboswitch) <br /></p>
 
 <br />
 <html>
@@ -188,7 +188,7 @@ permalink: /docs/PreQ/
 <p><br /></p>
         
 <p class="header_box" id="description">Description</p>
-<font >PreQ<sub>1</sub> is a guanine-derived nucleobase that is known to be incorporated in the wobble position of tRNAs containing the GUN anticodon sequence and then further modified to yield queuosine (Q). Three subcategories of the PreQ<sub>1</sub> riboswitch exist: preQ<sub>1</sub>-I, preQ<sub>1</sub>-II, and preQ<sub>1</sub>-III. PreQ<sub>1</sub>-I has a distinctly small aptamer, ranging from 25 to 45 nucleotides long, and it is represented by RNAs sub-classified as ‘type 1’, ‘type 2’ and ‘type 3’. PreQ<sub>1</sub>-II riboswitch, only found in <i>Lactobacillales</i>, has a larger and more complex consensus sequence and structure than preQ<sub>1</sub>-I riboswitch, with an average of 58 nucleotides composing its aptamer, which forms as many as five base-paired substructures. PreQ<sub>1</sub>-III riboswitch has a distinct structure and is also larger in aptamer size than preQ<sub>1</sub>-I riboswitch, ranging from 33 to 58 nucleotides (from Wikipedia)<sup></sup>.</font>
+<font >PreQ<sub>1</sub> is a guanine-derived nucleobase that is known to be incorporated in the wobble position of tRNAs containing the GUN anticodon sequence and then further modified to yield queuosine (Q). Three subcategories of the PreQ<sub>1</sub> riboswitch exist: PreQ<sub>1</sub>-I, PreQ<sub>1</sub>-II, and PreQ<sub>1</sub>-III. PreQ<sub>1</sub>-I has a distinctly small aptamer, ranging from 25 to 45 nucleotides long, and it is represented by RNAs sub-classified as ‘type 1’, ‘type 2’ and ‘type 3’. PreQ<sub>1</sub>-II riboswitch, only found in <i>Lactobacillales</i>, has a larger and more complex consensus sequence and structure than preQ<sub>1</sub>-I riboswitch, with an average of 58 nucleotides composing its aptamer, which forms as many as five base-paired substructures. PreQ<sub>1</sub>-III riboswitch has a distinct structure and is also larger in aptamer size than preQ<sub>1</sub>-I riboswitch, ranging from 33 to 58 nucleotides (from Wikipedia)<sup></sup>.</font>
 <p><br /></p>
             
 > Gene association
@@ -197,7 +197,7 @@ permalink: /docs/PreQ/
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;">
 <tr >
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
-  <img src="/images/gene_association/PreQ1_riboswitch_gene_association" alt="drawing" style="width:800px;margin-top: 0px;margin-bottom: 0px;" >
+  <img src="/images/gene_association/PreQ1_riboswitch_gene_association.svg" alt="drawing" style="width:800px;margin-top: 0px;margin-bottom: 0px;" >
 </td>
 </tr>
 </table>
@@ -964,58 +964,58 @@ Meyer, M. M., Roth, A., Chervin, S. M., Garcia, G. A. & Breaker, R. R<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/18305186/" target="_blank">RNA 14, (2008)</a>
 <br /><br /></p>
                 
-<p><strong>[3] Cocrystal structure of a class I preQ<sub>1</sub> riboswitch reveals a pseudoknot recognizing an essential hypermodified nucleobase</strong><br />
-Klein, D. J., Edwards, T. E. & Ferré-D’Amaré, A. R<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/19234468/" target="_blank">Nat. Struct. Mol. Biol. 16, (2009)</a>
+<p><strong>[3] Cocrystal structure of a class I preQ<sub>1</sub> riboswitch reveals a pseudoknot recognizing an essential hypermodified nucleobase.</strong><br />
+Klein, D. J., Edwards, T. E. & Ferré-D’Amaré, A. R.<br />
+<a href="https://pubmed.ncbi.nlm.nih.gov/19234468/" target="_blank">Nat. Struct. Mol. Biol. 16, (2009).</a>
 <br /><br /></p>
                 
-<p><strong>[4] Structural Insights into riboswitch control of the biosynthesis of queuosine, a  modified nucleotide found in the anticodon of Trna</strong><br />
-Kang, M., Peterson, R. & Feigon, J<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/19285444/" target="_blank">Mol. Cell 33, (2009)</a>
+<p><strong>[4] Structural Insights into riboswitch control of the biosynthesis of queuosine, a  modified nucleotide found in the anticodon of Trna.</strong><br />
+Kang, M., Peterson, R. & Feigon, J.<br />
+<a href="https://pubmed.ncbi.nlm.nih.gov/19285444/" target="_blank">Mol. Cell 33, (2009).</a>
 <br /><br /></p>
                 
-<p><strong>[5] The Structural Basis for Recognition of the PreQ<sub>0</sub> Metabolite by an Unusually Small Riboswitch Aptamer Domain</strong><br />
-Spitale, R. C., Torelli, A. T., Krucinska, J., Bandarian, V. & Wedekind, J. E<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/19261617/" target="_blank">J. Biol. Chem. 284, (2009)</a>
+<p><strong>[5] The Structural Basis for Recognition of the PreQ<sub>0</sub> Metabolite by an Unusually Small Riboswitch Aptamer Domain.</strong><br />
+Spitale, R. C., Torelli, A. T., Krucinska, J., Bandarian, V. & Wedekind, J. E.<br />
+<a href="https://pubmed.ncbi.nlm.nih.gov/19261617/" target="_blank">J. Biol. Chem. 284, (2009).</a>
 <br /><br /></p>
                 
-<p><strong>[6] Comparison of a PreQ<sub>1</sub> Riboswitch Aptamer in Metabolite-bound and Free States with Implications for Gene Regulation</strong><br />
-Jenkins, J. L., Krucinska, J., McCarty, R. M., Bandarian, V. & Wedekind, J. E<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/21592962/" target="_blank">J. Biol. Chem. 286, (2011)</a>
+<p><strong>[6] Comparison of a PreQ<sub>1</sub> Riboswitch Aptamer in Metabolite-bound and Free States with Implications for Gene Regulation.</strong><br />
+Jenkins, J. L., Krucinska, J., McCarty, R. M., Bandarian, V. & Wedekind, J. E.<br />
+<a href="https://pubmed.ncbi.nlm.nih.gov/21592962/" target="_blank">J. Biol. Chem. 286, (2011).</a>
 <br /><br /></p>
                 
-<p><strong>[7] Structure of a class II preQ<sub>1</sub> riboswitch reveals ligand recognition by a new fold</strong><br />
-Liberman, J. A., Salim, M., Krucinska, J. & Wedekind, J. E<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/23584677/" target="_blank">Nat. Chem. Biol. 9, (2013)</a>
+<p><strong>[7] Structure of a class II preQ<sub>1</sub> riboswitch reveals ligand recognition by a new fold.</strong><br />
+Liberman, J. A., Salim, M., Krucinska, J. & Wedekind, J. E.<br />
+<a href="https://pubmed.ncbi.nlm.nih.gov/23584677/" target="_blank">Nat. Chem. Biol. 9, (2013).</a>
 <br /><br /></p>
                 
-<p><strong>[8] Structural determinants for ligand capture by a class II preQ<sub>1</sub> riboswitch</strong><br />
-Kang, M., Eichhorn, C. D. & Feigon, J<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/24469808/" target="_blank">Proc. Natl. Acad. Sci. U. S. A. 111, (2014)</a>
+<p><strong>[8] Structural determinants for ligand capture by a class II preQ<sub>1</sub> riboswitch.</strong><br />
+Kang, M., Eichhorn, C. D. & Feigon, J.<br />
+<a href="https://pubmed.ncbi.nlm.nih.gov/24469808/" target="_blank">Proc. Natl. Acad. Sci. U. S. A. 111, (2014).</a>
 <br /><br /></p>
                 
-<p><strong>[9] Structural, Functional, and Taxonomic Diversity of Three PreQ<sub>1</sub> Riboswitch Classes</strong><br />
-McCown, P. J., Liang, J. J., Weinberg, Z. & Breaker, R. R<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/25036777/" target="_blank">Chem. Biol. 21, (2014)</a>
+<p><strong>[9] Structural, Functional, and Taxonomic Diversity of Three PreQ<sub>1</sub> Riboswitch Classes.</strong><br />
+McCown, P. J., Liang, J. J., Weinberg, Z. & Breaker, R. R.<br />
+<a href="https://pubmed.ncbi.nlm.nih.gov/25036777/" target="_blank">Chem. Biol. 21, (2014).</a>
 <br /><br /></p>
                 
-<p><strong>[10] Structural analysis of a class III preQ<sub>1</sub> riboswitch reveals an aptamer distant from a ribosome-binding site regulated by fast dynamics</strong><br />
-Liberman, J. A<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/26106162/" target="_blank">Proc. Natl. Acad. Sci. U. S. A. 112, (2015)</a>
+<p><strong>[10] Structural analysis of a class III preQ<sub>1</sub> riboswitch reveals an aptamer distant from a ribosome-binding site regulated by fast dynamics.</strong><br />
+Liberman, J. A.<br />
+<a href="https://pubmed.ncbi.nlm.nih.gov/26106162/" target="_blank">Proc. Natl. Acad. Sci. U. S. A. 112, (2015).</a>
 <br /><br /></p>
                 
-<p><strong>[11] Synthetic ligands for PreQ<sub>1</sub> riboswitches provide structural and mechanistic insights into targeting RNA tertiary structure</strong><br />
-Connelly, C. M. et al<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/30940810/" target="_blank">Nat. Commun. 10, (2019)</a>
+<p><strong>[11] Synthetic ligands for PreQ<sub>1</sub> riboswitches provide structural and mechanistic insights into targeting RNA tertiary structure.</strong><br />
+Connelly, C. M. et al.<br />
+<a href="https://pubmed.ncbi.nlm.nih.gov/30940810/" target="_blank">Nat. Commun. 10, (2019).</a>
 <br /><br /></p>
                 
-<p><strong>[12] Analysis of a preQ<sub>1</sub>-I riboswitch in effector-free and bound states reveals a metabolite-programmed nucleobase-stacking spine that controls gene regulation</strong><br />
-Schroeder, G. M. et al<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/32597951/" target="_blank">Nucleic Acids Res. 48, (2020)</a>
+<p><strong>[12] Analysis of a preQ<sub>1</sub>-I riboswitch in effector-free and bound states reveals a metabolite-programmed nucleobase-stacking spine that controls gene regulation.</strong><br />
+Schroeder, G. M. et al.<br />
+<a href="https://pubmed.ncbi.nlm.nih.gov/32597951/" target="_blank">Nucleic Acids Res. 48, (2020).</a>
 <br /><br /></p>
                 
-<p><strong>[13] A small RNA that cooperatively senses two stacked metabolites in one pocket for gene control</strong><br />
-Schroeder, G. M. et al<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/35017488/" target="_blank">Nat. Commun. 13, (2022)</a>
+<p><strong>[13] A small RNA that cooperatively senses two stacked metabolites in one pocket for gene control.</strong><br />
+Schroeder, G. M. et al.<br />
+<a href="https://pubmed.ncbi.nlm.nih.gov/35017488/" target="_blank">Nat. Commun. 13, (2022).</a>
 <br /><br /></p>
                 

@@ -180,7 +180,7 @@ permalink: /docs/SAM-I_clan/
     <timelineli class="day">
      <div class="events">
        <p >Cryo-EM SAM-IV riboswitch structure at 3.7 Å resolution</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/ 31796736/" target="_blank">2019</a><sup>19</sup></div>
+       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/31796736/" target="_blank">2019</a><sup>19</sup></div>
      </div>
     </timelineli>
         
@@ -212,14 +212,14 @@ permalink: /docs/SAM-I_clan/
 <p><br /></p>
         
 <p class="header_box" id="description">Description</p>
-<font >This family is a member of clan (CL00012), which contains the following 3 members:SAM-I, SAM-I-IV-variant, SAM-IV (from WiKi)
-The SAM riboswitch (also known as the S-box leader and the SAM-I riboswitch) is found upstream of a number of genes which code for proteins involved in methionine or cysteine biosynthesis in Gram-positive bacteria. Two SAM riboswitches in Bacillus subtilis that were experimentally studied act at the level of transcription termination control. The predicted secondary structure consists of a complex stem-loop region followed by a single stem-loop terminator region. An alternative and mutually exclusive form involves bases in the 3' segment of helix 1 with those in the 5' region of helix 5 to form a structure termed the anti-terminator form. When SAM is unbound, the anti-terminator sequence sequesters the terminator sequence so the terminator is unable to form, allowing the polymerase to read-through the downstream gene. When S-Adenosyl methionine (SAM) is bound to the aptamer, the anti-terminator is sequestered by an anti-anti-terminator; the terminator forms and terminates the transcription. However, many SAM riboswitches are likely to regulate gene expression at the level of translation (from WiKi)
-SAM-IV riboswitches are a kind of riboswitch that specifically binds S-adenosylmethionine (SAM),a cofactor used in many methylation reactions. Originally identified by bioinformatics,SAM-IV riboswitches are largely confined to the Actinomycetales, an order of Bacteria. Conserved features of SAM-IV riboswitch and experiments imply that they probably share a similar SAM-binding site to another class of SAM-binding riboswitches called SAM-I riboswitches. However, the scaffolds of these two types of riboswitch appear to be quite distinct. The structural relationship between these riboswitch types has been studied (from WiKi)<sup></sup>.</font>
+<font >This family is a member of clan (CL00012), which contains the following 3 members: SAM-I, SAM-I-IV-variant, SAM-IV (from WiKi)
+The SAM riboswitch (also known as the S-box leader and the SAM-I riboswitch) is found upstream of a number of genes which code for proteins involved in methionine or cysteine biosynthesis in Gram-positive bacteria. Two SAM riboswitches in Bacillus subtilis that were experimentally studied act at the level of transcription termination control. The predicted secondary structure consists of a complex stem-loop region followed by a single stem-loop terminator region. An alternative and mutually exclusive form involves bases in the 3' segment of helix 1 with those in the 5' region of helix 5 to form a structure termed the anti-terminator form. When SAM is unbound, the anti-terminator sequence sequesters the terminator sequence so the terminator is unable to form, allowing the polymerase to read-through the downstream gene. When S-Adenosyl methionine (SAM) is bound to the aptamer, the anti-terminator is sequestered by an anti-anti-terminator; the terminator forms and terminates the transcription. However, many SAM riboswitches are likely to regulate gene expression at the level of translation.
+SAM-IV riboswitches are a kind of riboswitch that specifically binds S-adenosylmethionine (SAM), a cofactor used in many methylation reactions. Originally identified by bioinformatics, SAM-IV riboswitches are largely confined to the Actinomycetales, an order of Bacteria. Conserved features of SAM-IV riboswitch and experiments imply that they probably share a similar SAM-binding site to another class of SAM-binding riboswitches called SAM-I riboswitches. However, the scaffolds of these two types of riboswitch appear to be quite distinct. The structural relationship between these riboswitch types has been studied (from WiKi).<sup></sup>.</font>
 <p><br /></p>
             
 > Gene association
         
-<font >Pathways for sulphate assimilation and biosynthesis of cysteine and methionine.SAM-I riboswitch (red bar),SAM-IV riboswitch (yellow bar) and SAM-I/IV riboswitch (green bar) are involved in multiple gene regulation in the synthetic pathway<sup>[1,7,9]</sup>.</font>
+<font >Pathways for sulphate assimilation and biosynthesis of cysteine and methionine. SAM-I riboswitch (red bar), SAM-IV riboswitch (yellow bar) and SAM-I/IV riboswitch (green bar) are involved in multiple gene regulation in the synthetic pathway<sup>[1,7,9]</sup>.</font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;">
 <tr >
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
@@ -240,7 +240,7 @@ SAM-IV riboswitches are a kind of riboswitch that specifically binds S-adenosylm
 </table>
 <p><br /></p>
                     
-<font ><p>Regulation mechanism of SAM-IV riboswitch,PK-2 plays a direct role in both ligand binding and regulation<sup>[19]</sup>.</p></font>
+<font ><p>Regulation mechanism of SAM-IV riboswitch, PK-2 plays a direct role in both ligand binding and regulation<sup>[19]</sup>.</p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
   <img src="/images/gene_regulation/SAM-IV_riboswitch_gene_regulation.svg" alt="drawing" style="width:800px;margin-top: 0px;margin-bottom: 0px;" >
@@ -249,7 +249,7 @@ SAM-IV riboswitches are a kind of riboswitch that specifically binds S-adenosylm
 </table>
 <p><br /></p>
                     
-<font ><p>Regulation mechanism of SAM-I/IV riboswitch,PK-3 plays a direct role in both ligand binding and regulation<sup>[15,19]</sup>.</p></font>
+<font ><p>Regulation mechanism of SAM-I/IV riboswitch, PK-3 plays a direct role in both ligand binding and regulation<sup>[15,19]</sup>.</p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
   <img src="/images/gene_regulation/SAM-I+IV_riboswitch_gene_regulation.svg" alt="drawing" style="width:800px;margin-top: 0px;margin-bottom: 0px;" >
@@ -423,7 +423,7 @@ SAM-IV riboswitches are a kind of riboswitch that specifically binds S-adenosylm
 </tr></table><br>
 <p><br /></p>
                 
-<font >Left: Consensus sequence and secondary structure model for the SAM-I/IV riboswitch. Right: Secondary structure depictions of the SAM-I/IV riboswitch according to PDB ID:4oqu<sup></sup>.</font><br>
+<font >Left: Consensus sequence and secondary structure model for the SAM-I/IV riboswitch. Right: Secondary structure depictions of the SAM-I/IV riboswitch according to PDB ID: 4oqu<sup></sup>.</font><br>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
 <head>
@@ -506,7 +506,7 @@ SAM-IV riboswitches are a kind of riboswitch that specifically binds S-adenosylm
                 
 > 3D visualisation
             
-<font >2.9-Å resolution crystal structure of an S-adenosylmethionine (SAM) riboswitch from thermoanaerobacter tengcongensis complexed with S-adenosylmethionine.SAM (shown in sticks) is labeled in red <sup>[4]</sup>.</font>
+<font >2.9-Å resolution crystal structure of an S-adenosylmethionine (SAM) riboswitch from thermoanaerobacter tengcongensis complexed with S-adenosylmethionine. SAM (shown in sticks) is labeled in red <sup>[4]</sup>.</font>
   <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
   <img src="/images/3D/SAM-I_riboswitch_3D.svg" alt="drawing" style="width:400px;height:400px;margin-top: 0px;margin-bottom: 0px;" >
@@ -586,8 +586,7 @@ SAM-IV riboswitches are a kind of riboswitch that specifically binds S-adenosylm
   start_residue_number:9, 
   end_residue_number:13, 
   color:{r:194,g:194,b:255}
-}, 
- {
+},{
   struct_asym_id: 'A', 
   start_residue_number:60, 
   end_residue_number:68, 
@@ -630,7 +629,7 @@ SAM-IV riboswitches are a kind of riboswitch that specifically binds S-adenosylm
   </tr></table><br>
   <p><br /></p>
                 
-<font >4.10-Å resolution crystal structure of an S-adenosylmethionine (SAM) riboswitch from thermoanaerobacter tengcongensis complexed with S-adenosylmethionine.SAM (shown in sticks) is labeled in red <sup>[19]</sup>.</font>
+<font >4.1-Å resolution cryo-EM structure of an SAM-IV riboswitch from <i>Mycobacterium sp.</i> complexed with S-adenosylmethionine. SAM (shown in sticks) is labeled in red <sup>[19]</sup>.</font>
   <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
   <img src="/images/3D/SAM-IV_riboswitch_3D.svg" alt="drawing" style="width:400px;height:400px;margin-top: 0px;margin-bottom: 0px;" >
@@ -710,7 +709,7 @@ SAM-IV riboswitches are a kind of riboswitch that specifically binds S-adenosylm
   end_residue_number:8, 
   color:{r:194,g:194,b:255}
 }, 
- {
+{
   struct_asym_id: 'A', 
   start_residue_number:72, 
   end_residue_number:75, 
@@ -758,7 +757,7 @@ SAM-IV riboswitches are a kind of riboswitch that specifically binds S-adenosylm
   </tr></table><br>
   <p><br /></p>
                 
-<font >3.20-Å resolution crystal structure of an S-adenosylmethionine (SAM) riboswitch from thermoanaerobacter tengcongensis complexed with S-adenosylmethionine.SAM (shown in sticks) is labeled in red <sup>[15]</sup>.</font>
+<font >3.20-Å resolution crystal structure of an SAM-I/IV variant riboswitch complexed with S-adenosylmethionine. SAM (shown in sticks) is labeled in red <sup>[15]</sup>.</font>
   <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
   <img src="/images/3D/SAM-I+IV_riboswitch_3D.svg" alt="drawing" style="width:400px;height:400px;margin-top: 0px;margin-bottom: 0px;" >
@@ -843,7 +842,7 @@ SAM-IV riboswitches are a kind of riboswitch that specifically binds S-adenosylm
   end_residue_number:9, 
   color:{r:194,g:194,b:255}
 }, 
- {
+{
   struct_asym_id: 'A', 
   start_residue_number:51, 
   end_residue_number:52, 
@@ -901,7 +900,7 @@ SAM-IV riboswitches are a kind of riboswitch that specifically binds S-adenosylm
 </table>
 <p><br /></p>
                     
-<font ><p>Left: Surface representation of the binding pocket of the SAM-IV riboswitch generated from PDB ID:6UET. S-adenosylmethionine (SAM) (shown in sticks) is labeled in red.Right: As the current resolution was not sufficient to determine the conformation of hydrogen bonding<sup>[19]</sup>.<br /></p></font>
+<font ><p>Left: Surface representation of the binding pocket of the SAM-IV riboswitch generated from PDB ID: 6UET. S-adenosylmethionine (SAM) (shown in sticks) is labeled in red. Right: As the current resolution was not sufficient to determine the conformation of hydrogen bonding<sup>[19]</sup>.<br /></p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/SAM-IV_riboswitch_binding_pockets1.svg" alt="drawing" style="width:400px"  px="" /></td>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/SAM-IV_riboswitch_binding_pockets2.svg" alt="drawing" style="width:400px"  px="" /></td>
@@ -909,7 +908,7 @@ SAM-IV riboswitches are a kind of riboswitch that specifically binds S-adenosylm
 </table>
 <p><br /></p>
                     
-<font ><p>Left: Surface representation of the binding pocket of the SAM-I/IV riboswitch generated from PDB ID:4OQU. S-adenosylmethionine (SAM) (shown in sticks) is labeled in red.Right: Hydrogen bonding between SAM and adjacent bases, The binding site of this part is similar to SAM-I riboswitch , but the base number is different<sup>[15]</sup>.<br /></p></font>
+<font ><p>Left: Surface representation of the binding pocket of the SAM-I/IV riboswitch generated from PDB ID: 4OQU. S-adenosylmethionine (SAM) (shown in sticks) is labeled in red. Right: Hydrogen bonding between SAM and adjacent bases, the binding site of this part is similar to SAM-I riboswitch, but the base number is different<sup>[15]</sup>.<br /></p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/SAM-I+IV_riboswitch_binding_pockets1.svg" alt="drawing" style="width:400px"  px="" /></td>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/SAM-I+IV_riboswitch_binding_pockets2.svg" alt="drawing" style="width:400px"  px="" /></td>

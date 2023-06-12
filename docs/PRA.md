@@ -5,7 +5,7 @@ date:   2023-05-15 00:00:00
 author: Wenjian Liao
 permalink: /docs/PRA/
 ---
-<p style="font-size: 24px"><strong>Rfam ID: [RF02974](https://rfam.xfam.org/family/RF02974,target="_blank")</strong> (<i>Fibro-purF</i>)<br /></p>
+<p style="font-size: 24px"><strong>Rfam ID: [RF02974](https://rfam.xfam.org/family/RF02974,target="_blank")</strong> (<i>Fibro-purF</i> RNA)<br /></p>
 
 <br />
 <html>
@@ -236,13 +236,13 @@ permalink: /docs/PRA/
                 
 <p class="header_box" id="references">References</p>
             
-<p><strong>[1] Detection of 224 candidate structured RNAs by comparative analysis of specific subsets of intergenic regions</strong><br />
-Weinberg, Z. et al<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/28977401/" target="_blank">Nucleic Acids Res. 45, (2017)</a>
+<p><strong>[1] Detection of 224 candidate structured RNAs by comparative analysis of specific subsets of intergenic regions.</strong><br />
+Weinberg, Z. et al.<br />
+<a href="https://pubmed.ncbi.nlm.nih.gov/28977401/" target="_blank">Nucleic Acids Res. 45, (2017).</a>
 <br /><br /></p>
                 
-<p><strong>[2] A rare bacterial RNA motif is implicated in the regulation of the purF gene whose encoded enzyme synthesizes phosphoribosylamine</strong><br />
-Malkowski, S. N., Atilho, R. M., Greenlee, E. B., Weinberg, C. E. & Breaker, R. R<br />
-<a href="https://pubmed.ncbi.nlm.nih.gov/32843366/" target="_blank">RNA 26, (2020)</a>
+<p><strong>[2] A rare bacterial RNA motif is implicated in the regulation of the purF gene whose encoded enzyme synthesizes phosphoribosylamine.</strong><br />
+Malkowski, S. N., Atilho, R. M., Greenlee, E. B., Weinberg, C. E. & Breaker, R. R.<br />
+<a href="https://pubmed.ncbi.nlm.nih.gov/32843366/" target="_blank">RNA 26, (2020).</a>
 <br /><br /></p>
                 

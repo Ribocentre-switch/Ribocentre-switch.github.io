@@ -179,7 +179,7 @@ permalink: /docs/SAM-II_clan/
 <p><br /></p>
         
 <p class="header_box" id="description">Description</p>
-<font >The SAM-II riboswitch is a RNA element found predominantly in Alphaproteobacteria that binds S-adenosyl methionine (SAM). Its structure and sequence appear to be unrelated to the SAM riboswitch found in Gram-positive bacteria. This SAM riboswitch is located upstream of the metA and metC genes in Agrobacterium tumefaciens, and other methionine and SAM biosynthesis genes in other alpha-proteobacteria. Like the other SAM riboswitch, it probably functions to turn off expression of these genes in response to elevated SAM levels. A significant variant of SAM-II riboswitches was found in Pelagibacter ubique and related marine bacteria and called SAM-V. Also, like many structured RNAs, SAM-II riboswitches can tolerate long loops between their stems.（from WiKi)
+<font >The SAM-II riboswitch is a RNA element found predominantly in Alphaproteobacteria that binds S-adenosyl methionine (SAM). Its structure and sequence appear to be unrelated to the SAM riboswitch found in Gram-positive bacteria. This SAM riboswitch is located upstream of the <i>metA</i> and <i>metC</i> genes in Agrobacterium tumefaciens, and other methionine and SAM biosynthesis genes in other alpha-proteobacteria. Like the other SAM riboswitch, it probably functions to turn off expression of these genes in response to elevated SAM levels. A significant variant of SAM-II riboswitches was found in Pelagibacter ubique and related marine bacteria and called SAM-V. Also, like many structured RNAs, SAM-II riboswitches can tolerate long loops between their stems.
 SAM-V riboswitch is the fifth known riboswitch to bind S-adenosyl methionine (SAM). It was first discovered in the marine bacterium Candidatus Pelagibacter ubique and can also be found in marine metagenomes. SAM-V features a similar consensus sequence and secondary structure as the binding site of SAM-II riboswitch, but bioinformatics scans cluster the two aptamers independently. These similar binding pockets suggest that the two riboswitches have undergone convergent evolution. (from WiKi)<sup></sup>.</font>
 <p><br /></p>
             
@@ -218,7 +218,7 @@ SAM-V riboswitch is the fifth known riboswitch to bind S-adenosyl methionine (SA
 <p class="header_box" id="Structure and Ligand recognition">Structure and Ligand recognition</p>
 > 2D representation
         
-<font >Left: Consensus sequence and secondary structure model for the SAM-II riboswitch. Right: Secondary structure depictions of the SAM-I riboswitch according to PDB ID:2qwy<sup></sup>.</font><br>
+<font >Left: Consensus sequence and secondary structure model for the SAM-II riboswitch. Right: Secondary structure depictions of the SAM-II riboswitch according to PDB ID: 2qwy<sup></sup>.</font><br>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
 <head>
@@ -299,7 +299,7 @@ SAM-V riboswitch is the fifth known riboswitch to bind S-adenosyl methionine (SA
 </tr></table><br>
 <p><br /></p>
                 
-<font >Left: Consensus sequence and secondary structure model for the SAM-V riboswitch. Right: Secondary structure depictions of the SAM-V riboswitch according to PDB ID:6fz0<sup></sup>.</font><br>
+<font >Left: Consensus sequence and secondary structure model for the SAM-V riboswitch. Right: Secondary structure depictions of the SAM-V riboswitch according to PDB ID: 6fz0<sup></sup>.</font><br>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
 <head>
@@ -382,7 +382,7 @@ SAM-V riboswitch is the fifth known riboswitch to bind S-adenosyl methionine (SA
                 
 > 3D visualisation
             
-<font >2.8-Å resolution crystal structure of an S-adenosylmethionine (SAM) riboswitch from thermoanaerobacter tengcongensis complexed with S-adenosylmethionine.SAM (shown in sticks) is labeled in red <sup>[3]</sup>.</font>
+<font >2.8-Å resolution crystal structure of an S-adenosylmethionine (SAM) riboswitch complexed with S-adenosylmethionine. SAM (shown in sticks) is labeled in red <sup>[3]</sup>.</font>
   <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
   <img src="/images/3D/SAM-II_riboswitch_3D.svg" alt="drawing" style="width:400px;height:400px;margin-top: 0px;margin-bottom: 0px;" >
@@ -441,7 +441,7 @@ SAM-V riboswitch is the fifth known riboswitch to bind S-adenosyl methionine (SA
 },{
   struct_asym_id: 'A', 
   start_residue_number:40, 
-  end_residue_number:49, 
+  end_residue_number:52, 
   color:{r:9,g:254,b:254}
 },{
   struct_asym_id: 'A', 
@@ -495,7 +495,7 @@ SAM-V riboswitch is the fifth known riboswitch to bind S-adenosyl methionine (SA
   </tr></table><br>
   <p><br /></p>
                 
-<font >2.50-Å resolution crystal structure of an S-adenosylmethionine (SAM) riboswitch from thermoanaerobacter tengcongensis complexed with S-adenosylmethionine.SAM (shown in sticks) is labeled in red <sup>[12]</sup>.</font>
+<font >2.50-Å resolution crystal structure of an S-adenosylmethionine (SAM) riboswitch complexed with S-adenosylmethionine. SAM (shown in sticks) is labeled in red <sup>[12]</sup>.</font>
   <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
   <img src="/images/3D/SAM-V_riboswitch_3D.svg" alt="drawing" style="width:400px;height:400px;margin-top: 0px;margin-bottom: 0px;" >
@@ -615,7 +615,7 @@ SAM-V riboswitch is the fifth known riboswitch to bind S-adenosyl methionine (SA
                 
 > Binding pocket
                 
-<font ><p>Left: Surface representation of the binding pocket of the SAM-II riboswitch generated from PDB ID:2QWY. S-adenosylmethionine (SAM) (shown in sticks) is labeled in red.Right: Hydrogen bonding between SAM and adjacent bases<sup>[3]</sup>.<br /></p></font>
+<font ><p>Left: Surface representation of the binding pocket of the SAM-II riboswitch generated from PDB ID: 2QWY. S-adenosylmethionine (SAM) (shown in sticks) is labeled in red. Right: Hydrogen bonding between SAM and adjacent bases<sup>[3]</sup>.<br /></p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/SAM-II_riboswitch_binding_pockets1.svg" alt="drawing" style="width:400px"  px="" /></td>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/SAM-II_riboswitch_binding_pockets2.svg" alt="drawing" style="width:400px"  px="" /></td>
@@ -623,7 +623,7 @@ SAM-V riboswitch is the fifth known riboswitch to bind S-adenosyl methionine (SA
 </table>
 <p><br /></p>
                     
-<font ><p>Left: Surface representation of the binding pocket of the SAM-V riboswitch generated from PDB ID:6FZ0. S-adenosylmethionine (SAM) (shown in sticks) is labeled in red.Right: Hydrogen bonding between SAM and adjacent bases<sup>[12]</sup>.<br /></p></font>
+<font ><p>Left: Surface representation of the binding pocket of the SAM-V riboswitch generated from PDB ID: 6FZ0. S-adenosylmethionine (SAM) (shown in sticks) is labeled in red. Right: Hydrogen bonding between SAM and adjacent bases<sup>[12]</sup>.<br /></p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/SAM-V_riboswitch_binding_pockets1.svg" alt="drawing" style="width:400px"  px="" /></td>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/SAM-V_riboswitch_binding_pockets2.svg" alt="drawing" style="width:400px"  px="" /></td>

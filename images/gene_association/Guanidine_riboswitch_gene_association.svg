@@ -168,10 +168,10 @@
 		</g>
 	</g>
 </g>
-<text transform="matrix(1 0 0 1 400.5673 238.0401)" class="st2 st22">gca        guanidine carboxylase</text>
+<text transform="matrix(1 0 0 1 400.5673 238.0401)" class="st2 st22">gca            </text>
 <text transform="matrix(1 0 0 1 400.5673 259.6401)" class="st2 st22">cgdA/B  carboxyguanidine deiminases A/B</text>
-<text transform="matrix(1 0 0 1 400.5673 281.2401)" class="st2 st22">atzF       allophanate hydrolase</text>
-<text transform="matrix(1 0 0 1 400.5673 302.8401)" class="st2 st22">gdx        guanidine exporter</text>
+<text transform="matrix(1 0 0 1 400.5673 281.2401)" class="st2 st22">atzF           </text>
+<text transform="matrix(1 0 0 1 400.5673 302.8401)" class="st2 st22">gdx            </text>
 <text transform="matrix(1 0 0 1 67.8317 240.3483)" class="st2 st23">Gd-I</text>
 <text transform="matrix(1 0 0 1 67.8317 253.5483)" class="st2 st23"> RS</text>
 <text transform="matrix(1 0 0 1 228.2757 235.9138)" class="st2 st23">Gd-II</text>
@@ -240,4 +240,7 @@
 <polyline class="st32" points="334.5,282.1 345.6,282.1 345.6,274.4 354.7,289.8 345.6,305.2 345.6,297.6 334.5,297.6 "/>
 <rect x="314.6" y="282" class="st32" width="26.1" height="15.6"/>
 <text transform="matrix(1 0 0 1 320.7141 293.7056)" class="st24 st23">atzF</text>
+<text transform="matrix(1 0 0 1 468.7 238.04)" class="st2 st22">guanidine carboxylase</text>
+<text transform="matrix(1 0 0 1 468.7 282.6)" class="st2 st22">allophanate hydrolase</text>
+<text transform="matrix(1 0 0 1 468.7 302.8398)" class="st2 st22">guanidine exporter</text>
 </svg>

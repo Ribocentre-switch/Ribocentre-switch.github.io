@@ -2,7 +2,7 @@
 layout: post
 title:  "Fluoride"
 date:   2023-04-05 00:00:00
-author: Yuanlin He, Jie Deng
+author: Yuanlin He, Xiaowei Lin
 permalink: /docs/Fluoride/
 ---
 <p style="font-size: 24px"><strong>Rfam ID: [RF01734](https://rfam.xfam.org/family/RF01734,target="_blank")</strong> (Fluoride riboswitch (crcB))<br /></p>
@@ -178,7 +178,7 @@ permalink: /docs/Fluoride/
 <p class="header_box" id="Structure and Ligand recognition">Structure and Ligand recognition</p>
 > 2D representation
         
-<font >Left: Consensus sequence and secondary structure model for the Fluoride riboswitch. Right: Secondary structure depictions of the Fluoride riboswitch according to PDB ID: 4ENC<sup>[3]</sup>.</font><br>
+<font >Left: Consensus sequence and secondary structure model for the fluoride riboswitch. Right: Secondary structure depictions of the fluoride riboswitch according to PDB ID: 4ENC<sup>[3]</sup>.</font><br>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
 <head>
@@ -468,8 +468,8 @@ permalink: /docs/Fluoride/
                 
 <font ><p>Left: Surface representation of the binding pocket of the fluoride riboswitch generated from PDB ID: 4ENC. The fluoride ion is labeled in red. Right: A close-up stereo view of the ligand-binding pocket, with the emphasis on the fluoride ion, three coordinating metal ions and five inwardly-pointing backbone phosphates<sup>[3]</sup>.<br /></p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
-<td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/Fluoride_riboswitch_ binding_pockets1.svg" alt="drawing" style="width:400px"  px="" /></td>
-<td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/Fluoride_riboswitch_ binding_pockets2.svg" alt="drawing" style="width:400px"  px="" /></td>
+<td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/Fluoride_riboswitch_binding_pockets1.svg" alt="drawing" style="width:400px"  px="" /></td>
+<td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/Fluoride_riboswitch_binding_pockets2.svg" alt="drawing" style="width:400px"  px="" /></td>
 </tr>
 </table>
 <p><br /></p>

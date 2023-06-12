@@ -139,7 +139,7 @@ The Magnesium responsive RNA element, not to be confused with the completely dis
             
 > Gene association
         
-<font >Mg<sup>2+</sup> riboswitch in <i>Salmonella enterica</i>. Magnesium-responsive regulatory pathways in the bacteria <i>Salmonella enterica</i> by the two-component regulatory system consisting of PhoQ, the membrane-bound sensor kinase, and PhoP, a transcription regulator. PhoP, which is phosphorylated, affects more than 100 genes in response to fluctuations in the Mg<sup>2+</sup> concentration. The regulatory system PhoQ/PhoP is a two-component system activated in low magnesium levels or by cationic peptides. Genes regulated by PhoP-PhoQ are depicted in grey boxes and ovals<sup></sup>.</font>
+<font >Mg<sup>2+</sup> riboswitch in <i>Salmonella enterica</i>. Magnesium-responsive regulatory pathways in the bacteria <i>Salmonella enterica</i> by the two-component regulatory system consisting of PhoQ, the membrane-bound sensor kinase, and PhoP, a transcription regulator. PhoP, which is phosphorylated, affects more than 100 genes in response to fluctuations in the Mg<sup>2+</sup> concentration. The regulatory system PhoQ/PhoP is a two-component system activated in low magnesium levels or by cationic peptides. Genes regulated by PhoP-PhoQ are depicted in grey boxes and ovals<sup>[6]</sup>.</font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;">
 <tr >
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
@@ -163,7 +163,7 @@ The Magnesium responsive RNA element, not to be confused with the completely dis
 <p class="header_box" id="Structure and Ligand recognition">Structure and Ligand recognition</p>
 > 2D representation
         
-<font >Left: Consensus sequence and secondary structure model for the Mg<sup>2+</sup>-I riboswitch. Right: Secondary structure depictions of the Mg<sup>2+</sup>-I riboswitch according to PDB ID: 2QBZ<sup></sup>.</font><br>
+<font >Left: Consensus sequence and secondary structure model for the Mg<sup>2+</sup>-I riboswitch. Right: Secondary structure depictions of the Mg<sup>2+</sup>-I riboswitch according to PDB ID: 2QBZ. Secondary structure shows the positions of inner- and outer-sphere contacts using shaded and open symbols, respectively, for the six Mg<sup>2+</sup> coordinated to the RNA. Each Mg<sup>2+</sup> has a unique symbol denoted in the legend<sup></sup>.</font><br>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
 <head>
@@ -227,7 +227,7 @@ The Magnesium responsive RNA element, not to be confused with the completely dis
     <div class="main-container">
         <div class="zoom-wrapper2">
             <div class="zoom-area2">
-                <img src="/images/2D/" alt="drawing" style="width:400px" />
+                <img src="/images/2D/Mg2+-I_riboswitch_2D2.svg" alt="drawing" style="width:400px" />
             </div>
         </div>
     </div>
@@ -568,5 +568,10 @@ Wakeman, C. A., Ramesh, A. & Winkler, W. C.<br />
 <p><strong>[5] Insights into metalloregulation by M-box riboswitch RNAs via structural analysis of manganese-bound complexes.</strong><br />
 Ramesh, A., Wakeman, C. A. & Winkler, W. C.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/21315082/" target="_blank">J. Mol. Biol. 407, 556–570 (2011).</a>
+<br /><br /></p>
+                
+<p><strong>[6] Bioinformatics and Genomic Analyses of the Suitability of Eight Riboswitches for Antibacterial Drug Targets.</strong><br />
+Pavlova, N. & Penchovsky, R.<br />
+<a href="https://pubmed.ncbi.nlm.nih.gov/36139956/" target="_blank">Antibiotics (Basel) 11, (2022).</a>
 <br /><br /></p>
                 

@@ -20,8 +20,8 @@
 </g>
 <line class="st1" x1="677.2" y1="108.6" x2="677.2" y2="155.6"/>
 <text transform="matrix(1 0 0 1 17.515 92.445)" class="st2 st3">S-Adenosylmethionine</text>
-<text transform="matrix(0.8779 0 -0.4789 0.8779 519.6257 79.3948)" class="st2 st4">ahc</text>
-<text transform="matrix(0.8779 0 -0.4789 0.8779 545.1628 79.3948)" class="st2 st4">Y</text>
+<text transform="matrix(0.8779 0 -0.4789 0.8779 519.6254 79.3946)" class="st2 st4">ahc</text>
+<text transform="matrix(0.8779 0 -0.4789 0.8779 545.1625 79.3946)" class="st2 st4">Y</text>
 <text transform="matrix(1 0 0 1 201.445 73.505)" class="st2 st3">demethylation</text>
 <g>
 	<line class="st0" x1="640.7" y1="47.9" x2="640.7" y2="80.4"/>
@@ -33,7 +33,7 @@
 <text transform="matrix(1 0 0 1 298.115 92.445)" class="st2 st3">S-Adenosylhomocysteine</text>
 <path class="st1" d="M609.6,177.7c0-12.2,13.9-22.1,31.1-22.1"/>
 <text transform="matrix(1 0 0 1 656.255 197.845)" class="st2 st3">5-methyl-THF</text>
-<text transform="matrix(0.867 0 -0.4983 0.867 648.6356 67.0945)" class="st2 st5">luxS</text>
+<text transform="matrix(0.867 0 -0.4983 0.867 648.6357 67.0942)" class="st2 st5">luxS</text>
 <text transform="matrix(1 0 0 1 465.075 38.075)" class="st2 st3">S-D-ribosyl-L-homocysteine</text>
 <g>
 	<line class="st0" x1="402.6" y1="31.2" x2="463.6" y2="31.7"/>
@@ -47,7 +47,7 @@
 	<line class="st1" x1="578.9" y1="155.6" x2="676.4" y2="155.6"/>
 	<path d="M572.8,155.6c3.1,1.1,6,2.7,8.5,4.8l-1.7-4.8l1.7-4.8C578.8,152.9,575.9,154.5,572.8,155.6z"/>
 </g>
-<text transform="matrix(0.867 0 -0.4983 0.867 385.1652 147.1747)" class="st2 st5">metK</text>
+<text transform="matrix(0.867 0 -0.4983 0.867 385.1649 147.1749)" class="st2 st5">metK</text>
 <text transform="matrix(1 0 0 1 455.905 160.725)" class="st2 st3">L-methionine</text>
 <g>
 	<line class="st0" x1="446.4" y1="155.6" x2="362.1" y2="155.6"/>
@@ -56,13 +56,13 @@
 		<path d="M362.1,155.6c3.1-1.1,6-2.7,8.5-4.8l-1.7,4.8l1.7,4.8C368.1,158.3,365.2,156.7,362.1,155.6z"/>
 	</g>
 </g>
-<text transform="matrix(0.867 0 -0.4983 0.867 677.736 134.3346)" class="st2 st5">metH</text>
-<text transform="matrix(0.867 0 -0.4983 0.867 414.2654 24.3949)" class="st2 st5">pfs</text>
+<text transform="matrix(0.867 0 -0.4983 0.867 677.7359 134.335)" class="st2 st5">metH</text>
+<text transform="matrix(0.867 0 -0.4983 0.867 414.2654 24.3953)" class="st2 st5">pfs</text>
 <g>
-	<line class="st0" x1="513.3" y1="88" x2="574.3" y2="88"/>
+	<line class="st0" x1="519.6" y1="87.8" x2="567.6" y2="87.8"/>
 	<g>
-		<line class="st1" x1="513.3" y1="88" x2="568.3" y2="88"/>
-		<path d="M574.3,88c-3.1,1.1-6,2.7-8.5,4.8l1.7-4.8l-1.7-4.8C568.3,85.3,571.2,86.9,574.3,88z"/>
+		<line class="st1" x1="519.6" y1="87.8" x2="562.8" y2="87.8"/>
+		<path d="M567.6,87.8c-2.4,1.1-4.7,2.7-6.7,4.8l1.3-4.8l-1.3-4.8C562.8,85.1,565.1,86.7,567.6,87.8z"/>
 	</g>
 </g>
 <rect x="529.5" y="92.8" class="st6" width="21.1" height="7.7"/>

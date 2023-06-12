@@ -20,7 +20,7 @@
 <text transform="matrix(0.8779 0 -0.4789 0.8779 146.9894 48.2601)" class="st2 st4">metB</text>
 <text transform="matrix(1 0 0 1 219.83 150.68)" class="st2 st3">demethylation</text>
 <line class="st0" x1="395" y1="60.7" x2="479.1" y2="61.3"/>
-<line class="st1" x1="395" y1="60.7" x2="473.1" y2="61.3"/>
+<line class="st1" x1="416.3" y1="60.7" x2="473.1" y2="61.3"/>
 <path d="M479.1,61.3c-3.1,1.1-6,2.7-8.6,4.7l1.8-4.8l-1.7-4.8C473.2,58.6,476,60.2,479.1,61.3z"/>
 <text transform="matrix(1 0 0 1 24.72 129.89)" class="st2 st3">S-Adenosylhomocysteine</text>
 <text transform="matrix(1 0 0 1 207.2 63.87)" class="st2 st3">O-acetyl homocysteine</text>
@@ -28,9 +28,9 @@
 <text transform="matrix(1 0 0 1 416.05 28.61)" class="st2 st3">cysteine</text>
 <text transform="matrix(0.867 0 -0.4983 0.867 403.2693 80.6893)" class="st2 st5">metB</text>
 <text transform="matrix(1 0 0 1 484.84 65.29)" class="st2 st3">cystathionine</text>
-<line class="st0" x1="595.8" y1="61.3" x2="656.8" y2="61.8"/>
-<line class="st1" x1="595.8" y1="61.3" x2="650.8" y2="61.8"/>
-<path d="M656.8,61.8c-3.1,1.1-6,2.7-8.6,4.7l1.8-4.7l-1.7-4.8C650.9,59,653.7,60.7,656.8,61.8z"/>
+<line class="st0" x1="591.1" y1="61.5" x2="652.1" y2="62"/>
+<line class="st1" x1="606.7" y1="61.5" x2="646.1" y2="62"/>
+<path d="M652.1,62c-3.1,1.1-6,2.7-8.6,4.7l1.8-4.7l-1.7-4.8C646.2,59.2,649,60.9,652.1,62z"/>
 <text transform="matrix(1 0 0 1 659.57 66.21)" class="st2 st3">homocysteine</text>
 <line class="st1" x1="688.2" y1="123.2" x2="713.5" y2="123.2"/>
 <path d="M682.2,123.2c3.1,1.1,6,2.7,8.5,4.8l-1.7-4.8l1.7-4.8C688.2,120.5,685.3,122.1,682.2,123.2z"/>
@@ -41,9 +41,9 @@
 <path d="M503.3,123.2c3.1-1.1,6-2.7,8.5-4.8l-1.7,4.8l1.7,4.8C509.3,125.9,506.4,124.3,503.3,123.2z"/>
 <text transform="matrix(0.867 0 -0.4983 0.867 714.871 101.14)" class="st2 st5">metE</text>
 <text transform="matrix(0.867 0 -0.4983 0.867 513.5597 147.0894)" class="st2 st5">metK</text>
-<line class="st0" x1="300.1" y1="125.4" x2="239.1" y2="125.4"/>
-<line class="st1" x1="300.1" y1="125.4" x2="245.2" y2="125.4"/>
-<path d="M239.1,125.4c3.1-1.1,6-2.7,8.5-4.8l-1.7,4.8l1.7,4.8C245.1,128.1,242.2,126.5,239.1,125.4z"/>
+<line class="st0" x1="291.2" y1="125.4" x2="252.7" y2="125.4"/>
+<line class="st1" x1="291.2" y1="125.4" x2="256.6" y2="125.4"/>
+<path d="M252.7,125.4c2-1.1,3.8-2.7,5.4-4.8l-1.1,4.8l1.1,4.8C256.5,128.1,254.7,126.5,252.7,125.4z"/>
 <rect x="20.5" y="170.5" class="st6" width="21.1" height="7.6"/>
 <text transform="matrix(1 0 0 1 56.16 180.99)" class="st2 st3">SAM-VI riboswitch</text>
 <rect x="527.1" y="109.1" class="st6" width="21.1" height="7.7"/>

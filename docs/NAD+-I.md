@@ -177,7 +177,7 @@ permalink: /docs/NAD/
     <div class="main-container">
         <div class="zoom-wrapper1">
             <div class="zoom-area1">
-                <img src="/images/2D/NAD+-I_riboswitch_2D.svg" alt="drawing" style="width:400px" />
+                <img src="/images/2D/NAD+-I_riboswitch_2D1.svg" alt="drawing" style="width:400px" />
             </div>
         </div>
     </div>
@@ -206,7 +206,7 @@ permalink: /docs/NAD/
     <div class="main-container">
         <div class="zoom-wrapper2">
             <div class="zoom-area2">
-                <img src="/images/2D/" alt="drawing" style="width:400px" />
+                <img src="/images/2D/NAD+-I_riboswitch_2D2.svg" alt="drawing" style="width:400px" />
             </div>
         </div>
     </div>
@@ -360,8 +360,8 @@ permalink: /docs/NAD/
                 
 <font ><p>(Left) Surface representation of the binding pocket of the the domain 1 and 2 of NAD-I riboswitch generated from PDB ID:6TFF and 6DB1. NAD+ (shown in sticks) is labeled in red. (Right) The hydrogen bonds of the two binding sites of the NAD-I riboswitch bound with NAD+<sup>[3-4]</sup>.<br /></p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
-<td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/NAD+-I_riboswitch_binding_pockets.svg" alt="drawing" style="width:400px"  px="" /></td>
-<td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/" alt="drawing" style="width:400px"  px="" /></td>
+<td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/NAD+-I_riboswitch_binding_pockets1.svg" alt="drawing" style="width:400px"  px="" /></td>
+<td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/NAD+-I_riboswitch_binding_pockets2.svg" alt="drawing" style="width:400px"  px="" /></td>
 </tr>
 </table>
 <p><br /></p>

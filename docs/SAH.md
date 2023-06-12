@@ -127,7 +127,7 @@ permalink: /docs/SAH/
             
 > Gene association
         
-<font >Pathways for sulphate assimilation and biosynthesis of cysteine and methionine.SAH riboswitch (red bar) is involved in multiple gene regulation in the synthetic pathway<sup>[1]</sup>.</font>
+<font >Pathways for sulphate assimilation and biosynthesis of cysteine and methionine. SAH riboswitch (red bar) is involved in multiple gene regulation in the synthetic pathway<sup>[1]</sup>.</font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;">
 <tr >
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
@@ -151,7 +151,7 @@ permalink: /docs/SAH/
 <p class="header_box" id="Structure and Ligand recognition">Structure and Ligand recognition</p>
 > 2D representation
         
-<font >Left: Consensus sequence and secondary structure model for the SAH riboswitch. Right: Secondary structure depictions of the SAH riboswitch according to PDB ID:3npq<sup></sup>.</font><br>
+<font >Left: Consensus sequence and secondary structure model for the SAH riboswitch. Right: Secondary structure depictions of the SAH riboswitch according to PDB ID: 3npq<sup></sup>.</font><br>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
 <head>
@@ -234,7 +234,7 @@ permalink: /docs/SAH/
                 
 > 3D visualisation
             
-<font >2.18-Å resolution crystal structure of an S-adenosylmethionine (SAM) riboswitch from thermoanaerobacter tengcongensis complexed with S-adenosylmethionine.SAM (shown in sticks) is labeled in red <sup>[3]</sup>.</font>
+<font >2.18-Å resolution crystal structure of an S-adenosylmethionine (SAM) riboswitch complexed with S-adenosylmethionine. SAM (shown in sticks) is labeled in red <sup>[3]</sup>.</font>
   <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
   <img src="/images/3D/SAH_riboswitch_3D.svg" alt="drawing" style="width:400px;height:400px;margin-top: 0px;margin-bottom: 0px;" >
@@ -294,7 +294,7 @@ permalink: /docs/SAH/
 {
   struct_asym_id: 'A', 
   start_residue_number:47, 
-  end_residue_number:53, 
+  end_residue_number:54, 
   color:{r:128,g:219,b:158}
 },
 {
@@ -355,7 +355,7 @@ permalink: /docs/SAH/
                 
 > Binding pocket
                 
-<font ><p>Left: Surface representation of the binding pocket of the SAH riboswitch generated from PDB ID:3NPQ. S-adenosylmethionine (SAM) (shown in sticks) is labeled in red.Right: Hydrogen bonding between SAM and adjacent bases<sup>[3]</sup>.<br /></p></font>
+<font ><p>Left: Surface representation of the binding pocket of the SAH riboswitch generated from PDB ID: 3NPQ. S-adenosylmethionine (SAM) (shown in sticks) is labeled in red. Right: Hydrogen bonding between SAM and adjacent bases<sup>[3]</sup>.<br /></p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/SAH_riboswitch_binding_pockets1.svg" alt="drawing" style="width:400px"  px="" /></td>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/SAH_riboswitch_binding_pockets2.svg" alt="drawing" style="width:400px"  px="" /></td>
