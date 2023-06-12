@@ -1,0 +1,41 @@
+---
+layout: default
+---
+<style>
+  .box_style{
+    background: #f4f4f4;
+  }
+  .wrapper {
+    display: block;
+    position: relative;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    text-align: left;
+    word-wrap: break-word;
+    }
+  .sectiontitle {
+    display: block;
+    max-width: 70%;
+    margin: 0 auto ;
+    text-align: left;
+    background :#fff;
+    }
+</style>
+<div class="wrapper box_style" >
+  <section class="sectiontitle"> 
+    <article class="post" itemscope itemtype="http://schema.org/BlogPosting" >
+    <div class="well" style="border: 1px solid #C9C9C9; background-color: #fff;">
+      <div class="post-content" itemprop="articleBody">
+        <header class="post-header">
+          <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
+          <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
+        </header>
+      
+        {{ content }}
+      </div>
+    </div>
+    </article>
+  </section>
+</div>
+

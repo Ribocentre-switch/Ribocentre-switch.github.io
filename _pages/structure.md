@@ -1,0 +1,5217 @@
+---
+title: "Structure - Structure"
+layout: structure
+excerpt: "Structure - Structure"
+sitemap: false
+permalink: /structures/
+---
+<html lang="en">
+<head>
+  <style>
+    .header_box {
+    border: none;
+    background: #efefef;
+    font-size:24px
+  }
+/* 按钮容器样式 */
+    .button-container {
+      display: flex;
+      justify-content: left;
+      align-items: center;
+      height: 50px;
+    }
+    /* 按钮样式 */
+    .button {
+      display: block;
+      padding: 10px;
+      margin-right: 10px;
+      text-align: center;
+      background-color: #efefef;
+      color: #005826;
+      text-decoration: none;
+      font-weight: bold;
+      font-size: 20px;
+      border: 1px solid #005826;
+      border-radius: 5px;
+      box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.2);
+    }
+    /* 鼠标悬停样式 */
+    .button:hover {
+      background-color: #999;
+      cursor: pointer;
+    }
+    /* 样式表格 */
+    table {
+        border: 2px solid #f8f8ff;
+        border: 2px solid #767676;
+		    border: 2px solid #767676;
+		    border-radius: 5px;
+		    background-color: #fff;
+        }
+		  th {
+        background-color: #719B71;
+        background-color: #719B71;
+        background-color: #005826;
+        color: rgba(255,255,255,0.9);
+		    cursor: pointer;
+        }
+		  td {
+		    background-color: #ffffff;
+		    background-color: #f9f9f9;
+		    background-color: #f9f9f9;
+		    }		
+		  th, td {
+		  min-width: 90px;
+		  padding: 10px 10px;
+		}
+
+    /* 隐藏所有 sheet */
+    .sheet {
+      display: none;
+    }
+    
+  </style>
+</head>
+<body>
+<h1 class="post-title" itemprop="name headline">Structure Updating</h1>
+    
+<strong>Riboswitches are structured noncoding RNA domains which are typically embedded in messenger RNAs in many bacteria, where they monitor the concentrations of their target ligands and regulate gene expression accordingly. Typically, riboswitches are composed of two parts: an 
+aptamer that senses the target ligand and an expression platform that directly interfaces with components of the cell that affect gene expression.
+In the past 20 years, more than 55 riboswitch classes have been experimentally validated and the ligands they sense comprise a diverse list of biologically relevant compounds including fundamental metabolites derived from RNA nucleotides or their precursors, amino acid, elementl ions and et al. For more detailed information about each riboswitches, please browse the table below and click on each riboswitch name.</strong><br>
+<br>
+  <!-- 按钮 -->
+  <div class="button-container">
+      <button class="button" onclick="showSheet('sheet1')">Cofactors</button>
+      <button class="button" onclick="showSheet('sheet2')">RNA derivatives</button>
+      <button class="button" onclick="showSheet('sheet3')">RNA precursors</button>
+      <button class="button" onclick="showSheet('sheet4')">Signaling molecules</button>
+      <button class="button" onclick="showSheet('sheet5')">Elemental ions</button>
+      <button class="button" onclick="showSheet('sheet6')">Amino acids</button>
+      <button class="button" onclick="showSheet('sheet7')">Sugars</button>
+      <button class="button" onclick="showSheet('sheet8')">Others</button>
+      <button class="button" onclick="showSheet('sheet9')">T-box</button>
+  </div>
+  <br><br>
+        
+<div id="sheet1" class="sheet">
+    <p style='font-size:20px'>Cofactors</p>
+    <table>
+      <tr>
+        <th>Name</th>
+        <th>PDB</th>
+        <th>Length</th>
+        <th>Description(PDB)</th>
+        <th>Species</th>
+        <th>Phase Determination</th>
+        <th>Structure Determination</th>
+        <th>Res(Å)</th>
+        <th>Year</th>
+        <th>Journal</th>
+      </tr>
+        
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Cobalamine" target="_blank"><b>Adocbl</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/4GXY" target="_blank"><b>4GXY</b></a></td>
+        <td name="td2">172</td>
+        <td name="td3">RNA structure</td>
+        <td name="td4">None</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">3.05 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+      </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Cobalamine" target="_blank"><b>AqCbl 
+aptamer domain</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/4FRG" target="_blank"><b>4FRG</b></a></td>
+        <td name="td2">84</td>
+        <td name="td3">Crystal structure of the cobalamin riboswitch aptamer domain</td>
+        <td name="td4">marine metagenome</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">2.95 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+      </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Cobalamine" target="_blank"><b>cobalamine</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/6VMY" target="_blank"><b>6VMY</b></a></td>
+        <td name="td2">148</td>
+        <td name="td3">Structure of the B. subtilis cobalamin riboswitch</td>
+        <td name="td4">Bacillus subtilis</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">3.25 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+      </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Cobalamine" target="_blank"><b>Adocbl</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/4GMA" target="_blank"><b>4GMA</b></a></td>
+        <td name="td2">210</td>
+        <td name="td3">Crystal structure of the adenosylcobalamin riboswitch</td>
+        <td name="td4">marine metagenome</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">3.94 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+      </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Cobalamine" target="_blank"><b>AqCbl
+regulatory element</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/4FRN" target="_blank"><b>4FRN</b></a></td>
+        <td name="td2">102</td>
+        <td name="td3">Crystal structure of the cobalamin riboswitch regulatory element</td>
+        <td name="td4">marine metagenome</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">3.43 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+      </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/FMN" target="_blank"><b>FMN</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/3F2Q" target="_blank"><b>3F2Q</b></a></td>
+        <td name="td2">112</td>
+        <td name="td3">Crystal structure of the FMN riboswitch bound to FMN</td>
+        <td name="td4">None</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">2.95 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+      </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/FMN" target="_blank"><b>FMN</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/3F2T" target="_blank"><b>3F2T</b></a></td>
+        <td name="td2">112</td>
+        <td name="td3">Crystal structure of the FMN riboswitch bound to FMN, iridium hexamine soak.</td>
+        <td name="td4">None</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">3.00 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+      </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/FMN" target="_blank"><b>FMN</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/3F2W" target="_blank"><b>3F2W</b></a></td>
+        <td name="td2">112</td>
+        <td name="td3">Crystal structure of the FMn riboswitch bound to FMN, Ba2+ soak.</td>
+        <td name="td4">None</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">3.45 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+      </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/FMN" target="_blank"><b>FMN</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/3F2X" target="_blank"><b>3F2X</b></a></td>
+        <td name="td2">112</td>
+        <td name="td3">Crystal structure of the FMN riboswitch bound to FMN, Cs+ soak.</td>
+        <td name="td4">None</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">3.11 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+      </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/FMN" target="_blank"><b>FMN</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/3F2Y" target="_blank"><b>3F2Y</b></a></td>
+        <td name="td2">112</td>
+        <td name="td3">Crystal structure of the FMN riboswitch bound to FMN, Mn2+ soak.</td>
+        <td name="td4">None</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">3.20 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+      </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/FMN" target="_blank"><b>FMN</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/3F30" target="_blank"><b>3F30</b></a></td>
+        <td name="td2">112</td>
+        <td name="td3">Crystal structure of the FMN riboswitch bound to FMN, cobalt hexammine soak.</td>
+        <td name="td4">None</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">3.15 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+      </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/FMN" target="_blank"><b>FMN</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/3F4E" target="_blank"><b>3F4E</b></a></td>
+        <td name="td2">54</td>
+        <td name="td3">Crystal structure of the FMN riboswitch bound to FMN, split RNA.</td>
+        <td name="td4">None</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">3.05 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+      </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/FMN" target="_blank"><b>FMN</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/3F4G" target="_blank"><b>3F4G</b></a></td>
+        <td name="td2">54</td>
+        <td name="td3">Crystal structure of the FMN riboswitch bound to riboflavin.</td>
+        <td name="td4">None</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">3.01 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+      </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/FMN" target="_blank"><b>FMN</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/3F4H" target="_blank"><b>3F4H</b></a></td>
+        <td name="td2">54</td>
+        <td name="td3">Crystal structure of the FMN riboswitch bound to roseoflavin</td>
+        <td name="td4">None</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">3.00 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+      </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/FMN" target="_blank"><b>FMN</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/2YIF" target="_blank"><b>2YIF</b></a></td>
+        <td name="td2">54</td>
+        <td name="td3">Crystal structure of a F. nucleatum FMN riboswitch - Free state</td>
+        <td name="td4">Fusobacterium nucleatum subsp. nucleatum ATCC 25586</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">3.30 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+      </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/FMN" target="_blank"><b>FMN</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/2YIE" target="_blank"><b>2YIE</b></a></td>
+        <td name="td2">54</td>
+        <td name="td3">Crystal structure of a F. nucleatum FMN riboswitch bound to FMN</td>
+        <td name="td4">Fusobacterium nucleatum subsp. nucleatum ATCC 25586</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">2.94 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+      </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/FMN" target="_blank"><b>FMN</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/5C45" target="_blank"><b>5C45</b></a></td>
+        <td name="td2">54</td>
+        <td name="td3">Selective Small Molecule Inhibition of the FMN Riboswitch</td>
+        <td name="td4">Fusobacterium nucleatum</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">2.93 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+      </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/FMN" target="_blank"><b>FMN</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/5KX9" target="_blank"><b>5KX9</b></a></td>
+        <td name="td2">54</td>
+        <td name="td3">Selective Small Molecule Inhibition of the FMN Riboswitch</td>
+        <td name="td4">Fusobacterium nucleatum</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">2.90 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+      </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/FMN" target="_blank"><b>FMN</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/6BFB" target="_blank"><b>6BFB</b></a></td>
+        <td name="td2">54</td>
+        <td name="td3">Crystal structure of a F. nucleatum FMN riboswitch bound to WG-3</td>
+        <td name="td4">Fusobacterium nucleatum</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">2.82 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+      </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/FMN" target="_blank"><b>FMN</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/6DN1" target="_blank"><b>6DN1</b></a></td>
+        <td name="td2">54</td>
+        <td name="td3">CRYSTAL STRUCTURE OF THE FMN RIBOSWITCH BOUND TO BRX1151 SPLIT RNA</td>
+        <td name="td4">Fusobacterium nucleatum</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">3.03 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+      </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/FMN" target="_blank"><b>FMN</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/6DN2" target="_blank"><b>6DN2</b></a></td>
+        <td name="td2">54</td>
+        <td name="td3">CRYSTAL STRUCTURE OF THE FMN RIBOSWITCH BOUND TO BRX1354 SPLIT RNA</td>
+        <td name="td4">Fusobacterium nucleatum</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">2.88 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+      </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/FMN" target="_blank"><b>FMN</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/6DN3" target="_blank"><b>6DN3</b></a></td>
+        <td name="td2">54</td>
+        <td name="td3">CRYSTAL STRUCTURE OF THE FMN RIBOSWITCH BOUND TO BRX1555 SPLIT RNA</td>
+        <td name="td4">Fusobacterium nucleatum</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">2.80 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+      </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/FMN" target="_blank"><b>FMN</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/6WJR" target="_blank"><b>6WJR</b></a></td>
+        <td name="td2">112</td>
+        <td name="td3">Apo structure of the FMN riboswitch aptamer domain in the presence of sulfate</td>
+        <td name="td4">Fusobacterium nucleatum</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">2.70 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+      </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/FMN" target="_blank"><b>FMN</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/6WJS" target="_blank"><b>6WJS</b></a></td>
+        <td name="td2">112</td>
+        <td name="td3">Apo structure of the FMN riboswitch aptamer domain in the presence of phosphate</td>
+        <td name="td4">Fusobacterium nucleatum</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">3.80 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+      </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/THF" target="_blank"><b>THF</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/3SUY" target="_blank"><b>3SUY</b></a></td>
+        <td name="td2">101</td>
+        <td name="td3">Crystal structure of THF riboswitch, unbound status</td>
+        <td name="td4">[Eubacterium] siraeum V10Sc8a</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">3.21 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+      </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/THF" target="_blank"><b>THF</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/3SUX" target="_blank"><b>3SUX</b></a></td>
+        <td name="td2">101</td>
+        <td name="td3">Crystal structure of THF riboswitch, bound with THF</td>
+        <td name="td4">[Eubacterium] siraeum V10Sc8a</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">2.90 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+      </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/THF" target="_blank"><b>THF</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/3SUH" target="_blank"><b>3SUH</b></a></td>
+        <td name="td2">101</td>
+        <td name="td3">Crystal structure of THF riboswitch, bound with 5-formyl-THF</td>
+        <td name="td4">[Eubacterium] siraeum V10Sc8a</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">2.65 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+      </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/THF" target="_blank"><b>THF</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/3SD1(It has been replaced (superseded) by 4LVV.)" target="_blank"><b>3SD1(It has been replaced (superseded) by 4LVV.)</b></a></td>
+        <td name="td2">89</td>
+        <td name="td3">The structure of a tetrahydrofolate riboswitch</td>
+        <td name="td4">None</td>
+        <td name="td5">None</td>
+        <td name="td6">None</td>
+        <td name="td7">None</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+      </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/THF" target="_blank"><b>THF</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/3SD3" target="_blank"><b>3SD3</b></a></td>
+        <td name="td2">89</td>
+        <td name="td3">The structure of the tetrahydrofolate riboswitch containing a U25C mutation</td>
+        <td name="td4">None</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">1.95 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+      </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/THF" target="_blank"><b>THF</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/4LVV" target="_blank"><b>4LVV</b></a></td>
+        <td name="td2">89</td>
+        <td name="td3">Structure of the THF riboswitch</td>
+        <td name="td4">None</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">2.10 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+      </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/THF" target="_blank"><b>THF</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/4LVZ" target="_blank"><b>4LVZ</b></a></td>
+        <td name="td2">89</td>
+        <td name="td3">Structure of the THF riboswitch bound to 2,6-diaminopurine</td>
+        <td name="td4">None</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">1.77 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+      </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/THF" target="_blank"><b>THF</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/4LVW" target="_blank"><b>4LVW</b></a></td>
+        <td name="td2">89</td>
+        <td name="td3">Structure of the THF riboswitch bound to 7-deazaguanine</td>
+        <td name="td4">None</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">1.77 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+      </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/THF" target="_blank"><b>THF</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/4LVX" target="_blank"><b>4LVX</b></a></td>
+        <td name="td2">89</td>
+        <td name="td3">Structure of the THF riboswitch bound to tetrahydrobiopterin</td>
+        <td name="td4">None</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">1.90 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+      </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/THF" target="_blank"><b>THF</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/4LVY" target="_blank"><b>4LVY</b></a></td>
+        <td name="td2">89</td>
+        <td name="td3">Structure of the THF riboswitch bound to pemetrexed</td>
+        <td name="td4">None</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">2.00 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+      </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/THF" target="_blank"><b>THF</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/4LW0" target="_blank"><b>4LW0</b></a></td>
+        <td name="td2">89</td>
+        <td name="td3">Structure of the THF riboswitch bound to adenine</td>
+        <td name="td4">None</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">1.89 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+      </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/THF" target="_blank"><b>THF</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/7KD1" target="_blank"><b>7KD1</b></a></td>
+        <td name="td2">89</td>
+        <td name="td3">Apo structure of the THF riboswitch aptamer domain</td>
+        <td name="td4">Streptococcus mutans UA159</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">1.90 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+      </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/THF" target="_blank"><b>THF</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/6Q57" target="_blank"><b>6Q57</b></a></td>
+        <td name="td2">89</td>
+        <td name="td3">X-ray crystal structure of the tetrahydrofolate riboswitch aptamer bound to 5-deazatetrahydropterin</td>
+        <td name="td4">Streptococcus mutans UA159</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">2.72 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+      </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/THF" target="_blank"><b>THF-II</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/7WI9" target="_blank"><b>7WI9</b></a></td>
+        <td name="td2">50</td>
+        <td name="td3">The THF-II riboswitch bound to THF and soaking with SeUrea</td>
+        <td name="td4">Mesorhizobium loti</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">2.98 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+      </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/THF" target="_blank"><b>THF-II</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/7WIA" target="_blank"><b>7WIA</b></a></td>
+        <td name="td2">50</td>
+        <td name="td3">The apo-form of THF-II C22G riboswitch</td>
+        <td name="td4">Mesorhizobium loti</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">3.22 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+      </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/THF" target="_blank"><b>THF-II</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/7WIB" target="_blank"><b>7WIB</b></a></td>
+        <td name="td2">50</td>
+        <td name="td3">The THF-II riboswitch bound to THF</td>
+        <td name="td4">Mesorhizobium loti</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">2.83 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+      </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/THF" target="_blank"><b>THF-II</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/7WIE" target="_blank"><b>7WIE</b></a></td>
+        <td name="td2">50</td>
+        <td name="td3">The THF-II riboswitch bound to 7DG</td>
+        <td name="td4">Mesorhizobium loti</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">2.90 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+      </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/THF" target="_blank"><b>THF-II</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/7WIF" target="_blank"><b>7WIF</b></a></td>
+        <td name="td2">50</td>
+        <td name="td3">The THF-II riboswitch bound to H4B</td>
+        <td name="td4">Mesorhizobium loti</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">2.86 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+      </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/THF" target="_blank"><b>THF-II</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/7WII" target="_blank"><b>7WII</b></a></td>
+        <td name="td2">50</td>
+        <td name="td3">The THF-II riboswitch bound to NPR</td>
+        <td name="td4">Mesorhizobium loti</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">2.75 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+      </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/TPP" target="_blank"><b>TPP</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/2GDI" target="_blank"><b>2GDI</b></a></td>
+        <td name="td2">80</td>
+        <td name="td3">Crystal structure of thiamine pyrophosphate-specific riboswitch in complex with thiamine pyrophosphate</td>
+        <td name="td4">None</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">2.05 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+      </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/TPP" target="_blank"><b>TPP</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/2CKY" target="_blank"><b>2CKY</b></a></td>
+        <td name="td2">77</td>
+        <td name="td3">Structure of the Arabidopsis thaliana thiamine pyrophosphate riboswitch with its regulatory ligand</td>
+        <td name="td4">Arabidopsis thaliana</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">2.90 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+      </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/TPP" target="_blank"><b>TPP</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/2HOJ" target="_blank"><b>2HOJ</b></a></td>
+        <td name="td2">83</td>
+        <td name="td3">Crystal structure of an E. coli thi-box riboswitch bound to thiamine pyrophosphate, manganese ions</td>
+        <td name="td4">None</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">2.50 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+      </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/TPP" target="_blank"><b>TPP</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/2HOK" target="_blank"><b>2HOK</b></a></td>
+        <td name="td2">83</td>
+        <td name="td3">Crystal structure of an E. coli thi-box riboswitch bound to thiamine pyrophosphate, calcium ions</td>
+        <td name="td4">None</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">3.20 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+      </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/TPP" target="_blank"><b>TPP</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/2HOL" target="_blank"><b>2HOL</b></a></td>
+        <td name="td2">83</td>
+        <td name="td3">Crystal structure of an E. coli thi-box riboswitch bound to thiamine pyrophosphate, barium ions</td>
+        <td name="td4">None</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">2.90 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+      </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/TPP" target="_blank"><b>TPP</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/2HOM" target="_blank"><b>2HOM</b></a></td>
+        <td name="td2">83</td>
+        <td name="td3">Crystal structure of an E. coli thi-box riboswitch bound to thiamine monophosphate</td>
+        <td name="td4">None</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">2.89 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+      </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/TPP" target="_blank"><b>TPP</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/2HOO" target="_blank"><b>2HOO</b></a></td>
+        <td name="td2">83</td>
+        <td name="td3">Crystal structure of an E. coli thi-box riboswitch bound to benfotiamine</td>
+        <td name="td4">None</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">3.00 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+      </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/TPP" target="_blank"><b>TPP</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/2HOP" target="_blank"><b>2HOP</b></a></td>
+        <td name="td2">83</td>
+        <td name="td3">Crystal structure of an E. coli thi-box riboswitch bound to pyrithiamine</td>
+        <td name="td4">None</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">3.30 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+      </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/TPP" target="_blank"><b>TPP</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/3D2X" target="_blank"><b>3D2X</b></a></td>
+        <td name="td2">77</td>
+        <td name="td3">Structure of the thiamine pyrophosphate-specific riboswitch bound to oxythiamine pyrophosphate</td>
+        <td name="td4">Arabidopsis thaliana</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">2.50 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+      </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/TPP" target="_blank"><b>TPP</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/3D2V" target="_blank"><b>3D2V</b></a></td>
+        <td name="td2">77</td>
+        <td name="td3">Structure of the eukaryotic TPP-specific riboswitch bound to the antibacterial compound pyrithiamine pyrophosphate</td>
+        <td name="td4">Arabidopsis thaliana</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">2.00 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+      </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/TPP" target="_blank"><b>TPP</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/3D2G" target="_blank"><b>3D2G</b></a></td>
+        <td name="td2">77</td>
+        <td name="td3">Structural basis of thiamine pyrophosphate analogues binding to the eukaryotic riboswitch</td>
+        <td name="td4">Arabidopsis thaliana</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">2.25 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+      </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/TPP" target="_blank"><b>TPP</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/3K0J" target="_blank"><b>3K0J</b></a></td>
+        <td name="td2">96</td>
+        <td name="td3">Crystal structure of the E. coli ThiM riboswitch in complex with thiamine pyrophosphate and the U1A crystallization module</td>
+        <td name="td4">Homo sapiens</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">3.10 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+      </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/TPP" target="_blank"><b>TPP</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/4NYA" target="_blank"><b>4NYA</b></a></td>
+        <td name="td2">80</td>
+        <td name="td3">Crystal structure of the E. coli thiM riboswitch in complex with 5-(azidomethyl)-2-methylpyrimidin-4-amine</td>
+        <td name="td4">Escherichia coli</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">2.65 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+      </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/TPP" target="_blank"><b>TPP</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/4NYD" target="_blank"><b>4NYD</b></a></td>
+        <td name="td2">83</td>
+        <td name="td3">Crystal structure of the E. coli thiM riboswitch in complex with hypoxanthine</td>
+        <td name="td4">Escherichia coli</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">2.90 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+      </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/TPP" target="_blank"><b>TPP</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/4NYC" target="_blank"><b>4NYC</b></a></td>
+        <td name="td2">83</td>
+        <td name="td3">Crystal structure of the E. coli thiM riboswitch in complex with thieno[2,3-b]pyrazin-7-amine</td>
+        <td name="td4">Escherichia coli</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">3.15 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+      </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/TPP" target="_blank"><b>TPP</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/4NYB" target="_blank"><b>4NYB</b></a></td>
+        <td name="td2">83</td>
+        <td name="td3">Crystal structure of the E. coli thiM riboswitch in complex with (4-(1,2,3-thiadiazol-4-yl)phenyl)methanamine</td>
+        <td name="td4">Escherichia coli</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">3.10 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+      </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/TPP" target="_blank"><b>TPP</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/4NYG" target="_blank"><b>4NYG</b></a></td>
+        <td name="td2">83</td>
+        <td name="td3">Crystal structure of the E. coli thiM riboswitch in complex with thiamine</td>
+        <td name="td4">Escherichia coli</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">3.05 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+      </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/TPP" target="_blank"><b>TPP</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/7TD7" target="_blank"><b>7TD7</b></a></td>
+        <td name="td2">83</td>
+        <td name="td3">Crystal structure of an E. coli thiM riboswitch bound to thiamine, manganese ions</td>
+        <td name="td4">Escherichia coli</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">2.95 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+      </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/TPP" target="_blank"><b>TPP</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/7TDA" target="_blank"><b>7TDA</b></a></td>
+        <td name="td2">83</td>
+        <td name="td3">Crystal structure of the E. coli thiM riboswitch in complex with thiamine pyrophosphate, manganese ions</td>
+        <td name="td4">Escherichia coli</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">2.25 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+      </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/TPP" target="_blank"><b>TPP</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/7TDB" target="_blank"><b>7TDB</b></a></td>
+        <td name="td2">83</td>
+        <td name="td3">Crystal structure of the E. coli thiM riboswitch in complex with thiamine bisphosphonate, manganese ions</td>
+        <td name="td4">Escherichia coli</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">2.56 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+      </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/TPP" target="_blank"><b>TPP</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/7TDC" target="_blank"><b>7TDC</b></a></td>
+        <td name="td2">83</td>
+        <td name="td3">Crystal structure of the E. coli thiM riboswitch in complex with thiamine bisphosphonate, calcium ions</td>
+        <td name="td4">Escherichia coli</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">2.46 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+      </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/TPP" target="_blank"><b>TPP</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/7TZR" target="_blank"><b>7TZR</b></a></td>
+        <td name="td2">80</td>
+        <td name="td3">Crystal structure of the E. coli thiM riboswitch bound to N-methyl-1-(quinoxalin-6-yl)methanamine (compound 16)</td>
+        <td name="td4">Escherichia coli</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">2.70 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+      </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/TPP" target="_blank"><b>TPP</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/7TZS" target="_blank"><b>7TZS</b></a></td>
+        <td name="td2">80</td>
+        <td name="td3">Crystal structure of the E. coli thiM riboswitch in complex with quinoxalin-6-ylmethanamine (compound 17)</td>
+        <td name="td4">Escherichia coli</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">2.21 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+      </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/TPP" target="_blank"><b>TPP</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/7TZT" target="_blank"><b>7TZT</b></a></td>
+        <td name="td2">83</td>
+        <td name="td3">Crystal structure of the E. coli thiM riboswitch in complex with N1,N1-dimethyl-N2-(quinoxalin-6-ylmethyl)ethane-1,2-diamine (linked compound 37)</td>
+        <td name="td4">Escherichia coli</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">2.96 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+      </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/TPP" target="_blank"><b>TPP</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/7TZU" target="_blank"><b>7TZU</b></a></td>
+        <td name="td2">83</td>
+        <td name="td3">Crystal structure of the E. coli thiM riboswitch bound to 1-(4-(piperazin-1-yl)pyridin-3-yl)-N-(quinoxalin-6-ylmethyl)methanamine (linked compound 38)</td>
+        <td name="td4">Escherichia coli</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">2.87 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+      </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/SAM-I_clan" target="_blank"><b>SAM-I</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/2GIS" target="_blank"><b>2GIS</b></a></td>
+        <td name="td2">94</td>
+        <td name="td3">Structure of the S-adenosylmethionine riboswitch mRNA regulatory element</td>
+        <td name="td4">None</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">2.90 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+      </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/SAM-I_clan" target="_blank"><b>SAM-I</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/3GX2" target="_blank"><b>3GX2</b></a></td>
+        <td name="td2">94</td>
+        <td name="td3">TteSAM-I riboswitch variant A94GU34C bound to sinefungin</td>
+        <td name="td4">None</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">2.90 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+      </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/SAM-I_clan" target="_blank"><b>SAM-I</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/3GX3" target="_blank"><b>3GX3</b></a></td>
+        <td name="td2">94</td>
+        <td name="td3">Crystal structure of the T. tengcongensis SAM-I riboswitch variant U34C/A94G bound with SAH</td>
+        <td name="td4">None</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">2.70 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+      </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/SAM-I_clan" target="_blank"><b>SAM-I</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/3GX5" target="_blank"><b>3GX5</b></a></td>
+        <td name="td2">94</td>
+        <td name="td3">Crystal structure of T. tencongensis SAM-I riboswitch variant A94G/U34 bound with SAM</td>
+        <td name="td4">None</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">2.40 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+      </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/SAM-I_clan" target="_blank"><b>SAM-I</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/3GX6" target="_blank"><b>3GX6</b></a></td>
+        <td name="td2">94</td>
+        <td name="td3">Crystal structure of the T. tengcongensis SAM-I riboswitch variant U34C/A94G bound with SAM in manganese chloride</td>
+        <td name="td4">None</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">2.80 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+      </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/SAM-I_clan" target="_blank"><b>SAM-I</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/3GX7" target="_blank"><b>3GX7</b></a></td>
+        <td name="td2">94</td>
+        <td name="td3">Crystal structure of the T. tengcongensis SAM-I riboswitch variant U34C/A94G mutant A6C/U7G/A87C/U88G bound with SAM</td>
+        <td name="td4">None</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">2.95 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+      </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/SAM-I_clan" target="_blank"><b>SAM-I</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/3IQN" target="_blank"><b>3IQN</b></a></td>
+        <td name="td2">94</td>
+        <td name="td3">Free-state structural transitions of the SAM-I riboswitch</td>
+        <td name="td4">None</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">2.70 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+      </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/SAM-I_clan" target="_blank"><b>SAM-I</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/3IQP" target="_blank"><b>3IQP</b></a></td>
+        <td name="td2">94</td>
+        <td name="td3">SAM-I riboswitch from T. tencongensis variant A94G apo form</td>
+        <td name="td4">None</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">2.90 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+      </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/SAM-I_clan" target="_blank"><b>SAM-I</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/3IQR" target="_blank"><b>3IQR</b></a></td>
+        <td name="td2">94</td>
+        <td name="td3">SAM-I riboswitch from T. tencongensis variant A94G bound with SAM</td>
+        <td name="td4">None</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">2.55 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+      </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/SAM-I_clan" target="_blank"><b>SAM-I</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/4KQY" target="_blank"><b>4KQY</b></a></td>
+        <td name="td2">119</td>
+        <td name="td3">Bacillus subtilis yitJ S box/SAM-I riboswitch</td>
+        <td name="td4">Bacillus subtilis subsp. subtilis str. BSP1</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">3.02 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+      </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/SAM-I_clan" target="_blank"><b>SAM-I</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/2YGH" target="_blank"><b>2YGH</b></a></td>
+        <td name="td2">95</td>
+        <td name="td3">SAM-I riboswitch with a G2nA mutation in the Kink turn in complex with S-adenosylmethionine</td>
+        <td name="td4">Caldanaerobacter subterraneus subsp. tengcongensis</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">2.60 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+      </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/SAM-I_clan" target="_blank"><b>SAM-I</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/2YDH" target="_blank"><b>2YDH</b></a></td>
+        <td name="td2">94</td>
+        <td name="td3">Crystal structure of the SAM-I riboswitch A94G U34 G18U G19U variant in complex with SAM</td>
+        <td name="td4">Caldanaerobacter subterraneus subsp. tengcongensis</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">2.90 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+      </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/SAM-I_clan" target="_blank"><b>SAM-I</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/4AOB" target="_blank"><b>4AOB</b></a></td>
+        <td name="td2">94</td>
+        <td name="td3">SAM-I riboswitch containing the T. solenopsae Kt-23 in complex with S- adenosyl methionine</td>
+        <td name="td4">Caldanaerobacter subterraneus subsp. tengcongensis</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">2.95 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+      </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/SAM-I_clan" target="_blank"><b>SAM-I</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/4B5R" target="_blank"><b>4B5R</b></a></td>
+        <td name="td2">94</td>
+        <td name="td3">SAM-I riboswitch bearing the H. marismortui K-t-7</td>
+        <td name="td4">Caldanaerobacter subterraneus subsp. tengcongensis</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">2.95 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+      </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/SAM-I_clan" target="_blank"><b>SAM-I</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/7EAF" target="_blank"><b>7EAF</b></a></td>
+        <td name="td2">94</td>
+        <td name="td3">Crystal structure of SAM-I riboswitch with the Actinomyces-1 k-turn</td>
+        <td name="td4">Caldanaerobacter subterraneus subsp. tengcongensis</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">2.85 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+      </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/SAM-I_clan" target="_blank"><b>SAM-I</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/7EAG" target="_blank"><b>7EAG</b></a></td>
+        <td name="td2">19</td>
+        <td name="td3">Crystal structure of the RAGATH-18 k-turn</td>
+        <td name="td4">Clostridium perfringens SM101</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">2.50 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+      </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/SAM-I_clan" target="_blank"><b>SAM-I/IV</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/4L81" target="_blank"><b>4L81</b></a></td>
+        <td name="td2">96</td>
+        <td name="td3">Structure of the SAM-I/IV riboswitch (env87(deltaU92, deltaG93))</td>
+        <td name="td4">None</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">2.95 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+      </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/SAM-I_clan" target="_blank"><b>SAM-I/IV</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/4OQU" target="_blank"><b>4OQU</b></a></td>
+        <td name="td2">97</td>
+        <td name="td3">Structure of the SAM-I/IV riboswitch (env87(deltaU92))</td>
+        <td name="td4">None</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">3.20 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+      </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/SAM-II_clan" target="_blank"><b>SAM-II</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/2QWY" target="_blank"><b>2QWY</b></a></td>
+        <td name="td2">52</td>
+        <td name="td3">SAM-II riboswitch bound to S-adenosylmethionine</td>
+        <td name="td4">None</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">2.80 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+      </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/SAM-III" target="_blank"><b>SAM-III</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/3E5C" target="_blank"><b>3E5C</b></a></td>
+        <td name="td2">53</td>
+        <td name="td3">Crystal Structure of the SMK box (SAM-III) Riboswitch with SAM</td>
+        <td name="td4">None</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">2.25 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+      </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/SAM-III" target="_blank"><b>SAM-III</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/3E5E" target="_blank"><b>3E5E</b></a></td>
+        <td name="td2">53</td>
+        <td name="td3">Crystal Structures of the SMK box (SAM-III) Riboswitch with SAH</td>
+        <td name="td4">None</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">2.90 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+      </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/SAM-III" target="_blank"><b>SAM-III</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/3E5F" target="_blank"><b>3E5F</b></a></td>
+        <td name="td2">53</td>
+        <td name="td3">Crystal Structures of the SMK box (SAM-III) Riboswitch with Se-SAM</td>
+        <td name="td4">None</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">2.70 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+      </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/SAM-III" target="_blank"><b>SAM-III (To be published)</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/6C27" target="_blank"><b>6C27</b></a></td>
+        <td name="td2">47</td>
+        <td name="td3">SAM-III riboswitch ON-state</td>
+        <td name="td4">Enterococcus faecalis</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">3.60 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+      </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/SAM-II_clan" target="_blank"><b>SAM-IV</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/6UES" target="_blank"><b>6UES</b></a></td>
+        <td name="td2">119</td>
+        <td name="td3">Apo SAM-IV Riboswitch</td>
+        <td name="td4">Mycobacterium sp. MCS</td>
+        <td name="td5">None</td>
+        <td name="td6">ELECTRON MICROSCOPY</td>
+        <td name="td7">3.70</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+      </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/SAM-II_clan" target="_blank"><b>SAM-IV</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/6UET" target="_blank"><b>6UET</b></a></td>
+        <td name="td2">119</td>
+        <td name="td3">SAM-bound SAM-IV riboswitch</td>
+        <td name="td4">Mycobacterium sp. MCS</td>
+        <td name="td5">None</td>
+        <td name="td6">ELECTRON MICROSCOPY</td>
+        <td name="td7">4.10</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+      </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/SAM-II_clan" target="_blank"><b>SAM-V</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/6FZ0" target="_blank"><b>6FZ0</b></a></td>
+        <td name="td2">53</td>
+        <td name="td3">Crystal structure of the metY SAM V riboswitch</td>
+        <td name="td4">Candidatus Pelagibacter ubique HTCC1062</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">2.50 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+      </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/SAM-VI" target="_blank"><b>SAM-VI</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/6LAS" target="_blank"><b>6LAS</b></a></td>
+        <td name="td2">55</td>
+        <td name="td3">the wildtype SAM-VI riboswitch bound to SAM</td>
+        <td name="td4">Bifidobacterium angulatum', 'Homo sapiens</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">2.71 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+      </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/SAM-VI" target="_blank"><b>SAM-VI</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/6LAU" target="_blank"><b>6LAU</b></a></td>
+        <td name="td2">55</td>
+        <td name="td3">the wildtype SAM-VI riboswitch bound to SAH</td>
+        <td name="td4">Bifidobacterium angulatum', 'Homo sapiens</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">3.11 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+      </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/SAM-VI" target="_blank"><b>SAM-VI</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/6LAX" target="_blank"><b>6LAX</b></a></td>
+        <td name="td2">55</td>
+        <td name="td3">the mutant SAM-VI riboswitch (U6C) bound to SAM</td>
+        <td name="td4">Bifidobacterium angulatum', 'Homo sapiens</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">2.70 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+      </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/SAM-VI" target="_blank"><b>SAM-VI</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/6LAZ" target="_blank"><b>6LAZ</b></a></td>
+        <td name="td2">55</td>
+        <td name="td3">the wildtype SAM-VI riboswitch bound to a N-mustard SAM analog M1</td>
+        <td name="td4">Bifidobacterium angulatum', 'Homo sapiens</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">2.76 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+      </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/SAM-SAH" target="_blank"><b>SAM-SAH</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/6HAG" target="_blank"><b>6HAG</b></a></td>
+        <td name="td2">43</td>
+        <td name="td3">The structure of the SAM/SAH-binding riboswitch.</td>
+        <td name="td4">Pseudomonadota</td>
+        <td name="td5">None</td>
+        <td name="td6">SOLUTION NMR</td>
+        <td name="td7">None</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+      </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/SAM-SAH" target="_blank"><b>SAM-SAH</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/6YL5" target="_blank"><b>6YL5</b></a></td>
+        <td name="td2">35</td>
+        <td name="td3">Crystal structure of the SAM-SAH riboswitch with SAH</td>
+        <td name="td4">Roseobacter sp.</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">1.70 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+      </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/SAM-SAH" target="_blank"><b>SAM-SAH</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/6YLB" target="_blank"><b>6YLB</b></a></td>
+        <td name="td2">26</td>
+        <td name="td3">Crystal structure of the SAM-SAH riboswitch with SAM</td>
+        <td name="td4">Roseobacter sp.</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">2.12 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+      </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/SAM-SAH" target="_blank"><b>SAM-SAH</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/6YMI" target="_blank"><b>6YMI</b></a></td>
+        <td name="td2">26</td>
+        <td name="td3">Crystal structure of the SAM-SAH riboswitch with AMP.</td>
+        <td name="td4">Roseobacter sp.</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">2.50 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+      </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/SAM-SAH" target="_blank"><b>SAM-SAH</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/6YMJ" target="_blank"><b>6YMJ</b></a></td>
+        <td name="td2">26</td>
+        <td name="td3">Crystal structure of the SAM-SAH riboswitch with adenosine.</td>
+        <td name="td4">Roseobacter sp.</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">2.04 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+      </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/SAM-SAH" target="_blank"><b>SAM-SAH</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/6YMK" target="_blank"><b>6YMK</b></a></td>
+        <td name="td2">26</td>
+        <td name="td3">Crystal structure of the SAM-SAH riboswitch with AMP</td>
+        <td name="td4">Roseobacter sp.</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">2.03 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+      </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/SAM-SAH" target="_blank"><b>SAM-SAH</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/6YML" target="_blank"><b>6YML</b></a></td>
+        <td name="td2">26</td>
+        <td name="td3">Crystal structure of the SAM-SAH riboswitch with decarboxylated SAH</td>
+        <td name="td4">Roseobacter sp.</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">2.17 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+      </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/SAM-SAH" target="_blank"><b>SAM-SAH</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/6YMM" target="_blank"><b>6YMM</b></a></td>
+        <td name="td2">9</td>
+        <td name="td3">Crystal structure of the SAM-SAH riboswitch with SAM from space group P312</td>
+        <td name="td4">Roseobacter sp.</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">2.20 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+      </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/SAH" target="_blank"><b>SAH</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/3NPN" target="_blank"><b>3NPN</b></a></td>
+        <td name="td2">54</td>
+        <td name="td3">Structure of the s-adenosylhomocysteine riboswitch at 3.0A</td>
+        <td name="td4">Ralstonia solanacearum</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">2.79 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+      </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/SAH" target="_blank"><b>SAH</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/3NPQ" target="_blank"><b>3NPQ</b></a></td>
+        <td name="td2">54</td>
+        <td name="td3">Structure of the S-adenosylhomocysteine riboswitch at 2.18 A</td>
+        <td name="td4">Ralstonia solanacearum</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">2.18 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+      </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/NAD" target="_blank"><b>NAD<sup>+</sup>-I</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/6TB7" target="_blank"><b>6TB7</b></a></td>
+        <td name="td2">52</td>
+        <td name="td3">Crystal structure of the ADP-binding domain of the NAD+ riboswitch with Adenosine monophosphate (AMP)</td>
+        <td name="td4">Candidatus Koribacter versatilis Ellin345</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">2.53 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+      </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/NAD" target="_blank"><b>NAD<sup>+</sup>-I</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/6TF0" target="_blank"><b>6TF0</b></a></td>
+        <td name="td2">52</td>
+        <td name="td3">Crystal structure of the ADP-binding domain of the NAD+ riboswitch with Nicotinamide adenine dinucleotide, reduced (NADH)</td>
+        <td name="td4">Candidatus Koribacter versatilis Ellin345</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">2.10 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+      </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/NAD" target="_blank"><b>NAD<sup>+</sup>-I</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/6TF1" target="_blank"><b>6TF1</b></a></td>
+        <td name="td2">52</td>
+        <td name="td3">Crystal structure of the ADP-binding domain of the NAD+ riboswitch with Adenosine diphosphate (ADP)</td>
+        <td name="td4">Candidatus Koribacter versatilis Ellin345</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">2.40 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+      </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/NAD" target="_blank"><b>NAD<sup>+</sup>-I</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/6TF2" target="_blank"><b>6TF2</b></a></td>
+        <td name="td2">52</td>
+        <td name="td3">Crystal structure of the ADP-binding domain of the NAD+ riboswitch with Adenosine 5-triphosphate (ATP)</td>
+        <td name="td4">Candidatus Koribacter versatilis Ellin345</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">2.55 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+      </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/NAD" target="_blank"><b>NAD<sup>+</sup>-I</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/6TF3" target="_blank"><b>6TF3</b></a></td>
+        <td name="td2">52</td>
+        <td name="td3">Crystal structure of the ADP-binding domain of the NAD+ riboswitch with Cordycepin 5-triphosphate (3-dATP)</td>
+        <td name="td4">Candidatus Koribacter versatilis Ellin345</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">2.66 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+      </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/NAD" target="_blank"><b>NAD<sup>+</sup>-I</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/6TFE" target="_blank"><b>6TFE</b></a></td>
+        <td name="td2">52</td>
+        <td name="td3">Crystal structure of the ADP-binding domain of the NAD+ riboswitch with N6-Methyl-adenosine-5'-triphosphate (m6ATP)</td>
+        <td name="td4">Candidatus Koribacter versatilis Ellin345</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">2.30 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+      </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/NAD" target="_blank"><b>NAD<sup>+</sup>-I</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/6TFF" target="_blank"><b>6TFF</b></a></td>
+        <td name="td2">52</td>
+        <td name="td3">Crystal structure of the ADP-binding domain of the NAD+ riboswitch with Nicotinamide adenine dinucleotide (NAD+)</td>
+        <td name="td4">Candidatus Koribacter versatilis Ellin345</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">2.52 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+      </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/NAD" target="_blank"><b>NAD<sup>+</sup>-I</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/6TFG" target="_blank"><b>6TFG</b></a></td>
+        <td name="td2">52</td>
+        <td name="td3">Crystal structure of the ADP-binding domain of the NAD+ riboswitch with Adenosine 3-phosphate 5-phosphosulfate (APPS)</td>
+        <td name="td4">Candidatus Koribacter versatilis Ellin345</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">2.45 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+      </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/NAD" target="_blank"><b>NAD<sup>+</sup>-I</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/6TFH" target="_blank"><b>6TFH</b></a></td>
+        <td name="td2">52</td>
+        <td name="td3">Crystal structure of the ADP-binding domain of the NAD+ riboswitch with Nicotinamide adenine dinucleotide, reduced (NADH); soaking with Manganese(II) (Mn2+)</td>
+        <td name="td4">Candidatus Koribacter versatilis Ellin345</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">2.95 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+      </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/NAD" target="_blank"><b>NAD<sup>+</sup>-I</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/7D7V" target="_blank"><b>7D7V</b></a></td>
+        <td name="td2">92</td>
+        <td name="td3">Crystal Structure of the Domain1 of NAD+ Riboswitch with nicotinamide adenine dinucleotide (NAD+) and U1A protein</td>
+        <td name="td4">Acidobacterium capsulatum ATCC 51196', 'Homo sapiens</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">2.80 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+      </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/NAD" target="_blank"><b>NAD<sup>+</sup>-I</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/7D7W" target="_blank"><b>7D7W</b></a></td>
+        <td name="td2">51</td>
+        <td name="td3">Crystal Structure of the Domain1 of NAD+ Riboswitch with nicotinamide adenine dinucleotide (NAD+)</td>
+        <td name="td4">synthetic construct</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">2.39 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+      </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/NAD" target="_blank"><b>NAD<sup>+</sup>-I</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/7D7X" target="_blank"><b>7D7X</b></a></td>
+        <td name="td2">51</td>
+        <td name="td3">Crystal Structure of the Domain1 of NAD+ Riboswitch with adenosine diphosphate (ADP)</td>
+        <td name="td4">synthetic construct</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">2.63 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+      </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/NAD" target="_blank"><b>NAD<sup>+</sup>-I</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/7D7Y" target="_blank"><b>7D7Y</b></a></td>
+        <td name="td2">51</td>
+        <td name="td3">Crystal Structure of the Domain1 of NAD+ Riboswitch with adenosine triphosphate (ATP)</td>
+        <td name="td4">synthetic construct</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">2.80 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+      </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/NAD" target="_blank"><b>NAD<sup>+</sup>-I</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/7D7Z" target="_blank"><b>7D7Z</b></a></td>
+        <td name="td2">51</td>
+        <td name="td3">Crystal Structure of the Domain1 of NAD+ Riboswitch with nicotinamide adenine dinucleotide (NAD+), soaked in Mn2+</td>
+        <td name="td4">synthetic construct</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">2.60 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+      </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/NAD" target="_blank"><b>NAD<sup>+</sup>-I</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/7D81" target="_blank"><b>7D81</b></a></td>
+        <td name="td2">50</td>
+        <td name="td3">Crystal Structure of the Domain2 of NAD+ Riboswitch with nicotinamide adenine dinucleotide (NAD+)</td>
+        <td name="td4">Acidobacteriaceae bacterium KBS 83</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">2.10 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+      </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/NAD" target="_blank"><b>NAD<sup>+</sup>-I</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/7D82" target="_blank"><b>7D82</b></a></td>
+        <td name="td2">50</td>
+        <td name="td3">Crystal Structure of the Domain2 of NAD+ Riboswitch with nicotinamide adenine dinucleotide (NAD+), soaked in Mn2+</td>
+        <td name="td4">Acidobacteriaceae bacterium KBS 83</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">2.49 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+      </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/NAD2" target="_blank"><b>NAD<sup>+</sup>-II</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/8HB1" target="_blank"><b>8HB1</b></a></td>
+        <td name="td2">24</td>
+        <td name="td3">Crystal structure of NAD-II riboswitch (two strands) with NMN</td>
+        <td name="td4">Streptococcus parasanguinis</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">2.23 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+      </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/NAD2" target="_blank"><b>NAD<sup>+</sup>-II</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/8HB3" target="_blank"><b>8HB3</b></a></td>
+        <td name="td2">24</td>
+        <td name="td3">Crystal structure of NAD-II riboswitch (two strands) with NR</td>
+        <td name="td4">Streptococcus parasanguinis</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">2.87 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+      </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/NAD2" target="_blank"><b>NAD<sup>+</sup>-II</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/8HB8" target="_blank"><b>8HB8</b></a></td>
+        <td name="td2">55</td>
+        <td name="td3">Crystal structure of NAD-II riboswitch (single strand) with NMN</td>
+        <td name="td4">Streptococcus parasanguinis</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">2.30 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+      </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/NAD2" target="_blank"><b>NAD<sup>+</sup>-II</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/8HBA" target="_blank"><b>8HBA</b></a></td>
+        <td name="td2">56</td>
+        <td name="td3">Crystal structure of NAD-II riboswitch (single strand) with NAD</td>
+        <td name="td4">Streptococcus parasanguinis</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">2.64 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+      </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/NAD2" target="_blank"><b>NAD<sup>+</sup>-II</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/8I3Z" target="_blank"><b>8I3Z</b></a></td>
+        <td name="td2">24</td>
+        <td name="td3">Crystal structure of NAD-II riboswitch (two strands) with NMN at 1.67 angstrom</td>
+        <td name="td4">Streptococcus parasanguinis</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">1.67 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+      </tr>
+    
+            
+    </table>
+</div>        
+
+<div id="sheet2" class="sheet">
+    <p style='font-size:20px'>RNA derivatives</p>
+    <table>
+      <tr>
+        <th>Name</th>
+        <th>PDB</th>
+        <th>Length</th>
+        <th>Description(PDB)</th>
+        <th>Species</th>
+        <th>Phase Determination</th>
+        <th>Structure Determination</th>
+        <th>Res(Å)</th>
+        <th>Year</th>
+        <th>Journal</th>
+      </tr>
+        
+        <tr>
+            <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Xanthine" target="_blank"><b>Xanthine-I</b></a></td>
+            <td name="td1"><a href="https://www.rcsb.org/structure/7ELP" target="_blank"><b>7ELP</b></a></td>
+            <td name="td2">45</td>
+            <td name="td3">Crystal structure of xanthine riboswitch with xanthine, iridium hexammine soak</td>
+            <td name="td4">Ideonella sp. B508-1</td>
+            <td name="td5">None</td>
+            <td name="td6">X-RAY DIFFRACTION</td>
+            <td name="td7">2.79 Å</td>
+            <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+            <td name="td9">None</td>
+        </tr>
+
+                
+        <tr>
+            <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Xanthine" target="_blank"><b>Xanthine-I</b></a></td>
+            <td name="td1"><a href="https://www.rcsb.org/structure/7ELQ" target="_blank"><b>7ELQ</b></a></td>
+            <td name="td2">45</td>
+            <td name="td3">Crystal structure of xanthine riboswitch with xanthine, manganese saok</td>
+            <td name="td4">Ideonella sp. B508-1</td>
+            <td name="td5">None</td>
+            <td name="td6">X-RAY DIFFRACTION</td>
+            <td name="td7">2.60 Å</td>
+            <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+            <td name="td9">None</td>
+        </tr>
+
+                
+        <tr>
+            <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Xanthine" target="_blank"><b>Xanthine-I</b></a></td>
+            <td name="td1"><a href="https://www.rcsb.org/structure/7ELR" target="_blank"><b>7ELR</b></a></td>
+            <td name="td2">45</td>
+            <td name="td3">Crystal structure of xanthine riboswitch with xanthine</td>
+            <td name="td4">Ideonella sp. B508-1</td>
+            <td name="td5">None</td>
+            <td name="td6">X-RAY DIFFRACTION</td>
+            <td name="td7">2.66 Å</td>
+            <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+            <td name="td9">None</td>
+        </tr>
+
+                
+        <tr>
+            <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Xanthine" target="_blank"><b>Xanthine-I</b></a></td>
+            <td name="td1"><a href="https://www.rcsb.org/structure/7ELS" target="_blank"><b>7ELS</b></a></td>
+            <td name="td2">45</td>
+            <td name="td3">Crystal structure of xanthine riboswitch with 8-azaxanthine</td>
+            <td name="td4">Ideonella sp. B508-1</td>
+            <td name="td5">None</td>
+            <td name="td6">X-RAY DIFFRACTION</td>
+            <td name="td7">3.00 Å</td>
+            <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+            <td name="td9">None</td>
+        </tr>
+
+                
+        <tr>
+            <td name="td0"><a href="https://ribocentre-switch.github.io/docs/2-dG" target="_blank"><b>2'-dG-I</b></a></td>
+            <td name="td1"><a href="https://www.rcsb.org/structure/3SLM" target="_blank"><b>3SLM</b></a></td>
+            <td name="td2">68</td>
+            <td name="td3">Crystal structure of the 2'- Deoxyguanosine riboswitch bound to 2'-deoxyguanosine-5'-monophosphate</td>
+            <td name="td4">None</td>
+            <td name="td5">None</td>
+            <td name="td6">X-RAY DIFFRACTION</td>
+            <td name="td7">2.70 Å</td>
+            <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+            <td name="td9">None</td>
+        </tr>
+
+                
+        <tr>
+            <td name="td0"><a href="https://ribocentre-switch.github.io/docs/2-dG" target="_blank"><b>2'-dG-I</b></a></td>
+            <td name="td1"><a href="https://www.rcsb.org/structure/3SKW" target="_blank"><b>3SKW</b></a></td>
+            <td name="td2">66</td>
+            <td name="td3">Crystal structure of the 2'- Deoxyguanosine riboswitch bound to 2'- Deoxyguanosine, cesium soak</td>
+            <td name="td4">None</td>
+            <td name="td5">None</td>
+            <td name="td6">X-RAY DIFFRACTION</td>
+            <td name="td7">2.95 Å</td>
+            <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+            <td name="td9">None</td>
+        </tr>
+
+                
+        <tr>
+            <td name="td0"><a href="https://ribocentre-switch.github.io/docs/2-dG" target="_blank"><b>2'-dG-I</b></a></td>
+            <td name="td1"><a href="https://www.rcsb.org/structure/3SKR" target="_blank"><b>3SKR</b></a></td>
+            <td name="td2">66</td>
+            <td name="td3">Crystal structure of the 2'- Deoxyguanosine riboswitch bound to 2'- Deoxyguanosine, cobalt Hexammine soak</td>
+            <td name="td4">None</td>
+            <td name="td5">None</td>
+            <td name="td6">X-RAY DIFFRACTION</td>
+            <td name="td7">3.10 Å</td>
+            <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+            <td name="td9">None</td>
+        </tr>
+
+                
+        <tr>
+            <td name="td0"><a href="https://ribocentre-switch.github.io/docs/2-dG" target="_blank"><b>2'-dG-I</b></a></td>
+            <td name="td1"><a href="https://www.rcsb.org/structure/3SKL" target="_blank"><b>3SKL</b></a></td>
+            <td name="td2">66</td>
+            <td name="td3">Crystal structure of the 2'- deoxyguanosine riboswitch bound to 2'-deoxyguanosine, iridium hexammine soak</td>
+            <td name="td4">None</td>
+            <td name="td5">None</td>
+            <td name="td6">X-RAY DIFFRACTION</td>
+            <td name="td7">2.90 Å</td>
+            <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+            <td name="td9">None</td>
+        </tr>
+
+                
+        <tr>
+            <td name="td0"><a href="https://ribocentre-switch.github.io/docs/2-dG" target="_blank"><b>2'-dG-I</b></a></td>
+            <td name="td1"><a href="https://www.rcsb.org/structure/3SKI" target="_blank"><b>3SKI</b></a></td>
+            <td name="td2">68</td>
+            <td name="td3">Crystal structure of the 2'- Deoxyguanosine riboswitch bound to 2'-deoxyguanosine</td>
+            <td name="td4">None</td>
+            <td name="td5">None</td>
+            <td name="td6">X-RAY DIFFRACTION</td>
+            <td name="td7">2.30 Å</td>
+            <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+            <td name="td9">None</td>
+        </tr>
+
+                
+        <tr>
+            <td name="td0"><a href="https://ribocentre-switch.github.io/docs/2-dG" target="_blank"><b>2'-dG-I</b></a></td>
+            <td name="td1"><a href="https://www.rcsb.org/structure/3SKT" target="_blank"><b>3SKT</b></a></td>
+            <td name="td2">66</td>
+            <td name="td3">Crystal structure of the 2'- Deoxyguanosine riboswitch bound to 2'- Deoxyguanosine, manganese Soak</td>
+            <td name="td4">None</td>
+            <td name="td5">None</td>
+            <td name="td6">X-RAY DIFFRACTION</td>
+            <td name="td7">3.10 Å</td>
+            <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+            <td name="td9">None</td>
+        </tr>
+
+                
+        <tr>
+            <td name="td0"><a href="https://ribocentre-switch.github.io/docs/2-dG" target="_blank"><b>2'-dG-I</b></a></td>
+            <td name="td1"><a href="https://www.rcsb.org/structure/3SLQ" target="_blank"><b>3SLQ</b></a></td>
+            <td name="td2">68</td>
+            <td name="td3">Crystal structure of the 2'- Deoxyguanosine riboswitch bound to guanosine-5'-monophosphate</td>
+            <td name="td4">None</td>
+            <td name="td5">None</td>
+            <td name="td6">X-RAY DIFFRACTION</td>
+            <td name="td7">2.50 Å</td>
+            <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+            <td name="td9">None</td>
+        </tr>
+
+                
+        <tr>
+            <td name="td0"><a href="https://ribocentre-switch.github.io/docs/2-dG" target="_blank"><b>2'-dG-I</b></a></td>
+            <td name="td1"><a href="https://www.rcsb.org/structure/3SKZ" target="_blank"><b>3SKZ</b></a></td>
+            <td name="td2">68</td>
+            <td name="td3">Crystal structure of the 2'- deoxyguanosine riboswitch bound to guanosine</td>
+            <td name="td4">None</td>
+            <td name="td5">None</td>
+            <td name="td6">X-RAY DIFFRACTION</td>
+            <td name="td7">2.60 Å</td>
+            <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+            <td name="td9">None</td>
+        </tr>
+
+                
+        <tr>
+            <td name="td0"><a href="https://ribocentre-switch.github.io/docs/2-dG" target="_blank"><b>2'-dG-II</b></a></td>
+            <td name="td1"><a href="https://www.rcsb.org/structure/6P2H" target="_blank"><b>6P2H</b></a></td>
+            <td name="td2">69</td>
+            <td name="td3">Structural basis for 2'-deoxyguanosine recognition by the 2'-dG-II class of riboswitches</td>
+            <td name="td4">synthetic construct</td>
+            <td name="td5">None</td>
+            <td name="td6">X-RAY DIFFRACTION</td>
+            <td name="td7">2.80 Å</td>
+            <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+            <td name="td9">None</td>
+        </tr>
+
+                
+        <tr>
+            <td name="td0"><a href="https://ribocentre-switch.github.io/docs/PreQ" target="_blank"><b>PreQ<sub>1</sub>-I</b></a></td>
+            <td name="td1"><a href="https://www.rcsb.org/structure/3K1V" target="_blank"><b>3K1V</b></a></td>
+            <td name="td2">34</td>
+            <td name="td3">Cocrystal structure of a mutant class-I preQ1 riboswitch</td>
+            <td name="td4">None</td>
+            <td name="td5">None</td>
+            <td name="td6">X-RAY DIFFRACTION</td>
+            <td name="td7">2.20 Å</td>
+            <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+            <td name="td9">None</td>
+        </tr>
+
+                
+        <tr>
+            <td name="td0"><a href="https://ribocentre-switch.github.io/docs/PreQ" target="_blank"><b>PreQ<sub>1</sub>-I</b></a></td>
+            <td name="td1"><a href="https://www.rcsb.org/structure/3FU2" target="_blank"><b>3FU2</b></a></td>
+            <td name="td2">34</td>
+            <td name="td3">Cocrystal structure of a class-I preQ1 riboswitch</td>
+            <td name="td4">None</td>
+            <td name="td5">None</td>
+            <td name="td6">X-RAY DIFFRACTION</td>
+            <td name="td7">2.85 Å</td>
+            <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+            <td name="td9">None</td>
+        </tr>
+
+                
+        <tr>
+            <td name="td0"><a href="https://ribocentre-switch.github.io/docs/PreQ" target="_blank"><b>PreQ<sub>1</sub>-I</b></a></td>
+            <td name="td1"><a href="https://www.rcsb.org/structure/3GCA" target="_blank"><b>3GCA</b></a></td>
+            <td name="td2">33</td>
+            <td name="td3">The structural basis for recognition of the preQ0 metabolite by an unusually small riboswitch aptamer domain</td>
+            <td name="td4">None</td>
+            <td name="td5">None</td>
+            <td name="td6">X-RAY DIFFRACTION</td>
+            <td name="td7">2.75 Å</td>
+            <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+            <td name="td9">None</td>
+        </tr>
+
+                
+        <tr>
+            <td name="td0"><a href="https://ribocentre-switch.github.io/docs/PreQ" target="_blank"><b>PreQ<sub>1</sub>-I</b></a></td>
+            <td name="td1"><a href="https://www.rcsb.org/structure/2L1V" target="_blank"><b>2L1V</b></a></td>
+            <td name="td2">36</td>
+            <td name="td3">Solution structure of a preQ1 riboswitch (Class I) aptamer bound to preQ1</td>
+            <td name="td4">None</td>
+            <td name="td5">None</td>
+            <td name="td6">SOLUTION NMR</td>
+            <td name="td7">None</td>
+            <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+            <td name="td9">None</td>
+        </tr>
+
+                
+        <tr>
+            <td name="td0"><a href="https://ribocentre-switch.github.io/docs/PreQ" target="_blank"><b>PreQ<sub>1</sub>-I</b></a></td>
+            <td name="td1"><a href="https://www.rcsb.org/structure/3Q50" target="_blank"><b>3Q50</b></a></td>
+            <td name="td2">33</td>
+            <td name="td3">Structural analysis of a class I PreQ1 riboswitch aptamer in the metabolite-bound state</td>
+            <td name="td4">None</td>
+            <td name="td5">None</td>
+            <td name="td6">X-RAY DIFFRACTION</td>
+            <td name="td7">2.75 Å</td>
+            <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+            <td name="td9">None</td>
+        </tr>
+
+                
+        <tr>
+            <td name="td0"><a href="https://ribocentre-switch.github.io/docs/PreQ" target="_blank"><b>PreQ<sub>1</sub>-I</b></a></td>
+            <td name="td1"><a href="https://www.rcsb.org/structure/3Q51" target="_blank"><b>3Q51</b></a></td>
+            <td name="td2">33</td>
+            <td name="td3">Structural analysis of a class I PreQ1 riboswitch aptamer in the metabolite-free state.</td>
+            <td name="td4">None</td>
+            <td name="td5">None</td>
+            <td name="td6">X-RAY DIFFRACTION</td>
+            <td name="td7">2.85 Å</td>
+            <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+            <td name="td9">None</td>
+        </tr>
+
+                
+        <tr>
+            <td name="td0"><a href="https://ribocentre-switch.github.io/docs/PreQ" target="_blank"><b>PreQ<sub>1</sub>-I</b></a></td>
+            <td name="td1"><a href="https://www.rcsb.org/structure/6E1S" target="_blank"><b>6E1S</b></a></td>
+            <td name="td2">33</td>
+            <td name="td3">Crystal structure of a class I PreQ1 riboswitch complexed with a synthetic compound 1: 2-[(dibenzo[b,d]furan-2-yl)oxy]ethan-1-amine</td>
+            <td name="td4">Caldanaerobacter subterraneus subsp. tengcongensis</td>
+            <td name="td5">None</td>
+            <td name="td6">X-RAY DIFFRACTION</td>
+            <td name="td7">1.80 Å</td>
+            <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+            <td name="td9">None</td>
+        </tr>
+
+                
+        <tr>
+            <td name="td0"><a href="https://ribocentre-switch.github.io/docs/PreQ" target="_blank"><b>PreQ<sub>1</sub>-I</b></a></td>
+            <td name="td1"><a href="https://www.rcsb.org/structure/6E1T" target="_blank"><b>6E1T</b></a></td>
+            <td name="td2">33</td>
+            <td name="td3">Crystal structure of a class I PreQ1 riboswitch complexed with a synthetic compound 1: 2-[(dibenzo[b,d]furan-2-yl)oxy]ethan-1-amine</td>
+            <td name="td4">Caldanaerobacter subterraneus subsp. tengcongensis</td>
+            <td name="td5">None</td>
+            <td name="td6">X-RAY DIFFRACTION</td>
+            <td name="td7">1.80 Å</td>
+            <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+            <td name="td9">None</td>
+        </tr>
+
+                
+        <tr>
+            <td name="td0"><a href="https://ribocentre-switch.github.io/docs/PreQ" target="_blank"><b>PreQ<sub>1</sub>-I</b></a></td>
+            <td name="td1"><a href="https://www.rcsb.org/structure/6E1U" target="_blank"><b>6E1U</b></a></td>
+            <td name="td2">33</td>
+            <td name="td3">Crystal structure of a class I PreQ1 riboswitch complexed with a synthetic compound 2: 2-[(dibenzo[b,d]furan-2-yl)oxy]-N,N-dimethylethan-1-amine</td>
+            <td name="td4">Caldanaerobacter subterraneus subsp. tengcongensis</td>
+            <td name="td5">None</td>
+            <td name="td6">X-RAY DIFFRACTION</td>
+            <td name="td7">1.94 Å</td>
+            <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+            <td name="td9">None</td>
+        </tr>
+
+                
+        <tr>
+            <td name="td0"><a href="https://ribocentre-switch.github.io/docs/PreQ" target="_blank"><b>PreQ<sub>1</sub>-I</b></a></td>
+            <td name="td1"><a href="https://www.rcsb.org/structure/6E1V" target="_blank"><b>6E1V</b></a></td>
+            <td name="td2">33</td>
+            <td name="td3">Crystal structure of a class I PreQ1 riboswitch complexed with a synthetic compound 3: 2-[(9H-carbazol-3-yl)oxy]-N,N-dimethylethan-1-amine</td>
+            <td name="td4">Caldanaerobacter subterraneus subsp. tengcongensis</td>
+            <td name="td5">None</td>
+            <td name="td6">X-RAY DIFFRACTION</td>
+            <td name="td7">2.56 Å</td>
+            <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+            <td name="td9">None</td>
+        </tr>
+
+                
+        <tr>
+            <td name="td0"><a href="https://ribocentre-switch.github.io/docs/PreQ" target="_blank"><b>PreQ<sub>1</sub>-I</b></a></td>
+            <td name="td1"><a href="https://www.rcsb.org/structure/6E1W" target="_blank"><b>6E1W</b></a></td>
+            <td name="td2">33</td>
+            <td name="td3">Crystal structure of a class I PreQ1 riboswitch complexed with PreQ1</td>
+            <td name="td4">Caldanaerobacter subterraneus subsp. tengcongensis</td>
+            <td name="td5">None</td>
+            <td name="td6">X-RAY DIFFRACTION</td>
+            <td name="td7">1.69 Å</td>
+            <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+            <td name="td9">None</td>
+        </tr>
+
+                
+        <tr>
+            <td name="td0"><a href="https://ribocentre-switch.github.io/docs/PreQ" target="_blank"><b>PreQ<sub>1</sub>-I</b></a></td>
+            <td name="td1"><a href="https://www.rcsb.org/structure/6VUH" target="_blank"><b>6VUH</b></a></td>
+            <td name="td2">33</td>
+            <td name="td3">APO PreQ1 riboswitch aptamer grown in Mn2+</td>
+            <td name="td4">Caldanaerobacter subterraneus subsp. tengcongensis</td>
+            <td name="td5">None</td>
+            <td name="td6">X-RAY DIFFRACTION</td>
+            <td name="td7">2.00 Å</td>
+            <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+            <td name="td9">None</td>
+        </tr>
+
+                
+        <tr>
+            <td name="td0"><a href="https://ribocentre-switch.github.io/docs/PreQ" target="_blank"><b>PreQ<sub>1</sub>-I</b></a></td>
+            <td name="td1"><a href="https://www.rcsb.org/structure/6VUI" target="_blank"><b>6VUI</b></a></td>
+            <td name="td2">33</td>
+            <td name="td3">Metabolite-bound PreQ1 riboswitch with Mn2+</td>
+            <td name="td4">Caldanaerobacter subterraneus subsp. tengcongensis</td>
+            <td name="td5">None</td>
+            <td name="td6">X-RAY DIFFRACTION</td>
+            <td name="td7">2.68 Å</td>
+            <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+            <td name="td9">None</td>
+        </tr>
+
+                
+        <tr>
+            <td name="td0"><a href="https://ribocentre-switch.github.io/docs/PreQ" target="_blank"><b>PreQ<sub>1</sub>-I</b></a></td>
+            <td name="td1"><a href="https://www.rcsb.org/structure/7E9E" target="_blank"><b>7E9E</b></a></td>
+            <td name="td2">33</td>
+            <td name="td3">Crystal structure of a class I PreQ1 riboswitch aptamer (ab13-14) complexed with a cognate ligand-derived photoaffinity probe</td>
+            <td name="td4">Caldanaerobacter subterraneus subsp. tengcongensis</td>
+            <td name="td5">None</td>
+            <td name="td6">X-RAY DIFFRACTION</td>
+            <td name="td7">1.57 Å</td>
+            <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+            <td name="td9">None</td>
+        </tr>
+
+                
+        <tr>
+            <td name="td0"><a href="https://ribocentre-switch.github.io/docs/PreQ" target="_blank"><b>PreQ<sub>1</sub>-I</b></a></td>
+            <td name="td1"><a href="https://www.rcsb.org/structure/7E9I" target="_blank"><b>7E9I</b></a></td>
+            <td name="td2">33</td>
+            <td name="td3">Crystal structure of a class I PreQ1 riboswitch aptamer (wild-type) complexed with a cognate ligand-derived photoaffinity probe</td>
+            <td name="td4">Caldanaerobacter subterraneus subsp. tengcongensis</td>
+            <td name="td5">None</td>
+            <td name="td6">X-RAY DIFFRACTION</td>
+            <td name="td7">2.80 Å</td>
+            <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+            <td name="td9">None</td>
+        </tr>
+
+                
+        <tr>
+            <td name="td0"><a href="https://ribocentre-switch.github.io/docs/PreQ" target="_blank"><b>PreQ<sub>1</sub>-I</b></a></td>
+            <td name="td1"><a href="https://www.rcsb.org/structure/7REX" target="_blank"><b>7REX</b></a></td>
+            <td name="td2">34</td>
+            <td name="td3">PreQ1-1 (type-1) riboswitch in complex with tandem stacked metabolites</td>
+            <td name="td4">Carnobacterium antarcticum</td>
+            <td name="td5">None</td>
+            <td name="td6">X-RAY DIFFRACTION</td>
+            <td name="td7">2.60 Å</td>
+            <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+            <td name="td9">None</td>
+        </tr>
+
+                
+        <tr>
+            <td name="td0"><a href="https://ribocentre-switch.github.io/docs/PreQ" target="_blank"><b>PreQ<sub>1</sub>-II</b></a></td>
+            <td name="td1"><a href="https://www.rcsb.org/structure/4JF2" target="_blank"><b>4JF2</b></a></td>
+            <td name="td2">77</td>
+            <td name="td3">Structure of a class II preQ1 riboswitch reveals ligand recognition by a new fold</td>
+            <td name="td4">Lacticaseibacillus rhamnosus</td>
+            <td name="td5">None</td>
+            <td name="td6">X-RAY DIFFRACTION</td>
+            <td name="td7">2.28 Å</td>
+            <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+            <td name="td9">None</td>
+        </tr>
+
+                
+        <tr>
+            <td name="td0"><a href="https://ribocentre-switch.github.io/docs/PreQ" target="_blank"><b>PreQ<sub>1</sub>-II</b></a></td>
+            <td name="td1"><a href="https://www.rcsb.org/structure/2MIY" target="_blank"><b>2MIY</b></a></td>
+            <td name="td2">59</td>
+            <td name="td3">Solution NMR structure of a preQ1 Class II riboswitch from Streptococcus pneumoniae</td>
+            <td name="td4">None</td>
+            <td name="td5">None</td>
+            <td name="td6">SOLUTION NMR</td>
+            <td name="td7">None</td>
+            <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+            <td name="td9">None</td>
+        </tr>
+
+                
+        <tr>
+            <td name="td0"><a href="https://ribocentre-switch.github.io/docs/PreQ" target="_blank"><b>PreQ<sub>1</sub>-II</b></a></td>
+            <td name="td1"><a href="https://www.rcsb.org/structure/5D5L" target="_blank"><b>5D5L</b></a></td>
+            <td name="td2">77</td>
+            <td name="td3">PreQ1-II riboswitch with an engineered G-U wobble pair bound to Cs+</td>
+            <td name="td4">Lacticaseibacillus rhamnosus LOCK908</td>
+            <td name="td5">None</td>
+            <td name="td6">X-RAY DIFFRACTION</td>
+            <td name="td7">2.50 Å</td>
+            <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+            <td name="td9">None</td>
+        </tr>
+
+                
+        <tr>
+            <td name="td0"><a href="https://ribocentre-switch.github.io/docs/PreQ" target="_blank"><b>preQ<sub>1</sub>-III</b></a></td>
+            <td name="td1"><a href="https://www.rcsb.org/structure/4RZD" target="_blank"><b>4RZD</b></a></td>
+            <td name="td2">101</td>
+            <td name="td3">Crystal Structure of a PreQ1 Riboswitch</td>
+            <td name="td4">Faecalibacterium prausnitzii</td>
+            <td name="td5">None</td>
+            <td name="td6">X-RAY DIFFRACTION</td>
+            <td name="td7">2.75 Å</td>
+            <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+            <td name="td9">None</td>
+        </tr>
+
+                
+        <tr>
+            <td name="td0"><a href="https://ribocentre-switch.github.io/docs/PreQ" target="_blank"><b>preQ<sub>1</sub>-III</b></a></td>
+            <td name="td1"><a href="https://www.rcsb.org/structure/6XKO" target="_blank"><b>6XKO</b></a></td>
+            <td name="td2">101</td>
+            <td name="td3">Class III PreQ1 riboswitch mutant A84G</td>
+            <td name="td4">Faecalibacterium prausnitzii</td>
+            <td name="td5">None</td>
+            <td name="td6">X-RAY DIFFRACTION</td>
+            <td name="td7">2.75 Å</td>
+            <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+            <td name="td9">None</td>
+        </tr>
+
+                
+        <tr>
+            <td name="td0"><a href="https://ribocentre-switch.github.io/docs/PreQ" target="_blank"><b>preQ<sub>1</sub>-III</b></a></td>
+            <td name="td1"><a href="https://www.rcsb.org/structure/6XKN" target="_blank"><b>6XKN</b></a></td>
+            <td name="td2">101</td>
+            <td name="td3">Class III PreQ1 riboswitch mutant A52G</td>
+            <td name="td4">Faecalibacterium prausnitzii</td>
+            <td name="td5">None</td>
+            <td name="td6">X-RAY DIFFRACTION</td>
+            <td name="td7">2.73 Å</td>
+            <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+            <td name="td9">None</td>
+        </tr>
+
+                
+    </table>
+</div>       
+
+<div id="sheet3" class="sheet">
+    <p style='font-size:20px'>RNA precursors</p>
+    <table>
+      <tr>
+        <th>Name</th>
+        <th>PDB</th>
+        <th>Length</th>
+        <th>Description(PDB)</th>
+        <th>Species</th>
+        <th>Phase Determination</th>
+        <th>Structure Determination</th>
+        <th>Res(Å)</th>
+        <th>Year</th>
+        <th>Journal</th>
+      </tr>
+        
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Adenine" target="_blank"><b>Adenine</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/5E54" target="_blank"><b>5E54</b></a></td>
+        <td name="td2">71</td>
+        <td name="td3">Two apo structures of the adenine riboswitch aptamer domain determined using an X-ray free electron laser</td>
+        <td name="td4">Vibrio vulnificus</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">2.30 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+    </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Adenine" target="_blank"><b>Adenine</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/5SWE" target="_blank"><b>5SWE</b></a></td>
+        <td name="td2">71</td>
+        <td name="td3">Ligand-bound structure of adenine riboswitch aptamer domain converted in crystal from its ligand-free state using ligand mixing serial femtosecond crystallography</td>
+        <td name="td4">Vibrio vulnificus</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">3.00 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+    </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Adenine" target="_blank"><b>Adenine</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/5SWD" target="_blank"><b>5SWD</b></a></td>
+        <td name="td2">71</td>
+        <td name="td3">Structure of the adenine riboswitch aptamer domain in an intermediate-bound state</td>
+        <td name="td4">Vibrio vulnificus</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">2.50 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+    </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Adenine" target="_blank"><b>Adenine</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/4XNR" target="_blank"><b>4XNR</b></a></td>
+        <td name="td2">71</td>
+        <td name="td3">Vibrio Vulnificus Adenine Riboswitch Aptamer Domain, Synthesized by Position-selective Labeling of RNA (PLOR), in Complex with Adenine</td>
+        <td name="td4">Vibrio vulnificus</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">2.21 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+    </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Adenine" target="_blank"><b>Adenine</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/4TZY" target="_blank"><b>4TZY</b></a></td>
+        <td name="td2">71</td>
+        <td name="td3">Vibrio vulnificus Adenine Riboswitch Variant, grown in both Sr2+ and Mg2+</td>
+        <td name="td4">Vibrio vulnificus</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">2.57 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+    </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Adenine" target="_blank"><b>Adenine</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/4TZX" target="_blank"><b>4TZX</b></a></td>
+        <td name="td2">71</td>
+        <td name="td3">Vibrio Vulnificus Adenine Riboswitch variant, grown in Mg2+</td>
+        <td name="td4">Vibrio vulnificus</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">2.01 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+    </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Adenine" target="_blank"><b>Adenine</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/3IVN" target="_blank"><b>3IVN</b></a></td>
+        <td name="td2">70</td>
+        <td name="td3">Structure of the U65C mutant A-riboswitch aptamer from the Bacillus subtilis pbuE operon</td>
+        <td name="td4">Bacillus subtilis</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">2.80 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+    </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Adenine" target="_blank"><b>Adenine</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/5UZA" target="_blank"><b>5UZA</b></a></td>
+        <td name="td2">71</td>
+        <td name="td3">Adenine riboswitch aptamer domain labelled with iodo-uridine by position-selective labelling of RNA (PLOR)</td>
+        <td name="td4">Vibrio vulnificus</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">2.22 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+    </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Adenine" target="_blank"><b>Adenine</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/6VWV" target="_blank"><b>6VWV</b></a></td>
+        <td name="td2">71</td>
+        <td name="td3">Transitional unit cell 2 of adenine riboswitch aptamer crystal phase transition upon ligand binding</td>
+        <td name="td4">Vibrio vulnificus</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">3.00 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+    </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Adenine" target="_blank"><b>Adenine</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/6VWT" target="_blank"><b>6VWT</b></a></td>
+        <td name="td2">71</td>
+        <td name="td3">Transitional unit cell 1 of adenine riboswitch aptamer crystal phase transition upon ligand binding</td>
+        <td name="td4">Vibrio vulnificus</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">3.03 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+    </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Adenine" target="_blank"><b>Adenine</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/4LX5" target="_blank"><b>4LX5</b></a></td>
+        <td name="td2">71</td>
+        <td name="td3">X-ray crystal structure of the M6" riboswitch aptamer bound to pyrimido[4,5-d]pyrimidine-2,4-diamine (PPDA)</td>
+        <td name="td4">Vibrio vulnificus</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">2.13 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+    </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Adenine" target="_blank"><b>Adenine</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/4LX6" target="_blank"><b>4LX6</b></a></td>
+        <td name="td2">71</td>
+        <td name="td3">X-ray crystal structure of the M6C" riboswitch aptamer bound to 2-aminopyrimido[4,5-d]pyrimidin-4(3H)-one (PPAO)</td>
+        <td name="td4">Vibrio vulnificus</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">2.15 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+    </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Guanine" target="_blank"><b>Guanine</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/4FE5" target="_blank"><b>4FE5</b></a></td>
+        <td name="td2">67</td>
+        <td name="td3">Crystal structure of the xpt-pbuX guanine riboswitch aptamer domain in complex with hypoxanthine</td>
+        <td name="td4">None</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">1.32 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+    </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Guanine" target="_blank"><b>Guanine</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/2B57" target="_blank"><b>2B57</b></a></td>
+        <td name="td2">65</td>
+        <td name="td3">Guanine Riboswitch C74U mutant bound to 2,6-diaminopurine</td>
+        <td name="td4">None</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">2.15 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+    </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Guanine" target="_blank"><b>Guanine</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/2EEW" target="_blank"><b>2EEW</b></a></td>
+        <td name="td2">67</td>
+        <td name="td3">Guanine Riboswitch U47C mutant bound to hypoxanthine</td>
+        <td name="td4">None</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">2.25 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+    </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Guanine" target="_blank"><b>Guanine</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/2EEV" target="_blank"><b>2EEV</b></a></td>
+        <td name="td2">67</td>
+        <td name="td3">Guanine riboswitch U22C, A52G mutant bound to hypoxanthine</td>
+        <td name="td4">None</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">1.95 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+    </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Guanine" target="_blank"><b>Guanine</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/2EEU" target="_blank"><b>2EEU</b></a></td>
+        <td name="td2">67</td>
+        <td name="td3">Guanine riboswitch U22A, A52U mutant bound to hypoxanthine</td>
+        <td name="td4">None</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">1.95 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+    </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Guanine" target="_blank"><b>Guanine</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/2EET" target="_blank"><b>2EET</b></a></td>
+        <td name="td2">67</td>
+        <td name="td3">Guanine Riboswitch A21G, U75C mutant bound to hypoxanthine</td>
+        <td name="td4">None</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">1.95 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+    </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Guanine" target="_blank"><b>Guanine</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/2EES" target="_blank"><b>2EES</b></a></td>
+        <td name="td2">67</td>
+        <td name="td3">Guanine riboswitch A21U, U75A mutant bound to hypoxanthine</td>
+        <td name="td4">None</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">1.75 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+    </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Guanine" target="_blank"><b>Guanine</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/3GOT" target="_blank"><b>3GOT</b></a></td>
+        <td name="td2">67</td>
+        <td name="td3">Guanine riboswitch C74U mutant bound to 2-fluoroadenine.</td>
+        <td name="td4">None</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">1.95 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+    </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Guanine" target="_blank"><b>Guanine</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/3GOG" target="_blank"><b>3GOG</b></a></td>
+        <td name="td2">67</td>
+        <td name="td3">Guanine riboswitch A21G,U75C mutant bound to 6-chloroguanine</td>
+        <td name="td4">None</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">2.10 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+    </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Guanine" target="_blank"><b>Guanine</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/3GES" target="_blank"><b>3GES</b></a></td>
+        <td name="td2">67</td>
+        <td name="td3">Crystal structure of the guanine riboswitch C74U mutant bound to 6-O-methylguanine</td>
+        <td name="td4">None</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">2.15 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+    </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Guanine" target="_blank"><b>Guanine</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/3GER" target="_blank"><b>3GER</b></a></td>
+        <td name="td2">67</td>
+        <td name="td3">Guanine riboswitch bound to 6-chloroguanine</td>
+        <td name="td4">None</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">1.70 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+    </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Guanine" target="_blank"><b>Guanine</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/3GAO" target="_blank"><b>3GAO</b></a></td>
+        <td name="td2">67</td>
+        <td name="td3">Crystal structure of the guanine riboswitch bound to xanthine.</td>
+        <td name="td4">None</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">1.90 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+    </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Guanine" target="_blank"><b>Guanine</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/3G4M" target="_blank"><b>3G4M</b></a></td>
+        <td name="td2">67</td>
+        <td name="td3">Crystal structure of guanine riboswitch bound to 2-aminopurine</td>
+        <td name="td4">None</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">2.40 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+    </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Guanine" target="_blank"><b>Guanine</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/3FO6" target="_blank"><b>3FO6</b></a></td>
+        <td name="td2">68</td>
+        <td name="td3">Crystal structure of guanine riboswitch bound to 6-O-methylguanine</td>
+        <td name="td4">None</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">1.90 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+    </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Guanine" target="_blank"><b>Guanine</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/3FO4" target="_blank"><b>3FO4</b></a></td>
+        <td name="td2">68</td>
+        <td name="td3">Crystal structure of guanine riboswitch C74U mutant bound to 6-chloroguanine</td>
+        <td name="td4">None</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">1.90 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+    </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Guanine" target="_blank"><b>Guanine</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/3RKF" target="_blank"><b>3RKF</b></a></td>
+        <td name="td2">67</td>
+        <td name="td3">Crystal structure of guanine riboswitch C61U/G37A double mutant bound to thio-guanine</td>
+        <td name="td4">None</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">2.50 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+    </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Guanine" target="_blank"><b>Guanine</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/4FEP" target="_blank"><b>4FEP</b></a></td>
+        <td name="td2">67</td>
+        <td name="td3">Crystal structure of the A24U/U25A/A46G/C74U mutant xpt-pbuX guanine riboswitch aptamer domain in complex with 2,6-diaminopurine</td>
+        <td name="td4">None</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">1.65 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+    </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Guanine" target="_blank"><b>Guanine</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/4FEO" target="_blank"><b>4FEO</b></a></td>
+        <td name="td2">67</td>
+        <td name="td3">Crystal structure of the AU25A/A46G/C74U mutant xpt-pbuX guanine riboswitch aptamer domain in complex with 2,6-diaminopurine</td>
+        <td name="td4">None</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">1.60 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+    </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Guanine" target="_blank"><b>Guanine</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/4FEN" target="_blank"><b>4FEN</b></a></td>
+        <td name="td2">67</td>
+        <td name="td3">Crystal structure of the A24U/U25A/A46G mutant xpt-pbuX guanine riboswitch aptamer domain in complex with hypoxanthine</td>
+        <td name="td4">None</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">1.35 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+    </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Guanine" target="_blank"><b>Guanine</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/4FEL" target="_blank"><b>4FEL</b></a></td>
+        <td name="td2">67</td>
+        <td name="td3">Crystal structure of the U25A/A46G mutant of the xpt-pbuX guanine riboswitch aptamer domain in complex with hypoxanthine</td>
+        <td name="td4">None</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">1.60 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+    </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Guanine" target="_blank"><b>Guanine</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/4FEJ" target="_blank"><b>4FEJ</b></a></td>
+        <td name="td2">67</td>
+        <td name="td3">Crystal structure of the A24U mutant xpt-pbuX guanine riboswitch aptamer domain in complex with hypoxanthine</td>
+        <td name="td4">None</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">1.50 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+    </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Guanine" target="_blank"><b>Guanine</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/5C7U" target="_blank"><b>5C7U</b></a></td>
+        <td name="td2">67</td>
+        <td name="td3">5'-monophosphate wt Guanine Riboswitch bound to hypoxanthine.</td>
+        <td name="td4">Bacillus subtilis subsp. subtilis str. 168</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">3.05 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+    </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Guanine" target="_blank"><b>Guanine</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/5C7W" target="_blank"><b>5C7W</b></a></td>
+        <td name="td2">67</td>
+        <td name="td3">5'-monophosphate Z:P Guanine Riboswitch bound to hypoxanthine.</td>
+        <td name="td4">synthetic construct</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">3.22 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+    </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Guanine" target="_blank"><b>Guanine</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/6UC9" target="_blank"><b>6UC9</b></a></td>
+        <td name="td2">67</td>
+        <td name="td3">Guanine riboswitch bound to O6-cyclohexylmethyl guanine</td>
+        <td name="td4">Bacillus subtilis</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">1.94 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+    </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Guanine" target="_blank"><b>Guanine</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/6UC7" target="_blank"><b>6UC7</b></a></td>
+        <td name="td2">67</td>
+        <td name="td3">Structure of guanine riboswitch bound to N2-acetyl guanine</td>
+        <td name="td4">Bacillus subtilis</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">1.80 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+    </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Guanine" target="_blank"><b>Guanine</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/6UBU" target="_blank"><b>6UBU</b></a></td>
+        <td name="td2">67</td>
+        <td name="td3">1.60 A resolution structure of the guanine riboswitch bound to guanine</td>
+        <td name="td4">Bacillus subtilis</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">1.60 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+    </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Guanine" target="_blank"><b>Guanine</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/6UC8" target="_blank"><b>6UC8</b></a></td>
+        <td name="td2">67</td>
+        <td name="td3">Guanine riboswitch bound to 8-aminoguanine</td>
+        <td name="td4">Bacillus subtilis</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">1.90 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+    </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Guanine" target="_blank"><b>Guanine</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/2XNW" target="_blank"><b>2XNW</b></a></td>
+        <td name="td2">67</td>
+        <td name="td3">XPT-PBUX C74U RIBOSWITCH FROM B. SUBTILIS BOUND TO A TRIAZOLO- TRIAZOLE-DIAMINE LIGAND IDENTIFIED BY VIRTUAL SCREENING</td>
+        <td name="td4">Bacillus subtilis</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">1.50 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+    </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Guanine" target="_blank"><b>Guanine</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/2XNZ" target="_blank"><b>2XNZ</b></a></td>
+        <td name="td2">67</td>
+        <td name="td3">xpt-pbuX C74U Riboswitch from B. subtilis bound to acetoguanamine identified by virtual screening</td>
+        <td name="td4">Bacillus subtilis</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">1.59 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+    </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Guanine" target="_blank"><b>Guanine</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/2XO0" target="_blank"><b>2XO0</b></a></td>
+        <td name="td2">67</td>
+        <td name="td3">xpt-pbuX C74U Riboswitch from B. subtilis bound to 24-diamino-1,3,5- triazine identified by virtual screening</td>
+        <td name="td4">Bacillus subtilis</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">1.70 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+    </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Guanine" target="_blank"><b>Guanine</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/2XO1" target="_blank"><b>2XO1</b></a></td>
+        <td name="td2">67</td>
+        <td name="td3">xpt-pbuX C74U Riboswitch from B. subtilis bound to N6-methyladenine</td>
+        <td name="td4">Bacillus subtilis</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">1.60 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+    </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Guanine" target="_blank"><b>Guanine</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/1Y26" target="_blank"><b>1Y26</b></a></td>
+        <td name="td2">71</td>
+        <td name="td3">A-riboswitch-adenine complex</td>
+        <td name="td4">Vibrio vulnificus</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">2.10 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+    </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Guanine" target="_blank"><b>Guanine</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/1Y27" target="_blank"><b>1Y27</b></a></td>
+        <td name="td2">68</td>
+        <td name="td3">G-riboswitch-guanine complex</td>
+        <td name="td4">Bacillus subtilis</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">2.40 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+    </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Guanine" target="_blank"><b>Guanine</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/2G9C" target="_blank"><b>2G9C</b></a></td>
+        <td name="td2">67</td>
+        <td name="td3">Modified pyrimidines Specifically bind the purine riboswitch</td>
+        <td name="td4">None</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">1.70 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+    </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Guanine" target="_blank"><b>Guanine</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/3DS7" target="_blank"><b>3DS7</b></a></td>
+        <td name="td2">67</td>
+        <td name="td3">Structure of an RNA-2'-deoxyguanosine complex</td>
+        <td name="td4">None</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">1.85 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+    </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/PRPP" target="_blank"><b>PRPP（ykkc2b）</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/6CK4" target="_blank"><b>6CK4</b></a></td>
+        <td name="td2">117</td>
+        <td name="td3">G96A mutant of the PRPP riboswitch from T. mathranii bound to ppGpp</td>
+        <td name="td4">Thermoanaerobacter mathranii</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">3.10 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+    </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/PRPP" target="_blank"><b>PRPP（ykkc2b）</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/6CK5" target="_blank"><b>6CK5</b></a></td>
+        <td name="td2">117</td>
+        <td name="td3">PRPP riboswitch from T. mathranii bound to PRPP</td>
+        <td name="td4">Thermoanaerobacter mathranii</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">2.49 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+    </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/PRPP" target="_blank"><b>PRPP（ykkc2b）</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/6DLQ" target="_blank"><b>6DLQ</b></a></td>
+        <td name="td2">107</td>
+        <td name="td3">PRPP Riboswitch bound to PRPP, manganese chloride soaked structure</td>
+        <td name="td4">Syntrophothermus lipocalidus DSM 12680</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">2.80 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+    </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/PRPP" target="_blank"><b>PRPP（ykkc2b）</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/6DLR" target="_blank"><b>6DLR</b></a></td>
+        <td name="td2">107</td>
+        <td name="td3">PRPP Riboswitch bound to PRPP, iridium-hexamine soaked structure</td>
+        <td name="td4">Syntrophothermus lipocalidus DSM 12680</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">2.66 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+    </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/PRPP" target="_blank"><b>PRPP（ykkc2b）</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/6DLS" target="_blank"><b>6DLS</b></a></td>
+        <td name="td2">107</td>
+        <td name="td3">PRPP Riboswitch bound to PRPP, thallium acetate soaked structure</td>
+        <td name="td4">Syntrophothermus lipocalidus DSM 12680</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">2.88 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+    </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/PRPP" target="_blank"><b>PRPP（ykkc2b）</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/6DLT" target="_blank"><b>6DLT</b></a></td>
+        <td name="td2">107</td>
+        <td name="td3">PRPP Riboswitch bound to PRPP, native structure</td>
+        <td name="td4">Syntrophothermus lipocalidus DSM 12680</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">2.90 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+    </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/PRPP" target="_blank"><b>PRPP（ykkc2b）</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/6DNR" target="_blank"><b>6DNR</b></a></td>
+        <td name="td2">107</td>
+        <td name="td3">PRPP Riboswitch bound to PRPP, ligand-free structure</td>
+        <td name="td4">Syntrophothermus lipocalidus DSM 12680</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">2.90 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+    </tr>
+    
+            
+    </table>
+</div>       
+        
+<div id="sheet4" class="sheet">
+    <p style='font-size:20px'>Signaling molecules</p>
+    <table>
+      <tr>
+        <th>Name</th>
+        <th>PDB</th>
+        <th>Length</th>
+        <th>Description(PDB)</th>
+        <th>Species</th>
+        <th>Phase Determination</th>
+        <th>Structure Determination</th>
+        <th>Res(Å)</th>
+        <th>Year</th>
+        <th>Journal</th>
+
+      </tr>
+        
+       <tr>
+            <td name="td0"><a href="https://ribocentre-switch.github.io/docs/c-AMP-GMP" target="_blank"><b>C-AMP-GMP</b></a></td>
+            <td name="td1"><a href="https://www.rcsb.org/structure/4YAZ" target="_blank"><b>4YAZ</b></a></td>
+            <td name="td2">84</td>
+            <td name="td3">3',3'-cGAMP riboswitch bound with 3',3'-cGAMP</td>
+            <td name="td4">Geobacter</td>
+            <td name="td5">None</td>
+            <td name="td6">X-RAY DIFFRACTION</td>
+            <td name="td7">2.00 Å</td>
+            <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+            <td name="td9">None</td>
+       </tr>
+    
+                
+       <tr>
+            <td name="td0"><a href="https://ribocentre-switch.github.io/docs/c-AMP-GMP" target="_blank"><b>C-AMP-GMP</b></a></td>
+            <td name="td1"><a href="https://www.rcsb.org/structure/4YB0" target="_blank"><b>4YB0</b></a></td>
+            <td name="td2">83</td>
+            <td name="td3">3',3'-cGAMP riboswitch bound with c-di-GMP</td>
+            <td name="td4">Geobacter</td>
+            <td name="td5">None</td>
+            <td name="td6">X-RAY DIFFRACTION</td>
+            <td name="td7">2.12 Å</td>
+            <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+            <td name="td9">None</td>
+       </tr>
+    
+                
+       <tr>
+            <td name="td0"><a href="https://ribocentre-switch.github.io/docs/c-AMP-GMP" target="_blank"><b>C-AMP-GMP</b></a></td>
+            <td name="td1"><a href="https://www.rcsb.org/structure/4YB1" target="_blank"><b>4YB1</b></a></td>
+            <td name="td2">91</td>
+            <td name="td3">20A Mutant c-di-GMP Vc2 Riboswitch bound with 3',3'-cGAMP</td>
+            <td name="td4">Vibrio cholerae', 'Homo sapiens</td>
+            <td name="td5">None</td>
+            <td name="td6">X-RAY DIFFRACTION</td>
+            <td name="td7">2.08 Å</td>
+            <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+            <td name="td9">None</td>
+       </tr>
+    
+                
+       <tr>
+            <td name="td0"><a href="https://ribocentre-switch.github.io/docs/ppGpp" target="_blank"><b>ppGpp（ykkc2a）</b></a></td>
+            <td name="td1"><a href="https://www.rcsb.org/structure/6DMC" target="_blank"><b>6DMC</b></a></td>
+            <td name="td2">102</td>
+            <td name="td3">ppGpp Riboswitch bound to ppGpp, native structure</td>
+            <td name="td4">Sulfobacillus acidophilus DSM 10332</td>
+            <td name="td5">None</td>
+            <td name="td6">X-RAY DIFFRACTION</td>
+            <td name="td7">2.20 Å</td>
+            <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+            <td name="td9">None</td>
+       </tr>
+    
+                
+       <tr>
+            <td name="td0"><a href="https://ribocentre-switch.github.io/docs/ppGpp" target="_blank"><b>ppGpp（ykkc2a）</b></a></td>
+            <td name="td1"><a href="https://www.rcsb.org/structure/6DMD" target="_blank"><b>6DMD</b></a></td>
+            <td name="td2">102</td>
+            <td name="td3">ppGpp Riboswitch bound to ppGpp, manganese chloride structure</td>
+            <td name="td4">Sulfobacillus acidophilus DSM 10332</td>
+            <td name="td5">None</td>
+            <td name="td6">X-RAY DIFFRACTION</td>
+            <td name="td7">2.65 Å</td>
+            <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+            <td name="td9">None</td>
+       </tr>
+    
+                
+       <tr>
+            <td name="td0"><a href="https://ribocentre-switch.github.io/docs/ppGpp" target="_blank"><b>ppGpp（ykkc2a）</b></a></td>
+            <td name="td1"><a href="https://www.rcsb.org/structure/6DME" target="_blank"><b>6DME</b></a></td>
+            <td name="td2">102</td>
+            <td name="td3">ppGpp Riboswitch bound to ppGpp, thallium acetate structure</td>
+            <td name="td4">Sulfobacillus acidophilus DSM 10332</td>
+            <td name="td5">None</td>
+            <td name="td6">X-RAY DIFFRACTION</td>
+            <td name="td7">2.70 Å</td>
+            <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+            <td name="td9">None</td>
+       </tr>
+    
+                
+       <tr>
+            <td name="td0"><a href="https://ribocentre-switch.github.io/docs/c-di-GMP" target="_blank"><b>c-di-GMP-I</b></a></td>
+            <td name="td1"><a href="https://www.rcsb.org/structure/3IRW" target="_blank"><b>3IRW</b></a></td>
+            <td name="td2">98</td>
+            <td name="td3">Structure of a c-di-GMP riboswitch from V. cholerae</td>
+            <td name="td4">Homo sapiens', 'Vibrio cholerae</td>
+            <td name="td5">None</td>
+            <td name="td6">X-RAY DIFFRACTION</td>
+            <td name="td7">2.70 Å</td>
+            <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+            <td name="td9">None</td>
+       </tr>
+    
+                
+       <tr>
+            <td name="td0"><a href="https://ribocentre-switch.github.io/docs/c-di-GMP" target="_blank"><b>c-di-GMP-I</b></a></td>
+            <td name="td1"><a href="https://www.rcsb.org/structure/3IWN" target="_blank"><b>3IWN</b></a></td>
+            <td name="td2">93</td>
+            <td name="td3">Co-crystal structure of a bacterial c-di-GMP riboswitch</td>
+            <td name="td4">Homo sapiens</td>
+            <td name="td5">None</td>
+            <td name="td6">X-RAY DIFFRACTION</td>
+            <td name="td7">3.20 Å</td>
+            <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+            <td name="td9">None</td>
+       </tr>
+    
+                
+       <tr>
+            <td name="td0"><a href="https://ribocentre-switch.github.io/docs/c-di-GMP" target="_blank"><b>c-di-GMP-I</b></a></td>
+            <td name="td1"><a href="https://www.rcsb.org/structure/3MUM" target="_blank"><b>3MUM</b></a></td>
+            <td name="td2">98</td>
+            <td name="td3">Crystal Structure of the G20A mutant c-di-GMP riboswith bound to c-di-GMP</td>
+            <td name="td4">Homo sapiens</td>
+            <td name="td5">None</td>
+            <td name="td6">X-RAY DIFFRACTION</td>
+            <td name="td7">2.90 Å</td>
+            <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+            <td name="td9">None</td>
+       </tr>
+    
+                
+       <tr>
+            <td name="td0"><a href="https://ribocentre-switch.github.io/docs/c-di-GMP" target="_blank"><b>c-di-GMP-I</b></a></td>
+            <td name="td1"><a href="https://www.rcsb.org/structure/3MUR" target="_blank"><b>3MUR</b></a></td>
+            <td name="td2">98</td>
+            <td name="td3">Crystal Structure of the C92U mutant c-di-GMP riboswith bound to c-di-GMP</td>
+            <td name="td4">Homo sapiens</td>
+            <td name="td5">None</td>
+            <td name="td6">X-RAY DIFFRACTION</td>
+            <td name="td7">3.00 Å</td>
+            <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+            <td name="td9">None</td>
+       </tr>
+    
+                
+       <tr>
+            <td name="td0"><a href="https://ribocentre-switch.github.io/docs/c-di-GMP" target="_blank"><b>c-di-GMP-I</b></a></td>
+            <td name="td1"><a href="https://www.rcsb.org/structure/3MUT" target="_blank"><b>3MUT</b></a></td>
+            <td name="td2">98</td>
+            <td name="td3">Crystal Structure of the G20A/C92U mutant c-di-GMP riboswith bound to c-di-GMP</td>
+            <td name="td4">Homo sapiens</td>
+            <td name="td5">None</td>
+            <td name="td6">X-RAY DIFFRACTION</td>
+            <td name="td7">3.00 Å</td>
+            <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+            <td name="td9">None</td>
+       </tr>
+    
+                
+       <tr>
+            <td name="td0"><a href="https://ribocentre-switch.github.io/docs/c-di-GMP" target="_blank"><b>c-di-GMP-I</b></a></td>
+            <td name="td1"><a href="https://www.rcsb.org/structure/3MUV" target="_blank"><b>3MUV</b></a></td>
+            <td name="td2">98</td>
+            <td name="td3">Crystal Structure of the G20A/C92U mutant c-di-GMP riboswith bound to c-di-AMP</td>
+            <td name="td4">Homo sapiens</td>
+            <td name="td5">None</td>
+            <td name="td6">X-RAY DIFFRACTION</td>
+            <td name="td7">3.20 Å</td>
+            <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+            <td name="td9">None</td>
+       </tr>
+    
+                
+       <tr>
+            <td name="td0"><a href="https://ribocentre-switch.github.io/docs/c-di-GMP" target="_blank"><b>c-di-GMP-I</b></a></td>
+            <td name="td1"><a href="https://www.rcsb.org/structure/3MXH" target="_blank"><b>3MXH</b></a></td>
+            <td name="td2">98</td>
+            <td name="td3">Native structure of a c-di-GMP riboswitch from V. cholerae</td>
+            <td name="td4">Homo sapiens</td>
+            <td name="td5">None</td>
+            <td name="td6">X-RAY DIFFRACTION</td>
+            <td name="td7">2.30 Å</td>
+            <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+            <td name="td9">None</td>
+       </tr>
+    
+                
+       <tr>
+            <td name="td0"><a href="https://ribocentre-switch.github.io/docs/c-di-GMP" target="_blank"><b>c-di-GMP-I</b></a></td>
+            <td name="td1"><a href="https://www.rcsb.org/structure/3UCU" target="_blank"><b>3UCU</b></a></td>
+            <td name="td2">98</td>
+            <td name="td3">The c-di-GMP-I riboswitch bound to pGpG</td>
+            <td name="td4">Homo sapiens</td>
+            <td name="td5">None</td>
+            <td name="td6">X-RAY DIFFRACTION</td>
+            <td name="td7">2.80 Å</td>
+            <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+            <td name="td9">None</td>
+       </tr>
+    
+                
+       <tr>
+            <td name="td0"><a href="https://ribocentre-switch.github.io/docs/c-di-GMP" target="_blank"><b>c-di-GMP-I</b></a></td>
+            <td name="td1"><a href="https://www.rcsb.org/structure/3UCZ" target="_blank"><b>3UCZ</b></a></td>
+            <td name="td2">98</td>
+            <td name="td3">The c-di-GMP-I riboswitch bound to GpG</td>
+            <td name="td4">Homo sapiens</td>
+            <td name="td5">None</td>
+            <td name="td6">X-RAY DIFFRACTION</td>
+            <td name="td7">2.80 Å</td>
+            <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+            <td name="td9">None</td>
+       </tr>
+    
+                
+       <tr>
+            <td name="td0"><a href="https://ribocentre-switch.github.io/docs/c-di-GMP" target="_blank"><b>c-di-GMP-I</b></a></td>
+            <td name="td1"><a href="https://www.rcsb.org/structure/3UD3" target="_blank"><b>3UD3</b></a></td>
+            <td name="td2">98</td>
+            <td name="td3">The C92U mutant c-di-GMP-I riboswitch bound to pGpA</td>
+            <td name="td4">Homo sapiens</td>
+            <td name="td5">None</td>
+            <td name="td6">X-RAY DIFFRACTION</td>
+            <td name="td7">3.10 Å</td>
+            <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+            <td name="td9">None</td>
+       </tr>
+    
+                
+       <tr>
+            <td name="td0"><a href="https://ribocentre-switch.github.io/docs/c-di-GMP" target="_blank"><b>c-di-GMP-I</b></a></td>
+            <td name="td1"><a href="https://www.rcsb.org/structure/3UD4" target="_blank"><b>3UD4</b></a></td>
+            <td name="td2">98</td>
+            <td name="td3">The C92U mutant c-di-GMP-I riboswitch bound to GpA</td>
+            <td name="td4">Homo sapiens</td>
+            <td name="td5">None</td>
+            <td name="td6">X-RAY DIFFRACTION</td>
+            <td name="td7">2.70 Å</td>
+            <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+            <td name="td9">None</td>
+       </tr>
+    
+                
+       <tr>
+            <td name="td0"><a href="https://ribocentre-switch.github.io/docs/c-di-GMP" target="_blank"><b>c-di-GMP-II</b></a></td>
+            <td name="td1"><a href="https://www.rcsb.org/structure/3Q3Z" target="_blank"><b>3Q3Z</b></a></td>
+            <td name="td2">75</td>
+            <td name="td3">Structure of a c-di-GMP-II riboswitch from C. acetobutylicum bound to c-di-GMP</td>
+            <td name="td4">Clostridium acetobutylicum</td>
+            <td name="td5">None</td>
+            <td name="td6">X-RAY DIFFRACTION</td>
+            <td name="td7">2.51 Å</td>
+            <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+            <td name="td9">None</td>
+       </tr>
+    
+                
+       <tr>
+            <td name="td0"><a href="https://ribocentre-switch.github.io/docs/c-di-AMP" target="_blank"><b>c-di-AMP( ydaO )</b></a></td>
+            <td name="td1"><a href="https://www.rcsb.org/structure/4QLM" target="_blank"><b>4QLM</b></a></td>
+            <td name="td2">125</td>
+            <td name="td3">ydao riboswitch binding to c-di-AMP</td>
+            <td name="td4">Caldanaerobacter subterraneus subsp. tengcongensis MB4</td>
+            <td name="td5">None</td>
+            <td name="td6">X-RAY DIFFRACTION</td>
+            <td name="td7">2.72 Å</td>
+            <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+            <td name="td9">None</td>
+       </tr>
+    
+                
+       <tr>
+            <td name="td0"><a href="https://ribocentre-switch.github.io/docs/c-di-AMP" target="_blank"><b>c-di-AMP( ydaO )</b></a></td>
+            <td name="td1"><a href="https://www.rcsb.org/structure/4QLN" target="_blank"><b>4QLN</b></a></td>
+            <td name="td2">125</td>
+            <td name="td3">structure of ydao riboswitch binding with c-di-dAMP</td>
+            <td name="td4">Caldanaerobacter subterraneus subsp. tengcongensis MB4</td>
+            <td name="td5">None</td>
+            <td name="td6">X-RAY DIFFRACTION</td>
+            <td name="td7">2.65 Å</td>
+            <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+            <td name="td9">None</td>
+       </tr>
+    
+                
+       <tr>
+            <td name="td0"><a href="https://ribocentre-switch.github.io/docs/c-di-AMP" target="_blank"><b>c-di-AMP( ydaO )</b></a></td>
+            <td name="td1"><a href="https://www.rcsb.org/structure/4W90" target="_blank"><b>4W90</b></a></td>
+            <td name="td2">91</td>
+            <td name="td3">Crystal structure of Bacillus subtilis cyclic-di-AMP riboswitch ydaO</td>
+            <td name="td4">Homo sapiens', 'Bacillus subtilis</td>
+            <td name="td5">None</td>
+            <td name="td6">X-RAY DIFFRACTION</td>
+            <td name="td7">3.12 Å</td>
+            <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+            <td name="td9">None</td>
+       </tr>
+    
+                
+       <tr>
+            <td name="td0"><a href="https://ribocentre-switch.github.io/docs/c-di-AMP" target="_blank"><b>c-di-AMP( ydaO )</b></a></td>
+            <td name="td1"><a href="https://www.rcsb.org/structure/4W92" target="_blank"><b>4W92</b></a></td>
+            <td name="td2">91</td>
+            <td name="td3">Crystal structure of Bacillus subtilis cyclic-di-AMP riboswitch ydaO</td>
+            <td name="td4">Homo sapiens', 'Bacillus subtilis</td>
+            <td name="td5">None</td>
+            <td name="td6">X-RAY DIFFRACTION</td>
+            <td name="td7">3.21 Å</td>
+            <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+            <td name="td9">None</td>
+       </tr>
+    
+                
+       <tr>
+            <td name="td0"><a href="https://ribocentre-switch.github.io/docs/c-di-AMP" target="_blank"><b>c-di-AMP( ydaO )</b></a></td>
+            <td name="td1"><a href="https://www.rcsb.org/structure/6N5K" target="_blank"><b>6N5K</b></a></td>
+            <td name="td2">125</td>
+            <td name="td3">Structure of Human pir-miRNA-449c Apical Loop and One-base-pair Fused to the YdaO Riboswitch Scaffold</td>
+            <td name="td4">Homo sapiens</td>
+            <td name="td5">None</td>
+            <td name="td6">X-RAY DIFFRACTION</td>
+            <td name="td7">3.10 Å</td>
+            <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+            <td name="td9">None</td>
+       </tr>
+    
+                
+       <tr>
+            <td name="td0"><a href="https://ribocentre-switch.github.io/docs/c-di-AMP" target="_blank"><b>c-di-AMP( ydaO )</b></a></td>
+            <td name="td1"><a href="https://www.rcsb.org/structure/6WTR" target="_blank"><b>6WTR</b></a></td>
+            <td name="td2">125</td>
+            <td name="td3">Structure of Human pir-miRNA-300 Apical Loop Fused to the YdaO Riboswitch Scaffold</td>
+            <td name="td4">Homo sapiens</td>
+            <td name="td5">None</td>
+            <td name="td6">X-RAY DIFFRACTION</td>
+            <td name="td7">3.08 Å</td>
+            <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+            <td name="td9">None</td>
+       </tr>
+    
+                
+       <tr>
+            <td name="td0"><a href="https://ribocentre-switch.github.io/docs/c-di-AMP" target="_blank"><b>c-di-AMP( ydaO )</b></a></td>
+            <td name="td1"><a href="https://www.rcsb.org/structure/6WTL" target="_blank"><b>6WTL</b></a></td>
+            <td name="td2">124</td>
+            <td name="td3">Structure of Human pir-miRNA-19b-2 Apical Loop and One-base-pair Fused to the YdaO Riboswitch Scaffold</td>
+            <td name="td4">Homo sapiens</td>
+            <td name="td5">None</td>
+            <td name="td6">X-RAY DIFFRACTION</td>
+            <td name="td7">2.85 Å</td>
+            <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+            <td name="td9">None</td>
+       </tr>
+    
+                
+       <tr>
+            <td name="td0"><a href="https://ribocentre-switch.github.io/docs/c-di-AMP" target="_blank"><b>c-di-AMP( ydaO )</b></a></td>
+            <td name="td1"><a href="https://www.rcsb.org/structure/4QK8" target="_blank"><b>4QK8</b></a></td>
+            <td name="td2">122</td>
+            <td name="td3">Thermoanaerobacter pseudethanolicus c-di-AMP riboswitch</td>
+            <td name="td4">None</td>
+            <td name="td5">None</td>
+            <td name="td6">X-RAY DIFFRACTION</td>
+            <td name="td7">3.05 Å</td>
+            <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+            <td name="td9">None</td>
+       </tr>
+    
+                
+       <tr>
+            <td name="td0"><a href="https://ribocentre-switch.github.io/docs/c-di-AMP" target="_blank"><b>c-di-AMP( ydaO )</b></a></td>
+            <td name="td1"><a href="https://www.rcsb.org/structure/4QK9" target="_blank"><b>4QK9</b></a></td>
+            <td name="td2">124</td>
+            <td name="td3">Thermovirga lienii c-di-AMP riboswitch</td>
+            <td name="td4">None</td>
+            <td name="td5">None</td>
+            <td name="td6">X-RAY DIFFRACTION</td>
+            <td name="td7">3.05 Å</td>
+            <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+            <td name="td9">None</td>
+       </tr>
+    
+                
+       <tr>
+            <td name="td0"><a href="https://ribocentre-switch.github.io/docs/c-di-AMP" target="_blank"><b>c-di-AMP( ydaO )</b></a></td>
+            <td name="td1"><a href="https://www.rcsb.org/structure/4QKA" target="_blank"><b>4QKA</b></a></td>
+            <td name="td2">122</td>
+            <td name="td3">c-di-AMP riboswitch from Thermoanaerobacter pseudethanolicus, iridium hexamine soak</td>
+            <td name="td4">None</td>
+            <td name="td5">None</td>
+            <td name="td6">X-RAY DIFFRACTION</td>
+            <td name="td7">3.20 Å</td>
+            <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+            <td name="td9">None</td>
+       </tr>
+    
+                
+       <tr>
+            <td name="td0"><a href="https://ribocentre-switch.github.io/docs/c-di-AMP" target="_blank"><b>c-di-AMP( ydaO )</b></a></td>
+            <td name="td1"><a href="https://www.rcsb.org/structure/6N5N" target="_blank"><b>6N5N</b></a></td>
+            <td name="td2">125</td>
+            <td name="td3">Structure of Human pir-miRNA-208a Apical Loop and One-base-pair Fused to the YdaO Riboswitch Scaffold</td>
+            <td name="td4">Homo sapiens</td>
+            <td name="td5">None</td>
+            <td name="td6">X-RAY DIFFRACTION</td>
+            <td name="td7">2.95 Å</td>
+            <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+            <td name="td9">None</td>
+       </tr>
+    
+                
+       <tr>
+            <td name="td0"><a href="https://ribocentre-switch.github.io/docs/c-di-AMP" target="_blank"><b>c-di-AMP( ydaO )</b></a></td>
+            <td name="td1"><a href="https://www.rcsb.org/structure/6N5O" target="_blank"><b>6N5O</b></a></td>
+            <td name="td2">126</td>
+            <td name="td3">Structure of Human pir-miRNA-202 Apical Loop and One-base-pair Fused to the YdaO Riboswitch Scaffold</td>
+            <td name="td4">Homo sapiens</td>
+            <td name="td5">None</td>
+            <td name="td6">X-RAY DIFFRACTION</td>
+            <td name="td7">2.71 Å</td>
+            <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+            <td name="td9">None</td>
+       </tr>
+    
+                
+       <tr>
+            <td name="td0"><a href="https://ribocentre-switch.github.io/docs/c-di-AMP" target="_blank"><b>c-di-AMP( ydaO )</b></a></td>
+            <td name="td1"><a href="https://www.rcsb.org/structure/6N5P" target="_blank"><b>6N5P</b></a></td>
+            <td name="td2">127</td>
+            <td name="td3">Structure of Human pir-miRNA-340 Apical Loop and One-base-pair Fused to the YdaO Riboswitch Scaffold</td>
+            <td name="td4">Homo sapiens</td>
+            <td name="td5">None</td>
+            <td name="td6">X-RAY DIFFRACTION</td>
+            <td name="td7">2.99 Å</td>
+            <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+            <td name="td9">None</td>
+       </tr>
+    
+                
+       <tr>
+            <td name="td0"><a href="https://ribocentre-switch.github.io/docs/c-di-AMP" target="_blank"><b>c-di-AMP( ydaO )</b></a></td>
+            <td name="td1"><a href="https://www.rcsb.org/structure/6N5Q" target="_blank"><b>6N5Q</b></a></td>
+            <td name="td2">128</td>
+            <td name="td3">Structure of Human pir-miRNA-378a Apical Loop and One-base-pair Fused to the YdaO Riboswitch Scaffold</td>
+            <td name="td4">Homo sapiens</td>
+            <td name="td5">None</td>
+            <td name="td6">X-RAY DIFFRACTION</td>
+            <td name="td7">2.95 Å</td>
+            <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+            <td name="td9">None</td>
+       </tr>
+    
+                
+       <tr>
+            <td name="td0"><a href="https://ribocentre-switch.github.io/docs/c-di-AMP" target="_blank"><b>c-di-AMP( ydaO )</b></a></td>
+            <td name="td1"><a href="https://www.rcsb.org/structure/6N5S" target="_blank"><b>6N5S</b></a></td>
+            <td name="td2">123</td>
+            <td name="td3">Structure of Human pir-miRNA-320b-2 Apical Loop and One-base-pair Stem Fused to the YdaO Riboswitch Scaffold</td>
+            <td name="td4">Homo sapiens</td>
+            <td name="td5">None</td>
+            <td name="td6">X-RAY DIFFRACTION</td>
+            <td name="td7">2.80 Å</td>
+            <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+            <td name="td9">None</td>
+       </tr>
+    
+                
+       <tr>
+            <td name="td0"><a href="https://ribocentre-switch.github.io/docs/c-di-AMP" target="_blank"><b>c-di-AMP( ydaO )</b></a></td>
+            <td name="td1"><a href="https://www.rcsb.org/structure/6N5T" target="_blank"><b>6N5T</b></a></td>
+            <td name="td2">126</td>
+            <td name="td3">Structure of Human pir-miRNA-378a Apical Loop Fused to the YdaO Riboswitch Scaffold</td>
+            <td name="td4">Homo sapiens</td>
+            <td name="td5">None</td>
+            <td name="td6">X-RAY DIFFRACTION</td>
+            <td name="td7">2.79 Å</td>
+            <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+            <td name="td9">None</td>
+       </tr>
+    
+                
+       <tr>
+            <td name="td0"><a href="https://ribocentre-switch.github.io/docs/ZTP" target="_blank"><b>ZTP</b></a></td>
+            <td name="td1"><a href="https://www.rcsb.org/structure/4ZNP" target="_blank"><b>4ZNP</b></a></td>
+            <td name="td2">73</td>
+            <td name="td3">The structure of A pfI Riboswitch Bound to ZMP</td>
+            <td name="td4">synthetic construct</td>
+            <td name="td5">None</td>
+            <td name="td6">X-RAY DIFFRACTION</td>
+            <td name="td7">2.94 Å</td>
+            <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+            <td name="td9">None</td>
+       </tr>
+    
+                
+       <tr>
+            <td name="td0"><a href="https://ribocentre-switch.github.io/docs/ZTP" target="_blank"><b>ZTP</b></a></td>
+            <td name="td1"><a href="https://www.rcsb.org/structure/4XW7" target="_blank"><b>4XW7</b></a></td>
+            <td name="td2">64</td>
+            <td name="td3">Crystal structure of the ZMP riboswitch at 2.50 angstrom</td>
+            <td name="td4">Schaalia odontolytica</td>
+            <td name="td5">None</td>
+            <td name="td6">X-RAY DIFFRACTION</td>
+            <td name="td7">2.50 Å</td>
+            <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+            <td name="td9">None</td>
+       </tr>
+    
+                
+       <tr>
+            <td name="td0"><a href="https://ribocentre-switch.github.io/docs/ZTP" target="_blank"><b>ZTP</b></a></td>
+            <td name="td1"><a href="https://www.rcsb.org/structure/4XWF" target="_blank"><b>4XWF</b></a></td>
+            <td name="td2">64</td>
+            <td name="td3">Crystal structure of the ZMP riboswitch at 1.80 angstrom</td>
+            <td name="td4">Schaalia odontolytica</td>
+            <td name="td5">None</td>
+            <td name="td6">X-RAY DIFFRACTION</td>
+            <td name="td7">1.80 Å</td>
+            <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+            <td name="td9">None</td>
+       </tr>
+    
+                
+       <tr>
+            <td name="td0"><a href="https://ribocentre-switch.github.io/docs/ZTP" target="_blank"><b>ZTP</b></a></td>
+            <td name="td1"><a href="https://www.rcsb.org/structure/5BTP" target="_blank"><b>5BTP</b></a></td>
+            <td name="td2">75</td>
+            <td name="td3">Fusobacterium ulcerans ZTP riboswitch bound to ZMP</td>
+            <td name="td4">synthetic construct</td>
+            <td name="td5">None</td>
+            <td name="td6">X-RAY DIFFRACTION</td>
+            <td name="td7">2.82 Å</td>
+            <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+            <td name="td9">None</td>
+       </tr>
+    
+                
+       <tr>
+            <td name="td0"><a href="https://ribocentre-switch.github.io/docs/ZTP" target="_blank"><b>ZTP</b></a></td>
+            <td name="td1"><a href="https://www.rcsb.org/structure/6OD9" target="_blank"><b>6OD9</b></a></td>
+            <td name="td2">75</td>
+            <td name="td3">Co-crystal structure of the Fusobacterium ulcerans ZTP riboswitch using an X-ray free-electron laser</td>
+            <td name="td4">Fusobacterium ulcerans</td>
+            <td name="td5">None</td>
+            <td name="td6">X-RAY DIFFRACTION</td>
+            <td name="td7">4.10 Å</td>
+            <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+            <td name="td9">None</td>
+       </tr>
+    
+                
+       <tr>
+            <td name="td0"><a href="https://ribocentre-switch.github.io/docs/ZTP" target="_blank"><b>ZTP</b></a></td>
+            <td name="td1"><a href="https://www.rcsb.org/structure/6WZR" target="_blank"><b>6WZR</b></a></td>
+            <td name="td2">75</td>
+            <td name="td3">Fusibacterium ulcerans ZTP riboswitch bound to p-1-pyridinyl AICA</td>
+            <td name="td4">Fusobacterium ulcerans</td>
+            <td name="td5">None</td>
+            <td name="td6">X-RAY DIFFRACTION</td>
+            <td name="td7">3.20 Å</td>
+            <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+            <td name="td9">None</td>
+       </tr>
+    
+                
+       <tr>
+            <td name="td0"><a href="https://ribocentre-switch.github.io/docs/ZTP" target="_blank"><b>ZTP</b></a></td>
+            <td name="td1"><a href="https://www.rcsb.org/structure/6WZS" target="_blank"><b>6WZS</b></a></td>
+            <td name="td2">75</td>
+            <td name="td3">Fusibacterium ulcerans ZTP riboswitch bound to m-1-pyridinyl AICA</td>
+            <td name="td4">Fusobacterium ulcerans</td>
+            <td name="td5">None</td>
+            <td name="td6">X-RAY DIFFRACTION</td>
+            <td name="td7">3.23 Å</td>
+            <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+            <td name="td9">None</td>
+       </tr>
+    
+                
+    </table>
+</div>
+
+<div id="sheet5" class="sheet">
+    <p style='font-size:20px'>Elemental ions</p>
+    <table>
+      <tr>
+        <th>Name</th>
+        <th>PDB</th>
+        <th>Length</th>
+        <th>Description(PDB)</th>
+        <th>Species</th>
+        <th>Phase Determination</th>
+        <th>Structure Determination</th>
+        <th>Res(Å)</th>
+        <th>Year</th>
+        <th>Journal</th>
+      </tr>
+        
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Fluoride" target="_blank"><b>Fluoride</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/3VRS" target="_blank"><b>3VRS</b></a></td>
+        <td name="td2">52</td>
+        <td name="td3">Crystal structure of fluoride riboswitch, soaked in Mn2+</td>
+        <td name="td4">Thermotoga petrophila</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">2.60 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+      </tr>
+
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Fluoride" target="_blank"><b>Fluoride</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/4EN5" target="_blank"><b>4EN5</b></a></td>
+        <td name="td2">52</td>
+        <td name="td3">Crystal structure of fluoride riboswitch, Tl-Acetate soaked</td>
+        <td name="td4">Thermotoga petrophila</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">2.96 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+      </tr>
+
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Fluoride" target="_blank"><b>Fluoride</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/4ENA" target="_blank"><b>4ENA</b></a></td>
+        <td name="td2">52</td>
+        <td name="td3">Crystal structure of fluoride riboswitch, soaked in Cs+</td>
+        <td name="td4">Thermotoga petrophila</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">2.85 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+      </tr>
+
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Fluoride" target="_blank"><b>Fluoride</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/4ENB" target="_blank"><b>4ENB</b></a></td>
+        <td name="td2">52</td>
+        <td name="td3">Crystal structure of fluoride riboswitch, bound to Iridium</td>
+        <td name="td4">Thermotoga petrophila</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">2.30 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+      </tr>
+
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Fluoride" target="_blank"><b>Fluoride</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/4ENC" target="_blank"><b>4ENC</b></a></td>
+        <td name="td2">52</td>
+        <td name="td3">Crystal structure of fluoride riboswitch</td>
+        <td name="td4">Thermotoga petrophila</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">2.27 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+      </tr>
+
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Fluoride" target="_blank"><b>Fluoride</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/5KH8" target="_blank"><b>5KH8</b></a></td>
+        <td name="td2">47</td>
+        <td name="td3">Solution structures of the apo state fluoride riboswitch</td>
+        <td name="td4">synthetic construct</td>
+        <td name="td5">None</td>
+        <td name="td6">SOLUTION NMR</td>
+        <td name="td7">None</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+      </tr>
+
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Magnesium" target="_blank"><b>Mg2+</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/2QBZ" target="_blank"><b>2QBZ</b></a></td>
+        <td name="td2">161</td>
+        <td name="td3">Structure of the M-Box Riboswitch Aptamer Domain</td>
+        <td name="td4">None</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">2.60 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+      </tr>
+
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Magnesium" target="_blank"><b>Mg2+</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/3PDR" target="_blank"><b>3PDR</b></a></td>
+        <td name="td2">161</td>
+        <td name="td3">Crystal structure of manganese bound M-box RNA</td>
+        <td name="td4">Bacillus subtilis</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">1.85 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+      </tr>
+
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Magnesium" target="_blank"><b>Mg2+(unpublished)</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/2LI4" target="_blank"><b>2LI4</b></a></td>
+        <td name="td2">32</td>
+        <td name="td3">Solution structure of a shortened antiterminator hairpin from a Mg2+ riboswitch</td>
+        <td name="td4">Yersinia enterocolitica</td>
+        <td name="td5">None</td>
+        <td name="td6">SOLUTION NMR</td>
+        <td name="td7">None</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+      </tr>
+
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Manganese" target="_blank"><b>Mn2+</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/4Y1I" target="_blank"><b>4Y1I</b></a></td>
+        <td name="td2">100</td>
+        <td name="td3">Lactococcus lactis yybP-ykoY Mn riboswitch bound to Mn2+</td>
+        <td name="td4">Lactococcus lactis subsp. lactis</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">2.85 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+      </tr>
+
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Manganese" target="_blank"><b>Mn2+</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/4Y1J" target="_blank"><b>4Y1J</b></a></td>
+        <td name="td2">100</td>
+        <td name="td3">Lactococcus lactis yybP-ykoY Mn riboswitch A41U binding site mutant in presence of Mn2+</td>
+        <td name="td4">Lactococcus lactis subsp. lactis</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">2.24 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+      </tr>
+
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Manganese" target="_blank"><b>Mn2+</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/4Y1M" target="_blank"><b>4Y1M</b></a></td>
+        <td name="td2">107</td>
+        <td name="td3">An Escherichia coli yybP-ykoY Mn riboswitch in the Mn2+-free state</td>
+        <td name="td4">Escherichia coli</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">3.00 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+      </tr>
+
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Manganese" target="_blank"><b>Mn2+</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/6CB3" target="_blank"><b>6CB3</b></a></td>
+        <td name="td2">101</td>
+        <td name="td3">Crystal structure of the L.Lactis YkoY riboswitch bound to cadmium</td>
+        <td name="td4">Lactococcus lactis</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">1.89 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+      </tr>
+
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Manganese" target="_blank"><b>Mn2+</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/6CC1" target="_blank"><b>6CC1</b></a></td>
+        <td name="td2">101</td>
+        <td name="td3">Crystal structure of ykoY-alx riboswitch chimera bound to cadmium</td>
+        <td name="td4">Lactococcus lactis</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">2.54 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+      </tr>
+
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Manganese" target="_blank"><b>Mn2+</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/6CC3" target="_blank"><b>6CC3</b></a></td>
+        <td name="td2">101</td>
+        <td name="td3">Crystal structure of ykoY-mntP riboswitch chimera bound to cadmium</td>
+        <td name="td4">Lactococcus lactis</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">2.70 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+      </tr>
+
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Manganese" target="_blank"><b>Mn2+</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/6N2V" target="_blank"><b>6N2V</b></a></td>
+        <td name="td2">99</td>
+        <td name="td3">Manganese riboswitch from Xanthmonas oryzae bound to Mn(II)</td>
+        <td name="td4">Xanthomonas oryzae</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">2.85 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+      </tr>
+
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/NiCo" target="_blank"><b>NiCo (Fe 2+)</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/4RUM" target="_blank"><b>4RUM</b></a></td>
+        <td name="td2">94</td>
+        <td name="td3">Crystal structure of the NiCo transition-metal riboswitch bound to cobalt</td>
+        <td name="td4">synthetic construct</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">2.64 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+      </tr>
+
+            
+    </table>
+</div>
+
+<div id="sheet6" class="sheet">
+    <p style='font-size:20px'>Amino acids</p>
+    <table>
+      <tr>
+        <th>Name</th>
+        <th>PDB</th>
+        <th>Length</th>
+        <th>Description(PDB)</th>
+        <th>Species</th>
+        <th>Phase Determination</th>
+        <th>Structure Determination</th>
+        <th>Res(Å)</th>
+        <th>Year</th>
+        <th>Journal</th>
+
+      </tr>
+        
+      <tr>
+         <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Glycine" target="_blank"><b>Glycine</b></a></td>
+         <td name="td1"><a href="https://www.rcsb.org/structure/3OWI" target="_blank"><b>3OWI</b></a></td>
+         <td name="td2">88</td>
+         <td name="td3">Crystal structure of the glycine riboswitch bound to glycine</td>
+         <td name="td4">Vibrio cholerae MJ-1236</td>
+         <td name="td5">None</td>
+         <td name="td6">X-RAY DIFFRACTION</td>
+         <td name="td7">2.85 Å</td>
+         <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+         <td name="td9">None</td>
+      </tr>
+            
+      <tr>
+         <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Glycine" target="_blank"><b>Glycine</b></a></td>
+         <td name="td1"><a href="https://www.rcsb.org/structure/3OWW" target="_blank"><b>3OWW</b></a></td>
+         <td name="td2">88</td>
+         <td name="td3">Crystal structure of the glycine riboswitch bound to glycine</td>
+         <td name="td4">None</td>
+         <td name="td5">None</td>
+         <td name="td6">X-RAY DIFFRACTION</td>
+         <td name="td7">2.80 Å</td>
+         <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+         <td name="td9">None</td>
+      </tr>
+            
+      <tr>
+         <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Glycine" target="_blank"><b>Glycine</b></a></td>
+         <td name="td1"><a href="https://www.rcsb.org/structure/3OWZ" target="_blank"><b>3OWZ</b></a></td>
+         <td name="td2">88</td>
+         <td name="td3">Crystal structure of glycine riboswitch, soaked in Iridium</td>
+         <td name="td4">None</td>
+         <td name="td5">None</td>
+         <td name="td6">X-RAY DIFFRACTION</td>
+         <td name="td7">2.95 Å</td>
+         <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+         <td name="td9">None</td>
+      </tr>
+            
+      <tr>
+         <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Glycine" target="_blank"><b>Glycine</b></a></td>
+         <td name="td1"><a href="https://www.rcsb.org/structure/3OX0" target="_blank"><b>3OX0</b></a></td>
+         <td name="td2">88</td>
+         <td name="td3">Crystal structure of glycine riboswitch, unbound state</td>
+         <td name="td4">None</td>
+         <td name="td5">None</td>
+         <td name="td6">X-RAY DIFFRACTION</td>
+         <td name="td7">3.05 Å</td>
+         <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+         <td name="td9">None</td>
+      </tr>
+            
+      <tr>
+         <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Glycine" target="_blank"><b>Glycine</b></a></td>
+         <td name="td1"><a href="https://www.rcsb.org/structure/3OXB" target="_blank"><b>3OXB</b></a></td>
+         <td name="td2">88</td>
+         <td name="td3">Crystal structure of glycine riboswitch with single mutation</td>
+         <td name="td4">None</td>
+         <td name="td5">None</td>
+         <td name="td6">X-RAY DIFFRACTION</td>
+         <td name="td7">2.95 Å</td>
+         <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+         <td name="td9">None</td>
+      </tr>
+            
+      <tr>
+         <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Glycine" target="_blank"><b>Glycine</b></a></td>
+         <td name="td1"><a href="https://www.rcsb.org/structure/3OXD" target="_blank"><b>3OXD</b></a></td>
+         <td name="td2">88</td>
+         <td name="td3">Crystal structure of glycine riboswitch with two mutations</td>
+         <td name="td4">None</td>
+         <td name="td5">None</td>
+         <td name="td6">X-RAY DIFFRACTION</td>
+         <td name="td7">3.00 Å</td>
+         <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+         <td name="td9">None</td>
+      </tr>
+            
+      <tr>
+         <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Glycine" target="_blank"><b>Glycine</b></a></td>
+         <td name="td1"><a href="https://www.rcsb.org/structure/3OXE" target="_blank"><b>3OXE</b></a></td>
+         <td name="td2">88</td>
+         <td name="td3">crystal structure of glycine riboswitch, Mn2+ soaked</td>
+         <td name="td4">None</td>
+         <td name="td5">None</td>
+         <td name="td6">X-RAY DIFFRACTION</td>
+         <td name="td7">2.90 Å</td>
+         <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+         <td name="td9">None</td>
+      </tr>
+            
+      <tr>
+         <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Glycine" target="_blank"><b>Glycine</b></a></td>
+         <td name="td1"><a href="https://www.rcsb.org/structure/3OXJ" target="_blank"><b>3OXJ</b></a></td>
+         <td name="td2">88</td>
+         <td name="td3">crystal structure of glycine riboswitch, soaked in Ba2+</td>
+         <td name="td4">None</td>
+         <td name="td5">None</td>
+         <td name="td6">X-RAY DIFFRACTION</td>
+         <td name="td7">3.20 Å</td>
+         <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+         <td name="td9">None</td>
+      </tr>
+            
+      <tr>
+         <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Glycine" target="_blank"><b>Glycine</b></a></td>
+         <td name="td1"><a href="https://www.rcsb.org/structure/3OXM" target="_blank"><b>3OXM</b></a></td>
+         <td name="td2">88</td>
+         <td name="td3">crystal structure of glycine riboswitch, Tl-Acetate soaked</td>
+         <td name="td4">None</td>
+         <td name="td5">None</td>
+         <td name="td6">X-RAY DIFFRACTION</td>
+         <td name="td7">2.95 Å</td>
+         <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+         <td name="td9">None</td>
+      </tr>
+            
+      <tr>
+         <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Glycine" target="_blank"><b>Glycine</b></a></td>
+         <td name="td1"><a href="https://www.rcsb.org/structure/3P49" target="_blank"><b>3P49</b></a></td>
+         <td name="td2">169</td>
+         <td name="td3">Crystal Structure of a Glycine Riboswitch from Fusobacterium nucleatum</td>
+         <td name="td4">Fusobacterium nucleatum subsp. polymorphum', 'Homo sapiens</td>
+         <td name="td5">None</td>
+         <td name="td6">X-RAY DIFFRACTION</td>
+         <td name="td7">3.55 Å</td>
+         <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+         <td name="td9">None</td>
+      </tr>
+            
+      <tr>
+         <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Lysine" target="_blank"><b>Lysine</b></a></td>
+         <td name="td1"><a href="https://www.rcsb.org/structure/3D0U" target="_blank"><b>3D0U</b></a></td>
+         <td name="td2">161</td>
+         <td name="td3">Crystal Structure of Lysine Riboswitch Bound to Lysine</td>
+         <td name="td4">None</td>
+         <td name="td5">None</td>
+         <td name="td6">X-RAY DIFFRACTION</td>
+         <td name="td7">2.80 Å</td>
+         <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+         <td name="td9">None</td>
+      </tr>
+            
+      <tr>
+         <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Lysine" target="_blank"><b>Lysine</b></a></td>
+         <td name="td1"><a href="https://www.rcsb.org/structure/3D0X" target="_blank"><b>3D0X</b></a></td>
+         <td name="td2">161</td>
+         <td name="td3">Crystal Structure of the unbound lysine riboswitch</td>
+         <td name="td4">None</td>
+         <td name="td5">None</td>
+         <td name="td6">X-RAY DIFFRACTION</td>
+         <td name="td7">2.95 Å</td>
+         <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+         <td name="td9">None</td>
+      </tr>
+            
+      <tr>
+         <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Lysine" target="_blank"><b>Lysine</b></a></td>
+         <td name="td1"><a href="https://www.rcsb.org/structure/3DIG" target="_blank"><b>3DIG</b></a></td>
+         <td name="td2">174</td>
+         <td name="td3">CRYSTAL STRUCTURE OF THE THERMOTOGA MARITIMA LYSINE RIBOSWITCH BOUND TO S-(2-aminoethyl)-L-cysteine</td>
+         <td name="td4">None</td>
+         <td name="td5">None</td>
+         <td name="td6">X-RAY DIFFRACTION</td>
+         <td name="td7">2.80 Å</td>
+         <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+         <td name="td9">None</td>
+      </tr>
+            
+      <tr>
+         <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Lysine" target="_blank"><b>Lysine</b></a></td>
+         <td name="td1"><a href="https://www.rcsb.org/structure/3DIL" target="_blank"><b>3DIL</b></a></td>
+         <td name="td2">174</td>
+         <td name="td3">Crystal structure of the Thermotoga maritima lysine riboswitch bound to lysine</td>
+         <td name="td4">None</td>
+         <td name="td5">None</td>
+         <td name="td6">X-RAY DIFFRACTION</td>
+         <td name="td7">1.90 Å</td>
+         <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+         <td name="td9">None</td>
+      </tr>
+            
+      <tr>
+         <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Lysine" target="_blank"><b>Lysine</b></a></td>
+         <td name="td1"><a href="https://www.rcsb.org/structure/3DIM" target="_blank"><b>3DIM</b></a></td>
+         <td name="td2">174</td>
+         <td name="td3">Crystallization of the Thermotoga maritima lysine riboswitch bound to lysine, Cs+ Soak</td>
+         <td name="td4">None</td>
+         <td name="td5">None</td>
+         <td name="td6">X-RAY DIFFRACTION</td>
+         <td name="td7">2.90 Å</td>
+         <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+         <td name="td9">None</td>
+      </tr>
+            
+      <tr>
+         <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Lysine" target="_blank"><b>Lysine</b></a></td>
+         <td name="td1"><a href="https://www.rcsb.org/structure/3DIO" target="_blank"><b>3DIO</b></a></td>
+         <td name="td2">174</td>
+         <td name="td3">Crystallization of the Thermotoga maritima lysine riboswitch bound to lysine, IRIDIUM HEXAMINE SOAK</td>
+         <td name="td4">None</td>
+         <td name="td5">None</td>
+         <td name="td6">X-RAY DIFFRACTION</td>
+         <td name="td7">2.40 Å</td>
+         <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+         <td name="td9">None</td>
+      </tr>
+            
+      <tr>
+         <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Lysine" target="_blank"><b>Lysine</b></a></td>
+         <td name="td1"><a href="https://www.rcsb.org/structure/3DIQ" target="_blank"><b>3DIQ</b></a></td>
+         <td name="td2">174</td>
+         <td name="td3">Crystallization of the Thermotoga maritima lysine riboswitch bound to homoarginine</td>
+         <td name="td4">None</td>
+         <td name="td5">None</td>
+         <td name="td6">X-RAY DIFFRACTION</td>
+         <td name="td7">2.70 Å</td>
+         <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+         <td name="td9">None</td>
+      </tr>
+            
+      <tr>
+         <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Lysine" target="_blank"><b>Lysine</b></a></td>
+         <td name="td1"><a href="https://www.rcsb.org/structure/3DIR" target="_blank"><b>3DIR</b></a></td>
+         <td name="td2">174</td>
+         <td name="td3">Crystallization of the Thermotoga maritima lysine riboswitch bound to N6-1-iminoethyl-L-Lysine</td>
+         <td name="td4">None</td>
+         <td name="td5">None</td>
+         <td name="td6">X-RAY DIFFRACTION</td>
+         <td name="td7">2.90 Å</td>
+         <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+         <td name="td9">None</td>
+      </tr>
+            
+      <tr>
+         <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Lysine" target="_blank"><b>Lysine</b></a></td>
+         <td name="td1"><a href="https://www.rcsb.org/structure/3DIS" target="_blank"><b>3DIS</b></a></td>
+         <td name="td2">174</td>
+         <td name="td3">Crystallization of the Thermotoga maritima lysine riboswitch in free form</td>
+         <td name="td4">None</td>
+         <td name="td5">None</td>
+         <td name="td6">X-RAY DIFFRACTION</td>
+         <td name="td7">3.10 Å</td>
+         <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+         <td name="td9">None</td>
+      </tr>
+            
+      <tr>
+         <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Lysine" target="_blank"><b>Lysine</b></a></td>
+         <td name="td1"><a href="https://www.rcsb.org/structure/3DIX" target="_blank"><b>3DIX</b></a></td>
+         <td name="td2">174</td>
+         <td name="td3">Crystallization of the Thermotoga maritima lysine riboswitch bound to lysine, K+ anomalous data</td>
+         <td name="td4">None</td>
+         <td name="td5">None</td>
+         <td name="td6">X-RAY DIFFRACTION</td>
+         <td name="td7">2.90 Å</td>
+         <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+         <td name="td9">None</td>
+      </tr>
+            
+      <tr>
+         <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Lysine" target="_blank"><b>Lysine</b></a></td>
+         <td name="td1"><a href="https://www.rcsb.org/structure/3DIY" target="_blank"><b>3DIY</b></a></td>
+         <td name="td2">174</td>
+         <td name="td3">Crystallization of the Thermotoga maritima lysine riboswitch bound to lysine, Mn2+ soak</td>
+         <td name="td4">None</td>
+         <td name="td5">None</td>
+         <td name="td6">X-RAY DIFFRACTION</td>
+         <td name="td7">2.71 Å</td>
+         <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+         <td name="td9">None</td>
+      </tr>
+            
+      <tr>
+         <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Lysine" target="_blank"><b>Lysine</b></a></td>
+         <td name="td1"><a href="https://www.rcsb.org/structure/3DIZ" target="_blank"><b>3DIZ</b></a></td>
+         <td name="td2">174</td>
+         <td name="td3">Crystallization of the Thermotoga maritima lysine riboswitch bound to lysine in the Absence of Mg2+</td>
+         <td name="td4">None</td>
+         <td name="td5">None</td>
+         <td name="td6">X-RAY DIFFRACTION</td>
+         <td name="td7">2.85 Å</td>
+         <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+         <td name="td9">None</td>
+      </tr>
+            
+      <tr>
+         <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Lysine" target="_blank"><b>Lysine</b></a></td>
+         <td name="td1"><a href="https://www.rcsb.org/structure/3DJ0" target="_blank"><b>3DJ0</b></a></td>
+         <td name="td2">174</td>
+         <td name="td3">Crystallization of the Thermotoga maritima lysine riboswitch bound to L-4-oxalysine</td>
+         <td name="td4">None</td>
+         <td name="td5">None</td>
+         <td name="td6">X-RAY DIFFRACTION</td>
+         <td name="td7">2.50 Å</td>
+         <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+         <td name="td9">None</td>
+      </tr>
+            
+      <tr>
+         <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Lysine" target="_blank"><b>Lysine</b></a></td>
+         <td name="td1"><a href="https://www.rcsb.org/structure/3DJ2" target="_blank"><b>3DJ2</b></a></td>
+         <td name="td2">174</td>
+         <td name="td3">Crystallization of the Thermotoga maritima lysine riboswitch bound to lysine, Tl+ Soak</td>
+         <td name="td4">None</td>
+         <td name="td5">None</td>
+         <td name="td6">X-RAY DIFFRACTION</td>
+         <td name="td7">2.50 Å</td>
+         <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+         <td name="td9">None</td>
+      </tr>
+            
+      <tr>
+         <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Lysine" target="_blank"><b>Lysine</b></a></td>
+         <td name="td1"><a href="https://www.rcsb.org/structure/4ERJ" target="_blank"><b>4ERJ</b></a></td>
+         <td name="td2">161</td>
+         <td name="td3">Crystal structure of the lysine riboswitch bound to a 6-aminocaproic acid</td>
+         <td name="td4">Thermotoga maritima</td>
+         <td name="td5">None</td>
+         <td name="td6">X-RAY DIFFRACTION</td>
+         <td name="td7">3.00 Å</td>
+         <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+         <td name="td9">None</td>
+      </tr>
+            
+      <tr>
+         <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Lysine" target="_blank"><b>Lysine</b></a></td>
+         <td name="td1"><a href="https://www.rcsb.org/structure/4ERL" target="_blank"><b>4ERL</b></a></td>
+         <td name="td2">161</td>
+         <td name="td3">Crystal structure of the lysine riboswitch bound to a lysine-glycine dipeptide</td>
+         <td name="td4">Thermotoga maritima</td>
+         <td name="td5">None</td>
+         <td name="td6">X-RAY DIFFRACTION</td>
+         <td name="td7">3.00 Å</td>
+         <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+         <td name="td9">None</td>
+      </tr>
+            
+      <tr>
+         <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Glutamine" target="_blank"><b>Glutamine-I</b></a></td>
+         <td name="td1"><a href="https://www.rcsb.org/structure/5DDO" target="_blank"><b>5DDO</b></a></td>
+         <td name="td2">61</td>
+         <td name="td3">Structural and Dynamic Basis for Low Affinity-High Selectivity Binding of L-glutamine by the Gln-riboswitch</td>
+         <td name="td4">Synechococcus elongatus', 'Homo sapiens</td>
+         <td name="td5">None</td>
+         <td name="td6">X-RAY DIFFRACTION</td>
+         <td name="td7">3.10 Å</td>
+         <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+         <td name="td9">None</td>
+      </tr>
+            
+      <tr>
+         <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Glutamine" target="_blank"><b>Glutamine-I</b></a></td>
+         <td name="td1"><a href="https://www.rcsb.org/structure/5DDP" target="_blank"><b>5DDP</b></a></td>
+         <td name="td2">61</td>
+         <td name="td3">L-glutamine riboswitch bound with L-glutamine</td>
+         <td name="td4">Synechococcus elongatus', 'Homo sapiens</td>
+         <td name="td5">None</td>
+         <td name="td6">X-RAY DIFFRACTION</td>
+         <td name="td7">2.30 Å</td>
+         <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+         <td name="td9">None</td>
+      </tr>
+            
+      <tr>
+         <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Glutamine" target="_blank"><b>Glutamine-I</b></a></td>
+         <td name="td1"><a href="https://www.rcsb.org/structure/5DDQ" target="_blank"><b>5DDQ</b></a></td>
+         <td name="td2">61</td>
+         <td name="td3">L-glutamine riboswitch bound with L-glutamine soaked with Mn2+</td>
+         <td name="td4">Synechococcus elongatus', 'Homo sapiens</td>
+         <td name="td5">None</td>
+         <td name="td6">X-RAY DIFFRACTION</td>
+         <td name="td7">2.40 Å</td>
+         <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+         <td name="td9">None</td>
+      </tr>
+            
+      <tr>
+         <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Glutamine" target="_blank"><b>Glutamine-I</b></a></td>
+         <td name="td1"><a href="https://www.rcsb.org/structure/5DDR" target="_blank"><b>5DDR</b></a></td>
+         <td name="td2">61</td>
+         <td name="td3">L-glutamine riboswitch bound with L-glutamine soaked with Cs+</td>
+         <td name="td4">Synechococcus elongatus', 'Homo sapiens</td>
+         <td name="td5">None</td>
+         <td name="td6">X-RAY DIFFRACTION</td>
+         <td name="td7">2.60 Å</td>
+         <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+         <td name="td9">None</td>
+      </tr>
+            
+      <tr>
+         <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Glutamine" target="_blank"><b>Glutamine-II</b></a></td>
+         <td name="td1"><a href="https://www.rcsb.org/structure/6QN3" target="_blank"><b>6QN3</b></a></td>
+         <td name="td2">50</td>
+         <td name="td3">Structure of the Glutamine II Riboswitch</td>
+         <td name="td4">Prochlorococcus sp.</td>
+         <td name="td5">None</td>
+         <td name="td6">X-RAY DIFFRACTION</td>
+         <td name="td7">2.30 Å</td>
+         <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+         <td name="td9">None</td>
+      </tr>
+            
+    </table>
+</div>        
+
+<div id="sheet7" class="sheet">
+    <p style='font-size:20px'>Sugars</p>
+    <table>
+      <tr>
+        <th>Name</th>
+        <th>PDB</th>
+        <th>Length</th>
+        <th>Description(PDB)</th>
+        <th>Species</th>
+        <th>Phase Determination</th>
+        <th>Structure Determination</th>
+        <th>Res(Å)</th>
+        <th>Year</th>
+        <th>Journal</th>
+      </tr>
+        
+      <tr>
+         <td name="td0"><a href="https://ribocentre-switch.github.io/docs/GlcN6P" target="_blank"><b>GlcN6P</b></a></td>
+         <td name="td1"><a href="https://www.rcsb.org/structure/2GCS" target="_blank"><b>2GCS</b></a></td>
+         <td name="td2">125</td>
+         <td name="td3">Pre-cleavage state of the Thermoanaerobacter tengcongensis glmS ribozyme</td>
+         <td name="td4">None</td>
+         <td name="td5">None</td>
+         <td name="td6">X-RAY DIFFRACTION</td>
+         <td name="td7">2.10 Å</td>
+         <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+         <td name="td9">None</td>
+      </tr>
+    
+            
+      <tr>
+         <td name="td0"><a href="https://ribocentre-switch.github.io/docs/GlcN6P" target="_blank"><b>GlcN6P</b></a></td>
+         <td name="td1"><a href="https://www.rcsb.org/structure/2GCV" target="_blank"><b>2GCV</b></a></td>
+         <td name="td2">26</td>
+         <td name="td3">Post-cleavage state of the Thermoanaerobacter tengcongensis glmS ribozyme</td>
+         <td name="td4">None</td>
+         <td name="td5">None</td>
+         <td name="td6">X-RAY DIFFRACTION</td>
+         <td name="td7">2.10 Å</td>
+         <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+         <td name="td9">None</td>
+      </tr>
+    
+            
+      <tr>
+         <td name="td0"><a href="https://ribocentre-switch.github.io/docs/GlcN6P" target="_blank"><b>GlcN6P</b></a></td>
+         <td name="td1"><a href="https://www.rcsb.org/structure/2H0S" target="_blank"><b>2H0S</b></a></td>
+         <td name="td2">28</td>
+         <td name="td3">Pre-cleavage state of the Thermoanaerobacter tengcongensis glmS ribozyme</td>
+         <td name="td4">None</td>
+         <td name="td5">None</td>
+         <td name="td6">X-RAY DIFFRACTION</td>
+         <td name="td7">2.35 Å</td>
+         <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+         <td name="td9">None</td>
+      </tr>
+    
+            
+      <tr>
+         <td name="td0"><a href="https://ribocentre-switch.github.io/docs/GlcN6P" target="_blank"><b>GlcN6P</b></a></td>
+         <td name="td1"><a href="https://www.rcsb.org/structure/2H0W" target="_blank"><b>2H0W</b></a></td>
+         <td name="td2">26</td>
+         <td name="td3">Post-cleavage state of the Thermoanaerobacter tengcongensis glmS ribozyme</td>
+         <td name="td4">None</td>
+         <td name="td5">None</td>
+         <td name="td6">X-RAY DIFFRACTION</td>
+         <td name="td7">2.40 Å</td>
+         <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+         <td name="td9">None</td>
+      </tr>
+    
+            
+      <tr>
+         <td name="td0"><a href="https://ribocentre-switch.github.io/docs/GlcN6P" target="_blank"><b>GlcN6P</b></a></td>
+         <td name="td1"><a href="https://www.rcsb.org/structure/2H0X" target="_blank"><b>2H0X</b></a></td>
+         <td name="td2">27</td>
+         <td name="td3">Pre-cleavage state of the Thermoanaerobacter tengcongensis glmS ribozyme</td>
+         <td name="td4">None</td>
+         <td name="td5">None</td>
+         <td name="td6">X-RAY DIFFRACTION</td>
+         <td name="td7">2.30 Å</td>
+         <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+         <td name="td9">None</td>
+      </tr>
+    
+            
+      <tr>
+         <td name="td0"><a href="https://ribocentre-switch.github.io/docs/GlcN6P" target="_blank"><b>GlcN6P</b></a></td>
+         <td name="td1"><a href="https://www.rcsb.org/structure/2H0Z" target="_blank"><b>2H0Z</b></a></td>
+         <td name="td2">27</td>
+         <td name="td3">Pre-cleavage state of the Thermoanaerobacter tengcongensis glmS ribozyme bound to glucose-6-phosphate</td>
+         <td name="td4">None</td>
+         <td name="td5">None</td>
+         <td name="td6">X-RAY DIFFRACTION</td>
+         <td name="td7">2.70 Å</td>
+         <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+         <td name="td9">None</td>
+      </tr>
+    
+            
+      <tr>
+         <td name="td0"><a href="https://ribocentre-switch.github.io/docs/GlcN6P" target="_blank"><b>GlcN6P</b></a></td>
+         <td name="td1"><a href="https://www.rcsb.org/structure/2HO6" target="_blank"><b>2HO6</b></a></td>
+         <td name="td2">27</td>
+         <td name="td3">Post-cleavage state of the Thermoanaerobacter tengcongensis glmS ribozyme</td>
+         <td name="td4">None</td>
+         <td name="td5">None</td>
+         <td name="td6">X-RAY DIFFRACTION</td>
+         <td name="td7">2.80 Å</td>
+         <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+         <td name="td9">None</td>
+      </tr>
+    
+            
+      <tr>
+         <td name="td0"><a href="https://ribocentre-switch.github.io/docs/GlcN6P" target="_blank"><b>GlcN6P</b></a></td>
+         <td name="td1"><a href="https://www.rcsb.org/structure/2HO7" target="_blank"><b>2HO7</b></a></td>
+         <td name="td2">27</td>
+         <td name="td3">Pre-cleavage state of the Thermoanaerobacter tengcongensis glmS ribozyme bound to glucose-6-phosphate</td>
+         <td name="td4">None</td>
+         <td name="td5">None</td>
+         <td name="td6">X-RAY DIFFRACTION</td>
+         <td name="td7">2.90 Å</td>
+         <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+         <td name="td9">None</td>
+      </tr>
+    
+            
+      <tr>
+         <td name="td0"><a href="https://ribocentre-switch.github.io/docs/GlcN6P" target="_blank"><b>GlcN6P</b></a></td>
+         <td name="td1"><a href="https://www.rcsb.org/structure/2NZ4" target="_blank"><b>2NZ4</b></a></td>
+         <td name="td2">13</td>
+         <td name="td3">Structural investigation of the GlmS ribozyme bound to its catalytic cofactor</td>
+         <td name="td4">Homo sapiens</td>
+         <td name="td5">None</td>
+         <td name="td6">X-RAY DIFFRACTION</td>
+         <td name="td7">2.50 Å</td>
+         <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+         <td name="td9">None</td>
+      </tr>
+    
+            
+      <tr>
+         <td name="td0"><a href="https://ribocentre-switch.github.io/docs/GlcN6P" target="_blank"><b>GlcN6P</b></a></td>
+         <td name="td1"><a href="https://www.rcsb.org/structure/2Z74" target="_blank"><b>2Z74</b></a></td>
+         <td name="td2">27</td>
+         <td name="td3">T. tengcongensis glmS ribozyme bound to glucose-6-phosphate</td>
+         <td name="td4">None</td>
+         <td name="td5">None</td>
+         <td name="td6">X-RAY DIFFRACTION</td>
+         <td name="td7">2.20 Å</td>
+         <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+         <td name="td9">None</td>
+      </tr>
+    
+            
+      <tr>
+         <td name="td0"><a href="https://ribocentre-switch.github.io/docs/GlcN6P" target="_blank"><b>GlcN6P</b></a></td>
+         <td name="td1"><a href="https://www.rcsb.org/structure/2Z75" target="_blank"><b>2Z75</b></a></td>
+         <td name="td2">27</td>
+         <td name="td3">T. tengcongensis glmS ribozyme bound to glucosamine-6-phosphate</td>
+         <td name="td4">Caldanaerobacter subterraneus subsp. tengcongensis MB4</td>
+         <td name="td5">None</td>
+         <td name="td6">X-RAY DIFFRACTION</td>
+         <td name="td7">1.70 Å</td>
+         <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+         <td name="td9">None</td>
+      </tr>
+    
+            
+      <tr>
+         <td name="td0"><a href="https://ribocentre-switch.github.io/docs/GlcN6P" target="_blank"><b>GlcN6P</b></a></td>
+         <td name="td1"><a href="https://www.rcsb.org/structure/3B4A" target="_blank"><b>3B4A</b></a></td>
+         <td name="td2">28</td>
+         <td name="td3">T. tengcongensis glmS ribozyme with G40A mutation, bound to glucosamine-6-phosphate</td>
+         <td name="td4">Caldanaerobacter subterraneus subsp. tengcongensis</td>
+         <td name="td5">None</td>
+         <td name="td6">X-RAY DIFFRACTION</td>
+         <td name="td7">2.70 Å</td>
+         <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+         <td name="td9">None</td>
+      </tr>
+    
+            
+      <tr>
+         <td name="td0"><a href="https://ribocentre-switch.github.io/docs/GlcN6P" target="_blank"><b>GlcN6P</b></a></td>
+         <td name="td1"><a href="https://www.rcsb.org/structure/3B4B" target="_blank"><b>3B4B</b></a></td>
+         <td name="td2">26</td>
+         <td name="td3">T. tengcongensis glmS ribozyme with G40A mutation, bound to glucosamine-6-phosphate and a substrate RNA with a 2'5'-phosphodiester linkage</td>
+         <td name="td4">Caldanaerobacter subterraneus subsp. tengcongensis</td>
+         <td name="td5">None</td>
+         <td name="td6">X-RAY DIFFRACTION</td>
+         <td name="td7">2.70 Å</td>
+         <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+         <td name="td9">None</td>
+      </tr>
+    
+            
+      <tr>
+         <td name="td0"><a href="https://ribocentre-switch.github.io/docs/GlcN6P" target="_blank"><b>GlcN6P</b></a></td>
+         <td name="td1"><a href="https://www.rcsb.org/structure/3B4C" target="_blank"><b>3B4C</b></a></td>
+         <td name="td2">26</td>
+         <td name="td3">T. tengcongensis glmS ribozyme bound to glucosamine-6-phosphate and a substrate RNA with a 2'5'-phosphodiester linkage</td>
+         <td name="td4">Caldanaerobacter subterraneus subsp. tengcongensis</td>
+         <td name="td5">None</td>
+         <td name="td6">X-RAY DIFFRACTION</td>
+         <td name="td7">3.00 Å</td>
+         <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+         <td name="td9">None</td>
+      </tr>
+    
+            
+      <tr>
+         <td name="td0"><a href="https://ribocentre-switch.github.io/docs/GlcN6P" target="_blank"><b>GlcN6P</b></a></td>
+         <td name="td1"><a href="https://www.rcsb.org/structure/3G8S" target="_blank"><b>3G8S</b></a></td>
+         <td name="td2">98</td>
+         <td name="td3">Crystal structure of the pre-cleaved Bacillus anthracis glmS ribozyme</td>
+         <td name="td4">Homo sapiens</td>
+         <td name="td5">None</td>
+         <td name="td6">X-RAY DIFFRACTION</td>
+         <td name="td7">3.10 Å</td>
+         <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+         <td name="td9">None</td>
+      </tr>
+    
+            
+      <tr>
+         <td name="td0"><a href="https://ribocentre-switch.github.io/docs/GlcN6P" target="_blank"><b>GlcN6P</b></a></td>
+         <td name="td1"><a href="https://www.rcsb.org/structure/3G8T" target="_blank"><b>3G8T</b></a></td>
+         <td name="td2">98</td>
+         <td name="td3">Crystal structure of the G33A mutant Bacillus anthracis glmS ribozyme bound to GlcN6P</td>
+         <td name="td4">Homo sapiens', 'synthetic construct</td>
+         <td name="td5">None</td>
+         <td name="td6">X-RAY DIFFRACTION</td>
+         <td name="td7">3.00 Å</td>
+         <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+         <td name="td9">None</td>
+      </tr>
+    
+            
+      <tr>
+         <td name="td0"><a href="https://ribocentre-switch.github.io/docs/GlcN6P" target="_blank"><b>GlcN6P</b></a></td>
+         <td name="td1"><a href="https://www.rcsb.org/structure/3G96" target="_blank"><b>3G96</b></a></td>
+         <td name="td2">98</td>
+         <td name="td3">Crystal structure of the Bacillus anthracis glmS ribozyme bound to MaN6P</td>
+         <td name="td4">Homo sapiens', 'synthetic construct</td>
+         <td name="td5">None</td>
+         <td name="td6">X-RAY DIFFRACTION</td>
+         <td name="td7">3.01 Å</td>
+         <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+         <td name="td9">None</td>
+      </tr>
+    
+            
+      <tr>
+         <td name="td0"><a href="https://ribocentre-switch.github.io/docs/GlcN6P" target="_blank"><b>GlcN6P</b></a></td>
+         <td name="td1"><a href="https://www.rcsb.org/structure/3G9C" target="_blank"><b>3G9C</b></a></td>
+         <td name="td2">98</td>
+         <td name="td3">Crystal structure of the product Bacillus anthracis glmS ribozyme</td>
+         <td name="td4">Homo sapiens', 'synthetic construct</td>
+         <td name="td5">None</td>
+         <td name="td6">X-RAY DIFFRACTION</td>
+         <td name="td7">2.90 Å</td>
+         <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+         <td name="td9">None</td>
+      </tr>
+    
+            
+      <tr>
+         <td name="td0"><a href="https://ribocentre-switch.github.io/docs/GlcN6P" target="_blank"><b>GlcN6P</b></a></td>
+         <td name="td1"><a href="https://www.rcsb.org/structure/3L3C" target="_blank"><b>3L3C</b></a></td>
+         <td name="td2">90</td>
+         <td name="td3">Crystal structure of the Bacillus anthracis glmS ribozyme bound to Glc6P</td>
+         <td name="td4">Homo sapiens</td>
+         <td name="td5">None</td>
+         <td name="td6">X-RAY DIFFRACTION</td>
+         <td name="td7">2.85 Å</td>
+         <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+         <td name="td9">None</td>
+      </tr>
+    
+            
+      <tr>
+         <td name="td0"><a href="https://ribocentre-switch.github.io/docs/GlcN6P" target="_blank"><b>GlcN6P</b></a></td>
+         <td name="td1"><a href="https://www.rcsb.org/structure/4MEG" target="_blank"><b>4MEG</b></a></td>
+         <td name="td2">27</td>
+         <td name="td3">In vitro evolved glmS ribozyme triple mutant, magnesium ion complex</td>
+         <td name="td4">None</td>
+         <td name="td5">None</td>
+         <td name="td6">X-RAY DIFFRACTION</td>
+         <td name="td7">3.10 Å</td>
+         <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+         <td name="td9">None</td>
+      </tr>
+    
+            
+      <tr>
+         <td name="td0"><a href="https://ribocentre-switch.github.io/docs/GlcN6P" target="_blank"><b>GlcN6P</b></a></td>
+         <td name="td1"><a href="https://www.rcsb.org/structure/4MEH" target="_blank"><b>4MEH</b></a></td>
+         <td name="td2">27</td>
+         <td name="td3">In vitro evolved glmS ribozyme triple mutant, calcium ion complex</td>
+         <td name="td4">None</td>
+         <td name="td5">None</td>
+         <td name="td6">X-RAY DIFFRACTION</td>
+         <td name="td7">3.12 Å</td>
+         <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+         <td name="td9">None</td>
+      </tr>
+    
+            
+    </table>
+</div>        
+        
+<div id="sheet8" class="sheet">
+    <p style='font-size:20px'>Others</p>
+    <table>
+      <tr>
+        <th>Name</th>
+        <th>PDB</th>
+        <th>Length</th>
+        <th>Description(PDB)</th>
+        <th>Species</th>
+        <th>Phase Determination</th>
+        <th>Structure Determination</th>
+        <th>Res(Å)</th>
+        <th>Year</th>
+        <th>Journal</th>
+      </tr>
+        
+      <tr>
+            <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Guanidine" target="_blank"><b>Guanidine-I</b></a></td>
+            <td name="td1"><a href="https://www.rcsb.org/structure/5T83" target="_blank"><b>5T83</b></a></td>
+            <td name="td2">95</td>
+            <td name="td3">Structure of a guanidine-I riboswitch from S. acidophilus</td>
+            <td name="td4">Sulfobacillus acidophilus DSM 10332</td>
+            <td name="td5">None</td>
+            <td name="td6">X-RAY DIFFRACTION</td>
+            <td name="td7">2.71 Å</td>
+            <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+            <td name="td9">None</td>
+      </tr>
+            
+      <tr>
+            <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Guanidine" target="_blank"><b>Guanidine-I</b></a></td>
+            <td name="td1"><a href="https://www.rcsb.org/structure/5U3G" target="_blank"><b>5U3G</b></a></td>
+            <td name="td2">85</td>
+            <td name="td3">Structure of the Dickeya dadantii ykkC riboswitch bound to guanidinium</td>
+            <td name="td4">Dickeya dadantii</td>
+            <td name="td5">None</td>
+            <td name="td6">X-RAY DIFFRACTION</td>
+            <td name="td7">2.30 Å</td>
+            <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+            <td name="td9">None</td>
+      </tr>
+            
+      <tr>
+            <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Guanidine" target="_blank"><b>Guanidine-I</b></a></td>
+            <td name="td1"><a href="https://www.rcsb.org/structure/7MLW" target="_blank"><b>7MLW</b></a></td>
+            <td name="td2">128</td>
+            <td name="td3">Burkholderia sp. TJI49 Guanidine-I riboswitch</td>
+            <td name="td4">Burkholderia sp. TJI49</td>
+            <td name="td5">None</td>
+            <td name="td6">X-RAY DIFFRACTION</td>
+            <td name="td7">2.70 Å</td>
+            <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+            <td name="td9">None</td>
+      </tr>
+            
+      <tr>
+            <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Guanidine" target="_blank"><b>Guanidine-II P1 & P2</b></a></td>
+            <td name="td1"><a href="https://www.rcsb.org/structure/5NDH" target="_blank"><b>5NDH</b></a></td>
+            <td name="td2">16</td>
+            <td name="td3">The structure of the G. violaceus guanidine II riboswitch P2 stem-loop</td>
+            <td name="td4">Gloeobacter violaceus</td>
+            <td name="td5">None</td>
+            <td name="td6">X-RAY DIFFRACTION</td>
+            <td name="td7">1.81 Å</td>
+            <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+            <td name="td9">None</td>
+      </tr>
+            
+      <tr>
+            <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Guanidine" target="_blank"><b>Guanidine-II P1 & P2</b></a></td>
+            <td name="td1"><a href="https://www.rcsb.org/structure/5NDI" target="_blank"><b>5NDI</b></a></td>
+            <td name="td2">20</td>
+            <td name="td3">The structure of the E.coli guanidine II riboswitch P1 stem-loop</td>
+            <td name="td4">Escherichia coli</td>
+            <td name="td5">None</td>
+            <td name="td6">X-RAY DIFFRACTION</td>
+            <td name="td7">2.57 Å</td>
+            <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+            <td name="td9">None</td>
+      </tr>
+            
+      <tr>
+            <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Guanidine" target="_blank"><b>Guanidine-II P1 & P2</b></a></td>
+            <td name="td1"><a href="https://www.rcsb.org/structure/5NEF" target="_blank"><b>5NEF</b></a></td>
+            <td name="td2">18</td>
+            <td name="td3">The structure of the G. violaceus guanidine II riboswitch P1 stem-loop with guanidine</td>
+            <td name="td4">Gloeobacter violaceus</td>
+            <td name="td5">None</td>
+            <td name="td6">X-RAY DIFFRACTION</td>
+            <td name="td7">1.91 Å</td>
+            <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+            <td name="td9">None</td>
+      </tr>
+            
+      <tr>
+            <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Guanidine" target="_blank"><b>Guanidine-II P1 & P2</b></a></td>
+            <td name="td1"><a href="https://www.rcsb.org/structure/5NEO" target="_blank"><b>5NEO</b></a></td>
+            <td name="td2">18</td>
+            <td name="td3">The structure of the G. violaceus guanidine II riboswitch P1 stem-loop</td>
+            <td name="td4">Gloeobacter violaceus</td>
+            <td name="td5">None</td>
+            <td name="td6">X-RAY DIFFRACTION</td>
+            <td name="td7">1.69 Å</td>
+            <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+            <td name="td9">None</td>
+      </tr>
+            
+      <tr>
+            <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Guanidine" target="_blank"><b>Guanidine-II P1 & P2</b></a></td>
+            <td name="td1"><a href="https://www.rcsb.org/structure/5NEP" target="_blank"><b>5NEP</b></a></td>
+            <td name="td2">18</td>
+            <td name="td3">The structure of the G. violaceus guanidine II riboswitch P1 stem-loop with methylguanidine</td>
+            <td name="td4">Gloeobacter violaceus</td>
+            <td name="td5">None</td>
+            <td name="td6">X-RAY DIFFRACTION</td>
+            <td name="td7">1.60 Å</td>
+            <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+            <td name="td9">None</td>
+      </tr>
+            
+      <tr>
+            <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Guanidine" target="_blank"><b>Guanidine-II P1 & P2</b></a></td>
+            <td name="td1"><a href="https://www.rcsb.org/structure/5NEQ" target="_blank"><b>5NEQ</b></a></td>
+            <td name="td2">18</td>
+            <td name="td3">The structure of the G. violaceus guanidine II riboswitch P1 stem-loop with aminoguanidine</td>
+            <td name="td4">Gloeobacter violaceus</td>
+            <td name="td5">None</td>
+            <td name="td6">X-RAY DIFFRACTION</td>
+            <td name="td7">1.69 Å</td>
+            <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+            <td name="td9">None</td>
+      </tr>
+            
+      <tr>
+            <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Guanidine" target="_blank"><b>Guanidine-II P1 & P2</b></a></td>
+            <td name="td1"><a href="https://www.rcsb.org/structure/5NEX" target="_blank"><b>5NEX</b></a></td>
+            <td name="td2">18</td>
+            <td name="td3">The structure of the G. violaceus guanidine II riboswitch P1 stem-loop with agmatine</td>
+            <td name="td4">Gloeobacter violaceus</td>
+            <td name="td5">None</td>
+            <td name="td6">X-RAY DIFFRACTION</td>
+            <td name="td7">1.72 Å</td>
+            <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+            <td name="td9">None</td>
+      </tr>
+            
+      <tr>
+            <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Guanidine" target="_blank"><b>Guanidine-II P1 & P2</b></a></td>
+            <td name="td1"><a href="https://www.rcsb.org/structure/5NOM" target="_blank"><b>5NOM</b></a></td>
+            <td name="td2">18</td>
+            <td name="td3">The structure of the G. violaceus guanidine II riboswitch P1 stem-loop with guanidine</td>
+            <td name="td4">Gloeobacter violaceus</td>
+            <td name="td5">None</td>
+            <td name="td6">X-RAY DIFFRACTION</td>
+            <td name="td7">1.93 Å</td>
+            <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+            <td name="td9">None</td>
+      </tr>
+            
+      <tr>
+            <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Guanidine" target="_blank"><b>Guanidine-II P2</b></a></td>
+            <td name="td1"><a href="https://www.rcsb.org/structure/5VJ9" target="_blank"><b>5VJ9</b></a></td>
+            <td name="td2">16</td>
+            <td name="td3">Guanidine-II riboswitch P2 hairpin dimer from Pseudomonas aeruginosa</td>
+            <td name="td4">Pseudomonas aeruginosa</td>
+            <td name="td5">None</td>
+            <td name="td6">X-RAY DIFFRACTION</td>
+            <td name="td7">1.57 Å</td>
+            <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+            <td name="td9">None</td>
+      </tr>
+            
+      <tr>
+            <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Guanidine" target="_blank"><b>Guanidine-II P2</b></a></td>
+            <td name="td1"><a href="https://www.rcsb.org/structure/5VJB" target="_blank"><b>5VJB</b></a></td>
+            <td name="td2">16</td>
+            <td name="td3">Guanidine-II riboswitch P2 hairpin dimer with 5-bromoU substitution from Pseudomonas aeruginosa</td>
+            <td name="td4">Pseudomonas aeruginosa</td>
+            <td name="td5">None</td>
+            <td name="td6">X-RAY DIFFRACTION</td>
+            <td name="td7">2.10 Å</td>
+            <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+            <td name="td9">None</td>
+      </tr>
+            
+      <tr>
+            <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Guanidine" target="_blank"><b>Guanidine-II</b></a></td>
+            <td name="td1"><a href="https://www.rcsb.org/structure/6HBT" target="_blank"><b>6HBT</b></a></td>
+            <td name="td2">18</td>
+            <td name="td3">The structure of the G. violaceus guanidine II riboswitch P2 stem-loop with arcaine</td>
+            <td name="td4">Gloeobacter violaceus</td>
+            <td name="td5">None</td>
+            <td name="td6">X-RAY DIFFRACTION</td>
+            <td name="td7">1.66 Å</td>
+            <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+            <td name="td9">None</td>
+      </tr>
+            
+      <tr>
+            <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Guanidine" target="_blank"><b>Guanidine-II</b></a></td>
+            <td name="td1"><a href="https://www.rcsb.org/structure/6HBX" target="_blank"><b>6HBX</b></a></td>
+            <td name="td2">18</td>
+            <td name="td3">The structure of the G. violaceus guanidine II riboswitch P2 stem-loop with ethylguanidine</td>
+            <td name="td4">Gloeobacter violaceus</td>
+            <td name="td5">None</td>
+            <td name="td6">X-RAY DIFFRACTION</td>
+            <td name="td7">1.54 Å</td>
+            <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+            <td name="td9">None</td>
+      </tr>
+            
+      <tr>
+            <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Guanidine" target="_blank"><b>Guanidine-II</b></a></td>
+            <td name="td1"><a href="https://www.rcsb.org/structure/6HC5" target="_blank"><b>6HC5</b></a></td>
+            <td name="td2">18</td>
+            <td name="td3">The structure of the G. violaceus guanidine II riboswitch P2 stem-loop with audouine</td>
+            <td name="td4">Gloeobacter violaceus</td>
+            <td name="td5">None</td>
+            <td name="td6">X-RAY DIFFRACTION</td>
+            <td name="td7">1.41 Å</td>
+            <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+            <td name="td9">None</td>
+      </tr>
+            
+      <tr>
+            <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Guanidine" target="_blank"><b>Guanidine-III</b></a></td>
+            <td name="td1"><a href="https://www.rcsb.org/structure/5NWQ" target="_blank"><b>5NWQ</b></a></td>
+            <td name="td2">41</td>
+            <td name="td3">The structure of the thermobifida fusca guanidine III riboswitch with guanidine.</td>
+            <td name="td4">Thermobifida fusca</td>
+            <td name="td5">None</td>
+            <td name="td6">X-RAY DIFFRACTION</td>
+            <td name="td7">1.91 Å</td>
+            <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+            <td name="td9">None</td>
+      </tr>
+            
+      <tr>
+            <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Guanidine" target="_blank"><b>Guanidine-III</b></a></td>
+            <td name="td1"><a href="https://www.rcsb.org/structure/5NY8" target="_blank"><b>5NY8</b></a></td>
+            <td name="td2">41</td>
+            <td name="td3">The structure of the thermobifida fusca guanidine III riboswitch with aminoguanidine</td>
+            <td name="td4">Thermobifida fusca</td>
+            <td name="td5">None</td>
+            <td name="td6">X-RAY DIFFRACTION</td>
+            <td name="td7">2.04 Å</td>
+            <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+            <td name="td9">None</td>
+      </tr>
+            
+      <tr>
+            <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Guanidine" target="_blank"><b>Guanidine-III</b></a></td>
+            <td name="td1"><a href="https://www.rcsb.org/structure/5NZ3" target="_blank"><b>5NZ3</b></a></td>
+            <td name="td2">41</td>
+            <td name="td3">The structure of the thermobifida fusca guanidine III riboswitch with methylguanidine</td>
+            <td name="td4">Thermobifida fusca</td>
+            <td name="td5">None</td>
+            <td name="td6">X-RAY DIFFRACTION</td>
+            <td name="td7">2.06 Å</td>
+            <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+            <td name="td9">None</td>
+      </tr>
+            
+      <tr>
+            <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Guanidine" target="_blank"><b>Guanidine-III</b></a></td>
+            <td name="td1"><a href="https://www.rcsb.org/structure/5NZ6" target="_blank"><b>5NZ6</b></a></td>
+            <td name="td2">41</td>
+            <td name="td3">The structure of the thermobifida fusca guanidine III riboswitch with guanidine in space group P3212.</td>
+            <td name="td4">Thermobifida fusca</td>
+            <td name="td5">None</td>
+            <td name="td6">X-RAY DIFFRACTION</td>
+            <td name="td7">2.94 Å</td>
+            <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+            <td name="td9">None</td>
+      </tr>
+            
+      <tr>
+            <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Guanidine" target="_blank"><b>Guanidine-III</b></a></td>
+            <td name="td1"><a href="https://www.rcsb.org/structure/5NZD" target="_blank"><b>5NZD</b></a></td>
+            <td name="td2">41</td>
+            <td name="td3">The structure of the thermobifida fusca guanidine III riboswitch in space group P212121.</td>
+            <td name="td4">Thermobifida fusca</td>
+            <td name="td5">None</td>
+            <td name="td6">X-RAY DIFFRACTION</td>
+            <td name="td7">2.01 Å</td>
+            <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+            <td name="td9">None</td>
+      </tr>
+            
+      <tr>
+            <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Guanidine" target="_blank"><b>Guanidine-III</b></a></td>
+            <td name="td1"><a href="https://www.rcsb.org/structure/5O62" target="_blank"><b>5O62</b></a></td>
+            <td name="td2">41</td>
+            <td name="td3">The structure of the thermobifida fusca guanidine III riboswitch with 1-Ethylguanidine.</td>
+            <td name="td4">Thermobifida fusca</td>
+            <td name="td5">None</td>
+            <td name="td6">X-RAY DIFFRACTION</td>
+            <td name="td7">2.12 Å</td>
+            <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+            <td name="td9">None</td>
+      </tr>
+            
+      <tr>
+            <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Guanidine" target="_blank"><b>Guanidine-III</b></a></td>
+            <td name="td1"><a href="https://www.rcsb.org/structure/5O69" target="_blank"><b>5O69</b></a></td>
+            <td name="td2">41</td>
+            <td name="td3">The structure of the thermobifida fusca guanidine III riboswitch with agmatine.</td>
+            <td name="td4">Thermobifida fusca</td>
+            <td name="td5">None</td>
+            <td name="td6">X-RAY DIFFRACTION</td>
+            <td name="td7">2.32 Å</td>
+            <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+            <td name="td9">None</td>
+      </tr>
+            
+    </table>
+</div>        
+                
+<div id="sheet9" class="sheet">
+    <p style='font-size:20px'>T-box</p>
+    <table>
+      <tr>
+        <th>Name</th>
+        <th>PDB</th>
+        <th>Length</th>
+        <th>Description(PDB)</th>
+        <th>Species</th>
+        <th>Phase Determination</th>
+        <th>Structure Determination</th>
+        <th>Res(Å)</th>
+        <th>Year</th>
+        <th>Journal</th>
+      </tr>
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/T-box" target="_blank"><b>T-box riboswitch(aminoacylation tRNA)</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/6PMO" target="_blank"><b>6PMO</b></a></td>
+        <td name="td2">75</td>
+        <td name="td3">Co-crystal structure of the Geobacillus kaustophilus glyQ T-box riboswitch discriminator domain in complex with tRNA-Gly</td>
+        <td name="td4">Geobacillus kaustophilus</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">2.66 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+      </tr>
+    
+                
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/T-box" target="_blank"><b>T-box riboswitch(aminoacylation tRNA)</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/6POM" target="_blank"><b>6POM</b></a></td>
+        <td name="td2">75</td>
+        <td name="td3">Cryo-EM structure of the full-length Bacillus subtilis glyQS T-box riboswitch in complex with tRNA-Gly</td>
+        <td name="td4">Bacillus subtilis</td>
+        <td name="td5">None</td>
+        <td name="td6">ELECTRON MICROSCOPY</td>
+        <td name="td7">4.90 Å </td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+      </tr>
+    
+                
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/unknown1" target="_blank"><b>unknown1</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/6UFM" target="_blank"><b>6UFM</b></a></td>
+        <td name="td2">77</td>
+        <td name="td3">Cocrystal Structure of the Nocardia farcinica ileS T-box riboswitch in complex with its cognate tRNA</td>
+        <td name="td4">Mycolicibacterium smegmatis', 'Nocardia farcinica</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">2.82 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+      </tr>
+    
+                
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/unknown2" target="_blank"><b>unknown2</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/7UQ6" target="_blank"><b>7UQ6</b></a></td>
+        <td name="td2">86</td>
+        <td name="td3">tRNA T-box antiterminator fusion, construct #4</td>
+        <td name="td4">Geobacillus kaustophilus</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">2.95 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+      </tr>
+    
+                
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/unknown3" target="_blank"><b>unknown3</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/7UZ0" target="_blank"><b>7UZ0</b></a></td>
+        <td name="td2">87</td>
+        <td name="td3">AntiT-tRNA flip UCCA</td>
+        <td name="td4">Geobacillus kaustophilus</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">3.03 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+      </tr>
+    
+                
+    </table>
+</div>
+
+<script>
+    function showSheet(sheetId) {
+      // 隐藏所有 sheet
+      var sheets = document.getElementsByClassName('sheet');
+      for (var i = 0; i < sheets.length; i++) {
+        sheets[i].style.display = 'none';
+      }
+
+      // 显示选定的 sheet
+      var sheet = document.getElementById(sheetId);
+      sheet.style.display = 'block';
+    }
+  </script>
+        
+    </body>
+</html><br><br>
+        
