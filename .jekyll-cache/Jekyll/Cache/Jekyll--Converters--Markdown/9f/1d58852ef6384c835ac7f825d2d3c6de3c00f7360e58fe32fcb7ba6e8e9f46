@@ -1,13 +1,6 @@
----
-title: "Ribocentre - Application"
-layout: piclay
-excerpt: "Ribocentre -- Application"
-permalink: /applications/
----
-
-<h1 class="post-title" itemprop="name headline">Applications</h1>
-This page shows some of the applications of the collected riboswitches. We listed four kinds of applications, ‘Developing new antibacterials’, ‘Synthetic Biology’, ‘Building biosensors’ and ‘Gene therapy’ as shown in the following tables. The representatives of FMN riboswitch-specific antibacterial compounds are presented, as shown in the figure below.
-<br><br>
+I"=�<h1 class="post-title" itemprop="name headline">Applications</h1>
+<p>This page shows some of the applications of the collected riboswitches. We listed four kinds of applications, ‘Developing new antibacterials’, ‘Synthetic Biology’, ‘Building biosensors’ and ‘Gene therapy’ as shown in the following tables. The representatives of FMN riboswitch-specific antibacterial compounds are presented, as shown in the figure below.
+<br /><br /></p>
 <html>
 <head>
   <title>横向排列的点击按钮</title>
@@ -54,31 +47,30 @@ This page shows some of the applications of the collected riboswitches. We liste
 <p id="Developing_new_antibacterials"> </p>
   <p style="font-size: 16px">Click into different sections:</p>
   <div class="button-container">
-    <a class="button" href="#Developing_new_antibacterials" >Developing new antibacterials</a>
+    <a class="button" href="#Developing_new_antibacterials">Developing new antibacterials</a>
     <a class="button" href="#Synthetic_Biology">Synthetic Biology</a>
     <a class="button" href="#Building_biosensors">Building biosensors</a>
     <a class="button" href="#Gene_therapy">Gene therapy</a>
   </div>
 </body>
 </html>
-<br>  
-        
-<p class="header_box" >Developing new antibacterials</p>
-Riboswitches can affect bacterial homeostasis, development, pathogenicity, and antibiotic resistance at the transcriptional or translational level and generate complex three-dimensional structures with well-defined small-molecule binding sites. These features make them attractive targets for antimicrobial therapy.<br>      
-        
-Schematic representation of the FMN riboswitch as new antibacterials target. Different antibacterial compounds bind to the FMN riboswitch and abolish the expression of the downstream genes (left). The chemical structure and KD of the antibacterial compounds is also indicated (right).<br>
-<img src="/images/applications/application_figure.svg" alt="drawing" style="weight:400px;display:block;margin:0 auto;border:solid 1px"><br>
-<a href="/images/applications/application_figure.svg" target="_blank" download="Developing new antibacterials.svg"><button class="btn btn-secondary"><span class="glyphicon 
-glyphicon-download-alt"></span>&nbsp;&nbsp;Download above picture</button></a><br>
-<br>
-                        
+<p><br /></p>
+
+<p class="header_box">Developing new antibacterials</p>
+<p>Riboswitches can affect bacterial homeostasis, development, pathogenicity, and antibiotic resistance at the transcriptional or translational level and generate complex three-dimensional structures with well-defined small-molecule binding sites. These features make them attractive targets for antimicrobial therapy.<br /></p>
+
+<p>Schematic representation of the FMN riboswitch as new antibacterials target. Different antibacterial compounds bind to the FMN riboswitch and abolish the expression of the downstream genes (left). The chemical structure and KD of the antibacterial compounds is also indicated (right).<br />
+<img src="/images/applications/application_figure.svg" alt="drawing" style="weight:400px;display:block;margin:0 auto;border:solid 1px" /><br />
+<a href="/images/applications/application_figure.svg" target="_blank" download="Developing new antibacterials.svg"><button class="btn btn-secondary"><span class="glyphicon  glyphicon-download-alt"></span>  Download above picture</button></a><br />
+<br /></p>
+
 <html>
 <head>
-    <meta http-equiv="Content-type" content="text/html; charset=utf-8">
-    <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no">
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no" />
     <title>Ribozyme applications </title>
-    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.12.1/css/jquery.dataTables.min.css">
-    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/buttons/2.2.3/css/buttons.dataTables.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.12.1/css/jquery.dataTables.min.css" />
+    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/buttons/2.2.3/css/buttons.dataTables.min.css" />
 </head>
     <style>
         th {background-color: #005826;
@@ -86,14 +78,14 @@ glyphicon-download-alt"></span>&nbsp;&nbsp;Download above picture</button></a><b
             cursor: pointer;
         }
     </style>
-  <script type="text/javascript"  src="https://code.jquery.com/jquery-3.5.1.js"></script>
-    <script type="text/javascript"  src="https://cdn.datatables.net/1.12.1/js/jquery.dataTables.min.js"></script>
-    <script type="text/javascript"  src="https://cdn.datatables.net/buttons/2.2.3/js/dataTables.buttons.min.js"></script>
-    <script type="text/javascript"  src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.1.3/jszip.min.js"></script>
-    <script type="text/javascript"  src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.53/pdfmake.min.js"></script>
-    <script type="text/javascript"  src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.53/vfs_fonts.js"></script>
+  <script type="text/javascript" src="https://code.jquery.com/jquery-3.5.1.js"></script>
+    <script type="text/javascript" src="https://cdn.datatables.net/1.12.1/js/jquery.dataTables.min.js"></script>
+    <script type="text/javascript" src="https://cdn.datatables.net/buttons/2.2.3/js/dataTables.buttons.min.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.1.3/jszip.min.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.53/pdfmake.min.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.53/vfs_fonts.js"></script>
     <script type="text/javascript" src="https://cdn.datatables.net/buttons/2.2.3/js/buttons.html5.min.js"></script>
-    <script type="text/javascript"  src="https://cdn.datatables.net/buttons/2.2.3/js/buttons.print.min.js"></script>
+    <script type="text/javascript" src="https://cdn.datatables.net/buttons/2.2.3/js/buttons.print.min.js"></script>
     <script type="text/javascript">
 
         $(document).ready(function() {
@@ -127,8 +119,8 @@ glyphicon-download-alt"></span>&nbsp;&nbsp;Download above picture</button></a><b
     <td>Narasimhan Sudarsan</td>
     <td>Ronald R. Breaker</td>
     <td>2005</td>
-    <td>Chemistry & Biology</td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/16356850"  target="_blank" ><b>16356850</b></a></td>
+    <td>Chemistry &amp; Biology</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/16356850" target="_blank"><b>16356850</b></a></td>
   </tr>
     
                     
@@ -139,7 +131,7 @@ glyphicon-download-alt"></span>&nbsp;&nbsp;Download above picture</button></a><b
     <td>Ronald R. Breaker</td>
     <td>2015</td>
     <td>Antimicrobial Agents and Chemotherapy</td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/26169403"  target="_blank" ><b>26169403</b></a></td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/26169403" target="_blank"><b>26169403</b></a></td>
   </tr>
     
                     
@@ -149,8 +141,8 @@ glyphicon-download-alt"></span>&nbsp;&nbsp;Download above picture</button></a><b
     <td>Bhaiyyasaheb Harale</td>
     <td>Ambadas B. Rode</td>
     <td>2021</td>
-    <td>Bioorganic & Medicinal Chemistry Letters </td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/34242760"  target="_blank" ><b>34242760</b></a></td>
+    <td>Bioorganic &amp; Medicinal Chemistry Letters </td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/34242760" target="_blank"><b>34242760</b></a></td>
   </tr>
     
                     
@@ -161,7 +153,7 @@ glyphicon-download-alt"></span>&nbsp;&nbsp;Download above picture</button></a><b
     <td>Terry Roemer</td>
     <td>2015</td>
     <td>Nature</td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/26416753"  target="_blank" ><b>26416753</b></a></td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/26416753" target="_blank"><b>26416753</b></a></td>
   </tr>
     
                     
@@ -172,7 +164,7 @@ glyphicon-download-alt"></span>&nbsp;&nbsp;Download above picture</button></a><b
     <td>Terry Roemer</td>
     <td>2016</td>
     <td>RNA Biology </td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/27485612"  target="_blank" ><b>27485612</b></a></td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/27485612" target="_blank"><b>27485612</b></a></td>
   </tr>
     
                     
@@ -183,7 +175,7 @@ glyphicon-download-alt"></span>&nbsp;&nbsp;Download above picture</button></a><b
     <td>Jörgen Johansson</td>
     <td>2011</td>
     <td>RNA Biology </td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/21593602"  target="_blank" ><b>21593602</b></a></td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/21593602" target="_blank"><b>21593602</b></a></td>
   </tr>
     
                     
@@ -194,7 +186,7 @@ glyphicon-download-alt"></span>&nbsp;&nbsp;Download above picture</button></a><b
     <td>Paul J Hergenrother</td>
     <td>2020</td>
     <td>Journal of the American Chemical Society </td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/32432858"  target="_blank" ><b>32432858</b></a></td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/32432858" target="_blank"><b>32432858</b></a></td>
   </tr>
     
                     
@@ -205,7 +197,7 @@ glyphicon-download-alt"></span>&nbsp;&nbsp;Download above picture</button></a><b
     <td>Matthias Mack</td>
     <td>2009</td>
     <td>RNA Biology </td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/19333008"  target="_blank" ><b>19333008</b></a></td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/19333008" target="_blank"><b>19333008</b></a></td>
   </tr>
     
                     
@@ -216,7 +208,7 @@ glyphicon-download-alt"></span>&nbsp;&nbsp;Download above picture</button></a><b
     <td>Robert Penchovsky</td>
     <td>2022</td>
     <td>ACS Synthetic Biology </td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/35440139"  target="_blank" ><b>35440139</b></a></td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/35440139" target="_blank"><b>35440139</b></a></td>
   </tr>
     
                     
@@ -227,7 +219,7 @@ glyphicon-download-alt"></span>&nbsp;&nbsp;Download above picture</button></a><b
     <td>Ronald R. Breaker</td>
     <td>2009</td>
     <td>RNA Biology </td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/19246992"  target="_blank" ><b>19246992</b></a></td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/19246992" target="_blank"><b>19246992</b></a></td>
   </tr>
     
                     
@@ -238,7 +230,7 @@ glyphicon-download-alt"></span>&nbsp;&nbsp;Download above picture</button></a><b
     <td>Robert T Batey</td>
     <td>2018</td>
     <td>ACS Chemical Biology</td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/30107111"  target="_blank" ><b>30107111</b></a></td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/30107111" target="_blank"><b>30107111</b></a></td>
   </tr>
     
                     
@@ -249,7 +241,7 @@ glyphicon-download-alt"></span>&nbsp;&nbsp;Download above picture</button></a><b
     <td>Terry Roemer</td>
     <td>2017</td>
     <td>Cell Chemical Biology </td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/28434876"  target="_blank" ><b>28434876</b></a></td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/28434876" target="_blank"><b>28434876</b></a></td>
   </tr>
     
                     
@@ -260,7 +252,7 @@ glyphicon-download-alt"></span>&nbsp;&nbsp;Download above picture</button></a><b
     <td>Günter Mayer</td>
     <td>2017</td>
     <td>Chembiochem</td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/28012261"  target="_blank" ><b>28012261</b></a></td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/28012261" target="_blank"><b>28012261</b></a></td>
   </tr>
     
                     
@@ -271,7 +263,7 @@ glyphicon-download-alt"></span>&nbsp;&nbsp;Download above picture</button></a><b
     <td>Robert Penchovsky</td>
     <td>2021</td>
     <td>ACS Synthetic Biology</td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/34734706"  target="_blank" ><b>34734706</b></a></td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/34734706" target="_blank"><b>34734706</b></a></td>
   </tr>
     
                     
@@ -282,7 +274,7 @@ glyphicon-download-alt"></span>&nbsp;&nbsp;Download above picture</button></a><b
     <td>Ronald R. Breaker</td>
     <td>2006</td>
     <td>RNA Biology </td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/17114942"  target="_blank" ><b>17114942</b></a></td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/17114942" target="_blank"><b>17114942</b></a></td>
   </tr>
     
                     
@@ -293,7 +285,7 @@ glyphicon-download-alt"></span>&nbsp;&nbsp;Download above picture</button></a><b
     <td>Daniel A Lafontaine</td>
     <td>2010</td>
     <td>PLoS Pathogens</td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/20421948"  target="_blank" ><b>20421948</b></a></td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/20421948" target="_blank"><b>20421948</b></a></td>
   </tr>
     
                     
@@ -304,7 +296,7 @@ glyphicon-download-alt"></span>&nbsp;&nbsp;Download above picture</button></a><b
     <td>F Malouin</td>
     <td>2013</td>
     <td>Journal of Dairy Science </td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/23245959"  target="_blank" ><b>23245959</b></a></td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/23245959" target="_blank"><b>23245959</b></a></td>
   </tr>
     
                     
@@ -315,7 +307,7 @@ glyphicon-download-alt"></span>&nbsp;&nbsp;Download above picture</button></a><b
     <td>Paul F Agris</td>
     <td>2019</td>
     <td>ChemMedChem </td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/30707489"  target="_blank" ><b>30707489</b></a></td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/30707489" target="_blank"><b>30707489</b></a></td>
   </tr>
     
                     
@@ -326,7 +318,7 @@ glyphicon-download-alt"></span>&nbsp;&nbsp;Download above picture</button></a><b
     <td>Paul F Agris</td>
     <td>2021</td>
     <td>Antibiotics (Basel)</td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/33406640"  target="_blank" ><b>33406640</b></a></td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/33406640" target="_blank"><b>33406640</b></a></td>
   </tr>
     
                     
@@ -337,7 +329,7 @@ glyphicon-download-alt"></span>&nbsp;&nbsp;Download above picture</button></a><b
     <td>Constantinos Stathopoulos</td>
     <td>2017</td>
     <td>Nucleic Acids Research </td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/28973457"  target="_blank" ><b>28973457</b></a></td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/28973457" target="_blank"><b>28973457</b></a></td>
   </tr>
     
                     
@@ -348,26 +340,25 @@ glyphicon-download-alt"></span>&nbsp;&nbsp;Download above picture</button></a><b
     <td>Paul F Agris</td>
     <td>2020</td>
     <td>Antimicrob Agents Chemother</td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/33077662"  target="_blank" ><b>33077662</b></a></td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/33077662" target="_blank"><b>33077662</b></a></td>
   </tr>
     
                     
 </tbody>
 </table>
-</html><br>
-            
-<p id="Synthetic_Biology"> </p>
-<br><br>
-<p class="header_box" >Synthetic Biology</p>
-Re-engineered riboswitches that no longer respond to cellular metabolites, but that instead can be controlled by synthetic molecules, are potentially useful gene regulatory tools for use in synthetic biology and biotechnology fields.<br>      
-            
+</html>
+<p><br /></p>
+
+<p class="header_box">Synthetic Biology</p>
+<p>Re-engineered riboswitches that no longer respond to cellular metabolites, but that instead can be controlled by synthetic molecules, are potentially useful gene regulatory tools for use in synthetic biology and biotechnology fields.<br /></p>
+
 <html>
 <head>
-    <meta http-equiv="Content-type" content="text/html; charset=utf-8">
-    <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no">
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no" />
     <title>Ribozyme applications </title>
-    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.12.1/css/jquery.dataTables.min.css">
-    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/buttons/2.2.3/css/buttons.dataTables.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.12.1/css/jquery.dataTables.min.css" />
+    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/buttons/2.2.3/css/buttons.dataTables.min.css" />
 </head>
     <style>
         th {background-color: #005826;
@@ -375,14 +366,14 @@ Re-engineered riboswitches that no longer respond to cellular metabolites, but t
             cursor: pointer;
         }
     </style>
-  <script type="text/javascript"  src="https://code.jquery.com/jquery-3.5.1.js"></script>
-    <script type="text/javascript"  src="https://cdn.datatables.net/1.12.1/js/jquery.dataTables.min.js"></script>
-    <script type="text/javascript"  src="https://cdn.datatables.net/buttons/2.2.3/js/dataTables.buttons.min.js"></script>
-    <script type="text/javascript"  src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.1.3/jszip.min.js"></script>
-    <script type="text/javascript"  src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.53/pdfmake.min.js"></script>
-    <script type="text/javascript"  src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.53/vfs_fonts.js"></script>
+  <script type="text/javascript" src="https://code.jquery.com/jquery-3.5.1.js"></script>
+    <script type="text/javascript" src="https://cdn.datatables.net/1.12.1/js/jquery.dataTables.min.js"></script>
+    <script type="text/javascript" src="https://cdn.datatables.net/buttons/2.2.3/js/dataTables.buttons.min.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.1.3/jszip.min.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.53/pdfmake.min.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.53/vfs_fonts.js"></script>
     <script type="text/javascript" src="https://cdn.datatables.net/buttons/2.2.3/js/buttons.html5.min.js"></script>
-    <script type="text/javascript"  src="https://cdn.datatables.net/buttons/2.2.3/js/buttons.print.min.js"></script>
+    <script type="text/javascript" src="https://cdn.datatables.net/buttons/2.2.3/js/buttons.print.min.js"></script>
     <script type="text/javascript">
 
         $(document).ready(function() {
@@ -417,7 +408,7 @@ Re-engineered riboswitches that no longer respond to cellular metabolites, but t
     <td>Charles E Dann 3rd</td>
     <td>2014</td>
     <td>Applied and Environmental Microbiology</td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/25085482"  target="_blank" ><b>25085482</b></a></td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/25085482" target="_blank"><b>25085482</b></a></td>
   </tr>
 
                         
@@ -428,7 +419,7 @@ Re-engineered riboswitches that no longer respond to cellular metabolites, but t
     <td>Min-Kyu Oh</td>
     <td>2015</td>
     <td>Metabolic Engineering </td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/25596509"  target="_blank" ><b>25596509</b></a></td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/25596509" target="_blank"><b>25596509</b></a></td>
   </tr>
 
                         
@@ -439,7 +430,7 @@ Re-engineered riboswitches that no longer respond to cellular metabolites, but t
     <td>James W Golden</td>
     <td>2014</td>
     <td>Applied and Environmental Microbiology</td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/25149516"  target="_blank" ><b>25149516</b></a></td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/25149516" target="_blank"><b>25149516</b></a></td>
   </tr>
 
                         
@@ -450,7 +441,7 @@ Re-engineered riboswitches that no longer respond to cellular metabolites, but t
     <td>Jessica C Seeliger</td>
     <td>2017</td>
     <td>Journal of Bacteriology </td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/28069821"  target="_blank" ><b>28069821</b></a></td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/28069821" target="_blank"><b>28069821</b></a></td>
   </tr>
 
                         
@@ -461,7 +452,7 @@ Re-engineered riboswitches that no longer respond to cellular metabolites, but t
     <td>Jason Micklefield</td>
     <td>2015</td>
     <td>Journal of the American Chemical Society </td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/26106809"  target="_blank" ><b>26106809</b></a></td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/26106809" target="_blank"><b>26106809</b></a></td>
   </tr>
 
                         
@@ -472,26 +463,25 @@ Re-engineered riboswitches that no longer respond to cellular metabolites, but t
     <td>Jason Micklefield</td>
     <td>2014</td>
     <td>Journal of the American Chemical Society </td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/24971878"  target="_blank" ><b>24971878</b></a></td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/24971878" target="_blank"><b>24971878</b></a></td>
   </tr>
 
                         
     </tbody>
     </table>
-    </html><br>
-                
-<p id="Building_biosensors"></p>
-<br><br>
-<p class="header_box" >Building biosensors</p>
-Due to riboswitches inherent ability to both detect a specifi c metabolite with great sensitivity and specifi city and to transduce this information into a detectable signal,they have great potential as molecular sensors. The design of riboswitch-based sensors is very fl exible and a number of creative features and adjustments can be made to enhance their sensing capabilities. <br>      
-            
+    </html>
+<p><br /></p>
+
+<p class="header_box">Building biosensors</p>
+<p>Due to riboswitches inherent ability to both detect a specifi c metabolite with great sensitivity and specifi city and to transduce this information into a detectable signal,they have great potential as molecular sensors. The design of riboswitch-based sensors is very fl exible and a number of creative features and adjustments can be made to enhance their sensing capabilities. <br /></p>
+
 <html>
 <head>
-    <meta http-equiv="Content-type" content="text/html; charset=utf-8">
-    <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no">
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no" />
     <title>Ribozyme applications </title>
-    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.12.1/css/jquery.dataTables.min.css">
-    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/buttons/2.2.3/css/buttons.dataTables.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.12.1/css/jquery.dataTables.min.css" />
+    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/buttons/2.2.3/css/buttons.dataTables.min.css" />
 </head>
     <style>
         th {background-color: #005826;
@@ -499,14 +489,14 @@ Due to riboswitches inherent ability to both detect a specifi c metabolite with 
             cursor: pointer;
         }
     </style>
-  <script type="text/javascript"  src="https://code.jquery.com/jquery-3.5.1.js"></script>
-    <script type="text/javascript"  src="https://cdn.datatables.net/1.12.1/js/jquery.dataTables.min.js"></script>
-    <script type="text/javascript"  src="https://cdn.datatables.net/buttons/2.2.3/js/dataTables.buttons.min.js"></script>
-    <script type="text/javascript"  src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.1.3/jszip.min.js"></script>
-    <script type="text/javascript"  src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.53/pdfmake.min.js"></script>
-    <script type="text/javascript"  src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.53/vfs_fonts.js"></script>
+  <script type="text/javascript" src="https://code.jquery.com/jquery-3.5.1.js"></script>
+    <script type="text/javascript" src="https://cdn.datatables.net/1.12.1/js/jquery.dataTables.min.js"></script>
+    <script type="text/javascript" src="https://cdn.datatables.net/buttons/2.2.3/js/dataTables.buttons.min.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.1.3/jszip.min.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.53/pdfmake.min.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.53/vfs_fonts.js"></script>
     <script type="text/javascript" src="https://cdn.datatables.net/buttons/2.2.3/js/buttons.html5.min.js"></script>
-    <script type="text/javascript"  src="https://cdn.datatables.net/buttons/2.2.3/js/buttons.print.min.js"></script>
+    <script type="text/javascript" src="https://cdn.datatables.net/buttons/2.2.3/js/buttons.print.min.js"></script>
     <script type="text/javascript">
 
         $(document).ready(function() {
@@ -541,7 +531,7 @@ Due to riboswitches inherent ability to both detect a specifi c metabolite with 
     <td>Yi Lu</td>
     <td>2021</td>
     <td>Chemical Science</td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/34659710"  target="_blank" ><b>34659710</b></a></td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/34659710" target="_blank"><b>34659710</b></a></td>
   </tr>
 
                         
@@ -551,8 +541,8 @@ Due to riboswitches inherent ability to both detect a specifi c metabolite with 
     <td>James W Nelson</td>
     <td>Ronald R. Breaker</td>
     <td>2015</td>
-    <td>Chemistry & Biology </td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/25910244"  target="_blank" ><b>25910244</b></a></td>
+    <td>Chemistry &amp; Biology </td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/25910244" target="_blank"><b>25910244</b></a></td>
   </tr>
 
                         
@@ -563,7 +553,7 @@ Due to riboswitches inherent ability to both detect a specifi c metabolite with 
     <td>Julius B Lucks</td>
     <td>2020</td>
     <td>ACS Synthetic Biology</td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/31829623"  target="_blank" ><b>31829623</b></a></td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/31829623" target="_blank"><b>31829623</b></a></td>
   </tr>
 
                         
@@ -574,26 +564,25 @@ Due to riboswitches inherent ability to both detect a specifi c metabolite with 
     <td>Ronald R. Breaker</td>
     <td>2019</td>
     <td>ACS Chemical Biology</td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/31609568"  target="_blank" ><b>31609568</b></a></td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/31609568" target="_blank"><b>31609568</b></a></td>
   </tr>
 
                         
     </tbody>
     </table>
-    </html><br>
-                
-<p id="Gene_therapy"></p>
-<br><br>
-<p class="header_box" >Gene therapy</p>
-Riboswitches regulate gene expression by inducing (ON-switches) or repressing (OFF-switches) gene expression. Take ON-switches for example, in their native form, cause the degradation of the mRNA, thus stopping gene expression. Therefore, riboswitches can be used as a powerful tool to control gene expression in gene therapy.<br>      
-            
+    </html>
+<p><br /></p>
+
+<p class="header_box">Gene therapy</p>
+<p>Riboswitches regulate gene expression by inducing (ON-switches) or repressing (OFF-switches) gene expression. Take ON-switches for example, in their native form, cause the degradation of the mRNA, thus stopping gene expression. Therefore, riboswitches can be used as a powerful tool to control gene expression in gene therapy.<br /></p>
+
 <html>
 <head>
-    <meta http-equiv="Content-type" content="text/html; charset=utf-8">
-    <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no">
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no" />
     <title>Ribozyme applications </title>
-    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.12.1/css/jquery.dataTables.min.css">
-    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/buttons/2.2.3/css/buttons.dataTables.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.12.1/css/jquery.dataTables.min.css" />
+    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/buttons/2.2.3/css/buttons.dataTables.min.css" />
 </head>
     <style>
         th {background-color: #005826;
@@ -601,14 +590,14 @@ Riboswitches regulate gene expression by inducing (ON-switches) or repressing (O
             cursor: pointer;
         }
     </style>
-  <script type="text/javascript"  src="https://code.jquery.com/jquery-3.5.1.js"></script>
-    <script type="text/javascript"  src="https://cdn.datatables.net/1.12.1/js/jquery.dataTables.min.js"></script>
-    <script type="text/javascript"  src="https://cdn.datatables.net/buttons/2.2.3/js/dataTables.buttons.min.js"></script>
-    <script type="text/javascript"  src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.1.3/jszip.min.js"></script>
-    <script type="text/javascript"  src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.53/pdfmake.min.js"></script>
-    <script type="text/javascript"  src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.53/vfs_fonts.js"></script>
+  <script type="text/javascript" src="https://code.jquery.com/jquery-3.5.1.js"></script>
+    <script type="text/javascript" src="https://cdn.datatables.net/1.12.1/js/jquery.dataTables.min.js"></script>
+    <script type="text/javascript" src="https://cdn.datatables.net/buttons/2.2.3/js/dataTables.buttons.min.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.1.3/jszip.min.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.53/pdfmake.min.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.53/vfs_fonts.js"></script>
     <script type="text/javascript" src="https://cdn.datatables.net/buttons/2.2.3/js/buttons.html5.min.js"></script>
-    <script type="text/javascript"  src="https://cdn.datatables.net/buttons/2.2.3/js/buttons.print.min.js"></script>
+    <script type="text/javascript" src="https://cdn.datatables.net/buttons/2.2.3/js/buttons.print.min.js"></script>
     <script type="text/javascript">
 
         $(document).ready(function() {
@@ -643,7 +632,7 @@ Riboswitches regulate gene expression by inducing (ON-switches) or repressing (O
     <td>Sebastian Kreuz</td>
     <td>2015</td>
     <td>Molecular Therapy</td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/26137851"  target="_blank" ><b>26137851</b></a></td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/26137851" target="_blank"><b>26137851</b></a></td>
   </tr>
 
                         
@@ -654,7 +643,7 @@ Riboswitches regulate gene expression by inducing (ON-switches) or repressing (O
     <td>Yohei Yokobayashi</td>
     <td>2019</td>
     <td>ACS Synthetic Biology</td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/31415142"  target="_blank" ><b>31415142</b></a></td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/31415142" target="_blank"><b>31415142</b></a></td>
   </tr>
 
                         
@@ -665,7 +654,7 @@ Riboswitches regulate gene expression by inducing (ON-switches) or repressing (O
     <td> Jayesh J Ahire</td>
     <td>2022</td>
     <td>3 Biotech </td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/36275359"  target="_blank" ><b>36275359</b></a></td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/36275359" target="_blank"><b>36275359</b></a></td>
   </tr>
 
                         
@@ -676,11 +665,13 @@ Riboswitches regulate gene expression by inducing (ON-switches) or repressing (O
     <td>Kari J Airenne</td>
     <td>2022</td>
     <td>Frontiers of Medicine</td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/36582287"  target="_blank" ><b>36582287</b></a></td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/36582287" target="_blank"><b>36582287</b></a></td>
   </tr>
 
                         
     </tbody>
     </table>
-    </html><br>
-                
+    </html>
+<p><br /></p>
+
+:ET

@@ -1,0 +1,244 @@
+I"�&<h1 class="post-title" itemprop="name headline">Applications</h1>
+
+<p><br /><br />
+<strong>This page shows some of the applications of the collected riboswitches. We listed four kinds of applications, ‘Developing new antibacterials’, ‘Synthetic Biology’, ‘Building biosensors’ and ‘Gene therapy’ as shown in the following tables. The representatives of FMN riboswitch-specific antibacterial compounds are presented, as shown in the figure below.<strong>
+<br /><br /></strong></strong></p>
+<html>
+<head>
+  <title>横向排列的点击按钮</title>
+  <style>
+    /* 按钮容器样式 */
+    .button-container {
+      display: flex;
+      justify-content: left;
+      align-items: center;
+      height: 50px;
+    }
+    
+    /* 按钮样式 */
+    .button {
+      display: block;
+      padding: 10px;
+      font-size:24px;
+      margin-right: 10px;
+      text-align: center;
+      background-color: #efefef;
+      color: #005826;
+      text-decoration: none;
+      font-weight: bold;
+      border: 1px solid #005826;
+      border-radius: 5px;
+      box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.2);
+    }
+    
+    /* 鼠标悬停样式 */
+    .button:hover {
+      background-color: #999;
+      cursor: pointer;
+    }
+  </style>
+</head>
+<body>
+  <p style="font-size: 16px">Click into different sections:</p>
+  
+  <div class="button-container">
+    <a class="button" href="#timeline">Developing new antibacterials</a>
+    <a class="button" href="#description">Synthetic Biology</a>
+    <a class="button" href="#Structure and Ligand recognition">Building biosensors</a>
+    <a class="button" href="#references">Gene therapy</a>
+  </div>
+</body>
+</html>
+
+<blockquote>
+  <p>Developing new antibacterials</p>
+</blockquote>
+
+<p>Schematic representation of the FMN riboswitch as new antibacterials target. Different antibacterial compounds bind to the FMN riboswitch and abolish the expression of the downstream genes (left). The chemical structure and KD of the antibacterial compounds is also indicated (right).<br />
+<img src="/images/applications/application_figure.svg" alt="drawing" style="weight:400px;display:block;margin:0 auto;border:solid 1px" /><br />
+<a href="/images/applications/application_figure.svg" target="_blank" download="Appli_summary.svg"><button class="btn btn-secondary"><span class="glyphicon  glyphicon-download-alt"></span>  Download above picture</button></a><br />
+<br /></p>
+
+<html>
+<head>
+	<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+	<meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no" />
+	<title>Ribozyme applications </title>
+	<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.12.1/css/jquery.dataTables.min.css" />
+	<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/buttons/2.2.3/css/buttons.dataTables.min.css" />
+</head>
+    <style>
+		th {
+        background-color: #005826;
+        color: rgba(255,255,255,0.9);
+		    cursor: pointer;
+        }
+	</style>
+  <script type="text/javascript" src="https://code.jquery.com/jquery-3.5.1.js"></script>
+	<script type="text/javascript" src="https://cdn.datatables.net/1.12.1/js/jquery.dataTables.min.js"></script>
+	<script type="text/javascript" src="https://cdn.datatables.net/buttons/2.2.3/js/dataTables.buttons.min.js"></script>
+	<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.1.3/jszip.min.js"></script>
+	<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.53/pdfmake.min.js"></script>
+	<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.53/vfs_fonts.js"></script>
+	<script type="text/javascript" src="https://cdn.datatables.net/buttons/2.2.3/js/buttons.html5.min.js"></script>
+	<script type="text/javascript" src="https://cdn.datatables.net/buttons/2.2.3/js/buttons.print.min.js"></script>
+	<script type="text/javascript">
+
+		$(document).ready(function() {
+			$.noConflict();
+			$('#GEtable').DataTable( {
+				dom: 'Bfrtip', 
+				buttons: [
+					'copy', 'csv', 'excel', 'pdf', 'print'
+				]
+				
+			} );
+		} );
+   </script>
+
+ <table id="GEtable" class="table table-striped table-bordered" cellspacing="0" width="100%">
+  <thead>
+  <tr>
+    <th>ribozyme name</th>
+    <th>Description </th>
+    <th>First author</th>
+    <th>Corresponding author</th>
+    <th>Time</th>
+    <th>reference</th>
+    <th>Journal</th>
+    <th>pubmed ID</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+    <td>twister ribozyme</td>
+    <td>This article established an outstandingly flexible expression platform, which in conjugation with three different aptamer domains, enables the construction of many different one- and two-input regulators of gene expression in both bacteria and yeast.</td>
+    <td>Felletti, M</td>
+    <td>J. S. Hartig</td>
+    <td>2016</td>
+    <td>Twister ribozymes as highly versatile expression platforms for artificial riboswitches</td>
+    <td>Nat Commun</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/27670347" target="_blank"><b>27670347</b></a></td>
+  </tr>
+</tbody>
+</table>
+</html>
+<p><br /></p>
+
+<blockquote>
+  <p>Detection System</p>
+</blockquote>
+
+<p>Many ribozyme-based detection systems have been designed. For example, theophylline-dependent ribozymes can detect theophylline molecules in mammalian cells. Other detection targets, such as proteins or viruses, have also been designed. In addition, the temperature can be detected based on the self-cleavage ribozyme.<br /></p>
+
+<html>
+
+  <script type="text/javascript" src="https://code.jquery.com/jquery-3.5.1.js"></script>
+	<script type="text/javascript" src="https://cdn.datatables.net/1.12.1/js/jquery.dataTables.min.js"></script>
+	<script type="text/javascript" src="https://cdn.datatables.net/buttons/2.2.3/js/dataTables.buttons.min.js"></script>
+	<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.1.3/jszip.min.js"></script>
+	<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.53/pdfmake.min.js"></script>
+	<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.53/vfs_fonts.js"></script>
+	<script type="text/javascript" src="https://cdn.datatables.net/buttons/2.2.3/js/buttons.html5.min.js"></script>
+	<script type="text/javascript" src="https://cdn.datatables.net/buttons/2.2.3/js/buttons.print.min.js"></script>
+  <script type="text/javascript">
+
+		$(document).ready(function() {
+			$.noConflict();
+			$('#DStable').DataTable( {
+				dom: 'Bfrtip', 
+				buttons: [
+					'copy', 'csv', 'excel', 'pdf', 'print'
+				]
+				
+			} );
+		} );
+   </script>
+ <table id="DStable" class="table table-striped table-bordered" cellspacing="0" width="100%">
+  <thead>
+  <tr>
+    <th>ribozyme name</th>
+    <th>Description </th>
+    <th>First author</th>
+    <th>Corresponding author</th>
+    <th>Time</th>
+    <th>reference</th>
+    <th>Journal</th>
+    <th>pubmed ID</th>
+  </tr>
+ </thead>
+<tbody>
+   <tr>
+    <td>hammerhead ribozyme</td>
+    <td>This article reported the re-engineering of hammerhead ribozymes in order to respond efficiently to aminoglycoside antibiotics.</td>
+    <td>Klauser, B</td>
+    <td>J. S. Hartig</td>
+    <td>2015</td>
+    <td>Ribozyme-based aminoglycoside switches of gene expression engineered by genetic selection in S. cerevisiae</td>
+    <td>ACS Synth Biol</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/24871672" target="_blank"><b>24871672</b></a></td>
+  </tr>
+</tbody>
+</table>
+</html>
+<p><br /></p>
+
+<blockquote>
+  <p>Gene Editing system</p>
+</blockquote>
+
+<p>To overcome the uncontrolled nature of Cas9-gRNA complex cleavage activity in the current CRISPR/Cas9 system, several labs have designed ribozyme-induced gRNA release to achieve on-demand control of Cas9 activity.<br /></p>
+
+<html>
+  <script type="text/javascript" src="https://code.jquery.com/jquery-3.5.1.js"></script>
+	<script type="text/javascript" src="https://cdn.datatables.net/1.12.1/js/jquery.dataTables.min.js"></script>
+	<script type="text/javascript" src="https://cdn.datatables.net/buttons/2.2.3/js/dataTables.buttons.min.js"></script>
+	<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.1.3/jszip.min.js"></script>
+	<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.53/pdfmake.min.js"></script>
+	<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.53/vfs_fonts.js"></script>
+	<script type="text/javascript" src="https://cdn.datatables.net/buttons/2.2.3/js/buttons.html5.min.js"></script>
+	<script type="text/javascript" src="https://cdn.datatables.net/buttons/2.2.3/js/buttons.print.min.js"></script>
+  <script type="text/javascript">
+		$(document).ready(function() {
+			$.noConflict();
+			$('#DEtable').DataTable( {
+				dom: 'Bfrtip', 
+				buttons: [
+					'copy', 'csv', 'excel', 'pdf', 'print'
+				]
+				
+			} );
+		} );
+   </script>
+ <table id="DEtable" class="table table-striped table-bordered" cellspacing="0" width="100%">
+  <thead>
+  <tr>
+    <th>ribozyme name</th>
+    <th>Description </th>
+    <th>First author</th>
+    <th>Corresponding author</th>
+    <th>Time</th>
+    <th>reference</th>
+    <th>Journal</th>
+    <th>pubmed ID</th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+    <td>hammerhead ribozyme</td>
+    <td>This article develops an artificial gene named RGR that, once transcribed, generates an RNA molecule with ribozyme sequences at both ends of the designed gRNA, which can efficiently guide sequence-specific cleavage of DNA targets both in vitro and in yeast.</td>
+    <td>Gao, Y</td>
+    <td>Y. Zhao</td>
+    <td>2014</td>
+    <td>Self-processing of ribozyme-flanked RNAs into guide RNAs in vitro and in vivo for CRISPR-mediated genome editing</td>
+    <td>J Integr Plant Biol</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/24373158" target="_blank"><b>24373158</b></a></td>
+  </tr>
+</tbody>
+</table><br /><br />
+
+
+
+
+</html>
+:ET

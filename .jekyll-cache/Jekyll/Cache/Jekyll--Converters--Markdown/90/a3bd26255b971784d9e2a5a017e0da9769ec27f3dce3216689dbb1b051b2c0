@@ -1,0 +1,131 @@
+I"�<h1 class="post-title" itemprop="name headline">Applications</h1>
+<p>This page shows some of the applications of the collected riboswitches. We listed four kinds of applications, ‘Developing new antibacterials’, ‘Synthetic Biology’, ‘Building biosensors’ and ‘Gene therapy’ as shown in the following tables. The representatives of FMN riboswitch-specific antibacterial compounds are presented, as shown in the figure below.
+<br /><br /></p>
+<html>
+<head>
+  <title>横向排列的点击按钮</title>
+  <style>
+    /* 按钮容器样式 */
+    .button-container {
+      display: flex;
+      justify-content: left;
+      align-items: center;
+      height: 50px;
+    }
+    
+    /* 按钮样式 */
+    .button {
+      display: block;
+      padding: 10px;
+      font-size:24px;
+      margin-right: 10px;
+      text-align: center;
+      background-color: #efefef;
+      color: #005826;
+      text-decoration: none;
+      font-weight: bold;
+      border: 1px solid #005826;
+      border-radius: 5px;
+      box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.2);
+    }
+    
+    /* 鼠标悬停样式 */
+    .button:hover {
+      background-color: #999;
+      cursor: pointer;
+    }
+    .header_box {
+    border: none;
+    background: #efefef;
+    font-size:24px
+  }
+  blockquote {
+  margin: 0 0 0p}
+  </style>
+</head>
+<body>
+<p id="Developing_new_antibacterials"> </p>
+  <p style="font-size: 16px">Click into different sections:</p>
+  <div class="button-container">
+    <a class="button" href="#Developing_new_antibacterials">Developing new antibacterials</a>
+    <a class="button" href="#Synthetic_Biology">Synthetic Biology</a>
+    <a class="button" href="#Building_biosensors">Building biosensors</a>
+    <a class="button" href="#Gene_therapy">Gene therapy</a>
+  </div>
+</body>
+</html>
+<p><br /></p>
+
+<p class="header_box">Developing new antibacterials</p>
+<p>Schematic representation of the FMN riboswitch as new antibacterials target. Different antibacterial compounds bind to the FMN riboswitch and abolish the expression of the downstream genes (left). The chemical structure and KD of the antibacterial compounds is also indicated (right).<br />
+<img src="/images/applications/application_figure.svg" alt="drawing" style="weight:400px;display:block;margin:0 auto;border:solid 1px" /><br />
+<a href="/images/applications/application_figure.svg" target="_blank" download="Developing new antibacterials.svg"><button class="btn btn-secondary"><span class="glyphicon  glyphicon-download-alt"></span>  Download above picture</button></a><br />
+<br />
+application_figure.svg</p>
+
+<p>Schematic representation of the FMN riboswitch as new antibacterials target. Different antibacterial compounds bind to the FMN riboswitch and abolish the expression of the downstream genes (left). The chemical structure and KD of the antibacterial compounds is also indicated (right).</p>
+
+<html>
+<head>
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no" />
+    <title>Ribozyme applications </title>
+    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.12.1/css/jquery.dataTables.min.css" />
+    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/buttons/2.2.3/css/buttons.dataTables.min.css" />
+</head>
+    <style>
+        th 
+    </style>
+  <script type="text/javascript" src="https://code.jquery.com/jquery-3.5.1.js"></script>
+    <script type="text/javascript" src="https://cdn.datatables.net/1.12.1/js/jquery.dataTables.min.js"></script>
+    <script type="text/javascript" src="https://cdn.datatables.net/buttons/2.2.3/js/dataTables.buttons.min.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.1.3/jszip.min.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.53/pdfmake.min.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.53/vfs_fonts.js"></script>
+    <script type="text/javascript" src="https://cdn.datatables.net/buttons/2.2.3/js/buttons.html5.min.js"></script>
+    <script type="text/javascript" src="https://cdn.datatables.net/buttons/2.2.3/js/buttons.print.min.js"></script>
+    <script type="text/javascript">
+
+        $(document).ready(function() {
+            $.noConflict();
+            $('#Dnatable').DataTable( {
+                dom: 'Bfrtip', 
+                buttons: [
+                    'copy', 'csv', 'excel', 'pdf', 'print'
+                ]
+
+            } );
+        } );
+   </script>
+<table id="Dnatable" class="table table-striped table-bordered" cellspacing="0" width="100%">
+  <thead>
+  <tr>
+    <th>Riboswitch name</th>
+    <th>Description </th>
+    <th>First author</th>
+    <th>Corresponding author</th>
+    <th>Time</th>
+    <th>reference</th>
+    <th>Journal</th>
+    <th>pubmed ID</th>
+  </tr>
+ </thead>
+ <tbody>
+        
+  <tr>
+    <td><a href="https://ribocentre-switch.github.io/docs/TPP" target="_blank"><b>TPP riboswitch</b></a></td>
+    <td>This paper provided validation that TPP riboswitches are antimicrobial drug targets, and indicated that antimicrobial compounds known for decades function at least in part by a riboswitch-related mechanism. </td>
+    <td>Narasimhan Sudarsan</td>
+    <td>Ronald R. Breaker</td>
+    <td>2005</td>
+    <td>Chemistry &amp; Biology</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/16356850" target="_blank"><b>16356850</b></a></td>
+  </tr>
+
+                
+</tbody>
+</table>
+</html>
+<p><br /></p>
+
+:ET

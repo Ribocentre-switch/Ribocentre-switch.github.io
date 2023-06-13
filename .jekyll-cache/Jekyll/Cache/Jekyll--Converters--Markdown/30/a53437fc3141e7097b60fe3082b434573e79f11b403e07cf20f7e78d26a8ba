@@ -1,0 +1,37 @@
+I"<h1 class="post-title" itemprop="name headline">Binding Pocket</h1>
+<p>This page shows some of the comparisons of the binding pockets from different riboswitches. We sorted out three comparisons, ‘Purine riboswitches family’, ‘SAM riboswitches family’, and ‘Guanidine riboswitches family’ as shown in the following figures
+<br />
+<br /></p>
+<html>
+<head>
+  <title>横向排列的点击按钮</title>
+  <style>
+   
+    .header_box {
+    border: none;
+    background: #efefef;
+    font-size:24px
+  }
+  blockquote {
+  margin: 0 0 0p}
+  </style>
+</head>
+<body>
+
+</body>
+</html>
+
+<p class="header_box">Purine riboswitches family</p>
+<p>Purine riboswitches family share a similar three-way junction to position highly conserved nucleotides and form a similar ligand-binding site. Members of purine riboswitches family have altered ligand specificity, wherein some classes sense guanine, some classes sense adenine and others sense the nucleoside 2’-deoxyguanosine (2’-dG). Up to now, four classes of riboswitches have atomic-resolution structural models, which allow us to find out and reveal the significant nucleotides in the recognition of purine moiety as shown in the figure below. Carrying mutations in the conserved locations of the binding pocket, each member of purine riboswitches family alters the affinity for different purine molecules.
+<img src="/images/summary_binding_pockets/BP_Purine_riboswitches_family1.svg" alt="drawing" style="weight:200px;display:block;margin:0 auto;" class="img-responsive" /><br />
+<a href="/images/summary_binding_pockets/BP_Purine_riboswitches_family1.svg" target="_blank" download="BP_Purine_riboswitches_family1.svg"><button class="btn btn-secondary"><span class="glyphicon glyphicon-download-alt"></span>  Download Poster</button></a><br /><br /></p>
+
+<p>Three classes of 2’-dG riboswitches, named 2’-dG-I, 2’-dG-II and 2’-dG-III, exist in purine riboswitches family, wherein the first two classes of 2’-dG riboswitches have atomic-resolution structural models. Although 2’-dG-II has some additional nucleotides insertion in its three-way junction compared with 2’-dG-I, both of them use almost the same ligand binding strategy and the extra insertion of 2’-dG-II only makes some effect on its affinity with 2’-dG.</p>
+<blockquote>
+  <p>Large ribozymes</p>
+</blockquote>
+
+<p><img src="/images/summary_binding_pockets/BP_Purine_riboswitches_family2.svg" alt="drawing" style="weight:900px;height:1900px;display:block;margin:0 auto;" class="img-responsive" /><br />
+<a href="/images/summary_binding_pockets/BP_Purine_riboswitches_family2.svg" target="_blank" download="BP_Purine_riboswitches_family2.svg"><button class="btn btn-secondary"><span class="glyphicon glyphicon-download-alt"></span>  Download Poster</button></a><br /><br /></p>
+
+:ET
