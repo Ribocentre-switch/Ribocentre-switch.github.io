@@ -320,7 +320,7 @@ permalink: /docs/Guanidine/
 </td>
 </tr></table><br>
 <p><br /></p>
-                
+                    
 <font >(Left) Consensus sequence and secondary structure model for the guanidine-II riboswitch. (Right) Secondary structure depictions of the guanidine-II riboswitch P1 stem-loop according to PDB ID: 5NOM and P2 stem-loop according to PDB ID: 5NDH<sup>[6]</sup>.</font><br>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
@@ -401,7 +401,7 @@ permalink: /docs/Guanidine/
 </td>
 </tr></table><br>
 <p><br /></p>
-                
+                    
 <font >(Left) Consensus sequence and secondary structure model for the guanidine-III riboswitch. (Right) Secondary structure depictions of the guanidine-III riboswitch according to PDB ID: 5NWQ<sup>[7]</sup>.</font><br>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
@@ -482,7 +482,7 @@ permalink: /docs/Guanidine/
 </td>
 </tr></table><br>
 <p><br /></p>
-                
+                    
 <font >(Left) Consensus sequence and secondary structure model for the guanidine-IV riboswitch. (Right) Sequence and secondary structure model of the guanidine-IV (mepA motif) riboswitch<sup>[8]</sup>.</font><br>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
@@ -563,7 +563,7 @@ permalink: /docs/Guanidine/
 </td>
 </tr></table><br>
 <p><br /></p>
-                
+                    
 > 3D visualisation
             
 <font >The overall structure of the guanidine-I riboswitch was generated from PDB ID: 5T83 at 2.71 Å resolution bound with guanidine. Guanidine (shown in sticks) is labeled in red <sup>[4]</sup>.</font>

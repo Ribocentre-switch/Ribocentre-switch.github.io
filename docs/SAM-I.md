@@ -132,7 +132,7 @@ permalink: /docs/SAM-I_clan/
     <timelineli class="day">
      <div class="events">
        <p >Discovery of SAM-I/IV riboswitch</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/20230605/" target="_blank">2010</a><sup>9</sup></div>
+       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/20230605/" target="_blank">2010</a><sup>[9]</sup></div>
      </div>
     </timelineli>
         
@@ -341,7 +341,7 @@ SAM-IV riboswitches are a kind of riboswitch that specifically binds S-adenosylm
 </td>
 </tr></table><br>
 <p><br /></p>
-                
+                    
 <font >Left: Consensus sequence and secondary structure model for the SAM-IV riboswitch. Right: Secondary structure depictions of the SAM-IV riboswitch according to PDB ID:6uet<sup></sup>.</font><br>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
@@ -422,7 +422,7 @@ SAM-IV riboswitches are a kind of riboswitch that specifically binds S-adenosylm
 </td>
 </tr></table><br>
 <p><br /></p>
-                
+                    
 <font >Left: Consensus sequence and secondary structure model for the SAM-I/IV riboswitch. Right: Secondary structure depictions of the SAM-I/IV riboswitch according to PDB ID: 4oqu<sup></sup>.</font><br>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
@@ -503,7 +503,7 @@ SAM-IV riboswitches are a kind of riboswitch that specifically binds S-adenosylm
 </td>
 </tr></table><br>
 <p><br /></p>
-                
+                    
 > 3D visualisation
             
 <font >2.9-Å resolution crystal structure of an S-adenosylmethionine (SAM) riboswitch from thermoanaerobacter tengcongensis complexed with S-adenosylmethionine. SAM (shown in sticks) is labeled in red <sup>[4]</sup>.</font>

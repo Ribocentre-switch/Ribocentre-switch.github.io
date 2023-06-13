@@ -239,7 +239,7 @@ permalink: /docs/SAM-SAH/
 </td>
 </tr></table><br>
 <p><br /></p>
-                
+                    
 > 3D visualisation
             
 <font >2.2-Å resolution crystal structure of an S-adenosylmethionine (SAM) riboswitch complexed with S-adenosylmethionine. SAM (shown in sticks) is labeled in red <sup>[5]</sup>.</font>

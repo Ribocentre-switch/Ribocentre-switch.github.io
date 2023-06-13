@@ -298,7 +298,7 @@ SAM-V riboswitch is the fifth known riboswitch to bind S-adenosyl methionine (SA
 </td>
 </tr></table><br>
 <p><br /></p>
-                
+                    
 <font >Left: Consensus sequence and secondary structure model for the SAM-V riboswitch. Right: Secondary structure depictions of the SAM-V riboswitch according to PDB ID: 6fz0<sup></sup>.</font><br>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
@@ -379,7 +379,7 @@ SAM-V riboswitch is the fifth known riboswitch to bind S-adenosyl methionine (SA
 </td>
 </tr></table><br>
 <p><br /></p>
-                
+                    
 > 3D visualisation
             
 <font >2.8-Å resolution crystal structure of an S-adenosylmethionine (SAM) riboswitch complexed with S-adenosylmethionine. SAM (shown in sticks) is labeled in red <sup>[3]</sup>.</font>

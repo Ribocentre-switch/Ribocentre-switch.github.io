@@ -266,7 +266,7 @@ permalink: /docs/Guanine/
 </td>
 </tr></table><br>
 <p><br /></p>
-                
+                    
 <font >Consensus sequence and structural model for guanine-II riboswitch<sup>[9]</sup>.</font><br>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
@@ -347,7 +347,7 @@ permalink: /docs/Guanine/
 </td>
 </tr></table><br>
 <p><br /></p>
-                
+                    
 > 3D visualisation
             
 <font >The overall structure of the guanine-I riboswitch was generated from PDB ID:1Y27 at 2.40Å resolution bound with guanine. Guanine (shown in sticks) is labeled in red <sup>[4]</sup>.</font>

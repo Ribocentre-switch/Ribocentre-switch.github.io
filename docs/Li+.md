@@ -211,7 +211,7 @@ In 2022, Breaker et al. identified <i>nhaA</i>-I motif and <i>nhaA</i>-II motif 
 </td>
 </tr></table><br>
 <p><br /></p>
-                
+                    
 > 3D visualisation
             
 > Binding pocket

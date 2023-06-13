@@ -299,7 +299,7 @@ Cobalamin riboswitches are broadly classified by the identity of the aptamer, bu
 </td>
 </tr></table><br>
 <p><br /></p>
-                
+                    
 <font >Left: Consensus sequence and secondary structure model for the AqCbll riboswitch. Right: Secondary structure depictions of the AqCbl riboswitch according to PDB ID: 4FRN. AqCbl is denoted in red. KL denotes a kissing-loop (KL) interaction between L5 of the receptor and L13 of the regulatory domain that instructs the expression machinery<sup>[5,7]</sup>.</font><br>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
@@ -380,7 +380,7 @@ Cobalamin riboswitches are broadly classified by the identity of the aptamer, bu
 </td>
 </tr></table><br>
 <p><br /></p>
-                
+                    
 > 3D visualisation
             
 <font >The overall structure of the <i>Tte</i>AdoCbl riboswitch was generated from PDB ID: 4GMA at 3.94 Å resolution bound with AdoCbl. AdoCbl (shown in sticks) is colored in red. KL denotes a kissing-loop (KL) interaction between L5 of the receptor and L13 of the regulatory domain that instructs the expression machinery <sup>[7]</sup>.</font>

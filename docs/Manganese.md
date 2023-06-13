@@ -247,7 +247,7 @@ permalink: /docs/Manganese/
 </td>
 </tr></table><br>
 <p><br /></p>
-                
+                    
 > 3D visualisation
             
 <font >The overall structure of the <i>yybP-ykoY</i> manganese riboswitch was generated from PDB ID: 4Y1I at 2.85 Å. The structure shows two series of coaxially stacked helices forming an overall hairpin shape, with the highly conserved L1 (yellow) and L3 (orange) docking together and binding two metal ions <sup>[3]</sup>.</font>

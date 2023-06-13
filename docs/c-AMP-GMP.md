@@ -255,7 +255,7 @@ permalink: /docs/c-AMP-GMP/
 </td>
 </tr></table><br>
 <p><br /></p>
-                
+                    
 > 3D visualisation
             
 <font >The overall structure of the c-GAMP riboswitch was generated from PDB ID: 4YAZ at  2.00 Å resolution bound with c-GAMP. c-GAMP (shown in sticks) is labeled in red <sup>[3]</sup>.</font>

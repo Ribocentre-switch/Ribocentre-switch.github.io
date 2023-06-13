@@ -258,7 +258,7 @@ permalink: /docs/Fluoride/
 </td>
 </tr></table><br>
 <p><br /></p>
-                
+                    
 > 3D visualisation
             
 <font >The overall structure of the fluoride riboswitch was generated from PDB ID: 4ENC at 2.3 Å resolution in the ligand bound state. The fluoride ion shown by a red ball and directly-coordinated metal ions shown by green balls <sup>[3]</sup>.</font>

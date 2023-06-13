@@ -247,7 +247,7 @@ permalink: /docs/ppGpp/
 </td>
 </tr></table><br>
 <p><br /></p>
-                
+                    
 > 3D visualisation
             
 <font >The overall structure of the ppGpp riboswitch was generated from PDB ID: 6DMC at 2.20 Å bound with ppGpp. ppGpp (shown in sticks) is labeled in red <sup>[5]</sup>.</font>

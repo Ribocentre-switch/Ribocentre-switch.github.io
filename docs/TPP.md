@@ -295,7 +295,7 @@ permalink: /docs/TPP/
 </td>
 </tr></table><br>
 <p><br /></p>
-                
+                    
 > 3D visualisation
             
 <font >The overall structure of the TPP riboswitch was generated from PDB ID: 2GDI at 2.05 Å resolution bound with TPP. TPP (shown in sticks) is colored in red <sup>[9]</sup>.</font>

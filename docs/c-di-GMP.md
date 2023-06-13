@@ -270,7 +270,7 @@ Cyclic di-GMP-II riboswitches (also c-di-GMP-II riboswitches) form a class of ri
 </td>
 </tr></table><br>
 <p><br /></p>
-                
+                    
 <font >Left: Consensus sequence and secondary structure model for the c-di-GMP-II riboswitch. Right: Secondary structure depictions of the c-di-GMP-II riboswitch according to PDB ID:3Q3Z<sup>[5]</sup>.</font><br>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
@@ -351,7 +351,7 @@ Cyclic di-GMP-II riboswitches (also c-di-GMP-II riboswitches) form a class of ri
 </td>
 </tr></table><br>
 <p><br /></p>
-                
+                    
 > 3D visualisation
             
 <font >Structure of a c-di-GMP riboswitch from V. cholerae <sup>[3]</sup>.</font>

@@ -222,7 +222,7 @@ permalink: /docs/NAD/
 </td>
 </tr></table><br>
 <p><br /></p>
-                
+                    
 > 3D visualisation
             
 <font >Crystal structure of the domain 1 of NAD<sup>+</sup>-I riboswitch <sup>[3]</sup>.</font>

@@ -296,7 +296,7 @@ Thus, when GlcN6P levels are high, the glmS ribozyme is activated and the mRNA t
 </td>
 </tr></table><br>
 <p><br /></p>
-                
+                    
 > 3D visualisation
             
 <font >The overall structure of the GlcN6P riboswitch was generated based on PDB ID: 2H0Z, which was resolved at 2.7 Å resolution and bound with glucose-6-phosphate (G6P) and Mg<sup>2+</sup>. In the structure model, glucose-6-phosphate (depicted in sticks) and Mg<sup>2+</sup> (depicted in sphere) were highlighted in red <sup>[4]</sup>.</font>

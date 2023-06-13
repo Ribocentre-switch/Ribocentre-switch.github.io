@@ -244,7 +244,7 @@ permalink: /docs/c-di-AMP/
 </td>
 </tr></table><br>
 <p><br /></p>
-                
+                    
 > 3D visualisation
             
 <font >Crystal structure of Bacillus subtilis cyclic-di-AMP riboswitch ydaO <sup>[6]</sup>.</font>

@@ -281,7 +281,7 @@ The genes regulated by ZMP/ZTP riboswitch relate to one-carbon metabolism. Most 
 </td>
 </tr></table><br>
 <p><br /></p>
-                
+                    
 > 3D visualisation
             
 <font >The overall structure of the ZTP riboswitch was generated from PDB ID: 4ZNP at 2.94 Å resolution bound with 5- amino-4-imidazole carboxamide ribose-5'- monophosphate (ZMP) and Mg<sup>2+</sup>. ZMP (shown in sticks) and Mg<sup>2+</sup> is labeled in red <sup>[3]</sup>.</font>

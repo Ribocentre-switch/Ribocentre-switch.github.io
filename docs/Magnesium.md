@@ -246,7 +246,7 @@ The Magnesium responsive RNA element, not to be confused with the completely dis
 </td>
 </tr></table><br>
 <p><br /></p>
-                
+                    
 <font >Left: Consensus sequence and secondary structure model for the Mg<sup>2+</sup>-II riboswitch<sup></sup>.</font><br>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
@@ -327,7 +327,7 @@ The Magnesium responsive RNA element, not to be confused with the completely dis
 </td>
 </tr></table><br>
 <p><br /></p>
-                
+                    
 > 3D visualisation
             
 <font >The structure of the M-box riboswitch aptamer domain was generated from PDB ID: 2QBZ at 2.60 Å resolution. Six magnesiums are labeled in red <sup>[3]</sup>.</font>

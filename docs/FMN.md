@@ -303,7 +303,7 @@ permalink: /docs/FMN/
 </td>
 </tr></table><br>
 <p><br /></p>
-                
+                    
 > 3D visualisation
             
 <font >The overall structure of the FMN riboswitch was generated from PDB ID: 3F2Q at 2.95 Å resolution bound with FMN. FMN (shown in sticks) is colored in red <sup>[6]</sup>.</font>

@@ -231,7 +231,7 @@ permalink: /docs/Xanthine/
 </td>
 </tr></table><br>
 <p><br /></p>
-                
+                    
 <font >(Left) Consensus sequence and secondary structure model for the xanthine-II riboswitch. (Right) Sequence and secondary structure model of the xanthine-II (92 allB RNA) riboswitch<sup>[4]</sup>.</font><br>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
@@ -312,7 +312,7 @@ permalink: /docs/Xanthine/
 </td>
 </tr></table><br>
 <p><br /></p>
-                
+                    
 > 3D visualisation
             
 <font >The overall structure of the xanthine-I riboswitch was generated from PDB ID: 7ELR at 2.66 Å resolution bound with xanthine. Xanthine (shown in sticks) is labeled in red <sup>[3]</sup>.</font>

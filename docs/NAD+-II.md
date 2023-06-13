@@ -231,7 +231,7 @@ permalink: /docs/NAD2/
 </td>
 </tr></table><br>
 <p><br /></p>
-                
+                    
 > 3D visualisation
             
 <font >Crystal structure of NAD<sup>+</sup>-II riboswitch <sup>[3]</sup>.</font>

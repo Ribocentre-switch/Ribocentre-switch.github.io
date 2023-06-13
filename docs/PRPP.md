@@ -239,7 +239,7 @@ permalink: /docs/PRPP/
 </td>
 </tr></table><br>
 <p><br /></p>
-                
+                    
 > 3D visualisation
             
 <font >The overall structure of the PRPP riboswitch was generated from PDB ID: 6CK5 at 2.49 Å resolution bound with PRPP. PRPP (shown in sticks) is labeled in red <sup>[4]</sup>.</font>

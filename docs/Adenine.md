@@ -234,7 +234,7 @@ permalink: /docs/Adenine/
 </td>
 </tr></table><br>
 <p><br /></p>
-                
+                    
 > 3D visualisation
             
 <font >The overall structure of the adenine riboswitch was generated from PDB ID: 1Y26 at 2.10 Å resolution bound with adenine. Adenine (shown in sticks) is labeled in red <sup>[4]</sup>.</font>

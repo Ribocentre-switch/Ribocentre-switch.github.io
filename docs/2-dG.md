@@ -243,7 +243,7 @@ permalink: /docs/2-dG/
 </td>
 </tr></table><br>
 <p><br /></p>
-                
+                    
 > 3D visualisation
             
 <font >The overall structure of the 2'-dG-I riboswitch was generated from PDB ID: 3SKI at 2.30 Å resolution bound with 2'-dG. 2'-dG (shown in sticks) is labeled in red <sup>[3]</sup>.</font>

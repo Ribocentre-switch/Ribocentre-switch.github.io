@@ -268,7 +268,7 @@ The <i>folE</i> RNA motif, now known as the THF-II riboswitch, is a conserved RN
 </td>
 </tr></table><br>
 <p><br /></p>
-                
+                    
 <font >Left: Consensus sequence and secondary structure model for the THF-II riboswitch. Right: Secondary structure depictions of the THF-II riboswitch according to PDB ID: 7WI9. Residues are numbered according to THF-II-loti<sub>62</sub> WT RNA. The ribosome binding site (RBS) is boxed in red<sup></sup>.</font><br>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
@@ -349,7 +349,7 @@ The <i>folE</i> RNA motif, now known as the THF-II riboswitch, is a conserved RN
 </td>
 </tr></table><br>
 <p><br /></p>
-                
+                    
 > 3D visualisation
             
 <font >The overall structure of the THF-I riboswitch was generated from PDB ID: 4LVV at 2.10 Å resolution bound with 6<i>S</i>-folinic acid. 6<i>S</i>-folinic acid (shown in sticks) is colored in red <sup>[4]</sup>.</font>

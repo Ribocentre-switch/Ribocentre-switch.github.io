@@ -208,7 +208,7 @@ A DUF1646 RNA occurs upstream of an operon in <i>Enterococcus</i> hirae that was
 </td>
 </tr></table><br>
 <p><br /></p>
-                
+                    
 > 3D visualisation
             
 > Binding pocket

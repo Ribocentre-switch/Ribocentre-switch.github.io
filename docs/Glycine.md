@@ -301,7 +301,7 @@ permalink: /docs/Glycine/
 </td>
 </tr></table><br>
 <p><br /></p>
-                
+                    
 > 3D visualisation
             
 <font >The overall structure of glycine riboswitch was generated from PDB ID:3OWZ at 2.95 Å resolution bound with glycine.  Glycine (shown in sticks) is labeled in red <sup>[4]</sup>.</font>
