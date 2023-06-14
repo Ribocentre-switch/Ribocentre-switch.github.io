@@ -81,16 +81,16 @@ permalink: /docs/SAM-III/
           
     <timelineli class="day">
      <div class="events">
-       <p >Discovered for the first time and named S<sub>MK</sub> box</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/16491091/" target="_blank">2006</a><sup>1</sup></div>
+       <p >Discovered and named S<sub>MK</sub> box, the S(MK) box represents a new SAM-binding riboswitch</p>
+       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/16491091/" target="_blank">2006</a><sup>[1]</sup></div>
      </div>
     </timelineli>
         
 
     <timelineli class="day">
      <div class="events">
-       <p >Translation control mechanism about SAM-III riboswitch</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/17360376/" target="_blank">2007</a><sup>2</sup></div>
+       <p >Translation control mechanism about S(MK)/SAM-III riboswitch</p>
+       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/17360376/" target="_blank">2007</a><sup>[2]</sup></div>
      </div>
     </timelineli>
         
@@ -98,7 +98,7 @@ permalink: /docs/SAM-III/
     <timelineli class="day">
      <div class="events">
        <p >Crystal structures of the SAM-III/S(MK) riboswitch</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/18806797/" target="_blank">2008</a><sup>3</sup></div>
+       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/18806797/" target="_blank">2008</a><sup>[3]</sup></div>
      </div>
     </timelineli>
         
@@ -106,7 +106,7 @@ permalink: /docs/SAM-III/
     <timelineli class="day">
      <div class="events">
        <p >Atomic level understanding of the ligand recognition mechanism of SAM-III riboswitch</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/20614931/" target="_blank">2010</a><sup>4</sup></div>
+       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/20614931/" target="_blank">2010</a><sup>[4]</sup></div>
      </div>
     </timelineli>
         
@@ -114,15 +114,15 @@ permalink: /docs/SAM-III/
     <timelineli class="day">
      <div class="events">
        <p >S(MK) box is a reversible riboswitch</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/21143313/" target="_blank">2010</a><sup>5</sup></div>
+       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/21143313/" target="_blank">2010</a><sup>[5]</sup></div>
      </div>
     </timelineli>
         
 
     <timelineli class="day">
      <div class="events">
-       <p >Probe the ligand-induced conformational switching mechanism</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/21549712/" target="_blank">2011</a><sup>6</sup></div>
+       <p >Probe the ligand-induced conformational switching mechanism of SAM-III riboswitch</p>
+       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/21549712/" target="_blank">2011</a><sup>[6]</sup></div>
      </div>
     </timelineli>
         
@@ -130,7 +130,7 @@ permalink: /docs/SAM-III/
     <timelineli class="day">
      <div class="events">
        <p >Provides a detailed understanding of folded structures of the SAM-III riboswitch in the presence and absence of the ligand, respectively</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/27249101/" target="_blank">2016</a><sup>7</sup></div>
+       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/27249101/" target="_blank">2016</a><sup>[8]</sup></div>
      </div>
     </timelineli>
         
@@ -138,7 +138,15 @@ permalink: /docs/SAM-III/
     <timelineli class="day">
      <div class="events">
        <p >Gaussian-accelerated molecular dynamics simulations were performed to decipher the identification mechanisms of SAM-III (SMK) on ligands SAM, SAH, and EEM</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/36440874/" target="_blank">2022</a><sup>9</sup></div>
+       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/36440874/" target="_blank">2022</a><sup>[10]</sup></div>
+     </div>
+    </timelineli>
+        
+
+    <timelineli class="day">
+     <div class="events">
+       <p >This review summarizes the current research progress on these SAM-related riboswitch families</p>
+       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/36459353/" target="_blank">2023</a><sup>[11]</sup></div>
      </div>
     </timelineli>
         
@@ -266,7 +274,7 @@ permalink: /docs/SAM-III/
                     
 > 3D visualisation
             
-<font >2.25-Å resolution crystal structure of an S-adenosylmethionine (SAM) riboswitch complexed with S-adenosylmethionine. SAM (shown in sticks) is labeled in red <sup>[3]</sup>.</font>
+<font >2.25-Å resolution crystal structure of an SAM-III riboswitch complexed with S-adenosylmethionine. The figure reference from PDB ID: 3E5C, SAM (shown in sticks) is labeled in red <sup>[3]</sup>.</font>
   <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
   <img src="/images/3D/SAM-III_riboswitch_3D.svg" alt="drawing" style="width:400px;height:400px;margin-top: 0px;margin-bottom: 0px;" >
@@ -452,18 +460,28 @@ Lu, C., Smith, A. M., Ding, F., Chowdhury, A., Henkin, T. M., & Ke, A.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/21549712/" target="_blank">J. Mol. Biol. 409, 786–799 (2011).</a>
 <br /><br /></p>
                 
-<p><strong>[7] Ligand-induced stabilization of a duplex-like architecture is crucial for the switching mechanism of the SAM-III riboswitch.</strong><br />
+<p><strong>[7] Common themes and differences in SAM recognition among SAM riboswitches.</strong><br />
+Price IR, Grigg JC, Ke A.<br />
+<a href="https://pubmed.ncbi.nlm.nih.gov/24863160/" target="_blank">Biochim Biophys Acta.1839(10):931-938.(2014)</a>
+<br /><br /></p>
+                
+<p><strong>[8] Ligand-induced stabilization of a duplex-like architecture is crucial for the switching mechanism of the SAM-III riboswitch.</strong><br />
 Suresh, G., Srinivasan, H., Nanda, S., & Priyakumar, U. D.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/27249101/" target="_blank">Biochemistry 55, 3349–3360 (2016).</a>
 <br /><br /></p>
                 
-<p><strong>[8] Reversible-switch mechanism of the SAM-III riboswitch.</strong><br />
+<p><strong>[9] Reversible-switch mechanism of the SAM-III riboswitch.</strong><br />
 Gong, S., Wang, Y., Wang, Z., Wang, Y., & Zhang, W.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/27934232/" target="_blank">J. Phys. Chem. B 120, 12305–12311 (2016).</a>
 <br /><br /></p>
                 
-<p><strong>[9] Decoding the identification mechanism of an SAM-III riboswitch on ligands through multiple independent gaussian-accelerated molecular dynamics simulations.</strong><br />
+<p><strong>[10] Decoding the identification mechanism of an SAM-III riboswitch on ligands through multiple independent gaussian-accelerated molecular dynamics simulations.</strong><br />
 Chen, J., Zeng, Q., Wang, W., Sun, H., & Hu, G.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/36440874/" target="_blank">J. Chem. Inf. Model. 62, 6118–6132 (2022).</a>
+<br /><br /></p>
+                
+<p><strong>[11] Structure-based insights into recognition and regulation of SAM-sensing riboswitches.</strong><br />
+Zheng L, Song Q, Xu X, Shen X, Li C, Li H, Chen H, Ren A.<br />
+<a href="https://pubmed.ncbi.nlm.nih.gov/36459353/" target="_blank">Sci China Life Sci.66(1):31-50 (2023).</a>
 <br /><br /></p>
                 

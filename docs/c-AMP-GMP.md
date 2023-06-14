@@ -106,7 +106,7 @@ permalink: /docs/c-AMP-GMP/
     <timelineli class="day">
      <div class="events">
        <p >Visualization of cAG signaling in live bacteria using the GEMM Ib riboswitch (cGAMP riboswitch)</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/25848022/" target="_blank">2015</a><sup>4</sup></div>
+       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/25848022/" target="_blank">2015</a><sup>[4]</sup></div>
      </div>
     </timelineli>
         
@@ -114,7 +114,7 @@ permalink: /docs/c-AMP-GMP/
     <timelineli class="day">
      <div class="events">
        <p >Adenine protonation enables cyclic-di-GMP binding to cyclic-GAMP sensing riboswitches</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/30006500/" target="_blank">2018</a><sup>5</sup></div>
+       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/30006500/" target="_blank">2018</a><sup>[5]</sup></div>
      </div>
     </timelineli>
         
@@ -122,7 +122,7 @@ permalink: /docs/c-AMP-GMP/
     <timelineli class="day">
      <div class="events">
        <p >Structural features of 3', 3'-cGAMP ligand-induced 3', 3'-cGAMP riboswitches and specificity of ligand recognition</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/30423927/" target="_blank">2018</a><sup>6</sup></div>
+       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/30423927/" target="_blank">2018</a><sup>[6]</sup></div>
      </div>
     </timelineli>
         
@@ -130,7 +130,7 @@ permalink: /docs/c-AMP-GMP/
     <timelineli class="day">
      <div class="events">
        <p >The Signaling Pathway That cGAMP Riboswitches Found</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/35163114/" target="_blank">2022</a><sup>7</sup></div>
+       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/35163114/" target="_blank">2022</a><sup>[7]</sup></div>
      </div>
     </timelineli>
         
@@ -146,7 +146,7 @@ permalink: /docs/c-AMP-GMP/
 <p><br /></p>
         
 <p class="header_box" id="description">Description</p>
-<font >Cyclic AMP-GMP riboswitches (also known as c-GAMP riboswitches) form a class of ribose switches that bind specifically to cyclic AMP-GMP. Previously annotated as the c-di-GMP-I ribose switch, its mutant cyclic AMP-GMP riboswitch is able to bind to a second messenger, c-AMP-GMP. The cyclic AMP-GMP ribose switch recognizes c-AMP-GMP and controls a group of genes important for utilizing iron oxide (III) in external power generation.Approximately 6,800 sequences conform to the c-di-GMP-I riboswitch class consensus , which was formerly called the Genes for the Environment, for Membranes and for Motility (GEMM) motif .Predominantly found in species of Bacillales, Clostridia, Deltaproteobacteria, and Gammaproteobacteria , the vastmajority have aptamer sequences and gene associations that aretypical for c-di-GMP binding and control<sup>[1-2, 4-5]</sup>.</font>
+<font >c-AMP-GMP riboswitches (also known as c-GAMP riboswitches) form a class of ribose switches that bind specifically to cyclic AMP-GMP. Previously annotated as the c-di-GMP-I ribose switch, its mutant cyclic AMP-GMP riboswitch is able to bind to a second messenger, c-AMP-GMP. The cyclic AMP-GMP ribose switch recognizes c-AMP-GMP and controls a group of genes important for utilizing iron oxide (III) in external power generation.Approximately 6,800 sequences conform to the c-di-GMP-I riboswitch class consensus , which was formerly called the Genes for the Environment, for Membranes and for Motility (GEMM) motif .Predominantly found in species of Bacillales, Clostridia, Deltaproteobacteria, and Gammaproteobacteria , the vastmajority have aptamer sequences and gene associations that aretypical for c-di-GMP binding and control<sup>[1-2, 4-5]</sup>.</font>
 <p><br /></p>
             
 > Gene association
@@ -155,7 +155,7 @@ permalink: /docs/c-AMP-GMP/
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;">
 <tr >
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
-  <img src="/images/gene_association/cGAMP_riboswitch_gene_association.svg" alt="drawing" style="width:800px;margin-top: 0px;margin-bottom: 0px;" >
+  <img src="/images/gene_association/c-AMP-GMP_riboswitch_gene_association.svg" alt="drawing" style="width:800px;margin-top: 0px;margin-bottom: 0px;" >
 </td>
 </tr>
 </table>
@@ -163,10 +163,10 @@ permalink: /docs/c-AMP-GMP/
                 
 > Gene regulation
             
-<font ><p>Putative mechanisms for regulation of gene expression by cGAMP riboswitches<sup>[4]</sup>.</p></font>
+<font ><p>Putative mechanisms for regulation of gene expression by c-AMP-GMP riboswitches<sup>[4]</sup>.</p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
-  <img src="/images/gene_regulation/cGAMP_riboswitch_gene_regulation.svg" alt="drawing" style="width:800px;margin-top: 0px;margin-bottom: 0px;" >
+  <img src="/images/gene_regulation/c-AMP-GMP_riboswitch_gene_regulation.svg" alt="drawing" style="width:800px;margin-top: 0px;margin-bottom: 0px;" >
   </td>
 </tr>
 </table>
@@ -210,7 +210,7 @@ permalink: /docs/c-AMP-GMP/
     <div class="main-container">
         <div class="zoom-wrapper1">
             <div class="zoom-area1">
-                <img src="/images/2D/c-GAMP_riboswitch_2D1.svg" alt="drawing" style="width:400px" />
+                <img src="/images/2D/c-AMP-GMP_riboswitch_2D1.svg" alt="drawing" style="width:400px" />
             </div>
         </div>
     </div>
@@ -239,7 +239,7 @@ permalink: /docs/c-AMP-GMP/
     <div class="main-container">
         <div class="zoom-wrapper2">
             <div class="zoom-area2">
-                <img src="/images/2D/c-GAMP_riboswitch_2D2.svg" alt="drawing" style="width:400px" />
+                <img src="/images/2D/c-AMP-GMP_riboswitch_2D2.svg" alt="drawing" style="width:400px" />
             </div>
         </div>
     </div>
@@ -261,7 +261,7 @@ permalink: /docs/c-AMP-GMP/
 <font >The overall structure of the c-GAMP riboswitch was generated from PDB ID: 4YAZ at  2.00 Å resolution bound with c-GAMP. c-GAMP (shown in sticks) is labeled in red <sup>[3]</sup>.</font>
   <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
-  <img src="/images/3D/c-GAMP_riboswitch_3D.svg" alt="drawing" style="width:400px;height:400px;margin-top: 0px;margin-bottom: 0px;" >
+  <img src="/images/3D/c-AMP-GMP_riboswitch_3D.svg" alt="drawing" style="width:400px;height:400px;margin-top: 0px;margin-bottom: 0px;" >
   </td>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
   <html lang="en">
@@ -386,8 +386,8 @@ permalink: /docs/c-AMP-GMP/
                 
 <font ><p>Left: Surface representation of the binding pocket of the c-GAMP riboswitch generated from PDB ID: 4YAZ. c-GAMP (shown in sticks) is labeled in red. Right: The hydrogen bonds of the binding sites of the c-GAMP riboswitch bound with c-GAMP<sup>[3]</sup>.<br /></p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
-<td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/c-GAMP_riboswitch_binding_pockets1.svg" alt="drawing" style="width:400px"  px="" /></td>
-<td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/c-GAMP_riboswitch_binding_pockets2.svg" alt="drawing" style="width:400px"  px="" /></td>
+<td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/c-AMP-GMP_riboswitch_binding_pockets1.svg" alt="drawing" style="width:400px"  px="" /></td>
+<td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/c-AMP-GMP_riboswitch_binding_pockets2.svg" alt="drawing" style="width:400px"  px="" /></td>
 </tr>
 </table>
 <p><br /></p>
@@ -400,7 +400,7 @@ permalink: /docs/c-AMP-GMP/
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;">
 <tr>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
-  <img src="/images/ligand_recognition/c-GAMP_riboswitch_ligand_recognition.svg" alt="drawing" style="width:800px;margin-top: 0px;margin-bottom: 0px;" >
+  <img src="/images/ligand_recognition/c-AMP-GMP_riboswitch_ligand_recognition.svg" alt="drawing" style="width:800px;margin-top: 0px;margin-bottom: 0px;" >
 </td>
 </tr>
 </table>

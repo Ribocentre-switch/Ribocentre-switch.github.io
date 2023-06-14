@@ -57,8 +57,6 @@ permalink: /
     background-color: #005826;
     }
     
-  
-    
       
 </style>
 </head>
@@ -102,15 +100,11 @@ permalink: /
 <script async src="https://cse.google.com/cse.js?cx=2dcb771063bc36a13"></script>
 <div class="gcse-searchbox-only" style="text-align: center;"></div>
 <p>
-    <b>Example:&nbsp;</b>
-    <a href="https://www.ribocentre.org/search.html?q=rna#gsc.tab=0&gsc.q=rna&gsc.page=1" target="_blank">RNA</a>&nbsp;&nbsp;
-    <a href="https://www.ribocentre.org/search.html?q=Ribo#gsc.tab=0&gsc.q=Ribo&gsc.page=1" target="_blank">Ribo</a>&nbsp;&nbsp;
-    <br>
     <b>Quick links:&nbsp;</b>
-    <a href="https://www.ribocentre.org/ribozyme">Ribozymes</a>&nbsp;&nbsp;
-    <a href="https://www.ribocentre.org/publications">Publications</a>&nbsp;&nbsp;
-    <a href="https://www.ribocentre.org/docs/VS-ribozyme.html" target="_blank">VS with 3D structures</a>&nbsp;&nbsp;
-    <a href="https://www.ribocentre.org/Helps">Teams</a>&nbsp;&nbsp;
+    <a href="https://riboswitch.ribocentre.org/riboswitches/">Riboswitches</a>&nbsp;&nbsp;
+    <a href="https://riboswitch.ribocentre.org/sequences/">Sequences</a>&nbsp;&nbsp;
+    <a href="https://riboswitch.ribocentre.org/docs/THF/" target="_blank">THF</a>&nbsp;&nbsp;
+    <a href="https://riboswitch.ribocentre.org/helps/">Teams</a>&nbsp;&nbsp;
 </p>
 </div>
 <br>

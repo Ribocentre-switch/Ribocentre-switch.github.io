@@ -123,7 +123,7 @@ A DUF1646 RNA occurs upstream of an operon in <i>Enterococcus</i> hirae that was
 </table>
 <p><br /></p>
                 
-> Gene regulation
+
             
 <p class="header_box" id="Structure and Ligand recognition">Structure and Ligand recognition</p>
 > 2D representation
@@ -178,40 +178,11 @@ A DUF1646 RNA occurs upstream of an operon in <i>Enterococcus</i> hirae that was
       </script>
 </td>
 <!--2D模2--------------------------->
-<td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
-<style>
-.zoom-wrapper2 {
-    width: 400px;
-    height: 400px;
-    border: 1px solid #fff;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-</style>
-    <div class="main-container">
-        <div class="zoom-wrapper2">
-            <div class="zoom-area2">
-                <img src="/images/2D/nan" alt="drawing" style="width:400px" />
-            </div>
-        </div>
-    </div>
-    <script src="https://www.ribocentre.org/js/panzoom.js"></script>
-    <script type='text/javascript'>
-      var zoomWraper2 = document.querySelector(".zoom-wrapper2");
-      var panzoom2 = Panzoom(document.querySelector(".zoom-area2"), {
-      maxScale: 6
-      });
-      zoomWraper2.addEventListener("wheel", panzoom2.zoomWithWheel);
-      panzoom2.zoom(0.8);
-    </script>
-</td>
+
 </tr></table><br>
 <p><br /></p>
                     
-> 3D visualisation
-            
-> Binding pocket
+
                 
 > Ligand recognition
             
@@ -219,11 +190,7 @@ A DUF1646 RNA occurs upstream of an operon in <i>Enterococcus</i> hirae that was
 <p>Na+ riboswitches exhibit dissociation constants in the low mM range, and strongly reject all other alkali and alkaline earth ions<sup>[2]</sup>.<br /><br /></p>
 </font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;">
-<tr>
-<td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
-  <img src="/images/ligand_recognition/nan" alt="drawing" style="width:800px;margin-top: 0px;margin-bottom: 0px;" >
-</td>
-</tr>
+
 </table>
 <p><br /></p>
                 

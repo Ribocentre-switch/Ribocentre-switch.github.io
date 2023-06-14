@@ -1,0 +1,526 @@
+I"S3<html>
+<h1 class="post-title" itemprop="name headline">Help</h1>
+<head>
+<style>
+  .header_box {
+    border: none;
+    background: #efefef;
+    font-size:24px
+  }
+  .box_style{
+    background: #f4f4f4;
+  }
+  .wrapper {
+    display: block;
+    position: relative;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    text-align: left;
+    word-wrap: break-word;
+    }
+  .sectiontitle {
+    display: block;
+    max-width: 100%;
+    margin: 0 auto ;
+    text-align: left;
+    background :#fff;
+    }
+  body {
+    padding-top: 70px;
+  }
+  .well {
+    max-width: 70%;
+    margin: 0 auto;
+    border-top: 3px solid black;
+    }
+  .smallwell {
+    max-width: 100%;
+    margin: 0 auto;
+    border-top: 3px solid black;
+    }
+  
+</style>
+</head>
+
+<body>
+
+<br />
+<div class="sectiontitle" style="border: 1px solid #C9C9C9; background-color: #fff;">
+<p class="header_box">About Riboswitch database</p>
+Ribocentre is designed to contain comprehensive information of all natural ribozymes. In addition to a brief introduction to ribozymes,on each ribozyme page, you'll see a timeline of vital breakthroughs in ribozyme research,representative structures and the chemical mechanism of this ribozyme. Besides, we provide multiple indexing and searching methods, you can index/search about the publications, structures, catalyses and applications of ribozymes that interest you. Users are welcomed to submit new ribozyme cases or related comments through the submission portal to help us improve our database.
+</div>
+<br />
+
+<div class="sectiontitle" style="border: 1px solid #C9C9C9; background-color: #fff;">  
+<p class="header_box">Usage</p>
+On <code class="language-plaintext highlighter-rouge"><font color="Gray"><a href="https://www.ribocentre.org/">Home</a></font></code> page, we borrow the introduction from wikipedia, hoping you could get some basic concepts of Riboswitches.
+
+Clink the Riboswitch name in <code class="language-plaintext highlighter-rouge"><font color="Gray"><a href="https://www.ribocentre.org/ribozyme">Riboswitches</a></font></code> page, and it would send ypu to a new page which shows the timeline, structure, binding pockets information and so on of the riboswitch you choosed. We hope you can find all the information available in this database. 
+
+The <code class="language-plaintext highlighter-rouge"><font color="Gray"><a href="https://www.ribocentre.org/catalysis">Binding pockets</a></font></code>page sums up information from binding pockets, which is proved by  publicated works and shows classification of the riboswitch.
+
+And on the <code class="language-plaintext highlighter-rouge"><font color="Gray"><a href="https://www.ribocentre.org/application">Applications</a></font></code> page, there are two examples displaying the application process of ribozymes in previous researches. This page will be timely updated.
+
+The <code class="language-plaintext highlighter-rouge"><font color="Gray"><a href="https://www.ribocentre.org/structure">Structures</a></font></code> page provides more details of ribozymes in different aspects and <code class="language-plaintext highlighter-rouge"><font color="Gray"><a href="https://www.ribocentre.org/publications">Publications</a></font></code> page provide the links of single riboswitch page/structure details/publications.<br /><br />
+
+
+On some pages, we use table-format to show the information of different riboswitch. You can click the <code class="language-plaintext highlighter-rouge"><font color="Gray">header</font></code> to rank the column information. You can use the <code class="language-plaintext highlighter-rouge"><font color="Gray">Search</font></code>to search for the riboswitch, years, and other information. Under the table, you could find how many items we provided in the left. The database also provide the function of  <code class="language-plaintext highlighter-rouge"><font color="Gray">Print</font></code> and download function when you click <code class="language-plaintext highlighter-rouge"><font color="Gray">CSV</font></code> <code class="language-plaintext highlighter-rouge"><font color="Gray">PDF</font></code> to chose the certain file format for your download.<br /><br />
+</div>
+
+<br /><br />
+<div class="sectiontitle" style="border: 1px solid #C9C9C9; background-color: #fff;">
+<p class="header_box">How to access Riboswitch data</p>
+The Riboswitch data can be accessed either by browsing or by searching. More details on how-to are provided below.
+</div>
+<br /><br />
+<div class="sectiontitle" style="border: 1px solid #C9C9C9; background-color: #fff;">
+<p class="header_box">How to make a feedback</p>
+You are welcomed to send us feedback and your ideas or suggestions will be greatly valued. We will continue to have our database improved to be fully functional and user-friendly.Your opinions will be fully considered. Click the <code class="language-plaintext highlighter-rouge"><font color="Gray"><a href="https://docs.google.com/spreadsheets/d/1dWzCMqP9_fmOxxBxpx6Rc0Ro2Her0YIn-07Rpx7fzEs/edit?usp=sharing" target="_blank">Submit</a></font></code> button or figures to record your suggestions and comments on Google sheet. We provide more than one entrence you can find to send your feedback.<br />
+
+<a href="https://docs.google.com/spreadsheets/d/1QWMju5Y1uzZ9tL10eDpD7j4IMYvkP9VWAkgVgvU8HqY/edit?usp=sharing" target="_blank"><img src="/images/clikme.png" alt="drawing" style="width:400px;display:block;margin:0 auto;" /></a>
+</div>
+
+<br /><br />
+<div class="sectiontitle" style="border: 1px solid #C9C9C9; background-color: #fff;">
+<p class="header_box">Group Members</p>
+
+
+
+
+
+
+<div class="row">
+
+
+<div class="col-sm-6 clearfix">
+  <img src="http://localhost:4001/images/teampic/David.jpg" class="img-responsive" width="25%" style="float: left" />
+  <h4><a href="Email:d.m.j.lilley@dundee.ac.uk">David Lilley/李大卫</a></h4>
+  <i><a href="http://www.dundee.ac.uk/biocentre/nasg/index.php/"> Professor David Lilley FRS FRSE FRSC </a> <!--<br>email: <d.m.j.lilley@dundee.ac.uk></i> -->
+  <ul style="overflow: hidden">
+
+  
+
+  
+  <li> Professor of Molecular Biology<a href="https://www.dundee.ac.uk/"> University of Dundee, UK </a> </li>
+  <li> Director of the Cancer Research UK <a href="https://lifesci.dundee.ac.uk/research/nasrg/"> Nucleic Acid Structure Research Group </a> </li>
+  
+
+  
+
+  
+
+  
+
+  </ul>
+&lt;/div&gt;
+
+
+
+
+
+
+
+
+
+
+
+<div class="col-sm-6 clearfix">
+  <img src="http://localhost:4001/images/teampic/Chichau_photo.jpg" class="img-responsive" width="25%" style="float: left" />
+  <h4><a href="Email:miao_zhichao@gzlab.ac.cn">Zhichao (Chichau) Miao/苗智超</a></h4>
+  <i>Principal Investigator of Guangzhou Lab <!--<br>email: <miao_zhichao@gzlab.ac.cn></i> -->
+  <ul style="overflow: hidden">
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li> PhD  <a href="http://english.ibp.cas.cn/">Institute of Biophysics, CAS</a> </li>
+  <li> Chercheur at <a href="https://ibmc.cnrs.fr/en/">IBMC, CNRS</a> </li>
+  <li> PostDoc at <a href="https://www.ebi.ac.uk/">EMBL-EBI</a> </li>
+  <li> Visiting Scientist at <a href="https://www.sanger.ac.uk/">Wellcome Sanger Institute</a> </li>
+  <li> Senior Bioinformatician at <a href="https://www.ebi.ac.uk/">EMBL-EBI</a> </li>
+  
+
+  </ul>
+&lt;/div&gt;
+
+
+
+
+&lt;/div&gt;
+
+
+
+
+
+
+
+<div class="row">
+
+
+<div class="col-sm-6 clearfix">
+  <img src="http://localhost:4001/images/teampic/Lin Huang.jpg" class="img-responsive" width="25%" style="float: left" />
+  <h4><a href="Email:huanglin36@mail.sysu.edu.cn">Lin Huang/黄林</a></h4>
+  <i>Principal Investigator of Sun Yat-sen University <!--<br>email: <huanglin36@mail.sysu.edu.cn></i> -->
+  <ul style="overflow: hidden">
+
+  
+
+  
+
+  
+  <li> PhD <a href="https://en.whu.edu.cn/">Wuhan University</a> </li>
+  <li> Postdoctoral research assistant at <a href="https://www.dundee.ac.uk/">University of Dundee, UK</a> </li>
+  <li> Senior research associate at <a href="https://www.dundee.ac.uk/">University of Dundee, UK</a> </li>
+  
+
+  
+
+  
+
+  </ul>
+&lt;/div&gt;
+
+
+
+
+
+
+
+
+
+
+
+<div class="col-sm-6 clearfix">
+  <img src="http://localhost:4001/images/teampic/Jie Deng.jpg" class="img-responsive" width="25%" style="float: left" />
+  <h4>Jie Deng</h4>
+  <i>Graduate student <!--<br>email: <dengj77@mail2.sysu.edu.cn></i> -->
+  <ul style="overflow: hidden">
+
+  
+
+  
+  <li> Master at <a href="http://www.sysu.edu.cn/">Sun Yat-sen University</a> </li>
+  <li> B.S. at <a href="https://www.hunnu.edu.cn/ ">Hunan Normal University, China</a> </li>
+  
+
+  
+
+  
+
+  
+
+  </ul>
+&lt;/div&gt;
+
+
+
+
+&lt;/div&gt;
+
+
+
+
+
+
+
+<div class="row">
+
+
+<div class="col-sm-6 clearfix">
+  <img src="http://localhost:4001/images/teampic/yaohuang.jpg" class="img-responsive" width="25%" style="float: left" />
+  <h4>Yaohuang Shi</h4>
+  <i>Graduate student <!--<br>email: <shiyh@shanghaitech.edu.cn></i> -->
+  <ul style="overflow: hidden">
+
+  
+
+  
+
+  
+  <li> PhD at <a href="https://www.shanghaitech.edu.cn/">ShanghaiTech University</a> </li>
+  <li> Master at <a href="https://www.shanghaitech.edu.cn/">ShanghaiTech University</a> </li>
+  <li> B.S. at <a href="https://www.htu.edu.cn/">Henan Normal University, China</a> </li>
+  
+
+  
+
+  
+
+  </ul>
+&lt;/div&gt;
+
+
+
+
+
+
+
+
+
+
+
+<div class="col-sm-6 clearfix">
+  <img src="http://localhost:4001/images/teampic/Xuemei Peng.jpg" class="img-responsive" width="25%" style="float: left" />
+  <h4>Xuemei Peng</h4>
+  <i>Graduate student <!--<br>email: <pengxm25@mail2.sysu.edu.cn></i> -->
+  <ul style="overflow: hidden">
+
+  
+
+  
+
+  
+  <li> PhD at <a href="http://www.sysu.edu.cn/">Sun Yat-sen University</a> </li>
+  <li> Master at <a href=" http://www.smu.edu.cn/"> Southern Medical University </a> </li>
+  <li> B.S. at <a href=" https://www.cqmu.edu.cn/"> Chongqing Medical University, China</a> </li>
+  
+
+  
+
+  
+
+  </ul>
+&lt;/div&gt;
+
+
+
+
+&lt;/div&gt;
+
+
+
+
+
+
+
+<div class="row">
+
+
+<div class="col-sm-6 clearfix">
+  <img src="http://localhost:4001/images/teampic/Yuanlin He.jpg" class="img-responsive" width="25%" style="float: left" />
+  <h4>Yuanlin He</h4>
+  <i>Graduate student <!--<br>email: <yuanlin2022607@163.com></i> -->
+  <ul style="overflow: hidden">
+
+  
+
+  
+  <li> Master at <a href="http://www.sysu.edu.cn/">Sun Yat-sen University</a> </li>
+  <li> B.S. at <a href="https://new.gzhmu.edu.cn/">Guangzhou Medical University, China</a> </li>
+  
+
+  
+
+  
+
+  
+
+  </ul>
+&lt;/div&gt;
+
+
+
+
+
+
+
+
+
+
+
+<div class="col-sm-6 clearfix">
+  <img src="http://localhost:4001/images/teampic/Mengxiao Li.jpg" class="img-responsive" width="25%" style="float: left" />
+  <h4>Mengxiao Li</h4>
+  <i>Research assistant <!--<br>email: <limx86@mail2.sysu.edu.cn></i> -->
+  <ul style="overflow: hidden">
+
+  
+
+  
+  <li> Master at <a href="https://www.nankai.edu.cn/">Nankai University</a> </li>
+  <li> B.S. at <a href="https://www.xxmu.edu.cn/">Xinxiang Medical University, China</a> </li>
+  
+
+  
+
+  
+
+  
+
+  </ul>
+&lt;/div&gt;
+
+
+
+
+&lt;/div&gt;
+
+
+
+
+
+
+
+<div class="row">
+
+
+<div class="col-sm-6 clearfix">
+  <img src="http://localhost:4001/images/teampic/Wenjian Liao.jpg" class="img-responsive" width="25%" style="float: left" />
+  <h4>Wenjian Liao</h4>
+  <i>Graduate student <!--<br>email: <liaowj7@mail2.sysu.edu.cn></i> -->
+  <ul style="overflow: hidden">
+
+  
+
+  
+  <li> Master at <a href="http://www.sysu.edu.cn/">Sun Yat-sen University</a> </li>
+  <li> B.S. at <a href="http://www.sysu.edu.cn/">Sun Yat-sen University, China</a> </li>
+  
+
+  
+
+  
+
+  
+
+  </ul>
+&lt;/div&gt;
+
+
+
+
+
+
+
+
+
+
+
+<div class="col-sm-6 clearfix">
+  <img src="http://localhost:4001/images/teampic/Xiaoxue Chen.jpg" class="img-responsive" width="25%" style="float: left" />
+  <h4>Xiaoxue Chen</h4>
+  <i>Postdoctoral Researcher <!--<br>email: <chenxx57@mail2.sysu.edu.cn></i> -->
+  <ul style="overflow: hidden">
+
+  
+
+  
+  <li> PhD at <a href="http://www.sysu.edu.cn/">Sun Yat-sen University</a> </li>
+  <li> B.S. at <a href="https://www.gdpu.edu.cn/ ">Guangdong Pharmaceutical University, China</a> </li>
+  
+
+  
+
+  
+
+  
+
+  </ul>
+&lt;/div&gt;
+
+
+
+
+&lt;/div&gt;
+
+
+
+
+
+
+
+<div class="row">
+
+
+<div class="col-sm-6 clearfix">
+  <img src="http://localhost:4001/images/teampic/Xiaowei Lin.jpg" class="img-responsive" width="25%" style="float: left" />
+  <h4>XiaoWei Lin</h4>
+  <i>Graduate student <!--<br>email: <linxw7@mail2.sysu.edu.cn></i> -->
+  <ul style="overflow: hidden">
+
+  
+
+  
+  <li> Master at <a href="http://www.sysu.edu.cn/">Sun Yat-sen University</a> </li>
+  <li> B.S. at <a href="http://www.sysu.edu.cn/">Sun Yat-sen University, China</a> </li>
+  
+
+  
+
+  
+
+  
+
+  </ul>
+&lt;/div&gt;
+
+
+
+
+
+
+
+
+
+
+
+<div class="col-sm-6 clearfix">
+  <img src="http://localhost:4001/images/teampic/Yuanyi Huang.jpg" class="img-responsive" width="25%" style="float: left" />
+  <h4>Yuanyin Huang</h4>
+  <i>Research assistant <!--<br>email: <huangyuanyin2022@163.com></i> -->
+  <ul style="overflow: hidden">
+
+  
+  <li> B.S. at <a href="https://new.gzhmu.edu.cn/ ">Guangzhou Medical University, China</a> </li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  </ul>
+&lt;/div&gt;
+
+
+
+
+&lt;/div&gt;
+
+
+
+
+
+
+
+
+<!--## Graduate Students-->
+
+
+
+
+<br /><br />
+&lt;/div&gt;
+
+&lt;/body&gt;
+
+&lt;/html&gt;
+
+
+
+
+
+
+
+</i></div></i></div></div></i></div></i></div></div></i></div></i></div></div></i></div></i></div></div></i></div></i></div></div></i></div></i></div></div></div></body></html>
+:ET

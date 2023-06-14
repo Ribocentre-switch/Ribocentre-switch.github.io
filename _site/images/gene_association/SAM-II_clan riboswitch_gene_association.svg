@@ -23,16 +23,15 @@
 <text transform="matrix(1 0 0 1 304.06 44.125)" class="st2 st3">homoserine</text>
 <line class="st1" x1="108.4" y1="58.6" x2="108.4" y2="105.5"/>
 <text transform="matrix(1 0 0 1 605.4443 111.4649)" class="st2 st3">S-Adenosylmethionine</text>
-<text transform="matrix(0.8779 0 -0.4789 0.8779 242.51 31.4744)" class="st2 st4">met</text>
-<text transform="matrix(0.8779 0 -0.4789 0.8779 268.9192 31.4744)" class="st2 st4">A</text>
+<text transform="matrix(0.8779 0 -0.4789 0.8779 242.5093 31.4745)" class="st2 st4">metA</text>
 <text transform="matrix(1 0 0 1 488.6 48.285)" class="st2 st3">O-acetyl homoserine</text>
-<text transform="matrix(0.867 0 -0.4983 0.867 56.4008 86.7546)" class="st2 st5">metZ</text>
+<text transform="matrix(0.867 0 -0.4983 0.867 56.4004 86.755)" class="st2 st5">metZ</text>
 <text transform="matrix(1 0 0 1 151.04 112.385)" class="st2 st3">L-homocysteine</text>
 <g>
 	<line class="st1" x1="132.9" y1="105.5" x2="107.6" y2="105.5"/>
 	<path d="M139,105.5c-3.1-1.1-6-2.7-8.6-4.8l1.7,4.8l-1.7,4.8C133,108.2,135.9,106.6,139,105.5z"/>
 </g>
-<text transform="matrix(0.867 0 -0.4983 0.867 434.9702 31.2649)" class="st2 st5">metX</text>
+<text transform="matrix(0.867 0 -0.4983 0.867 434.9703 31.2653)" class="st2 st5">metX</text>
 <text transform="matrix(1 0 0 1 432.677 111.4646)" class="st2 st3">L-methionine</text>
 <g>
 	<line class="st0" x1="297.2" y1="105.5" x2="425" y2="105.5"/>
@@ -41,8 +40,8 @@
 		<path d="M425,105.5c-6.5,1.1-12.5,2.7-17.9,4.8l3.6-4.8l-3.6-4.8C412.5,102.8,418.5,104.4,425,105.5z"/>
 	</g>
 </g>
-<text transform="matrix(0.867 0 -0.4983 0.867 307.7282 123.0601)" class="st2 st5">metE</text>
-<text transform="matrix(0.867 0 -0.4983 0.867 540.2104 123.0602)" class="st2 st5">metK</text>
+<text transform="matrix(0.867 0 -0.4983 0.867 307.7279 123.0597)" class="st2 st5">metE</text>
+<text transform="matrix(0.867 0 -0.4983 0.867 540.2098 123.0606)" class="st2 st5">metK</text>
 <g>
 	<line class="st0" x1="540.2" y1="105.5" x2="600.4" y2="105.5"/>
 	<g>
@@ -52,7 +51,7 @@
 </g>
 <rect x="247.2" y="46.8" class="st6" width="21.1" height="7.7"/>
 <rect x="13" y="165.8" class="st6" width="21.1" height="7.6"/>
-<text transform="matrix(1.04 0 0 1 48.6499 176.305)" class="st2 st3">SAM-II riboswitch</text>
+<text transform="matrix(1.04 0 0 1 48.6499 176.3052)" class="st2 st3">SAM-II riboswitch</text>
 <rect x="440.6" y="50.6" class="st6" width="21.1" height="7.7"/>
 <rect x="366.6" y="115.8" class="st6" width="21.1" height="7.7"/>
 <rect x="557.6" y="91.6" class="st6" width="21.1" height="7.7"/>
@@ -68,7 +67,6 @@
 <rect x="67.1" y="93.1" class="st6" width="21.1" height="7.7"/>
 <line class="st0" x1="570.1" y1="56.3" x2="640.8" y2="-14.4"/>
 <line class="st0" x1="565" y1="70.1" x2="635.8" y2="-0.6"/>
-<line class="st0" x1="244.5" y1="73.7" x2="315.2" y2="3"/>
 <line class="st1" x1="545.3" y1="76.8" x2="247.2" y2="76.8"/>
 <line class="st1" x1="545.6" y1="58.4" x2="545.6" y2="77"/>
 <g>
@@ -80,9 +78,9 @@
 	</g>
 </g>
 <rect x="317.1" y="64.9" class="st7" width="21.1" height="7.7"/>
-<text transform="matrix(0.867 0 -0.4983 0.867 352.1595 72.8691)" class="st2 st5">ahcY</text>
+<text transform="matrix(0.867 0 -0.4983 0.867 352.1593 72.8694)" class="st2 st5">ahcY</text>
 <rect x="366.6" y="91.6" class="st7" width="21.1" height="7.7"/>
-<text transform="matrix(0.867 0 -0.4983 0.867 313.1783 100.7749)" class="st2 st5">bhmT</text>
+<text transform="matrix(0.867 0 -0.4983 0.867 313.1784 100.7751)" class="st2 st5">bhmT</text>
 <rect x="242.5" y="167" class="st7" width="21.1" height="7.7"/>
-<text transform="matrix(1.04 0 0 1 275.9891 177.1362)" class="st2 st3">SAM-V riboswitch</text>
+<text transform="matrix(1.04 0 0 1 275.9893 177.1362)" class="st2 st3">SAM-V riboswitch</text>
 </svg>

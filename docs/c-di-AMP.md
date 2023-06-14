@@ -164,7 +164,7 @@ permalink: /docs/c-di-AMP/
 <p class="header_box" id="Structure and Ligand recognition">Structure and Ligand recognition</p>
 > 2D representation
         
-<font >Left: Consensus sequence and secondary structure model for the c-di-AMP riboswitch. Right: Secondary structure depictions of the c-di-AMP riboswitch according to PDB ID:4W90<sup>[3]</sup>.</font><br>
+<font >Left: Consensus sequence and secondary structure model for the c-di-AMP riboswitch. Right: Secondary structure depictions of the c-di-AMP riboswitch according to PDB ID:4W90 is updating<sup>[3]</sup>.</font><br>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
 <head>

@@ -1,12 +1,4 @@
 
-- name: <a href="Email:d.m.j.lilley@dundee.ac.uk">David Lilley/李大卫</a>
-  photo: David.jpg
-  info: <a href="http://www.dundee.ac.uk/biocentre/nasg/index.php/"> Professor David Lilley FRS FRSE FRSC </a>
-  email: d.m.j.lilley@dundee.ac.uk
-  number_educ: 2
-  education1: Professor of Molecular Biology<a href="https://www.dundee.ac.uk/"> University of Dundee, UK </a>
-  education2: Director of the Cancer Research UK <a href="https://lifesci.dundee.ac.uk/research/nasrg/"> Nucleic Acid Structure Research Group </a>
-
 - name: <a href="Email:miao_zhichao@gzlab.ac.cn">Zhichao (Chichau) Miao/苗智超</a>
   photo: Chichau_photo.jpg
   info: Principal Investigator of Guangzhou Lab

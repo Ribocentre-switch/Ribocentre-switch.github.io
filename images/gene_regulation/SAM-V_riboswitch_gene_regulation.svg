@@ -11,98 +11,92 @@
 	.st5{fill:#FF0B0C;stroke:#FF0B0C;stroke-miterlimit:10;}
 	.st6{fill:#FFFFFF;}
 	.st7{font-family:'ArialMT';}
-	.st8{font-size:9.37px;}
-	.st9{font-size:11.7px;}
-	.st10{font-size:12px;}
+	.st8{font-size:11.1503px;}
+	.st9{font-size:13.9231px;}
+	.st10{font-size:21px;}
 	.st11{fill:none;stroke:#C50018;stroke-width:2;}
 	.st12{fill:#241E1C;}
-	.st13{font-size:13.38px;}
+	.st13{font-size:16.6601px;}
 	.st14{fill:#251E1C;}
-	.st15{font-size:20px;}
+	.st15{font-size:14.2801px;}
 </style>
-<line class="st0" x1="483.4" y1="99.8" x2="504.4" y2="99.8"/>
-<line class="st0" x1="529.3" y1="250.3" x2="529.3" y2="267.4"/>
-<line class="st0" x1="514" y1="249.9" x2="513.9" y2="267"/>
-<line class="st0" x1="543.2" y1="250.8" x2="543.1" y2="267.8"/>
-<line class="st0" x1="465" y1="204.5" x2="484.7" y2="204.6"/>
-<line class="st0" x1="465" y1="214.4" x2="484.7" y2="214.4"/>
-<line class="st0" x1="465" y1="225.1" x2="484.7" y2="225.2"/>
-<line class="st0" x1="465" y1="236.1" x2="484.7" y2="236.1"/>
-<line class="st0" x1="485.2" y1="181.8" x2="504.9" y2="181.9"/>
-<line class="st0" x1="485.2" y1="168" x2="504.9" y2="168"/>
-<line class="st0" x1="484.7" y1="152.4" x2="504.4" y2="152.4"/>
-<line class="st0" x1="485.2" y1="195.7" x2="504.9" y2="195.7"/>
-<line class="st0" x1="464.8" y1="152.4" x2="484.6" y2="152.4"/>
-<line class="st0" x1="464.8" y1="168" x2="484.6" y2="168"/>
-<line class="st0" x1="464.6" y1="92.1" x2="483.3" y2="92.1"/>
-<line class="st0" x1="465" y1="106.7" x2="482.9" y2="106.7"/>
-<line class="st0" x1="464.2" y1="99.4" x2="483.2" y2="99.4"/>
-<line class="st0" x1="483.4" y1="106.7" x2="504.4" y2="106.8"/>
-<line class="st0" x1="483.7" y1="88.4" x2="504.9" y2="88.4"/>
-<line class="st0" x1="483.3" y1="79.7" x2="504" y2="79.7"/>
-<line class="st0" x1="289.5" y1="138.9" x2="307.2" y2="138.9"/>
-<line class="st0" x1="289.5" y1="125.4" x2="307.2" y2="125.4"/>
-<line class="st0" x1="289.3" y1="174.4" x2="307" y2="174.5"/>
-<line class="st0" x1="289.5" y1="162.9" x2="307.2" y2="163"/>
-<line class="st0" x1="289.5" y1="198.1" x2="307.2" y2="198.1"/>
-<line class="st0" x1="276.6" y1="216" x2="290" y2="216"/>
-<line class="st0" x1="276.6" y1="223.9" x2="290" y2="223.9"/>
-<line class="st0" x1="276.4" y1="232.1" x2="289.9" y2="232.1"/>
-<line class="st0" x1="327" y1="245.9" x2="327" y2="262.7"/>
-<line class="st0" x1="314.7" y1="262.7" x2="314.8" y2="245.4"/>
-<line class="st0" x1="338.5" y1="246" x2="338.5" y2="263.5"/>
-<line class="st0" x1="349.4" y1="246.2" x2="349.3" y2="262.8"/>
-<line class="st0" x1="289.3" y1="186.9" x2="307" y2="187"/>
-<path class="st1" d="M290,240.6c0-43.3-0.3-86.6-0.4-129.9"/>
-<path class="st1" d="M307.5,245.4c0-61.2-0.3-122.4-0.4-183.6"/>
-<path class="st1" d="M289.8,110.7c-3.6-7.2-9.6-12.9-16.8-16.4c-9.7-4.5-23.8-5.5-34,2s-11.2,20.3-11.7,26.3
-	c-1.5,19,8.8,34.3,15.9,45.1c5.6,8.4,8,9.4,22.5,29c4.6,6.2,8.4,11.4,10.8,14.9"/>
-<line class="st1" x1="276.6" y1="211.6" x2="276.7" y2="240.6"/>
-<path class="st1" d="M290,240.3c-2.1,7,0.6,14.6,6.5,18.9c6.7,4.9,14.8,3.6,16,3.4"/>
-<path class="st1" d="M361.8,246c-18.3-0.2-36.5-0.7-54.8-1"/>
-<path class="st1" d="M361.8,263.7c-16.6-0.1-33.3-0.6-49.9-0.9"/>
-<path class="st1" d="M361.8,246c0.5,0,1,0,1.5,0.1"/>
-<path class="st2" d="M366.2,246.9c3.4,1.3,5.7,4.5,5.8,8.1c0,4.1-3,7.5-7.2,8.6"/>
-<path class="st1" d="M363.3,264c-0.5,0.1-1,0.1-1.5,0.1"/>
-<path class="st1" d="M484.8,145.3c0.1,35.1,0.4,70.2,0.4,105.3c0,0-8,16.3,10,16.6c22.5,0.3,44.9,0.8,67.4,0.9"/>
-<path class="st1" d="M504.9,249.9c0-64-0.3-128-0.4-192"/>
-<path class="st1" d="M464.9,248.7c0-57.6-0.3-115.3-0.4-172.9c0,0,9.5-10.9,18.8,0v37.4"/>
-<path class="st1" d="M562.6,250.4c-19.4-0.2-38.9-0.7-58.3-1"/>
-<path class="st1" d="M562,250.5c0.5,0,1,0,1.5,0.1"/>
-<path class="st3" d="M566.5,251.3c3.7,1.4,6.3,4.5,6.3,8c0,4-3.3,7.4-7.8,8.5"/>
-<path class="st1" d="M563.5,268.1c-0.5,0.1-1,0.1-1.5,0.1"/>
-<line class="st4" x1="359.2" y1="150.1" x2="400.3" y2="150.1"/>
-<line class="st4" x1="398.3" y1="152.3" x2="400.3" y2="150.1"/>
-<line class="st4" x1="398.3" y1="147.8" x2="400.3" y2="150.1"/>
-<path class="st4" d="M366.1,137.6c0,6.9,10.4,12.5,23.4,12.5"/>
-<path class="st5" d="M394.6,127.5c0,4.6-5.7,8.3-12.8,8.3c-7.1,0-12.8-3.7-12.8-8.3s5.7-8.3,12.8-8.3
-	C388.9,119.2,394.6,122.9,394.6,127.5z"/>
-<text transform="matrix(1.01 0 0 1 372.0352 130.1504)" class="st6 st7 st8">SAM</text>
-<path class="st1" d="M369,65.9"/>
-<path class="st5" d="M502.6,128.4c0,5.7-8,10.4-17.9,10.4s-17.9-4.6-17.9-10.4s8-10.4,17.9-10.4S502.6,122.7,502.6,128.4z"/>
-<text transform="matrix(1.13 0 0 1 471.1348 131.71)" class="st6 st7 st9">SAM</text>
-<text transform="matrix(1 0 0 1 249.195 229.66)" class="st7 st10">P1</text>
-<text transform="matrix(1 0 0 1 314.745 170.04)" class="st7 st10">P2</text>
-<text transform="matrix(1 0 0 1 323.485 282.55)" class="st7 st10">P3</text>
-<text transform="matrix(1 0 0 1 438.745 227.97)" class="st7 st10">P1</text>
-<text transform="matrix(1 0 0 1 513.935 164.19)" class="st7 st10">P2</text>
-<text transform="matrix(1 0 0 1 511.795 88.42)" class="st7 st10">P2a</text>
-<text transform="matrix(1 0 0 1 524.355 288.66)" class="st7 st10">P3</text>
-<line class="st11" x1="307" y1="71" x2="307.3" y2="96.3"/>
-<line class="st11" x1="504" y1="65.9" x2="504.3" y2="91.3"/>
-<text transform="matrix(1 0 0 1 315.645 84.75)" class="st7 st10">SD</text>
-<text transform="matrix(1 0 0 1 515.335 70.96)" class="st7 st10">SD</text>
-<text transform="matrix(1.01 0 0 1 301.1348 313.6104)" class="st12 st7 st13">‘ON</text>
-<text transform="matrix(1.01 0 0 1 324.4155 313.6104)" class="st12 st7 st13">’</text>
-<text transform="matrix(1.01 0 0 1 517.6445 313.6104)" class="st12 st7 st13">‘OFF</text>
-<text transform="matrix(1.01 0 0 1 547.6729 313.6104)" class="st12 st7 st13">’</text>
-<text transform="matrix(1 0 0 1 334.3999 382.06)" class="st14 st7 st15">SAM-V Riboswith</text>
-<text transform="matrix(1.01 0 0 1 266.5952 251.6602)" class="st14 st7 st8">5</text>
-<text transform="matrix(1.01 0 0 1 271.8569 251.6602)" class="st14 st7 st8">’</text>
-<text transform="matrix(1.01 0 0 1 459.2051 262.6699)" class="st14 st7 st8">5</text>
-<text transform="matrix(1.01 0 0 1 464.4668 262.6699)" class="st14 st7 st8">’</text>
-<text transform="matrix(1.01 0 0 1 303.585 54.9902)" class="st14 st7 st8">3</text>
-<text transform="matrix(1.01 0 0 1 308.8472 54.9902)" class="st14 st7 st8">’</text>
-<text transform="matrix(1.01 0 0 1 502.5752 49.4902)" class="st14 st7 st8">3</text>
-<text transform="matrix(1.01 0 0 1 507.8369 49.4902)" class="st14 st7 st8">’</text>
+<line class="st0" x1="496.1" y1="90.7" x2="521.3" y2="90.7"/>
+<line class="st0" x1="551.1" y1="269.8" x2="551.1" y2="290.1"/>
+<line class="st0" x1="532.7" y1="269.3" x2="532.6" y2="289.6"/>
+<line class="st0" x1="567.7" y1="270.3" x2="567.6" y2="290.6"/>
+<line class="st0" x1="474.1" y1="215.2" x2="497.7" y2="215.4"/>
+<line class="st0" x1="474.1" y1="227" x2="497.7" y2="227"/>
+<line class="st0" x1="474.1" y1="239.8" x2="497.7" y2="239.9"/>
+<line class="st0" x1="474.1" y1="252.9" x2="497.7" y2="252.9"/>
+<line class="st0" x1="498.3" y1="188.2" x2="521.9" y2="188.4"/>
+<line class="st0" x1="498.3" y1="171.8" x2="521.9" y2="171.8"/>
+<line class="st0" x1="497.7" y1="153.3" x2="521.3" y2="153.3"/>
+<line class="st0" x1="498.3" y1="204.8" x2="521.9" y2="204.8"/>
+<line class="st0" x1="473.8" y1="153.3" x2="497.6" y2="153.3"/>
+<line class="st0" x1="473.8" y1="171.8" x2="497.6" y2="171.8"/>
+<line class="st0" x1="473.6" y1="81.5" x2="496" y2="81.5"/>
+<line class="st0" x1="474.1" y1="98.9" x2="495.5" y2="98.9"/>
+<line class="st0" x1="473.1" y1="90.2" x2="495.9" y2="90.2"/>
+<line class="st0" x1="496.1" y1="98.9" x2="521.3" y2="99"/>
+<line class="st0" x1="496.5" y1="77.1" x2="521.9" y2="77.1"/>
+<line class="st0" x1="496" y1="66.7" x2="520.8" y2="66.7"/>
+<line class="st0" x1="264" y1="137.2" x2="285.2" y2="137.2"/>
+<line class="st0" x1="264" y1="121.1" x2="285.2" y2="121.1"/>
+<line class="st0" x1="263.8" y1="179.4" x2="284.9" y2="179.5"/>
+<line class="st0" x1="264" y1="165.7" x2="285.2" y2="165.9"/>
+<line class="st0" x1="264" y1="207.6" x2="285.2" y2="207.6"/>
+<line class="st0" x1="248.5" y1="228.9" x2="264.6" y2="228.9"/>
+<line class="st0" x1="248.5" y1="238.3" x2="264.6" y2="238.3"/>
+<line class="st0" x1="248.3" y1="248.1" x2="264.5" y2="248.1"/>
+<line class="st0" x1="308.9" y1="264.5" x2="308.9" y2="284.5"/>
+<line class="st0" x1="294.2" y1="284.5" x2="294.3" y2="263.9"/>
+<line class="st0" x1="322.6" y1="264.6" x2="322.6" y2="285.5"/>
+<line class="st0" x1="335.7" y1="264.9" x2="335.6" y2="284.6"/>
+<line class="st0" x1="263.8" y1="194.3" x2="284.9" y2="194.4"/>
+<path class="st1" d="M264.6,258.2c0-51.5-0.4-103.1-0.5-154.6"/>
+<path class="st1" d="M285.5,263.9c0-72.8-0.4-145.7-0.5-218.5"/>
+<path class="st1" d="M264.3,103.6c-4.3-8.6-11.5-15.4-20.1-19.5c-11.6-5.4-28.5-6.5-40.7,2.4s-13.4,24.2-14,31.3
+	c-1.8,22.6,10.5,40.8,19,53.7c6.7,10,9.6,11.2,26.9,34.5c5.5,7.4,10.1,13.6,12.9,17.7"/>
+<line class="st1" x1="248.5" y1="223.7" x2="248.7" y2="258.2"/>
+<path class="st1" d="M264.6,257.9c-2.5,8.3,0.7,17.4,7.8,22.5c8,5.8,17.7,4.3,19.2,4"/>
+<path class="st1" d="M350.5,264.6c-21.9-0.2-43.7-0.8-65.6-1.2"/>
+<path class="st1" d="M350.5,285.7c-19.9-0.1-39.9-0.7-59.7-1.1"/>
+<path class="st1" d="M350.5,264.6c0.6,0,1.2,0,1.8,0.1"/>
+<path class="st2" d="M355.8,265.7c4.1,1.5,6.8,5.4,6.9,9.6c0,4.9-3.6,8.9-8.6,10.2"/>
+<path class="st1" d="M352.3,286.1c-0.6,0.1-1.2,0.1-1.8,0.1"/>
+<path class="st1" d="M497.8,144.8c0.1,41.8,0.5,83.5,0.5,125.3c0,0-9.6,19.4,12,19.8c26.9,0.4,53.8,1,80.7,1.1"/>
+<path class="st1" d="M521.9,269.3c0-76.2-0.4-152.3-0.5-228.5"/>
+<path class="st1" d="M474,267.8c0-68.5-0.4-137.2-0.5-205.8c0,0,11.4-13,22.5,0v44.5"/>
+<path class="st1" d="M590.9,269.9c-23.2-0.2-46.6-0.8-69.8-1.2"/>
+<path class="st1" d="M590.2,270c0.6,0,1.2,0,1.8,0.1"/>
+<path class="st3" d="M595.6,270.9c4.4,1.7,7.5,5.4,7.5,9.5c0,4.8-4,8.8-9.3,10.1"/>
+<path class="st1" d="M592,290.9c-0.6,0.1-1.2,0.1-1.8,0.1"/>
+<line class="st4" x1="347.4" y1="150.5" x2="396.6" y2="150.5"/>
+<line class="st4" x1="394.2" y1="153.1" x2="396.6" y2="150.5"/>
+<line class="st4" x1="394.2" y1="147.8" x2="396.6" y2="150.5"/>
+<path class="st4" d="M355.7,135.6c0,8.2,12.5,14.9,28,14.9"/>
+<path class="st5" d="M389.8,123.6c0,5.5-6.8,9.9-15.3,9.9s-15.3-4.4-15.3-9.9c0-5.5,6.8-9.9,15.3-9.9S389.8,118.1,389.8,123.6z"/>
+<text transform="matrix(1.0161 0 0 1 362.7959 126.7744)" class="st6 st7 st8">SAM</text>
+<path class="st1" d="M359.2,50.3"/>
+<path class="st5" d="M519.1,124.7c0,6.8-9.6,12.4-21.4,12.4c-11.9,0-21.4-5.5-21.4-12.4s9.6-12.4,21.4-12.4
+	C509.5,112.3,519.1,117.9,519.1,124.7z"/>
+<text transform="matrix(1.1368 0 0 1 481.4326 128.6299)" class="st6 st7 st9">SAM</text>
+<text transform="matrix(1.006 0 0 1 215.7383 245.1914)" class="st7 st10">P1</text>
+<text transform="matrix(1.006 0 0 1 295.2891 174.2432)" class="st7 st10">P2</text>
+<text transform="matrix(1.006 0 0 1 304.6748 308.1299)" class="st7 st10">P3</text>
+<text transform="matrix(1.006 0 0 1 442.6572 243.1797)" class="st7 st10">P1</text>
+<text transform="matrix(1.006 0 0 1 532.6709 167.2812)" class="st7 st10">P2</text>
+<text transform="matrix(1.006 0 0 1 530.1094 106.3383)" class="st7 st10">P2a</text>
+<text transform="matrix(1.006 0 0 1 545.1455 315.4014)" class="st7 st10">P3</text>
+<line class="st11" x1="284.9" y1="56.4" x2="285.3" y2="86.5"/>
+<line class="st11" x1="520.8" y1="50.3" x2="521.1" y2="80.5"/>
+<text transform="matrix(1.006 0 0 1 295.2891 72.7476)" class="st7 st10">SD</text>
+<text transform="matrix(1.006 0 0 1 532.7 66.7)" class="st7 st10">SD</text>
+<text transform="matrix(1.0161 0 0 1 277.918 345.0928)" class="st12 st7 st13">‘ON’</text>
+<text transform="matrix(1.0161 0 0 1 537.1113 345.0928)" class="st12 st7 st13">‘OFF’</text>
+<text transform="matrix(1 0 0 1 334.3999 382.06)" class="st14 st7 st10">SAM-V Riboswith</text>
+<text transform="matrix(1.0161 0 0 1 236.5693 271.3711)" class="st14 st7 st15">5’</text>
+<text transform="matrix(1.0161 0 0 1 467.1504 284.4727)" class="st14 st7 st15">5’</text>
+<text transform="matrix(1.0161 0 0 1 280.8506 37.333)" class="st14 st7 st15">3’</text>
+<text transform="matrix(1.0161 0 0 1 519.0713 30.7881)" class="st14 st7 st15">3’</text>
 </svg>

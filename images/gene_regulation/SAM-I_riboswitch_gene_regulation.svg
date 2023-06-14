@@ -18,7 +18,7 @@
 	.st12{fill:#FFFFFF;}
 	.st13{fill:none;}
 	.st14{fill:#FFFFFF;stroke:#251E1C;stroke-miterlimit:10;}
-	.st15{font-size:30.2px;}
+	.st15{font-size:21px;}
 	.st16{font-size:12.08px;}
 </style>
 <line class="st0" x1="248.6" y1="189.3" x2="262" y2="189.3"/>
@@ -50,8 +50,7 @@
 <line class="st7" x1="439" y1="228.5" x2="442.2" y2="231.9"/>
 <path class="st7" d="M386,213c0,10.4,17.2,18.9,38.4,18.9"/>
 <g>
-	<text transform="matrix(1.1 0 0 1 251.6797 358.3252)" class="st8 st2 st9">‘ON</text>
-	<text transform="matrix(1.1 0 0 1 289.9502 358.3252)" class="st8 st2 st9">’</text>
+	<text transform="matrix(1.1 0 0 1 251.6797 358.3252)" class="st8 st2 st9">‘ON’</text>
 </g>
 <g>
 	<text transform="matrix(1.1 0 0 1 182.1299 338.2754)" class="st1 st2 st10">5</text>
@@ -126,8 +125,7 @@
 <polygon class="st6" points="619.7,182.7 626.6,182.9 626.2,195.7 619.3,195.5 "/>
 <line class="st4" x1="607.6" y1="205.8" x2="607.6" y2="306.7"/>
 <g>
-	<text transform="matrix(1.1 0 0 1 577.8398 358.9854)" class="st8 st2 st9">‘OFF</text>
-	<text transform="matrix(1.1 0 0 1 627.2002 358.9854)" class="st8 st2 st9">’</text>
+	<text transform="matrix(1.1 0 0 1 577.8398 358.9854)" class="st8 st2 st9">‘OFF’</text>
 </g>
 <g>
 	<text transform="matrix(1.1 0 0 1 522.46 297.8955)" class="st1 st2 st10">5</text>
@@ -182,12 +180,12 @@
 <line class="st0" x1="592.2" y1="240.4" x2="606.9" y2="240.6"/>
 <line class="st0" x1="592.4" y1="250.6" x2="606.9" y2="250.6"/>
 <line class="st0" x1="592.4" y1="262.5" x2="606.9" y2="262.5"/>
-<text transform="matrix(1.09 0 0 1 312 69.0547)" class="st1 st2 st15">SAM-I Riboswith</text>
+<text transform="matrix(1.09 0 0 1 338.2998 384.4395)" class="st1 st2 st15">SAM-I Riboswith</text>
 <text transform="matrix(1.09 0 0 1 356.6504 327.0654)" class="st2 st3">UUU</text>
 <text transform="matrix(1.09 0 0 1 547.1904 327.0654)" class="st2 st3">UUU</text>
 <text transform="matrix(1.09 0 0 1 274.9102 292.9355)" class="st2 st16">Anti-terminator</text>
-<text transform="matrix(1.09 0 0 1 619.8 291.5222)" class="st2 st16">Anti-terminator</text>
-<text transform="matrix(1.1 0 0 1 495.3 206.4064)" class="st1 st2 st3">P2</text>
+<text transform="matrix(1.09 0 0 1 619.7998 291.5225)" class="st2 st16">Anti-terminator</text>
+<text transform="matrix(1.1 0 0 1 495.2998 206.4062)" class="st1 st2 st3">P2</text>
 <polygon class="st12" points="262.2,192.1 262.1,196.9 248.5,196.9 248.6,192.1 "/>
 <polygon class="st12" points="602.6,151.9 602.5,156.7 588.9,156.7 589,151.9 "/>
 </svg>

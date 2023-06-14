@@ -28,8 +28,8 @@
 <polygon class="st1" points="158,118.3 157.8,137.7 140.3,137.7 140.5,118.2 "/>
 <line class="st0" x1="141.8" y1="140.3" x2="142" y2="115.6"/>
 <line class="st0" x1="151.5" y1="140.3" x2="151.8" y2="115.6"/>
-<path class="st2" d="M141.3,238.9c-0.1-10.3,8.9-18.7,20.1-18.7s20.3,8.4,20.3,18.8s-8.9,18.7-20.1,18.7
-	C150.4,257.7,141.4,249.3,141.3,238.9z"/>
+<path class="st2" d="M141.3,238.9c-0.1-10.3,8.9-18.7,20.1-18.7s20.3,8.4,20.3,18.8s-8.9,18.7-20.1,18.7S141.4,249.3,141.3,238.9z"
+	/>
 <line class="st2" x1="173.2" y1="224.3" x2="172.8" y2="155.2"/>
 <line class="st2" x1="149.9" y1="224.3" x2="149.6" y2="167.7"/>
 <path class="st2" d="M70.3,106.9c11,0,19.8,9.5,19.7,21.1c-0.1,11.6-9.1,21-20.1,21s-19.8-9.5-19.7-21.1S59.3,106.9,70.3,106.9z"/>
@@ -77,23 +77,21 @@
 <line class="st5" x1="429.5" y1="175.9" x2="433" y2="179.7"/>
 <path class="st5" d="M372.8,158.3c0,11.9,18.4,21.5,41.1,21.5"/>
 <path class="st6" d="M422.9,141c0,7.9-10.1,14.3-22.6,14.3s-22.6-6.4-22.6-14.3s10.1-14.3,22.6-14.3S422.9,133.1,422.9,141z"/>
-<text transform="matrix(1.03 0 0 1 383.2153 145.5049)" class="st3 st7 st8">SAM</text>
+<text transform="matrix(1.03 0 0 1 383.2148 145.5049)" class="st3 st7 st8">SAM</text>
 <path class="st6" d="M665.5,116c0,7.9-10.1,14.3-22.6,14.3s-22.5-6.4-22.5-14.3s10.1-14.3,22.5-14.3S665.5,108.1,665.5,116z"/>
-<text transform="matrix(1.03 0 0 1 625.8052 120.5249)" class="st3 st7 st8">SAM</text>
+<text transform="matrix(1.03 0 0 1 625.8047 120.5249)" class="st3 st7 st8">SAM</text>
 <path class="st9" d="M324.5,289.3c0,1.5,1.9,2.8,4.1,2.8"/>
 <text transform="matrix(1 0 0 1 324.455 320.015)" class="st10 st7 st11">SAM-VI Riboswith</text>
-<text transform="matrix(1.01 0 0 1 157.9951 286.0351)" class="st12 st7 st11">‘ON</text>
-<text transform="matrix(1.01 0 0 1 194.5268 286.0351)" class="st12 st7 st11">’</text>
-<text transform="matrix(1.01 0 0 1 617.9849 286.0351)" class="st12 st7 st11">‘OFF</text>
-<text transform="matrix(1.01 0 0 1 665.1021 286.0351)" class="st12 st7 st11">’</text>
-<text transform="matrix(1.01 0 0 1 131.8852 168.9848)" class="st10 st7 st13">5</text>
-<text transform="matrix(1.01 0 0 1 141.9951 168.9848)" class="st10 st7 st13">’</text>
-<text transform="matrix(1.01 0 0 1 526.5952 247.9951)" class="st10 st7 st13">5</text>
-<text transform="matrix(1.01 0 0 1 536.7056 247.9951)" class="st10 st7 st13">’</text>
-<text transform="matrix(1.01 0 0 1 264.6147 187.1948)" class="st10 st7 st13">3</text>
-<text transform="matrix(1.01 0 0 1 274.7251 187.1948)" class="st10 st7 st13">’</text>
-<text transform="matrix(1.01 0 0 1 650.3354 242.645)" class="st10 st7 st13">3</text>
-<text transform="matrix(1.01 0 0 1 660.4448 242.645)" class="st10 st7 st13">’</text>
+<text transform="matrix(1.01 0 0 1 157.9951 286.0352)" class="st12 st7 st11">‘ON’</text>
+<text transform="matrix(1.01 0 0 1 617.9854 286.0352)" class="st12 st7 st11">‘OFF’</text>
+<text transform="matrix(1.01 0 0 1 131.8853 168.9849)" class="st10 st7 st13">5</text>
+<text transform="matrix(1.01 0 0 1 141.9951 168.9849)" class="st10 st7 st13">’</text>
+<text transform="matrix(1.01 0 0 1 526.5957 247.9951)" class="st10 st7 st13">5</text>
+<text transform="matrix(1.01 0 0 1 536.7061 247.9951)" class="st10 st7 st13">’</text>
+<text transform="matrix(1.01 0 0 1 263.9756 172.6027)" class="st10 st7 st13">3</text>
+<text transform="matrix(1.01 0 0 1 274.086 170.3975)" class="st10 st7 st13">’</text>
+<text transform="matrix(1.01 0 0 1 650.335 242.6445)" class="st10 st7 st13">3</text>
+<text transform="matrix(1.01 0 0 1 660.4453 242.6445)" class="st10 st7 st13">’</text>
 <path class="st4" d="M269.3,141.6v-15.1c0,0-5-10,28.1-6.6"/>
 <text transform="matrix(1 0 0 1 593.175 191.025)" class="st7 st11">P1</text>
 <text transform="matrix(1 0 0 1 565.885 91.395)" class="st7 st11">P2</text>

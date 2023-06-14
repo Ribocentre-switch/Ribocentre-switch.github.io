@@ -341,7 +341,7 @@ permalink: /docs/ppGpp/
   start_residue_number:51, 
   end_residue_number:68, 
   color:{r:255,g:135,b:10}
-}，
+},
 {
   struct_asym_id: 'A', 
   start_residue_number:69, 

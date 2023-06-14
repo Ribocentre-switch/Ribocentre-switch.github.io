@@ -22,7 +22,6 @@
 	.st16{font-size:15.21px;}
 	.st17{letter-spacing:-1;}
 	.st18{fill:#241E1C;}
-	.st19{font-size:21.72px;}
 </style>
 <line class="st0" x1="626.3" y1="273.9" x2="681.2" y2="273.9"/>
 <line class="st0" x1="625.8" y1="257" x2="681.2" y2="257"/>
@@ -46,9 +45,9 @@
 <line class="st4" x1="437.7" y1="208.3" x2="441.1" y2="212.2"/>
 <path class="st4" d="M381,190.7c0,11.9,18.4,21.5,41.1,21.5"/>
 <path class="st5" d="M467,173.4c0,7.9-21,14.3-47,14.3s-47-6.4-47-14.3s21-14.3,47-14.3S467,165.6,467,173.4z"/>
-<text transform="matrix(1.03 0 0 1 384.3655 177.9452)" class="st3 st6 st7">SAM/SAH</text>
+<text transform="matrix(1.03 0 0 1 384.3652 177.9453)" class="st3 st6 st7">SAM/SAH</text>
 <path class="st5" d="M675,189.1c0,7.9-18.9,14.3-42.2,14.3s-42.2-6.4-42.2-14.3s18.9-14.2,42.2-14.2S675,181.3,675,189.1z"/>
-<text transform="matrix(0.93 0 0 1 600.7346 193.6551)" class="st3 st6 st7">SAM/SAH</text>
+<text transform="matrix(0.93 0 0 1 600.7344 193.6553)" class="st3 st6 st7">SAM/SAH</text>
 <line class="st2" x1="625.3" y1="204.9" x2="626" y2="310.4"/>
 <line class="st2" x1="680.9" y1="145.9" x2="681.8" y2="310.4"/>
 <line class="st0" x1="587" y1="135.5" x2="642" y2="135.5"/>
@@ -77,35 +76,33 @@
 <line class="st0" x1="645.4" y1="117.9" x2="676" y2="118"/>
 <text transform="matrix(1 0 0 1 335.6644 388.1097)" class="st15 st6 st14">SAM/SAH Riboswith</text>
 <g>
-	<text transform="matrix(1.04 0 0 1 123.3371 310.4148)" class="st15 st6 st16">5</text>
-	<text transform="matrix(1.04 0 0 1 132.1477 310.4148)" class="st15 st6 st16 st17">’</text>
+	<text transform="matrix(1.04 0 0 1 123.3369 310.415)" class="st15 st6 st16">5</text>
+	<text transform="matrix(1.04 0 0 1 132.1475 310.415)" class="st15 st6 st16 st17">’</text>
 </g>
 <g>
-	<text transform="matrix(1.04 0 0 1 357.6816 315.0945)" class="st15 st6 st16">3</text>
-	<text transform="matrix(1.04 0 0 1 366.4911 315.0945)" class="st15 st6 st16 st17">’</text>
+	<text transform="matrix(1.04 0 0 1 357.6816 315.0947)" class="st15 st6 st16">3</text>
+	<text transform="matrix(1.04 0 0 1 366.4912 315.0947)" class="st15 st6 st16 st17">’</text>
 </g>
 <g>
-	<text transform="matrix(1.04 0 0 1 220.1742 353.0707)" class="st18 st6 st19">‘ON</text>
-	<text transform="matrix(1.04 0 0 1 259.1244 353.0707)" class="st18 st6 st19 st17">’</text>
+	<text transform="matrix(1.04 0 0 1 220.1738 353.0703)" class="st18 st6 st14">‘ON’</text>
 </g>
 <g>
-	<text transform="matrix(1.04 0 0 1 582.4945 353.0707)" class="st18 st6 st19">‘OFF</text>
-	<text transform="matrix(1.04 0 0 1 632.7347 353.0707)" class="st18 st6 st19 st17">’</text>
+	<text transform="matrix(1.04 0 0 1 582.4941 353.0703)" class="st18 st6 st14">‘OFF’</text>
 </g>
 <g>
-	<text transform="matrix(1.04 0 0 1 573.6852 28.0227)" class="st15 st6 st16">3</text>
-	<text transform="matrix(1.04 0 0 1 582.4948 28.0227)" class="st15 st6 st16 st17">’</text>
+	<text transform="matrix(1.04 0 0 1 573.6855 28.0225)" class="st15 st6 st16">3</text>
+	<text transform="matrix(1.04 0 0 1 582.4951 28.0225)" class="st15 st6 st16 st17">’</text>
 </g>
 <g>
-	<text transform="matrix(1.04 0 0 1 628.3298 322.4431)" class="st15 st6 st16">3</text>
-	<text transform="matrix(1.04 0 0 1 637.1394 322.4431)" class="st15 st6 st16 st17">’</text>
+	<text transform="matrix(1.04 0 0 1 628.3301 322.4434)" class="st15 st6 st16">3</text>
+	<text transform="matrix(1.04 0 0 1 637.1396 322.4434)" class="st15 st6 st16 st17">’</text>
 </g>
 <g>
-	<text transform="matrix(1.04 0 0 1 564.8748 221.9252)" class="st15 st6 st16">5</text>
-	<text transform="matrix(1.04 0 0 1 573.6853 221.9252)" class="st15 st6 st16 st17">’</text>
+	<text transform="matrix(1.04 0 0 1 564.875 221.9248)" class="st15 st6 st16">5</text>
+	<text transform="matrix(1.04 0 0 1 573.6855 221.9248)" class="st15 st6 st16 st17">’</text>
 </g>
 <g>
-	<text transform="matrix(1.04 0 0 1 688.1503 322.4431)" class="st15 st6 st16">5</text>
-	<text transform="matrix(1.04 0 0 1 696.9609 322.4431)" class="st15 st6 st16 st17">’</text>
+	<text transform="matrix(1.04 0 0 1 688.1504 322.4434)" class="st15 st6 st16">5</text>
+	<text transform="matrix(1.04 0 0 1 696.9609 322.4434)" class="st15 st6 st16 st17">’</text>
 </g>
 </svg>

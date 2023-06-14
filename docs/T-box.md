@@ -2,7 +2,7 @@
 layout: post
 title:  "T-box"
 date:   2023-05-15 00:00:00
-author: Xiaoxue Chen, Mengxiao Li
+author: Xiaoxue Chen, Zhizhong Lu, Mengxiao Li
 permalink: /docs/T-box/
 ---
 <p style="font-size: 24px"><strong>Rfam ID: [RF00230](https://rfam.xfam.org/family/RF00230,target="_blank")</strong> (T-box leader)<br /></p>
@@ -492,24 +492,6 @@ permalink: /docs/T-box/
   start_residue_number:122, 
   end_residue_number:126, 
   color:{r:255,g:223,b:92}
-},
-{
-  struct_asym_id: 'A', 
-  start_residue_number:127, 
-  end_residue_number:133, 
-  color:{r:255,g:170,b:220}
-},
-{
-  struct_asym_id: 'A', 
-  start_residue_number:79, 
-  end_residue_number:97, 
-  color:{r:255,g:223,b:92}
-},
-{
-  struct_asym_id: 'A', 
-  start_residue_number:98, 
-  end_residue_number:118, 
-  color:{r:255,g:170,b:220}
 },
 {
   struct_asym_id: 'A', 

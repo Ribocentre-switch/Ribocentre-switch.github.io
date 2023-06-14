@@ -82,7 +82,7 @@ permalink: /docs/SAM-SAH/
     <timelineli class="day">
      <div class="events">
        <p >Discovery of SAM-SAH riboswitch</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/20230605/" target="_blank">2010</a><sup>1</sup></div>
+       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/20230605/" target="_blank">2010</a><sup>[1]</sup></div>
      </div>
     </timelineli>
         
@@ -90,15 +90,15 @@ permalink: /docs/SAM-SAH/
     <timelineli class="day">
      <div class="events">
        <p >The NMR resonance assignment of the SAM/SAH binding riboswitch (env9b) in complex with SAH</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/30051308/" target="_blank">2018</a><sup>3</sup></div>
+       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/30051308/" target="_blank">2018</a><sup>[3]</sup></div>
      </div>
     </timelineli>
         
 
     <timelineli class="day">
      <div class="events">
-       <p >NMR structure of the SAM/SAH-binding riboswitch</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/30590743/" target="_blank">2019</a><sup>4</sup></div>
+       <p >NMR structure of the SAM/SAH binding riboswitch</p>
+       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/30590743/" target="_blank">2019</a><sup>[4]</sup></div>
      </div>
     </timelineli>
         
@@ -106,7 +106,7 @@ permalink: /docs/SAM-SAH/
     <timelineli class="day">
      <div class="events">
        <p >Crystal structure of the SAM/SAH riboswitch</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/32520325/" target="_blank">2020</a><sup>5</sup></div>
+       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/32520325/" target="_blank">2020</a><sup>[5]</sup></div>
      </div>
     </timelineli>
         
@@ -114,7 +114,15 @@ permalink: /docs/SAM-SAH/
     <timelineli class="day">
      <div class="events">
        <p >Mg <sup>2+</sup> plays vital roles in SAM/SAH riboswitch function.</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/36945415/" target="_blank">2023</a><sup>6</sup></div>
+       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/36945415/" target="_blank">2023</a><sup>[6]</sup></div>
+     </div>
+    </timelineli>
+        
+
+    <timelineli class="day">
+     <div class="events">
+       <p >This review summarizes the current research progress on these SAM-related riboswitch families</p>
+       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/36459353/" target="_blank">2023</a><sup>[7]</sup></div>
      </div>
     </timelineli>
         
@@ -242,7 +250,7 @@ permalink: /docs/SAM-SAH/
                     
 > 3D visualisation
             
-<font >2.2-Å resolution crystal structure of an S-adenosylmethionine (SAM) riboswitch complexed with S-adenosylmethionine. SAM (shown in sticks) is labeled in red <sup>[5]</sup>.</font>
+<font >2.2-Å resolution crystal structure of an SAM-SAH riboswitch complexed with S-adenosylmethionine. The figure reference from PDB ID: 6YMM, SAM (shown in sticks) is labeled in red <sup>[5]</sup>.</font>
   <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
   <img src="/images/3D/SAM-SAH_riboswitch_3D.svg" alt="drawing" style="width:400px;height:400px;margin-top: 0px;margin-bottom: 0px;" >
@@ -294,31 +302,31 @@ permalink: /docs/SAM-SAH/
             <button onclick="
               var selectSections1 = [
                 {
-  struct_asym_id: 'C', 
+  struct_asym_id: 'A', 
   start_residue_number:16, 
   end_residue_number:23, 
   color:{r:9,g:254,b:254}
 },
 {
-  struct_asym_id: 'D', 
+  struct_asym_id: 'B', 
   start_residue_number:43, 
   end_residue_number:51, 
   color:{r:9,g:254,b:254}
 },
 {
-  struct_asym_id: 'C', 
+  struct_asym_id: 'A', 
   start_residue_number:7, 
   end_residue_number:15, 
   color:{r:255,g:135,b:10}
 },
 {
-  struct_asym_id: 'C', 
+  struct_asym_id: 'A', 
   start_residue_number:24, 
   end_residue_number:32, 
   color:{r:255,g:135,b:10}
 }, 
 {
-  struct_asym_id: 'C', 
+  struct_asym_id: 'A', 
   start_residue_number:101, 
   end_residue_number:101, 
   color:{r:255,g:11,b:12}
@@ -403,5 +411,10 @@ Huang, L., Liao, T. W., Wang, J., Ha, T., & Lilley, D. M. J.<br />
 <p><strong>[6] Magnesium ions mediate ligand binding and conformational transition of the SAM/SAH riboswitch.</strong><br />
 Hu, G., & Zhou, H. X.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/36945415/" target="_blank">BioRxiv : the preprint server for biology, 2023.03.12.532287(2023).</a>
+<br /><br /></p>
+                
+<p><strong>[7] Structure-based insights into recognition and regulation of SAM-sensing riboswitches.</strong><br />
+Zheng L, Song Q, Xu X, Shen X, Li C, Li H, Chen H, Ren A.<br />
+<a href="https://pubmed.ncbi.nlm.nih.gov/36459353/" target="_blank">Sci China Life Sci.66(1):31-50 (2023).</a>
 <br /><br /></p>
                 

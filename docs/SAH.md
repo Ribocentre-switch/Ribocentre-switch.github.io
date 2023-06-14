@@ -111,6 +111,14 @@ permalink: /docs/SAH/
     </timelineli>
         
 
+    <timelineli class="day">
+     <div class="events">
+       <p >This review summarizes the current research progress on these SAM-related riboswitch families</p>
+       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/36459353/" target="_blank">2023</a><sup>[5]</sup></div>
+     </div>
+    </timelineli>
+        
+
   </ul>
   <div class="year year--end">
     <div class="inner">
@@ -234,7 +242,7 @@ permalink: /docs/SAH/
                     
 > 3D visualisation
             
-<font >2.18-Å resolution crystal structure of an S-adenosylmethionine (SAM) riboswitch complexed with S-adenosylmethionine. SAM (shown in sticks) is labeled in red <sup>[3]</sup>.</font>
+<font >2.18-Å resolution crystal structure of an SAH riboswitch complexed with S-adenosylmethionine. The figure reference from PDB ID: 3NPQ, SAM (shown in sticks) is labeled in red <sup>[3]</sup>.</font>
   <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
   <img src="/images/3D/SAH_riboswitch_3D.svg" alt="drawing" style="width:400px;height:400px;margin-top: 0px;margin-bottom: 0px;" >
@@ -397,5 +405,10 @@ Edwards, A. L., Reyes, F. E., Héroux, A., & Batey, R. T.<br />
 <p><strong>[4] Stimulation of -1 programmed ribosomal frameshifting by a metabolite-responsive RNA pseudoknot.</strong><br />
 Chou, M. Y., Lin, S. C., & Chang, K. Y.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/20435898/" target="_blank">RNA 16, 1236–1244 (2010).</a>
+<br /><br /></p>
+                
+<p><strong>[5] Structure-based insights into recognition and regulation of SAM-sensing riboswitches.</strong><br />
+Zheng L, Song Q, Xu X, Shen X, Li C, Li H, Chen H, Ren A.<br />
+<a href="https://pubmed.ncbi.nlm.nih.gov/36459353/" target="_blank">Sci China Life Sci.66(1):31-50 (2023).</a>
 <br /><br /></p>
                 

@@ -88,10 +88,61 @@ You are welcomed to send us feedback and your ideas or suggestions will be great
 </div>
 
 <br><br>
-<div class="sectiontitle" style="border: 1px solid #C9C9C9; background-color: #fff;">
-<p class="header_box" >Group Members</p>
-The Riboswitch data can be accessed either by browsing or by searching. More details on how-to are provided below.
+<html>
+<head>
+<style>
+  h4 {
+      padding-top: 10px;
+      padding-left:10px
+    }
+  temli::before {
+    content: "\2022"; /* 使用Unicode编码表示原点 */
+    margin-right: 5px; /* 可选：调整原点与文本之间的间距 */
+    white-space: pre-line;
+  }
+  
+</style>
+</head>
+<body>
+<div class="sectiontitle" style="border: 1px solid #C9C9C9; background-color: #fff; ">
+  <p class="header_box" >Group Members</p>
+  <div class="row">
+    <div class="col-sm-6 clearfix">
+      <p><img src="/images/tempics/Chichau_photo.jpg" class="img-responsive" width="25%" style="float: left" /></p>
+      <h4 ><a href="Email:miao_zhichao@gzlab.ac.cn">Zhichao (Chichau) Miao</a></h4>
+    
+      <p><i>Principal Investigator of Guangzhou Lab</i></p>
+      <ul style="overflow: hidden; margin-top: 10px;">
+        <temli>PhD <a href="http://engtemlish.ibp.cas.cn/">Institute of Biophysics, CAS</a></temli><br>
+        <temli>Chercheur at <a href="https://ibmc.cnrs.fr/en/">IBMC, CNRS</a></temli><br>
+        <temli>PostDoc at <a href="https://www.ebi.ac.uk/">EMBL-EBI</a></temli><br>
+        <temli>Visiting Scientist at <a href="https://www.sanger.ac.uk/">Wellcome Sanger Institute</a></temli><br>
+        <temli>Senior Bioinformatician at <a href="https://www.ebi.ac.uk/">EMBL-EBI</a></temli>
+      </ul>
+    </div>
+    <div class="col-sm-6 clearfix">
+      <p><img src="/images/tempics/lin_Huang.jpg" class="img-responsive" width="25%" style="float: left" /></p>
+      <h4><a href="Email:huanglin36@mail.sysu.edu.cn">lin Huang</a></h4>
+      <p><i>Principal Investigator of Sun Yat-sen University</i></p>
+      <ul style="overflow: hidden; margin-top: 10px;">
+        <temli>PhD <a href="https://en.whu.edu.cn/">Wuhan University</a></temli><br>
+        <temli>Postdoctoral research assistant at <a href="https://www.dundee.ac.uk/">University of Dundee, UK</a></temli><br>
+        <temli>Senior research associate at <a href="https://www.dundee.ac.uk/">University of Dundee, UK</a></temli><br>
+      </ul>
+    </div>
+  </div>
 </div>
+
+</body>
+</html>
+
+
+
+
+
+
+
+
 
 </body>
 

@@ -81,6 +81,14 @@ permalink: /docs/Adenine/
           
     <timelineli class="day">
      <div class="events">
+       <p >Discovery of <i>xpt-pbuX</i> operon</p>
+       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/9098051/" target="_blank">1997</a><sup>[1]</sup></div>
+     </div>
+    </timelineli>
+        
+
+    <timelineli class="day">
+     <div class="events">
        <p >Discovery of the adenine riboswitch</p>
        <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/14718920/" target="_blank">2004</a><sup>[3]</sup></div>
      </div>
@@ -97,6 +105,14 @@ permalink: /docs/Adenine/
 
     <timelineli class="day">
      <div class="events">
+       <p >The function of adenine riboswitch depends on the relative rates of ligand binding and the transcriptional process</p>
+       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/16931335/" target="_blank">2006</a><sup>[6]</sup></div>
+     </div>
+    </timelineli>
+        
+
+    <timelineli class="day">
+     <div class="events">
        <p >Crystal structures of the U65C mutant <i>ydhL</i> adenine riboswitch in ligand-free state</p>
        <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/20022916/" target="_blank">2010</a><sup>[7]</sup></div>
      </div>
@@ -105,8 +121,32 @@ permalink: /docs/Adenine/
 
     <timelineli class="day">
      <div class="events">
+       <p >Cotranscriptional folding in an adenine riboswitch directs the gene-regulatory transcription outcome</p>
+       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/23087247/" target="_blank">2012</a><sup>[8]</sup></div>
+     </div>
+    </timelineli>
+        
+
+    <timelineli class="day">
+     <div class="events">
        <p >Four structures of the <i>add</i> adenine riboswitch during the course of a reaction were determined using femtosecond X-ray free electron laser (XFEL) pulses</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/27841871/" target="_blank">2017</a><sup>[8]</sup></div>
+       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/27841871/" target="_blank">2017</a><sup>[9]</sup></div>
+     </div>
+    </timelineli>
+        
+
+    <timelineli class="day">
+     <div class="events">
+       <p >The <i>add</i> adenine riboswitch relies on the folding of a structural intermediate that pre-organizes the aptamer global structure and the ligand binding site to allow efficient metabolite sensing and riboswitch genetic regulation</p>
+       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/33963862/" target="_blank">2021</a><sup>[10]</sup></div>
+     </div>
+    </timelineli>
+        
+
+    <timelineli class="day">
+     <div class="events">
+       <p >Using adenine riboswitch as an initial aptamer-like RNA to engineer well-folded cell-compatible fluorogenic aptamers and devices</p>
+       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/34937909/" target="_blank">2022</a><sup>[11]</sup></div>
      </div>
     </timelineli>
         
@@ -447,8 +487,23 @@ Delfosse, V. et al.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/20022916/" target="_blank">Nucleic Acids Res. 38, (2010).</a>
 <br /><br /></p>
                 
-<p><strong>[8] Structures of riboswitch RNA reaction states by mix-and-inject XFEL serial crystallography.</strong><br />
+<p><strong>[8] Direct observation of cotranscriptional folding in an adenine riboswitch.</strong><br />
+Frieda, K. L. & Block, S. M.<br />
+<a href="https://pubmed.ncbi.nlm.nih.gov/23087247/" target="_blank">Science 338, (2012).</a>
+<br /><br /></p>
+                
+<p><strong>[9] Structures of riboswitch RNA reaction states by mix-and-inject XFEL serial crystallography.</strong><br />
 Stagno, J. R. et al.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/27841871/" target="_blank">Nature 541, (2017).</a>
+<br /><br /></p>
+                
+<p><strong>[10] A structural intermediate pre-organizes the add adenine riboswitch for ligand recognition.</strong><br />
+St-Pierre, P. et al.<br />
+<a href="https://pubmed.ncbi.nlm.nih.gov/33963862/" target="_blank">Nucleic Acids Res. 49, (2021).</a>
+<br /><br /></p>
+                
+<p><strong>[11] Repurposing an adenine riboswitch into a fluorogenic imaging and sensing tag.</strong><br />
+Dey, S. K. et al.<br />
+<a href="https://pubmed.ncbi.nlm.nih.gov/34937909/" target="_blank">Nat. Chem. Biol. 18, 180–190 (2022).</a>
 <br /><br /></p>
                 

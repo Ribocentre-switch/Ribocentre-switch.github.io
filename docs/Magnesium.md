@@ -297,34 +297,7 @@ The Magnesium responsive RNA element, not to be confused with the completely dis
       </script>
 </td>
 <!--2D模2--------------------------->
-<td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
-<style>
-.zoom-wrapper4 {
-    width: 400px;
-    height: 400px;
-    border: 1px solid #fff;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-</style>
-    <div class="main-container">
-        <div class="zoom-wrapper4">
-            <div class="zoom-area4">
-                <img src="/images/2D/nan" alt="drawing" style="width:400px" />
-            </div>
-        </div>
-    </div>
-    <script src="https://www.ribocentre.org/js/panzoom.js"></script>
-    <script type='text/javascript'>
-      var zoomWraper4 = document.querySelector(".zoom-wrapper4");
-      var panzoom4 = Panzoom(document.querySelector(".zoom-area4"), {
-      maxScale: 6
-      });
-      zoomWraper4.addEventListener("wheel", panzoom4.zoomWithWheel);
-      panzoom4.zoom(0.8);
-    </script>
-</td>
+
 </tr></table><br>
 <p><br /></p>
                     
@@ -478,14 +451,14 @@ The Magnesium responsive RNA element, not to be confused with the completely dis
   color:{r:42,g:127,b:42}
 },
 {
-  struct_asym_id: 'A', 
+  struct_asym_id: 'X', 
   start_residue_number:45, 
   end_residue_number:47, 
   color:{r:194,g:194,b:255}
 },
 {
   struct_asym_id: 'X', 
-  start_residue_number:87, 
+  start_residue_number:86, 
   end_residue_number:90, 
   color:{r:194,g:194,b:255}
 },
@@ -544,7 +517,7 @@ Right: Nucleotides that contact Mg1-3 via inner and outer sphere interactions ar
 </table>
 <p><br /></p>
                     
-> Ligand recognition
+
             
 <p class="header_box" id="references">References</p>
             

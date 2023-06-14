@@ -99,7 +99,7 @@ permalink: /docs/SAM-I_clan/
 
     <timelineli class="day">
      <div class="events">
-       <p >Tertiary structure and crystal structure diagram</p>
+       <p >The 2.9-angstroms resolution crystal structure of an S-adenosylmethionine (SAM)-responsive riboswitch(SAM-I riboswitch)</p>
        <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/16810258/" target="_blank">2006</a><sup>[4]</sup></div>
      </div>
     </timelineli>
@@ -108,7 +108,7 @@ permalink: /docs/SAM-I_clan/
     <timelineli class="day">
      <div class="events">
        <p >Discovery of SAM-IV riboswitch</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/17621584/" target="_blank">2007</a><sup>5</sup></div>
+       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/17621584/" target="_blank">2007</a><sup>[5]</sup></div>
      </div>
     </timelineli>
         
@@ -116,7 +116,7 @@ permalink: /docs/SAM-I_clan/
     <timelineli class="day">
      <div class="events">
        <p >SAM-IV riboswitches mimics the ligand-binding site of SAM-I riboswitches</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/18369181/" target="_blank">2008</a><sup>7</sup></div>
+       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/18369181/" target="_blank">2008</a><sup>[7]</sup></div>
      </div>
     </timelineli>
         
@@ -124,7 +124,7 @@ permalink: /docs/SAM-I_clan/
     <timelineli class="day">
      <div class="events">
        <p >Provided the structural basis for SAM to distinguish SAM from SAH</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/20006621/" target="_blank">2010</a><sup>8</sup></div>
+       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/20006621/" target="_blank">2010</a><sup>[8]</sup></div>
      </div>
     </timelineli>
         
@@ -140,7 +140,7 @@ permalink: /docs/SAM-I_clan/
     <timelineli class="day">
      <div class="events">
        <p >The importance of magnesium ions to SAM-I riboswitch</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/20637415/" target="_blank">2010</a><sup>10</sup></div>
+       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/20637415/" target="_blank">2010</a><sup>[10]</sup></div>
      </div>
     </timelineli>
         
@@ -148,7 +148,7 @@ permalink: /docs/SAM-I_clan/
     <timelineli class="day">
      <div class="events">
        <p >SAM recognition and conformational switching mechanism of SAM-I riboswitch</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/20951706/" target="_blank">2010</a><sup>11</sup></div>
+       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/20951706/" target="_blank">2010</a><sup>[11]</sup></div>
      </div>
     </timelineli>
         
@@ -156,7 +156,7 @@ permalink: /docs/SAM-I_clan/
     <timelineli class="day">
      <div class="events">
        <p >The first comprehensive characterization of a ligand-controlled riboswitch folding pathway</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/21532599/" target="_blank">2011</a><sup>12</sup></div>
+       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/21532599/" target="_blank">2011</a><sup>[12]</sup></div>
      </div>
     </timelineli>
         
@@ -164,7 +164,7 @@ permalink: /docs/SAM-I_clan/
     <timelineli class="day">
      <div class="events">
        <p >Solved the X-ray structure of a member of the SAM-I/IV family</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/24753586/" target="_blank">2014</a><sup>15</sup></div>
+       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/24753586/" target="_blank">2014</a><sup>[15]</sup></div>
      </div>
     </timelineli>
         
@@ -172,7 +172,7 @@ permalink: /docs/SAM-I_clan/
     <timelineli class="day">
      <div class="events">
        <p >Dynamic studies of the full-length SAM-I riboswitch</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/28920931/" target="_blank">2017</a><sup>17</sup></div>
+       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/28920931/" target="_blank">2017</a><sup>[18]</sup></div>
      </div>
     </timelineli>
         
@@ -180,7 +180,7 @@ permalink: /docs/SAM-I_clan/
     <timelineli class="day">
      <div class="events">
        <p >Cryo-EM SAM-IV riboswitch structure at 3.7 Å resolution</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/31796736/" target="_blank">2019</a><sup>19</sup></div>
+       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/31796736/" target="_blank">2019</a><sup>[20]</sup></div>
      </div>
     </timelineli>
         
@@ -188,7 +188,7 @@ permalink: /docs/SAM-I_clan/
     <timelineli class="day">
      <div class="events">
        <p >Findings identify a new SAM-I riboswitch termed SAM-I xcc with a dual functioning expression platform</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/32493974/" target="_blank">2020</a><sup>20</sup></div>
+       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/32493974/" target="_blank">2020</a><sup>[21]</sup></div>
      </div>
     </timelineli>
         
@@ -196,7 +196,15 @@ permalink: /docs/SAM-I_clan/
     <timelineli class="day">
      <div class="events">
        <p >The SAM-I riboswitch is a suitable target for antibacterial drug development based on ASO</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/36421306/" target="_blank">2022</a><sup>21</sup></div>
+       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/36421306/" target="_blank">2022</a><sup>[22]</sup></div>
+     </div>
+    </timelineli>
+        
+
+    <timelineli class="day">
+     <div class="events">
+       <p >This review summarizes the current research progress on these SAM-related riboswitch families</p>
+       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/36459353/" target="_blank">2023</a><sup>[23]</sup></div>
      </div>
     </timelineli>
         
@@ -240,7 +248,7 @@ SAM-IV riboswitches are a kind of riboswitch that specifically binds S-adenosylm
 </table>
 <p><br /></p>
                     
-<font ><p>Regulation mechanism of SAM-IV riboswitch, PK-2 plays a direct role in both ligand binding and regulation<sup>[19]</sup>.</p></font>
+<font ><p>Regulation mechanism of SAM-IV riboswitch, PK-2 plays a direct role in both ligand binding and regulation<sup>[20]</sup>.</p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
   <img src="/images/gene_regulation/SAM-IV_riboswitch_gene_regulation.svg" alt="drawing" style="width:800px;margin-top: 0px;margin-bottom: 0px;" >
@@ -249,7 +257,7 @@ SAM-IV riboswitches are a kind of riboswitch that specifically binds S-adenosylm
 </table>
 <p><br /></p>
                     
-<font ><p>Regulation mechanism of SAM-I/IV riboswitch, PK-3 plays a direct role in both ligand binding and regulation<sup>[15,19]</sup>.</p></font>
+<font ><p>Regulation mechanism of SAM-I/IV riboswitch, PK-3 plays a direct role in both ligand binding and regulation<sup>[15,20]</sup>.</p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
   <img src="/images/gene_regulation/SAM-I+IV_riboswitch_gene_regulation.svg" alt="drawing" style="width:800px;margin-top: 0px;margin-bottom: 0px;" >
@@ -506,7 +514,7 @@ SAM-IV riboswitches are a kind of riboswitch that specifically binds S-adenosylm
                     
 > 3D visualisation
             
-<font >2.9-Å resolution crystal structure of an S-adenosylmethionine (SAM) riboswitch from thermoanaerobacter tengcongensis complexed with S-adenosylmethionine. SAM (shown in sticks) is labeled in red <sup>[4]</sup>.</font>
+<font >2.9-Å resolution crystal structure of an S-adenosylmethionine (SAM) riboswitch from thermoanaerobacter tengcongensis complexed with S-adenosylmethionine. The figure reference from PDB ID: 2GIS, SAM (shown in sticks) is labeled in red <sup>[4]</sup>.</font>
   <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
   <img src="/images/3D/SAM-I_riboswitch_3D.svg" alt="drawing" style="width:400px;height:400px;margin-top: 0px;margin-bottom: 0px;" >
@@ -596,7 +604,7 @@ SAM-IV riboswitches are a kind of riboswitch that specifically binds S-adenosylm
   start_residue_number:83, 
   end_residue_number:85, 
   color:{r:194,g:194,b:255}
-}，
+},
 {
   struct_asym_id: 'A', 
   start_residue_number:301, 
@@ -629,7 +637,7 @@ SAM-IV riboswitches are a kind of riboswitch that specifically binds S-adenosylm
   </tr></table><br>
   <p><br /></p>
                 
-<font >4.1-Å resolution cryo-EM structure of an SAM-IV riboswitch from <i>Mycobacterium sp.</i> complexed with S-adenosylmethionine. SAM (shown in sticks) is labeled in red <sup>[19]</sup>.</font>
+<font >4.1-Å resolution cryo-EM structure of an SAM-IV riboswitch from <i>Mycobacterium sp.</i> complexed with S-adenosylmethionine. The figure reference from PDB ID: 6UET, SAM (shown in sticks) is labeled in red <sup>[19]</sup>.</font>
   <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
   <img src="/images/3D/SAM-IV_riboswitch_3D.svg" alt="drawing" style="width:400px;height:400px;margin-top: 0px;margin-bottom: 0px;" >
@@ -757,7 +765,7 @@ SAM-IV riboswitches are a kind of riboswitch that specifically binds S-adenosylm
   </tr></table><br>
   <p><br /></p>
                 
-<font >3.20-Å resolution crystal structure of an SAM-I/IV variant riboswitch complexed with S-adenosylmethionine. SAM (shown in sticks) is labeled in red <sup>[15]</sup>.</font>
+<font >3.20-Å resolution crystal structure of an SAM-I/IV variant riboswitch complexed with S-adenosylmethionine.The figure reference from PDB ID: 4OQU, SAM (shown in sticks) is labeled in red <sup>[15]</sup>.</font>
   <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
   <img src="/images/3D/SAM-I+IV_riboswitch_3D.svg" alt="drawing" style="width:400px;height:400px;margin-top: 0px;margin-bottom: 0px;" >
@@ -851,7 +859,7 @@ SAM-IV riboswitches are a kind of riboswitch that specifically binds S-adenosylm
   struct_asym_id: 'A', 
   start_residue_number:92, 
   end_residue_number:97, 
-  color:{r:194,g:194,b:255}
+  color:{r:9,g:254,b:254}
 },
 {
   struct_asym_id: 'A', 
@@ -900,7 +908,7 @@ SAM-IV riboswitches are a kind of riboswitch that specifically binds S-adenosylm
 </table>
 <p><br /></p>
                     
-<font ><p>Left: Surface representation of the binding pocket of the SAM-IV riboswitch generated from PDB ID: 6UET. S-adenosylmethionine (SAM) (shown in sticks) is labeled in red. Right: As the current resolution was not sufficient to determine the conformation of hydrogen bonding<sup>[19]</sup>.<br /></p></font>
+<font ><p>Left: Surface representation of the binding pocket of the SAM-IV riboswitch generated from PDB ID: 6UET. S-adenosylmethionine (SAM) (shown in sticks) is labeled in red. Right: As the current resolution was not sufficient to determine the conformation of hydrogen bonding<sup>[20]</sup>.<br /></p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/SAM-IV_riboswitch_binding_pockets1.svg" alt="drawing" style="width:400px"  px="" /></td>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/SAM-IV_riboswitch_binding_pockets2.svg" alt="drawing" style="width:400px"  px="" /></td>
@@ -1007,33 +1015,43 @@ Trausch, J. J., Xu, Z., Edwards, A. L., Reyes, F. E., Ross, P. E., Knight, R., &
 <a href="https://pubmed.ncbi.nlm.nih.gov/24753586/" target="_blank">Proc. Natl. Acad. Sci. U. S. A. 111, 6624–6629 (2014).</a>
 <br /><br /></p>
                 
-<p><strong>[16] Ligand recognition and helical stacking formation are intimately linked in the SAM-I riboswitch regulatory mechanism.</strong><br />
+<p><strong>[16] Common themes and differences in SAM recognition among SAM riboswitches.</strong><br />
+Price IR, Grigg JC, Ke A.<br />
+<a href="https://pubmed.ncbi.nlm.nih.gov/24863160/" target="_blank">Biochim Biophys Acta.1839(10):931-938.(2014)</a>
+<br /><br /></p>
+                
+<p><strong>[17] Ligand recognition and helical stacking formation are intimately linked in the SAM-I riboswitch regulatory mechanism.</strong><br />
 Dussault, A.-M., Dubé, A., Jacques, F., Grondin, J. P., and Lafontaine, D. A.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/28701520/" target="_blank">RNA 23, 1539–1551 (2017).</a>
 <br /><br /></p>
                 
-<p><strong>[17] Single-molecule FRET reveals the energy landscape of the full-length SAM-I riboswitch.</strong><br />
+<p><strong>[18] Single-molecule FRET reveals the energy landscape of the full-length SAM-I riboswitch.</strong><br />
 Manz, C., Kobitski, A. Y., Samanta, A., Keller, B. G., Jäschke, A., & Nienhaus, G. U.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/28920931/" target="_blank">Nat. Chem. Biol. 13, 1172–1178 (2017).</a>
 <br /><br /></p>
                 
-<p><strong>[18] The multi-state energy landscape of the SAM-I riboswitch: A single-molecule Förster resonance energy transfer spectroscopy study.</strong><br />
+<p><strong>[19] The multi-state energy landscape of the SAM-I riboswitch: A single-molecule Förster resonance energy transfer spectroscopy study.</strong><br />
 Manz, C., Kobitski, A. Y., Samanta, A., Jäschke, A., & Nienhaus, G. U.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/29604896/" target="_blank">J. Chem. Phys. 148, 123324 (2018).</a>
 <br /><br /></p>
                 
-<p><strong>[19] Cryo-EM structure of a 40 kDa SAM-IV riboswitch RNA at 3.7 Å resolution.</strong><br />
+<p><strong>[20] Cryo-EM structure of a 40 kDa SAM-IV riboswitch RNA at 3.7 Å resolution.</strong><br />
 Zhang, K., Li, S., Kappel, K., Pintilie, G., Su, Z., Mou, T. C., Schmid, M. F., Das, R., & Chiu, W.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/31796736/" target="_blank">Nat. Commun. 10, 5511 (2019).</a>
 <br /><br /></p>
                 
-<p><strong>[20] A SAM-I riboswitch with the ability to sense and respond to uncharged initiator tRNA.</strong><br />
+<p><strong>[21] A SAM-I riboswitch with the ability to sense and respond to uncharged initiator tRNA.</strong><br />
 Tang, D. J., Du, X., Shi, Q., Zhang, J. L., He, Y. P., Chen, Y. M., Ming, Z., Wang, D., Zhong, W. Y., Liang, Y. W., Liu, J. Y., Huang, J. M., Zhong, Y. S., An, S. Q., Gu, H., & Tang, J. L.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/32493973/" target="_blank">Nat. Commun. 11, 2794 (2020).</a>
 <br /><br /></p>
                 
-<p><strong>[21] Targeting SAM-I riboswitch using antisense oligonucleotide technology for inhibiting the growth of staphylococcus aureus and listeria monocytogenes.</strong><br />
+<p><strong>[22] Targeting SAM-I riboswitch using antisense oligonucleotide technology for inhibiting the growth of staphylococcus aureus and listeria monocytogenes.</strong><br />
 Traykovska, M., & Penchovsky, R.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/36421306/" target="_blank">Antibiotics (Basel) 11, (2022).</a>
+<br /><br /></p>
+                
+<p><strong>[23] Structure-based insights into recognition and regulation of SAM-sensing riboswitches.</strong><br />
+Zheng L, Song Q, Xu X, Shen X, Li C, Li H, Chen H, Ren A.<br />
+<a href="https://pubmed.ncbi.nlm.nih.gov/36459353/" target="_blank">Sci China Life Sci.66(1):31-50 (2023).</a>
 <br /><br /></p>
                 
