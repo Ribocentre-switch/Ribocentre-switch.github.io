@@ -1,13 +1,6 @@
----
-title: "Ribocentre - Home"
-layout: homelay
-excerpt: "Ribocentre: A ribozyme database"
-sitemap: false
-permalink: /
----
-<html lang="zh-cn">
+I"R<html lang="zh-cn">
 <head>
-<meta charset="utf-8"> 
+<meta charset="utf-8" /> 
 <style>
   button, input, optgroup, select, textarea {
     color: #005826;
@@ -63,8 +56,8 @@ permalink: /
 </style>
 </head>
 <body>
-<div class="wrapper box_style" >
-<br>
+<div class="wrapper box_style">
+<br />
   <div class="well" style="border: 1px solid #C9C9C9; background-color: #fff;">
     <section class="sectiontitle"> 
     <h1 class="post-title" itemprop="name headline"><strong>Welcome to Ribocentre-switch</strong></h1>
@@ -72,40 +65,36 @@ permalink: /
 
         The original definition of the term "riboswitch" specified that they directly sense small-molecule metabolite concentrations. Although this definition remains in common use, some biologists have used a broader definition that includes other cis-regulatory RNAs. However, this article will discuss only metabolite-binding riboswitches.
 
-        Most known riboswitches occur in bacteria, but functional riboswitches of one type (the TPP riboswitch) have been discovered in archaea, plants and certain fungi. TPP riboswitches have also been found in eukaryotes eukaryotes that function via alternative splicing of mRNA <a href="https://en.wikipedia.org/wiki/Riboswitch " target="_blank" >(from Wiki).</a><br>
-      <br><br>
+        Most known riboswitches occur in bacteria, but functional riboswitches of one type (the TPP riboswitch) have been discovered in archaea, plants and certain fungi. TPP riboswitches have also been found in eukaryotes eukaryotes that function via alternative splicing of mRNA <a href="https://en.wikipedia.org/wiki/Riboswitch " target="_blank">(from Wiki).</a><br />
+      <br /><br />
     
 
 <div class="sectiontitle" style="border: 1px solid #C9C9C9; background-color: #fff;">
-<p class="header_box" >Search by sequence</p>
+<p class="header_box">Search by sequence</p>
 <html>
   <head>
     <title>Sequence search</title>
   </head>
   <body>
-    <rnacentral-sequence-search
-            databases='["ribocentre"]'
-            examples='[
-              {"description": "c-di-GMP-II-GAG riboswitch", "urs": "", "sequence": "CUGCACGCGGGAGGCUGUGAUCCGCCGGACGUACCGACUGCGGCCACCGCAGUCCGGCGGGGAGCCACUGGUGAGACCGGCCCCCGAAG"},
-              {"description": "TPP riboswitch (THI element)", "urs": "", "sequence": "GTGTCCACTCACGGGTGCGCTTCATTAAGCGCTGAGAATAAACCGTTTGAACCTGATCCGGGTTATGCCGGCGATAGGAAGAGAATTATGCATAATG"}
-            ]'
-            rfam="true"
-    />
+    <rnacentral-sequence-search databases="[&quot;ribocentre&quot;]" examples="[
+              {&quot;description&quot;: &quot;c-di-GMP-II-GAG riboswitch&quot;, &quot;urs&quot;: &quot;&quot;, &quot;sequence&quot;: &quot;CUGCACGCGGGAGGCUGUGAUCCGCCGGACGUACCGACUGCGGCCACCGCAGUCCGGCGGGGAGCCACUGGUGAGACCGGCCCCCGAAG&quot;},
+              {&quot;description&quot;: &quot;TPP riboswitch (THI element)&quot;, &quot;urs&quot;: &quot;&quot;, &quot;sequence&quot;: &quot;GTGTCCACTCACGGGTGCGCTTCATTAAGCGCTGAGAATAAACCGTTTGAACCTGATCCGGGTTATGCCGGCGATAGGAAGAGAATTATGCATAATG&quot;}
+            ]" rfam="true" />
   <script type="text/javascript" src="https://www.ribocentre.org/js/RNAcentral-sequence-search.js"></script></body>
 </html>
 </div>
-<br>
+<br />
 
 <div class="sectiontitle" style="border: 1px solid #C9C9C9; background-color: #fff;">
 <p class="header_box">Search by sequence</p>
 <!--<div class="well">-->
-<script async src="https://cse.google.com/cse.js?cx=2dcb771063bc36a13"></script>
+<script async="" src="https://cse.google.com/cse.js?cx=2dcb771063bc36a13"></script>
 <div class="gcse-searchbox-only" style="text-align: center;"></div>
 <p>
     <b>Example:&nbsp;</b>
-    <a href="https://www.ribocentre.org/search.html?q=rna#gsc.tab=0&gsc.q=rna&gsc.page=1" target="_blank">RNA</a>&nbsp;&nbsp;
-    <a href="https://www.ribocentre.org/search.html?q=Ribo#gsc.tab=0&gsc.q=Ribo&gsc.page=1" target="_blank">Ribo</a>&nbsp;&nbsp;
-    <br>
+    <a href="https://www.ribocentre.org/search.html?q=rna#gsc.tab=0&amp;gsc.q=rna&amp;gsc.page=1" target="_blank">RNA</a>&nbsp;&nbsp;
+    <a href="https://www.ribocentre.org/search.html?q=Ribo#gsc.tab=0&amp;gsc.q=Ribo&amp;gsc.page=1" target="_blank">Ribo</a>&nbsp;&nbsp;
+    <br />
     <b>Quick links:&nbsp;</b>
     <a href="https://www.ribocentre.org/ribozyme">Ribozymes</a>&nbsp;&nbsp;
     <a href="https://www.ribocentre.org/publications">Publications</a>&nbsp;&nbsp;
@@ -113,10 +102,8 @@ permalink: /
     <a href="https://www.ribocentre.org/Helps">Teams</a>&nbsp;&nbsp;
 </p>
 </div>
-<br>
-
-
-
+      <br />
+<br />
 
 
 
@@ -134,3 +121,5 @@ permalink: /
 
 
 
+</section></div></div></body></html>
+:ET
