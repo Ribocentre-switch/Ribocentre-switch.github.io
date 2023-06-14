@@ -3,7 +3,7 @@ title: "Structure - Structure"
 layout: structure
 excerpt: "Structure - Structure"
 sitemap: false
-permalink: /structures
+permalink: /structures/
 ---
 <html lang="en">
 <head>
