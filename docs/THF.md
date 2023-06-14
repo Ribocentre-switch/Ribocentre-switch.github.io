@@ -173,13 +173,19 @@ The <i>folE</i> RNA motif, now known as the THF-II riboswitch, is a conserved RN
                 
 > Gene regulation
             
-<font ><p>Potential mechanism of translation regulation by the THF-I and THF-II riboswitch. The ribosome binding site (RBS) is showed on red<sup>[7-8]</sup>.</p></font>
+<font ><p>Potential mechanism of translation regulation by the THF-I riboswitch. The ribosome binding site (RBS) is showed on red<sup>[7]</sup>.</p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
-  <img src="/images/gene_regulation/THF_riboswitch_gene_regulation1.svg" alt="drawing" style="width:400px;margin-top: 0px;margin-bottom: 0px;" >
+  <img src="/images/gene_regulation/THF_riboswitch_gene_regulation1.svg" alt="drawing" style="width:800px;margin-top: 0px;margin-bottom: 0px;" >
   </td>
+</tr>
+</table>
+<p><br /></p>
+                    
+<font ><p>Potential mechanism of translation regulation by the THF-II riboswitch. The ribosome binding site (RBS) is showed on red<sup>[8]</sup>.</p></font>
+<table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
-  <img src="/images/gene_regulation/THF_riboswitch_gene_regulation2.svg" alt="drawing" style="width:400px;margin-top: 0px;margin-bottom: 0px;" >
+  <img src="/images/gene_regulation/THF_riboswitch_gene_regulation2.svg" alt="drawing" style="width:800px;margin-top: 0px;margin-bottom: 0px;" >
   </td>
 </tr>
 </table>
