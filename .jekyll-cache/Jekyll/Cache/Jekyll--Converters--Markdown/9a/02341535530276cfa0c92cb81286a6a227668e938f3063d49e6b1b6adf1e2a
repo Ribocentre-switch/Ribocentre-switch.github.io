@@ -1,0 +1,59 @@
+I"�<html>
+<head>
+
+</head>
+<div class="button-container">
+      <button class="button" onclick="showSheet('sheet1')">Download</button>
+  </div>      
+<div id="sheet1" class="sheet">
+    <h2>Download what you want</h2>
+<table>
+  <tr>
+    <th>Name</th>
+    <th>Download</th>
+  </tr>
+  <tr>
+    <td>File 1</td>
+    <td><a href="#" onclick="downloadFile('path/to/file1')">Download</a></td>
+  </tr>
+  <tr>
+    <td>File 2</td>
+    <td><a href="#" onclick="downloadFile('path/to/file2')">Download</a></td>
+  </tr>
+  <tr>
+    <td>File 3</td>
+    <td><a href="#" onclick="downloadFile('path/to/file3')">Download</a></td>
+  </tr>
+  <!-- Add more rows... -->
+</table>
+
+<script>
+function showSheet(sheetId) {
+      // 隐藏所有 sheet
+      var sheets = document.getElementsByClassName('sheet');
+      for (var i = 0; i < sheets.length; i++) {
+        sheets[i].style.display = 'none';
+      }
+
+      // 显示选定的 sheet
+      var sheet = document.getElementById(sheetId);
+      sheet.style.display = 'block';
+    }
+
+function downloadFile(filePath) {
+  // Create a temporary link element with the download URL
+  var link = document.createElement('a');
+  link.href = filePath;
+  link.download = filePath.split('/').pop(); // Set the filename to the last part of the URL
+  document.body.appendChild(link);
+
+  // Trigger a click event on the link to start the download
+  link.click();
+
+  // Remove the link from the DOM
+  document.body.removeChild(link);
+}
+</script>
+sss
+</div></html>
+:ET

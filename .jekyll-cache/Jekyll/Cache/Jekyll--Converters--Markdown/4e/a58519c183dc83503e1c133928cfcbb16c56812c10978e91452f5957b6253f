@@ -1,0 +1,568 @@
+I"�x<html>
+<head>
+  <style>
+    .header_box {
+    border: none;
+    background: #efefef;
+    font-size:24px
+  }
+/* 按钮容器样式 */
+    .button-container {
+      display: flex;
+      justify-content: left;
+      align-items: center;
+      height: 50px;
+    }
+    /* 按钮样式 */
+    .button {
+      display: block;
+      padding: 10px;
+      margin-right: 10px;
+      text-align: center;
+      background-color: #efefef;
+      color: #005826;
+      text-decoration: none;
+      font-weight: bold;
+      font-size: 20px;
+      border: 1px solid #005826;
+      border-radius: 5px;
+      box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.2);
+    }
+    /* 鼠标悬停样式 */
+    .button:hover {
+      background-color: #999;
+      cursor: pointer;
+    }
+    /* 样式表格 */
+    table {
+        border: 2px solid #f8f8ff;
+        border: 2px solid #767676;
+		    border: 2px solid #767676;
+		    border-radius: 5px;
+		    background-color: #fff;
+        }
+		  th {
+        background-color: #719B71;
+        background-color: #719B71;
+        background-color: #005826;
+        color: rgba(255,255,255,0.9);
+		    cursor: pointer;
+        }
+		  td {
+		    background-color: #ffffff;
+		    background-color: #f9f9f9;
+		    background-color: #f9f9f9;
+		    }		
+		  th, td {
+		  min-width: 90px;
+		  padding: 10px 10px;
+		}
+
+    /* 隐藏所有 sheet */
+    .sheet {
+      display: none;
+    }
+  </style>
+</head>
+<body onload="showSheet('sheet1')">
+  <!-- 搜索框 -->
+  <input type="text" id="searchBox" placeholder="搜索关键字..." oninput="searchSheets()" /><br /><br />
+
+  <!-- 按钮 -->
+  <div class="button-container">
+    <button class="button" onclick="showSheet('sheet1')">Cofactors</button>
+    <button class="button" onclick="showSheet('sheet2')">Sheet 2</button>
+    <button class="button" onclick="showSheet('sheet3')">Sheet 3</button>
+    <button class="button" onclick="showSheet('sheet4')">Sheet 4</button>
+    <button class="button" onclick="showSheet('sheet5')">Sheet 5</button>
+    <button class="button" onclick="showSheet('sheet6')">Sheet 6</button>
+  </div>
+
+  <!-- 表格 -->
+  <div id="sheet1" class="sheet">
+    <h2>Cofactors</h2>
+    <table>
+      <tr>
+        <th>name</th>
+        <th>Ligand</th>
+        <th>Description</th>
+        <th>Discovery</th>
+        <th>Rfam-name</th>
+        <th>Rfam-ID</th>
+      </tr>
+        
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Cobalamine" target="_blank"><b>AdoCbl</b></a></td>
+        <td name="td1">Adenosylcobalamin</td>
+        <td name="td2">Cobalamin riboswitch is a cis-regulatory element which is widely distributed in 5' untranslated regions of cobalamin related genes in bacteria to regulate adjacent genes related to cobalamin metabolism in response to cobalamin binding. Cobalamin riboswitches are broadly classified by the identity of the aptamer, and can be further classified into AdoCbl and AqCbl riboswitch.</td>
+        <td name="td3"><a href="https://pubmed.ncbi.nlm.nih.gov/10852957/" target="_blank"><b>2000</b> </a></td>
+        <td name="td4">AdoCbl riboswitch
+Cobalamin riboswitch<br /></td>
+        <td name="td5">RF01482
+RF00174</td>
+      </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Cobalamine" target="_blank"><b>AqCbl</b></a></td>
+        <td name="td1">Aquocobalamin</td>
+        <td name="td2">Cobalamin riboswitch is a cis-regulatory element which is widely distributed in 5' untranslated regions of cobalamin related genes in bacteria to regulate adjacent genes related to cobalamin metabolism in response to cobalamin binding. Cobalamin riboswitches are broadly classified by the identity of the aptamer, and can be further classified into AdoCbl and AqCbl riboswitch.</td>
+        <td name="td3"><a href="https://pubmed.ncbi.nlm.nih.gov/10852957/" target="_blank"><b>2000</b> </a></td>
+        <td name="td4">AdoCbl variant RNA<br /></td>
+        <td name="td5">RF01689</td>
+      </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/FMN" target="_blank"><b>FMN</b></a></td>
+        <td name="td1">Flain mononucleotide</td>
+        <td name="td2">The FMN riboswitch (also known as RFN element) is a highly conserved RNA element which is found frequently in the 5'-untranslated regions of prokaryotic mRNAs that encode for flavin mononucleotide (FMN) biosynthesis and transport proteins. This element is a metabolite-dependent riboswitch that directly binds FMN in the absence of proteins, thus giving it the ability to regulate RNA expression by responding to changes in the concentration of FMN.</td>
+        <td name="td3"><a href="https://pubmed.ncbi.nlm.nih.gov/10529804/" target="_blank"><b>1999</b> </a></td>
+        <td name="td4">FMN riboswitch (RFN element)<br /></td>
+        <td name="td5">RF00050</td>
+      </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/MoCo&amp;Wco" target="_blank"><b>MoCo</b></a></td>
+        <td name="td1">Molybdenum cofactor</td>
+        <td name="td2">The Moco RNA motif is a conserved RNA structure that is presumed to be a riboswitch that binds molybdenum cofactor or the related tungsten cofactor. As these cofactors are not available in purified form, in vitro binding assays cannot be performed. However, the genetic data, complex structure of the RNA and the failure to detect a protein involved in the regulation suggest that the Moco RNA motif corresponds to a class of riboswitches.</td>
+        <td name="td3"><a href="https://pubmed.ncbi.nlm.nih.gov/17621584/" target="_blank"><b>2007</b> </a></td>
+        <td name="td4">Moco (molybdenum cofactor) riboswitch<br /></td>
+        <td name="td5">RF01055</td>
+      </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/MoCo&amp;Wco" target="_blank"><b>Wco</b></a></td>
+        <td name="td1">Tungsten cofactor</td>
+        <td name="td2">The Moco RNA motif is a conserved RNA structure that is presumed to be a riboswitch that binds molybdenum cofactor or the related tungsten cofactor. As these cofactors are not available in purified form, in vitro binding assays cannot be performed. However, the genetic data, complex structure of the RNA and the failure to detect a protein involved in the regulation suggest that the Moco RNA motif corresponds to a class of riboswitches.</td>
+        <td name="td3"><a href="https://pubmed.ncbi.nlm.nih.gov/17621584/" target="_blank"><b>2007</b> </a></td>
+        <td name="td4">None<br /></td>
+        <td name="td5">None</td>
+      </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/THF" target="_blank"><b>THF-I</b></a></td>
+        <td name="td1">Tetrahydrofolate</td>
+        <td name="td2">THF riboswitches are a class of homologous RNAs in certain bacteria that bind tetrahydrofolate (THF) which are almost exclusively located in the probable 5' UTR of protein-coding genes,  encoding either folate transporters or enzymes involved in folate metabolism. THF riboswitches are found in a variety of <i>Bacillota</i>, specifically the <i>orders Clostridiales</i> and <i>Lactobacillales</i>, and more rarely in other lineages of bacteria.</td>
+        <td name="td3"><a href="https://pubmed.ncbi.nlm.nih.gov/20659680/" target="_blank"><b>2010</b> </a></td>
+        <td name="td4">THF riboswitch<br /></td>
+        <td name="td5">RF01831</td>
+      </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/THF" target="_blank"><b>THF-II</b></a></td>
+        <td name="td1">Tetrahydrofolate</td>
+        <td name="td2">THF-II riboswitch (also known as folE RNA motif) is a conserved RNA structure that was discovered by bioinformatics. All known folE RNAs are present upstream of genes encoding GTP cyclohydrolase I, which performs a step in folate metabolism. folE RNAs have been shown to bind tetrahydrofolate and related molecules, leading to their designation as a second structural class of tetrahydrofolate riboswitches, called THF-II riboswitches.</td>
+        <td name="td3"><a href="https://pubmed.ncbi.nlm.nih.gov/28977401/" target="_blank"><b>2017</b> </a></td>
+        <td name="td4">folE RNA<br /></td>
+        <td name="td5">RF02977</td>
+      </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/TPP" target="_blank"><b>TPP</b></a></td>
+        <td name="td1">Thiamin pyrophosphate</td>
+        <td name="td2">The TPP riboswitch, also known as the THI element and Thi-box riboswitch, is a highly conserved RNA secondary structure. It binds thiamine pyrophosphate (TPP) directly and modulates gene expression through a variety of mechanisms in archaea, bacteria and eukaryotes.</td>
+        <td name="td3"><a href="https://pubmed.ncbi.nlm.nih.gov/11470904/" target="_blank"><b>2001</b> </a></td>
+        <td name="td4">TPP riboswitch (THI element)<br /></td>
+        <td name="td5">RF00059</td>
+      </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/HMP-PP" target="_blank"><b>HMP-PP</b></a></td>
+        <td name="td1">Hydroxymethyl-pyrimidine pyrophosphate</td>
+        <td name="td2">HMP-PP riboswitches are a class of homologous RNAs in certain bacteria that function as sensors of the thiamin precursor HMP-PP. The HMP-PP riboswitch was initially named as the ‘thiS motif’ because of its frequent association with a gene coding for the ThiS protein, which delivers sulfur to form the thiazole moiety of the thiamin precursor HET-P. The 3D structure of the HMP-PP riboswitch has not been solved yet.</td>
+        <td name="td3"><a href="https://pubmed.ncbi.nlm.nih.gov/30902049/" target="_blank"><b>2019</b> </a></td>
+        <td name="td4">None<br /></td>
+        <td name="td5">None</td>
+      </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/SAM-I_clan" target="_blank"><b>SAM-I</b></a></td>
+        <td name="td1">S-adenosylmethionine</td>
+        <td name="td2">This family is a member of clan (CL00012), which contains the following 3 members:SAM-I, SAM-I-IV-variant, SAM-IV , they are a kind of riboswitch that specifically binds S-adenosylmethionine (SAM),a cofactor used in many methylation reactions.</td>
+        <td name="td3"><a href="https://pubmed.ncbi.nlm.nih.gov/10094622/" target="_blank"><b>1998</b> </a></td>
+        <td name="td4">SAM riboswitch (S box leader)<br /></td>
+        <td name="td5">RF00162</td>
+      </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/SAM-I_clan" target="_blank"><b>SAM-IV</b></a></td>
+        <td name="td1">S-adenosylmethionine</td>
+        <td name="td2">This family is a member of clan (CL00012), which contains the following 3 members:SAM-I, SAM-I-IV-variant, SAM-IV , they are a kind of riboswitch that specifically binds S-adenosylmethionine (SAM),a cofactor used in many methylation reactions.</td>
+        <td name="td3"><a href="https://pubmed.ncbi.nlm.nih.gov/17621584/" target="_blank"><b>2007</b> </a></td>
+        <td name="td4">S-adenosyl methionine (SAM) riboswitch<br /></td>
+        <td name="td5">RF00634</td>
+      </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/SAM-I_clan" target="_blank"><b>SAM-I/IV</b></a></td>
+        <td name="td1">S-adenosylmethionine</td>
+        <td name="td2">This family is a member of clan (CL00012), which contains the following 3 members:SAM-I, SAM-I-IV-variant, SAM-IV , they are a kind of riboswitch that specifically binds S-adenosylmethionine (SAM),a cofactor used in many methylation reactions.</td>
+        <td name="td3"><a href="https://pubmed.ncbi.nlm.nih.gov/20230605/" target="_blank"><b>2010</b> </a></td>
+        <td name="td4">SAM-I/IV variant riboswitch<br /></td>
+        <td name="td5">RF01725</td>
+      </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/SAM-II_clan" target="_blank"><b>SAM-II</b></a></td>
+        <td name="td1">S-adenosylmethionine</td>
+        <td name="td2">This family consists of two members: SAM-II and SAM-V riboswitch, The SAM-II riboswitch is a RNA element found predominantly in Alphaproteobacteria that binds S-adenosyl methionine (SAM). SAM-V riboswitch is the fifth known riboswitch to bind S-adenosyl methionine (SAM).</td>
+        <td name="td3"><a href="https://pubmed.ncbi.nlm.nih.gov/16086852/" target="_blank"><b>2005</b> </a></td>
+        <td name="td4">SAM riboswitch (alpha-proteobacteria)<br /></td>
+        <td name="td5">RF00521</td>
+      </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/SAM-II_clan" target="_blank"><b>SAM-V</b></a></td>
+        <td name="td1">S-adenosylmethionine</td>
+        <td name="td2">This family consists of two members: SAM-II and SAM-V riboswitch, The SAM-II riboswitch is a RNA element found predominantly in Alphaproteobacteria that binds S-adenosyl methionine (SAM). SAM-V riboswitch is the fifth known riboswitch to bind S-adenosyl methionine (SAM).</td>
+        <td name="td3"><a href="https://pubmed.ncbi.nlm.nih.gov/19531245/" target="_blank"><b>2009</b> </a></td>
+        <td name="td4">SAM-V riboswitch<br /></td>
+        <td name="td5">RF01826</td>
+      </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/SAM-III" target="_blank"><b>SAM-III</b></a></td>
+        <td name="td1">S-adenosylmethionine</td>
+        <td name="td2">The S<sub>MK</sub>box riboswitch (also known as SAM-III) is an RNA element that regulates gene expression in bacteria.</td>
+        <td name="td3"><a href="https://pubmed.ncbi.nlm.nih.gov/16491091/" target="_blank"><b>2006</b> </a></td>
+        <td name="td4">SMK box translational riboswitch (SAM-III)<br /></td>
+        <td name="td5">RF01767</td>
+      </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/SAM-VI" target="_blank"><b>SAM-VI</b></a></td>
+        <td name="td1">S-adenosylmethionine</td>
+        <td name="td2">SAM-VI is predominantly found in Bifidobacterium and exhibits some similarities to the SAM-III (Smk box) riboswitch class</td>
+        <td name="td3"><a href="https://pubmed.ncbi.nlm.nih.gov/29106323/" target="_blank"><b>2018</b> </a></td>
+        <td name="td4">SAM-VI riboswitch<br /></td>
+        <td name="td5">RF02885</td>
+      </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/SAM-SAH" target="_blank"><b>SAM-SAH</b></a></td>
+        <td name="td1">S-adenosylmethionine and S-adenosylhomocysteine</td>
+        <td name="td2">The SAM–SAH riboswitch is a conserved RNA structure in certain bacteria that binds S-adenosylmethionine (SAM) and S-adenosylhomocysteine (SAH) and is therefore presumed to be a riboswitch.</td>
+        <td name="td3"><a href="https://pubmed.ncbi.nlm.nih.gov/20230605/" target="_blank"><b>2010</b> </a></td>
+        <td name="td4">SAM/SAH riboswitch<br /></td>
+        <td name="td5">RF01727</td>
+      </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/SAH" target="_blank"><b>SAH</b></a></td>
+        <td name="td1">S-adenosylhomocysteine</td>
+        <td name="td2">SAH riboswitches are a kind of riboswitch that bind S-adenosylhomocysteine (SAH). When the coenzyme S-adenosylmethionine (SAM) is used in a methylation reaction, SAH is produced.</td>
+        <td name="td3"><a href="https://pubmed.ncbi.nlm.nih.gov/18374645/" target="_blank"><b>2008</b> </a></td>
+        <td name="td4">S-adenosyl-L-homocysteine riboswitch<br /></td>
+        <td name="td5">RF01057</td>
+      </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/NAD" target="_blank"><b>NAD<sup>+</sup>-I</b></a></td>
+        <td name="td1">Nicotinamide adenine dinucleotide</td>
+        <td name="td2">NAD<sup>+</sup>-I riboswitch is the first class of riboswitches that recognize NAD<sup>+</sup>. It is usually located upstream of <i>nadA</i> genes within the phylum Acidobacteria, which encode quinolinate synthetase, an enzyme that performs a step in NAD<sup>+</sup> synthesis.</td>
+        <td name="td3"><a href="https://pubmed.ncbi.nlm.nih.gov/28977401/" target="_blank"><b>2017</b> </a></td>
+        <td name="td4">nadA RNA<br /></td>
+        <td name="td5">RF03013</td>
+      </tr>
+    
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/NAD2" target="_blank"><b>NAD<sup>+</sup>-II</b></a></td>
+        <td name="td1">Nicotinamide adenine dinucleotide</td>
+        <td name="td2">NAD<sup>+</sup>-II riboswitch is the second class of riboswitches that recognize NAD<sup>+</sup>. It is usually associated with <i>pnuC</i> genes, and PnuC proteins are known to transport nicotinamide riboside (NR), which is a component of the ubiquitous and abundant enzyme cofactor nicotinamide adenine dinucleotide (NAD<sup>+</sup>).</td>
+        <td name="td3"><a href="https://pubmed.ncbi.nlm.nih.gov/33970790/" target="_blank"><b>2021</b> </a></td>
+        <td name="td4">None<br /></td>
+        <td name="td5">None</td>
+      </tr>
+      <!-- 其他行... -->
+    </table>
+  </div>
+
+  <div id="sheet2" class="sheet">
+    <h2>Sheet 2</h2>
+    <table>
+      <tr>
+        <th>name</th>
+        <th>Ligand</th>
+        <th>Description</th>
+        <th>Discovery</th>
+        <th>Rfam-name</th>
+        <th>Rfam-ID</th>
+      </tr>
+        
+        <tr>
+            <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Xanthine" target="_blank"><b>Xanthine-I</b></a></td>
+            <td name="td1">Xanthine</td>
+            <td name="td2">There are two classes of xanthine riboswitches. The xanthine-I riboswitch, formerly known as the NMT1 motif RNA, is tightly binds 8-azaxanthine, xanthine, and uric acid. Xanthine-II riboswitch is a class of xanthine-sensing guanine riboswitch variants.</td>
+            <td name="td3"><a href="https://pubmed.ncbi.nlm.nih.gov/32345632/" target="_blank"><b>2020</b> </a></td>
+            <td name="td4">Xanthine riboswitch (NMT1 RNA)<br /></td>
+            <td name="td5">RF03054</td>
+        </tr>
+
+            
+        <tr>
+            <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Xanthine" target="_blank"><b>Xanthine-II</b></a></td>
+            <td name="td1">Xanthine</td>
+            <td name="td2">There are two classes of xanthine riboswitches. The xanthine-I riboswitch, formerly known as the NMT1 motif RNA, is tightly binds 8-azaxanthine, xanthine, and uric acid. Xanthine-II riboswitch is a class of xanthine-sensing guanine riboswitch variants.</td>
+            <td name="td3"><a href="https://pubmed.ncbi.nlm.nih.gov/35622895/" target="_blank"><b>2022</b> </a></td>
+            <td name="td4">None<br /></td>
+            <td name="td5">NA</td>
+        </tr>
+
+            
+        <tr>
+            <td name="td0"><a href="https://ribocentre-switch.github.io/docs/2-dG" target="_blank"><b>2'-dG-I</b></a></td>
+            <td name="td1">2'-Deoxyguanosine</td>
+            <td name="td2">Carrying an aptamer domain similar in sequence and secondary structure to the guanine riboswitch, the 2'-dG-I riboswitch exhibits improved affinities for 2'-deoxyguanosine (2'-dG) and guanosine, and contains a uracil ribonucleotide in a conserved position of the ligand-binding aptamer domain. The 2'-dG-I riboswitch has atomic-resolution structural model.</td>
+            <td name="td3"><a href="https://pubmed.ncbi.nlm.nih.gov/17911257/" target="_blank"><b>2007</b> </a></td>
+            <td name="td4">Purine riboswitch<br /></td>
+            <td name="td5">RF00167</td>
+        </tr>
+
+            
+        <tr>
+            <td name="td0"><a href="https://ribocentre-switch.github.io/docs/2-dG" target="_blank"><b>2'-dG-II</b></a></td>
+            <td name="td1">2'-Deoxyguanosine</td>
+            <td name="td2">Carrying an aptamer domain similar in sequence and secondary structure to the guanine riboswitch, the 2'-dG-II riboswitch exhibits improved affinities for 2'-deoxyguanosine (2'-dG), 3'-deoxyguanosine (3'-dG) and guanosine, and contains a uracil ribonucleotide in a conserved position of the ligand-binding aptamer domain. The 2'-dG-II riboswitch also has atomic-resolution structural model.</td>
+            <td name="td3"><a href="https://pubmed.ncbi.nlm.nih.gov/28265071/" target="_blank"><b>2017</b> </a></td>
+            <td name="td4">2dG-II<br /></td>
+            <td name="td5">RF03165</td>
+        </tr>
+
+            
+        <tr>
+            <td name="td0"><a href="https://ribocentre-switch.github.io/docs/2-dG" target="_blank"><b>2'-dG-III</b></a></td>
+            <td name="td1">2'-Deoxyguanosine</td>
+            <td name="td2">Carrying an aptamer domain similar in sequence and secondary structure to the guanine riboswitch, the 2'-dG-III riboswitch exhibits improved affinities for 2'-deoxyguanosine (2'-dG), 3'-deoxyguanosine (3'-dG) and guanosine, and contains a uracil ribonucleotide in a conserved position of the ligand-binding aptamer domain</td>
+            <td name="td3"><a href="https://pubmed.ncbi.nlm.nih.gov/35622895/" target="_blank"><b>2022</b> </a></td>
+            <td name="td4">None<br /></td>
+            <td name="td5">None</td>
+        </tr>
+
+            
+        <tr>
+            <td name="td0"><a href="https://ribocentre-switch.github.io/docs/PreQ" target="_blank"><b>PreQ<sub>1</sub>-I</b></a></td>
+            <td name="td1">Prequeusine-1</td>
+            <td name="td2">PreQ<sub>1</sub> is a guanine-derived nucleobase that is known to be incorporated in the wobble position of tRNAs containing the GUN anticodon sequence and then further modified to yield queuosine (Q). PreQ<sub>1</sub>-I has a distinctly small aptamer, ranging from 25 to 45 nucleotides long, and it is represented by RNAs sub-classified as 'type 1', 'type 2' and 'type 3'.</td>
+            <td name="td3"><a href="https://pubmed.ncbi.nlm.nih.gov/17384645/" target="_blank"><b>2007</b> </a></td>
+            <td name="td4">PreQ1 riboswitch<br /></td>
+            <td name="td5">RF00522</td>
+        </tr>
+
+            
+        <tr>
+            <td name="td0"><a href="https://ribocentre-switch.github.io/docs/PreQ" target="_blank"><b>PreQ<sub>1</sub>-II</b></a></td>
+            <td name="td1">Prequeusine-1</td>
+            <td name="td2">PreQ<sub>1</sub>-II riboswitch, only found in <i>Lactobacillales</i>, has a larger and more complex consensus sequence and structure than preQ<sub>1</sub>-I riboswitch, with an average of 58 nucleotides composing its aptamer, which forms as many as five base-paired substructures</td>
+            <td name="td3"><a href="https://pubmed.ncbi.nlm.nih.gov/18305186/" target="_blank"><b>2008</b> </a></td>
+            <td name="td4">preQ1-II (pre queuosine) riboswitch<br /></td>
+            <td name="td5">RF01054</td>
+        </tr>
+
+            
+        <tr>
+            <td name="td0"><a href="https://ribocentre-switch.github.io/docs/PreQ" target="_blank"><b>preQ<sub>1</sub>-III</b></a></td>
+            <td name="td1">Prequeusine-1</td>
+            <td name="td2">PreQ<sub>1</sub>-III riboswitch has a distinct structure and is also larger in aptamer size than preQ<sub>1</sub>-I riboswitch, ranging from 33 to 58 nucleotides.</td>
+            <td name="td3"><a href="https://pubmed.ncbi.nlm.nih.gov/25036777/" target="_blank"><b>2014</b> </a></td>
+            <td name="td4">PreQ1-III riboswitch<br /></td>
+            <td name="td5">RF02680</td>
+        </tr>
+
+            
+    </table>
+  </div>
+
+<div id="sheet3" class="sheet">
+    <h2>Sheet 3</h2>
+    <table>
+      <tr>
+        <th>name</th>
+        <th>Ligand</th>
+        <th>Description</th>
+        <th>Discovery</th>
+        <th>Rfam-name</th>
+        <th>Rfam-ID</th>
+      </tr>
+        
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Adenine" target="_blank"><b>Adenine</b></a></td>
+        <td name="td1">Adenine</td>
+        <td name="td2">Carrying an aptamer domain similar in sequence and secondary structure to the guanine riboswitch, the adenine riboswitch selectively recognizes adenine, and contains a uracil ribonucleotide in position 74 of the adenine-binding aptamer domain. <i>B. subtilis ydhL</i> (also called <i>pbuE</i>) and two RNAs (<i>add</i> genes) from <i>Clostridium perfringens</i> and <i>Vibrio vulnificus</i> harbor adenine riboswitches in their mRNA elements.</td>
+        <td name="td3"><a href="https://pubmed.ncbi.nlm.nih.gov/14718920/" target="_blank"><b>2004</b> </a></td>
+        <td name="td4">Purine riboswitch<br /></td>
+        <td name="td5">RF00167</td>
+      </tr>
+
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Guanine" target="_blank"><b>Guanine-I</b></a></td>
+        <td name="td1">Guanine</td>
+        <td name="td2">The guanine riboswitch selectively recognizes guanine, and contains a cytosine ribonucleotide in a specific position of the guanine-binding aptamer domain, most commonly associated with genes encoding phosphoribosyltransferase (PRT) enzymes. The guanine-I riboswitch has been shown to control gene expression through transcriptional termination.</td>
+        <td name="td3"><a href="https://pubmed.ncbi.nlm.nih.gov/12787499/" target="_blank"><b>2003</b> </a></td>
+        <td name="td4">Purine riboswitch<br /></td>
+        <td name="td5">RF00167</td>
+      </tr>
+
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Guanine" target="_blank"><b>Guanine-II</b></a></td>
+        <td name="td1">Guanine</td>
+        <td name="td2">The guanine riboswitch selectively recognizes guanine, and contains a cytosine ribonucleotide in a specific position of the guanine-binding aptamer domain, most commonly associated with genes encoding phosphoribosyltransferase (PRT) enzymes. The guanine-II riboswitch is consistent with a genetic "ON" switch.</td>
+        <td name="td3"><a href="https://pubmed.ncbi.nlm.nih.gov/35622895/" target="_blank"><b>2022</b> </a></td>
+        <td name="td4">Purine riboswitch<br /></td>
+        <td name="td5">RF00167</td>
+      </tr>
+
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/PRPP" target="_blank"><b>PRPP</b></a></td>
+        <td name="td1">Phosphoribosyl Pyrophosphate</td>
+        <td name="td2">The <i>ykkC</i> RNAs were initially found in 2004. Phosphoribosyl pyrophosphate (PRPP, 5-phospho-α-D-ribose 1-diphosphate) was identified as the ligand for <i>ykkC</i> subtype 2b RNAs (PRPP riboswitches).</td>
+        <td name="td3"><a href="https://pubmed.ncbi.nlm.nih.gov/29504937/" target="_blank"><b>2018</b> </a></td>
+        <td name="td4">None<br /></td>
+        <td name="td5">None</td>
+      </tr>
+
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/PRA" target="_blank"><b>PRA</b></a></td>
+        <td name="td1">5-phospho-Dribosylamine</td>
+        <td name="td2">The PRA riboswitch (<i>Fibro-purF</i> RNA motif) is a conserved RNA structure that was discovered by bioinformatics. All known <i>Fibro-purF</i> RNAs are found upstream of <i>purF</i> genes, which encode amidophosphoribosyltransferase that participates in the biosynthesis of biological purine molecules.</td>
+        <td name="td3"><a href="https://pubmed.ncbi.nlm.nih.gov/32843366/" target="_blank"><b>2020</b> </a></td>
+        <td name="td4">Fibro-purF RNA<br /></td>
+        <td name="td5">RF02974</td>
+      </tr>
+
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/ADP" target="_blank"><b>ADP</b></a></td>
+        <td name="td1">Adenosine diphosphate</td>
+        <td name="td2">The <i>ykkC</i> RNAs were initially found in 2004. The <i>ykkC</i> subtype 2c RNAs were proved to recognize adenosine and cytidine 5′-diphosphate molecules in either their ribose or deoxyribose forms (ADP, dADP, CDP, and dCDP) in 2019.</td>
+        <td name="td3"><a href="https://pubmed.ncbi.nlm.nih.gov/30081631/" target="_blank"><b>2019</b> </a></td>
+        <td name="td4">None<br /></td>
+        <td name="td5">None</td>
+      </tr>
+
+            
+    </table>
+  </div>
+  
+  <div id="sheet4" class="sheet">
+    <h2>Sheet 4</h2>
+    <table>
+      <tr>
+        <th>Header 1</th>
+        <th>Header 2</th>
+        <th>Header 3</th>
+      </tr>
+      <tr>
+        <td>Data 1</td>
+        <td>Data 2</td>
+        <td>test</td>
+      </tr>
+      <!-- 其他行... -->
+    </table>
+  </div>
+
+  <div id="sheet5" class="sheet">
+    <h2>Sheet 5</h2>
+    <table>
+      <tr>
+        <th>Header 1</th>
+        <th>Header 2</th>
+        <th>Header 3</th>
+      </tr>
+      <tr>
+        <td>Data 1</td>
+        <td>Data 2</td>
+        <td>test</td>
+      </tr>
+      <!-- 其他行... -->
+    </table>
+  </div>
+
+  <div id="sheet6" class="sheet">
+    <h2>Sheet 6</h2>
+    <table>
+      <tr>
+        <th>Header 1</th>
+        <th>Header 2</th>
+        <th>Header 3</th>
+      </tr>
+      <tr>
+        <td>Data 1</td>
+        <td>Data 2</td>
+        <td>test</td>
+      </tr>
+      <!-- 其他行... -->
+    </table>
+  </div>
+
+  <script>
+    function showSheet(sheetId) {
+      // 隐藏所有 sheet
+      var sheets = document.getElementsByClassName('sheet');
+      for (var i = 0; i < sheets.length; i++) {
+        sheets[i].style.display = 'none';
+      }
+
+      // 显示选定的 sheet
+      var sheet = document.getElementById(sheetId);
+      sheet.style.display = 'block';
+    }
+
+  function searchSheets() {
+  var searchBox = document.getElementById('searchBox');
+  var keyword = searchBox.value.toLowerCase();
+
+  var sheets = document.getElementsByClassName('sheet');
+  for (var i = 0; i < sheets.length; i++) {
+    var sheet = sheets[i];
+    var sheetTitle = sheet.getElementsByTagName('h2')[0].textContent.toLowerCase();
+    var tableRows = sheet.getElementsByTagName('tr');
+
+    // Loop through each row and cell of the sheet's table
+    var showSheet = false;
+    for (var j = 0; j < tableRows.length; j++) {
+      var cells = tableRows[j].getElementsByTagName('td');
+      for (var k = 0; k < cells.length; k++) {
+        var cellText = cells[k].textContent.toLowerCase();
+        if (cellText.includes(keyword)) {
+          showSheet = true;
+          break;
+        }
+      }
+    }
+
+    // Show or hide the sheet based on whether the keyword was found
+    if (sheetTitle.includes(keyword) || showSheet) {
+      sheet.style.display = 'block';
+    } else {
+      sheet.style.display = 'none';
+    }
+  }
+}
+
+  </script>
+</body>
+</html>
+
+:ET

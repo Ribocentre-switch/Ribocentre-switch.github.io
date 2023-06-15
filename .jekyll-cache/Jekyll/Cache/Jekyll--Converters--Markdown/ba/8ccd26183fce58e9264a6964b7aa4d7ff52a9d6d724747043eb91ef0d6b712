@@ -1,0 +1,29 @@
+I"�<table>
+  <tr>
+    <th>Name</th>
+    <th>Download</th>
+  </tr>
+  <tr>
+    <td>File 1</td>
+    <td><a href="#" onclick="downloadFile('path/to/file1')">Download</a></td>
+  </tr>
+  <tr>
+    <td>File 2</td>
+    <td><a href="#" onclick="downloadFile('path/to/file2')">Download</a></td>
+  </tr>
+  <tr>
+    <td>File 3</td>
+    <td><a href="#" onclick="downloadFile('path/to/file3')">Download</a></td>
+  </tr>
+  <!-- 添加更多行... -->
+</table>
+
+<script>
+  function downloadFile(filePath) {
+    // 在这里执行下载操作，例如使用window.location.href实现下载
+    console.log('Downloading file:', filePath);
+    // 实际下载操作可能涉及服务器端配置和文件处理，此处仅为示例
+  }
+</script>
+
+:ET

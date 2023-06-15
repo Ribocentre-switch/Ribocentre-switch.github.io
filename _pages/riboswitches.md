@@ -13,6 +13,9 @@ permalink: /riboswitches/
     background: #efefef;
     font-size:24px
   }
+  h2{
+    font-size:20px
+  }
 /* 按钮容器样式 */
     .button-container {
       display: flex;
@@ -33,7 +36,7 @@ permalink: /riboswitches/
       font-size: 20px;
       border: 1px solid #005826;
       border-radius: 5px;
-      box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.2);
+      
     }
     /* 鼠标悬停样式 */
     .button:hover {
@@ -64,20 +67,74 @@ permalink: /riboswitches/
 		  min-width: 90px;
 		  padding: 10px 10px;
 		}
-
     /* 隐藏所有 sheet */
     .sheet {
       display: none;
     }
-    
+    /* Style the search box */
+  #searchBox {
+    padding: 10px;
+    font-size: 16px;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    width: 300px;
+  }
+  /* Style the search box when it has focus */
+  #searchBox:focus {
+    outline: none;
+    border-color: #005826;
+  }
+  /* Style the placeholder text */
+  #searchBox::placeholder {
+    font-size: 16px;
+  }
+  /* 搜索框和下载框水平布局 */
+    .form-container {
+      display: flex;
+      align-items: center;
+    }
+    .form-container input {
+      margin-right: 10px;
+    }
+    /* 下载框位置设置 */
+    .form-container select {
+      margin-left: auto;
+      padding: 10px;
+      font-size: 16px;
+      border: 2px solid #ccc;
+      border-radius: 4px;
+      width: 300px;
+    }
+     
   </style>
 </head>
-<body>
+
+<body onload="showSheet('sheet8')">
 <h1 class="post-title" itemprop="name headline">Riboswitches</h1>
     
 Riboswitches are structured noncoding RNA domains which are typically embedded in messenger RNAs in many bacteria, where they monitor the concentrations of their target ligands and regulate gene expression accordingly. Typically, riboswitches are composed of two parts: an 
 aptamer that senses the target ligand and an expression platform that directly interfaces with components of the cell that affect gene expression.
-In the past 20 years, more than 55 riboswitch classes have been experimentally validated and the ligands they sense comprise a diverse list of biologically relevant compounds including fundamental metabolites derived from RNA nucleotides or their precursors, amino acid, elementl ions and et al. For more detailed information about each riboswitches, please browse the table below and click on each riboswitch name.<br>
+In the past 20 years, more than 55 riboswitch classes have been experimentally validated and the ligands they sense comprise a diverse list of biologically relevant compounds including fundamental metabolites derived from RNA nucleotides or their precursors, amino acid, elementl ions and et al. For more detailed information about each riboswitches, please browse the table below and click on each riboswitch name.
+<br><br><br>
+<div class="form-container">
+  <!-- 搜索框 -->
+  <input type="text" id="searchBox" placeholder="Search by keyword..." oninput="searchSheets()"><br><br>
+  <select id="downloadOptions">
+    <option value="" disabled selected>Select an option</option>
+    <option value="/download/riboswitches_page/Cofactors.xlsx">Cofactors</option>
+    <option value="/download/riboswitches_page/RNA derivatives.xlsx">RNA derivatives</option>
+    <option value="/download/riboswitches_page/RNA precursors.xlsx">RNA precursors</option>
+    <option value="/download/riboswitches_page/Signaling molecules.xlsx">Signaling molecules</option>
+    <option value="/download/riboswitches_page/Elemental ions.xlsx">Elemental ions</option>
+    <option value="/download/riboswitches_page/Amino acids.xlsx">Amino acids</option>
+    <option value="/download/riboswitches_page/Sugars.xlsx">Sugars</option>
+    <option value="/download/riboswitches_page/T-box.xlsx">T-box</option>
+    <option value="/download/riboswitches_page/Others.xlsx">Others</option>
+    <option value="/download/riboswitches_page/all.xlsx">all</option>
+  </select>
+  <!-- Download button -->
+  <button class="button" onclick="downloadExcel()">Download</button>
+</div>
 <br>
   <!-- 按钮 -->
   <div class="button-container">
@@ -88,13 +145,12 @@ In the past 20 years, more than 55 riboswitch classes have been experimentally v
       <button class="button" onclick="showSheet('sheet5')">Elemental ions</button>
       <button class="button" onclick="showSheet('sheet6')">Amino acids</button>
       <button class="button" onclick="showSheet('sheet7')">Sugars</button>
-      <button class="button" onclick="showSheet('sheet8')">Others</button>
-      <button class="button" onclick="showSheet('sheet9')">T-box</button>
+      <button class="button" onclick="showSheet('sheet8')">T-box</button>
+      <button class="button" onclick="showSheet('sheet9')">Others</button>
   </div>
-  <br><br>
         
 <div id="sheet1" class="sheet">
-    <p style='font-size:20px'>Cofactors</p>
+    <h2>Cofactors</h2>
     <table>
       <tr>
         <th>name</th>
@@ -311,7 +367,7 @@ RF00174</td>
 </div>        
 
 <div id="sheet2" class="sheet">
-    <p style='font-size:20px'>RNA derivatives</p>
+    <h2>RNA derivatives</h2>
     <table>
       <tr>
         <th>name</th>
@@ -406,7 +462,7 @@ RF00174</td>
 </div>       
 
 <div id="sheet3" class="sheet">
-    <p style='font-size:20px'>RNA precursors</p>
+    <h2>RNA precursors</h2>
     <table>
       <tr>
         <th>name</th>
@@ -481,7 +537,7 @@ RF00174</td>
 </div>       
         
 <div id="sheet4" class="sheet">
-    <p style='font-size:20px'>Signaling molecules</p>
+    <h2>Signaling molecules</h2>
     <table>
       <tr>
         <th>name</th>
@@ -564,7 +620,7 @@ RF03170</td>
 </div>
 
 <div id="sheet5" class="sheet">
-    <p style='font-size:20px'>Elemental ions</p>
+    <h2>Elemental ions</h2>
     <table>
       <tr>
         <th>name</th>
@@ -586,8 +642,8 @@ RF03170</td>
 
             
       <tr>
-         <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Magnesium" target="_blank"><b>Mg<sup>2＋</sup>-I</b></a></td>
-         <td name="td1">Mg<sup>2＋</sup></td>
+         <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Magnesium" target="_blank"><b>Mg<sup>2+</sup>-I</b></a></td>
+         <td name="td1">Mg<sup>2+</sup>-I</td>
          <td name="td2">The Ykok leader or M-box is a Mg-sensing RNA structure that controls the expression of Magnesium ion transport proteins in bacteria. It is a distinct structure to the Magnesium responsive RNA element. Examples of the conserved M-box RNA structure occur upstream of each of the three major families of Mg transporters (CorA, MgtE and MgtA/MgtB) in various bacterial species.</td>
          <td name="td3"><a href="https://pubmed.ncbi.nlm.nih.gov/15096624/" target="_blank"><b>2004</b> </a></td>
          <td name="td4">M-box riboswitch (ykoK leader)<br></td>
@@ -596,8 +652,8 @@ RF03170</td>
 
             
       <tr>
-         <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Magnesium" target="_blank"><b>Mg<sup>2＋</sup>-II</b></a></td>
-         <td name="td1">Mg<sup>2＋</sup></td>
+         <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Magnesium" target="_blank"><b>Mg<sup>2+</sup>-II</b></a></td>
+         <td name="td1">Mg<sup>2+</sup>-I</td>
          <td name="td2">The Magnesium responsive RNA element is a cis-regulatory element that regulates the expression of the magnesium transporter protein MgtA. It is located in the 5' UTR of this gene. A recent report suggests that the RNA element targets the mgtA transcript for degradation by RNase E when cells are grown in high Mg<sup>2+</sup> environments.</td>
          <td name="td3"><a href="https://pubmed.ncbi.nlm.nih.gov/16615891/" target="_blank"><b>2006</b> </a></td>
          <td name="td4">Magnesium Sensor<br></td>
@@ -606,8 +662,8 @@ RF03170</td>
 
             
       <tr>
-         <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Manganese" target="_blank"><b>Mn<sup>2＋</sup></b></a></td>
-         <td name="td1">Mn<sup>2＋</sup></td>
+         <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Manganese" target="_blank"><b>Mn<sup>2+</sup></b></a></td>
+         <td name="td1">Mn<sup>2+</sup></td>
          <td name="td2">The yybP-ykoY leader RNA element was originally discovered in <i>E. coli</i> during a large scale screen and was named SraF. This family was later found to exist upstream of the yybP and ykoY genes in <i>B. subtilis</i>. The<i>yybP-ykoY</i> element was later proposed to be manganese-responsive after another associated family of genes, YebN/MntP, was shown to encode Mn efflux pumps in several bacteria. Genetic data and a crystal structure confirmed that <i>yybP-ykoY</i> is a manganese riboswitch that directly binds Mn<sup>2+</sup>.</td>
          <td name="td3"><a href="https://pubmed.ncbi.nlm.nih.gov/15096624/" target="_blank"><b>2004</b> </a></td>
          <td name="td4">yybP-ykoY manganese riboswitch<br></td>
@@ -617,7 +673,7 @@ RF03170</td>
             
       <tr>
          <td name="td0"><a href="https://ribocentre-switch.github.io/docs/NiCo" target="_blank"><b>NiCo</b></a></td>
-         <td name="td1">Ni<sup>2＋</sup> and Co<sup>2＋</sup></td>
+         <td name="td1">Ni<sup>2+</sup> and Co<sup>2+</sup></td>
          <td name="td2">The NiCo riboswitch is a riboswitch that senses nickel or cobalt ions. Iron responsiveness is also a generalproperty of the <i>czcD</i> family. Thus, it is an RNA molecule that specifically binds these metal ions, and regulates genes accordingly.</td>
          <td name="td3"><a href="https://pubmed.ncbi.nlm.nih.gov/25794617/" target="_blank"><b>2015</b> </a></td>
          <td name="td4">NiCo riboswitch<br></td>
@@ -627,7 +683,7 @@ RF03170</td>
             
       <tr>
          <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Na" target="_blank"><b>Na<sup>+</sup>-I</b></a></td>
-         <td name="td1">Na<sup>+</sup></td>
+         <td name="td1">Na<sup>+</sup>-I</td>
          <td name="td2">The DUF1646 RNA motif is a conserved RNA structure that was discovered by bioinformatics. The genes apparently regulated by DUF1646 RNAs are often related to the transportation of sodium ions. A DUF1646 RNA occurs upstream of an operon in <i>Enterococcus hirae</i> that was shown to regulate the downstream genes based on sodium ion concentrations. However, it is unclear whether this DUF1646 RNA participates in sodium-based gene regulation.</td>
          <td name="td3"><a href="https://pubmed.ncbi.nlm.nih.gov/28977401/" target="_blank"><b>2017</b> </a></td>
          <td name="td4">Na+ riboswitch (DUF1646 RNA)<br></td>
@@ -636,8 +692,8 @@ RF03170</td>
 
             
       <tr>
-         <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Na" target="_blank"><b>Na<sup>+</sup>-II</b></a></td>
-         <td name="td1">Na<sup>+</sup></td>
+         <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Na" target="_blank"><b>Na<sup>+</sup>-I</b></a></td>
+         <td name="td1">Na<sup>+</sup>-I</td>
          <td name="td2">None</td>
          <td name="td3"><a href="None" target="_blank"><b>None</b> </a></td>
          <td name="td4">None<br></td>
@@ -669,7 +725,7 @@ RF03170</td>
 </div>
 
 <div id="sheet6" class="sheet">
-    <p style='font-size:20px'>Amino acids</p>
+    <h2>Amino acids</h2>
     <table>
       <tr>
         <th>name</th>
@@ -720,7 +776,7 @@ RF03170</td>
 </div>        
 
 <div id="sheet7" class="sheet">
-    <p style='font-size:20px'>Sugars</p>
+    <h2>Sugars</h2>
     <table>
       <tr>
         <th>name</th>
@@ -745,7 +801,32 @@ RF03170</td>
 </div>        
         
 <div id="sheet8" class="sheet">
-    <p style='font-size:20px'>Others</p>
+    <h2>T-box</h2>
+    <table>
+      <tr>
+        <th>name</th>
+        <th>Ligand</th>
+        <th>Description</th>
+        <th>Discovery</th>
+        <th>Rfam-name</th>
+        <th>Rfam-ID</th>
+      </tr>
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/T-box" target="_blank"><b>T-box</b></a></td>
+        <td name="td1">tRNA</td>
+        <td name="td2">Usually found in gram-positive bacteria, the T box leader sequence is an RNA element that controls gene expression through the regulation of translation by binding directly to a specific tRNA and sensing its aminoacylation state. This interaction controls expression of downstream aminoacyl-tRNA synthetase genes, amino acid biosynthesis, and uptake-related genes in a negative feedback loop. The uncharged tRNA acts as the effector for transcription antitermination of genes in the T-box leader family. The anticodon of a specific tRNA base pairs to a specifier sequence within the T-box motif, and the NCCA acceptor tail of the tRNA base pairs to a conserved bulge in the T-box antiterminator hairpin.</td>
+        <td name="td3"><a href="https://pubmed.ncbi.nlm.nih.gov/1735721/" target="_blank"><b>1992</b> </a></td>
+        <td name="td4">T-box leader<br></td>
+        <td name="td5">RF00230</td>
+      </tr>
+    
+                
+    </table>
+</div>
+
+<div id="sheet9" class="sheet">
+    <h2>Others</h2>
     <table>
       <tr>
         <th>name</th>
@@ -804,31 +885,6 @@ RF03170</td>
     </table>
 </div>        
                 
-<div id="sheet9" class="sheet">
-    <p style='font-size:20px'>T-box</p>
-    <table>
-      <tr>
-        <th>name</th>
-        <th>Ligand</th>
-        <th>Description</th>
-        <th>Discovery</th>
-        <th>Rfam-name</th>
-        <th>Rfam-ID</th>
-      </tr>
-            
-      <tr>
-        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/T-box" target="_blank"><b>T-box</b></a></td>
-        <td name="td1">tRNA</td>
-        <td name="td2">Usually found in gram-positive bacteria, the T box leader sequence is an RNA element that controls gene expression through the regulation of translation by binding directly to a specific tRNA and sensing its aminoacylation state. This interaction controls expression of downstream aminoacyl-tRNA synthetase genes, amino acid biosynthesis, and uptake-related genes in a negative feedback loop. The uncharged tRNA acts as the effector for transcription antitermination of genes in the T-box leader family. The anticodon of a specific tRNA base pairs to a specifier sequence within the T-box motif, and the NCCA acceptor tail of the tRNA base pairs to a conserved bulge in the T-box antiterminator hairpin.</td>
-        <td name="td3"><a href="https://pubmed.ncbi.nlm.nih.gov/1735721/" target="_blank"><b>1992</b> </a></td>
-        <td name="td4">T-box leader<br></td>
-        <td name="td5">RF00230</td>
-      </tr>
-    
-                
-    </table>
-</div>
-
 <script>
     function showSheet(sheetId) {
       // 隐藏所有 sheet
@@ -841,6 +897,57 @@ RF03170</td>
       var sheet = document.getElementById(sheetId);
       sheet.style.display = 'block';
     }
+     function searchSheets() {
+  var searchBox = document.getElementById('searchBox');
+  var keyword = searchBox.value.toLowerCase();
+
+  var sheets = document.getElementsByClassName('sheet');
+  for (var i = 0; i < sheets.length; i++) {
+    var sheet = sheets[i];
+    var sheetTitle = sheet.getElementsByTagName('h2')[0].textContent.toLowerCase();
+    var tableRows = sheet.getElementsByTagName('tr');
+
+    // Loop through each row and cell of the sheet's table
+    var showSheet = false;
+    for (var j = 0; j < tableRows.length; j++) {
+      var cells = tableRows[j].getElementsByTagName('td');
+      for (var k = 0; k < cells.length; k++) {
+        var cellText = cells[k].textContent.toLowerCase();
+        if (cellText.includes(keyword)) {
+          showSheet = true;
+          break;
+        }
+      }
+    }
+
+    // Show or hide the sheet based on whether the keyword was found
+    if (sheetTitle.includes(keyword) || showSheet) {
+      sheet.style.display = 'block';
+    } else {
+      sheet.style.display = 'none';
+    }
+  }
+}  
+
+function downloadExcel() {
+  var selectElement = document.getElementById('downloadOptions');
+  var selectedValue = selectElement.value;
+
+  // Check if a valid option was selected
+  if (selectedValue !== '') {
+    // Create a temporary link element with the download URL
+    var link = document.createElement('a');
+    link.href = selectedValue;
+    link.download = selectedValue.split('/').pop(); // Set the filename to the last part of the URL
+    document.body.appendChild(link);
+
+    // Trigger a click event on the link to start the download
+    link.click();
+
+    // Remove the link from the DOM
+    document.body.removeChild(link);
+  }
+}
   </script>
         
     </body>

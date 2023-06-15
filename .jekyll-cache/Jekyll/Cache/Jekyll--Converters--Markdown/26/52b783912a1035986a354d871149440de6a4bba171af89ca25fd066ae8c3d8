@@ -1,0 +1,118 @@
+I"�
+<html>
+<head>
+  <style>
+    /* 样式表格 */
+    table {
+      border-collapse: collapse;
+      width: 100%;
+    }
+
+    th, td {
+      border: 1px solid black;
+      padding: 8px;
+      text-align: left;
+    }
+
+    th {
+      background-color: #f2f2f2;
+    }
+
+    /* 隐藏所有 sheet */
+    .sheet {
+      display: none;
+    }
+  </style>
+</head>
+<body onload="showSheet('sheet1')">
+  <!-- 搜索框 -->
+  <input type="text" id="searchBox" placeholder="搜索关键字..." oninput="searchSheets()" />
+
+  <!-- 按钮 -->
+  <button onclick="showSheet('sheet1')">Sheet 1</button>
+  <button onclick="showSheet('sheet2')">Sheet 2</button>
+
+  <!-- 表格 -->
+  <div id="sheet1" class="sheet">
+    <h2></h2>
+     <p style="font-size:20px">Cofactors</p>
+    <table>
+      <tr>
+        <th>Header 1</th>
+        <th>Header 2</th>
+        <th>Header 3</th>
+      </tr>
+      <tr>
+        <td>Data 1</td>
+        <td>Data 2</td>
+        <td>Data 3</td>
+      </tr>
+      <!-- 其他行... -->
+    </table>
+  </div>
+
+  <div id="sheet2" class="sheet">
+    <h2>Sheet 2</h2>
+    <table>
+      <tr>
+        <th>Header 1</th>
+        <th>Header 2</th>
+        <th>Header 3</th>
+      </tr>
+      <tr>
+        <td>Data 1</td>
+        <td>Data 2</td>
+        <td>test</td>
+      </tr>
+      <!-- 其他行... -->
+    </table>
+  </div>
+
+  <script>
+    function showSheet(sheetId) {
+      // 隐藏所有 sheet
+      var sheets = document.getElementsByClassName('sheet');
+      for (var i = 0; i < sheets.length; i++) {
+        sheets[i].style.display = 'none';
+      }
+
+      // 显示选定的 sheet
+      var sheet = document.getElementById(sheetId);
+      sheet.style.display = 'block';
+    }
+
+    function searchSheets() {
+  var searchBox = document.getElementById('searchBox');
+  var keyword = searchBox.value.toLowerCase();
+
+  var sheets = document.getElementsByClassName('sheet');
+  for (var i = 0; i < sheets.length; i++) {
+    var sheet = sheets[i];
+    var sheetTitle = sheet.getElementsByTagName('p')[0].textContent.toLowerCase();
+    var tableRows = sheet.getElementsByTagName('tr');
+
+    // Loop through each row and cell of the sheet's table
+    var showSheet = false;
+    for (var j = 0; j < tableRows.length; j++) {
+      var cells = tableRows[j].getElementsByTagName('td');
+      for (var k = 0; k < cells.length; k++) {
+        var cellText = cells[k].textContent.toLowerCase();
+        if (cellText.includes(keyword)) {
+          showSheet = true;
+          break;
+        }
+      }
+    }
+
+    // Show or hide the sheet based on whether the keyword was found
+    if (sheetTitle.includes(keyword) || showSheet) {
+      sheet.style.display = 'block';
+    } else {
+      sheet.style.display = 'none';
+    }
+  }
+}
+  </script>
+</body>
+</html>
+:ET
