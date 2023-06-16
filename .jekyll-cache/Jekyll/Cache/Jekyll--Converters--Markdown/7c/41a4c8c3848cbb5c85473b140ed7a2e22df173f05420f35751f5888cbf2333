@@ -1,0 +1,67 @@
+I"ë<p>&lt;!DOCTYPE html&gt;</p>
+<html>
+<head>
+    <meta charset="UTF-8" />
+    <title>Multiple Sheets</title>
+    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.24/css/dataTables.bootstrap4.min.css" />
+    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.2/css/bootstrap.css" />
+    <script type="text/javascript" src="https://code.jquery.com/jquery-3.5.1.js"></script>
+    <script type="text/javascript" src="https://cdn.datatables.net/1.10.24/js/jquery.dataTables.min.js"></script>
+    <script type="text/javascript" src="https://cdn.datatables.net/1.10.24/js/dataTables.bootstrap4.min.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function() {
+            $('#tableSheet1').DataTable();
+            $('#tableSheet2').DataTable();
+        });
+    </script>
+</head>
+<body>
+<div class="container">
+    <div class="row">
+        <div class="col">
+            <h2>Sheet 1</h2>
+            <table id="tableSheet1" class="table table-striped">
+                <thead>
+                <tr>
+                    <th>Column 1</th>
+                    <th>Column 2</th>
+                    <!-- Add more columns if needed -->
+                </tr>
+                </thead>
+                <tbody>
+                <tr>
+                    <td>Data 1</td>
+                    <td>Data 2</td>
+                    <!-- Add more rows if needed -->
+                </tr>
+                <!-- Add more rows here -->
+                </tbody>
+            </table>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col">
+            <h2>Sheet 2</h2>
+            <table id="tableSheet2" class="table table-striped">
+                <thead>
+                <tr>
+                    <th>Column 1</th>
+                    <th>Column 2</th>
+                    <!-- Add more columns if needed -->
+                </tr>
+                </thead>
+                <tbody>
+                <tr>
+                    <td>Data 1</td>
+                    <td>Data 2</td>
+                    <!-- Add more rows if needed -->
+                </tr>
+                <!-- Add more rows here -->
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+</body>
+</html>
+:ET

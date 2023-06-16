@@ -111,7 +111,7 @@ permalink: /
 </p>
 </div>
 </div>
-<br>
+
 
 
 

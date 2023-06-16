@@ -5,11 +5,11 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Sequence-info</title>
-  <meta name="description" content="sequence info ">
+  <title>Structure - Structure</title>
+  <meta name="description" content="Structure - Structure">
   <!--<link rel="stylesheet" href="http://localhost:4001/css/main.css>-->
   <link rel="stylesheet" href="/css/main.css">
-  <link rel="canonical" href="http://localhost:4001/sequen/">
+  <link rel="canonical" href="http://localhost:4001/order_test/">
   <link rel="shortcut icon" type ="image/x-icon" href="http://localhost:4001/images/favicon.ico">
 
 
@@ -120,11 +120,6 @@
   .box_style{
     background: #f4f4f4;
   }
-  .well {
-    max-width: 70%;
-    margin: 0 auto;
-    border-top: 3px solid black;
-    }
   .wrapper {
     display: block;
     position: relative;
@@ -133,6 +128,11 @@
     padding: 0;
     text-align: left;
     word-wrap: break-word;
+    }
+    .well {
+    max-width: 70%;
+    margin: 0 auto;
+    border-top: 3px solid black;
     }
   .sectiontitle {
     display: block;
@@ -146,33 +146,104 @@
   }
 </style>
 
+
 <div class="wrapper box_style " >
   <br>
   <div class="well" style="border: 1px solid #C9C9C9; background-color: #fff;">
     <section class="sectiontitle"> 
-   
-     <h2 id="sequence">Sequence</h2>
-<p><strong> Shows the sequence of Ribozyme (Rfam ID for fasta file download). We keep the U in the partial sequence because it is consistent with the sequence information in the fasta file. ( We provide the script could change T into U on the page).<strong> <a href="https://www.ribocentre.org/downloads/sequence-T2U.ipynb" target="_blank" download="sequence-T2U.ipynb"><button class="btn btn-secondary"><span class="glyphicon glyphicon-download-alt"></span>  Download Script</button></a><br /><br /></strong></strong></p>
+      <html>
+<head>
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no" />
+    <title>Ribozyme applications</title>
+    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.12.1/css/jquery.dataTables.min.css" />
+    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/buttons/2.2.3/css/buttons.dataTables.min.css" />
 
-<html>
-  <head>
-    <title>Sequence search</title>
-  </head>
-  <body>
-    <rnacentral-sequence-search databases="[&quot;ribocentre&quot;]" examples="[
-              { &quot;description&quot;:&quot;c-di-GMP-II-GAG riboswitch&quot;,&quot;urs&quot;: &quot;&quot;, &quot;sequence&quot;: &quot;CUGCACGCGGGAGGCUGUGAUCCGCCGGACGUACCGACUGCGGCCACCGCAGUCCGGCGGGGAGCCACUGGUGAGACCGGCCCCCGAAG&quot;},
-              { &quot;description&quot;:&quot;TPP riboswitch&quot;,&quot;urs&quot;: &quot;&quot;, &quot;sequence&quot;: &quot;AGGAGCCGTGCGAGATGAAAGTCTCATGCACGGTTTTGCATGATAGAAAGAAGCGAGGAATCCTCTTTTCGACTCTGAC&quot;}
-            ]" rfam="true" />
-  <script type="text/javascript" src="https://www.ribocentre.org/js/RNAcentral-sequence-search.js"></script></body>
+    <script type="text/javascript" src="https://code.jquery.com/jquery-3.5.1.js"></script>
+    <script type="text/javascript" src="https://cdn.datatables.net/1.12.1/js/jquery.dataTables.min.js"></script>
+
+    <script type="text/javascript">
+        $(document).ready(function() {
+            $.noConflict();
+            $('#Dnatable').DataTable({
+                dom: 'Bfrtip',
+                searching: false,
+                buttons: [
+                    'copy', 'csv', 'excel', 'pdf', 'print'
+                ]
+            });
+
+            $('#tableSheet2').DataTable({
+                dom: 'Bfrtip',
+                searching: false,
+                buttons: [
+                    'copy', 'csv', 'excel', 'pdf', 'print'
+                ]
+            });
+        });
+   </script>
+</head>
+<body>
+<div id="sheet1" class="sheet">
+    <h2>Sheet 1</h2>
+    <table id="Dnatable">
+        <thead>
+        <tr>
+            <th>Column 1</th>
+            <th>Column 2</th>
+            <!-- Add more columns if needed -->
+        </tr>
+        </thead>
+        <tbody>
+        <tr>
+            <td>1</td>
+            <td>6</td>
+            <!-- Add more rows if needed -->
+        </tr>
+        <tr>
+            <td>7</td>
+            <td>3</td>
+            <!-- Add more rows if needed -->
+        </tr>
+        <!-- Add more rows here -->
+        </tbody>
+    </table>
+</div>
+
+<div id="sheet2" class="sheet">
+    <h2>Sheet 2</h2>
+    <table id="tableSheet2">
+        <thead>
+        <tr>
+            <th>Column 1</th>
+            <th>Column 2</th>
+            <!-- Add more columns if needed -->
+        </tr>
+        </thead>
+        <tbody>
+        <tr>
+            <td>4</td>
+            <td>6</td>
+            <!-- Add more rows if needed -->
+        </tr>
+         <tr>
+            <td>7</td>
+            <td>5</td>
+            <!-- Add more rows if needed -->
+        </tr>
+        <!-- Add more rows here -->
+        </tbody>
+    </table>
+</div>
+</body>
 </html>
 
-    
     </section>
-    
   </div>
   <br>
 </div>
 <br>
+
         </div>
       </div>
     <div id="footer" class="panel">

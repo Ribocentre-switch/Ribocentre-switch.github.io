@@ -153,11 +153,24 @@
     <section class="sectiontitle"> 
       <html lang="en">
 <head>
+<!--set sort order in table header begin-->
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no" />
+  <title>Ribozyme applications</title>
+  <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.12.1/css/jquery.dataTables.min.css" />
+  <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/buttons/2.2.3/css/buttons.dataTables.min.css" />
+
+  <script type="text/javascript" src="https://code.jquery.com/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="https://cdn.datatables.net/1.12.1/js/jquery.dataTables.min.js"></script>
+  <!--set sort order in table header finish-->
   <style>
     .header_box {
     border: none;
     background: #efefef;
     font-size:24px
+  }
+  h2{
+    font-size:20px
   }
 /* 按钮容器样式 */
     .button-container {
@@ -179,7 +192,7 @@
       font-size: 20px;
       border: 1px solid #005826;
       border-radius: 5px;
-      box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.2);
+      
     }
     /* 鼠标悬停样式 */
     .button:hover {
@@ -193,6 +206,7 @@
 		    border: 2px solid #767676;
 		    border-radius: 5px;
 		    background-color: #fff;
+		    border-radius: 0;
         }
 		  th {
         background-color: #719B71;
@@ -207,21 +221,74 @@
 		    background-color: #f9f9f9;
 		    }		
 		  th, td {
-		  min-width: 90px;
 		  padding: 10px 10px;
 		}
-
     /* 隐藏所有 sheet */
     .sheet {
       display: none;
     }
-    
+    /* Style the search box */
+  #searchBox {
+    padding: 10px;
+    font-size: 16px;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    width: 300px;
+  }
+  /* Style the search box when it has focus */
+  #searchBox:focus {
+    outline: none;
+    border-color: #2354C4;
+  }
+  /* Style the placeholder text */
+  #searchBox::placeholder {
+    font-size: 16px;
+  }
+  /* 搜索框和下载框水平布局 */
+    .form-container {
+      display: flex;
+      align-items: center;
+    }
+    .form-container input {
+      margin-right: 10px;
+    }
+    /* 下载框位置设置 */
+    .form-container select {
+      margin-left: auto;
+      padding: 10px;
+      font-size: 16px;
+      border: 2px solid #ccc;
+      border-radius: 4px;
+      width: 300px;
+    }
+     
   </style>
 </head>
-<body>
-<h1 class="post-title" itemprop="name headline">Structure Updating</h1>
+
+<body onload="showSheet('sheet1')">
+<h1 class="post-title" itemprop="name headline">Structures</h1>
     
-<strong>This page shows all PDB of the collected riboswitches. We also list phase determination of each PDB.</strong><br />
+This page shows all PDB of the collected riboswitches. We also list phase determination of each PDB.
+<br /><br /><br />
+<div class="form-container">
+  <!-- 搜索框 -->
+  <input type="text" id="searchBox" placeholder="Search by keyword..." oninput="searchSheets()" /><br /><br />
+  <select id="downloadOptions">
+    <option value="" disabled="" selected="">Select an option</option>
+    <option value="/download/structures_page/Cofactors.xlsx">Cofactors</option>
+    <option value="/download/structures_page/RNA derivatives.xlsx">RNA derivatives</option>
+    <option value="/download/structures_page/RNA precursors.xlsx">RNA precursors</option>
+    <option value="/download/structures_page/Signaling molecules.xlsx">Signaling molecules</option>
+    <option value="/download/structures_page/Elemental ions.xlsx">Elemental ions</option>
+    <option value="/download/structures_page/Amino acids.xlsx">Amino acids</option>
+    <option value="/download/structures_page/Sugars.xlsx">Sugars</option>
+    <option value="/download/structures_page/T-box.xlsx">T-box</option>
+    <option value="/download/structures_page/Others.xlsx">Others</option>
+    <option value="/download/structures_page/all.xlsx">all</option>
+  </select>
+  <!-- Download button -->
+  <button class="button" onclick="downloadExcel()">Download</button>
+</div>
 <br />
   <!-- 按钮 -->
   <div class="button-container">
@@ -232,26 +299,28 @@
       <button class="button" onclick="showSheet('sheet5')">Elemental ions</button>
       <button class="button" onclick="showSheet('sheet6')">Amino acids</button>
       <button class="button" onclick="showSheet('sheet7')">Sugars</button>
-      <button class="button" onclick="showSheet('sheet8')">Others</button>
-      <button class="button" onclick="showSheet('sheet9')">T-box</button>
+      <button class="button" onclick="showSheet('sheet8')">T-box</button>
+      <button class="button" onclick="showSheet('sheet9')">Others</button>
   </div>
-  <br /><br />
         
 <div id="sheet1" class="sheet">
-    <p style="font-size:20px">Cofactors</p>
-    <table>
+    <h2>Cofactors</h2>
+    <table id="cfttable">
+      <thead>
       <tr>
-        <th>Name</th>
-        <th>PDB</th>
-        <th>Length</th>
-        <th>Description(PDB)</th>
-        <th>Species</th>
-        <th>Phase Determination</th>
-        <th>Structure Determination</th>
-        <th>Res(Å)</th>
-        <th>Year</th>
-        <th>Journal</th>
+        <th onclick="sortTable(0)">Name</th>
+        <th onclick="sortTable(1)">PDB</th>
+        <th onclick="sortTable(2)">Length</th>
+        <th onclick="sortTable(3)">Description(PDB)</th>
+        <th onclick="sortTable(4)">Species</th>
+        <th onclick="sortTable(5)">Phase Determination</th>
+        <th onclick="sortTable(6)">Structure Determination</th>
+        <th onclick="sortTable(7)">Res(Å)</th>
+        <th onclick="sortTable(8)">Year</th>
+        <th onclick="sortTable(9)">Journal</th>
       </tr>
+      </thead>
+      <tbody>
         
       <tr>
         <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Cobalamine" target="_blank"><b>Adocbl</b></a></td>
@@ -2065,24 +2134,28 @@ MIR-Co, Ir, Ba</td>
       </tr>
     
             
+        </tbody>
     </table>
 </div>        
 
 <div id="sheet2" class="sheet">
-    <p style="font-size:20px">RNA derivatives</p>
-    <table>
+    <h2>RNA derivatives</h2>
+    <table id="rnadetable">
+      <thead>
       <tr>
-        <th>Name</th>
-        <th>PDB</th>
-        <th>Length</th>
-        <th>Description(PDB)</th>
-        <th>Species</th>
-        <th>Phase Determination</th>
-        <th>Structure Determination</th>
-        <th>Res(Å)</th>
-        <th>Year</th>
-        <th>Journal</th>
+        <th onclick="sortTable(0)">Name</th>
+        <th onclick="sortTable(1)">PDB</th>
+        <th onclick="sortTable(2)">Length</th>
+        <th onclick="sortTable(3)">Description(PDB)</th>
+        <th onclick="sortTable(4)">Species</th>
+        <th onclick="sortTable(5)">Phase Determination</th>
+        <th onclick="sortTable(6)">Structure Determination</th>
+        <th onclick="sortTable(7)">Res(Å)</th>
+        <th onclick="sortTable(8)">Year</th>
+        <th onclick="sortTable(9)">Journal</th>
       </tr>
+      </thead>
+      <tbody>
         
         <tr>
             <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Xanthine" target="_blank"><b>Xanthine-I</b></a></td>
@@ -2574,24 +2647,28 @@ MIR-Co, Ir, Ba</td>
         </tr>
 
                 
+        </tbody>
     </table>
 </div>       
 
 <div id="sheet3" class="sheet">
-    <p style="font-size:20px">RNA precursors</p>
-    <table>
+    <h2>RNA precursors</h2>
+    <table id="rnapretable">
+      <thead>
       <tr>
-        <th>Name</th>
-        <th>PDB</th>
-        <th>Length</th>
-        <th>Description(PDB)</th>
-        <th>Species</th>
-        <th>Phase Determination</th>
-        <th>Structure Determination</th>
-        <th>Res(Å)</th>
-        <th>Year</th>
-        <th>Journal</th>
+        <th onclick="sortTable(0)">Name</th>
+        <th onclick="sortTable(1)">PDB</th>
+        <th onclick="sortTable(2)">Length</th>
+        <th onclick="sortTable(3)">Description(PDB)</th>
+        <th onclick="sortTable(4)">Species</th>
+        <th onclick="sortTable(5)">Phase Determination</th>
+        <th onclick="sortTable(6)">Structure Determination</th>
+        <th onclick="sortTable(7)">Res(Å)</th>
+        <th onclick="sortTable(8)">Year</th>
+        <th onclick="sortTable(9)">Journal</th>
       </tr>
+      </thead>
+      <tbody>
         
       <tr>
         <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Adenine" target="_blank"><b>Adenine</b></a></td>
@@ -3349,25 +3426,28 @@ MIR-Co, Ir, Ba</td>
     </tr>
     
             
+     </tbody>
     </table>
 </div>       
         
 <div id="sheet4" class="sheet">
-    <p style="font-size:20px">Signaling molecules</p>
-    <table>
+    <h2>Signaling molecules</h2>
+    <table id="smtable">
+      <thead>
       <tr>
-        <th>Name</th>
-        <th>PDB</th>
-        <th>Length</th>
-        <th>Description(PDB)</th>
-        <th>Species</th>
-        <th>Phase Determination</th>
-        <th>Structure Determination</th>
-        <th>Res(Å)</th>
-        <th>Year</th>
-        <th>Journal</th>
-
+        <th onclick="sortTable(0)">Name</th>
+        <th onclick="sortTable(1)">PDB</th>
+        <th onclick="sortTable(2)">Length</th>
+        <th onclick="sortTable(3)">Description(PDB)</th>
+        <th onclick="sortTable(4)">Species</th>
+        <th onclick="sortTable(5)">Phase Determination</th>
+        <th onclick="sortTable(6)">Structure Determination</th>
+        <th onclick="sortTable(7)">Res(Å)</th>
+        <th onclick="sortTable(8)">Year</th>
+        <th onclick="sortTable(9)">Journal</th>
       </tr>
+      </thead>
+      <tbody>
         
        <tr>
             <td name="td0"><a href="https://ribocentre-switch.github.io/docs/c-AMP-GMP" target="_blank"><b>C-AMP-GMP</b></a></td>
@@ -3944,24 +4024,28 @@ SAD-Ir</td>
        </tr>
     
                 
+     </tbody>
     </table>
 </div>
 
 <div id="sheet5" class="sheet">
-    <p style="font-size:20px">Elemental ions</p>
-    <table>
+    <h2>Elemental ions</h2>
+    <table id="eletable">
+      <thead>
       <tr>
-        <th>Name</th>
-        <th>PDB</th>
-        <th>Length</th>
-        <th>Description(PDB)</th>
-        <th>Species</th>
-        <th>Phase Determination</th>
-        <th>Structure Determination</th>
-        <th>Res(Å)</th>
-        <th>Year</th>
-        <th>Journal</th>
+        <th onclick="sortTable(0)">Name</th>
+        <th onclick="sortTable(1)">PDB</th>
+        <th onclick="sortTable(2)">Length</th>
+        <th onclick="sortTable(3)">Description(PDB)</th>
+        <th onclick="sortTable(4)">Species</th>
+        <th onclick="sortTable(5)">Phase Determination</th>
+        <th onclick="sortTable(6)">Structure Determination</th>
+        <th onclick="sortTable(7)">Res(Å)</th>
+        <th onclick="sortTable(8)">Year</th>
+        <th onclick="sortTable(9)">Journal</th>
       </tr>
+      </thead>
+      <tbody>
         
       <tr>
         <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Fluoride" target="_blank"><b>Fluoride</b></a></td>
@@ -4201,25 +4285,28 @@ SAD-Ir</td>
       </tr>
 
             
+     </tbody>
     </table>
 </div>
 
 <div id="sheet6" class="sheet">
-    <p style="font-size:20px">Amino acids</p>
-    <table>
+    <h2>Amino acids</h2>
+    <table id="amintable">
+      <thead>
       <tr>
-        <th>Name</th>
-        <th>PDB</th>
-        <th>Length</th>
-        <th>Description(PDB)</th>
-        <th>Species</th>
-        <th>Phase Determination</th>
-        <th>Structure Determination</th>
-        <th>Res(Å)</th>
-        <th>Year</th>
-        <th>Journal</th>
-
+        <th onclick="sortTable(0)">Name</th>
+        <th onclick="sortTable(1)">PDB</th>
+        <th onclick="sortTable(2)">Length</th>
+        <th onclick="sortTable(3)">Description(PDB)</th>
+        <th onclick="sortTable(4)">Species</th>
+        <th onclick="sortTable(5)">Phase Determination</th>
+        <th onclick="sortTable(6)">Structure Determination</th>
+        <th onclick="sortTable(7)">Res(Å)</th>
+        <th onclick="sortTable(8)">Year</th>
+        <th onclick="sortTable(9)">Journal</th>
       </tr>
+      </thead>
+      <tbody>
         
       <tr>
          <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Glycine" target="_blank"><b>Glycine</b></a></td>
@@ -4624,24 +4711,28 @@ SAD-Ir</td>
          <td name="td9">Nucleic Acids Res</td>
       </tr>
             
+     </tbody>
     </table>
 </div>        
 
 <div id="sheet7" class="sheet">
-    <p style="font-size:20px">Sugars</p>
-    <table>
+    <h2>Sugars</h2>
+    <table id="sugtable">
+      <thead>
       <tr>
-        <th>Name</th>
-        <th>PDB</th>
-        <th>Length</th>
-        <th>Description(PDB)</th>
-        <th>Species</th>
-        <th>Phase Determination</th>
-        <th>Structure Determination</th>
-        <th>Res(Å)</th>
-        <th>Year</th>
-        <th>Journal</th>
+        <th onclick="sortTable(0)">Name</th>
+        <th onclick="sortTable(1)">PDB</th>
+        <th onclick="sortTable(2)">Length</th>
+        <th onclick="sortTable(3)">Description(PDB)</th>
+        <th onclick="sortTable(4)">Species</th>
+        <th onclick="sortTable(5)">Phase Determination</th>
+        <th onclick="sortTable(6)">Structure Determination</th>
+        <th onclick="sortTable(7)">Res(Å)</th>
+        <th onclick="sortTable(8)">Year</th>
+        <th onclick="sortTable(9)">Journal</th>
       </tr>
+      </thead>
+      <tbody>
         
       <tr>
          <td name="td0"><a href="https://ribocentre-switch.github.io/docs/GlcN6P" target="_blank"><b>GlcN6P</b></a></td>
@@ -4937,24 +5028,121 @@ SAD-Ir</td>
       </tr>
     
             
+     </tbody>
     </table>
 </div>        
         
 <div id="sheet8" class="sheet">
-    <p style="font-size:20px">Others</p>
-    <table>
+    <h2>T-box</h2>
+    <table id="tboxtable">
+      <thead>
       <tr>
-        <th>Name</th>
-        <th>PDB</th>
-        <th>Length</th>
-        <th>Description(PDB)</th>
-        <th>Species</th>
-        <th>Phase Determination</th>
-        <th>Structure Determination</th>
-        <th>Res(Å)</th>
-        <th>Year</th>
-        <th>Journal</th>
+        <th onclick="sortTable(0)">Name</th>
+        <th onclick="sortTable(1)">PDB</th>
+        <th onclick="sortTable(2)">Length</th>
+        <th onclick="sortTable(3)">Description(PDB)</th>
+        <th onclick="sortTable(4)">Species</th>
+        <th onclick="sortTable(5)">Phase Determination</th>
+        <th onclick="sortTable(6)">Structure Determination</th>
+        <th onclick="sortTable(7)">Res(Å)</th>
+        <th onclick="sortTable(8)">Year</th>
+        <th onclick="sortTable(9)">Journal</th>
       </tr>
+      </thead>
+      <tbody>
+            
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/T-box" target="_blank"><b>T-box</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/6PMO" target="_blank"><b>6PMO</b></a></td>
+        <td name="td2">75</td>
+        <td name="td3">Co-crystal structure of the Geobacillus kaustophilus glyQ T-box riboswitch discriminator domain in complex with tRNA-Gly</td>
+        <td name="td4">Geobacillus kaustophilus</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">2.66 Å</td>
+        <td name="td8"><a href="None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+      </tr>
+    
+                
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/T-box" target="_blank"><b>T-box</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/6POM" target="_blank"><b>6POM</b></a></td>
+        <td name="td2">75</td>
+        <td name="td3">Cryo-EM structure of the full-length Bacillus subtilis glyQS T-box riboswitch in complex with tRNA-Gly</td>
+        <td name="td4">Bacillus subtilis</td>
+        <td name="td5">None</td>
+        <td name="td6">ELECTRON MICROSCOPY</td>
+        <td name="td7">4.90 Å </td>
+        <td name="td8"><a href="None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+      </tr>
+    
+                
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/T-box" target="_blank"><b>T-box</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/6UFM" target="_blank"><b>6UFM</b></a></td>
+        <td name="td2">77</td>
+        <td name="td3">Cocrystal Structure of the Nocardia farcinica ileS T-box riboswitch in complex with its cognate tRNA</td>
+        <td name="td4">Mycolicibacterium smegmatis', 'Nocardia farcinica</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">2.82 Å</td>
+        <td name="td8"><a href="None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+      </tr>
+    
+                
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/T-box" target="_blank"><b>T-box</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/7UQ6" target="_blank"><b>7UQ6</b></a></td>
+        <td name="td2">86</td>
+        <td name="td3">tRNA T-box antiterminator fusion, construct #4</td>
+        <td name="td4">Geobacillus kaustophilus</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">2.95 Å</td>
+        <td name="td8"><a href="None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+      </tr>
+    
+                
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/T-box" target="_blank"><b>T-box</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/7UZ0" target="_blank"><b>7UZ0</b></a></td>
+        <td name="td2">87</td>
+        <td name="td3">AntiT-tRNA flip UCCA</td>
+        <td name="td4">Geobacillus kaustophilus</td>
+        <td name="td5">None</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">3.03 Å</td>
+        <td name="td8"><a href="None" target="_blank"><b>None</b></a></td>
+        <td name="td9">None</td>
+      </tr>
+    
+                
+     </tbody>
+    </table>
+</div>
+
+<div id="sheet9" class="sheet">
+    <h2>Others</h2>
+    <table id="othtable">
+      <thead>
+      <tr>
+        <th onclick="sortTable(0)">Name</th>
+        <th onclick="sortTable(1)">PDB</th>
+        <th onclick="sortTable(2)">Length</th>
+        <th onclick="sortTable(3)">Description(PDB)</th>
+        <th onclick="sortTable(4)">Species</th>
+        <th onclick="sortTable(5)">Phase Determination</th>
+        <th onclick="sortTable(6)">Structure Determination</th>
+        <th onclick="sortTable(7)">Res(Å)</th>
+        <th onclick="sortTable(8)">Year</th>
+        <th onclick="sortTable(9)">Journal</th>
+      </tr>
+      </thead>
+      <tbody>
         
       <tr>
             <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Guanidine" target="_blank"><b>Guanidine-I</b></a></td>
@@ -5268,99 +5456,99 @@ P2-7bp</b></a></td>
             <td name="td9">Cell Chem Biol</td>
       </tr>
             
+      </tbody>
     </table>
 </div>        
                 
-<div id="sheet9" class="sheet">
-    <p style="font-size:20px">T-box</p>
-    <table>
-      <tr>
-        <th>Name</th>
-        <th>PDB</th>
-        <th>Length</th>
-        <th>Description(PDB)</th>
-        <th>Species</th>
-        <th>Phase Determination</th>
-        <th>Structure Determination</th>
-        <th>Res(Å)</th>
-        <th>Year</th>
-        <th>Journal</th>
-      </tr>
-            
-      <tr>
-        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/T-box" target="_blank"><b>T-box</b></a></td>
-        <td name="td1"><a href="https://www.rcsb.org/structure/6PMO" target="_blank"><b>6PMO</b></a></td>
-        <td name="td2">75</td>
-        <td name="td3">Co-crystal structure of the Geobacillus kaustophilus glyQ T-box riboswitch discriminator domain in complex with tRNA-Gly</td>
-        <td name="td4">Geobacillus kaustophilus</td>
-        <td name="td5">None</td>
-        <td name="td6">X-RAY DIFFRACTION</td>
-        <td name="td7">2.66 Å</td>
-        <td name="td8"><a href="None" target="_blank"><b>None</b></a></td>
-        <td name="td9">None</td>
-      </tr>
-    
-                
-      <tr>
-        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/T-box" target="_blank"><b>T-box</b></a></td>
-        <td name="td1"><a href="https://www.rcsb.org/structure/6POM" target="_blank"><b>6POM</b></a></td>
-        <td name="td2">75</td>
-        <td name="td3">Cryo-EM structure of the full-length Bacillus subtilis glyQS T-box riboswitch in complex with tRNA-Gly</td>
-        <td name="td4">Bacillus subtilis</td>
-        <td name="td5">None</td>
-        <td name="td6">ELECTRON MICROSCOPY</td>
-        <td name="td7">4.90 Å </td>
-        <td name="td8"><a href="None" target="_blank"><b>None</b></a></td>
-        <td name="td9">None</td>
-      </tr>
-    
-                
-      <tr>
-        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/T-box" target="_blank"><b>T-box</b></a></td>
-        <td name="td1"><a href="https://www.rcsb.org/structure/6UFM" target="_blank"><b>6UFM</b></a></td>
-        <td name="td2">77</td>
-        <td name="td3">Cocrystal Structure of the Nocardia farcinica ileS T-box riboswitch in complex with its cognate tRNA</td>
-        <td name="td4">Mycolicibacterium smegmatis', 'Nocardia farcinica</td>
-        <td name="td5">None</td>
-        <td name="td6">X-RAY DIFFRACTION</td>
-        <td name="td7">2.82 Å</td>
-        <td name="td8"><a href="None" target="_blank"><b>None</b></a></td>
-        <td name="td9">None</td>
-      </tr>
-    
-                
-      <tr>
-        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/T-box" target="_blank"><b>T-box</b></a></td>
-        <td name="td1"><a href="https://www.rcsb.org/structure/7UQ6" target="_blank"><b>7UQ6</b></a></td>
-        <td name="td2">86</td>
-        <td name="td3">tRNA T-box antiterminator fusion, construct #4</td>
-        <td name="td4">Geobacillus kaustophilus</td>
-        <td name="td5">None</td>
-        <td name="td6">X-RAY DIFFRACTION</td>
-        <td name="td7">2.95 Å</td>
-        <td name="td8"><a href="None" target="_blank"><b>None</b></a></td>
-        <td name="td9">None</td>
-      </tr>
-    
-                
-      <tr>
-        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/T-box" target="_blank"><b>T-box</b></a></td>
-        <td name="td1"><a href="https://www.rcsb.org/structure/7UZ0" target="_blank"><b>7UZ0</b></a></td>
-        <td name="td2">87</td>
-        <td name="td3">AntiT-tRNA flip UCCA</td>
-        <td name="td4">Geobacillus kaustophilus</td>
-        <td name="td5">None</td>
-        <td name="td6">X-RAY DIFFRACTION</td>
-        <td name="td7">3.03 Å</td>
-        <td name="td8"><a href="None" target="_blank"><b>None</b></a></td>
-        <td name="td9">None</td>
-      </tr>
-    
-                
-    </table>
-</div>
-
 <script>
+    // set sort order in table header begin script
+     $(document).ready(function() {
+    $.noConflict();
+    $('#cfttable').DataTable({
+      dom: 'Bfrtip',
+      searching: false,
+      buttons: [
+        'copy', 'csv', 'excel', 'pdf', 'print'
+      ]
+    });
+
+    $('#rnadetable').DataTable({
+      dom: 'Bfrtip',
+      searching: false,
+      buttons: [
+        'copy', 'csv', 'excel', 'pdf', 'print'
+      ]
+    });
+    
+    $('#rnapretable').DataTable({
+      dom: 'Bfrtip',
+      searching: false,
+      buttons: [
+        'copy', 'csv', 'excel', 'pdf', 'print'
+      ]
+    });
+    $('#smtable').DataTable({
+      dom: 'Bfrtip',
+      searching: false,
+      buttons: [
+        'copy', 'csv', 'excel', 'pdf', 'print'
+      ]
+    });
+    $('#eletable').DataTable({
+      dom: 'Bfrtip',
+      searching: false,
+      buttons: [
+        'copy', 'csv', 'excel', 'pdf', 'print'
+      ]
+    });
+    $('#amintable').DataTable({
+      dom: 'Bfrtip',
+      searching: false,
+      buttons: [
+        'copy', 'csv', 'excel', 'pdf', 'print'
+      ]
+    });
+    $('#sugtable').DataTable({
+      dom: 'Bfrtip',
+      searching: false,
+      buttons: [
+        'copy', 'csv', 'excel', 'pdf', 'print'
+      ]
+    });
+    $('#tboxtable').DataTable({
+      dom: 'Bfrtip',
+      searching: false,
+      buttons: [
+        'copy', 'csv', 'excel', 'pdf', 'print'
+      ]
+    });
+    $('#othtable').DataTable({
+      dom: 'Bfrtip',
+      searching: false,
+      buttons: [
+        'copy', 'csv', 'excel', 'pdf', 'print'
+      ]
+    });
+  });
+    
+
+  function sortTable(columnIndex) {
+    // TODO: Add sorting logic based on the columnIndex
+  }
+
+  function downloadExcel() {
+    // TODO: Implement downloadExcel function
+  }
+
+  function searchSheets() {
+    // TODO: Implement searchSheets function
+  }
+
+  function showSheet(sheetId) {
+    // TODO: Implement showSheet function
+  }
+    // set sort order in table header finish script
+    
     function showSheet(sheetId) {
       // 隐藏所有 sheet
       var sheets = document.getElementsByClassName('sheet');
@@ -5372,6 +5560,57 @@ P2-7bp</b></a></td>
       var sheet = document.getElementById(sheetId);
       sheet.style.display = 'block';
     }
+     function searchSheets() {
+  var searchBox = document.getElementById('searchBox');
+  var keyword = searchBox.value.toLowerCase();
+
+  var sheets = document.getElementsByClassName('sheet');
+  for (var i = 0; i < sheets.length; i++) {
+    var sheet = sheets[i];
+    var sheetTitle = sheet.getElementsByTagName('h2')[0].textContent.toLowerCase();
+    var tableRows = sheet.getElementsByTagName('tr');
+
+    // Loop through each row and cell of the sheet's table
+    var showSheet = false;
+    for (var j = 0; j < tableRows.length; j++) {
+      var cells = tableRows[j].getElementsByTagName('td');
+      for (var k = 0; k < cells.length; k++) {
+        var cellText = cells[k].textContent.toLowerCase();
+        if (cellText.includes(keyword)) {
+          showSheet = true;
+          break;
+        }
+      }
+    }
+
+    // Show or hide the sheet based on whether the keyword was found
+    if (sheetTitle.includes(keyword) || showSheet) {
+      sheet.style.display = 'block';
+    } else {
+      sheet.style.display = 'none';
+    }
+  }
+}  
+
+function downloadExcel() {
+  var selectElement = document.getElementById('downloadOptions');
+  var selectedValue = selectElement.value;
+
+  // Check if a valid option was selected
+  if (selectedValue !== '') {
+    // Create a temporary link element with the download URL
+    var link = document.createElement('a');
+    link.href = selectedValue;
+    link.download = selectedValue.split('/').pop(); // Set the filename to the last part of the URL
+    document.body.appendChild(link);
+
+    // Trigger a click event on the link to start the download
+    link.click();
+
+    // Remove the link from the DOM
+    document.body.removeChild(link);
+  }
+}
   </script>
         
     </body>

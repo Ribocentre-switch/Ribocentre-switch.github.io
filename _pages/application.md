@@ -33,8 +33,9 @@ This page shows some of the applications of the collected riboswitches. We liste
       font-weight: bold;
       border: 1px solid #005826;
       border-radius: 5px;
-      box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.2);
+      
     }
+    
     
     /* 鼠标悬停样式 */
     .button:hover {
@@ -67,7 +68,7 @@ This page shows some of the applications of the collected riboswitches. We liste
 Riboswitches can affect bacterial homeostasis, development, pathogenicity, and antibiotic resistance at the transcriptional or translational level and generate complex three-dimensional structures with well-defined small-molecule binding sites. These features make them attractive targets for antimicrobial therapy.<br>      
         
 Schematic representation of the FMN riboswitch as new antibacterials target. Different antibacterial compounds bind to the FMN riboswitch and abolish the expression of the downstream genes (left). The chemical structure and KD of the antibacterial compounds is also indicated (right).<br>
-<img src="/images/applications/application_figure.svg" alt="drawing" style="weight:400px;display:block;margin:0 auto;border:solid 1px"><br>
+<img src="/images/applications/application_figure.svg" alt="drawing" style="weight:400px;display:block;margin:0 auto;border:solid 1px;border-radius:0;"><br>
 <a href="/images/applications/application_figure.svg" target="_blank" download="Developing new antibacterials.svg"><button class="btn btn-secondary"><span class="glyphicon 
 glyphicon-download-alt"></span>&nbsp;&nbsp;Download above picture</button></a><br>
 <br>
@@ -101,7 +102,7 @@ glyphicon-download-alt"></span>&nbsp;&nbsp;Download above picture</button></a><b
             $('#Dnatable').DataTable( {
                 dom: 'Bfrtip', 
                 buttons: [
-                    'copy', 'csv', 'excel', 'pdf', 'print'
+                    'copy', 'csv', 'excel', 'pdf', 
                 ]
 
             } );
@@ -127,8 +128,8 @@ glyphicon-download-alt"></span>&nbsp;&nbsp;Download above picture</button></a><b
     <td>Narasimhan Sudarsan</td>
     <td>Ronald R. Breaker</td>
     <td>2005</td>
-    <td>Chemistry & Biology</td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/16356850"  target="_blank" ><b>16356850</b></a></td>
+    <td>Thiamine Pyrophosphate Riboswitches Are Targets for the Antimicrobial Compound Pyrithiamine</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/16356850"  target="_blank" ><b>Chemistry & Biology</b></a></td>
   </tr>
     
                     
@@ -138,8 +139,8 @@ glyphicon-download-alt"></span>&nbsp;&nbsp;Download above picture</button></a><b
     <td>Kenneth F. Blount</td>
     <td>Ronald R. Breaker</td>
     <td>2015</td>
-    <td>Antimicrobial Agents and Chemotherapy</td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/26169403"  target="_blank" ><b>26169403</b></a></td>
+    <td>Novel Riboswitch-Binding Flavin Analog That Protects Mice against Clostridium difficile Infection without Inhibiting Cecal Flora</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/26169403"  target="_blank" ><b>Antimicrobial Agents and Chemotherapy</b></a></td>
   </tr>
     
                     
@@ -149,8 +150,8 @@ glyphicon-download-alt"></span>&nbsp;&nbsp;Download above picture</button></a><b
     <td>Bhaiyyasaheb Harale</td>
     <td>Ambadas B. Rode</td>
     <td>2021</td>
-    <td>Bioorganic & Medicinal Chemistry Letters </td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/34242760"  target="_blank" ><b>34242760</b></a></td>
+    <td>Synthesis and Evaluation of Antimycobacterial Activity of Riboflavin Derivatives</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/34242760"  target="_blank" ><b>Bioorganic & Medicinal Chemistry Letters </b></a></td>
   </tr>
     
                     
@@ -160,8 +161,8 @@ glyphicon-download-alt"></span>&nbsp;&nbsp;Download above picture</button></a><b
     <td>John A. Howe</td>
     <td>Terry Roemer</td>
     <td>2015</td>
-    <td>Nature</td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/26416753"  target="_blank" ><b>26416753</b></a></td>
+    <td>Selective Small-Molecule Inhibition of an RNA Structural Element</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/26416753"  target="_blank" ><b>Nature</b></a></td>
   </tr>
     
                     
@@ -171,8 +172,8 @@ glyphicon-download-alt"></span>&nbsp;&nbsp;Download above picture</button></a><b
     <td>John A. Howe</td>
     <td>Terry Roemer</td>
     <td>2016</td>
-    <td>RNA Biology </td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/27485612"  target="_blank" ><b>27485612</b></a></td>
+    <td>Atomic resolution mechanistic studies of ribocil: A highly selective unnatural ligand mimic of the E. coli FMN riboswitch</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/27485612"  target="_blank" ><b>RNA Biology </b></a></td>
   </tr>
     
                     
@@ -182,8 +183,8 @@ glyphicon-download-alt"></span>&nbsp;&nbsp;Download above picture</button></a><b
     <td>Mikael Mansjö</td>
     <td>Jörgen Johansson</td>
     <td>2011</td>
-    <td>RNA Biology </td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/21593602"  target="_blank" ><b>21593602</b></a></td>
+    <td>The Riboflavin Analog Roseoflavin Targets an FMN-Riboswitch and Blocks Listeria Monocytogenes Growth, but Also Stimulates Virulence Gene-Expression and Infection</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/21593602"  target="_blank" ><b>RNA Biology </b></a></td>
   </tr>
     
                     
@@ -193,8 +194,8 @@ glyphicon-download-alt"></span>&nbsp;&nbsp;Download above picture</button></a><b
     <td>Stephen E Motika</td>
     <td>Paul J Hergenrother</td>
     <td>2020</td>
-    <td>Journal of the American Chemical Society </td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/32432858"  target="_blank" ><b>32432858</b></a></td>
+    <td>Gram-Negative Antibiotic Active Through Inhibition of an Essential Riboswitch</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/32432858"  target="_blank" ><b>Journal of the American Chemical Society </b></a></td>
   </tr>
     
                     
@@ -204,8 +205,8 @@ glyphicon-download-alt"></span>&nbsp;&nbsp;Download above picture</button></a><b
     <td>Eva Ott</td>
     <td>Matthias Mack</td>
     <td>2009</td>
-    <td>RNA Biology </td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/19333008"  target="_blank" ><b>19333008</b></a></td>
+    <td>The RFN riboswitch of Bacillus subtilis is a target for the antibiotic roseoflavin produced by Streptomyces davawensis</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/19333008"  target="_blank" ><b>RNA Biology </b></a></td>
   </tr>
     
                     
@@ -215,8 +216,8 @@ glyphicon-download-alt"></span>&nbsp;&nbsp;Download above picture</button></a><b
     <td>Martina Traykovska</td>
     <td>Robert Penchovsky</td>
     <td>2022</td>
-    <td>ACS Synthetic Biology </td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/35440139"  target="_blank" ><b>35440139</b></a></td>
+    <td>Engineering Antisense Oligonucleotides as Antibacterial Agents That Target FMN Riboswitches and Inhibit the Growth of Staphylococcus aureus, Listeria monocytogenes, and Escherichia coli</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/35440139"  target="_blank" ><b>ACS Synthetic Biology </b></a></td>
   </tr>
     
                     
@@ -226,8 +227,8 @@ glyphicon-download-alt"></span>&nbsp;&nbsp;Download above picture</button></a><b
     <td>Elaine R. Lee</td>
     <td>Ronald R. Breaker</td>
     <td>2009</td>
-    <td>RNA Biology </td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/19246992"  target="_blank" ><b>19246992</b></a></td>
+    <td>Roseoflavin is a natural antibacterial compound that binds to FMN riboswitches and regulates gene expression</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/19246992"  target="_blank" ><b>RNA Biology </b></a></td>
   </tr>
     
                     
@@ -237,8 +238,8 @@ glyphicon-download-alt"></span>&nbsp;&nbsp;Download above picture</button></a><b
     <td>Quentin Vicens </td>
     <td>Robert T Batey</td>
     <td>2018</td>
-    <td>ACS Chemical Biology</td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/30107111"  target="_blank" ><b>30107111</b></a></td>
+    <td>Structure-Activity Relationship of Flavin Analogues That Target the Flavin Mononucleotide Riboswitch</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/30107111"  target="_blank" ><b>ACS Chemical Biology</b></a></td>
   </tr>
     
                     
@@ -248,8 +249,8 @@ glyphicon-download-alt"></span>&nbsp;&nbsp;Download above picture</button></a><b
     <td>Hao Wang</td>
     <td>Terry Roemer</td>
     <td>2017</td>
-    <td>Cell Chemical Biology </td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/28434876"  target="_blank" ><b>28434876</b></a></td>
+    <td>Dual-Targeting Small-Molecule Inhibitors of the Staphylococcus Aureus FMN Riboswitch Disrupt Riboflavin Homeostasis in an Infectious Setting</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/28434876"  target="_blank" ><b>Cell Chemical Biology </b></a></td>
   </tr>
     
                     
@@ -259,8 +260,8 @@ glyphicon-download-alt"></span>&nbsp;&nbsp;Download above picture</button></a><b
     <td>Anna Schüller</td>
     <td>Günter Mayer</td>
     <td>2017</td>
-    <td>Chembiochem</td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/28012261"  target="_blank" ><b>28012261</b></a></td>
+    <td>Activation of the glmS Ribozyme Confers Bacterial Growth Inhibition</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/28012261"  target="_blank" ><b>Chembiochem</b></a></td>
   </tr>
     
                     
@@ -270,8 +271,8 @@ glyphicon-download-alt"></span>&nbsp;&nbsp;Download above picture</button></a><b
     <td>Martina Traykovska</td>
     <td>Robert Penchovsky</td>
     <td>2021</td>
-    <td>ACS Synthetic Biology</td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/34734706"  target="_blank" ><b>34734706</b></a></td>
+    <td>Targeting glmS Ribozyme with Chimeric Antisense Oligonucleotides for Antibacterial Drug DevelopmentTargeting glmS Ribozyme with Chimeric Antisense Oligonucleotides for Antibacterial Drug Development</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/34734706"  target="_blank" ><b>ACS Synthetic Biology</b></a></td>
   </tr>
     
                     
@@ -281,8 +282,8 @@ glyphicon-download-alt"></span>&nbsp;&nbsp;Download above picture</button></a><b
     <td>Kenneth Blount</td>
     <td>Ronald R. Breaker</td>
     <td>2006</td>
-    <td>RNA Biology </td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/17114942"  target="_blank" ><b>17114942</b></a></td>
+    <td>Development and Application of a High-Throughput Assay for glmS Riboswitch Activators</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/17114942"  target="_blank" ><b>RNA Biology </b></a></td>
   </tr>
     
                     
@@ -292,8 +293,8 @@ glyphicon-download-alt"></span>&nbsp;&nbsp;Download above picture</button></a><b
     <td>Jérôme Mulhbacher </td>
     <td>Daniel A Lafontaine</td>
     <td>2010</td>
-    <td>PLoS Pathogens</td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/20421948"  target="_blank" ><b>20421948</b></a></td>
+    <td>Novel Riboswitch Ligand Analogs as Selective Inhibitors of Guanine-Related Metabolic Pathways</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/20421948"  target="_blank" ><b>PLoS Pathogens</b></a></td>
   </tr>
     
                     
@@ -303,8 +304,8 @@ glyphicon-download-alt"></span>&nbsp;&nbsp;Download above picture</button></a><b
     <td>C Ster</td>
     <td>F Malouin</td>
     <td>2013</td>
-    <td>Journal of Dairy Science </td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/23245959"  target="_blank" ><b>23245959</b></a></td>
+    <td>Experimental Treatment of Staphylococcus Aureus Bovine Intramammary Infection Using a Guanine Riboswitch Ligand Analog</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/23245959"  target="_blank" ><b>Journal of Dairy Science </b></a></td>
   </tr>
     
                     
@@ -314,8 +315,8 @@ glyphicon-download-alt"></span>&nbsp;&nbsp;Download above picture</button></a><b
     <td>Kyla M Frohlich</td>
     <td>Paul F Agris</td>
     <td>2019</td>
-    <td>ChemMedChem </td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/30707489"  target="_blank" ><b>30707489</b></a></td>
+    <td>Discovery of Small-Molecule Antibiotics against a Unique tRNA-Mediated Regulation of Transcription in Gram-Positive Bacteria</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/30707489"  target="_blank" ><b>ChemMedChem </b></a></td>
   </tr>
     
                     
@@ -325,8 +326,8 @@ glyphicon-download-alt"></span>&nbsp;&nbsp;Download above picture</button></a><b
     <td>Thorsten M Seyler </td>
     <td>Paul F Agris</td>
     <td>2021</td>
-    <td>Antibiotics (Basel)</td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/33406640"  target="_blank" ><b>33406640</b></a></td>
+    <td>A New Promising Anti-Infective Agent Inhibits Biofilm Growth by Targeting Simultaneously a Conserved RNA Function That Controls Multiple Genes</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/33406640"  target="_blank" ><b>Antibiotics (Basel)</b></a></td>
   </tr>
     
                     
@@ -336,8 +337,8 @@ glyphicon-download-alt"></span>&nbsp;&nbsp;Download above picture</button></a><b
     <td>Vassiliki Stamatopoulou</td>
     <td>Constantinos Stathopoulos</td>
     <td>2017</td>
-    <td>Nucleic Acids Research </td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/28973457"  target="_blank" ><b>28973457</b></a></td>
+    <td>Direct Modulation of T-Box Riboswitch-Controlled Transcription by Protein Synthesis Inhibitors</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/28973457"  target="_blank" ><b>Nucleic Acids Research </b></a></td>
   </tr>
     
                     
@@ -347,8 +348,8 @@ glyphicon-download-alt"></span>&nbsp;&nbsp;Download above picture</button></a><b
     <td>Ville Y P Väre</td>
     <td>Paul F Agris</td>
     <td>2020</td>
-    <td>Antimicrob Agents Chemother</td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/33077662"  target="_blank" ><b>33077662</b></a></td>
+    <td>Small-Molecule Antibiotics Inhibiting tRNA-Regulated Gene Expression Is a Viable Strategy for Targeting Gram-Positive Bacteria</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/33077662"  target="_blank" ><b>Antimicrob Agents Chemother</b></a></td>
   </tr>
     
                     
@@ -390,7 +391,7 @@ Re-engineered riboswitches that no longer respond to cellular metabolites, but t
             $('#SBtable').DataTable( {
                 dom: 'Bfrtip', 
                 buttons: [
-                    'copy', 'csv', 'excel', 'pdf', 'print'
+                    'copy', 'csv', 'excel', 'pdf', 
                 ]
 
             } );
@@ -416,66 +417,66 @@ Re-engineered riboswitches that no longer respond to cellular metabolites, but t
     <td>Xiaohui Gao</td>
     <td>Charles E Dann 3rd</td>
     <td>2014</td>
-    <td>Applied and Environmental Microbiology</td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/25085482"  target="_blank" ><b>25085482</b></a></td>
+    <td>Engineering of Bacillus Subtilis Strains to Allow Rapid Characterization of Heterologous Diguanylate Cyclases and Phosphodiesterases</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/25085482"  target="_blank" ><b>Applied and Environmental Microbiology</b></a></td>
   </tr>
-
-                        
+    
+                    
   <tr>
     <td><a href="https://ribocentre-switch.github.io/docs/GlcN6P" target="_blank"><b>Glms riboswitch</b></a></td>
     <td>This paper integrated the glmS ribozyme into the 3'-untranslated region of FCY1, which encodes cytosine deaminase in Saccharomyces cerevisiae. A suicide riboswitch for evolutionary was constructed in this way.</td>
     <td>Sang-Woo Lee</td>
     <td>Min-Kyu Oh</td>
     <td>2015</td>
-    <td>Metabolic Engineering </td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/25596509"  target="_blank" ><b>25596509</b></a></td>
+    <td>A Synthetic Suicide Riboswitch for the High-Throughput Screening of Metabolite Production in Saccharomyces Cerevisiae</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/25596509"  target="_blank" ><b>Metabolic Engineering </b></a></td>
   </tr>
-
-                        
+    
+                    
   <tr>
     <td><a href="https://ribocentre-switch.github.io/docs/nan" target="_blank"><b>Theophylline riboswitch</b></a></td>
     <td>This study demonstrated the utility and ease of use of riboswitches in the context of genetic engineering and synthetic biology in diverse cyanobacteria, which will facilitate the development of algal biotechnology.</td>
     <td>Amy T Ma</td>
     <td>James W Golden</td>
     <td>2014</td>
-    <td>Applied and Environmental Microbiology</td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/25149516"  target="_blank" ><b>25149516</b></a></td>
+    <td>Regulation of Gene Expression in Diverse Cyanobacterial Species by Using Theophylline-Responsive Riboswitches</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/25149516"  target="_blank" ><b>Applied and Environmental Microbiology</b></a></td>
   </tr>
-
-                        
+    
+                    
   <tr>
     <td><a href="https://ribocentre-switch.github.io/docs/PreQ" target="_blank"><b>PreQ1 riboswitch</b></a></td>
     <td>This study successfully modified naturally occurring preQ1 riboswitches for inducible gene knockdown applications in mycobacteria and, in the course of doing so, discovered novel behavior for these riboswitches.</td>
     <td>Erik R Van Vlack</td>
     <td>Jessica C Seeliger</td>
     <td>2017</td>
-    <td>Journal of Bacteriology </td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/28069821"  target="_blank" ><b>28069821</b></a></td>
+    <td>Characterization of Engineered PreQ1 Riboswitches for Inducible Gene Regulation in Mycobacteria</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/28069821"  target="_blank" ><b>Journal of Bacteriology </b></a></td>
   </tr>
-
-                        
+    
+                    
   <tr>
     <td><a href="https://ribocentre-switch.github.io/docs/PreQ" target="_blank"><b>PreQ1 riboswitch</b></a></td>
     <td>This paper described a rational targeted approach used to re-engineer the PreQ1 riboswitch from Bacillus subtilis into an orthogonal OFF-switch.</td>
     <td>Ming-Cheng Wu</td>
     <td>Jason Micklefield</td>
     <td>2015</td>
-    <td>Journal of the American Chemical Society </td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/26106809"  target="_blank" ><b>26106809</b></a></td>
+    <td>Rational Re-Engineering of a Transcriptional Silencing PreQ1 Riboswitch</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/26106809"  target="_blank" ><b>Journal of the American Chemical Society </b></a></td>
   </tr>
-
-                        
+    
+                    
   <tr>
     <td><a href="https://ribocentre-switch.github.io/docs/PreQ" target="_blank"><b>Purine riboswitch</b></a></td>
     <td>This paper showed how the modular architecture of purine riboswitches can be exploited to develop orthogonal and chimeric switches that are transferable across diverse bacterial species, modulating either transcription or translation, to provide tunable activation or repression of target gene expression, in response to synthetic non-natural effector molecules</td>
     <td>Christopher J Robinson </td>
     <td>Jason Micklefield</td>
     <td>2014</td>
-    <td>Journal of the American Chemical Society </td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/24971878"  target="_blank" ><b>24971878</b></a></td>
+    <td>Modular Riboswitch Toolsets for Synthetic Genetic Control in Diverse Bacterial Species</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/24971878"  target="_blank" ><b>Journal of the American Chemical Society </b></a></td>
   </tr>
-
-                        
+    
+                    
     </tbody>
     </table>
     </html><br>
@@ -514,7 +515,7 @@ Due to riboswitches inherent ability to both detect a specifi c metabolite with 
             $('#Bbtable').DataTable( {
                 dom: 'Bfrtip', 
                 buttons: [
-                    'copy', 'csv', 'excel', 'pdf', 'print'
+                    'copy', 'csv', 'excel', 'pdf', 
                 ]
 
             } );
@@ -540,44 +541,44 @@ Due to riboswitches inherent ability to both detect a specifi c metabolite with 
     <td>Yuan Ma</td>
     <td>Yi Lu</td>
     <td>2021</td>
-    <td>Chemical Science</td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/34659710"  target="_blank" ><b>34659710</b></a></td>
+    <td>A Highly Sensitive and Selective Fluoride Sensor Based on a Riboswitch-Regulated Transcription Coupled with CRISPR-Cas13a Tandem Reaction</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/34659710"  target="_blank" ><b>Chemical Science</b></a></td>
   </tr>
-
-                        
+    
+                    
   <tr>
     <td><a href="https://ribocentre-switch.github.io/docs/Fluoride" target="_blank"><b>Fluoride riboswitch</b></a></td>
     <td>This study demonstrated that small molecule fluoride toxicity agonists can be identified by HTS from existing chemical libraries by exploiting a natural fluoride riboswitch. </td>
     <td>James W Nelson</td>
     <td>Ronald R. Breaker</td>
     <td>2015</td>
-    <td>Chemistry & Biology </td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/25910244"  target="_blank" ><b>25910244</b></a></td>
+    <td>Small Molecule Fluoride Toxicity Agonists</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/25910244"  target="_blank" ><b>Chemistry & Biology </b></a></td>
   </tr>
-
-                        
+    
+                    
   <tr>
     <td><a href="https://ribocentre-switch.github.io/docs/Fluoride" target="_blank"><b>Fluoride riboswitch</b></a></td>
     <td>This study demonstrated that a fluoride riboswitch can be implemented in a CFE system to act as a field-deployable diagnostic for environmental water samples.</td>
     <td>Walter Thavarajah</td>
     <td>Julius B Lucks</td>
     <td>2020</td>
-    <td>ACS Synthetic Biology</td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/31829623"  target="_blank" ><b>31829623</b></a></td>
+    <td>Point-of-Use Detection of Environmental Fluoride a Cell-Free Riboswitch-Based Biosensor</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/31829623"  target="_blank" ><b>ACS Synthetic Biology</b></a></td>
   </tr>
-
-                        
+    
+                    
   <tr>
     <td><a href="https://ribocentre-switch.github.io/docs/ZTP" target="_blank"><b>ZTP riboswitch</b></a></td>
     <td>This study developed and validated a robust fluorescent reporter system based on a ZTP riboswitch, and identified numerous folate biosynthesis inhibitors with high sensitivity and precision.</td>
     <td>Kevin R Perkins</td>
     <td>Ronald R. Breaker</td>
     <td>2019</td>
-    <td>ACS Chemical Biology</td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/31609568"  target="_blank" ><b>31609568</b></a></td>
+    <td>Employing a ZTP Riboswitch to Detect Bacterial Folate Biosynthesis Inhibitors in a Small Molecule High-Throughput Screen</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/31609568"  target="_blank" ><b>ACS Chemical Biology</b></a></td>
   </tr>
-
-                        
+    
+                    
     </tbody>
     </table>
     </html><br>
@@ -616,7 +617,7 @@ Riboswitches regulate gene expression by inducing (ON-switches) or repressing (O
             $('#Gttable').DataTable( {
                 dom: 'Bfrtip', 
                 buttons: [
-                    'copy', 'csv', 'excel', 'pdf', 'print'
+                    'copy', 'csv', 'excel', 'pdf', 
                 ]
 
             } );
@@ -642,44 +643,44 @@ Riboswitches regulate gene expression by inducing (ON-switches) or repressing (O
     <td>Benjamin Strobel</td>
     <td>Sebastian Kreuz</td>
     <td>2015</td>
-    <td>Molecular Therapy</td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/26137851"  target="_blank" ><b>26137851</b></a></td>
+    <td>Riboswitch-Mediated Attenuation of Transgene Cytotoxicity Increases Adeno-Associated Virus Vector Yields in HEK-293 Cells</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/26137851"  target="_blank" ><b>Molecular Therapy</b></a></td>
   </tr>
-
-                        
+    
+                    
   <tr>
     <td><a href="https://ribocentre-switch.github.io/docs/Guanidine" target="_blank"><b>Guanine-responsive aptazyme</b></a></td>
     <td>This paper used a guanine-responsive aptazyme to control transgene expression from a replication-incompetent vesicular stomatitis virus (VSV) vector</td>
     <td>Kei Takahashi</td>
     <td>Yohei Yokobayashi</td>
     <td>2019</td>
-    <td>ACS Synthetic Biology</td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/31415142"  target="_blank" ><b>31415142</b></a></td>
+    <td>Reversible Gene Regulation in Mammalian Cells Using Riboswitch-Engineered Vesicular Stomatitis Virus Vector </td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/31415142"  target="_blank" ><b>ACS Synthetic Biology</b></a></td>
   </tr>
-
-                        
+    
+                    
   <tr>
     <td><a href="https://ribocentre-switch.github.io/docs/FMN" target="_blank"><b>FMN riboswitch</b></a></td>
     <td>This review summarizes how riboswitch regulates the riboflavin biosynthesis pathway in Bacillus subtilis and Lactobacillus plantarum.</td>
     <td>Vikram</td>
     <td> Jayesh J Ahire</td>
     <td>2022</td>
-    <td>3 Biotech </td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/36275359"  target="_blank" ><b>36275359</b></a></td>
+    <td>Riboswitch-mediated regulation of riboflavin biosynthesis genes in prokaryotes</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/36275359"  target="_blank" ><b>3 Biotech </b></a></td>
   </tr>
-
-                        
+    
+                    
   <tr>
     <td><a href="https://ribocentre-switch.github.io/docs/nan" target="_blank"><b>K19 riboswitch</b></a></td>
     <td>This study revealed significant differences in the function of riboswitches and provided important aspects on optimizing expression cassette designs. The findings would benefit further research and development of riboswitches.</td>
     <td>Reetta A E Eriksson</td>
     <td>Kari J Airenne</td>
     <td>2022</td>
-    <td>Frontiers of Medicine</td>
-    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/36582287"  target="_blank" ><b>36582287</b></a></td>
+    <td>Optimized Riboswitch-Regulated AAV Vector for VEGF-B Gene Therapy</td>
+    <td><a href="https://www.ncbi.nlm.nih.gov/pubmed/36582287"  target="_blank" ><b>Frontiers of Medicine</b></a></td>
   </tr>
-
-                        
+    
+                    
     </tbody>
     </table>
     </html><br>

@@ -1,0 +1,74 @@
+I"�
+<p>&lt;!DOCTYPE html&gt;</p>
+<html>
+<head>
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no" />
+    <title>Multiple Sheets</title>
+    <!-- 使用CDNJS加载所需的JavaScript库 -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.6.0/css/bootstrap.min.css" />
+    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.12.1/css/dataTables.bootstrap4.min.css" />
+    <script type="text/javascript" src="https://cdn.datatables.net/1.12.1/js/jquery.dataTables.min.js"></script>
+    <script type="text/javascript" src="https://cdn.datatables.net/1.12.1/js/dataTables.bootstrap4.min.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function() {
+            $('#tableSheet1').DataTable();
+            $('#tableSheet2').DataTable();
+        });
+    </script>
+</head>
+<body>
+<div class="container">
+    <div class="row">
+        <div class="col-12">
+            <div id="sheet1" class="sheet">
+                <h2>Sheet 1</h2>
+                <table id="tableSheet1" class="table table-striped table-bordered">
+                    <thead>
+                    <tr>
+                        <th>Column 1</th>
+                        <th>Column 2</th>
+                        <!-- 添加更多列 -->
+                    </tr>
+                    </thead>
+                    <tbody>
+                    <tr>
+                        <td>Data 1</td>
+                        <td>Data 2</td>
+                        <!-- 添加更多行 -->
+                    </tr>
+                    <!-- 在此添加更多行 -->
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-12">
+            <div id="sheet2" class="sheet">
+                <h2>Sheet 2</h2>
+                <table id="tableSheet2" class="table table-striped table-bordered">
+                    <thead>
+                    <tr>
+                        <th>Column 1</th>
+                        <th>Column 2</th>
+                        <!-- 添加更多列 -->
+                    </tr>
+                    </thead>
+                    <tbody>
+                    <tr>
+                        <td>Data 1</td>
+                        <td>Data 2</td>
+                        <!-- 添加更多行 -->
+                    </tr>
+                    <!-- 在此添加更多行 -->
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+</body>
+</html>
+:ET

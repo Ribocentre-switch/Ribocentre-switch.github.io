@@ -7,6 +7,16 @@ permalink: /riboswitches/
 ---
 <html lang="en">
 <head>
+<!--set sort order in table header begin-->
+<meta http-equiv="Content-type" content="text/html; charset=utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no">
+  <title>Ribozyme applications</title>
+  <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.12.1/css/jquery.dataTables.min.css">
+  <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/buttons/2.2.3/css/buttons.dataTables.min.css">
+
+  <script type="text/javascript" src="https://code.jquery.com/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="https://cdn.datatables.net/1.12.1/js/jquery.dataTables.min.js"></script>
+  <!--set sort order in table header finish-->
   <style>
     .header_box {
     border: none;
@@ -36,7 +46,7 @@ permalink: /riboswitches/
       font-size: 20px;
       border: 1px solid #005826;
       border-radius: 5px;
-      
+
     }
     /* 鼠标悬停样式 */
     .button:hover {
@@ -50,6 +60,7 @@ permalink: /riboswitches/
 		    border: 2px solid #767676;
 		    border-radius: 5px;
 		    background-color: #fff;
+		    border-radius: 0;
         }
 		  th {
         background-color: #719B71;
@@ -64,7 +75,7 @@ permalink: /riboswitches/
 		    background-color: #f9f9f9;
 		    }		
 		  th, td {
-		  min-width: 90px;
+
 		  padding: 10px 10px;
 		}
     /* 隐藏所有 sheet */
@@ -82,7 +93,7 @@ permalink: /riboswitches/
   /* Style the search box when it has focus */
   #searchBox:focus {
     outline: none;
-    border-color: #005826;
+    border-color: #2354C4;
   }
   /* Style the placeholder text */
   #searchBox::placeholder {
@@ -105,11 +116,11 @@ permalink: /riboswitches/
       border-radius: 4px;
       width: 300px;
     }
-     
+
   </style>
 </head>
 
-<body onload="showSheet('sheet8')">
+<body onload="showSheet('sheet2')">
 <h1 class="post-title" itemprop="name headline">Riboswitches</h1>
     
 Riboswitches are structured noncoding RNA domains which are typically embedded in messenger RNAs in many bacteria, where they monitor the concentrations of their target ligands and regulate gene expression accordingly. Typically, riboswitches are composed of two parts: an 
@@ -151,15 +162,18 @@ In the past 20 years, more than 55 riboswitch classes have been experimentally v
         
 <div id="sheet1" class="sheet">
     <h2>Cofactors</h2>
-    <table>
+    <table id="cfttable">
+      <thead>
       <tr>
-        <th>name</th>
-        <th>Ligand</th>
-        <th>Description</th>
-        <th>Discovery</th>
-        <th>Rfam-name</th>
-        <th>Rfam-ID</th>
+        <th onclick="sortTable(0)">Name</th>
+        <th onclick="sortTable(1)">Ligand</th>
+        <th onclick="sortTable(2)">Description</th>
+        <th onclick="sortTable(3)">Discovery</th>
+        <th onclick="sortTable(4)">Rfam-name</th>
+        <th onclick="sortTable(5)">Rfam-ID</th>
       </tr>
+      </thead>
+      <tbody>
         
       <tr>
         <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Cobalamine" target="_blank"><b>AdoCbl</b></a></td>
@@ -171,7 +185,7 @@ Cobalamin riboswitch<br></td>
         <td name="td5">RF01482
 RF00174</td>
       </tr>
-    
+
             
       <tr>
         <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Cobalamine" target="_blank"><b>AqCbl</b></a></td>
@@ -181,7 +195,7 @@ RF00174</td>
         <td name="td4">AdoCbl variant RNA<br></td>
         <td name="td5">RF01689</td>
       </tr>
-    
+
             
       <tr>
         <td name="td0"><a href="https://ribocentre-switch.github.io/docs/FMN" target="_blank"><b>FMN</b></a></td>
@@ -191,7 +205,7 @@ RF00174</td>
         <td name="td4">FMN riboswitch (RFN element)<br></td>
         <td name="td5">RF00050</td>
       </tr>
-    
+
             
       <tr>
         <td name="td0"><a href="https://ribocentre-switch.github.io/docs/MoCo&Wco" target="_blank"><b>MoCo</b></a></td>
@@ -201,7 +215,7 @@ RF00174</td>
         <td name="td4">Moco (molybdenum cofactor) riboswitch<br></td>
         <td name="td5">RF01055</td>
       </tr>
-    
+
             
       <tr>
         <td name="td0"><a href="https://ribocentre-switch.github.io/docs/MoCo&Wco" target="_blank"><b>Wco</b></a></td>
@@ -211,7 +225,7 @@ RF00174</td>
         <td name="td4">None<br></td>
         <td name="td5">None</td>
       </tr>
-    
+
             
       <tr>
         <td name="td0"><a href="https://ribocentre-switch.github.io/docs/THF" target="_blank"><b>THF-I</b></a></td>
@@ -221,7 +235,7 @@ RF00174</td>
         <td name="td4">THF riboswitch<br></td>
         <td name="td5">RF01831</td>
       </tr>
-    
+
             
       <tr>
         <td name="td0"><a href="https://ribocentre-switch.github.io/docs/THF" target="_blank"><b>THF-II</b></a></td>
@@ -231,7 +245,7 @@ RF00174</td>
         <td name="td4">folE RNA<br></td>
         <td name="td5">RF02977</td>
       </tr>
-    
+
             
       <tr>
         <td name="td0"><a href="https://ribocentre-switch.github.io/docs/TPP" target="_blank"><b>TPP</b></a></td>
@@ -241,7 +255,7 @@ RF00174</td>
         <td name="td4">TPP riboswitch (THI element)<br></td>
         <td name="td5">RF00059</td>
       </tr>
-    
+
             
       <tr>
         <td name="td0"><a href="https://ribocentre-switch.github.io/docs/HMP-PP" target="_blank"><b>HMP-PP</b></a></td>
@@ -251,7 +265,7 @@ RF00174</td>
         <td name="td4">None<br></td>
         <td name="td5">None</td>
       </tr>
-    
+
             
       <tr>
         <td name="td0"><a href="https://ribocentre-switch.github.io/docs/SAM-I_clan" target="_blank"><b>SAM-I</b></a></td>
@@ -261,7 +275,7 @@ RF00174</td>
         <td name="td4">SAM riboswitch (S box leader)<br></td>
         <td name="td5">RF00162</td>
       </tr>
-    
+
             
       <tr>
         <td name="td0"><a href="https://ribocentre-switch.github.io/docs/SAM-I_clan" target="_blank"><b>SAM-IV</b></a></td>
@@ -271,7 +285,7 @@ RF00174</td>
         <td name="td4">S-adenosyl methionine (SAM) riboswitch<br></td>
         <td name="td5">RF00634</td>
       </tr>
-    
+
             
       <tr>
         <td name="td0"><a href="https://ribocentre-switch.github.io/docs/SAM-I_clan" target="_blank"><b>SAM-I/IV</b></a></td>
@@ -281,7 +295,7 @@ RF00174</td>
         <td name="td4">SAM-I/IV variant riboswitch<br></td>
         <td name="td5">RF01725</td>
       </tr>
-    
+
             
       <tr>
         <td name="td0"><a href="https://ribocentre-switch.github.io/docs/SAM-II_clan" target="_blank"><b>SAM-II</b></a></td>
@@ -291,7 +305,7 @@ RF00174</td>
         <td name="td4">SAM riboswitch (alpha-proteobacteria)<br></td>
         <td name="td5">RF00521</td>
       </tr>
-    
+
             
       <tr>
         <td name="td0"><a href="https://ribocentre-switch.github.io/docs/SAM-II_clan" target="_blank"><b>SAM-V</b></a></td>
@@ -301,7 +315,7 @@ RF00174</td>
         <td name="td4">SAM-V riboswitch<br></td>
         <td name="td5">RF01826</td>
       </tr>
-    
+
             
       <tr>
         <td name="td0"><a href="https://ribocentre-switch.github.io/docs/SAM-III" target="_blank"><b>SAM-III</b></a></td>
@@ -311,7 +325,7 @@ RF00174</td>
         <td name="td4">SMK box translational riboswitch (SAM-III)<br></td>
         <td name="td5">RF01767</td>
       </tr>
-    
+
             
       <tr>
         <td name="td0"><a href="https://ribocentre-switch.github.io/docs/SAM-VI" target="_blank"><b>SAM-VI</b></a></td>
@@ -321,7 +335,7 @@ RF00174</td>
         <td name="td4">SAM-VI riboswitch<br></td>
         <td name="td5">RF02885</td>
       </tr>
-    
+
             
       <tr>
         <td name="td0"><a href="https://ribocentre-switch.github.io/docs/SAM-SAH" target="_blank"><b>SAM-SAH</b></a></td>
@@ -331,7 +345,7 @@ RF00174</td>
         <td name="td4">SAM/SAH riboswitch<br></td>
         <td name="td5">RF01727</td>
       </tr>
-    
+
             
       <tr>
         <td name="td0"><a href="https://ribocentre-switch.github.io/docs/SAH" target="_blank"><b>SAH</b></a></td>
@@ -341,7 +355,7 @@ RF00174</td>
         <td name="td4">S-adenosyl-L-homocysteine riboswitch<br></td>
         <td name="td5">RF01057</td>
       </tr>
-    
+
             
       <tr>
         <td name="td0"><a href="https://ribocentre-switch.github.io/docs/NAD" target="_blank"><b>NAD<sup>+</sup>-I</b></a></td>
@@ -351,7 +365,7 @@ RF00174</td>
         <td name="td4">nadA RNA<br></td>
         <td name="td5">RF03013</td>
       </tr>
-    
+
             
       <tr>
         <td name="td0"><a href="https://ribocentre-switch.github.io/docs/NAD2" target="_blank"><b>NAD<sup>+</sup>-II</b></a></td>
@@ -361,22 +375,26 @@ RF00174</td>
         <td name="td4">None<br></td>
         <td name="td5">None</td>
       </tr>
-    
+
             
+	</tbody>
     </table>
 </div>        
 
 <div id="sheet2" class="sheet">
     <h2>RNA derivatives</h2>
-    <table>
+    <table id="rnadetable">
+      <thead>
       <tr>
-        <th>name</th>
-        <th>Ligand</th>
-        <th>Description</th>
-        <th>Discovery</th>
-        <th>Rfam-name</th>
-        <th>Rfam-ID</th>
+        <th onclick="sortTable(0)">Name</th>
+        <th onclick="sortTable(1)">Ligand</th>
+        <th onclick="sortTable(2)">Description</th>
+        <th onclick="sortTable(3)">Discovery</th>
+        <th onclick="sortTable(4)">Rfam-name</th>
+        <th onclick="sortTable(5)">Rfam-ID</th>
       </tr>
+      </thead>
+      <tbody>
         
         <tr>
             <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Xanthine" target="_blank"><b>Xanthine-I</b></a></td>
@@ -458,20 +476,24 @@ RF00174</td>
         </tr>
 
             
+	</tbody>
     </table>
 </div>       
 
 <div id="sheet3" class="sheet">
     <h2>RNA precursors</h2>
-    <table>
+    <table id="rnapretable">
+    <thead>
       <tr>
-        <th>name</th>
-        <th>Ligand</th>
-        <th>Description</th>
-        <th>Discovery</th>
-        <th>Rfam-name</th>
-        <th>Rfam-ID</th>
+        <th onclick="sortTable(0)">name</th>
+        <th onclick="sortTable(1)">Ligand</th>
+        <th onclick="sortTable(2)">Description</th>
+        <th onclick="sortTable(3)">Discovery</th>
+        <th onclick="sortTable(4)">Rfam-name</th>
+        <th onclick="sortTable(5)">Rfam-ID</th>
       </tr>
+      </thead>
+      <tbody>
         
       <tr>
         <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Adenine" target="_blank"><b>Adenine</b></a></td>
@@ -533,20 +555,24 @@ RF00174</td>
       </tr>
 
             
+      </tbody>
     </table>
 </div>       
         
 <div id="sheet4" class="sheet">
     <h2>Signaling molecules</h2>
-    <table>
+    <table id="smtable">
+      <thead>
       <tr>
-        <th>name</th>
-        <th>Ligand</th>
-        <th>Description</th>
-        <th>Discovery</th>
-        <th>Rfam-name</th>
-        <th>Rfam-ID</th>
+        <th onclick="sortTable(0)">Name</th>
+        <th onclick="sortTable(1)">Ligand</th>
+        <th onclick="sortTable(2)">Description</th>
+        <th onclick="sortTable(3)">Discovery</th>
+        <th onclick="sortTable(4)">Rfam-name</th>
+        <th onclick="sortTable(5)">Rfam-ID</th>
       </tr>
+      </thead>
+      <tbody>
         
        <tr>
          <td name="td0"><a href="https://ribocentre-switch.github.io/docs/c-AMP-GMP" target="_blank"><b>c-AMP-GMP</b></a></td>
@@ -556,7 +582,7 @@ RF00174</td>
          <td name="td4">None<br></td>
          <td name="td5">None</td>
         </tr>
-    
+
             
        <tr>
          <td name="td0"><a href="https://ribocentre-switch.github.io/docs/ppGpp" target="_blank"><b>ppGpp</b></a></td>
@@ -566,7 +592,7 @@ RF00174</td>
          <td name="td4">None<br></td>
          <td name="td5">None</td>
         </tr>
-    
+
             
        <tr>
          <td name="td0"><a href="https://ribocentre-switch.github.io/docs/c-di-GMP" target="_blank"><b>c-di-GMP</b></a></td>
@@ -580,7 +606,7 @@ c-di-GMP-I-UAU riboswitch<br></td>
 RF03167
 RF03168</td>
         </tr>
-    
+
             
        <tr>
          <td name="td0"><a href="https://ribocentre-switch.github.io/docs/c-di-GMP" target="_blank"><b>c-di-GMP-II</b></a></td>
@@ -594,7 +620,7 @@ c-di-GMP-II-GCG riboswitch<br></td>
 RF03169
 RF03170</td>
         </tr>
-    
+
             
        <tr>
          <td name="td0"><a href="https://ribocentre-switch.github.io/docs/c-di-AMP" target="_blank"><b>c-di-AMP</b></a></td>
@@ -604,7 +630,7 @@ RF03170</td>
          <td name="td4">YdaO/YuaA leader<br></td>
          <td name="td5">RF00379</td>
         </tr>
-    
+
             
        <tr>
          <td name="td0"><a href="https://ribocentre-switch.github.io/docs/ZTP" target="_blank"><b>ZTP</b></a></td>
@@ -614,22 +640,26 @@ RF03170</td>
          <td name="td4">ZMP/ZTP riboswitch<br></td>
          <td name="td5">RF01750</td>
         </tr>
-    
+
             
+      </tbody>
     </table>
 </div>
 
 <div id="sheet5" class="sheet">
     <h2>Elemental ions</h2>
-    <table>
+    <table id="eletable">
+      <thead>
       <tr>
-        <th>name</th>
-        <th>Ligand</th>
-        <th>Description</th>
-        <th>Discovery</th>
-        <th>Rfam-name</th>
-        <th>Rfam-ID</th>
+        <th onclick="sortTable(0)">name</th>
+        <th onclick="sortTable(1)">Ligand</th>
+        <th onclick="sortTable(2)">Description</th>
+        <th onclick="sortTable(3)">Discovery</th>
+        <th onclick="sortTable(4)">Rfam-name</th>
+        <th onclick="sortTable(5)">Rfam-ID</th>
       </tr>
+      </thead>
+      <tbody>
         
       <tr>
          <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Fluoride" target="_blank"><b>Fluoride</b></a></td>
@@ -721,20 +751,24 @@ RF03170</td>
       </tr>
 
             
+      </tbody>
     </table>
 </div>
 
 <div id="sheet6" class="sheet">
     <h2>Amino acids</h2>
-    <table>
+    <table id="amintable">
+     <thead>
       <tr>
-        <th>name</th>
-        <th>Ligand</th>
-        <th>Description</th>
-        <th>Discovery</th>
-        <th>Rfam-name</th>
-        <th>Rfam-ID</th>
+        <th onclick="sortTable(0)">Name</th>
+        <th onclick="sortTable(1)">Ligand</th>
+        <th onclick="sortTable(2)">Description</th>
+        <th onclick="sortTable(3)">Discovery</th>
+        <th onclick="sortTable(4)">Rfam-name</th>
+        <th onclick="sortTable(5)">Rfam-ID</th>
       </tr>
+      </thead>
+      <tbody>
         
       <tr>
          <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Glycine" target="_blank"><b>Glycine</b></a></td>
@@ -772,20 +806,24 @@ RF03170</td>
          <td name="td5">RF01704</td>
       </tr>
             
+      </tbody>
     </table>
 </div>        
 
 <div id="sheet7" class="sheet">
     <h2>Sugars</h2>
-    <table>
+    <table id="sugtable">
+      <thead>
       <tr>
-        <th>name</th>
-        <th>Ligand</th>
-        <th>Description</th>
-        <th>Discovery</th>
-        <th>Rfam-name</th>
-        <th>Rfam-ID</th>
+        <th onclick="sortTable(0)">name</th>
+        <th onclick="sortTable(1)">Ligand</th>
+        <th onclick="sortTable(2)">Description</th>
+        <th onclick="sortTable(3)">Discovery</th>
+        <th onclick="sortTable(4)">Rfam-name</th>
+        <th onclick="sortTable(5)">Rfam-ID</th>
       </tr>
+      </thead>
+      <tbody>
         
       <tr>
          <td name="td0"><a href="https://ribocentre-switch.github.io/docs/GlcN6P" target="_blank"><b>GlcN6P</b></a></td>
@@ -795,22 +833,26 @@ RF03170</td>
          <td name="td4">glmS glucosamine-6-phosphate activated ribozyme<br></td>
          <td name="td5">RF00234</td>
       </tr>
-    
+
             
+      </tbody>
     </table>
 </div>        
         
 <div id="sheet8" class="sheet">
     <h2>T-box</h2>
-    <table>
+    <table id="tboxtable">
+      <thead>
       <tr>
-        <th>name</th>
-        <th>Ligand</th>
-        <th>Description</th>
-        <th>Discovery</th>
-        <th>Rfam-name</th>
-        <th>Rfam-ID</th>
+        <th onclick="sortTable(0)">Name</th>
+        <th onclick="sortTable(1)">Ligand</th>
+        <th onclick="sortTable(2)">Description</th>
+        <th onclick="sortTable(3)">Discovery</th>
+        <th onclick="sortTable(4)">Rfam-name</th>
+        <th onclick="sortTable(5)">Rfam-ID</th>
       </tr>
+      </thead>
+      <tbody>
             
       <tr>
         <td name="td0"><a href="https://ribocentre-switch.github.io/docs/T-box" target="_blank"><b>T-box</b></a></td>
@@ -820,22 +862,26 @@ RF03170</td>
         <td name="td4">T-box leader<br></td>
         <td name="td5">RF00230</td>
       </tr>
-    
+
                 
+      </tbody>
     </table>
 </div>
 
 <div id="sheet9" class="sheet">
     <h2>Others</h2>
-    <table>
+    <table id="othtable">
+      <thead>
       <tr>
-        <th>name</th>
-        <th>Ligand</th>
-        <th>Description</th>
-        <th>Discovery</th>
-        <th>Rfam-name</th>
-        <th>Rfam-ID</th>
+        <th onclick="sortTable(0)">Name</th>
+        <th onclick="sortTable(1)">Ligand</th>
+        <th onclick="sortTable(2)">Description</th>
+        <th onclick="sortTable(3)">Discovery</th>
+        <th onclick="sortTable(4)">Rfam-name</th>
+        <th onclick="sortTable(5)">Rfam-ID</th>
       </tr>
+      </thead>
+      <tbody>
         
       <tr>
          <td name="td0"><a href="https://ribocentre-switch.github.io/docs/Azaaromatic" target="_blank"><b>Azaaromatic</b></a></td>
@@ -882,10 +928,98 @@ RF03170</td>
          <td name="td5">None</td>
       </tr>
             
+      </tbody>
     </table>
 </div>        
                 
 <script>
+     // set sort order in table header begin script
+     $(document).ready(function() {
+    $.noConflict();
+    $('#cfttable').DataTable({
+      dom: 'Bfrtip',
+      searching: false,
+      buttons: [
+        'copy', 'csv', 'excel', 'pdf', 'print'
+      ]
+    });
+
+    $('#rnadetable').DataTable({
+      dom: 'Bfrtip',
+      searching: false,
+      buttons: [
+        'copy', 'csv', 'excel', 'pdf', 'print'
+      ]
+    });
+
+    $('#rnapretable').DataTable({
+      dom: 'Bfrtip',
+      searching: false,
+      buttons: [
+        'copy', 'csv', 'excel', 'pdf', 'print'
+      ]
+    });
+    $('#smtable').DataTable({
+      dom: 'Bfrtip',
+      searching: false,
+      buttons: [
+        'copy', 'csv', 'excel', 'pdf', 'print'
+      ]
+    });
+    $('#eletable').DataTable({
+      dom: 'Bfrtip',
+      searching: false,
+      buttons: [
+        'copy', 'csv', 'excel', 'pdf', 'print'
+      ]
+    });
+    $('#amintable').DataTable({
+      dom: 'Bfrtip',
+      searching: false,
+      buttons: [
+        'copy', 'csv', 'excel', 'pdf', 'print'
+      ]
+    });
+    $('#sugtable').DataTable({
+      dom: 'Bfrtip',
+      searching: false,
+      buttons: [
+        'copy', 'csv', 'excel', 'pdf', 'print'
+      ]
+    });
+    $('#tboxtable').DataTable({
+      dom: 'Bfrtip',
+      searching: false,
+      buttons: [
+        'copy', 'csv', 'excel', 'pdf', 'print'
+      ]
+    });
+    $('#othtable').DataTable({
+      dom: 'Bfrtip',
+      searching: false,
+      buttons: [
+        'copy', 'csv', 'excel', 'pdf', 'print'
+      ]
+    });
+  });
+
+
+  function sortTable(columnIndex) {
+    // TODO: Add sorting logic based on the columnIndex
+  }
+
+  function downloadExcel() {
+    // TODO: Implement downloadExcel function
+  }
+
+  function searchSheets() {
+    // TODO: Implement searchSheets function
+  }
+
+  function showSheet(sheetId) {
+    // TODO: Implement showSheet function
+  }
+    // set sort order in table header finish script
     function showSheet(sheetId) {
       // 隐藏所有 sheet
       var sheets = document.getElementsByClassName('sheet');

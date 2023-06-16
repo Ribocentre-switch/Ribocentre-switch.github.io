@@ -1,0 +1,104 @@
+I"K<html lang="en">
+<head>
+  <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no" />
+  <title>Ribozyme applications</title>
+  <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.12.1/css/jquery.dataTables.min.css" />
+  <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/buttons/2.2.3/css/buttons.dataTables.min.css" />
+
+  <script type="text/javascript" src="https://code.jquery.com/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="https://cdn.datatables.net/1.12.1/js/jquery.dataTables.min.js"></script>
+
+  <style>
+    ...
+  </style>
+</head>
+
+<body onload="showSheet('sheet5')">
+<h1 class="post-title" itemprop="name headline">Structures</h1>
+
+This page shows all PDB of the collected riboswitches. We also list phase determination of each PDB.
+<br /><br /><br />
+<div class="form-container">
+  <!-- 搜索框 -->
+  <input type="text" id="searchBox" placeholder="Search by keyword..." oninput="searchSheets()" /><br /><br />
+  <select id="downloadOptions">
+    <option value="" disabled="" selected="">Select an option</option>
+    <option value="/download/riboswitches_page/Cofactors.xlsx">Cofactors</option>
+    <option value="/download/riboswitches_page/RNA derivatives.xlsx">RNA derivatives</option>
+  </select>
+  <!-- Download button -->
+  <button class="button" onclick="downloadExcel()">Download</button>
+</div>
+<br />
+<!-- 按钮 -->
+<div class="button-container">
+    <button class="button" onclick="showSheet('sheet1')">Cofactors</button>
+    <button class="button" onclick="showSheet('sheet2')">RNA derivatives</button>
+</div>
+
+<div id="sheet1" class="sheet">
+    <h2>Cofactors</h2>
+
+    <table id="Dnatable">
+      <thead>
+      <tr>
+        <th onclick="sortTable(0)">Name</th>
+        <th onclick="sortTable(1)">PDB</th>
+        <th onclick="sortTable(2)">Length</th>
+        <th onclick="sortTable(3)">Description(PDB)</th>
+        <th onclick="sortTable(4)">Species</th>
+        <th onclick="sortTable(5)">Phase Determination</th>
+        <th onclick="sortTable(6)">Structure Determination</th>
+        <th onclick="sortTable(7)">Res(Å)</th>
+        <th onclick="sortTable(8)">Year</th>
+        <th onclick="sortTable(9)">Journal</th>
+      </tr>
+      </thead>
+      <tbody>
+      ...
+      </tbody>
+    </table>
+</div>
+...
+
+<script>
+  $(document).ready(function() {
+    $.noConflict();
+    $('#Dnatable').DataTable({
+      dom: 'Bfrtip',
+      searching: false,
+      buttons: [
+        'copy', 'csv', 'excel', 'pdf', 'print'
+      ]
+    });
+
+    $('#tableSheet2').DataTable({
+      dom: 'Bfrtip',
+      searching: false,
+      buttons: [
+        'copy', 'csv', 'excel', 'pdf', 'print'
+      ]
+    });
+  });
+
+  function sortTable(columnIndex) {
+    // TODO: Add sorting logic based on the columnIndex
+  }
+
+  function downloadExcel() {
+    // TODO: Implement downloadExcel function
+  }
+
+  function searchSheets() {
+    // TODO: Implement searchSheets function
+  }
+
+  function showSheet(sheetId) {
+    // TODO: Implement showSheet function
+  }
+</script>
+
+</body>
+</html>
+:ET
