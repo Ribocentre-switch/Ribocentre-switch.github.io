@@ -121,8 +121,8 @@ You are welcomed to send us feedback and your ideas or suggestions will be great
       </ul>
     </div>
     <div class="col-sm-6 clearfix">
-      <p><img src="/images/tempics/lin_Huang.jpg" class="img-responsive" width="25%" style="float: left" /></p>
-      <h4><a href="Email:huanglin36@mail.sysu.edu.cn">lin Huang</a></h4>
+      <p><img src="/images/tempics/Lin_Huang.jpg" class="img-responsive" width="25%" style="float: left" /></p>
+      <h4><a href="Email:huanglin36@mail.sysu.edu.cn">Lin Huang</a></h4>
       <p><i>Principal Investigator of Sun Yat-sen University</i></p>
       <ul style="overflow: hidden; margin-top: 10px;">
         <temli>PhD <a href="https://en.whu.edu.cn/">Wuhan University</a></temli><br>
