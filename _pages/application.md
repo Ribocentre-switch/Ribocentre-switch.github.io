@@ -53,7 +53,7 @@ This page shows some of the applications of the collected riboswitches. We liste
 </head>
 <body>
 <p id="Developing_new_antibacterials"> </p>
-  <p style="font-size: 16px">Click into different sections:</p>
+  <p style="font-size: 16px">Click the buttons to navigate to different sections:</p>
   <div class="button-container">
     <a class="button" href="#Developing_new_antibacterials" >Developing new antibacterials</a>
     <a class="button" href="#Synthetic_Biology">Synthetic Biology</a>

@@ -270,7 +270,7 @@ RF00174</td>
       <tr>
         <td name="td0"><a href="https://ribocentre-switch.github.io/docs/SAM-I_clan" target="_blank"><b>SAM-I</b></a></td>
         <td name="td1">S-adenosylmethionine</td>
-        <td name="td2">This family is a member of clan (CL00012), which contains the following 3 members:SAM-I, SAM-I-IV-variant, SAM-IV , they are a kind of riboswitch that specifically binds S-adenosylmethionine (SAM),a cofactor used in many methylation reactions.</td>
+        <td name="td2">This family is a member of clan (CL00012), which contains the following 3 members:SAM-I, SAM-I-IV-variant, SAM-IV, they are a kind of riboswitch that specifically binds S-adenosylmethionine (SAM), whose members share a common binding core but have widely divergent peripheral architectures.</td>
         <td name="td3"><a href="https://pubmed.ncbi.nlm.nih.gov/10094622/" target="_blank"><b>1998</b> </a></td>
         <td name="td4">SAM riboswitch (S box leader)<br></td>
         <td name="td5">RF00162</td>
@@ -280,7 +280,7 @@ RF00174</td>
       <tr>
         <td name="td0"><a href="https://ribocentre-switch.github.io/docs/SAM-I_clan" target="_blank"><b>SAM-IV</b></a></td>
         <td name="td1">S-adenosylmethionine</td>
-        <td name="td2">This family is a member of clan (CL00012), which contains the following 3 members:SAM-I, SAM-I-IV-variant, SAM-IV , they are a kind of riboswitch that specifically binds S-adenosylmethionine (SAM),a cofactor used in many methylation reactions.</td>
+        <td name="td2">This family is a member of clan (CL00012), which contains the following 3 members:SAM-I, SAM-I-IV-variant, SAM-IV, they are a kind of riboswitch that specifically binds S-adenosylmethionine (SAM), whose members share a common binding core but have widely divergent peripheral architectures.</td>
         <td name="td3"><a href="https://pubmed.ncbi.nlm.nih.gov/17621584/" target="_blank"><b>2007</b> </a></td>
         <td name="td4">S-adenosyl methionine (SAM) riboswitch<br></td>
         <td name="td5">RF00634</td>
@@ -290,7 +290,7 @@ RF00174</td>
       <tr>
         <td name="td0"><a href="https://ribocentre-switch.github.io/docs/SAM-I_clan" target="_blank"><b>SAM-I/IV</b></a></td>
         <td name="td1">S-adenosylmethionine</td>
-        <td name="td2">This family is a member of clan (CL00012), which contains the following 3 members:SAM-I, SAM-I-IV-variant, SAM-IV , they are a kind of riboswitch that specifically binds S-adenosylmethionine (SAM),a cofactor used in many methylation reactions.</td>
+        <td name="td2">This family is a member of clan (CL00012), which contains the following 3 members:SAM-I, SAM-I-IV-variant, SAM-IV, they are a kind of riboswitch that specifically binds S-adenosylmethionine (SAM), whose members share a common binding core but have widely divergent peripheral architectures.</td>
         <td name="td3"><a href="https://pubmed.ncbi.nlm.nih.gov/20230605/" target="_blank"><b>2010</b> </a></td>
         <td name="td4">SAM-I/IV variant riboswitch<br></td>
         <td name="td5">RF01725</td>
@@ -350,7 +350,7 @@ RF00174</td>
       <tr>
         <td name="td0"><a href="https://ribocentre-switch.github.io/docs/SAH" target="_blank"><b>SAH</b></a></td>
         <td name="td1">S-adenosylhomocysteine</td>
-        <td name="td2">SAH riboswitches are a kind of riboswitch that bind S-adenosylhomocysteine (SAH). When the coenzyme S-adenosylmethionine (SAM) is used in a methylation reaction, SAH is produced.</td>
+        <td name="td2">SAH riboswitches are a kind of riboswitch that bind S-adenosylhomocysteine (SAH). SAH riboswitches typically up-regulate genes involved in recycling SAH to create more SAM (or the metabolically related methionine).</td>
         <td name="td3"><a href="https://pubmed.ncbi.nlm.nih.gov/18374645/" target="_blank"><b>2008</b> </a></td>
         <td name="td4">S-adenosyl-L-homocysteine riboswitch<br></td>
         <td name="td5">RF01057</td>
