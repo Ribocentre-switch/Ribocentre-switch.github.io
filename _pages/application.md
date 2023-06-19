@@ -1,7 +1,8 @@
 ---
-title: "Ribocentre - Application"
+title: "Ribocentre - Applications
 layout: piclay
-excerpt: "Ribocentre -- Application"
+excerpt: "Riboswitches: A riboswitch database"
+sitemap: True
 permalink: /applications/
 ---
 

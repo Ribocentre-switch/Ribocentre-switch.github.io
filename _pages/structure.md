@@ -1,8 +1,8 @@
 ---
-title: "Structure - Structure"
+title: "Riboswitch - Structure"
 layout: structure
-excerpt: "Structure - Structure"
-sitemap: false
+excerpt: "Riboswitches: A riboswitch database"
+sitemap: True
 permalink: /structures/
 ---
 <html lang="en">

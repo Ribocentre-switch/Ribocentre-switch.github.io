@@ -1,8 +1,8 @@
 ---
-title: "Riboswitches-Sequences"
+title: "Riboswitches - Sequences"
 layout: riboswitch
 excerpt: "Riboswitches: A riboswitch database"
-sitemap: false
+sitemap: True
 permalink: /sequences/
 ---
 <h1 class="post-title" itemprop="name headline">Sequences</h1>

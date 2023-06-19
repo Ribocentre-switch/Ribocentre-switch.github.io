@@ -1,8 +1,8 @@
 ---
-title: "Ribocentre - Publications"
+title: "Ribocentre - Publication"
 layout: gridlay
-excerpt: "Ribocentre -- Publications."
-sitemap: false
+excerpt: "Riboswitches: A riboswitch database"
+sitemap: True
 permalink: /publications/
 ---
 

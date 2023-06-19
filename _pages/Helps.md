@@ -1,7 +1,8 @@
 ---
-title: "Ribocentre - Helps"
+title: "Ribocentre - Help"
 layout: piclay
-excerpt: "Ribocentre -- Helps"
+excerpt: "Riboswitch: A riboswitch database"
+sitemap: True
 permalink: /helps/
 ---
 <html>

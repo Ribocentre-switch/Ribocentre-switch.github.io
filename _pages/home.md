@@ -1,8 +1,8 @@
 ---
-title: "Ribocentre - Home"
+title: "Riboswitch - Home"
 layout: homelay
-excerpt: "Ribocentre: A ribozyme database"
-sitemap: false
+excerpt: "Riboswitch: A riboswitch database"
+sitemap: True
 permalink: /
 ---
 <html lang="zh-cn">
