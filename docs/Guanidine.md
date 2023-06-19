@@ -283,7 +283,7 @@ permalink: /docs/Guanidine/
     <div class="main-container">
         <div class="zoom-wrapper1">
             <div class="zoom-area1">
-                <img src="/images/2D/Guanidine-I_riboswitch_2D1.svg" alt="drawing" style="width:800px" />
+                <img src="/images/2D/Guanidine-I_riboswitch_2D1.svg" alt="drawing" style="width:400px" />
             </div>
         </div>
     </div>
@@ -296,6 +296,35 @@ permalink: /docs/Guanidine/
       zoomWraper1.addEventListener("wheel", panzoom1.zoomWithWheel);
       panzoom1.zoom(0.8);
       </script>
+</td>
+<!--2D模2--------------------------->
+<td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
+<style>
+.zoom-wrapper2 {
+    width: 400px;
+    height: 400px;
+    border: 1px solid #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+</style>
+    <div class="main-container">
+        <div class="zoom-wrapper2">
+            <div class="zoom-area2">
+                <img src="/images/2D/Guanidine-I_riboswitch_2D2.svg" alt="drawing" style="width:400px" />
+            </div>
+        </div>
+    </div>
+    <script src="https://www.ribocentre.org/js/panzoom.js"></script>
+    <script type='text/javascript'>
+      var zoomWraper2 = document.querySelector(".zoom-wrapper2");
+      var panzoom2 = Panzoom(document.querySelector(".zoom-area2"), {
+      maxScale: 6
+      });
+      zoomWraper2.addEventListener("wheel", panzoom2.zoomWithWheel);
+      panzoom2.zoom(0.8);
+    </script>
 </td>
 </tr></table><br>
 <p><br /></p>
@@ -335,7 +364,7 @@ permalink: /docs/Guanidine/
     <div class="main-container">
         <div class="zoom-wrapper3">
             <div class="zoom-area3">
-                <img src="/images/2D/Guanidine-II_riboswitch_2D1.svg" alt="drawing" style="width:800px" />
+                <img src="/images/2D/Guanidine-II_riboswitch_2D1.svg" alt="drawing" style="width:400px" />
             </div>
         </div>
     </div>
@@ -348,6 +377,35 @@ permalink: /docs/Guanidine/
       zoomWraper3.addEventListener("wheel", panzoom3.zoomWithWheel);
       panzoom3.zoom(0.8);
       </script>
+</td>
+<!--2D模2--------------------------->
+<td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
+<style>
+.zoom-wrapper4 {
+    width: 400px;
+    height: 400px;
+    border: 1px solid #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+</style>
+    <div class="main-container">
+        <div class="zoom-wrapper4">
+            <div class="zoom-area4">
+                <img src="/images/2D/Guanidine-II_riboswitch_2D2.svg" alt="drawing" style="width:400px" />
+            </div>
+        </div>
+    </div>
+    <script src="https://www.ribocentre.org/js/panzoom.js"></script>
+    <script type='text/javascript'>
+      var zoomWraper4 = document.querySelector(".zoom-wrapper4");
+      var panzoom4 = Panzoom(document.querySelector(".zoom-area4"), {
+      maxScale: 6
+      });
+      zoomWraper4.addEventListener("wheel", panzoom4.zoomWithWheel);
+      panzoom4.zoom(0.8);
+    </script>
 </td>
 </tr></table><br>
 <p><br /></p>
@@ -387,7 +445,7 @@ permalink: /docs/Guanidine/
     <div class="main-container">
         <div class="zoom-wrapper5">
             <div class="zoom-area5">
-                <img src="/images/2D/Guanidine-III_riboswitch_2D1.svg" alt="drawing" style="width:800px" />
+                <img src="/images/2D/Guanidine-III_riboswitch_2D1.svg" alt="drawing" style="width:400px" />
             </div>
         </div>
     </div>
@@ -400,6 +458,35 @@ permalink: /docs/Guanidine/
       zoomWraper5.addEventListener("wheel", panzoom5.zoomWithWheel);
       panzoom5.zoom(0.8);
       </script>
+</td>
+<!--2D模2--------------------------->
+<td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
+<style>
+.zoom-wrapper6 {
+    width: 400px;
+    height: 400px;
+    border: 1px solid #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+</style>
+    <div class="main-container">
+        <div class="zoom-wrapper6">
+            <div class="zoom-area6">
+                <img src="/images/2D/Guanidine-III_riboswitch_2D2.svg" alt="drawing" style="width:400px" />
+            </div>
+        </div>
+    </div>
+    <script src="https://www.ribocentre.org/js/panzoom.js"></script>
+    <script type='text/javascript'>
+      var zoomWraper6 = document.querySelector(".zoom-wrapper6");
+      var panzoom6 = Panzoom(document.querySelector(".zoom-area6"), {
+      maxScale: 6
+      });
+      zoomWraper6.addEventListener("wheel", panzoom6.zoomWithWheel);
+      panzoom6.zoom(0.8);
+    </script>
 </td>
 </tr></table><br>
 <p><br /></p>

@@ -261,7 +261,7 @@ SAM-V riboswitch is the fifth known riboswitch to bind S-adenosyl methionine (SA
     <div class="main-container">
         <div class="zoom-wrapper1">
             <div class="zoom-area1">
-                <img src="/images/2D/SAM-II_riboswitch_2D1.svg" alt="drawing" style="width:800px" />
+                <img src="/images/2D/SAM-II_riboswitch_2D1.svg" alt="drawing" style="width:400px" />
             </div>
         </div>
     </div>
@@ -274,6 +274,35 @@ SAM-V riboswitch is the fifth known riboswitch to bind S-adenosyl methionine (SA
       zoomWraper1.addEventListener("wheel", panzoom1.zoomWithWheel);
       panzoom1.zoom(0.8);
       </script>
+</td>
+<!--2D模2--------------------------->
+<td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
+<style>
+.zoom-wrapper2 {
+    width: 400px;
+    height: 400px;
+    border: 1px solid #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+</style>
+    <div class="main-container">
+        <div class="zoom-wrapper2">
+            <div class="zoom-area2">
+                <img src="/images/2D/SAM-II_riboswitch_2D2.svg" alt="drawing" style="width:400px" />
+            </div>
+        </div>
+    </div>
+    <script src="https://www.ribocentre.org/js/panzoom.js"></script>
+    <script type='text/javascript'>
+      var zoomWraper2 = document.querySelector(".zoom-wrapper2");
+      var panzoom2 = Panzoom(document.querySelector(".zoom-area2"), {
+      maxScale: 6
+      });
+      zoomWraper2.addEventListener("wheel", panzoom2.zoomWithWheel);
+      panzoom2.zoom(0.8);
+    </script>
 </td>
 </tr></table><br>
 <p><br /></p>
@@ -313,7 +342,7 @@ SAM-V riboswitch is the fifth known riboswitch to bind S-adenosyl methionine (SA
     <div class="main-container">
         <div class="zoom-wrapper3">
             <div class="zoom-area3">
-                <img src="/images/2D/SAM-V_riboswitch_2D1.svg" alt="drawing" style="width:800px" />
+                <img src="/images/2D/SAM-V_riboswitch_2D1.svg" alt="drawing" style="width:400px" />
             </div>
         </div>
     </div>
@@ -326,6 +355,35 @@ SAM-V riboswitch is the fifth known riboswitch to bind S-adenosyl methionine (SA
       zoomWraper3.addEventListener("wheel", panzoom3.zoomWithWheel);
       panzoom3.zoom(0.8);
       </script>
+</td>
+<!--2D模2--------------------------->
+<td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
+<style>
+.zoom-wrapper4 {
+    width: 400px;
+    height: 400px;
+    border: 1px solid #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+</style>
+    <div class="main-container">
+        <div class="zoom-wrapper4">
+            <div class="zoom-area4">
+                <img src="/images/2D/SAM-V_riboswitch_2D2.svg" alt="drawing" style="width:400px" />
+            </div>
+        </div>
+    </div>
+    <script src="https://www.ribocentre.org/js/panzoom.js"></script>
+    <script type='text/javascript'>
+      var zoomWraper4 = document.querySelector(".zoom-wrapper4");
+      var panzoom4 = Panzoom(document.querySelector(".zoom-area4"), {
+      maxScale: 6
+      });
+      zoomWraper4.addEventListener("wheel", panzoom4.zoomWithWheel);
+      panzoom4.zoom(0.8);
+    </script>
 </td>
 </tr></table><br>
 <p><br /></p>
