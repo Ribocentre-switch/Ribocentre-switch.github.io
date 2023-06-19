@@ -1,0 +1,201 @@
+I"�<html>
+<div>
+    <div class="entry-content clearfix" itemprop="articleBody description">
+        <script src="https://github.com/rnapuzzles/rnapuzzles.github.io/javascripts/Jmol.js"></script>
+        <script src="https://github.com/rnapuzzles/rnapuzzles.github.io/javascripts/JSmol.min.js"></script>
+        <script src="https://github.com/rnapuzzles/rnapuzzles.github.io/javascripts/UseJSmol_github.js"></script>
+        <table class="clear" cellspacing="5" style="border-spacing: 0;">
+            <tr>
+                <td style="border: 1px solid black;">
+                    <div id="layer_pdb" style="display: block">
+                        <a id="image-link0" href="#" title="">
+                            <img id="image-preview0" src="#" height="500" />
+                        </a>
+                    </div>
+                </td>
+                <td class="left" style="border: none; padding: 0; vertical-align: top">
+                    <div class="image-wrapper" style="margin-bottom: 20px;">
+                        <img id="image-a" src="/images/2D/THF-I_riboswitch_2D1.svg" width="160" style="border: 1px solid black; cursor: zoom-in;margin-top: 0px;" alt="big.png" />
+                        <div class="button-wrapper">
+                            <a class="btn btn-info" href="javascript:showImage0('/images/2D/THF-I_riboswitch_2D1.svg');">&lt;&lt; Show big</a>
+                        </div>
+                    </div>
+                    <div class="image-wrapper" style="margin-bottom: 20px;">
+                        <img id="image-b" src="/images/2D/THF-I_riboswitch_2D2.svg" width="160" style="border: 1px solid black; cursor: zoom-in;margin-top: 0px;" alt="down.png" />
+                        <div class="button-wrapper">
+                            <a class="btn btn-info" href="javascript:showImage0('/images/2D/THF-I_riboswitch_2D2.svg');">&lt;&lt; Show big</a>
+                        </div>
+                    </div>
+                </td>
+            </tr>
+        </table>
+        <div id="image-caption" style="text-align: left; margin-left: 20px;"></div>
+    </div>
+</div>
+
+<style>
+    .image-wrapper {
+        display: block;
+        text-align: center;
+        margin-bottom: 20px;
+    }
+
+    .button-wrapper {
+        text-align: left;
+    }
+
+    .btn {
+        display: inline-block;
+        background-color: #4CAF50;
+        color: white;
+        text-decoration: none;
+        border-radius: 4px;
+        padding: 8px 16px;
+        font-size: 16px;
+    }
+
+    .btn:hover {
+        background-color: #45a049;
+    }
+</style>
+
+<script src="https://www.ribocentre.org/js/panzoom.js"></script>
+<script type="text/javascript">
+    function showImage0(imageUrl) {
+        var imagePreview = document.getElementById("image-preview0");
+        var imageLink = document.getElementById("image-link0");
+        var imageCaption = document.getElementById("image-caption");
+
+        imagePreview.src = imageUrl;
+        imageLink.href = imageUrl;
+
+        if (imageUrl === "big.png") {
+            imageCaption.innerHTML = "这是a图片";
+        } else if (imageUrl === "down.png") {
+            imageCaption.innerHTML = "结束了";
+        }
+    }
+
+    window.addEventListener('DOMContentLoaded', (event) => {
+        var imagePreview = document.getElementById("image-preview0");
+        var imageLink = document.getElementById("image-link0");
+        var rightImage = document.getElementById("image-a");
+
+        imagePreview.src = rightImage.src;
+        imageLink.href = rightImage.src;
+        document.getElementById("image-caption").innerHTML = "这是a图片";
+
+        var zoomArea = document.getElementById("image-preview0");
+        var panzoom = Panzoom(zoomArea, {
+            maxScale: 6
+        });
+        zoomArea.addEventListener("wheel", function(e) {
+            e.preventDefault();
+            panzoom.zoomWithWheel(e);
+        });
+        panzoom.zoom(0.8);
+    });
+</script>
+</html>
+
+<html>
+<div>
+    <div class="entry-content clearfix" itemprop="articleBody description">
+        <script src="https://github.com/rnapuzzles/rnapuzzles.github.io/javascripts/Jmol.js"></script>
+        <script src="https://github.com/rnapuzzles/rnapuzzles.github.io/javascripts/JSmol.min.js"></script>
+        <script src="https://github.com/rnapuzzles/rnapuzzles.github.io/javascripts/UseJSmol_github.js"></script>
+        <table class="clear" cellspacing="5" style="border-spacing: 0;">
+            <tr>
+                <td style="border: 1px solid black;">
+                    <div id="layer_pdb" style="display: block">
+                        <a id="image-link1" href="#" title="">
+                            <img id="image-preview" src="#" height="500" />
+                        </a>
+                    </div>
+                </td>
+                <td class="left" style="border: none; padding: 0; vertical-align: top">
+                    <div class="image-wrapper" style="margin-bottom: 20px;">
+                        <img id="image-a" src="/images/2D/THF-II_riboswitch_2D1.svg" width="160" style="border: 1px solid black; cursor: zoom-in;margin-top: 0px;" alt="big.png" />
+                        <div class="button-wrapper">
+                            <a class="btn btn-info" href="javascript:showImage('/images/2D/THF-II_riboswitch_2D1.svg');">&lt;&lt; Show big</a>
+                        </div>
+                    </div>
+                    <div class="image-wrapper" style="margin-bottom: 20px;">
+                        <img id="image-b" src="/images/2D/THF-II_riboswitch_2D2.svg" width="160" style="border: 1px solid black; cursor: zoom-in;margin-top: 0px;" alt="down.png" />
+                        <div class="button-wrapper">
+                            <a class="btn btn-info" href="javascript:showImage('/images/2D/THF-II_riboswitch_2D2.svg');">&lt;&lt; Show big</a>
+                        </div>
+                    </div>
+                </td>
+            </tr>
+        </table>
+        <div id="image-caption" style="text-align: left; margin-left: 20px;"></div>
+    </div>
+</div>
+
+<style>
+    .image-wrapper {
+        display: block;
+        text-align: center;
+        margin-bottom: 20px;
+    }
+
+    .button-wrapper {
+        text-align: left;
+    }
+
+    .btn {
+        display: inline-block;
+        background-color: #4CAF50;
+        color: white;
+        text-decoration: none;
+        border-radius: 4px;
+        padding: 8px 16px;
+        font-size: 16px;
+    }
+
+    .btn:hover {
+        background-color: #45a049;
+    }
+</style>
+
+<script src="https://www.ribocentre.org/js/panzoom.js"></script>
+<script type="text/javascript">
+    function showImage(imageUrl) {
+        var imagePreview = document.getElementById("image-preview");
+        var imageLink = document.getElementById("image-link1");
+        var imageCaption = document.getElementById("image-caption");
+
+        imagePreview.src = imageUrl;
+        imageLink.href = imageUrl;
+
+        if (imageUrl === "big.png") {
+            imageCaption.innerHTML = "这是a图片";
+        } else if (imageUrl === "down.png") {
+            imageCaption.innerHTML = "结束了";
+        }
+    }
+
+    window.addEventListener('DOMContentLoaded', (event) => {
+        var imagePreview = document.getElementById("image-preview");
+        var imageLink = document.getElementById("image-link1");
+        var rightImage = document.getElementById("image-a");
+
+        imagePreview.src = rightImage.src;
+        imageLink.href = rightImage.src;
+        document.getElementById("image-caption").innerHTML = "这是a图片";
+
+        var zoomArea = document.getElementById("image-preview");
+        var panzoom = Panzoom(zoomArea, {
+            maxScale: 6
+        });
+        zoomArea.addEventListener("wheel", function(e) {
+            e.preventDefault();
+            panzoom.zoomWithWheel(e);
+        });
+        panzoom.zoom(0.8);
+    });
+</script>
+</html>
+
+:ET

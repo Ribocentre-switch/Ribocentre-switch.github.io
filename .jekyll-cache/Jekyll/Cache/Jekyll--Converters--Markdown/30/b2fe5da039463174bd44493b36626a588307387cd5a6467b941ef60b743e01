@@ -1,0 +1,88 @@
+I"�<html>
+<div>
+    <div class="entry-content clearfix" itemprop="articleBody description">
+        <script src="https://github.com/rnapuzzles/rnapuzzles.github.io/javascripts/Jmol.js"></script>
+        <script src="https://github.com/rnapuzzles/rnapuzzles.github.io/javascripts/JSmol.min.js"></script>
+        <script src="https://github.com/rnapuzzles/rnapuzzles.github.io/javascripts/UseJSmol_github.js"></script>
+        <table class="clear" cellspacing="5" style="border-spacing: 0;">
+            <tr>
+                <td style="border: 1px solid black;">
+                    <div id="layer_pdb" style="display: block">
+                        <a id="image-link0" href="#" title="">
+                            <img id="image-preview0" src="#" height="500" />
+                        </a>
+                    </div>
+                </td>
+                <td class="left" style="border: none; padding: 0; vertical-align: top">
+                    <div class="image-wrapper" style="margin-bottom: 40px;">
+                        <a href="/new-page1.html" target="_blank">
+                            <img id="image-a" src="/images/2D/THF-I_riboswitch_2D1.svg" width="160" style="border: 1px solid black; cursor: pointer; margin-top: 0px; margin-bottom: 0px;" alt="big.png" />
+                        </a>
+                    </div>
+                    <div class="image-wrapper">
+                        <a href="/new-page2.html" target="_blank">
+                            <img id="image-b" src="/images/2D/THF-I_riboswitch_2D2.svg" width="160" style="border: 1px solid black; cursor: pointer; margin-top: 0px; margin-bottom: 0px;" alt="down.png" />
+                        </a>
+                    </div>
+                </td>
+            </tr>
+        </table>
+        <div id="image-caption" style="text-align: left; margin-left: 20px;"></div>
+    </div>
+</div>
+
+<style>
+    .image-wrapper {
+        display: block;
+        text-align: center;
+        margin-bottom: 20px;
+    }
+</style>
+
+<script src="https://www.ribocentre.org/js/panzoom.js"></script>
+<script type="text/javascript">
+    window.addEventListener('DOMContentLoaded', (event) => {
+        var zoomAreas = document.querySelectorAll(".image-wrapper img");
+        var panzooms = [];
+
+        zoomAreas.forEach(function(zoomArea, index) {
+            var panzoom = Panzoom(zoomArea, {
+                maxScale: 6
+            });
+            panzooms.push(panzoom);
+
+            zoomArea.addEventListener("wheel", function(e) {
+                e.preventDefault();
+                panzoom.zoomWithWheel(e);
+            });
+
+            zoomArea.addEventListener("click", function(e) {
+                e.preventDefault();
+                var url = zoomArea.src;
+                var newWindow = window.open(url, "_blank");
+                newWindow.focus();
+            });
+        });
+
+        function showImage(imageUrl, index) {
+            var imagePreview = document.getElementById("image-preview0");
+            var imageLink = document.getElementById("image-link0");
+            var imageCaption = document.getElementById("image-caption");
+
+            imagePreview.src = imageUrl;
+            imageLink.href = imageUrl;
+
+            if (index === 0) {
+                imageCaption.innerHTML = "这是a图片";
+            } else if (index === 1) {
+                imageCaption.innerHTML = "结束了";
+            }
+        }
+
+        showImage(zoomAreas[0].src, 0); // 默认显示第一张图片
+
+        panzooms[0].zoom(0.8); // 默认缩放第一个放大区域
+    });
+</script>
+</html>
+:ET

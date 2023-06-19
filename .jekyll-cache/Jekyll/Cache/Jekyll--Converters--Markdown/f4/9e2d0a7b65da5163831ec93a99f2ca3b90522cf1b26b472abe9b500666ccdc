@@ -1,0 +1,96 @@
+I"<html>
+  <div>
+    <div class="entry-content clearfix" itemprop="articleBody description">
+      <script src="https://chemapps.stolaf.edu/jmol/jsmol/Jmol.js"></script>
+      <script src="https://chemapps.stolaf.edu/jmol/jsmol/JSmol.min.js"></script>
+      <script src="https://github.com/rnapuzzles/rnapuzzles.github.io/javascripts/UseJSmol_github.js"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/zoom.js/2.3.1/zoom.min.js"></script>
+      <table class="clear" cellspacing="5" style="border-spacing: 0;">
+        <tr>
+          <td style="border: 1px solid black;">
+            <div id="layer_pdb" style="display: block">
+              <a id="image-link0" href="#" title="">
+                <img id="image-preview0" src="#" height="500" data-action="zoom" />
+              </a>
+            </div>
+          </td>
+          <td class="left" style="border: none; padding: 0; vertical-align: top">
+            <div class="image-wrapper" style="margin-bottom: 20px;">
+              <a href="/images/2D/THF-I_riboswitch_2D1.svg" target="_blank" onclick="return openImage(this);">
+                <img id="image-a" src="/images/2D/THF-I_riboswitch_2D1.svg" width="160" style="border: 1px solid black; cursor: zoom-in;" alt="big.png" />
+              </a>
+              <div class="button-wrapper">
+                <a class="btn btn-info" href="javascript:showImage0('/images/2D/THF-I_riboswitch_2D1.svg');">&lt;&lt; Show big</a>
+              </div>
+            </div>
+            <div class="image-wrapper" style="margin-bottom: 20px;">
+              <a href="/images/2D/THF-I_riboswitch_2D2.svg" target="_blank" onclick="return openImage(this);">
+                <img id="image-b" src="/images/2D/THF-I_riboswitch_2D2.svg" width="160" style="border: 1px solid black; cursor: zoom-in;" alt="down.png" />
+              </a>
+              <div class="button-wrapper">
+                <a class="btn btn-info" href="javascript:showImage0('/images/2D/THF-I_riboswitch_2D2.svg');">&lt;&lt; Show big</a>
+              </div>
+            </div>
+          </td>
+        </tr>
+      </table>
+      <div id="image-caption" style="text-align: left; margin-left: 20px;"></div>
+    </div>
+  </div>
+
+  <style>
+    .image-wrapper {
+      display: block;
+      text-align: center;
+      margin-bottom: 20px;
+    }
+
+    .button-wrapper {
+      text-align: left;
+    }
+
+    .btn {
+      display: inline-block;
+      background-color: #4CAF50;
+      color: white;
+      text-decoration: none;
+      border-radius: 4px;
+      padding: 8px 16px;
+      font-size: 16px;
+    }
+
+    .btn:hover {
+      background-color: #45a049;
+    }
+  </style>
+
+  <script src="https://cdn.jsdelivr.net/npm/zoom.js"></script>
+  <script type="text/javascript">
+    function showImage0(imageUrl) {
+      var imagePreview = document.getElementById("image-preview0");
+      var imageLink = document.getElementById("image-link0");
+      var imageCaption = document.getElementById("image-caption");
+
+      imagePreview.src = imageUrl;
+      imageLink.href = imageUrl;
+
+      if (imageUrl === "/images/2D/THF-I_riboswitch_2D1.svg") {
+        imageCaption.innerHTML = "This is image a";
+      } else if (imageUrl === "/images/2D/THF-I_riboswitch_2D2.svg") {
+        imageCaption.innerHTML = "This is image b";
+      }
+    }
+
+    function openImage(element) {
+      var imageUrl = element.getAttribute("href");
+      window.open(imageUrl, "_blank");
+      return false;
+    }
+
+    // Initialize zoom.js on all images with the "zoomable" class
+    zoomjs.init({
+      selector: ".zoomable",
+    });
+  </script>
+</html>
+:ET
