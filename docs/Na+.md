@@ -6,7 +6,7 @@ author: Yuanlin He, Xiaowei Lin
 permalink: /docs/Na/
 ---
 <p style="font-size: 24px"><strong>Rfam ID: [RF03071](https://rfam.xfam.org/family/RF03071,target="_blank")</strong> (Na+ riboswitch (DUF1646 RNA))<br /></p>
-
+ 
 <br />
 <html>
 <head>
@@ -44,7 +44,7 @@ permalink: /docs/Na/
   </style>
 </head>
 <body>
-  <p style="font-size: 16px">Click into different sections:</p>
+  <p style="font-size: 16px">Click the buttons to navigate to different sections:</p>
   
   <div class="button-container">
     <a class="button" href="#timeline" >Timeline</a>
@@ -104,15 +104,15 @@ permalink: /docs/Na/
 </div>
 </html>
 <p><br /></p>
-        
+         
 <p class="header_box" id="description">Description</p>
 <font >The DUF1646 RNA motif is a conserved RNA structure that was discovered by bioinformatics. One of the two DUF1646 RNAs in <i>Enterococcus faecalis</i> was independently detected by term-seq. Data from both discoveries suggest that DUF1646 RNAs are cis-regulatory RNAss, and that at least some DUF1646 RNAs use Rho-independent transcription terminators as their mechanism to regulate gene expression.
 The genes apparently regulated by DUF1646 RNAs are often related to the transportation of sodium ions. Among the two most commonly regulated gene classes are those encoding sodium/proton antiporters whose relationship to sodium ion transport is obvious. The other highly common gene class encodes proteins containing a DUF1646 domain, whose biochemical and biological function is unknown. Also regulated are genes encoding proteins that transport sodium using ATP, as well as genes encoding oxaloacetate carboxyltransferase. The reaction catalyzed by oxaloacetate carboxyltransferase is tied to transporting a sodium ion across the membrane. DUF1646 RNAs rarely occur upstream of c-di-AMP riboswitches, and in these cases they apparently regulate genes that are typical for c-di-AMP signalling. In these cases, the association to sodium is at least not direct.
 A DUF1646 RNA occurs upstream of an operon in <i>Enterococcus</i> hirae that was shown to regulate the downstream genes based on sodium ion concentrations. However, it is unclear whether this DUF1646 RNA participates in sodium-based gene regulation (From Wikipedia)<sup></sup>.</font>
 <p><br /></p>
-            
+             
 > Gene association
-        
+            
 <font >Existing annotations of the protein products whose genes are associated with DUF1646 motif RNAs<sup>[2]</sup>.</font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;">
 <tr >
@@ -122,9 +122,7 @@ A DUF1646 RNA occurs upstream of an operon in <i>Enterococcus</i> hirae that was
 </tr>
 </table>
 <p><br /></p>
-                
-
-            
+                 
 <p class="header_box" id="Structure and Ligand recognition">Structure and Ligand recognition</p>
 > 2D representation
         
@@ -163,7 +161,7 @@ A DUF1646 RNA occurs upstream of an operon in <i>Enterococcus</i> hirae that was
     <div class="main-container">
         <div class="zoom-wrapper1">
             <div class="zoom-area1">
-                <img src="/images/2D/Na+_riboswitch_2D1.svg" alt="drawing" style="width:400px" />
+                <img src="/images/2D/Na+_riboswitch_2D1.svg" alt="drawing" style="width:800px" />
             </div>
         </div>
     </div>
@@ -177,25 +175,25 @@ A DUF1646 RNA occurs upstream of an operon in <i>Enterococcus</i> hirae that was
       panzoom1.zoom(0.8);
       </script>
 </td>
-<!--2D模2--------------------------->
-
 </tr></table><br>
 <p><br /></p>
-                    
-
-                
+                     
 > Ligand recognition
-            
+                
 <font >
 <p>Na+ riboswitches exhibit dissociation constants in the low mM range, and strongly reject all other alkali and alkaline earth ions<sup>[2]</sup>.<br /><br /></p>
 </font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;">
-
+<tr>
+<td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
+  <img src="/images/ligand_recognition/nan" alt="drawing" style="width:800px;margin-top: 0px;margin-bottom: 0px;" >
+</td>
+</tr>
 </table>
 <p><br /></p>
-                
+                 
 <p class="header_box" id="references">References</p>
-            
+                
 <p><strong>[1] Detection of 224 candidate structured RNAs by comparative analysis of specific subsets of intergenic regions.</strong><br />
 Weinberg, Z. et al.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/28977401/" target="_blank">Nucleic Acids Res. 45, 10811–10823 (2017).</a>

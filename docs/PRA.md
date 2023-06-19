@@ -6,7 +6,7 @@ author: Wenjian Liao
 permalink: /docs/PRA/
 ---
 <p style="font-size: 24px"><strong>Rfam ID: [RF02974](https://rfam.xfam.org/family/RF02974,target="_blank")</strong> (<i>Fibro-purF</i> RNA)<br /></p>
-
+ 
 <br />
 <html>
 <head>
@@ -44,7 +44,7 @@ permalink: /docs/PRA/
   </style>
 </head>
 <body>
-  <p style="font-size: 16px">Click into different sections:</p>
+  <p style="font-size: 16px">Click the buttons to navigate to different sections:</p>
   
   <div class="button-container">
     <a class="button" href="#timeline" >Timeline</a>
@@ -104,13 +104,13 @@ permalink: /docs/PRA/
 </div>
 </html>
 <p><br /></p>
-        
+         
 <p class="header_box" id="description">Description</p>
 <font >The PRA riboswitch (<i>Fibro-purF</i> RNA motif) is a conserved RNA structure that was discovered by bioinformatics. All known <i>Fibro-purF</i> RNAs are found upstream of <i>purF</i> genes, which encode amidophosphoribosyltransferase that participates in the biosynthesis of biological purine molecules. Due to the instability of the proposed ligand, 5-phospho-D-ribosylamine, direct experiments to confirm this ligand have not yet been conducted (From Wikipedia)<sup></sup>.</font>
 <p><br /></p>
-            
+             
 > Gene association
-        
+            
 <font >All <I>Fibro-purF</I> motif RNA representatives where determinations can be made are found upstream of a purF gene, which codes for an enzyme, amidophosphoribosyltransferase, that catalyzes the first committed step in the purine biosynthesis pathway.<sup>[1-2]</sup>.</font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;">
 <tr >
@@ -120,9 +120,9 @@ permalink: /docs/PRA/
 </tr>
 </table>
 <p><br /></p>
-                
+                 
 > Gene regulation
-            
+                
 <font ><p>Putative mechanisms for regulation of gene expression by PRA riboswitches. The Shine-Dalgarno sequence are shaded in orange<sup>[2]</sup>.</p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
@@ -131,7 +131,7 @@ permalink: /docs/PRA/
 </tr>
 </table>
 <p><br /></p>
-                    
+                         
 <p class="header_box" id="Structure and Ligand recognition">Structure and Ligand recognition</p>
 > 2D representation
         
@@ -170,7 +170,7 @@ permalink: /docs/PRA/
     <div class="main-container">
         <div class="zoom-wrapper1">
             <div class="zoom-area1">
-                <img src="/images/2D/PRA_riboswitch_2D1.svg" alt="drawing" style="width:400px" />
+                <img src="/images/2D/PRA_riboswitch_2D1.svg" alt="drawing" style="width:800px" />
             </div>
         </div>
     </div>
@@ -184,15 +184,11 @@ permalink: /docs/PRA/
       panzoom1.zoom(0.8);
       </script>
 </td>
-<!--2D模2--------------------------->
-
 </tr></table><br>
 <p><br /></p>
-                    
-
-                
+                     
 > Ligand recognition
-            
+                
 <font >
 <p>Chemical structures of PRA and C-PRA. In vitro experiments have corroborated the predicted structure, but no ligand has been established<sup>[3]</sup>.<br /><br /></p>
 </font>
@@ -204,9 +200,9 @@ permalink: /docs/PRA/
 </tr>
 </table>
 <p><br /></p>
-                
+                 
 <p class="header_box" id="references">References</p>
-            
+                
 <p><strong>[1] Detection of 224 candidate structured RNAs by comparative analysis of specific subsets of intergenic regions.</strong><br />
 Weinberg, Z. et al.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/28977401/" target="_blank">Nucleic Acids Res. 45, (2017).</a>

@@ -6,7 +6,7 @@ author: Yuanlin He, Xiaowei Lin
 permalink: /docs/Manganese/
 ---
 <p style="font-size: 24px"><strong>Rfam ID: [RF00080](https://rfam.xfam.org/family/RF00080,target="_blank")</strong> (<i>yybP-ykoY</i> manganese riboswitch)<br /></p>
-
+ 
 <br />
 <html>
 <head>
@@ -44,7 +44,7 @@ permalink: /docs/Manganese/
   </style>
 </head>
 <body>
-  <p style="font-size: 16px">Click into different sections:</p>
+  <p style="font-size: 16px">Click the buttons to navigate to different sections:</p>
   
   <div class="button-container">
     <a class="button" href="#timeline" >Timeline</a>
@@ -136,13 +136,13 @@ permalink: /docs/Manganese/
 </div>
 </html>
 <p><br /></p>
-        
+         
 <p class="header_box" id="description">Description</p>
 <font >The <i>yybP-ykoY</i> leader RNA element was originally discovered in <i>E</i>. coli during a large scale screen and was named SraF. This family was later found to exist upstream of related families of protein genes in many bacteria, including the yybP and ykoY genes in <i>B</i>. subtilis. The specific functions of these proteins are unknown, but this structured RNA element may be involved in their genetic regulation as a riboswitch. The <i>yybP-ykoY</i> element was later proposed to be manganese-responsive after another associated family of genes, YebN/MntP, was shown to encode Mn<sup>2+</sup> efflux pumps in several bacteria. Genetic data and a crystal structure confirmed that <i>yybP-ykoY</i> is a manganese riboswitch that directly binds Mn<sup>2+</sup> (From Wikipedia)<sup></sup>.</font>
 <p><br /></p>
-            
+             
 > Gene association
-        
+            
 <font >Network of genes immediately downstream of the <i>yybP-ykoY</i> riboswitch are predicted to have roles in protecting against metal toxicity. P-ZnR denotes proteins with a peptidase-associated zinc-ribbon and MetJ-Arc denotes proteins with MetJ-Arc DNA-binding domains<sup>[2]</sup>.</font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;">
 <tr >
@@ -152,9 +152,9 @@ permalink: /docs/Manganese/
 </tr>
 </table>
 <p><br /></p>
-                
+                 
 > Gene regulation
-            
+                
 <font ><p>Potential mechanism of transcriptional regulation by the <i>yybP-ykoY</i> manganese riboswitch. RNA polymerase produced predominantly terminated transcripts in the absence of Mn<sup>2+</sup>. Addition of 0.5 millimolar (mM) Mn<sup>2+</sup>, but not other metals tested (Fe<sup>2+</sup>, Co<sup>2+</sup>, Ni<sup>2+</sup>,and Ca<sup>2+</sup>), led to highly efficient anti-termination<sup>[3]</sup>.</p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
@@ -163,7 +163,7 @@ permalink: /docs/Manganese/
 </tr>
 </table>
 <p><br /></p>
-                    
+                         
 <p class="header_box" id="Structure and Ligand recognition">Structure and Ligand recognition</p>
 > 2D representation
         
@@ -202,7 +202,7 @@ permalink: /docs/Manganese/
     <div class="main-container">
         <div class="zoom-wrapper1">
             <div class="zoom-area1">
-                <img src="/images/2D/yybP-ykoY_manganese_riboswitch_2D1.svg" alt="drawing" style="width:400px" />
+                <img src="/images/2D/yybP-ykoY_manganese_riboswitch_2D1.svg" alt="drawing" style="width:800px" />
             </div>
         </div>
     </div>
@@ -216,40 +216,11 @@ permalink: /docs/Manganese/
       panzoom1.zoom(0.8);
       </script>
 </td>
-<!--2D模2--------------------------->
-<td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
-<style>
-.zoom-wrapper2 {
-    width: 400px;
-    height: 400px;
-    border: 1px solid #fff;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-</style>
-    <div class="main-container">
-        <div class="zoom-wrapper2">
-            <div class="zoom-area2">
-                <img src="/images/2D/yybP-ykoY_manganese_riboswitch_2D2.svg" alt="drawing" style="width:400px" />
-            </div>
-        </div>
-    </div>
-    <script src="https://www.ribocentre.org/js/panzoom.js"></script>
-    <script type='text/javascript'>
-      var zoomWraper2 = document.querySelector(".zoom-wrapper2");
-      var panzoom2 = Panzoom(document.querySelector(".zoom-area2"), {
-      maxScale: 6
-      });
-      zoomWraper2.addEventListener("wheel", panzoom2.zoomWithWheel);
-      panzoom2.zoom(0.8);
-    </script>
-</td>
 </tr></table><br>
 <p><br /></p>
-                    
+                     
 > 3D visualisation
-            
+                
 <font >The overall structure of the <i>yybP-ykoY</i> manganese riboswitch was generated from PDB ID: 4Y1I at 2.85 Å. The structure shows two series of coaxially stacked helices forming an overall hairpin shape, with the highly conserved L1 (yellow) and L3 (orange) docking together and binding two metal ions <sup>[3]</sup>.</font>
   <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
@@ -410,9 +381,9 @@ permalink: /docs/Manganese/
     </html></td>
   </tr></table><br>
   <p><br /></p>
-                
+                 
 > Binding pocket
-                
+                    
 <font ><p>Left: Surface representation of the binding pocket of the <i>yybP-ykoY</i> manganese riboswitch generated from PDB ID: 4Y1I. The manganese ion is labeled in red. Right: The metal coordination scheme. Mg<sup>2+</sup> is coordinated octahedrally by five backbone phosphates and a water. The Mn<sup>2+</sup> contains five backbone phosphates and the N7 of A41. N6 of A41 also makes a H-bond to the phosphate of U39<sup>[3]</sup>.<br /></p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/yybP-ykoY_manganese_riboswitch_binding_pockets1.svg" alt="drawing" style="width:400px"  px="" /></td>
@@ -420,9 +391,9 @@ permalink: /docs/Manganese/
 </tr>
 </table>
 <p><br /></p>
-                    
+                     
 > Ligand recognition
-            
+                
 <font >
 <p>The Lactococcus lactis <i>yybP-ykoY</i> riboswitch binds Mn<sup>2+</sup> with an effective Kd of ~ 30–40 micromolar (μM), as monitored by both in vitro transcription (IVT) assays and selective 2’-hydroxyl acylation analyzed by primer extension (SHAPE)<sup>[3]</sup>.<br /><br /></p>
 </font>
@@ -434,9 +405,9 @@ permalink: /docs/Manganese/
 </tr>
 </table>
 <p><br /></p>
-                
+                 
 <p class="header_box" id="references">References</p>
-            
+                
 <p><strong>[1] New RNA motifs suggest an expanded scope for riboswitches in bacterial genetic control.</strong><br />
 Barrick, J. E. et al.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/15096624/" target="_blank">Proc. Natl. Acad. Sci. U. S. A. 101, 6421–6426 (2004).</a>

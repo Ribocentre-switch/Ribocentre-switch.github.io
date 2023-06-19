@@ -8,7 +8,7 @@ permalink: /docs/Guanidine/
 <p style="font-size: 24px"><strong>Rfam ID: [RF00442](https://rfam.xfam.org/family/RF00442,target="_blank")</strong> (Guanidine-I riboswitch)<br /></p>
 <p style="font-size: 24px"><strong>&emsp;&emsp;&emsp;&emsp;[RF01068](https://rfam.xfam.org/family/RF01068,target="_blank")</strong> (Guanidine-II riboswitch) <br /></p>
 <p style="font-size: 24px"><strong>&emsp;&emsp;&emsp;&emsp;[RF01763](https://rfam.xfam.org/family/RF01763,target="_blank")</strong> (Guanidine-III riboswitch) <br /></p>
-
+ 
 <br />
 <html>
 <head>
@@ -46,7 +46,7 @@ permalink: /docs/Guanidine/
   </style>
 </head>
 <body>
-  <p style="font-size: 16px">Click into different sections:</p>
+  <p style="font-size: 16px">Click the buttons to navigate to different sections:</p>
   
   <div class="button-container">
     <a class="button" href="#timeline" >Timeline</a>
@@ -202,13 +202,13 @@ permalink: /docs/Guanidine/
 </div>
 </html>
 <p><br /></p>
-        
+         
 <p class="header_box" id="description">Description</p>
 <font >Four classes of riboswitches have been identified that bind the cationic molecule guanidine (Gdm<sup>+</sup> ). The ykkC motif RNA is associated with genes encoding transporters, such as multidrug efflux pumps, urea carboxylase, purine biosynthesis, and amino acid metabolism enzymes. Later, transporters and urea carboxylase were also found to be associated with the mini-ykkC and ykkC-III motifs. They sense the same ligand guanidine, now known as guanidine-I, -II and -III riboswitches. It was later discovered that the guanidine-IV riboswitch was shown to selectively respond to guanidine. Guanidine-I and -IV are transcriptional regulatory riboswitches, while guanidine-II and -III are considered translational riboswitches<sup>[1-3,10]</sup>.</font>
 <p><br /></p>
-            
+             
 > Gene association
-        
+            
 <font >Guanidine is sensed by at least four different classes of riboswitches that are ubiquitous in bacteria. The genes primarily regulated by the guanidine riboswitch are Gdx transporters that export compounds from bacterial cells. In addition, urea/guanidine carboxylase and related hydrolases, as well as ABC transporters, are often incorporated in guanidine-inducible operons<sup>[13]</sup>.</font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;">
 <tr >
@@ -218,9 +218,9 @@ permalink: /docs/Guanidine/
 </tr>
 </table>
 <p><br /></p>
-                
+                 
 > Gene regulation
-            
+                
 <font ><p>Guanidine-I is a transcriptionally regulated riboswitch that may form a strong intrinsic terminator stem, but ligand binding results in a stable aptamer structure that prevents terminator formation.Guanidine-II differs from guanidine-I in its gene regulatory mechanism. Guanidine-II appears to act as a translational riboswitch. Guanidine stabilizes the loop–loop interaction of the ON state that competes with the OFF structure where a SDS is sequestered in base-pairs<sup>[1-2]</sup>.</p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
@@ -232,7 +232,7 @@ permalink: /docs/Guanidine/
 </tr>
 </table>
 <p><br /></p>
-                    
+                        
 <font ><p>Guanidine-III is a translational riboswitch. Increased stability in the presence of guanidine is necessary for switching to the ON conformation. Guanidine-IV riboswitch is transcriptional regulatory riboswitch. Acts as a genetic "ON" switch, where the ligand-binding structure and the terminator stem will be mutually exclusive structures<sup>[3,11]</sup>.</p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
@@ -244,7 +244,7 @@ permalink: /docs/Guanidine/
 </tr>
 </table>
 <p><br /></p>
-                    
+                         
 <p class="header_box" id="Structure and Ligand recognition">Structure and Ligand recognition</p>
 > 2D representation
         
@@ -283,7 +283,7 @@ permalink: /docs/Guanidine/
     <div class="main-container">
         <div class="zoom-wrapper1">
             <div class="zoom-area1">
-                <img src="/images/2D/Guanidine-I_riboswitch_2D1.svg" alt="drawing" style="width:400px" />
+                <img src="/images/2D/Guanidine-I_riboswitch_2D1.svg" alt="drawing" style="width:800px" />
             </div>
         </div>
     </div>
@@ -296,35 +296,6 @@ permalink: /docs/Guanidine/
       zoomWraper1.addEventListener("wheel", panzoom1.zoomWithWheel);
       panzoom1.zoom(0.8);
       </script>
-</td>
-<!--2D模2--------------------------->
-<td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
-<style>
-.zoom-wrapper2 {
-    width: 400px;
-    height: 400px;
-    border: 1px solid #fff;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-</style>
-    <div class="main-container">
-        <div class="zoom-wrapper2">
-            <div class="zoom-area2">
-                <img src="/images/2D/Guanidine-I_riboswitch_2D2.svg" alt="drawing" style="width:400px" />
-            </div>
-        </div>
-    </div>
-    <script src="https://www.ribocentre.org/js/panzoom.js"></script>
-    <script type='text/javascript'>
-      var zoomWraper2 = document.querySelector(".zoom-wrapper2");
-      var panzoom2 = Panzoom(document.querySelector(".zoom-area2"), {
-      maxScale: 6
-      });
-      zoomWraper2.addEventListener("wheel", panzoom2.zoomWithWheel);
-      panzoom2.zoom(0.8);
-    </script>
 </td>
 </tr></table><br>
 <p><br /></p>
@@ -364,7 +335,7 @@ permalink: /docs/Guanidine/
     <div class="main-container">
         <div class="zoom-wrapper3">
             <div class="zoom-area3">
-                <img src="/images/2D/Guanidine-II_riboswitch_2D1.svg" alt="drawing" style="width:400px" />
+                <img src="/images/2D/Guanidine-II_riboswitch_2D1.svg" alt="drawing" style="width:800px" />
             </div>
         </div>
     </div>
@@ -377,35 +348,6 @@ permalink: /docs/Guanidine/
       zoomWraper3.addEventListener("wheel", panzoom3.zoomWithWheel);
       panzoom3.zoom(0.8);
       </script>
-</td>
-<!--2D模2--------------------------->
-<td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
-<style>
-.zoom-wrapper4 {
-    width: 400px;
-    height: 400px;
-    border: 1px solid #fff;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-</style>
-    <div class="main-container">
-        <div class="zoom-wrapper4">
-            <div class="zoom-area4">
-                <img src="/images/2D/Guanidine-II_riboswitch_2D2.svg" alt="drawing" style="width:400px" />
-            </div>
-        </div>
-    </div>
-    <script src="https://www.ribocentre.org/js/panzoom.js"></script>
-    <script type='text/javascript'>
-      var zoomWraper4 = document.querySelector(".zoom-wrapper4");
-      var panzoom4 = Panzoom(document.querySelector(".zoom-area4"), {
-      maxScale: 6
-      });
-      zoomWraper4.addEventListener("wheel", panzoom4.zoomWithWheel);
-      panzoom4.zoom(0.8);
-    </script>
 </td>
 </tr></table><br>
 <p><br /></p>
@@ -445,7 +387,7 @@ permalink: /docs/Guanidine/
     <div class="main-container">
         <div class="zoom-wrapper5">
             <div class="zoom-area5">
-                <img src="/images/2D/Guanidine-III_riboswitch_2D1.svg" alt="drawing" style="width:400px" />
+                <img src="/images/2D/Guanidine-III_riboswitch_2D1.svg" alt="drawing" style="width:800px" />
             </div>
         </div>
     </div>
@@ -458,35 +400,6 @@ permalink: /docs/Guanidine/
       zoomWraper5.addEventListener("wheel", panzoom5.zoomWithWheel);
       panzoom5.zoom(0.8);
       </script>
-</td>
-<!--2D模2--------------------------->
-<td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
-<style>
-.zoom-wrapper6 {
-    width: 400px;
-    height: 400px;
-    border: 1px solid #fff;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-</style>
-    <div class="main-container">
-        <div class="zoom-wrapper6">
-            <div class="zoom-area6">
-                <img src="/images/2D/Guanidine-III_riboswitch_2D2.svg" alt="drawing" style="width:400px" />
-            </div>
-        </div>
-    </div>
-    <script src="https://www.ribocentre.org/js/panzoom.js"></script>
-    <script type='text/javascript'>
-      var zoomWraper6 = document.querySelector(".zoom-wrapper6");
-      var panzoom6 = Panzoom(document.querySelector(".zoom-area6"), {
-      maxScale: 6
-      });
-      zoomWraper6.addEventListener("wheel", panzoom6.zoomWithWheel);
-      panzoom6.zoom(0.8);
-    </script>
 </td>
 </tr></table><br>
 <p><br /></p>
@@ -540,13 +453,11 @@ permalink: /docs/Guanidine/
       panzoom7.zoom(0.8);
       </script>
 </td>
-<!--2D模2--------------------------->
-
 </tr></table><br>
 <p><br /></p>
-                    
+                     
 > 3D visualisation
-            
+                
 <font >The overall structure of the guanidine-I riboswitch was generated from PDB ID: 5T83 at 2.71 Å resolution bound with guanidine. Guanidine (shown in sticks) is labeled in red <sup>[4]</sup>.</font>
   <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
@@ -879,9 +790,9 @@ permalink: /docs/Guanidine/
     </html></td>
   </tr></table><br>
   <p><br /></p>
-                
+                 
 > Binding pocket
-                
+                    
 <font ><p>(Left) Surface representation of the binding pocket of the guanidine-I riboswitch generated from PDB ID: 5T83. Guanidine (shown in sticks) is labeled in red. (Right) Ligand interaction between guanidine and guanidine-I riboswitch<sup>[4]</sup>.<br /></p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/Guanidine-I_riboswitch_binding_pockets1.svg" alt="drawing" style="width:400px"  px="" /></td>
@@ -905,9 +816,9 @@ permalink: /docs/Guanidine/
 </tr>
 </table>
 <p><br /></p>
-                    
+                     
 > Ligand recognition
-            
+                
 <font >
 <p>Chemical structures of xanthine and its analogs. The apparent K<sub>D</sub> of each compound of guanidine-I, -II, -III, -IV riboswitch is shown on bottom<sup>[1-3,11]</sup>.<br /><br /></p>
 </font>
@@ -919,9 +830,9 @@ permalink: /docs/Guanidine/
 </tr>
 </table>
 <p><br /></p>
-                
+                 
 <p class="header_box" id="references">References</p>
-            
+                
 <p><strong>[1] Metabolism of Free Guanidine in Bacteria Is Regulated by a Widespread Riboswitch Class.</strong><br />
 Nelson, J. W., Atilho, R. M., Sherlock, M. E., Stockbridge, R. B. & Breaker, R. R.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/27989440/" target="_blank">Mol. Cell 65, 220–230 (2017).</a>

@@ -6,7 +6,7 @@ author: Yuanyin Huang, Xiaowei Lin
 permalink: /docs/Azaaromatic/
 ---
 <p style="font-size: 24px"><strong>Rfam ID: [RF01764](https://rfam.xfam.org/family/RF01764,target="_blank")</strong> (yjdF RNA)<br /></p>
-
+ 
 <br />
 <html>
 <head>
@@ -44,7 +44,7 @@ permalink: /docs/Azaaromatic/
   </style>
 </head>
 <body>
-  <p style="font-size: 16px">Click into different sections:</p>
+  <p style="font-size: 16px">Click the buttons to navigate to different sections:</p>
   
   <div class="button-container">
     <a class="button" href="#timeline" >Timeline</a>
@@ -112,15 +112,13 @@ permalink: /docs/Azaaromatic/
 </div>
 </html>
 <p><br /></p>
-        
+         
 <p class="header_box" id="description">Description</p>
 <font >The azaaromatic riboswitch was named <i>yjdF</i> RNA. The <i>yjdF</i> RNA motif is a conserved RNA structure identified using bioinformatics. Most <i>yjdF</i> RNAs are located in bacteria classified within the phylum Bacillota. A <i>yjdF</i> RNA is found in the presumed 5' untranslated region (5' UTR) of the <i>yjdF</i> gene in <i>Bacillus subtilis</i>, and almost all <i>yjdF</i> RNAs are found in the 5' UTRs of homologs of this gene. <i>yjdF</i> RNAs appear to function as riboswitches that sense azaaromatic compounds, although the precise compound or set of compounds that is sensed by this riboswitch in the cell remains unclear (From Wikipedia)<sup></sup>.</font>
 <p><br /></p>
-            
-> Gene association
-        
+             
 > Gene regulation
-            
+                
 <font ><p>Potential mechanism of translation regulation by azaaromatic riboswitch<sup>[2]</sup>.</p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
@@ -129,7 +127,7 @@ permalink: /docs/Azaaromatic/
 </tr>
 </table>
 <p><br /></p>
-                    
+                         
 <p class="header_box" id="Structure and Ligand recognition">Structure and Ligand recognition</p>
 > 2D representation
         
@@ -168,7 +166,7 @@ permalink: /docs/Azaaromatic/
     <div class="main-container">
         <div class="zoom-wrapper1">
             <div class="zoom-area1">
-                <img src="/images/2D/Azaaromatic_riboswitch_2D1.svg" alt="drawing" style="width:400px" />
+                <img src="/images/2D/Azaaromatic_riboswitch_2D1.svg" alt="drawing" style="width:800px" />
             </div>
         </div>
     </div>
@@ -182,15 +180,11 @@ permalink: /docs/Azaaromatic/
       panzoom1.zoom(0.8);
       </script>
 </td>
-<!--2D模2--------------------------->
-
 </tr></table><br>
 <p><br /></p>
-                    
-
-                
+                     
 > Ligand recognition
-            
+                
 <font >
 <p>Chemical structures of azaaromatic. The apparent K<sub>D</sub> of each compound of azaaromatic riboswitch is shown on bottom<sup>[1]</sup>.<br /><br /></p>
 </font>
@@ -202,9 +196,9 @@ permalink: /docs/Azaaromatic/
 </tr>
 </table>
 <p><br /></p>
-                
+                 
 <p class="header_box" id="references">References</p>
-            
+                
 <p><strong>[1] The yjdF riboswitch candidate regulates gene expression by binding diverse azaaromatic compounds.</strong><br />
 Li, S., Hwang, X. Y., Stav, S. & Breaker, R. R.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/26843526/" target="_blank">RNA 22, 530–541 (2016).</a>

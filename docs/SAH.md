@@ -6,7 +6,7 @@ author: Zhizhong Lu, Wenjian Liao
 permalink: /docs/SAH/
 ---
 <p style="font-size: 24px"><strong>Rfam ID: [RF01057](https://rfam.xfam.org/family/RF01057,target="_blank")</strong> (S-adenosyl-L-homocysteine riboswitch)<br /></p>
-
+ 
 <br />
 <html>
 <head>
@@ -44,7 +44,7 @@ permalink: /docs/SAH/
   </style>
 </head>
 <body>
-  <p style="font-size: 16px">Click into different sections:</p>
+  <p style="font-size: 16px">Click the buttons to navigate to different sections:</p>
   
   <div class="button-container">
     <a class="button" href="#timeline" >Timeline</a>
@@ -128,13 +128,13 @@ permalink: /docs/SAH/
 </div>
 </html>
 <p><br /></p>
-        
+         
 <p class="header_box" id="description">Description</p>
 <font >SAH riboswitches are a kind of riboswitch that bind S-adenosylhomocysteine (SAH). When the coenzyme S-adenosylmethionine (SAM) is used in a methylation reaction, SAH is produced. SAH riboswitches typically up-regulate genes involved in recycling SAH to create more SAM (or the metabolically related methionine). This is particularly relevant to cells, because high levels of SAH can be toxic. Originally identified by bioinformatics, SAH riboswitches are apparent in many species of bacteria, predominantly certain Pseudomonadota and Actinomycetota. The atomic-resolution 3-dimensional structure of an SAH riboswitch has been solved using X-ray crystallography. (from WiKi)<sup></sup>.</font>
 <p><br /></p>
-            
+             
 > Gene association
-        
+            
 <font >Pathways for sulphate assimilation and biosynthesis of cysteine and methionine. SAH riboswitch (red bar) is involved in multiple gene regulation in the synthetic pathway<sup>[1]</sup>.</font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;">
 <tr >
@@ -144,9 +144,9 @@ permalink: /docs/SAH/
 </tr>
 </table>
 <p><br /></p>
-                
+                 
 > Gene regulation
-            
+                
 <font ><p>Model of SAH riboswitch sequential folding and translational control<sup>[1]</sup>.</p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
@@ -155,7 +155,7 @@ permalink: /docs/SAH/
 </tr>
 </table>
 <p><br /></p>
-                    
+                         
 <p class="header_box" id="Structure and Ligand recognition">Structure and Ligand recognition</p>
 > 2D representation
         
@@ -194,7 +194,7 @@ permalink: /docs/SAH/
     <div class="main-container">
         <div class="zoom-wrapper1">
             <div class="zoom-area1">
-                <img src="/images/2D/SAH_riboswitch_2D1.svg" alt="drawing" style="width:400px" />
+                <img src="/images/2D/SAH_riboswitch_2D1.svg" alt="drawing" style="width:800px" />
             </div>
         </div>
     </div>
@@ -208,40 +208,11 @@ permalink: /docs/SAH/
       panzoom1.zoom(0.8);
       </script>
 </td>
-<!--2D模2--------------------------->
-<td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
-<style>
-.zoom-wrapper2 {
-    width: 400px;
-    height: 400px;
-    border: 1px solid #fff;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-</style>
-    <div class="main-container">
-        <div class="zoom-wrapper2">
-            <div class="zoom-area2">
-                <img src="/images/2D/SAH_riboswitch_2D2.svg" alt="drawing" style="width:400px" />
-            </div>
-        </div>
-    </div>
-    <script src="https://www.ribocentre.org/js/panzoom.js"></script>
-    <script type='text/javascript'>
-      var zoomWraper2 = document.querySelector(".zoom-wrapper2");
-      var panzoom2 = Panzoom(document.querySelector(".zoom-area2"), {
-      maxScale: 6
-      });
-      zoomWraper2.addEventListener("wheel", panzoom2.zoomWithWheel);
-      panzoom2.zoom(0.8);
-    </script>
-</td>
 </tr></table><br>
 <p><br /></p>
-                    
+                     
 > 3D visualisation
-            
+                
 <font >2.18-Å resolution crystal structure of an SAH riboswitch complexed with S-adenosylmethionine. The figure reference from PDB ID: 3NPQ, SAM (shown in sticks) is labeled in red <sup>[3]</sup>.</font>
   <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
@@ -360,9 +331,9 @@ permalink: /docs/SAH/
     </html></td>
   </tr></table><br>
   <p><br /></p>
-                
+                 
 > Binding pocket
-                
+                    
 <font ><p>Left: Surface representation of the binding pocket of the SAH riboswitch generated from PDB ID: 3NPQ. S-adenosylmethionine (SAM) (shown in sticks) is labeled in red. Right: Hydrogen bonding between SAM and adjacent bases<sup>[3]</sup>.<br /></p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/SAH_riboswitch_binding_pockets1.svg" alt="drawing" style="width:400px"  px="" /></td>
@@ -370,9 +341,9 @@ permalink: /docs/SAH/
 </tr>
 </table>
 <p><br /></p>
-                    
+                     
 > Ligand recognition
-            
+                
 <font >
 <p>Chemical structures of various compounds used to probe the binding characteristics of the SAH riboswitch<sup>[3]</sup>.<br /><br /></p>
 </font>
@@ -384,9 +355,9 @@ permalink: /docs/SAH/
 </tr>
 </table>
 <p><br /></p>
-                
+                 
 <p class="header_box" id="references">References</p>
-            
+                
 <p><strong>[1] Riboswitches that sense S-adenosylhomocysteine and activate genes involved in coenzyme recycling.</strong><br />
 Wang, J. X., Lee, E. R., Morales, D. R., Lim, J., & Breaker, R. R.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/18374645/" target="_blank">Mol. Cell 29, 691–702 (2008).</a>

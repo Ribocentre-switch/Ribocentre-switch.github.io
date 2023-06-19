@@ -6,7 +6,7 @@ author: Xiaowei Lin, Yuanyin Huang
 permalink: /docs/FMN/
 ---
 <p style="font-size: 24px"><strong>Rfam ID: [RF00050](https://rfam.xfam.org/family/RF00050,target="_blank")</strong> (FMN riboswitch (RFN element))<br /></p>
-
+ 
 <br />
 <html>
 <head>
@@ -44,7 +44,7 @@ permalink: /docs/FMN/
   </style>
 </head>
 <body>
-  <p style="font-size: 16px">Click into different sections:</p>
+  <p style="font-size: 16px">Click the buttons to navigate to different sections:</p>
   
   <div class="button-container">
     <a class="button" href="#timeline" >Timeline</a>
@@ -192,13 +192,13 @@ permalink: /docs/FMN/
 </div>
 </html>
 <p><br /></p>
-        
+         
 <p class="header_box" id="description">Description</p>
 <font >The FMN riboswitch (also known as RFN element) is a highly conserved RNA element which is naturally occurring, and is found frequently in the 5'-untranslated regions of prokaryotic mRNAs that encode for flavin mononucleotide (FMN) biosynthesis and transport proteins. This element is a metabolite-dependent riboswitch that directly binds FMN in the absence of proteins, thus giving it the ability to regulate RNA expression by responding to changes in the concentration of FMN. In <i>Bacillus subtilis</i>, previous studies have shown that this bacterium utilizes at least two FMN riboswitches, where one controls translation initiation, and the other controls premature transcription termination. Regarding the second riboswitch in Bacilius subtilis, premature transcription termination occurs within the 5' untranslated region of the ribDEAHT operon, precluding access to the ribosome-binding site of ypaA mRNA. FMN riboswitches also have various magnesium and potassium ions dispersed throughout the nucleotide structure, some of which participate in binding of FMN (From Wikipedia)<sup></sup>.</font>
 <p><br /></p>
-            
+             
 > Gene association
-        
+            
 <font >The riboflavin biosynthesis pathway in bacteria. The genes under contol of the FMN ribswtch are colored in red<sup>[2]</sup>.</font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;">
 <tr >
@@ -208,9 +208,9 @@ permalink: /docs/FMN/
 </tr>
 </table>
 <p><br /></p>
-                
+                 
 > Gene regulation
-            
+                
 <font ><p>Model for the FMN riboswitch to regulate gene expression. Shaded regions identify the putative anti-terminator structure that is disrupted after binding of FMN and formation of the P1 structure<sup>[2-3]</sup>.</p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
@@ -219,7 +219,7 @@ permalink: /docs/FMN/
 </tr>
 </table>
 <p><br /></p>
-                    
+                         
 <p class="header_box" id="Structure and Ligand recognition">Structure and Ligand recognition</p>
 > 2D representation
         
@@ -258,7 +258,7 @@ permalink: /docs/FMN/
     <div class="main-container">
         <div class="zoom-wrapper1">
             <div class="zoom-area1">
-                <img src="/images/2D/FMN_riboswitch_2D1.svg" alt="drawing" style="width:400px" />
+                <img src="/images/2D/FMN_riboswitch_2D1.svg" alt="drawing" style="width:800px" />
             </div>
         </div>
     </div>
@@ -272,40 +272,11 @@ permalink: /docs/FMN/
       panzoom1.zoom(0.8);
       </script>
 </td>
-<!--2D模2--------------------------->
-<td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
-<style>
-.zoom-wrapper2 {
-    width: 400px;
-    height: 400px;
-    border: 1px solid #fff;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-</style>
-    <div class="main-container">
-        <div class="zoom-wrapper2">
-            <div class="zoom-area2">
-                <img src="/images/2D/FMN_riboswitch_2D2.svg" alt="drawing" style="width:400px" />
-            </div>
-        </div>
-    </div>
-    <script src="https://www.ribocentre.org/js/panzoom.js"></script>
-    <script type='text/javascript'>
-      var zoomWraper2 = document.querySelector(".zoom-wrapper2");
-      var panzoom2 = Panzoom(document.querySelector(".zoom-area2"), {
-      maxScale: 6
-      });
-      zoomWraper2.addEventListener("wheel", panzoom2.zoomWithWheel);
-      panzoom2.zoom(0.8);
-    </script>
-</td>
 </tr></table><br>
 <p><br /></p>
-                    
+                     
 > 3D visualisation
-            
+                
 <font >The overall structure of the FMN riboswitch was generated from PDB ID: 3F2Q at 2.95 Å resolution bound with FMN. FMN (shown in sticks) is colored in red <sup>[6]</sup>.</font>
   <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
@@ -448,9 +419,9 @@ permalink: /docs/FMN/
     </html></td>
   </tr></table><br>
   <p><br /></p>
-                
+                 
 > Binding pocket
-                
+                    
 <font ><p>Left: Surface representation of the binding pocket of the FMN riboswitch generated from PDB ID: 3F2Q. FMN (shown in sticks) is labeled in red. Right: The hydrogen bonds of the binding site of the FMN riboswitch bound with FMN<sup>[6]</sup>.<br /></p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/FMN_riboswitch_binding_pockets1.svg" alt="drawing" style="width:400px"  px="" /></td>
@@ -458,9 +429,9 @@ permalink: /docs/FMN/
 </tr>
 </table>
 <p><br /></p>
-                    
+                     
 > Ligand recognition
-            
+                
 <font >
 <p>Chemical structures of FMN and its analogs. The apparent K<sub>D</sub>
  of each compound is shown on bottom<sup>[3,6,8-9]</sup>.<br /><br /></p>
@@ -473,9 +444,9 @@ permalink: /docs/FMN/
 </tr>
 </table>
 <p><br /></p>
-                
+                 
 <p class="header_box" id="references">References</p>
-            
+                
 <p><strong>[1] A conserved RNA structure element involved in the regulation of bacterial riboflavin synthesis genes.</strong><br />
 Gelfand, M. S., Mironov, A. A., Jomantas, J., Kozlov, Y. I. & Perumov, D. A.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/10529804/" target="_blank">Trends Genet. 15, (1999).</a>

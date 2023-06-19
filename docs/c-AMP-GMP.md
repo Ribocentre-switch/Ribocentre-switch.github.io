@@ -6,7 +6,7 @@ author: Yuhang Luo, Yuanlin He
 permalink: /docs/c-AMP-GMP/
 ---
 <p style="font-size: 24px"><strong>Rfam ID: [nan](https://rfam.xfam.org/family/nan,target="_blank")</strong> (nan)<br /></p>
-
+ 
 <br />
 <html>
 <head>
@@ -44,7 +44,7 @@ permalink: /docs/c-AMP-GMP/
   </style>
 </head>
 <body>
-  <p style="font-size: 16px">Click into different sections:</p>
+  <p style="font-size: 16px">Click the buttons to navigate to different sections:</p>
   
   <div class="button-container">
     <a class="button" href="#timeline" >Timeline</a>
@@ -144,13 +144,13 @@ permalink: /docs/c-AMP-GMP/
 </div>
 </html>
 <p><br /></p>
-        
+         
 <p class="header_box" id="description">Description</p>
 <font >c-AMP-GMP riboswitches (also known as c-GAMP riboswitches) form a class of ribose switches that bind specifically to cyclic AMP-GMP. Previously annotated as the c-di-GMP-I ribose switch, its mutant cyclic AMP-GMP riboswitch is able to bind to a second messenger, c-AMP-GMP. The cyclic AMP-GMP ribose switch recognizes c-AMP-GMP and controls a group of genes important for utilizing iron oxide (III) in external power generation.Approximately 6,800 sequences conform to the c-di-GMP-I riboswitch class consensus , which was formerly called the Genes for the Environment, for Membranes and for Motility (GEMM) motif .Predominantly found in species of Bacillales, Clostridia, Deltaproteobacteria, and Gammaproteobacteria , the vastmajority have aptamer sequences and gene associations that aretypical for c-di-GMP binding and control<sup>[1-2, 4-5]</sup>.</font>
 <p><br /></p>
-            
+             
 > Gene association
-        
+            
 <font >This figure depicts genes predicted to be regulated by the c-AMP-GMP riboswitch<sup>[2]</sup>.</font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;">
 <tr >
@@ -160,9 +160,9 @@ permalink: /docs/c-AMP-GMP/
 </tr>
 </table>
 <p><br /></p>
-                
+                 
 > Gene regulation
-            
+                
 <font ><p>Putative mechanisms for regulation of gene expression by c-AMP-GMP riboswitches<sup>[4]</sup>.</p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
@@ -171,7 +171,7 @@ permalink: /docs/c-AMP-GMP/
 </tr>
 </table>
 <p><br /></p>
-                    
+                         
 <p class="header_box" id="Structure and Ligand recognition">Structure and Ligand recognition</p>
 > 2D representation
         
@@ -210,7 +210,7 @@ permalink: /docs/c-AMP-GMP/
     <div class="main-container">
         <div class="zoom-wrapper1">
             <div class="zoom-area1">
-                <img src="/images/2D/c-AMP-GMP_riboswitch_2D1.svg" alt="drawing" style="width:400px" />
+                <img src="/images/2D/c-AMP-GMP_riboswitch_2D1.svg" alt="drawing" style="width:800px" />
             </div>
         </div>
     </div>
@@ -224,40 +224,11 @@ permalink: /docs/c-AMP-GMP/
       panzoom1.zoom(0.8);
       </script>
 </td>
-<!--2D模2--------------------------->
-<td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
-<style>
-.zoom-wrapper2 {
-    width: 400px;
-    height: 400px;
-    border: 1px solid #fff;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-</style>
-    <div class="main-container">
-        <div class="zoom-wrapper2">
-            <div class="zoom-area2">
-                <img src="/images/2D/c-AMP-GMP_riboswitch_2D2.svg" alt="drawing" style="width:400px" />
-            </div>
-        </div>
-    </div>
-    <script src="https://www.ribocentre.org/js/panzoom.js"></script>
-    <script type='text/javascript'>
-      var zoomWraper2 = document.querySelector(".zoom-wrapper2");
-      var panzoom2 = Panzoom(document.querySelector(".zoom-area2"), {
-      maxScale: 6
-      });
-      zoomWraper2.addEventListener("wheel", panzoom2.zoomWithWheel);
-      panzoom2.zoom(0.8);
-    </script>
-</td>
 </tr></table><br>
 <p><br /></p>
-                    
+                     
 > 3D visualisation
-            
+                
 <font >The overall structure of the c-GAMP riboswitch was generated from PDB ID: 4YAZ at  2.00 Å resolution bound with c-GAMP. c-GAMP (shown in sticks) is labeled in red <sup>[3]</sup>.</font>
   <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
@@ -381,9 +352,9 @@ permalink: /docs/c-AMP-GMP/
     </html></td>
   </tr></table><br>
   <p><br /></p>
-                
+                 
 > Binding pocket
-                
+                    
 <font ><p>Left: Surface representation of the binding pocket of the c-GAMP riboswitch generated from PDB ID: 4YAZ. c-GAMP (shown in sticks) is labeled in red. Right: The hydrogen bonds of the binding sites of the c-GAMP riboswitch bound with c-GAMP<sup>[3]</sup>.<br /></p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/c-AMP-GMP_riboswitch_binding_pockets1.svg" alt="drawing" style="width:400px"  px="" /></td>
@@ -391,9 +362,9 @@ permalink: /docs/c-AMP-GMP/
 </tr>
 </table>
 <p><br /></p>
-                    
+                     
 > Ligand recognition
-            
+                
 <font >
 <p>Chemical structures of ppGpp and its analogs. The apparent K<sub>D</sub> is shown on bottom<sup>[3]</sup>.<br /><br /></p>
 </font>
@@ -405,9 +376,9 @@ permalink: /docs/c-AMP-GMP/
 </tr>
 </table>
 <p><br /></p>
-                
+                 
 <p class="header_box" id="references">References</p>
-            
+                
 <p><strong>[1] Identification of 22 candidate structured RNAs in bacteria using the CMfinder comparative genomics pipeline.</strong><br />
 Weinberg, Z. et al.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/17621584/" target="_blank">Nucleic Acids Res. 35, 4809–4819 (2007).</a>

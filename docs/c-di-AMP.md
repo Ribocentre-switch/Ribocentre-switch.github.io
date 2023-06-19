@@ -6,7 +6,7 @@ author: Jie Deng_Yuanlin He
 permalink: /docs/c-di-AMP/
 ---
 <p style="font-size: 24px"><strong>Rfam ID: [RF00379](https://rfam.xfam.org/family/RF00379,target="_blank")</strong> (YdaO/YuaA leader)<br /></p>
-
+ 
 <br />
 <html>
 <head>
@@ -44,7 +44,7 @@ permalink: /docs/c-di-AMP/
   </style>
 </head>
 <body>
-  <p style="font-size: 16px">Click into different sections:</p>
+  <p style="font-size: 16px">Click the buttons to navigate to different sections:</p>
   
   <div class="button-container">
     <a class="button" href="#timeline" >Timeline</a>
@@ -152,15 +152,11 @@ permalink: /docs/c-di-AMP/
 </div>
 </html>
 <p><br /></p>
-        
+         
 <p class="header_box" id="description">Description</p>
 <font >The YdaO/YuaA leader (now called the cyclic di-AMP riboswitch) is a conserved RNA structure found upstream of the ydaO and yuaA genes in Bacillus subtilis and related genes in other bacteria. Its secondary structure and gene associations were predicted by bioinformatics. These RNAs function as riboswitches, and sense the signaling molecule cyclic di-AMP<sup></sup>.</font>
 <p><br /></p>
-            
-> Gene association
-        
-> Gene regulation
-            
+             
 <p class="header_box" id="Structure and Ligand recognition">Structure and Ligand recognition</p>
 > 2D representation
         
@@ -199,7 +195,7 @@ permalink: /docs/c-di-AMP/
     <div class="main-container">
         <div class="zoom-wrapper1">
             <div class="zoom-area1">
-                <img src="/images/2D/c-di-AMP_2D1.svg" alt="drawing" style="width:400px" />
+                <img src="/images/2D/c-di-AMP_2D1.svg" alt="drawing" style="width:800px" />
             </div>
         </div>
     </div>
@@ -213,40 +209,11 @@ permalink: /docs/c-di-AMP/
       panzoom1.zoom(0.8);
       </script>
 </td>
-<!--2D模2--------------------------->
-<td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
-<style>
-.zoom-wrapper2 {
-    width: 400px;
-    height: 400px;
-    border: 1px solid #fff;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-</style>
-    <div class="main-container">
-        <div class="zoom-wrapper2">
-            <div class="zoom-area2">
-                <img src="/images/2D/c-di-AMP_2D2.svg" alt="drawing" style="width:400px" />
-            </div>
-        </div>
-    </div>
-    <script src="https://www.ribocentre.org/js/panzoom.js"></script>
-    <script type='text/javascript'>
-      var zoomWraper2 = document.querySelector(".zoom-wrapper2");
-      var panzoom2 = Panzoom(document.querySelector(".zoom-area2"), {
-      maxScale: 6
-      });
-      zoomWraper2.addEventListener("wheel", panzoom2.zoomWithWheel);
-      panzoom2.zoom(0.8);
-    </script>
-</td>
 </tr></table><br>
 <p><br /></p>
-                    
+                     
 > 3D visualisation
-            
+                
 <font >Crystal structure of Bacillus subtilis cyclic-di-AMP riboswitch ydaO <sup>[6]</sup>.</font>
   <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
@@ -455,9 +422,9 @@ permalink: /docs/c-di-AMP/
     </html></td>
   </tr></table><br>
   <p><br /></p>
-                
+                 
 > Binding pocket
-                
+                    
 <font ><p>Left: Surface representation of the binding pocket of the c-di-AMP riboswitch generated from PDB ID:4W90. c-di-AMP (shown in sticks) is labeled in red. Right: The hydrogen bonds of the two binding sites of the c-di-AMP riboswitch bound with c-di-AMP<sup>[6]</sup>.<br /></p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/c-di-AMP_binding_pockets_1.svg" alt="drawing" style="width:400px"  px="" /></td>
@@ -465,9 +432,9 @@ permalink: /docs/c-di-AMP/
 </tr>
 </table>
 <p><br /></p>
-                    
+                     
 > Ligand recognition
-            
+                
 <font >
 <p>Plot of the K<sub>D</sub> values for the binding of c-di-AMP analogs by WT 165 ydaO RNA<sup>[3]</sup>.<br /><br /></p>
 </font>
@@ -479,9 +446,9 @@ permalink: /docs/c-di-AMP/
 </tr>
 </table>
 <p><br /></p>
-                
+                 
 <p class="header_box" id="references">References</p>
-            
+                
 <p><strong>[1] New RNA motifs suggest an expanded scope for riboswitches in bacterial genetic control.</strong><br />
 Barrick, J. E. et al.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/15096624/" target="_blank">Proc. Natl. Acad. Sci. U. S. A. 101, 6421–6426 (2004).</a>

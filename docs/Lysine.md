@@ -6,7 +6,7 @@ author: Yuanyin Huang, Xiaowei Lin
 permalink: /docs/Lysine/
 ---
 <p style="font-size: 24px"><strong>Rfam ID: [RF00168](https://rfam.xfam.org/family/RF00168,target="_blank")</strong> (Lysine riboswitch)<br /></p>
-
+ 
 <br />
 <html>
 <head>
@@ -44,7 +44,7 @@ permalink: /docs/Lysine/
   </style>
 </head>
 <body>
-  <p style="font-size: 16px">Click into different sections:</p>
+  <p style="font-size: 16px">Click the buttons to navigate to different sections:</p>
   
   <div class="button-container">
     <a class="button" href="#timeline" >Timeline</a>
@@ -208,13 +208,13 @@ permalink: /docs/Lysine/
 </div>
 </html>
 <p><br /></p>
-        
+         
 <p class="header_box" id="description">Description</p>
 <font >The Lysine riboswitch is a metabolite binding RNA element found within certain messenger RNAs that serve as a precision sensor for the amino acid lysine. Allosteric rearrangement of mRNA structure is mediated by ligand binding, and this results in modulation of gene expression. Lysine riboswitch are most abundant in Bacillota and Gammaproteobacteria where they are found upstream of a number of genes involved in lysine biosynthesis, transport and catabolism. The lysine riboswitch has also been identified independently and called the L box (From Wikipedia)<sup></sup>.</font>
 <p><br /></p>
-            
+             
 > Gene association
-        
+            
 <font >The pathway of lysine riboswitches regulating lysine synthesis<sup>[2]</sup>.</font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;">
 <tr >
@@ -224,9 +224,9 @@ permalink: /docs/Lysine/
 </tr>
 </table>
 <p><br /></p>
-                
+                 
 > Gene regulation
-            
+                
 <font ><p>Potential mechanism of translation regulation by lysine riboswitch<sup>[2]</sup>.</p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
@@ -235,7 +235,7 @@ permalink: /docs/Lysine/
 </tr>
 </table>
 <p><br /></p>
-                    
+                         
 <p class="header_box" id="Structure and Ligand recognition">Structure and Ligand recognition</p>
 > 2D representation
         
@@ -274,7 +274,7 @@ permalink: /docs/Lysine/
     <div class="main-container">
         <div class="zoom-wrapper1">
             <div class="zoom-area1">
-                <img src="/images/2D/Lysine_riboswitch_2D1.svg" alt="drawing" style="width:400px" />
+                <img src="/images/2D/Lysine_riboswitch_2D1.svg" alt="drawing" style="width:800px" />
             </div>
         </div>
     </div>
@@ -288,40 +288,11 @@ permalink: /docs/Lysine/
       panzoom1.zoom(0.8);
       </script>
 </td>
-<!--2D模2--------------------------->
-<td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
-<style>
-.zoom-wrapper2 {
-    width: 400px;
-    height: 400px;
-    border: 1px solid #fff;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-</style>
-    <div class="main-container">
-        <div class="zoom-wrapper2">
-            <div class="zoom-area2">
-                <img src="/images/2D/Lysine_riboswitch_2D2.svg" alt="drawing" style="width:400px" />
-            </div>
-        </div>
-    </div>
-    <script src="https://www.ribocentre.org/js/panzoom.js"></script>
-    <script type='text/javascript'>
-      var zoomWraper2 = document.querySelector(".zoom-wrapper2");
-      var panzoom2 = Panzoom(document.querySelector(".zoom-area2"), {
-      maxScale: 6
-      });
-      zoomWraper2.addEventListener("wheel", panzoom2.zoomWithWheel);
-      panzoom2.zoom(0.8);
-    </script>
-</td>
 </tr></table><br>
 <p><br /></p>
-                    
+                     
 > 3D visualisation
-            
+                
 <font >The overall structure of lysine riboswitch was generated from PDB ID:3DIL at 1.90 Å resolution bound with lysine.  Lysine (shown in sticks) is labeled in red <sup>[6]</sup>.</font>
   <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
@@ -440,9 +411,9 @@ permalink: /docs/Lysine/
     </html></td>
   </tr></table><br>
   <p><br /></p>
-                
+                 
 > Binding pocket
-                
+                    
 <font ><p>(Left) Surface representation of the binding pocket of lysine riboswitch generated from PDB ID:3DIL. Lysine (shown in sticks) is labeled in red. (Right) The hydrogen bonds of the binding site of lysine  riboswitch bound with lysine<sup>[6]</sup>.<br /></p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/Lysine_riboswitch_binding_pockets1.svg" alt="drawing" style="width:400px"  px="" /></td>
@@ -450,9 +421,9 @@ permalink: /docs/Lysine/
 </tr>
 </table>
 <p><br /></p>
-                    
+                     
 > Ligand recognition
-            
+                
 <font >
 <p>Chemical structures of lysine and its analogs. The apparent K<sub>D</sub> of each compound of lysine riboswitch is shown on bottom<sup>[1,4]</sup>.<br /><br /></p>
 </font>
@@ -464,9 +435,9 @@ permalink: /docs/Lysine/
 </tr>
 </table>
 <p><br /></p>
-                
+                 
 <p class="header_box" id="references">References</p>
-            
+                
 <p><strong>[1] An mRNA structure in bacteria that controls gene expression by binding lysine</strong><br />
 Sudarsan, N., Wickiser, J. K., Nakamura, S., Ebert, M. S. & Breaker, R. R.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/14597663/" target="_blank">Genes Dev. 17, 2688–2697 (2003).</a>

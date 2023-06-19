@@ -6,7 +6,7 @@ author: Xiaoxue Chen, Zhizhong Lu, Mengxiao Li
 permalink: /docs/T-box/
 ---
 <p style="font-size: 24px"><strong>Rfam ID: [RF00230](https://rfam.xfam.org/family/RF00230,target="_blank")</strong> (T-box leader)<br /></p>
-
+ 
 <br />
 <html>
 <head>
@@ -44,7 +44,7 @@ permalink: /docs/T-box/
   </style>
 </head>
 <body>
-  <p style="font-size: 16px">Click into different sections:</p>
+  <p style="font-size: 16px">Click the buttons to navigate to different sections:</p>
   
   <div class="button-container">
     <a class="button" href="#timeline" >Timeline</a>
@@ -144,13 +144,13 @@ permalink: /docs/T-box/
 </div>
 </html>
 <p><br /></p>
-        
+         
 <p class="header_box" id="description">Description</p>
 <font >Usually found in gram-positive bacteria, the T box leader sequence is an RNA element that controls gene expression through the regulation of translation by binding directly to a specific tRNA and sensing its aminoacylation state. This interaction controls expression of downstream aminoacyl-tRNA synthetase genes, amino acid biosynthesis, and uptake-related genes in a negative feedback loop. The uncharged tRNA acts as the effector for transcription antitermination of genes in the T-box leader family. The anticodon of a specific tRNA base pairs to a specifier sequence within the T-box motif, and the NCCA acceptor tail of the tRNA base pairs to a conserved bulge in the T-box antiterminator hairpin (From Wikipedia)<sup></sup>.</font>
 <p><br /></p>
-            
+             
 > Gene association
-        
+            
 <font >The T-box mechanism is a common regulatory strategy used for modulating the expression of genes of amino acid metabolism-related operons in gram-positive bacteria, especially members of the Firmicutes.  Amino acid biosynthesis that are regulated by the T-box mechanism. the T-box regulation of genes involved in the biosynthesis of Ala, Gly, Ser, Pro, Arg, Met, Cys, Ile, Leu, Val, Tyr, Phe, Trp, His, Asn, Asp, and Thr was confirmed<sup>[8]</sup>.</font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;">
 <tr >
@@ -160,9 +160,9 @@ permalink: /docs/T-box/
 </tr>
 </table>
 <p><br /></p>
-                
+                 
 > Gene regulation
-            
+                
 <font ><p>tRNA is outlined in purple surface and is shown as a ribbon. Solid and dotted lines represent common elements and variable elements, respectively, of T-boxes. Left, uncharged tRNA binds to a T-box through base pairing between the anticodon (green) and specifier sequence (yellow) and between the acceptor end (blue) and discriminatory sequence (red). These interactions drive formation of the antiterminator. Right, a tRNA charged with an amino acid (pink oval) is rejected by the T-box; this yields an alternative (terminator) conformation of the RNA<sup>[9]</sup>.</p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
@@ -171,122 +171,9 @@ permalink: /docs/T-box/
 </tr>
 </table>
 <p><br /></p>
-                    
-<p class="header_box" id="Structure and Ligand recognition">Structure and Ligand recognition</p>
-> 2D representation
-        
-<font >Left: Consensus sequence and secondary structure model for the T-box riboswitch. Middle: Secondary structure depictions of the T-box riboswitch according to PDB ID: 6UFG. Right: Secondary structure depictions of the THF-I riboswitch according to PDB ID: 6POM. tRNA is colored in pale purple<sup>[6],[7]</sup>.</font><br>
-<table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
-  <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<style>
-   body {
-    width: 100%;
-    height: 100vh;
-}
-   button {
-   margin-right: 0px;
-}
-   .main-container {
-    display: flex;
-    align-items: left;
-    justify-content: center;
-    height: 100%;
-}
-   .zoom-wrapper1 {
-    width: 400px;
-    height: 400px;
-    border: 1px solid #fff;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-</style>
-    <div class="main-container">
-        <div class="zoom-wrapper1">
-            <div class="zoom-area1">
-                <img src="/images/2D/T-box_riboswitch_2D1.svg" alt="drawing" style="width:400px" />
-            </div>
-        </div>
-    </div>
-    <script src="https://www.ribocentre.org/js/panzoom.js"></script>
-    <script type='text/javascript'>
-      var zoomWraper1 = document.querySelector(".zoom-wrapper1");
-      var panzoom1 = Panzoom(document.querySelector(".zoom-area1"), {
-      maxScale: 6
-      });
-      zoomWraper1.addEventListener("wheel", panzoom1.zoomWithWheel);
-      panzoom1.zoom(0.8);
-      </script>
-</td>
-<!--2D模2--------------------------->
-<td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
-<style>
-.zoom-wrapper2 {
-    width: 400px;
-    height: 400px;
-    border: 1px solid #fff;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-</style>
-    <div class="main-container">
-        <div class="zoom-wrapper2">
-            <div class="zoom-area2">
-                <img src="/images/2D/T-box_riboswitch_2D2.svg" alt="drawing" style="width:400px" />
-            </div>
-        </div>
-    </div>
-    <script src="https://www.ribocentre.org/js/panzoom.js"></script>
-    <script type='text/javascript'>
-      var zoomWraper2 = document.querySelector(".zoom-wrapper2");
-      var panzoom2 = Panzoom(document.querySelector(".zoom-area2"), {
-      maxScale: 6
-      });
-      zoomWraper2.addEventListener("wheel", panzoom2.zoomWithWheel);
-      panzoom2.zoom(0.8);
-    </script>
-</td>
-<!--2D模3--------------------------->
-<td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
-<style>
-.zoom-wrapper3 {
-    width: 400px;
-    height: 400px;
-    border: 1px solid #fff;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-</style>
-    <div class="main-container">
-        <div class="zoom-wrapper3">
-            <div class="zoom-area3">
-                <img src="/images/2D/T-box_riboswitch_2D3.svg" alt="drawing" style="width:400px" />
-            </div>
-        </div>
-    </div>
-    <script src="https://www.ribocentre.org/js/panzoom.js"></script>
-    <script type='text/javascript'>
-      var zoomWraper3 = document.querySelector(".zoom-wrapper3");
-      var panzoom3 = Panzoom(document.querySelector(".zoom-area3"), {
-      maxScale: 6
-      });
-      zoomWraper3.addEventListener("wheel", panzoom3.zoomWithWheel);
-      panzoom3.zoom(0.8);
-    </script>
-</td>
-</tr></table><br>
-<p><br /></p>
-                    
+                         
 > 3D visualisation
-            
+                
 <font >Co-crystal structure of  <i>M. tuberculosis ileS</i>  T-box in complex with tRNA-3'-OH was generated from PDB ID: 6UFG at 2.93 Å resolution. tRNA is colored in pale purple <sup>[6]</sup>.</font>
   <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
@@ -584,27 +471,25 @@ permalink: /docs/T-box/
     </html></td>
   </tr></table><br>
   <p><br /></p>
-                
+                 
 > Interface
-                
-   <font ><p>Details of the T-box riboswitch-tRNA interface. A, Overall structure of  T-box riboswitch-tRNA (PDB ID: 6UFG), tRNA is colored in pale purple. S1: the <i>Mtb-ileS</i> aminoacylation sensing module bound to tRNA<sup>Ile</sup> (pale purple) with the linker (yellow), Stem-III (pink) and AntiS (cyan) domains. S2: the Stem-II and its interaction with the codon-anticodon pair  between Stem-I (green) and tRNA<sup>Ile</sup> (pale purple). B, C, D, Enlarged aminoacylation sensing module (S1 in A). E, F, G, H, Enlarged decoding module (S2 in A) <sup>[6]</sup>.<br /></p></font>
-   <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
-   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/interface/T-box_riboswitch_interface1.svg" alt="drawing" style="width:800px"  px="" /></td>
-   </tr>
-   </table>
-   <p><br /></p>
-                                       
-   <font ><p>Details of the T-box riboswitch-tRNA (PDB ID: 6POM)  interface. A, Overall structure of  T-box riboswitch-tRNA (PDB ID: 6UFG), tRNA is colored in pale purple. S1: the interface between the tRNA 3′ end and the discriminator. S2: interface between the tRNA anticodon and the T-box specifier. S3: interface between the tRNA elbow and  stem I distal interdigitated T-loops. B, C, D, Enlarged aminoacylation sensing module (S1 in A). E, F, Enlarged decoding module (S2 in A). G, Enlarged decoding module (S3 in A)<sup>[7]</sup>.<br /></p></font>
-   <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
-   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/interface/T-box_riboswitch_interface2.svg" alt="drawing" style="width:800px"  px="" /></td>
-   </tr>
-   </table>
-   <p><br /></p>
-                                       
-> Ligand recognition
-            
+                    
+<font ><p>Details of the T-box riboswitch-tRNA interface. A, Overall structure of  T-box riboswitch-tRNA (PDB ID: 6UFG), tRNA is colored in pale purple. S1: the <i>Mtb-ileS</i> aminoacylation sensing module bound to tRNA<sup>Ile</sup> (pale purple) with the linker (yellow), Stem-III (pink) and AntiS (cyan) domains. S2: the Stem-II and its interaction with the codon-anticodon pair  between Stem-I (green) and tRNA<sup>Ile</sup> (pale purple). B, C, D, Enlarged aminoacylation sensing module (S1 in A). E, F, G, H, Enlarged decoding module (S2 in A) <sup>[6]</sup>.<br /></p></font>
+<table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
+<td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/interface/T-box_riboswitch_interface1.svg" alt="drawing" style="width:800px"  px="" /></td>
+</tr>
+</table>
+<p><br /></p>
+                                   
+<font ><p>Details of the T-box riboswitch-tRNA (PDB ID: 6POM)  interface. A, Overall structure of  T-box riboswitch-tRNA (PDB ID: 6UFG), tRNA is colored in pale purple. S1: the interface between the tRNA 3′ end and the discriminator. S2: interface between the tRNA anticodon and the T-box specifier. S3: interface between the tRNA elbow and  stem I distal interdigitated T-loops. B, C, D, Enlarged aminoacylation sensing module (S1 in A). E, F, Enlarged decoding module (S2 in A). G, Enlarged decoding module (S3 in A)<sup>[7]</sup>.<br /></p></font>
+<table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
+<td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/interface/T-box_riboswitch_interface2.svg" alt="drawing" style="width:800px"  px="" /></td>
+</tr>
+</table>
+<p><br /></p>
+                                    
 <p class="header_box" id="references">References</p>
-            
+                
 <p><strong>[1] Analysis of the Bacillus subtilis tyrS gene: conservation of a regulatory sequence in multiple tRNA synthetase genes.</strong><br />
 Henkin, T. M., Glass, B. L. & Grundy, F. J.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/1735721/" target="_blank">J. Bacteriol. 174, (1992).</a>

@@ -6,7 +6,7 @@ author: Mengxiao Li, Xuemei Peng
 permalink: /docs/Xanthine/
 ---
 <p style="font-size: 24px"><strong>Rfam ID: [RF03054](https://rfam.xfam.org/family/RF03054,target="_blank")</strong> (Xanthine riboswitch (NMT1 RNA))<br /></p>
-
+ 
 <br />
 <html>
 <head>
@@ -44,7 +44,7 @@ permalink: /docs/Xanthine/
   </style>
 </head>
 <body>
-  <p style="font-size: 16px">Click into different sections:</p>
+  <p style="font-size: 16px">Click the buttons to navigate to different sections:</p>
   
   <div class="button-container">
     <a class="button" href="#timeline" >Timeline</a>
@@ -120,13 +120,13 @@ permalink: /docs/Xanthine/
 </div>
 </html>
 <p><br /></p>
-        
+         
 <p class="header_box" id="description">Description</p>
 <font >There are currently two classes of xanthine riboswitches. The xanthine-I riboswitch, formerly known as the NMT1 motif RNA, is associated with genes annotated encoding various dioxygenases, transporters, or proteins, and tightly binds 8-azaxanthine, xanthine, and uric acid. It functions to shut down gene expression following ligand binding, possibly by regulating translation initiation. Xanthine-II riboswitch is a class of xanthine-sensing guanine riboswitch variants that are frequently associated with genes annotated to encode dioxygenase, allantoinase, and xanthine dehydrogenase. The structure of these RNAs is consistent with a genetic "ON" switch, in which ligand binding activates gene expression<sup>[2,4]</sup>.</font>
 <p><br /></p>
-            
+             
 > Gene association
-        
+            
 <font >Basic purine degradation and utilization pathways. Xanthine riboswitches participate in regulating the degradation or salvation of various purine compounds<sup>[2]</sup>.</font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;">
 <tr >
@@ -136,9 +136,9 @@ permalink: /docs/Xanthine/
 </tr>
 </table>
 <p><br /></p>
-                
+                 
 > Gene regulation
-            
+                
 <font ><p>Sequence and secondary structure model of a xanthine-II riboswitch is consistent with a genetic “ON” switch wherein ligand binding would preclude formation of the terminator stem<sup>[4]</sup>.</p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
@@ -147,7 +147,7 @@ permalink: /docs/Xanthine/
 </tr>
 </table>
 <p><br /></p>
-                    
+                         
 <p class="header_box" id="Structure and Ligand recognition">Structure and Ligand recognition</p>
 > 2D representation
         
@@ -186,7 +186,7 @@ permalink: /docs/Xanthine/
     <div class="main-container">
         <div class="zoom-wrapper1">
             <div class="zoom-area1">
-                <img src="/images/2D/Xanthine-I_riboswitch_2D1.svg" alt="drawing" style="width:400px" />
+                <img src="/images/2D/Xanthine-I_riboswitch_2D1.svg" alt="drawing" style="width:800px" />
             </div>
         </div>
     </div>
@@ -199,35 +199,6 @@ permalink: /docs/Xanthine/
       zoomWraper1.addEventListener("wheel", panzoom1.zoomWithWheel);
       panzoom1.zoom(0.8);
       </script>
-</td>
-<!--2D模2--------------------------->
-<td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
-<style>
-.zoom-wrapper2 {
-    width: 400px;
-    height: 400px;
-    border: 1px solid #fff;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-</style>
-    <div class="main-container">
-        <div class="zoom-wrapper2">
-            <div class="zoom-area2">
-                <img src="/images/2D/Xanthine-I_riboswitch_2D2.svg" alt="drawing" style="width:400px" />
-            </div>
-        </div>
-    </div>
-    <script src="https://www.ribocentre.org/js/panzoom.js"></script>
-    <script type='text/javascript'>
-      var zoomWraper2 = document.querySelector(".zoom-wrapper2");
-      var panzoom2 = Panzoom(document.querySelector(".zoom-area2"), {
-      maxScale: 6
-      });
-      zoomWraper2.addEventListener("wheel", panzoom2.zoomWithWheel);
-      panzoom2.zoom(0.8);
-    </script>
 </td>
 </tr></table><br>
 <p><br /></p>
@@ -281,13 +252,11 @@ permalink: /docs/Xanthine/
       panzoom3.zoom(0.8);
       </script>
 </td>
-<!--2D模2--------------------------->
-
 </tr></table><br>
 <p><br /></p>
-                    
+                     
 > 3D visualisation
-            
+                
 <font >The overall structure of the xanthine-I riboswitch was generated from PDB ID: 7ELR at 2.66 Å resolution bound with xanthine. Xanthine (shown in sticks) is labeled in red <sup>[3]</sup>.</font>
   <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
@@ -442,9 +411,9 @@ permalink: /docs/Xanthine/
     </html></td>
   </tr></table><br>
   <p><br /></p>
-                
+                 
 > Binding pocket
-                
+                    
 <font ><p>(Left) Surface representation of the binding pocket of the xanthine-I riboswitch generated from PDB ID: 7ELR. Xanthine (shown in sticks) is labeled in red. (Right) Ligand interaction between xanthine and xanthine-I riboswitch<sup>[3]</sup>.<br /></p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/Xanthine-I_riboswitch_binding_pockets1.svg" alt="drawing" style="width:400px"  px="" /></td>
@@ -452,9 +421,9 @@ permalink: /docs/Xanthine/
 </tr>
 </table>
 <p><br /></p>
-                    
+                     
 > Ligand recognition
-            
+                
 <font >
 <p>Chemical structures of xanthine and its analogs. The apparent K<sub>D</sub> of each compound of xanthine-I and xanthine-II riboswitch is shown on bottom<sup>[2,4]</sup>.<br /><br /></p>
 </font>
@@ -466,9 +435,9 @@ permalink: /docs/Xanthine/
 </tr>
 </table>
 <p><br /></p>
-                
+                 
 <p class="header_box" id="references">References</p>
-            
+                
 <p><strong>[1] Detection of 224 candidate structured RNAs by comparative analysis of specific subsets of intergenic regions.</strong><br />
 Weinberg, Z. et al.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/28977401/" target="_blank">Nucleic Acids Res. 45, 10811–10823 (2017).</a>

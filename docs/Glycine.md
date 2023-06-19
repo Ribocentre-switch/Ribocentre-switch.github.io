@@ -6,7 +6,7 @@ author: Yuanyin Huang, Xiaowei Lin
 permalink: /docs/Glycine/
 ---
 <p style="font-size: 24px"><strong>Rfam ID: [RF00504](https://rfam.xfam.org/family/RF00504,target="_blank")</strong> (Glycine riboswitch)<br /></p>
-
+ 
 <br />
 <html>
 <head>
@@ -44,7 +44,7 @@ permalink: /docs/Glycine/
   </style>
 </head>
 <body>
-  <p style="font-size: 16px">Click into different sections:</p>
+  <p style="font-size: 16px">Click the buttons to navigate to different sections:</p>
   
   <div class="button-container">
     <a class="button" href="#timeline" >Timeline</a>
@@ -200,15 +200,13 @@ permalink: /docs/Glycine/
 </div>
 </html>
 <p><br /></p>
-        
+         
 <p class="header_box" id="description">Description</p>
 <font >The bacterial glycine riboswitch is an RNA element that can bind the amino acid glycine. Glycine riboswitches usually consist of two metabolite-binding aptamer domains with similar structures in tandem. The aptamers were originally thought to cooperatively bind glycine to regulate the expression of downstream genes. In <i>Bacillus subtilis</i>, this riboswitch is found upstream of the <i>gcvT</i> operon which controls glycine degradation. It is thought that when glycine is in excess it will bind to both aptamers to activate these genes and facilitate glycine degradation (From Wikipedia)<sup></sup>.</font>
 <p><br /></p>
-            
-> Gene association
-        
+             
 > Gene regulation
-            
+                
 <font ><p>Potential mechanism of translation regulation by glycine riboswitch<sup>[8]</sup>.</p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
@@ -217,7 +215,7 @@ permalink: /docs/Glycine/
 </tr>
 </table>
 <p><br /></p>
-                    
+                         
 <p class="header_box" id="Structure and Ligand recognition">Structure and Ligand recognition</p>
 > 2D representation
         
@@ -256,7 +254,7 @@ permalink: /docs/Glycine/
     <div class="main-container">
         <div class="zoom-wrapper1">
             <div class="zoom-area1">
-                <img src="/images/2D/Glycine_riboswitch_2D1.svg" alt="drawing" style="width:400px" />
+                <img src="/images/2D/Glycine_riboswitch_2D1.svg" alt="drawing" style="width:800px" />
             </div>
         </div>
     </div>
@@ -270,40 +268,11 @@ permalink: /docs/Glycine/
       panzoom1.zoom(0.8);
       </script>
 </td>
-<!--2D模2--------------------------->
-<td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
-<style>
-.zoom-wrapper2 {
-    width: 400px;
-    height: 400px;
-    border: 1px solid #fff;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-</style>
-    <div class="main-container">
-        <div class="zoom-wrapper2">
-            <div class="zoom-area2">
-                <img src="/images/2D/Glycine_riboswitch_2D2.svg" alt="drawing" style="width:400px" />
-            </div>
-        </div>
-    </div>
-    <script src="https://www.ribocentre.org/js/panzoom.js"></script>
-    <script type='text/javascript'>
-      var zoomWraper2 = document.querySelector(".zoom-wrapper2");
-      var panzoom2 = Panzoom(document.querySelector(".zoom-area2"), {
-      maxScale: 6
-      });
-      zoomWraper2.addEventListener("wheel", panzoom2.zoomWithWheel);
-      panzoom2.zoom(0.8);
-    </script>
-</td>
 </tr></table><br>
 <p><br /></p>
-                    
+                     
 > 3D visualisation
-            
+                
 <font >The overall structure of glycine riboswitch was generated from PDB ID:3OWZ at 2.95 Å resolution bound with glycine.  Glycine (shown in sticks) is labeled in red <sup>[4]</sup>.</font>
   <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
@@ -446,9 +415,9 @@ permalink: /docs/Glycine/
     </html></td>
   </tr></table><br>
   <p><br /></p>
-                
+                 
 > Binding pocket
-                
+                    
 <font ><p>(Left) Surface representation of the binding pocket of glycine riboswitch generated from PDB ID:3OWZ. Lysine (shown in sticks) is labeled in red. (Right) The hydrogen bonds of the binding site of glycine riboswitch bound with glycine<sup>[4]</sup>.<br /></p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/Glycine_riboswitch_binding_pockets1.svg" alt="drawing" style="width:400px"  px="" /></td>
@@ -456,9 +425,9 @@ permalink: /docs/Glycine/
 </tr>
 </table>
 <p><br /></p>
-                    
+                     
 > Ligand recognition
-            
+                
 <font >
 <p>Chemical structures of glycine and its analogs. The apparent K<sub>D</sub> of each compound of glycine riboswitch is shown on bottom<sup>[1]</sup>.<br /><br /></p>
 </font>
@@ -470,9 +439,9 @@ permalink: /docs/Glycine/
 </tr>
 </table>
 <p><br /></p>
-                
+                 
 <p class="header_box" id="references">References</p>
-            
+                
 <p><strong>[1] A glycine-dependent riboswitch that uses cooperative binding to control gene expression</strong><br />
 Mandal, M. et al.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/15472076/" target="_blank">Science 306, 275–279 (2004).</a>

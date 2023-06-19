@@ -8,7 +8,7 @@ permalink: /docs/SAM-I_clan/
 <p style="font-size: 24px"><strong>Rfam ID: [RF00162](https://rfam.xfam.org/family/RF00162,target="_blank")</strong> (SAM riboswitch (S box leader))<br /></p>
 <p style="font-size: 24px"><strong>&emsp;&emsp;&emsp;&emsp;[RF00634](https://rfam.xfam.org/family/RF00634,target="_blank")</strong> (S-adenosyl methionine (SAM) riboswitch) <br /></p>
 <p style="font-size: 24px"><strong>&emsp;&emsp;&emsp;&emsp;[RF01725](https://rfam.xfam.org/family/RF01725,target="_blank")</strong> (SAM-I/IV variant riboswitch) <br /></p>
-
+ 
 <br />
 <html>
 <head>
@@ -46,7 +46,7 @@ permalink: /docs/SAM-I_clan/
   </style>
 </head>
 <body>
-  <p style="font-size: 16px">Click into different sections:</p>
+  <p style="font-size: 16px">Click the buttons to navigate to different sections:</p>
   
   <div class="button-container">
     <a class="button" href="#timeline" >Timeline</a>
@@ -218,15 +218,15 @@ permalink: /docs/SAM-I_clan/
 </div>
 </html>
 <p><br /></p>
-        
+         
 <p class="header_box" id="description">Description</p>
 <font >This family is a member of clan (CL00012), which contains the following 3 members: SAM-I, SAM-I-IV-variant, SAM-IV (from WiKi)
 The SAM riboswitch (also known as the S-box leader and the SAM-I riboswitch) is found upstream of a number of genes which code for proteins involved in methionine or cysteine biosynthesis in Gram-positive bacteria. Two SAM riboswitches in Bacillus subtilis that were experimentally studied act at the level of transcription termination control. The predicted secondary structure consists of a complex stem-loop region followed by a single stem-loop terminator region. An alternative and mutually exclusive form involves bases in the 3' segment of helix 1 with those in the 5' region of helix 5 to form a structure termed the anti-terminator form. When SAM is unbound, the anti-terminator sequence sequesters the terminator sequence so the terminator is unable to form, allowing the polymerase to read-through the downstream gene. When S-Adenosyl methionine (SAM) is bound to the aptamer, the anti-terminator is sequestered by an anti-anti-terminator; the terminator forms and terminates the transcription. However, many SAM riboswitches are likely to regulate gene expression at the level of translation.
 SAM-IV riboswitches are a kind of riboswitch that specifically binds S-adenosylmethionine (SAM), a cofactor used in many methylation reactions. Originally identified by bioinformatics, SAM-IV riboswitches are largely confined to the Actinomycetales, an order of Bacteria. Conserved features of SAM-IV riboswitch and experiments imply that they probably share a similar SAM-binding site to another class of SAM-binding riboswitches called SAM-I riboswitches. However, the scaffolds of these two types of riboswitch appear to be quite distinct. The structural relationship between these riboswitch types has been studied (from WiKi).<sup></sup>.</font>
 <p><br /></p>
-            
+             
 > Gene association
-        
+            
 <font >Pathways for sulphate assimilation and biosynthesis of cysteine and methionine. SAM-I riboswitch (red bar), SAM-IV riboswitch (yellow bar) and SAM-I/IV riboswitch (green bar) are involved in multiple gene regulation in the synthetic pathway<sup>[1,7,9]</sup>.</font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;">
 <tr >
@@ -236,9 +236,9 @@ SAM-IV riboswitches are a kind of riboswitch that specifically binds S-adenosylm
 </tr>
 </table>
 <p><br /></p>
-                
+                 
 > Gene regulation
-            
+                
 <font ><p>Sequence and structural model for the <i>metI</i> riboswitch in two structural states<sup>[2]</sup>.</p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
@@ -247,7 +247,7 @@ SAM-IV riboswitches are a kind of riboswitch that specifically binds S-adenosylm
 </tr>
 </table>
 <p><br /></p>
-                    
+                        
 <font ><p>Regulation mechanism of SAM-IV riboswitch, PK-2 plays a direct role in both ligand binding and regulation<sup>[20]</sup>.</p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
@@ -256,7 +256,7 @@ SAM-IV riboswitches are a kind of riboswitch that specifically binds S-adenosylm
 </tr>
 </table>
 <p><br /></p>
-                    
+                        
 <font ><p>Regulation mechanism of SAM-I/IV riboswitch, PK-3 plays a direct role in both ligand binding and regulation<sup>[15,20]</sup>.</p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
@@ -265,7 +265,7 @@ SAM-IV riboswitches are a kind of riboswitch that specifically binds S-adenosylm
 </tr>
 </table>
 <p><br /></p>
-                    
+                         
 <p class="header_box" id="Structure and Ligand recognition">Structure and Ligand recognition</p>
 > 2D representation
         
@@ -304,7 +304,7 @@ SAM-IV riboswitches are a kind of riboswitch that specifically binds S-adenosylm
     <div class="main-container">
         <div class="zoom-wrapper1">
             <div class="zoom-area1">
-                <img src="/images/2D/SAM-I_riboswitch_2D1.svg" alt="drawing" style="width:400px" />
+                <img src="/images/2D/SAM-I_riboswitch_2D1.svg" alt="drawing" style="width:800px" />
             </div>
         </div>
     </div>
@@ -317,35 +317,6 @@ SAM-IV riboswitches are a kind of riboswitch that specifically binds S-adenosylm
       zoomWraper1.addEventListener("wheel", panzoom1.zoomWithWheel);
       panzoom1.zoom(0.8);
       </script>
-</td>
-<!--2D模2--------------------------->
-<td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
-<style>
-.zoom-wrapper2 {
-    width: 400px;
-    height: 400px;
-    border: 1px solid #fff;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-</style>
-    <div class="main-container">
-        <div class="zoom-wrapper2">
-            <div class="zoom-area2">
-                <img src="/images/2D/SAM-I_riboswitch_2D2.svg" alt="drawing" style="width:400px" />
-            </div>
-        </div>
-    </div>
-    <script src="https://www.ribocentre.org/js/panzoom.js"></script>
-    <script type='text/javascript'>
-      var zoomWraper2 = document.querySelector(".zoom-wrapper2");
-      var panzoom2 = Panzoom(document.querySelector(".zoom-area2"), {
-      maxScale: 6
-      });
-      zoomWraper2.addEventListener("wheel", panzoom2.zoomWithWheel);
-      panzoom2.zoom(0.8);
-    </script>
 </td>
 </tr></table><br>
 <p><br /></p>
@@ -385,7 +356,7 @@ SAM-IV riboswitches are a kind of riboswitch that specifically binds S-adenosylm
     <div class="main-container">
         <div class="zoom-wrapper3">
             <div class="zoom-area3">
-                <img src="/images/2D/SAM-IV_riboswitch_2D1.svg" alt="drawing" style="width:400px" />
+                <img src="/images/2D/SAM-IV_riboswitch_2D1.svg" alt="drawing" style="width:800px" />
             </div>
         </div>
     </div>
@@ -398,35 +369,6 @@ SAM-IV riboswitches are a kind of riboswitch that specifically binds S-adenosylm
       zoomWraper3.addEventListener("wheel", panzoom3.zoomWithWheel);
       panzoom3.zoom(0.8);
       </script>
-</td>
-<!--2D模2--------------------------->
-<td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
-<style>
-.zoom-wrapper4 {
-    width: 400px;
-    height: 400px;
-    border: 1px solid #fff;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-</style>
-    <div class="main-container">
-        <div class="zoom-wrapper4">
-            <div class="zoom-area4">
-                <img src="/images/2D/SAM-IV_riboswitch_2D2.svg" alt="drawing" style="width:400px" />
-            </div>
-        </div>
-    </div>
-    <script src="https://www.ribocentre.org/js/panzoom.js"></script>
-    <script type='text/javascript'>
-      var zoomWraper4 = document.querySelector(".zoom-wrapper4");
-      var panzoom4 = Panzoom(document.querySelector(".zoom-area4"), {
-      maxScale: 6
-      });
-      zoomWraper4.addEventListener("wheel", panzoom4.zoomWithWheel);
-      panzoom4.zoom(0.8);
-    </script>
 </td>
 </tr></table><br>
 <p><br /></p>
@@ -466,7 +408,7 @@ SAM-IV riboswitches are a kind of riboswitch that specifically binds S-adenosylm
     <div class="main-container">
         <div class="zoom-wrapper5">
             <div class="zoom-area5">
-                <img src="/images/2D/SAM-I+IV_riboswitch_2D1.svg" alt="drawing" style="width:400px" />
+                <img src="/images/2D/SAM-I+IV_riboswitch_2D1.svg" alt="drawing" style="width:800px" />
             </div>
         </div>
     </div>
@@ -480,40 +422,11 @@ SAM-IV riboswitches are a kind of riboswitch that specifically binds S-adenosylm
       panzoom5.zoom(0.8);
       </script>
 </td>
-<!--2D模2--------------------------->
-<td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
-<style>
-.zoom-wrapper6 {
-    width: 400px;
-    height: 400px;
-    border: 1px solid #fff;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-</style>
-    <div class="main-container">
-        <div class="zoom-wrapper6">
-            <div class="zoom-area6">
-                <img src="/images/2D/SAM-I+IV_riboswitch_2D2.svg" alt="drawing" style="width:400px" />
-            </div>
-        </div>
-    </div>
-    <script src="https://www.ribocentre.org/js/panzoom.js"></script>
-    <script type='text/javascript'>
-      var zoomWraper6 = document.querySelector(".zoom-wrapper6");
-      var panzoom6 = Panzoom(document.querySelector(".zoom-area6"), {
-      maxScale: 6
-      });
-      zoomWraper6.addEventListener("wheel", panzoom6.zoomWithWheel);
-      panzoom6.zoom(0.8);
-    </script>
-</td>
 </tr></table><br>
 <p><br /></p>
-                    
+                     
 > 3D visualisation
-            
+                
 <font >2.9-Å resolution crystal structure of an S-adenosylmethionine (SAM) riboswitch from thermoanaerobacter tengcongensis complexed with S-adenosylmethionine. The figure reference from PDB ID: 2GIS, SAM (shown in sticks) is labeled in red <sup>[4]</sup>.</font>
   <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
@@ -897,9 +810,9 @@ SAM-IV riboswitches are a kind of riboswitch that specifically binds S-adenosylm
     </html></td>
   </tr></table><br>
   <p><br /></p>
-                
+                 
 > Binding pocket
-                
+                    
 <font ><p>Left: Surface representation of the binding pocket of the SAM-I riboswitch generated from PDB ID: 2GIS. S-adenosylmethionine (SAM) (shown in sticks) is labeled in red. Right: Hydrogen bonding between SAM and adjacent bases<sup>[4]</sup>.<br /></p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/SAM-I_riboswitch_binding_pockets1.svg" alt="drawing" style="width:400px"  px="" /></td>
@@ -923,9 +836,9 @@ SAM-IV riboswitches are a kind of riboswitch that specifically binds S-adenosylm
 </tr>
 </table>
 <p><br /></p>
-                    
+                     
 > Ligand recognition
-            
+                
 <font >
 <p>Chemical structures of various compounds used to probe the binding characteristics of the SAM-I riboswitch, SAM-IV riboswitch and SAM-I/IV riboswitch<sup>[2]</sup>.<br /><br /></p>
 </font>
@@ -937,9 +850,9 @@ SAM-IV riboswitches are a kind of riboswitch that specifically binds S-adenosylm
 </tr>
 </table>
 <p><br /></p>
-                
+                 
 <p class="header_box" id="references">References</p>
-            
+                
 <p><strong>[1] The S box regulon: a new global transcription termination control system for methionine and cysteine biosynthesis genes in gram-positive bacteria.</strong><br />
 Grundy, F. J. & Henkin, T. M.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/10094622/" target="_blank">Mol. Microbiol. 30, 737–749 (1998).</a>

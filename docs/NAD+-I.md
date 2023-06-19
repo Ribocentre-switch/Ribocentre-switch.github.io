@@ -6,7 +6,7 @@ author: Xuemei Peng, Xiaoxue Chen
 permalink: /docs/NAD/
 ---
 <p style="font-size: 24px"><strong>Rfam ID: [RF03013](https://rfam.xfam.org/family/RF03013,target="_blank")</strong> (nadA RNA)<br /></p>
-
+ 
 <br />
 <html>
 <head>
@@ -44,7 +44,7 @@ permalink: /docs/NAD/
   </style>
 </head>
 <body>
-  <p style="font-size: 16px">Click into different sections:</p>
+  <p style="font-size: 16px">Click the buttons to navigate to different sections:</p>
   
   <div class="button-container">
     <a class="button" href="#timeline" >Timeline</a>
@@ -120,13 +120,13 @@ permalink: /docs/NAD/
 </div>
 </html>
 <p><br /></p>
-        
+         
 <p class="header_box" id="description">Description</p>
 <font >NAD<sup>+</sup>-I riboswitch is the first class of riboswitches that recognize NAD<sup>+</sup>. It is usually located upstream of nadA genes  within the phylum Acidobacteria, which encode quinolinate synthetase, an enzyme that performs a step in NAD<sup>+</sup> synthesis. For these reasons it was inferred that the RNAs function as riboswitches<sup></sup>.</font>
 <p><br /></p>
-            
+             
 > Gene association
-        
+            
 <font >Biosynthetic pathway of NAD<sup>+</sup>and related molecules. All NAD<sup>+</sup>-I riboswitch representatives are found exclusively upstream of nadA genes<sup>[2]</sup>.</font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;">
 <tr >
@@ -136,9 +136,7 @@ permalink: /docs/NAD/
 </tr>
 </table>
 <p><br /></p>
-                
-> Gene regulation
-            
+                 
 <p class="header_box" id="Structure and Ligand recognition">Structure and Ligand recognition</p>
 > 2D representation
         
@@ -177,7 +175,7 @@ permalink: /docs/NAD/
     <div class="main-container">
         <div class="zoom-wrapper1">
             <div class="zoom-area1">
-                <img src="/images/2D/NAD+-I_riboswitch_2D1.svg" alt="drawing" style="width:400px" />
+                <img src="/images/2D/NAD+-I_riboswitch_2D1.svg" alt="drawing" style="width:800px" />
             </div>
         </div>
     </div>
@@ -191,40 +189,11 @@ permalink: /docs/NAD/
       panzoom1.zoom(0.8);
       </script>
 </td>
-<!--2D模2--------------------------->
-<td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
-<style>
-.zoom-wrapper2 {
-    width: 400px;
-    height: 400px;
-    border: 1px solid #fff;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-</style>
-    <div class="main-container">
-        <div class="zoom-wrapper2">
-            <div class="zoom-area2">
-                <img src="/images/2D/NAD+-I_riboswitch_2D2.svg" alt="drawing" style="width:400px" />
-            </div>
-        </div>
-    </div>
-    <script src="https://www.ribocentre.org/js/panzoom.js"></script>
-    <script type='text/javascript'>
-      var zoomWraper2 = document.querySelector(".zoom-wrapper2");
-      var panzoom2 = Panzoom(document.querySelector(".zoom-area2"), {
-      maxScale: 6
-      });
-      zoomWraper2.addEventListener("wheel", panzoom2.zoomWithWheel);
-      panzoom2.zoom(0.8);
-    </script>
-</td>
 </tr></table><br>
 <p><br /></p>
-                    
+                     
 > 3D visualisation
-            
+                
 <font >Crystal structure of the domain 1 of NAD<sup>+</sup>-I riboswitch <sup>[3]</sup>.</font>
   <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
@@ -355,9 +324,9 @@ permalink: /docs/NAD/
     </html></td>
   </tr></table><br>
   <p><br /></p>
-                
+                 
 > Binding pocket
-                
+                    
 <font ><p>(Left) Surface representation of the binding pocket of the the domain 1 and 2 of NAD-I riboswitch generated from PDB ID:6TFF and 6DB1. NAD+ (shown in sticks) is labeled in red. (Right) The hydrogen bonds of the two binding sites of the NAD-I riboswitch bound with NAD+<sup>[3-4]</sup>.<br /></p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/NAD+-I_riboswitch_binding_pockets1.svg" alt="drawing" style="width:400px"  px="" /></td>
@@ -365,9 +334,9 @@ permalink: /docs/NAD/
 </tr>
 </table>
 <p><br /></p>
-                    
+                     
 > Ligand recognition
-            
+                
 <font >
 <p>Chemical structures of NAD<sup>+</sup> and its analogs. The apparent KD of each compound of NAD<sup>+</sup>-I riboswitch is shown on bottom<sup>[2]</sup>.<br /><br /></p>
 </font>
@@ -379,9 +348,9 @@ permalink: /docs/NAD/
 </tr>
 </table>
 <p><br /></p>
-                
+                 
 <p class="header_box" id="references">References</p>
-            
+                
 <p><strong>[1] Detection of 224 candidate structured RNAs by comparative analysis of specific subsets of intergenic regions</strong><br />
 Weinberg, Z. et al.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/28977401/" target="_blank">Nucleic Acids Res. 45, 10811–10823 (2017).</a>

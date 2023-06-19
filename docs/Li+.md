@@ -7,7 +7,7 @@ permalink: /docs/Li/
 ---
 <p style="font-size: 24px"><strong>Rfam ID: [RF03057](https://rfam.xfam.org/family/RF03057,target="_blank")</strong> (nhaA-I RNA)<br /></p>
 <p style="font-size: 24px"><strong>&emsp;&emsp;&emsp;&emsp;[RF03038](https://rfam.xfam.org/family/RF03038,target="_blank")</strong> (nhaA-II RNA) <br /></p>
-
+ 
 <br />
 <html>
 <head>
@@ -45,7 +45,7 @@ permalink: /docs/Li/
   </style>
 </head>
 <body>
-  <p style="font-size: 16px">Click into different sections:</p>
+  <p style="font-size: 16px">Click the buttons to navigate to different sections:</p>
   
   <div class="button-container">
     <a class="button" href="#timeline" >Timeline</a>
@@ -105,7 +105,7 @@ permalink: /docs/Li/
 </div>
 </html>
 <p><br /></p>
-        
+         
 <p class="header_box" id="description">Description</p>
 <font >The <i>nhaA</i>-I RNA motif is a conserved RNA structure that was discovered by bioinformatics. <i>nhaA</i>-I motif RNAs are found in Acidobacteriota, alpha-, beta- and Gammaproteobacteria, Verrucomicrobiota and the tentative phylum NC10 (see bacterial phyla and List of taxa with candidatus status).
 <i>nhaA</i>-I motif RNAs likely function as cis-regulatory elements, in view of their positions upstream of protein-coding genes. Indeed, it is reasonable to speculate that <i>nhaA</i>-I RNAs directly bind a ligand, and therefore function as riboswitches, in view of their widespread distribution and conserved nucleotide positions. <i>nhaA</i>-I RNAs typically occur upstream of genes that encode exchangers of sodium ions and protons. More rarely, they also exist upstream of genes that encode DUF1646 protein domains, or that are involved in cell signaling or peptidoglycan. DUF1646-coding genes are also regulated by the DUF1646 RNA motif, which also has a potential association with sodium ions. <i>nhaA</i>-I RNAs also sometimes occur in tandem pairs, with two such RNAs nearby to one another. Such arrangements have been proposed to implement cooperative binding to more digitally regulate gene expression, although the biology underlying these tandem arrangements of <i>nhaA</i>-I RNAs is, as of 2018, unknown.
@@ -113,9 +113,9 @@ The <i>nhaA</i>-II RNA motif is a conserved RNA structure that was discovered by
 <i>nhaA</i>-II motif RNAs likely function as cis-regulatory elements, in view of their positions upstream of protein-coding genes. nhaA-I RNAs typically occur upstream of genes that encode exchangers of sodium ions and protons. More rarely, they also exist upstream of methyltransferases that use S-adenosylmethionine as a donor.
 In 2022, Breaker et al. identified <i>nhaA</i>-I motif and <i>nhaA</i>-II motif as Li<sup>+</sup>-I and Li<sup>+</sup>-II riboswitches, respectively (From Wikipedia)<sup></sup>.</font>
 <p><br /></p>
-            
+             
 > Gene association
-        
+            
 <font >Annotated functions of proteins encoded by genes commonly associated with the two riboswitch candidates<sup>[2]</sup>.</font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;">
 <tr >
@@ -125,9 +125,7 @@ In 2022, Breaker et al. identified <i>nhaA</i>-I motif and <i>nhaA</i>-II motif 
 </tr>
 </table>
 <p><br /></p>
-                
-> Gene regulation
-            
+                 
 <p class="header_box" id="Structure and Ligand recognition">Structure and Ligand recognition</p>
 > 2D representation
         
@@ -166,7 +164,7 @@ In 2022, Breaker et al. identified <i>nhaA</i>-I motif and <i>nhaA</i>-II motif 
     <div class="main-container">
         <div class="zoom-wrapper1">
             <div class="zoom-area1">
-                <img src="/images/2D/Li+_riboswitch_2D.svg" alt="drawing" style="width:400px" />
+                <img src="/images/2D/Li+_riboswitch_2D.svg" alt="drawing" style="width:800px" />
             </div>
         </div>
     </div>
@@ -180,15 +178,11 @@ In 2022, Breaker et al. identified <i>nhaA</i>-I motif and <i>nhaA</i>-II motif 
       panzoom1.zoom(0.8);
       </script>
 </td>
-<!--2D模2--------------------------->
-
 </tr></table><br>
 <p><br /></p>
-                    
-
-            
+                     
 <p class="header_box" id="references">References</p>
-            
+                
 <p><strong>[1] Detection of 224 candidate structured RNAs by comparative analysis of specific subsets of intergenic regions.</strong><br />
 Weinberg, Z. et al.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/28977401/" target="_blank">Nucleic Acids Res. 45, 10811–10823 (2017).</a>

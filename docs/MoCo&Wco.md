@@ -6,7 +6,7 @@ author: Xiaowei Lin, Yuanyin Huang
 permalink: /docs/MoCo&Wco/
 ---
 <p style="font-size: 24px"><strong>Rfam ID: [RF01055](https://rfam.xfam.org/family/RF01055,target="_blank")</strong> (MoCo (molybdenum cofactor) riboswitch)<br /></p>
-
+ 
 <br />
 <html>
 <head>
@@ -44,7 +44,7 @@ permalink: /docs/MoCo&Wco/
   </style>
 </head>
 <body>
-  <p style="font-size: 16px">Click into different sections:</p>
+  <p style="font-size: 16px">Click the buttons to navigate to different sections:</p>
   
   <div class="button-container">
     <a class="button" href="#timeline" >Timeline</a>
@@ -136,13 +136,13 @@ permalink: /docs/MoCo&Wco/
 </div>
 </html>
 <p><br /></p>
-        
+         
 <p class="header_box" id="description">Description</p>
 <font >The MoCo RNA motif is a conserved RNA structure that is presumed to be a riboswitch that binds molybdenum cofactor or the related tungsten cofactor. Genetic experiments support the hypothesis that the MoCo RNA motif corresponds to a genetic control element that responds to changing concentrations of molybdenum or tungsten cofactor. As these cofactors are not available in purified form, in vitro binding assays cannot be performed. However, the genetic data, complex structure of the RNA and the failure to detect a protein involved in the regulation suggest that the MoCo RNA motif corresponds to a class of riboswitches (From Wikipedia)<sup></sup>.</font>
 <p><br /></p>
-            
+             
 > Gene association
-        
+            
 <font >Pathway for molybdenum cofactor biosynthesis in eubacteria and tungsten cofactor in <i>P. furiosus</i>. Proteins in abbreviation are enzymes in the pathway except for ModABC. Proteins whose coding regions are located downstream and near the MoCo and Wco riboswitch in at least one organism are highlighted in red and blue, respectively<sup>[1,3-4]</sup>.</font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;">
 <tr >
@@ -152,9 +152,9 @@ permalink: /docs/MoCo&Wco/
 </tr>
 </table>
 <p><br /></p>
-                
+                 
 > Gene regulation
-            
+                
 <font ><p>Potential mechanism of translation regulation by the MoCo riboswitch. The ribosome binding site(RBS) is shaded red<sup>[3]</sup>.</p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
@@ -163,7 +163,7 @@ permalink: /docs/MoCo&Wco/
 </tr>
 </table>
 <p><br /></p>
-                    
+                         
 <p class="header_box" id="Structure and Ligand recognition">Structure and Ligand recognition</p>
 > 2D representation
         
@@ -202,7 +202,7 @@ permalink: /docs/MoCo&Wco/
     <div class="main-container">
         <div class="zoom-wrapper1">
             <div class="zoom-area1">
-                <img src="/images/2D/Moco_riboswitch_2D1.svg" alt="drawing" style="width:400px" />
+                <img src="/images/2D/Moco_riboswitch_2D1.svg" alt="drawing" style="width:800px" />
             </div>
         </div>
     </div>
@@ -216,44 +216,11 @@ permalink: /docs/MoCo&Wco/
       panzoom1.zoom(0.8);
       </script>
 </td>
-<!--2D模2--------------------------->
-<td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
-<style>
-.zoom-wrapper2 {
-    width: 400px;
-    height: 400px;
-    border: 1px solid #fff;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-</style>
-    <div class="main-container">
-        <div class="zoom-wrapper2">
-            <div class="zoom-area2">
-                <img src="/images/2D/Moco_riboswitch_2D2.svg" alt="drawing" style="width:400px" />
-            </div>
-        </div>
-    </div>
-    <script src="https://www.ribocentre.org/js/panzoom.js"></script>
-    <script type='text/javascript'>
-      var zoomWraper2 = document.querySelector(".zoom-wrapper2");
-      var panzoom2 = Panzoom(document.querySelector(".zoom-area2"), {
-      maxScale: 6
-      });
-      zoomWraper2.addEventListener("wheel", panzoom2.zoomWithWheel);
-      panzoom2.zoom(0.8);
-    </script>
-</td>
 </tr></table><br>
 <p><br /></p>
-                    
-> 3D visualisation
-            
-> Binding pocket
-                
+                     
 > Ligand recognition
-            
+                
 <font >
 <p>Chemical structures of molybdenum cofactor (Moco) and tungsten cofactor (Tuco). The apparent K<sub>D</sub> of each cofactor is not obtained<sup>[3]</sup>.<br /><br /></p>
 </font>
@@ -265,9 +232,9 @@ permalink: /docs/MoCo&Wco/
 </tr>
 </table>
 <p><br /></p>
-                
+                 
 <p class="header_box" id="references">References</p>
-            
+                
 <p><strong>[1] Molybdenum cofactor biosynthesis and deficiency.</strong><br />
 Schwarz, G.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/16261263/" target="_blank">Cell. Mol. Life Sci. 62, (2005).</a>

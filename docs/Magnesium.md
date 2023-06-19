@@ -7,7 +7,7 @@ permalink: /docs/Magnesium/
 ---
 <p style="font-size: 24px"><strong>Rfam ID: [RF00380](https://rfam.xfam.org/family/RF00380,target="_blank")</strong> (M-box riboswitch (ykoK leader))<br /></p>
 <p style="font-size: 24px"><strong>&emsp;&emsp;&emsp;&emsp;[RF01056](https://rfam.xfam.org/family/RF01056,target="_blank")</strong> (Magnesium Sensor) <br /></p>
-
+ 
 <br />
 <html>
 <head>
@@ -45,7 +45,7 @@ permalink: /docs/Magnesium/
   </style>
 </head>
 <body>
-  <p style="font-size: 16px">Click into different sections:</p>
+  <p style="font-size: 16px">Click the buttons to navigate to different sections:</p>
   
   <div class="button-container">
     <a class="button" href="#timeline" >Timeline</a>
@@ -129,16 +129,16 @@ permalink: /docs/Magnesium/
 </div>
 </html>
 <p><br /></p>
-        
+         
 <p class="header_box" id="description">Description</p>
 <font >The Ykok leader or M-box is a Mg-sensing RNA structure that controls the expression of Magnesium ion transport proteins in bacteria. It is a distinct structure to the Magnesium responsive RNA element.
 The Ykok leader was originally described as a conserved sequence with potential riboswitch function found upstream of the <i>B. subtilis</i> ykoK gene and genes with related functions in other bacteria. Examples of the conserved M-box RNA structure occur upstream of each of the three major families of Mg transporters (CorA, MgtE and MgtA/MgtB) in various bacterial species.
 The molecular structure of the M-box example upstream of the <i>B. subtilis</i> ykoK gene includes six bound Mg ions. Biochemical studies indicate that this M-Box RNA compacts in the presence of Mg and other divalent ions. This folding process appears to disrupt an antiterminator structure, and thereby allow a transcription terminator structure to form. As expected from this model, B. subtilis cells repress expression of a downstream reporter gene when grown in the presence of Mg. Therefore, the M-box appears to function as a genetic "off" switch that is important for maintaining Mg homeostasis in bacteria.
 The Magnesium responsive RNA element, not to be confused with the completely distinct M-box riboswitch, is a cis-regulatory element that regulates the expression of the magnesium transporter protein MgtA. It is located in the 5' UTR of this gene. The mechanism for the potential magnesium-sensing capacity of this RNA is still unclear, though a recent report suggests that the RNA element targets the mgtA transcript for degradation by RNase E when cells are grown in high Mg environments (From Wikipedia)<sup></sup>.</font>
 <p><br /></p>
-            
+             
 > Gene association
-        
+            
 <font >Mg<sup>2+</sup> riboswitch in <i>Salmonella enterica</i>. Magnesium-responsive regulatory pathways in the bacteria <i>Salmonella enterica</i> by the two-component regulatory system consisting of PhoQ, the membrane-bound sensor kinase, and PhoP, a transcription regulator. PhoP, which is phosphorylated, affects more than 100 genes in response to fluctuations in the Mg<sup>2+</sup> concentration. The regulatory system PhoQ/PhoP is a two-component system activated in low magnesium levels or by cationic peptides. Genes regulated by PhoP-PhoQ are depicted in grey boxes and ovals<sup>[6]</sup>.</font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;">
 <tr >
@@ -148,9 +148,9 @@ The Magnesium responsive RNA element, not to be confused with the completely dis
 </tr>
 </table>
 <p><br /></p>
-                
+                 
 > Gene regulation
-            
+                
 <font ><p>Potential mechanism of transcriptional regulation by the Mg<sup>2+</sup>-I and Mg<sup>2+</sup>-II riboswitch. The magnesium ions are showed on red<sup>[2,5]</sup>.</p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
@@ -162,7 +162,7 @@ The Magnesium responsive RNA element, not to be confused with the completely dis
 </tr>
 </table>
 <p><br /></p>
-                    
+                         
 <p class="header_box" id="Structure and Ligand recognition">Structure and Ligand recognition</p>
 > 2D representation
         
@@ -201,7 +201,7 @@ The Magnesium responsive RNA element, not to be confused with the completely dis
     <div class="main-container">
         <div class="zoom-wrapper1">
             <div class="zoom-area1">
-                <img src="/images/2D/Mg2+-I_riboswitch_2D1.svg" alt="drawing" style="width:400px" />
+                <img src="/images/2D/Mg2+-I_riboswitch_2D1.svg" alt="drawing" style="width:800px" />
             </div>
         </div>
     </div>
@@ -214,35 +214,6 @@ The Magnesium responsive RNA element, not to be confused with the completely dis
       zoomWraper1.addEventListener("wheel", panzoom1.zoomWithWheel);
       panzoom1.zoom(0.8);
       </script>
-</td>
-<!--2D模2--------------------------->
-<td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
-<style>
-.zoom-wrapper2 {
-    width: 400px;
-    height: 400px;
-    border: 1px solid #fff;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-</style>
-    <div class="main-container">
-        <div class="zoom-wrapper2">
-            <div class="zoom-area2">
-                <img src="/images/2D/Mg2+-I_riboswitch_2D2.svg" alt="drawing" style="width:400px" />
-            </div>
-        </div>
-    </div>
-    <script src="https://www.ribocentre.org/js/panzoom.js"></script>
-    <script type='text/javascript'>
-      var zoomWraper2 = document.querySelector(".zoom-wrapper2");
-      var panzoom2 = Panzoom(document.querySelector(".zoom-area2"), {
-      maxScale: 6
-      });
-      zoomWraper2.addEventListener("wheel", panzoom2.zoomWithWheel);
-      panzoom2.zoom(0.8);
-    </script>
 </td>
 </tr></table><br>
 <p><br /></p>
@@ -282,7 +253,7 @@ The Magnesium responsive RNA element, not to be confused with the completely dis
     <div class="main-container">
         <div class="zoom-wrapper3">
             <div class="zoom-area3">
-                <img src="/images/2D/Mg2+-II_riboswitch_2D1.svg" alt="drawing" style="width:400px" />
+                <img src="/images/2D/Mg2+-II_riboswitch_2D1.svg" alt="drawing" style="width:800px" />
             </div>
         </div>
     </div>
@@ -296,13 +267,11 @@ The Magnesium responsive RNA element, not to be confused with the completely dis
       panzoom3.zoom(0.8);
       </script>
 </td>
-<!--2D模2--------------------------->
-
 </tr></table><br>
 <p><br /></p>
-                    
+                     
 > 3D visualisation
-            
+                
 <font >The structure of the M-box riboswitch aptamer domain was generated from PDB ID: 2QBZ at 2.60 Å resolution. Six magnesiums are labeled in red <sup>[3]</sup>.</font>
   <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
@@ -505,9 +474,9 @@ The Magnesium responsive RNA element, not to be confused with the completely dis
     </html></td>
   </tr></table><br>
   <p><br /></p>
-                
+                 
 > Binding pocket
-                
+                    
 <font ><p>Left: Surface representation of the binding pocket of the Mg<sup>2+</sup>-I riboswitch generated from PDB ID: 2QBZ. Magnesiums are labeled in red.
 Right: Nucleotides that contact Mg1-3 via inner and outer sphere interactions are labeled and shown as sticks<sup>[3]</sup>.<br /></p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
@@ -516,11 +485,9 @@ Right: Nucleotides that contact Mg1-3 via inner and outer sphere interactions ar
 </tr>
 </table>
 <p><br /></p>
-                    
-
-            
+                     
 <p class="header_box" id="references">References</p>
-            
+                
 <p><strong>[1] New RNA motifs suggest an expanded scope for riboswitches in bacterial genetic control.</strong><br />
 Barrick, J. E. et al.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/15096624/" target="_blank">Proc. Natl. Acad. Sci. U. S. A. 101, 6421–6426 (2004).</a>

@@ -6,7 +6,7 @@ author: Wenjian Liao
 permalink: /docs/Guanine/
 ---
 <p style="font-size: 24px"><strong>Rfam ID: [RF00167](https://rfam.xfam.org/family/RF00167,target="_blank")</strong> (Purine riboswitch)<br /></p>
-
+ 
 <br />
 <html>
 <head>
@@ -44,7 +44,7 @@ permalink: /docs/Guanine/
   </style>
 </head>
 <body>
-  <p style="font-size: 16px">Click into different sections:</p>
+  <p style="font-size: 16px">Click the buttons to navigate to different sections:</p>
   
   <div class="button-container">
     <a class="button" href="#timeline" >Timeline</a>
@@ -152,13 +152,13 @@ permalink: /docs/Guanine/
 </div>
 </html>
 <p><br /></p>
-        
+         
 <p class="header_box" id="description">Description</p>
 <font >The guanine riboswitch selectively recognizes guanine, and contains a cytosine ribonucleotide in a specific position of the guanine-binding aptamer domain. Now there are two classes of guanine riboswitches have been discovered, most commonly associated with genes encoding phosphoribosyltransferase (PRT) enzymes. Although these two classes of guanine riboswitches have the similar secondary structure, the directionalities of gene control upon ligand binding are predicted to be opposite for the guanine-I (OFF) and guanine-II (ON) riboswitches<sup></sup>.</font>
 <p><br /></p>
-            
+             
 > Gene association
-        
+            
 <font >The guanine-I riboswitch, once thought to be an operon, was originally found in the 5’-UTR of <i>xpt-pbuX</i> gene. The <i>xpt</i> gene and <i>pbuX</i> gene encode a specific xanthine phosphoribosyl-transferase and a xanthine-specific purine permease respectively, and the genes have overlapping coding regions. The guanine-I riboswitch was also identified in other <i>B. subtilis</i> genes (<i>purE</i>, <i>yxjA</i> et.al.) and also in other bacterial species. However, the nucleobase specificities for many annotated PRT enzymes downstream of guanine-II riboswitch have not been established<sup>[1-2, 9]</sup>.</font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;">
 <tr >
@@ -168,9 +168,9 @@ permalink: /docs/Guanine/
 </tr>
 </table>
 <p><br /></p>
-                
+                 
 > Gene regulation
-            
+                
 <font ><p>(left) The guanine-I riboswitch has been shown to control gene expression through transcriptional termination. It forms an antiterminator in the absence of guanine, thereby allowing RNA transcription elongation to proceed to completion. The presence of guanine results in stabilization of the aptamer domain, thereby facilitating terminator formation and shutting down transcription. (right) Sequence and secondary structure model of a guanine-II riboswitch is consistent with a genetic “ON” switch wherein ligand binding would preclude formation of the terminator stem. <sup>[2, 4]</sup>.</p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
@@ -182,7 +182,7 @@ permalink: /docs/Guanine/
 </tr>
 </table>
 <p><br /></p>
-                    
+                         
 <p class="header_box" id="Structure and Ligand recognition">Structure and Ligand recognition</p>
 > 2D representation
         
@@ -221,7 +221,7 @@ permalink: /docs/Guanine/
     <div class="main-container">
         <div class="zoom-wrapper1">
             <div class="zoom-area1">
-                <img src="/images/2D/Guanine_riboswitch_2D1.svg" alt="drawing" style="width:400px" />
+                <img src="/images/2D/Guanine_riboswitch_2D1.svg" alt="drawing" style="width:800px" />
             </div>
         </div>
     </div>
@@ -234,35 +234,6 @@ permalink: /docs/Guanine/
       zoomWraper1.addEventListener("wheel", panzoom1.zoomWithWheel);
       panzoom1.zoom(0.8);
       </script>
-</td>
-<!--2D模2--------------------------->
-<td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
-<style>
-.zoom-wrapper2 {
-    width: 400px;
-    height: 400px;
-    border: 1px solid #fff;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-</style>
-    <div class="main-container">
-        <div class="zoom-wrapper2">
-            <div class="zoom-area2">
-                <img src="/images/2D/Guanine_riboswitch_2D2.svg" alt="drawing" style="width:400px" />
-            </div>
-        </div>
-    </div>
-    <script src="https://www.ribocentre.org/js/panzoom.js"></script>
-    <script type='text/javascript'>
-      var zoomWraper2 = document.querySelector(".zoom-wrapper2");
-      var panzoom2 = Panzoom(document.querySelector(".zoom-area2"), {
-      maxScale: 6
-      });
-      zoomWraper2.addEventListener("wheel", panzoom2.zoomWithWheel);
-      panzoom2.zoom(0.8);
-    </script>
 </td>
 </tr></table><br>
 <p><br /></p>
@@ -302,7 +273,7 @@ permalink: /docs/Guanine/
     <div class="main-container">
         <div class="zoom-wrapper3">
             <div class="zoom-area3">
-                <img src="/images/2D/Guanine_riboswitch_2D3.svg" alt="drawing" style="width:400px" />
+                <img src="/images/2D/Guanine_riboswitch_2D3.svg" alt="drawing" style="width:800px" />
             </div>
         </div>
     </div>
@@ -316,40 +287,11 @@ permalink: /docs/Guanine/
       panzoom3.zoom(0.8);
       </script>
 </td>
-<!--2D模2--------------------------->
-<td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
-<style>
-.zoom-wrapper4 {
-    width: 400px;
-    height: 400px;
-    border: 1px solid #fff;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-</style>
-    <div class="main-container">
-        <div class="zoom-wrapper4">
-            <div class="zoom-area4">
-                <img src="/images/2D/nan" alt="drawing" style="width:400px" />
-            </div>
-        </div>
-    </div>
-    <script src="https://www.ribocentre.org/js/panzoom.js"></script>
-    <script type='text/javascript'>
-      var zoomWraper4 = document.querySelector(".zoom-wrapper4");
-      var panzoom4 = Panzoom(document.querySelector(".zoom-area4"), {
-      maxScale: 6
-      });
-      zoomWraper4.addEventListener("wheel", panzoom4.zoomWithWheel);
-      panzoom4.zoom(0.8);
-    </script>
-</td>
 </tr></table><br>
 <p><br /></p>
-                    
+                     
 > 3D visualisation
-            
+                
 <font >The overall structure of the guanine-I riboswitch was generated from PDB ID:1Y27 at 2.40Å resolution bound with guanine. Guanine (shown in sticks) is labeled in red <sup>[4]</sup>.</font>
   <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
@@ -498,9 +440,9 @@ permalink: /docs/Guanine/
     </html></td>
   </tr></table><br>
   <p><br /></p>
-                
+                 
 > Binding pocket
-                
+                    
 <font ><p>Hydrogen-bonding alignments to bound guanine in the guanine-I riboswitch, generated from PDB ID:1Y27. The bound guanine forms a Watson-Crick pair with C74. Hydrogen bonds involving 2’-OH of U22 and base edges of U47 and U51 are common to both riboswitches<sup>[4]</sup>.<br /></p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/Guanine_riboswitch_binding_pockets1.svg" alt="drawing" style="width:400px"  px="" /></td>
@@ -508,9 +450,9 @@ permalink: /docs/Guanine/
 </tr>
 </table>
 <p><br /></p>
-                    
+                     
 > Ligand recognition
-            
+                
 <font >
 <p>Chemical structures of guanine and its various analogs. The apparent K<sub>D</sub> of each compound of guanine-I riboswitch and partial compounds of guanine-II riboswitch are shown on bottom. G-I, guanine-I riboswitch. G-II, guanine-II riboswitch<sup>[2, 9]</sup>.<br /><br /></p>
 </font>
@@ -522,9 +464,9 @@ permalink: /docs/Guanine/
 </tr>
 </table>
 <p><br /></p>
-                
+                 
 <p class="header_box" id="references">References</p>
-            
+                
 <p><strong>[1] Xanthine metabolism in Bacillus subtilis: characterization of the xpt-pbuX operon and evidence for purine- and nitrogen-controlled expression of genes involved in xanthine salvage and catabolism.</strong><br />
 Christiansen, L. C., Schou, S., Nygaard, P. & Saxild, H. H.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/9098051/" target="_blank">J. Bacteriol. 179, (1997).</a>

@@ -6,7 +6,7 @@ author: Xiaowei Lin, Yuanyin Huang
 permalink: /docs/HMP-PP/
 ---
 <p style="font-size: 24px"><strong>Rfam ID: [nan](https://rfam.xfam.org/family/nan,target="_blank")</strong> (nan)<br /></p>
-
+ 
 <br />
 <html>
 <head>
@@ -44,7 +44,7 @@ permalink: /docs/HMP-PP/
   </style>
 </head>
 <body>
-  <p style="font-size: 16px">Click into different sections:</p>
+  <p style="font-size: 16px">Click the buttons to navigate to different sections:</p>
   
   <div class="button-container">
     <a class="button" href="#timeline" >Timeline</a>
@@ -104,13 +104,13 @@ permalink: /docs/HMP-PP/
 </div>
 </html>
 <p><br /></p>
-        
+         
 <p class="header_box" id="description">Description</p>
 <font >HMP-PP riboswitches are a class of homologous RNAs in certain bacteria that function as sensors of the thiamin precursor HMP-PP, which is fused with HET-P ultimately to form the final active coenzyme thiamin pyrophosphate (TPP). The HMP-PP riboswitch was initially named as the ‘thiS motif' because of its frequent association with a gene coding for the ThiS protein, which delivers sulfur to form the thiazole moiety of the thiamin precursor HET-P, which was firstly reported by using a computational approach to identify new riboswitches in bacteria in 2019. Unlike with many other riboswitches,the small ligand sensing aptamer of the HMP-PP riboswitch was embedded within a terminator, rather than being a separate entity. The 3D structure of the HMP-PP riboswitch has not been solved yet<sup>[2-3]</sup>.</font>
 <p><br /></p>
-            
+             
 > Gene association
-        
+            
 <font >Typical biosynthetic pathways for the pyrimidine and thiazole moieties of thiamin, and their eventual conversion into the enzyme cofactor thiamin pyrophosphate (TPP). Genes coding for the enzymes involved in HET transport and catalysis of various biosynthetic steps are showed. The genes colored in red are associated with the HMP-PP riboswitch<sup>[1-3]</sup>.</font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;">
 <tr >
@@ -120,9 +120,9 @@ permalink: /docs/HMP-PP/
 </tr>
 </table>
 <p><br /></p>
-                
+                 
 > Gene regulation
-            
+                
 <font ><p>Potential mechanism of transcription termination regulation for the HMP-PP riboswitch. The shaded nucleotides highlight possible base-pairs of the predicted pseudoknot. Complementary sequences and alternate base-pairing are shown in blue<sup>[3]</sup>.</p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
@@ -131,7 +131,7 @@ permalink: /docs/HMP-PP/
 </tr>
 </table>
 <p><br /></p>
-                    
+                         
 <p class="header_box" id="Structure and Ligand recognition">Structure and Ligand recognition</p>
 > 2D representation
         
@@ -170,7 +170,7 @@ permalink: /docs/HMP-PP/
     <div class="main-container">
         <div class="zoom-wrapper1">
             <div class="zoom-area1">
-                <img src="/images/2D/HMP-PP_riboswitch_2D1.svg" alt="drawing" style="width:400px" />
+                <img src="/images/2D/HMP-PP_riboswitch_2D1.svg" alt="drawing" style="width:800px" />
             </div>
         </div>
     </div>
@@ -184,44 +184,11 @@ permalink: /docs/HMP-PP/
       panzoom1.zoom(0.8);
       </script>
 </td>
-<!--2D模2--------------------------->
-<td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
-<style>
-.zoom-wrapper2 {
-    width: 400px;
-    height: 400px;
-    border: 1px solid #fff;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-</style>
-    <div class="main-container">
-        <div class="zoom-wrapper2">
-            <div class="zoom-area2">
-                <img src="/images/2D/HMP-PP_riboswitch_2D2.svg" alt="drawing" style="width:400px" />
-            </div>
-        </div>
-    </div>
-    <script src="https://www.ribocentre.org/js/panzoom.js"></script>
-    <script type='text/javascript'>
-      var zoomWraper2 = document.querySelector(".zoom-wrapper2");
-      var panzoom2 = Panzoom(document.querySelector(".zoom-area2"), {
-      maxScale: 6
-      });
-      zoomWraper2.addEventListener("wheel", panzoom2.zoomWithWheel);
-      panzoom2.zoom(0.8);
-    </script>
-</td>
 </tr></table><br>
 <p><br /></p>
-                    
-> 3D visualisation
-            
-> Binding pocket
-                
+                     
 > Ligand recognition
-            
+                
 <font >
 <p>Chemical structures of hydroxymethyl-pyrimidine pyrophosphate (HMP-PP) and its precursors. The apparent K<sub>D</sub>  of each compound is shown on bottom<sup>[3]</sup>.<br /><br /></p>
 </font>
@@ -233,9 +200,9 @@ permalink: /docs/HMP-PP/
 </tr>
 </table>
 <p><br /></p>
-                
+                 
 <p class="header_box" id="references">References</p>
-            
+                
 <p><strong>[1] Thiamin biosynthesis in prokaryotes.</strong><br />
 Begley, T. P. et al.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/10382260/" target="_blank">Arch. Microbiol. 171, (1999).</a>

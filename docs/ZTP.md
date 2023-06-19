@@ -6,7 +6,7 @@ author: Bowen Xiao, Xiaowei Lin
 permalink: /docs/ZTP/
 ---
 <p style="font-size: 24px"><strong>Rfam ID: [RF01750](https://rfam.xfam.org/family/RF01750,target="_blank")</strong> (ZMP/ZTP riboswitch)<br /></p>
-
+ 
 <br />
 <html>
 <head>
@@ -44,7 +44,7 @@ permalink: /docs/ZTP/
   </style>
 </head>
 <body>
-  <p style="font-size: 16px">Click into different sections:</p>
+  <p style="font-size: 16px">Click the buttons to navigate to different sections:</p>
   
   <div class="button-container">
     <a class="button" href="#timeline" >Timeline</a>
@@ -168,15 +168,15 @@ permalink: /docs/ZTP/
 </div>
 </html>
 <p><br /></p>
-        
+         
 <p class="header_box" id="description">Description</p>
 <font >The ZMP/ZTP riboswitch (called the <i>pfl</i> RNA motif before) refers to a conserved RNA structure present in some bacteria and originally discovered using bioinformatics. ZMP/ZTP riboswitch are consistently present in genomic locations that likely correspond to the 5' untranslated regions (5' UTRs) of protein-coding genes. This arrangement in bacteria is commonly associated with <i>cis</i>-regulatory elements. Moreover, they are in presumed 5' UTRs of multiple non-homologous genes, suggesting that they function only in these locations. Additional evidence of <i>cis</i>-regulatory function came from the observation that predicted rho-independent transcription terminators overlap pfl RNAs. This overlap suggests that the alternate secondary structures of <i>pfl</i> RNA and the transcription terminator stem-loops compete with each other, and this is a common mechanism for <i>cis</i> gene control in bacteria. ZMP/ZTP riboswitch are found in a variety of phyla of bacteria, but are not found in all the species of that phylum. ZMP/ZTP riboswitch are common among species of orders <i>Actinomycetales</i> and <i>Clostridiales</i>, the classes <i>Alphaproteobacteria</i> and <i>Betaproteobacteria</i> and the genus <i>Deinococcus</i>. They are also found in isolated species of <i>Bacteroidota</i>, <i>Chloroflexota</i>, and <i>Deltaproteobacteria</i>. 
 
 The genes regulated by ZMP/ZTP riboswitch relate to one-carbon metabolism. Most obviously, for example, formate-tetrahydrofolate ligase synthesizes 10-formyltetrahydrofolate. The <i>glyA</i> and <i>folD</i> convert between other one-carbon adducts of tetrahydrofolate. Another gene commonly associated with ZMP/ZTP riboswitch is <i>purH</i>, which catalyzes the formylation of the intermediate AICAR in <i>de novo</i> synthesis of purines. The formyl group is taken from formyltetrahydrofolate, and purine biosynthesis is often the dominant user of formyltetrahydrofolate. In similar fashions, if less directly, most ZMP/ZTP riboswitch are associated with genes that are directly or indirectly involved in one-carbon metabolism. It appears that the ZTP/ZMP purine derivatives can be used to regulate one-carbon metabolism by indirectly sensing a shortage of 10-formyl-tetrahydrofolate. The atomic-resolution structure has been solved by X-ray crystallography. These structures were deposited into the Protein Data Bank under accessions 4ZNP  (From Wikipedia)<sup></sup>.</font>
 <p><br /></p>
-            
+             
 > Gene association
-        
+            
 <font >Genes most frequently associated with ZMP/ZTP riboswitch are highlighted in red and genes that are occasionally associated are highlighted in green. Genes in black have not been observed to be associated with ZMP/ZTP riboswitch<sup>[2]</sup>.</font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;">
 <tr >
@@ -186,9 +186,9 @@ The genes regulated by ZMP/ZTP riboswitch relate to one-carbon metabolism. Most 
 </tr>
 </table>
 <p><br /></p>
-                
+                 
 > Gene regulation
-            
+                
 <font ><p>Potential mechanism of translation regulation by the ZTP riboswitch. The ribosome binding site (RBS) is showed on red<sup>[11]</sup>.</p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
@@ -197,7 +197,7 @@ The genes regulated by ZMP/ZTP riboswitch relate to one-carbon metabolism. Most 
 </tr>
 </table>
 <p><br /></p>
-                    
+                         
 <p class="header_box" id="Structure and Ligand recognition">Structure and Ligand recognition</p>
 > 2D representation
         
@@ -236,7 +236,7 @@ The genes regulated by ZMP/ZTP riboswitch relate to one-carbon metabolism. Most 
     <div class="main-container">
         <div class="zoom-wrapper1">
             <div class="zoom-area1">
-                <img src="/images/2D/ZTP_riboswitch_2D1.svg" alt="drawing" style="width:400px" />
+                <img src="/images/2D/ZTP_riboswitch_2D1.svg" alt="drawing" style="width:800px" />
             </div>
         </div>
     </div>
@@ -250,40 +250,11 @@ The genes regulated by ZMP/ZTP riboswitch relate to one-carbon metabolism. Most 
       panzoom1.zoom(0.8);
       </script>
 </td>
-<!--2D模2--------------------------->
-<td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
-<style>
-.zoom-wrapper2 {
-    width: 400px;
-    height: 400px;
-    border: 1px solid #fff;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-</style>
-    <div class="main-container">
-        <div class="zoom-wrapper2">
-            <div class="zoom-area2">
-                <img src="/images/2D/ZTP_riboswitch_2D2.svg" alt="drawing" style="width:400px" />
-            </div>
-        </div>
-    </div>
-    <script src="https://www.ribocentre.org/js/panzoom.js"></script>
-    <script type='text/javascript'>
-      var zoomWraper2 = document.querySelector(".zoom-wrapper2");
-      var panzoom2 = Panzoom(document.querySelector(".zoom-area2"), {
-      maxScale: 6
-      });
-      zoomWraper2.addEventListener("wheel", panzoom2.zoomWithWheel);
-      panzoom2.zoom(0.8);
-    </script>
-</td>
 </tr></table><br>
 <p><br /></p>
-                    
+                     
 > 3D visualisation
-            
+                
 <font >The overall structure of the ZTP riboswitch was generated from PDB ID: 4ZNP at 2.94 Å resolution bound with 5- amino-4-imidazole carboxamide ribose-5'- monophosphate (ZMP) and Mg<sup>2+</sup>. ZMP (shown in sticks) and Mg<sup>2+</sup> is labeled in red <sup>[3]</sup>.</font>
   <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
@@ -426,9 +397,9 @@ The genes regulated by ZMP/ZTP riboswitch relate to one-carbon metabolism. Most 
     </html></td>
   </tr></table><br>
   <p><br /></p>
-                
+                 
 > Binding pocket
-                
+                    
 <font ><p>Left: Surface representation of the binding pocket of the ZTP riboswitch generated from PDB ID: 4ZNP. 5- amino-4-imidazole carboxamide ribose-5'- monophosphate (ZMP) (shown in sticks) and Mg<sup>2+</sup> (M) is labeled in red. Right: The hydrogen bonds of the ZTP riboswitch bound with 5- amino-4-imidazole carboxamide ribose-5'- monophosphate (ZMP) and Mg<sup>2+</sup> (M)<sup>[3]</sup>.<br /></p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/ZTP_riboswitch_binding_pockets1.svg" alt="drawing" style="width:400px"  px="" /></td>
@@ -436,9 +407,9 @@ The genes regulated by ZMP/ZTP riboswitch relate to one-carbon metabolism. Most 
 </tr>
 </table>
 <p><br /></p>
-                    
+                     
 > Ligand recognition
-            
+                
 <font >
 <p>Chemical structures of 5- amino-4-imidazole carboxamide ribose-5'-triphosphate (ZTP) and its analogs. The apparent K<sub>D</sub> of each compound of ZTP riboswitch is shown on bottom<sup>[2,8]</sup>.<br /><br /></p>
 </font>
@@ -450,9 +421,9 @@ The genes regulated by ZMP/ZTP riboswitch relate to one-carbon metabolism. Most 
 </tr>
 </table>
 <p><br /></p>
-                
+                 
 <p class="header_box" id="references">References</p>
-            
+                
 <p><strong>[1] Comparative genomics reveals 104 candidate structured RNAs from bacteria, archaea, and their metagenomes</strong><br />
 Weinberg, Z. et al.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/20230605/" target="_blank">Genome Biol. 11, R31 (2010).</a>

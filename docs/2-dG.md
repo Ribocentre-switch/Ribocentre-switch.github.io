@@ -7,7 +7,7 @@ permalink: /docs/2-dG/
 ---
 <p style="font-size: 24px"><strong>Rfam ID: [RF00167](https://rfam.xfam.org/family/RF00167,target="_blank")</strong> (Purine riboswitch)<br /></p>
 <p style="font-size: 24px"><strong>&emsp;&emsp;&emsp;&emsp;[RF03165](https://rfam.xfam.org/family/RF03165,target="_blank")</strong> (2dG-II purine riboswitch) <br /></p>
-
+ 
 <br />
 <html>
 <head>
@@ -45,7 +45,7 @@ permalink: /docs/2-dG/
   </style>
 </head>
 <body>
-  <p style="font-size: 16px">Click into different sections:</p>
+  <p style="font-size: 16px">Click the buttons to navigate to different sections:</p>
   
   <div class="button-container">
     <a class="button" href="#timeline" >Timeline</a>
@@ -129,13 +129,13 @@ permalink: /docs/2-dG/
 </div>
 </html>
 <p><br /></p>
-        
+         
 <p class="header_box" id="description">Description</p>
 <font >Carrying an aptamer domain similar in sequence and secondary structure to the guanine riboswitch, the 2'-dG riboswitch exhibits improved affinities for 2'-deoxyguanosine (2'-dG), 3'-deoxyguanosine (3'-dG) and guanosine, and contains a uracil ribonucleotide in a conserved position of the ligand-binding aptamer domain. Up to now, three classes of 2'-dG riboswitches, named 2'-dG-I, 2'-dG-II and 2'-dG-III, have been identified, wherein the first two classes of 2'-dG riboswitches have atomic-resolution structural models<sup>[2-6]</sup>.</font>
 <p><br /></p>
-            
+             
 > Gene association
-        
+            
 <font >The gene associateds with 2'-dG-I, 2'-dG-II and 2'-dG-III RNAs are different from each other. 2'-dG-I RNAs are associated with genes annotated as ribonucleotide reductase. Genes located downstream from 2'-dG-II RNAs are predicted to encode a signal receiver domain, endonuclease I, phospholipase D, and ComEC. ComEC is a competence protein involved in importing foreign DNA and endonuclease I could mitigate a lack of 2'-dG by salvaging deoxyribonuc. 2'-dG-III RNAs are associated with genes encoding for purine nucleoside hydrolase, which uses nucleosides as substrates and produces free nucleobases as products<sup>[2,4,6]</sup>.</font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;">
 <tr >
@@ -145,9 +145,9 @@ permalink: /docs/2-dG/
 </tr>
 </table>
 <p><br /></p>
-                
+                 
 > Gene regulation
-            
+                
 <font ><p>Putative mechanisms for regulation of gene expression by 2'-dG riboswitch<sup>[2,4,6]</sup>.</p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
@@ -159,7 +159,7 @@ permalink: /docs/2-dG/
 </tr>
 </table>
 <p><br /></p>
-                    
+                         
 <p class="header_box" id="Structure and Ligand recognition">Structure and Ligand recognition</p>
 > 2D representation
         
@@ -198,7 +198,7 @@ permalink: /docs/2-dG/
     <div class="main-container">
         <div class="zoom-wrapper1">
             <div class="zoom-area1">
-                <img src="/images/2D/2-dG_riboswitch_2D1.svg" alt="drawing" style="width:400px" />
+                <img src="/images/2D/2-dG_riboswitch_2D1.svg" alt="drawing" style="width:800px" />
             </div>
         </div>
     </div>
@@ -212,40 +212,11 @@ permalink: /docs/2-dG/
       panzoom1.zoom(0.8);
       </script>
 </td>
-<!--2D模2--------------------------->
-<td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
-<style>
-.zoom-wrapper2 {
-    width: 400px;
-    height: 400px;
-    border: 1px solid #fff;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-</style>
-    <div class="main-container">
-        <div class="zoom-wrapper2">
-            <div class="zoom-area2">
-                <img src="/images/2D/2-dG_riboswitch_2D2.svg" alt="drawing" style="width:400px" />
-            </div>
-        </div>
-    </div>
-    <script src="https://www.ribocentre.org/js/panzoom.js"></script>
-    <script type='text/javascript'>
-      var zoomWraper2 = document.querySelector(".zoom-wrapper2");
-      var panzoom2 = Panzoom(document.querySelector(".zoom-area2"), {
-      maxScale: 6
-      });
-      zoomWraper2.addEventListener("wheel", panzoom2.zoomWithWheel);
-      panzoom2.zoom(0.8);
-    </script>
-</td>
 </tr></table><br>
 <p><br /></p>
-                    
+                     
 > 3D visualisation
-            
+                
 <font >The overall structure of the 2'-dG-I riboswitch was generated from PDB ID: 3SKI at 2.30 Å resolution bound with 2'-dG. 2'-dG (shown in sticks) is labeled in red <sup>[3]</sup>.</font>
   <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
@@ -543,9 +514,9 @@ permalink: /docs/2-dG/
     </html></td>
   </tr></table><br>
   <p><br /></p>
-                
+                 
 > Binding pocket
-                
+                    
 <font ><p>Left: Surface representation of the binding pocket of the 2'-dG-I riboswitch generated from PDB ID: 3SKI. 2'-dG (shown in sticks) is labeled in red. Right: The hydrogen bonds of the binding sites of the 2'-dG-I riboswitch bound with 2'-dG<sup>[3]</sup>.<br /></p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/2-dG_riboswitch_binding_pockets1.svg" alt="drawing" style="width:400px"  px="" /></td>
@@ -561,9 +532,9 @@ permalink: /docs/2-dG/
 </tr>
 </table>
 <p><br /></p>
-                    
+                     
 > Ligand recognition
-            
+                
 <font >
 <p>Chemical structures of 2'-dG and its analogs. The apparent K<sub>D</sub> of each compound of three classes of 2-dG riboswitches is shown on bottom<sup>[2, 4, 6]</sup>.<br /><br /></p>
 </font>
@@ -575,9 +546,9 @@ permalink: /docs/2-dG/
 </tr>
 </table>
 <p><br /></p>
-                
+                 
 <p class="header_box" id="references">References</p>
-            
+                
 <p><strong>[1] Interactions between deoxyribonucleotide and DNA synthesis.</strong><br />
 Reichard, P.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/3052277/" target="_blank">Annu. Rev. Biochem. 57, (1988).</a>

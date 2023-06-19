@@ -7,7 +7,7 @@ permalink: /docs/THF/
 ---
 <p style="font-size: 24px"><strong>Rfam ID: [RF01831](https://rfam.xfam.org/family/RF01831,target="_blank")</strong> (THF riboswitch)<br /></p>
 <p style="font-size: 24px"><strong>&emsp;&emsp;&emsp;&emsp;[RF02977](https://rfam.xfam.org/family/RF02977,target="_blank")</strong> (<i>folE</i> RNA) <br /></p>
-
+ 
 <br />
 <html>
 <head>
@@ -45,7 +45,7 @@ permalink: /docs/THF/
   </style>
 </head>
 <body>
-  <p style="font-size: 16px">Click into different sections:</p>
+  <p style="font-size: 16px">Click the buttons to navigate to different sections:</p>
   
   <div class="button-container">
     <a class="button" href="#timeline" >Timeline</a>
@@ -153,14 +153,14 @@ permalink: /docs/THF/
 </div>
 </html>
 <p><br /></p>
-        
+         
 <p class="header_box" id="description">Description</p>
 <font >Tetrahydrofolate riboswitches are a class of homologous RNAs in certain bacteria that bind tetrahydrofolate (THF). It is almost exclusively located in the probable 5' untranslated regions of protein-coding genes, and most of these genes are known to encode either folate transporters or enzymes involved in folate metabolism. For these reasons it was inferred that the RNAs function as riboswitches. THF riboswitches are found in a variety of Bacillota, specifically the orders Clostridiales and Lactobacillales, and more rarely in other lineages of bacteria. The THF riboswitch was one of many conserved RNA structures found in a project based on comparative genomics. The 3-d structure of the tetrahydrofolate riboswitch has been solved by separate groups using X-ray crystallography. These structures were deposited into the Protein Data Bank under accessions 3SD1 and 3SUX, with other entries containing variants.
 The <i>folE</i> RNA motif, now known as the THF-II riboswitch, is a conserved RNA structure that was discovered by bioinformatics. <i>folE</i> motifs are found in Alphaproteobacteria. <i>folE</i> motif RNAs likely function as cis-regulatory elements, in view of their positions upstream of protein-coding genes. Instances of the <i>folE</i> RNA motif are often located nearby to the predicted Shine-Dalgarno sequence of the downstream gene. This arrangement is consistent with a model of cis-regulation where the RNA allosterically controls access to the Shine-Dalgarno sequence, thus regulating the gene translationally. All known <i>folE</i> RNAs are present upstream of genes encoding GTP cyclohydrolase I, which performs a step in folate metabolism. folE RNAs have been shown to bind tetrahydrofolate and related molecules, leading to their designation as a second structural class of tetrahydrofolate riboswitches, called THF-II riboswitches (From Wikipedia)<sup></sup>.</font>
 <p><br /></p>
-            
+             
 > Gene association
-        
+            
 <font >Folate biosynthesis and uptake pathway. Genes under control of the THF-I (red bars) and THF-II (cyan bars) riboswitch are highlighted with relative frequency of regulatory interaction reflected by the heights of the bars<sup>[1,6]</sup>.</font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;">
 <tr >
@@ -170,9 +170,9 @@ The <i>folE</i> RNA motif, now known as the THF-II riboswitch, is a conserved RN
 </tr>
 </table>
 <p><br /></p>
-                
+                 
 > Gene regulation
-            
+                
 <font ><p>Potential mechanism of translation regulation by the THF-I riboswitch. The ribosome binding site (RBS) is showed on red<sup>[7]</sup>.</p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
@@ -181,7 +181,7 @@ The <i>folE</i> RNA motif, now known as the THF-II riboswitch, is a conserved RN
 </tr>
 </table>
 <p><br /></p>
-                    
+                        
 <font ><p>Potential mechanism of translation regulation by the THF-II riboswitch. The ribosome binding site (RBS) is showed on red<sup>[8]</sup>.</p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
@@ -190,7 +190,7 @@ The <i>folE</i> RNA motif, now known as the THF-II riboswitch, is a conserved RN
 </tr>
 </table>
 <p><br /></p>
-                    
+                         
 <p class="header_box" id="Structure and Ligand recognition">Structure and Ligand recognition</p>
 > 2D representation
         
@@ -229,7 +229,7 @@ The <i>folE</i> RNA motif, now known as the THF-II riboswitch, is a conserved RN
     <div class="main-container">
         <div class="zoom-wrapper1">
             <div class="zoom-area1">
-                <img src="/images/2D/THF-I_riboswitch_2D1.svg" alt="drawing" style="width:400px" />
+                <img src="/images/2D/THF-I_riboswitch_2D1.svg" alt="drawing" style="width:800px" />
             </div>
         </div>
     </div>
@@ -242,35 +242,6 @@ The <i>folE</i> RNA motif, now known as the THF-II riboswitch, is a conserved RN
       zoomWraper1.addEventListener("wheel", panzoom1.zoomWithWheel);
       panzoom1.zoom(0.8);
       </script>
-</td>
-<!--2D模2--------------------------->
-<td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
-<style>
-.zoom-wrapper2 {
-    width: 400px;
-    height: 400px;
-    border: 1px solid #fff;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-</style>
-    <div class="main-container">
-        <div class="zoom-wrapper2">
-            <div class="zoom-area2">
-                <img src="/images/2D/THF-I_riboswitch_2D2.svg" alt="drawing" style="width:400px" />
-            </div>
-        </div>
-    </div>
-    <script src="https://www.ribocentre.org/js/panzoom.js"></script>
-    <script type='text/javascript'>
-      var zoomWraper2 = document.querySelector(".zoom-wrapper2");
-      var panzoom2 = Panzoom(document.querySelector(".zoom-area2"), {
-      maxScale: 6
-      });
-      zoomWraper2.addEventListener("wheel", panzoom2.zoomWithWheel);
-      panzoom2.zoom(0.8);
-    </script>
 </td>
 </tr></table><br>
 <p><br /></p>
@@ -310,7 +281,7 @@ The <i>folE</i> RNA motif, now known as the THF-II riboswitch, is a conserved RN
     <div class="main-container">
         <div class="zoom-wrapper3">
             <div class="zoom-area3">
-                <img src="/images/2D/THF-II_riboswitch_2D1.svg" alt="drawing" style="width:400px" />
+                <img src="/images/2D/THF-II_riboswitch_2D1.svg" alt="drawing" style="width:800px" />
             </div>
         </div>
     </div>
@@ -324,40 +295,11 @@ The <i>folE</i> RNA motif, now known as the THF-II riboswitch, is a conserved RN
       panzoom3.zoom(0.8);
       </script>
 </td>
-<!--2D模2--------------------------->
-<td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
-<style>
-.zoom-wrapper4 {
-    width: 400px;
-    height: 400px;
-    border: 1px solid #fff;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-</style>
-    <div class="main-container">
-        <div class="zoom-wrapper4">
-            <div class="zoom-area4">
-                <img src="/images/2D/THF-II_riboswitch_2D2.svg" alt="drawing" style="width:400px" />
-            </div>
-        </div>
-    </div>
-    <script src="https://www.ribocentre.org/js/panzoom.js"></script>
-    <script type='text/javascript'>
-      var zoomWraper4 = document.querySelector(".zoom-wrapper4");
-      var panzoom4 = Panzoom(document.querySelector(".zoom-area4"), {
-      maxScale: 6
-      });
-      zoomWraper4.addEventListener("wheel", panzoom4.zoomWithWheel);
-      panzoom4.zoom(0.8);
-    </script>
-</td>
 </tr></table><br>
 <p><br /></p>
-                    
+                     
 > 3D visualisation
-            
+                
 <font >The overall structure of the THF-I riboswitch was generated from PDB ID: 4LVV at 2.10 Å resolution bound with 6<i>S</i>-folinic acid. 6<i>S</i>-folinic acid (shown in sticks) is colored in red <sup>[4]</sup>.</font>
   <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
@@ -649,9 +591,9 @@ The <i>folE</i> RNA motif, now known as the THF-II riboswitch, is a conserved RN
     </html></td>
   </tr></table><br>
   <p><br /></p>
-                
+                 
 > Binding pocket
-                
+                    
 <font ><p>Left: Surface representation of th
 e binding pocket of the THF-I riboswitch generated from PDB ID: 4LVV. 6<i>S</i>-folinic acid (6<i>S</i>-FA) (shown in sticks) is labeled in red. Right: The hydrogen bonds of two binding sites of the THF-I riboswitch bound with 6<i>S</i>-FA<sup>[4]</sup>.<br /></p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
@@ -668,9 +610,9 @@ e binding pocket of the THF-I riboswitch generated from PDB ID: 4LVV. 6<i>S</i>-
 </tr>
 </table>
 <p><br /></p>
-                    
+                     
 > Ligand recognition
-            
+                
 <font >
 <p>Chemical structures of tetrahydrofolate (THF) and its analogs. The apparent K<sub>D</sub> of each compound of THF-I and THF-II riboswitch is shown on bottom<sup>[1,4,6]</sup>.<br /><br /></p>
 </font>
@@ -682,9 +624,9 @@ e binding pocket of the THF-I riboswitch generated from PDB ID: 4LVV. 6<i>S</i>-
 </tr>
 </table>
 <p><br /></p>
-                
+                 
 <p class="header_box" id="references">References</p>
-            
+                
 <p><strong>[1] A eubacterial riboswitch class that senses the coenzyme tetrahydrofolate.</strong><br />
 Ames, T. D., Rodionov, D. A., Weinberg, Z. & Breaker, R. R.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/20659680/" target="_blank">Chem. Biol. 17, (2010).</a>

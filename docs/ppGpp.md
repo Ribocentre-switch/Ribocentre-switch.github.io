@@ -6,7 +6,7 @@ author: Yuhang Luo, Yuanlin He
 permalink: /docs/ppGpp/
 ---
 <p style="font-size: 24px"><strong>Rfam ID: [nan](https://rfam.xfam.org/family/nan,target="_blank")</strong> (nan)<br /></p>
-
+ 
 <br />
 <html>
 <head>
@@ -44,7 +44,7 @@ permalink: /docs/ppGpp/
   </style>
 </head>
 <body>
-  <p style="font-size: 16px">Click into different sections:</p>
+  <p style="font-size: 16px">Click the buttons to navigate to different sections:</p>
   
   <div class="button-container">
     <a class="button" href="#timeline" >Timeline</a>
@@ -136,13 +136,13 @@ permalink: /docs/ppGpp/
 </div>
 </html>
 <p><br /></p>
-        
+         
 <p class="header_box" id="description">Description</p>
 <font >ppGpp riboswitches form a class of riboswitch that specifically bind guanosine tetraphosphate(ppGpp),which is a well-known alarmone produced during various stresses including stringent response,causing by a shortage of amino acids. ppGpp acts on many levels and affects replication,transcription and translation.ppGpp riboswitch were originally identified by bioinformatics as a conserved RNA-like structure called the "The ykkC motif"，which was proposed to represent the highly-conserved aptamer domain of a riboswitch candidate. ykkC RNAs have been organized into at least four major categories called subtypes 2a through 2d. Subtype 2a RNAs are riboswitches that sense the bacterial alarmone ppGpp, and typically regulate amino acid biosynthesisgenes.ppGpp riboswitches control genes involved in biosynthesis and transport of branched-chain amino acids and genes encoding for glutamate synthase and The ATP-binding cassette transporters（ABC transporters）<sup>[1, 3-5]</sup>.</font>
 <p><br /></p>
-            
+             
 > Gene association
-        
+            
 <font >This figure depicts genes predicted to be regulated by the ppGpp riboswitch<sup>[4]</sup>.</font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;">
 <tr >
@@ -152,9 +152,9 @@ permalink: /docs/ppGpp/
 </tr>
 </table>
 <p><br /></p>
-                
+                 
 > Gene regulation
-            
+                
 <font ><p>Putative mechanisms for regulation of gene expression by ppGpp riboswitches<sup>[5]</sup>.</p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
@@ -163,7 +163,7 @@ permalink: /docs/ppGpp/
 </tr>
 </table>
 <p><br /></p>
-                    
+                         
 <p class="header_box" id="Structure and Ligand recognition">Structure and Ligand recognition</p>
 > 2D representation
         
@@ -202,7 +202,7 @@ permalink: /docs/ppGpp/
     <div class="main-container">
         <div class="zoom-wrapper1">
             <div class="zoom-area1">
-                <img src="/images/2D/ppGpp_riboswitch_2D1.svg" alt="drawing" style="width:400px" />
+                <img src="/images/2D/ppGpp_riboswitch_2D1.svg" alt="drawing" style="width:800px" />
             </div>
         </div>
     </div>
@@ -216,40 +216,11 @@ permalink: /docs/ppGpp/
       panzoom1.zoom(0.8);
       </script>
 </td>
-<!--2D模2--------------------------->
-<td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
-<style>
-.zoom-wrapper2 {
-    width: 400px;
-    height: 400px;
-    border: 1px solid #fff;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-</style>
-    <div class="main-container">
-        <div class="zoom-wrapper2">
-            <div class="zoom-area2">
-                <img src="/images/2D/ppGpp_riboswitch_2D2.svg" alt="drawing" style="width:400px" />
-            </div>
-        </div>
-    </div>
-    <script src="https://www.ribocentre.org/js/panzoom.js"></script>
-    <script type='text/javascript'>
-      var zoomWraper2 = document.querySelector(".zoom-wrapper2");
-      var panzoom2 = Panzoom(document.querySelector(".zoom-area2"), {
-      maxScale: 6
-      });
-      zoomWraper2.addEventListener("wheel", panzoom2.zoomWithWheel);
-      panzoom2.zoom(0.8);
-    </script>
-</td>
 </tr></table><br>
 <p><br /></p>
-                    
+                     
 > 3D visualisation
-            
+                
 <font >The overall structure of the ppGpp riboswitch was generated from PDB ID: 6DMC at 2.20 Å bound with ppGpp. ppGpp (shown in sticks) is labeled in red <sup>[5]</sup>.</font>
   <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
@@ -385,9 +356,9 @@ permalink: /docs/ppGpp/
     </html></td>
   </tr></table><br>
   <p><br /></p>
-                
+                 
 > Binding pocket
-                
+                    
 <font ><p>Left: Surface representation of the binding pocket of the ppGpp riboswitch generated from PDB ID: 6DMC. ppGpp (shown in sticks) is labeled in red. Right: The hydrogen bonds of the binding sites of the ppGpp riboswitch bound with ppGpp<sup>[5]</sup>.<br /></p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/ppGpp_riboswitch_binding_pockets1.svg" alt="drawing" style="width:400px"  px="" /></td>
@@ -395,9 +366,9 @@ permalink: /docs/ppGpp/
 </tr>
 </table>
 <p><br /></p>
-                    
+                     
 > Ligand recognition
-            
+                
 <font >
 <p>Chemical structures of ppGpp and its analogs. The apparent K<sub>D</sub> is shown on bottom<sup>[5]</sup>.<br /><br /></p>
 </font>
@@ -409,9 +380,9 @@ permalink: /docs/ppGpp/
 </tr>
 </table>
 <p><br /></p>
-                
+                 
 <p class="header_box" id="references">References</p>
-            
+                
 <p><strong>[1] New RNA motifs suggest an expanded scope for riboswitches in bacterial genetic control.</strong><br />
 Barrick, J. E. et al.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/15096624/" target="_blank">Proc. Natl. Acad. Sci. U. S. A. 101, 6421–6426 (2004).</a>

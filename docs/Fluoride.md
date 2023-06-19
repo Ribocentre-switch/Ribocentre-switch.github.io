@@ -6,7 +6,7 @@ author: Yuanlin He, Xiaowei Lin
 permalink: /docs/Fluoride/
 ---
 <p style="font-size: 24px"><strong>Rfam ID: [RF01734](https://rfam.xfam.org/family/RF01734,target="_blank")</strong> (Fluoride riboswitch (crcB))<br /></p>
-
+ 
 <br />
 <html>
 <head>
@@ -44,7 +44,7 @@ permalink: /docs/Fluoride/
   </style>
 </head>
 <body>
-  <p style="font-size: 16px">Click into different sections:</p>
+  <p style="font-size: 16px">Click the buttons to navigate to different sections:</p>
   
   <div class="button-container">
     <a class="button" href="#timeline" >Timeline</a>
@@ -144,16 +144,16 @@ permalink: /docs/Fluoride/
 </div>
 </html>
 <p><br /></p>
-        
+         
 <p class="header_box" id="description">Description</p>
 <font >  The fluoride riboswitch (formerly called the crcB RNA motif) is a conserved RNA structure identified by bioinformatics in a wide variety of bacteria and archaea. These RNAs were later shown to function as riboswitches that sense fluoride ions. These "fluoride riboswitches" increase expression of downstream genes when fluoride levels are elevated, and the genes are proposed to help mitigate the toxic effects of very high levels of fluoride.
   Many genes are presumed to be regulated by these fluoride riboswitches. Two of the most common encode proteins that are proposed to function by removing fluoride from the cell. These proteins are CrcB proteins and a fluoride-specific subtype of chloride channels referred to as EriC<sup>F</sup> or ClC<sup>F</sup>. ClC<sup>F</sup> proteins have been shown to function as fluoride-specific fluoride/proton antiporters.
   The three-dimensional structure of a fluoride riboswitch has been solved at atomic resolution by X-ray crystallography.
   Fluoride riboswitches are found in many organisms within the domains bacteria and archaea, indicating that many of these organisms sometimes encounter elevated levels of fluoride. Of particular interest is <i>Streptococcus mutans</i>, a major cause of dental caries. It has been shown that sodium fluoride has inhibited the growth rate of <i>S. mutans</i> using glucose as an energy and carbon source. However, it is also noteworthy that many organisms that do not encounter fluoride in the human mouth carry fluoride riboswitches or resistance genes (From Wikipedia)<sup></sup>.</font>
 <p><br /></p>
-            
+             
 > Gene association
-        
+            
 <font >Genes most commonly associated with fluoride riboswitches in bacteria and archaea as classified by the Conserved Domain Database. Left: 62% of all riboswitch-associated genes fall into twelve common categories as noted with sections proportional to the number of operons encoding the specified protein. These genes are predominantly bacteria. MFS: major facilitator superfamily; USP: universal stress protein. Right: fluoride riboswitch-associated genes from archaea<sup>[2]</sup>.</font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;">
 <tr >
@@ -163,9 +163,9 @@ permalink: /docs/Fluoride/
 </tr>
 </table>
 <p><br /></p>
-                
+                 
 > Gene regulation
-            
+                
 <font ><p>The fluoride riboswitch from <i>B. cereus</i> regulates gene expression at the transcriptional level. Stabilization of the pseudoknot (PK) upon F<sup>-</sup> binding (F<sup>-</sup>) prevents the formation of an intrinsic terminator hairpin, leading to the transcription of the downstream gene<sup>[6]</sup>.</p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
@@ -174,7 +174,7 @@ permalink: /docs/Fluoride/
 </tr>
 </table>
 <p><br /></p>
-                    
+                         
 <p class="header_box" id="Structure and Ligand recognition">Structure and Ligand recognition</p>
 > 2D representation
         
@@ -213,7 +213,7 @@ permalink: /docs/Fluoride/
     <div class="main-container">
         <div class="zoom-wrapper1">
             <div class="zoom-area1">
-                <img src="/images/2D/Fluoride_riboswitch_2D1.svg" alt="drawing" style="width:400px" />
+                <img src="/images/2D/Fluoride_riboswitch_2D1.svg" alt="drawing" style="width:800px" />
             </div>
         </div>
     </div>
@@ -227,40 +227,11 @@ permalink: /docs/Fluoride/
       panzoom1.zoom(0.8);
       </script>
 </td>
-<!--2D模2--------------------------->
-<td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
-<style>
-.zoom-wrapper2 {
-    width: 400px;
-    height: 400px;
-    border: 1px solid #fff;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-</style>
-    <div class="main-container">
-        <div class="zoom-wrapper2">
-            <div class="zoom-area2">
-                <img src="/images/2D/Fluoride_riboswitch_2D2.svg" alt="drawing" style="width:400px" />
-            </div>
-        </div>
-    </div>
-    <script src="https://www.ribocentre.org/js/panzoom.js"></script>
-    <script type='text/javascript'>
-      var zoomWraper2 = document.querySelector(".zoom-wrapper2");
-      var panzoom2 = Panzoom(document.querySelector(".zoom-area2"), {
-      maxScale: 6
-      });
-      zoomWraper2.addEventListener("wheel", panzoom2.zoomWithWheel);
-      panzoom2.zoom(0.8);
-    </script>
-</td>
 </tr></table><br>
 <p><br /></p>
-                    
+                     
 > 3D visualisation
-            
+                
 <font >The overall structure of the fluoride riboswitch was generated from PDB ID: 4ENC at 2.3 Å resolution in the ligand bound state. The fluoride ion shown by a red ball and directly-coordinated metal ions shown by green balls <sup>[3]</sup>.</font>
   <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
@@ -463,9 +434,9 @@ permalink: /docs/Fluoride/
     </html></td>
   </tr></table><br>
   <p><br /></p>
-                
+                 
 > Binding pocket
-                
+                    
 <font ><p>Left: Surface representation of the binding pocket of the fluoride riboswitch generated from PDB ID: 4ENC. The fluoride ion is labeled in red. Right: A close-up stereo view of the ligand-binding pocket, with the emphasis on the fluoride ion, three coordinating metal ions and five inwardly-pointing backbone phosphates<sup>[3]</sup>.<br /></p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/Fluoride_riboswitch_binding_pockets1.svg" alt="drawing" style="width:400px"  px="" /></td>
@@ -473,9 +444,9 @@ permalink: /docs/Fluoride/
 </tr>
 </table>
 <p><br /></p>
-                    
+                     
 > Ligand recognition
-            
+                
 <font >
 <p>The fluoride riboswitch from <i>Thermotoga petrophila</i> has affinity for fluoride and rejects other halogen anions (chloride, bromide, iodide), even when they are added at high concentrations<sup>[2,4]</sup>.<br /><br /></p>
 </font>
@@ -487,9 +458,9 @@ permalink: /docs/Fluoride/
 </tr>
 </table>
 <p><br /></p>
-                
+                 
 <p class="header_box" id="references">References</p>
-            
+                
 <p><strong>[1] Comparative genomics reveals 104 candidate structured RNAs from bacteria, archaea, and their metagenomes.</strong><br />
 Weinberg, Z. et al.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/20230605/" target="_blank">Genome Biol. 11, R31 (2010).</a>

@@ -8,7 +8,7 @@ permalink: /docs/PreQ/
 <p style="font-size: 24px"><strong>Rfam ID: [RF00522](https://rfam.xfam.org/family/RF00522,target="_blank")</strong> (PreQ1 riboswitch)<br /></p>
 <p style="font-size: 24px"><strong>&emsp;&emsp;&emsp;&emsp;[RF01054](https://rfam.xfam.org/family/RF01054,target="_blank")</strong> (preQ1-II (pre queuosine) riboswitch ) <br /></p>
 <p style="font-size: 24px"><strong>&emsp;&emsp;&emsp;&emsp;[RF02680](https://rfam.xfam.org/family/RF02680,target="_blank")</strong> (PreQ1-III riboswitch) <br /></p>
-
+ 
 <br />
 <html>
 <head>
@@ -46,7 +46,7 @@ permalink: /docs/PreQ/
   </style>
 </head>
 <body>
-  <p style="font-size: 16px">Click into different sections:</p>
+  <p style="font-size: 16px">Click the buttons to navigate to different sections:</p>
   
   <div class="button-container">
     <a class="button" href="#timeline" >Timeline</a>
@@ -226,13 +226,13 @@ permalink: /docs/PreQ/
 </div>
 </html>
 <p><br /></p>
-        
+         
 <p class="header_box" id="description">Description</p>
 <font >PreQ<sub>1</sub> is a guanine-derived nucleobase that is known to be incorporated in the wobble position of tRNAs containing the GUN anticodon sequence and then further modified to yield queuosine (Q). Three subcategories of the PreQ<sub>1</sub> riboswitch exist: PreQ<sub>1</sub>-I, PreQ<sub>1</sub>-II, and PreQ<sub>1</sub>-III. PreQ<sub>1</sub>-I has a distinctly small aptamer, ranging from 25 to 45 nucleotides long, and it is represented by RNAs sub-classified as ‘type 1’, ‘type 2’ and ‘type 3’. PreQ<sub>1</sub>-II riboswitch, only found in <i>Lactobacillales</i>, has a larger and more complex consensus sequence and structure than preQ<sub>1</sub>-I riboswitch, with an average of 58 nucleotides composing its aptamer, which forms as many as five base-paired substructures. PreQ<sub>1</sub>-III riboswitch has a distinct structure and is also larger in aptamer size than preQ<sub>1</sub>-I riboswitch, ranging from 33 to 58 nucleotides (from Wikipedia)<sup></sup>.</font>
 <p><br /></p>
-            
+             
 > Gene association
-        
+            
 <font >PreQ<sub>1</sub>-I regulates expression of genes (which have been named <i>queC</i>, <i>queD</i>, <i>queE</i> and <i>queF</i>) involved in biosynthesis of the nucleoside queuosine (Q) from GTP. Unlike other preQ<sub>1</sub>-I riboswitches, PreQ<sub>1</sub>-I type 3 RNAs were found only in association with <i>yhhQ</i> genes, which are proposed to code for inner membrane proteins of unknown function. PreQ<sub>1</sub>-II was identified upstream of genes classified as COG4708, which are predicted to be a transporter of preQ<sub>1</sub>. Most sequenced examples of preQ<sub>1</sub>-III riboswitches are obtained from environmental DNA samples, and known examples of preQ<sub>1</sub>-III riboswitches are found upstream of <i>queT</i> genes, which are expected to encode transporters of a queuosine derivative<sup>[1, 2, 12]</sup>.</font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;">
 <tr >
@@ -242,9 +242,9 @@ permalink: /docs/PreQ/
 </tr>
 </table>
 <p><br /></p>
-                
+                 
 > Gene regulation
-            
+                
 <font ><p>PreQ<sub>1</sub>-I riboswitches control gene expression through transcriptional termination or translational termination. The Shine-Dalgarno (SD) sequence is shaded in orange<sup>[1, 12]</sup>.</p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
@@ -256,7 +256,7 @@ permalink: /docs/PreQ/
 </tr>
 </table>
 <p><br /></p>
-                    
+                        
 <font ><p>Mechanisms for regulation of gene expression by PreQ<sub>1</sub>-II and PreQ<sub>1</sub>-III riboswitches. The Shine-Dalgarno sequence (SD) is shaded in orange<sup>[2, 12-13]</sup>.</p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
@@ -268,7 +268,7 @@ permalink: /docs/PreQ/
 </tr>
 </table>
 <p><br /></p>
-                    
+                         
 <p class="header_box" id="Structure and Ligand recognition">Structure and Ligand recognition</p>
 > 2D representation
         
@@ -307,7 +307,7 @@ permalink: /docs/PreQ/
     <div class="main-container">
         <div class="zoom-wrapper1">
             <div class="zoom-area1">
-                <img src="/images/2D/PreQ1_riboswitch_2D1.svg" alt="drawing" style="width:400px" />
+                <img src="/images/2D/PreQ1_riboswitch_2D1.svg" alt="drawing" style="width:800px" />
             </div>
         </div>
     </div>
@@ -320,35 +320,6 @@ permalink: /docs/PreQ/
       zoomWraper1.addEventListener("wheel", panzoom1.zoomWithWheel);
       panzoom1.zoom(0.8);
       </script>
-</td>
-<!--2D模2--------------------------->
-<td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
-<style>
-.zoom-wrapper2 {
-    width: 400px;
-    height: 400px;
-    border: 1px solid #fff;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-</style>
-    <div class="main-container">
-        <div class="zoom-wrapper2">
-            <div class="zoom-area2">
-                <img src="/images/2D/PreQ1_riboswitch_2D2.svg" alt="drawing" style="width:400px" />
-            </div>
-        </div>
-    </div>
-    <script src="https://www.ribocentre.org/js/panzoom.js"></script>
-    <script type='text/javascript'>
-      var zoomWraper2 = document.querySelector(".zoom-wrapper2");
-      var panzoom2 = Panzoom(document.querySelector(".zoom-area2"), {
-      maxScale: 6
-      });
-      zoomWraper2.addEventListener("wheel", panzoom2.zoomWithWheel);
-      panzoom2.zoom(0.8);
-    </script>
 </td>
 </tr></table><br>
 <p><br /></p>
@@ -388,7 +359,7 @@ permalink: /docs/PreQ/
     <div class="main-container">
         <div class="zoom-wrapper3">
             <div class="zoom-area3">
-                <img src="/images/2D/PreQ1_riboswitch_2D3.svg" alt="drawing" style="width:400px" />
+                <img src="/images/2D/PreQ1_riboswitch_2D3.svg" alt="drawing" style="width:800px" />
             </div>
         </div>
     </div>
@@ -401,35 +372,6 @@ permalink: /docs/PreQ/
       zoomWraper3.addEventListener("wheel", panzoom3.zoomWithWheel);
       panzoom3.zoom(0.8);
       </script>
-</td>
-<!--2D模2--------------------------->
-<td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
-<style>
-.zoom-wrapper4 {
-    width: 400px;
-    height: 400px;
-    border: 1px solid #fff;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-</style>
-    <div class="main-container">
-        <div class="zoom-wrapper4">
-            <div class="zoom-area4">
-                <img src="/images/2D/PreQ1_riboswitch_2D4.svg" alt="drawing" style="width:400px" />
-            </div>
-        </div>
-    </div>
-    <script src="https://www.ribocentre.org/js/panzoom.js"></script>
-    <script type='text/javascript'>
-      var zoomWraper4 = document.querySelector(".zoom-wrapper4");
-      var panzoom4 = Panzoom(document.querySelector(".zoom-area4"), {
-      maxScale: 6
-      });
-      zoomWraper4.addEventListener("wheel", panzoom4.zoomWithWheel);
-      panzoom4.zoom(0.8);
-    </script>
 </td>
 </tr></table><br>
 <p><br /></p>
@@ -469,7 +411,7 @@ permalink: /docs/PreQ/
     <div class="main-container">
         <div class="zoom-wrapper5">
             <div class="zoom-area5">
-                <img src="/images/2D/PreQ1_riboswitch_2D5.svg" alt="drawing" style="width:400px" />
+                <img src="/images/2D/PreQ1_riboswitch_2D5.svg" alt="drawing" style="width:800px" />
             </div>
         </div>
     </div>
@@ -483,40 +425,11 @@ permalink: /docs/PreQ/
       panzoom5.zoom(0.8);
       </script>
 </td>
-<!--2D模2--------------------------->
-<td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
-<style>
-.zoom-wrapper6 {
-    width: 400px;
-    height: 400px;
-    border: 1px solid #fff;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-</style>
-    <div class="main-container">
-        <div class="zoom-wrapper6">
-            <div class="zoom-area6">
-                <img src="/images/2D/PreQ1_riboswitch_2D6.svg" alt="drawing" style="width:400px" />
-            </div>
-        </div>
-    </div>
-    <script src="https://www.ribocentre.org/js/panzoom.js"></script>
-    <script type='text/javascript'>
-      var zoomWraper6 = document.querySelector(".zoom-wrapper6");
-      var panzoom6 = Panzoom(document.querySelector(".zoom-area6"), {
-      maxScale: 6
-      });
-      zoomWraper6.addEventListener("wheel", panzoom6.zoomWithWheel);
-      panzoom6.zoom(0.8);
-    </script>
-</td>
 </tr></table><br>
 <p><br /></p>
-                    
+                     
 > 3D visualisation
-            
+                
 <font >The overall structure of the PreQ<sub>1</sub>-I riboswitch was generated from PDB ID: 3FU2 at 2.85 Å resolution bound with PreQ<sub>1</sub>. PreQ<sub>1</sub> (shown in sticks) is labeled in red <sup>[3]</sup>.</font>
   <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
@@ -957,9 +870,9 @@ permalink: /docs/PreQ/
     </html></td>
   </tr></table><br>
   <p><br /></p>
-                
+                 
 > Binding pocket
-                
+                    
 <font ><p>Left: Surface representation of the binding pocket of the PreQ<sub>1</sub>-I riboswitch generated from PDB ID: 3FU2. PreQ<sub>1</sub> (shown in sticks) is labeled in red. Right: The hydrogen bonds of the binding sites of the PreQ<sub>1</sub>-I riboswitch bound with PreQ<sub>1</sub><sup>[3]</sup>.<br /></p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/PreQ1_riboswitch_binding_pockets1.svg" alt="drawing" style="width:400px"  px="" /></td>
@@ -983,9 +896,9 @@ permalink: /docs/PreQ/
 </tr>
 </table>
 <p><br /></p>
-                    
+                     
 > Ligand recognition
-            
+                
 <font >
 <p>Chemical structures of PreQ<sub>1</sub> and its analogs. The apparent K<sub>D</sub> of each compound of three classes of preQ<sub>1</sub> riboswitches is shown on bottom<sup>[1-3, 12-13, 13]</sup>.<br /><br /></p>
 </font>
@@ -997,9 +910,9 @@ permalink: /docs/PreQ/
 </tr>
 </table>
 <p><br /></p>
-                
+                 
 <p class="header_box" id="references">References</p>
-            
+                
 <p><strong>[1] A riboswitch selective for the queuosine precursor preQ<sub>1</sub> contains an unusually small aptamer domain</strong><br />
 Roth, A. et al<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/17384645/" target="_blank">Nat. Struct. Mol. Biol. 14, (2007)</a>

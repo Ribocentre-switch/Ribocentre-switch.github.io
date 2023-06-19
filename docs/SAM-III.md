@@ -6,7 +6,7 @@ author: Zhizhong Lu, Wenjian Liao
 permalink: /docs/SAM-III/
 ---
 <p style="font-size: 24px"><strong>Rfam ID: [RF01767](https://rfam.xfam.org/family/RF01767,target="_blank")</strong> (SMK box translational riboswitch (SAM-III))<br /></p>
-
+ 
 <br />
 <html>
 <head>
@@ -44,7 +44,7 @@ permalink: /docs/SAM-III/
   </style>
 </head>
 <body>
-  <p style="font-size: 16px">Click into different sections:</p>
+  <p style="font-size: 16px">Click the buttons to navigate to different sections:</p>
   
   <div class="button-container">
     <a class="button" href="#timeline" >Timeline</a>
@@ -160,13 +160,13 @@ permalink: /docs/SAM-III/
 </div>
 </html>
 <p><br /></p>
-        
+         
 <p class="header_box" id="description">Description</p>
 <font >The S<sub>MK</sub>box riboswitch (also known as SAM-III) is an RNA element that regulates gene expression in bacteria. The S<sub>MK</sub> box riboswitch is found in the 5' UTR of the <i>MetK</i> gene in lactic acid bacteria. The structure of this element changes upon binding to S-adenosyl methionine (SAM) to a conformation that blocks the shine-dalgarno sequence and blocks translation of the gene. There are other known SAM-binding riboswitches such as SAM-I and SAM-II, but these appear to share no similarity in sequence or structure to SAM-III. (from WiKi)<sup></sup>.</font>
 <p><br /></p>
-            
+             
 > Gene association
-        
+            
 <font >Pathways for sulphate assimilation and biosynthesis of cysteine and methionine. SAM-III riboswitch (red bar) is involved in multiple gene regulation in the synthetic pathway<sup>[1]</sup>.</font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;">
 <tr >
@@ -176,9 +176,9 @@ permalink: /docs/SAM-III/
 </tr>
 </table>
 <p><br /></p>
-                
+                 
 > Gene regulation
-            
+                
 <font ><p>Translation mechanism of the <i>E.faecalis</i> S<sub>MK</sub> box/SAM-III riboswitch, the AUG start codon of <i>metK</i> is indicated in yellow, SD sequence (green) is accessible for translation initiation<sup>[5]</sup>.</p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
@@ -187,7 +187,7 @@ permalink: /docs/SAM-III/
 </tr>
 </table>
 <p><br /></p>
-                    
+                         
 <p class="header_box" id="Structure and Ligand recognition">Structure and Ligand recognition</p>
 > 2D representation
         
@@ -226,7 +226,7 @@ permalink: /docs/SAM-III/
     <div class="main-container">
         <div class="zoom-wrapper1">
             <div class="zoom-area1">
-                <img src="/images/2D/SAM-III_riboswitch_2D1.svg" alt="drawing" style="width:400px" />
+                <img src="/images/2D/SAM-III_riboswitch_2D1.svg" alt="drawing" style="width:800px" />
             </div>
         </div>
     </div>
@@ -240,40 +240,11 @@ permalink: /docs/SAM-III/
       panzoom1.zoom(0.8);
       </script>
 </td>
-<!--2D模2--------------------------->
-<td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
-<style>
-.zoom-wrapper2 {
-    width: 400px;
-    height: 400px;
-    border: 1px solid #fff;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-</style>
-    <div class="main-container">
-        <div class="zoom-wrapper2">
-            <div class="zoom-area2">
-                <img src="/images/2D/SAM-III_riboswitch_2D2.svg" alt="drawing" style="width:400px" />
-            </div>
-        </div>
-    </div>
-    <script src="https://www.ribocentre.org/js/panzoom.js"></script>
-    <script type='text/javascript'>
-      var zoomWraper2 = document.querySelector(".zoom-wrapper2");
-      var panzoom2 = Panzoom(document.querySelector(".zoom-area2"), {
-      maxScale: 6
-      });
-      zoomWraper2.addEventListener("wheel", panzoom2.zoomWithWheel);
-      panzoom2.zoom(0.8);
-    </script>
-</td>
 </tr></table><br>
 <p><br /></p>
-                    
+                     
 > 3D visualisation
-            
+                
 <font >2.25-Å resolution crystal structure of an SAM-III riboswitch complexed with S-adenosylmethionine. The figure reference from PDB ID: 3E5C, SAM (shown in sticks) is labeled in red <sup>[3]</sup>.</font>
   <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
@@ -403,9 +374,9 @@ permalink: /docs/SAM-III/
     </html></td>
   </tr></table><br>
   <p><br /></p>
-                
+                 
 > Binding pocket
-                
+                    
 <font ><p>Left: Surface representation of the binding pocket of the SAM-III riboswitch generated from PDB ID: 3E5C. S-adenosylmethionine (SAM) (shown in sticks) is labeled in red. Right: Hydrogen bonding between SAM and adjacent bases<sup>[3]</sup>.<br /></p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/SAM-III_riboswitch_binding_pockets1.svg" alt="drawing" style="width:400px"  px="" /></td>
@@ -413,9 +384,9 @@ permalink: /docs/SAM-III/
 </tr>
 </table>
 <p><br /></p>
-                    
+                     
 > Ligand recognition
-            
+                
 <font >
 <p>Chemical structures of various compounds used to probe the binding characteristics of the SAM-III riboswitch<sup>[6]</sup>.<br /><br /></p>
 </font>
@@ -427,9 +398,9 @@ permalink: /docs/SAM-III/
 </tr>
 </table>
 <p><br /></p>
-                
+                 
 <p class="header_box" id="references">References</p>
-            
+                
 <p><strong>[1] The S(MK) box is a new SAM-binding RNA for translational regulation of SAM synthetase.</strong><br />
 Fuchs, R. T., Grundy, F. J., & Henkin, T. M.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/16491091/" target="_blank">Nat. Struct. Mol. Biol. 13, 226–233 (2006).</a>
