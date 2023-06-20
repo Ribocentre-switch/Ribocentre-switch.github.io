@@ -10,7 +10,7 @@
 	.st4{fill:#0A0BFF;}
 	.st5{fill:#09FEFE;}
 </style>
-<image style="overflow:visible;enable-background:new    ;" width="2000" height="1500" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAB9cAAAXhCAYAAAAgXRohAAAACXBIWXMAAESXAABElwET0Vj0AAAA
+<image style="overflow:visible;enable-background:new    ;" width="2007" height="1505" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAB9cAAAXhCAYAAAAgXRohAAAACXBIWXMAAESXAABElwET0Vj0AAAA
 GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAASgz9JREFUeNrsvUvMLct137dW7/29
 zjn3wcflEUWJsi5lRo/EsoLINoEkThzQiAEhURIENEBYRjwwPLEBe0BAnnCeScZSZjYgwAgMD8QB
 gShG4ACRE8WUpVgPUqIkkiJ1D6l7Sd57Ht9jd690dXd1rVq1VlV1733OvaG6Dvrs3t299+6vu15d
@@ -21297,10 +21297,15 @@ EevTkurctJSCQrGBD5orhbHjUuDWiR2wSnDjXJnFJUDLd4/GAxcPtd9KsV7LrZ4g1eNv/9o1mH/p
 pXqedUqyczmxwaZWtxDjHcgn6KV9gjBPuu6cap0j2Cnxbh1wHNM6NuFjGNL5RNVdyA0CuyW8hYC3
 xATJCj435uGYZXmXS64buY4gqZjAlWntC4vSXmpLknan2h5Lvfeq9hh+dgupQ4JbwzscDofD4XA4
 HA6Hw+Gw4f95FTgcDofD4XA4HA6Hw+FwOBwOh8PhcDgcDofDkcD/B01qEWbaGAZPAAAAAElFTkSu
-QmCC" transform="matrix(0.1616 0 0 0.1616 61.6103 83.3221)">
+QmCC" transform="matrix(0.161 0 0 0.161 61.6103 83.3422)">
 </image>
 <text transform="matrix(1 0 0 1 40.1525 227.2093)" class="st0 st1 st2">P1</text>
 <text transform="matrix(1 0 0 1 32.6628 128.9255)" class="st3 st1 st2">P1a</text>
 <text transform="matrix(1 0 0 1 340.7828 175.7967)" class="st4 st1 st2">P3</text>
 <text transform="matrix(1 0 0 1 41.6927 313.8876)" class="st5 st1 st2">P2</text>
+<text transform="matrix(1 0 0 1 6.2951 22.1816)" class="st1 st2">Guanidine-I Riboswitch</text>
+<text transform="matrix(1 0 0 1 271.116 227.2095)" class="st1 st2">G73</text>
+<text transform="matrix(1 0 0 1 192.337 238.9998)" class="st1 st2">G45</text>
+<text transform="matrix(1 0 0 1 270.0618 154.489)" class="st1 st2">G90</text>
+<text transform="matrix(1 0 0 1 180.221 193.427)" class="st1 st2">Guan</text>
 </svg>

@@ -15,11 +15,11 @@
 	.st9{font-size:11.9865px;}
 	.st10{fill:#BC3B36;stroke:#BC3B36;stroke-miterlimit:10;}
 	.st11{fill:#FFFFFF;}
-	.st12{font-size:8.955px;}
+	.st12{font-size:8.9562px;}
 	.st13{fill:#251E1C;}
 	.st14{font-size:14px;}
 </style>
-<text transform="matrix(1 0 0 1 26.0122 63.7968)" class="st0 st1">Guanidine-III riboswitch</text>
+<text transform="matrix(1 0 0 1 7.2852 25.4402)" class="st0 st1">Guanidine-III Riboswitch</text>
 <line class="st2" x1="46.9" y1="227.3" x2="75.5" y2="227.3"/>
 <line class="st2" x1="46.9" y1="241.4" x2="75.5" y2="241.4"/>
 <line class="st2" x1="45.9" y1="214.8" x2="74.4" y2="214.8"/>
@@ -31,7 +31,7 @@
 <line class="st2" x1="129.8" y1="211.3" x2="158.3" y2="211.3"/>
 <line class="st2" x1="130.9" y1="198.3" x2="159.5" y2="198.3"/>
 <line class="st3" x1="130.6" y1="191" x2="130.6" y2="248.1"/>
-<path class="st3" d="M130.6,191.4c-6.3-4.6-10.7-12.5-10.7-21.3c0-14.3,10.8-25.8,24.1-25.8c13.3,0,24.1,11.5,24.1,25.8
+<path class="st3" d="M130.6,191.4c-6.3-4.6-10.7-12.5-10.7-21.3c0-14.3,10.8-25.8,24.1-25.8s24.1,11.5,24.1,25.8
 	c0,8.5-3.7,16-9.7,20.6"/>
 <line class="st4" x1="74.6" y1="248.1" x2="130.8" y2="248.1"/>
 <path class="st3" d="M46.9,194.6C34.6,189.5,26,177.3,26,163.2c0-18.9,15.3-34.2,34.2-34.2s34.2,15.3,34.2,34.2
@@ -57,8 +57,8 @@
 <line class="st4" x1="265.7" y1="194.4" x2="284.5" y2="205.1"/>
 <text transform="matrix(1 0 0 1 225.658 245.2301)" class="st0 st5">P1</text>
 <text transform="matrix(1 0 0 1 306.2197 164.6589)" class="st0 st5">P2</text>
-<text transform="matrix(1 0 0 1 261.1346 310.9532)" class="st6 st0 st1">‘ON’</text>
-<text transform="matrix(1 0 0 1 74.4424 311.1934)" class="st6 st0 st1">‘OFF’</text>
+<text transform="matrix(1 0 0 1 241.2428 311.4337)" class="st6 st0 st1">‘ON’</text>
+<text transform="matrix(1 0 0 1 61.35 311.674)" class="st6 st0 st1">‘OFF’</text>
 <line class="st7" x1="309.6" y1="124.3" x2="344.9" y2="124.3"/>
 <text transform="matrix(1 0 0 1 314.4174 120.0062)" class="st8 st0 st9">SDS</text>
 <line class="st7" x1="158.5" y1="200.4" x2="158.5" y2="235.7"/>
@@ -66,7 +66,7 @@
 <g>
 	<path class="st10" d="M253.1,159.4c4.5,0,7.9,5.9,7.9,13.3c0,7.3-3.6,13.3-7.9,13.3c-4.5,0-7.9-5.9-7.9-13.3
 		C245.2,165.3,248.7,159.4,253.1,159.4z"/>
-	<text transform="matrix(-1.856269e-02 -1.0934 0.9999 -1.697485e-02 256.0292 184.6662)" class="st11 st0 st12">Guan</text>
+	<text transform="matrix(-1.856023e-02 -1.0934 0.9999 -1.697260e-02 256.0284 184.6657)" class="st11 st0 st12">Guan</text>
 </g>
 <text transform="matrix(1 0 0 1 32.6054 267.7356)" class="st13 st0 st14">5’</text>
 <text transform="matrix(1 0 0 1 236.7668 281.511)" class="st13 st0 st14">5’</text>

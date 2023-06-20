@@ -14,7 +14,7 @@
 	.st8{fill:#231E1C;}
 	.st9{fill:#BC3B36;stroke:#BC3B36;stroke-miterlimit:10;}
 	.st10{fill:#FFFFFF;}
-	.st11{font-size:8.955px;}
+	.st11{font-size:8.9562px;}
 	.st12{fill:#251E1C;}
 	.st13{font-size:14px;}
 </style>
@@ -70,10 +70,10 @@
 <text transform="matrix(1 0 0 1 215.6931 257.058)" class="st4 st5 st6">anti-SD</text>
 <text transform="matrix(1 0 0 1 57.7389 268.3768)" class="st4 st5 st6">SD</text>
 <text transform="matrix(1 0 0 1 349.166 146.4174)" class="st4 st5 st6">SD</text>
-<text transform="matrix(1 0 0 1 31.1246 77.6504)" class="st5 st7">Guanidine-II riboswitch</text>
+<text transform="matrix(1 0 0 1 11.201 27.79)" class="st5 st7">Guanidine-II Riboswitch</text>
 <line class="st3" x1="228.5" y1="235.5" x2="249.1" y2="237.4"/>
-<text transform="matrix(1 0 0 1 277.4313 308.0391)" class="st8 st5 st7">‘ON’</text>
-<text transform="matrix(1 0 0 1 51.689 308.0394)" class="st8 st5 st7">‘OFF’</text>
+<text transform="matrix(1 0 0 1 234.1001 308.0391)" class="st8 st5 st7">‘ON’</text>
+<text transform="matrix(1 0 0 1 41.5877 308.0394)" class="st8 st5 st7">‘OFF’</text>
 <text transform="matrix(1 0 0 1 64.2344 146.4175)" class="st5 st6">P1</text>
 <text transform="matrix(1 0 0 1 258.4752 177.7979)" class="st5 st6">P1</text>
 <text transform="matrix(1 0 0 1 135.0006 188.0725)" class="st5 st6">P2</text>
@@ -81,12 +81,12 @@
 <g>
 	<path class="st9" d="M284.8,204.8c0,4.5-5.9,7.9-13.3,7.9c-7.3,0-13.3-3.6-13.3-7.9c0-4.5,5.9-7.9,13.3-7.9
 		C278.9,196.9,284.8,200.4,284.8,204.8z"/>
-	<text transform="matrix(1.0934 -1.856269e-02 1.697485e-02 0.9999 259.5057 207.7267)" class="st10 st5 st11">Guan</text>
+	<text transform="matrix(1.0934 -1.856023e-02 1.697260e-02 0.9999 259.5062 207.7252)" class="st10 st5 st11">Guan</text>
 </g>
 <g>
 	<path class="st9" d="M334.2,202.4c0,4.5-5.9,7.9-13.3,7.9c-7.3,0-13.3-3.6-13.3-7.9c0-4.5,5.9-7.9,13.3-7.9
 		C328.3,194.5,334.2,198.1,334.2,202.4z"/>
-	<text transform="matrix(1.0934 -1.856269e-02 1.697485e-02 0.9999 308.8553 205.3819)" class="st10 st5 st11">Guan</text>
+	<text transform="matrix(1.0934 -1.856023e-02 1.697260e-02 0.9999 308.8558 205.3804)" class="st10 st5 st11">Guan</text>
 </g>
 <text transform="matrix(1 0 0 1 16.5869 248.3219)" class="st12 st5 st13">5’</text>
 <text transform="matrix(1 0 0 1 166.3034 192.0002)" class="st12 st5 st13">5’</text>

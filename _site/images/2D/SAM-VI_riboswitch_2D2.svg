@@ -28,7 +28,7 @@
 <text transform="matrix(1 0 0 1 284.79 138.91)" class="st4 st2 st5">P2</text>
 <text transform="matrix(1 0 0 1 277.45 349.56)" class="st6 st2 st5">P1</text>
 <text transform="matrix(1 0 0 1 51.82 330.48)" class="st7 st2 st5">P3</text>
-<text transform="matrix(1.1367 0 0 1 204.3994 388.7314)" class="st8 st2 st9">3</text>
+<text transform="matrix(1.1367 0 0 1 204.3999 388.7314)" class="st8 st2 st9">3</text>
 <text transform="matrix(1.35 0 0 1 212.7217 389.1113)" class="st8 st2 st10">’</text>
 <text transform="matrix(1.3181 0 0 1 253.3994 388.9824)" class="st8 st2 st11">5</text>
 <text transform="matrix(1.35 0 0 1 262.4824 389.1113)" class="st8 st2 st10">’</text>
@@ -624,4 +624,5 @@
 		</g>
 	</g>
 </g>
+<text transform="matrix(1 0 0 1 5.7153 28.1015)" class="st2 st5">SAM-VI Riboswitch</text>
 </svg>

@@ -56,7 +56,7 @@
 <line class="st0" x1="294.4" y1="202" x2="286.4" y2="202"/>
 <line class="st0" x1="294.4" y1="208.4" x2="286.4" y2="208.4"/>
 <path class="st1" d="M372.4,211.1c0,14.7-36.4,26.6-81.3,26.6c-39.8,0-72.9-9.3-79.9-21.7"/>
-<text transform="matrix(1 0 0 1 269.8113 275.893)" class="st3 st4 st5">‘ON’</text>
+<text transform="matrix(1 0 0 1 252.8951 275.893)" class="st3 st4 st5">‘ON’</text>
 <text transform="matrix(1 0 0 1 67.0911 279.6389)" class="st3 st4 st5">‘OFF’</text>
 <text transform="matrix(1 0 0 1 66.1674 188.7677)" class="st4 st6">P1</text>
 <text transform="matrix(1 0 0 1 257.3435 182.9727)" class="st4 st6">P1</text>
@@ -65,18 +65,18 @@
 <g>
 	<path class="st7" d="M327.6,203c0.2,4.5-5.6,8.1-13,8.3c-7.3,0.2-13.4-3.1-13.6-7.4c-0.2-4.5,5.6-8.1,13-8.3
 		C321.4,195.3,327.4,198.6,327.6,203z"/>
-	<text transform="matrix(1.0921 -5.566391e-02 5.090343e-02 0.9987 302.3999 206.7582)" class="st8 st4 st9">Guan</text>
+	<text transform="matrix(1.0921 -5.566391e-02 5.090343e-02 0.9987 302.4 206.7584)" class="st8 st4 st9">Guan</text>
 </g>
 <g>
 	<path class="st7" d="M278.2,205.6c0.1,4.5-5.8,8-13.2,8.1c-7.3,0.1-13.4-3.4-13.4-7.7c-0.1-4.5,5.8-8,13.2-8.1
 		C272.2,197.8,278.1,201.3,278.2,205.6z"/>
-	<text transform="matrix(1.0929 -3.711824e-02 3.394366e-02 0.9994 252.8953 209.0117)" class="st8 st4 st9">Guan</text>
+	<text transform="matrix(1.0929 -3.711824e-02 3.394366e-02 0.9994 252.8954 209.0116)" class="st8 st4 st9">Guan</text>
 </g>
 <text transform="matrix(1 0 0 1 20.1281 235.9954)" class="st10 st4 st11">5’</text>
 <text transform="matrix(1 0 0 1 202.095 193.0256)" class="st10 st4 st11">5’</text>
 <text transform="matrix(1 0 0 1 376.5984 130.8066)" class="st10 st4 st11">3’</text>
 <text transform="matrix(1 0 0 1 138.3422 240.4442)" class="st10 st4 st11">3’</text>
-<text transform="matrix(1 0 0 1 26.7355 64.5436)" class="st4 st5">Guanidine-IV riboswitch</text>
+<text transform="matrix(1 0 0 1 8.7928 25.5911)" class="st4 st5">Guanidine-IV Riboswitch</text>
 <line class="st2" x1="56" y1="194.9" x2="56" y2="234.7"/>
 <line class="st12" x1="111.8" y1="236" x2="133.6" y2="236"/>
 <text transform="matrix(1 0 0 1 115.4922 200.1677)" class="st13 st4 st6">Terminator</text>

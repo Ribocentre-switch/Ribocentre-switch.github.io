@@ -111,6 +111,13 @@ permalink: /
 </p>
 </div>
 </div>
+<br>
+
+<div class="sectiontitle" style="border: 1px solid #C9C9C9; background-color: #fff;">
+<p class="header_box">News</p>
+<div class="left-aligned" style="width: 82%;">
+
+</div>
 
 
 

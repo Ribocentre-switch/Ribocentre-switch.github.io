@@ -33,7 +33,6 @@ permalink: /docs/T-box/
       font-weight: bold;
       border: 1px solid #005826;
       border-radius: 5px;
-      box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.2);
     }
     
     /* 鼠标悬停样式 */
@@ -192,8 +191,8 @@ permalink: /docs/T-box/
     height: 100%;
 }
    .zoom-wrapper1 {
-    width: 400px;
-    height: 400px;
+    width: 500px;
+    height: 500px;
     border: 1px solid #fff;
     display: flex;
     align-items: center;

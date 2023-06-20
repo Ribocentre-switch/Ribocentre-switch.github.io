@@ -5,169 +5,171 @@
 <style type="text/css">
 	.st0{fill:#80DB9E;}
 	.st1{font-family:'ArialMT';}
-	.st2{font-size:18px;}
-	.st3{font-size:12px;}
+	.st2{font-size:20.4154px;}
+	.st3{font-size:13.6103px;}
 	.st4{fill:none;stroke:#000000;stroke-width:0.1429;stroke-miterlimit:1.1429;}
-	.st5{font-size:20px;}
-	.st6{fill:#C40018;}
-	.st7{fill:#FFFFFF;}
-	.st8{font-size:11px;}
-	.st9{font-size:14px;}
-	.st10{fill:#FFDF5C;}
+	.st5{font-size:22.6838px;}
+	.st6{font-size:20px;}
+	.st7{fill:#C40018;}
+	.st8{fill:#FFFFFF;}
+	.st9{font-size:12.4762px;}
+	.st10{font-size:15.8787px;}
+	.st11{fill:#FFDF5C;}
+	.st12{font-size:20.4157px;}
 </style>
 <g transform="translate(632.741,655.892)">
 	<g>
 		<g transform="rotate(-0.0)">
-			<text transform="matrix(1 0 0 1 -543.0966 -355.8153)" class="st0 st1 st2">G</text>
+			<text transform="matrix(1 0 0 1 -542.3026 -350.3954)" class="st0 st1 st2">G</text>
 		</g>
 	</g>
 </g>
 <g transform="translate(632.741,600.229)">
 	<g>
 		<g transform="rotate(-0.0)">
-			<text transform="matrix(1 0 0 1 -543.0966 -319.6093)" class="st0 st1 st2">G</text>
+			<text transform="matrix(1 0 0 1 -542.3026 -316.8008)" class="st0 st1 st2">G</text>
 		</g>
 	</g>
 </g>
 <g transform="translate(632.741,544.566)">
 	<g>
 		<g transform="rotate(-0.0)">
-			<text transform="matrix(1 0 0 1 -542.5521 -283.4043)" class="st0 st1 st2">U</text>
+			<text transform="matrix(1 0 0 1 -541.6854 -283.2071)" class="st0 st1 st2">U</text>
 		</g>
 	</g>
 </g>
 <g transform="translate(632.741,488.904)">
 	<g>
 		<g transform="rotate(-0.0)">
-			<text transform="matrix(1 0 0 1 -543.0966 -247.1964)" class="st0 st1 st2">G</text>
+			<text transform="matrix(1 0 0 1 -542.3026 -249.6096)" class="st0 st1 st2">G</text>
 		</g>
 	</g>
 </g>
 <g transform="translate(632.741,433.241)">
 	<g>
 		<g transform="rotate(-0.0)">
-			<text transform="matrix(1 0 0 1 -543.0966 -210.9914)" class="st0 st1 st2">G</text>
+			<text transform="matrix(1 0 0 1 -542.3026 -216.0159)" class="st0 st1 st2">G</text>
 		</g>
 	</g>
 </g>
 <g transform="translate(632.741,377.578)">
 	<g>
 		<g transform="rotate(-0.0)">
-			<text transform="matrix(1 0 0 1 -543.0966 -174.7864)" class="st0 st1 st2">G</text>
+			<text transform="matrix(1 0 0 1 -542.3026 -182.4213)" class="st0 st1 st2">G</text>
 		</g>
 	</g>
 </g>
 <g transform="translate(632.741,321.916)">
 	<g>
 		<g transform="rotate(-0.0)">
-			<text transform="matrix(1 0 0 1 -543.0966 -138.5795)" class="st0 st1 st2">G</text>
+			<text transform="matrix(1 0 0 1 -542.3026 -148.8257)" class="st0 st1 st2">G</text>
 		</g>
 	</g>
 </g>
 <g transform="translate(600.271,247.699)">
 	<g>
 		<g transform="rotate(-0.0)">
-			<text transform="matrix(1 0 0 1 -521.0703 -85.9578)" class="st0 st1 st2">A</text>
+			<text transform="matrix(1 0 0 1 -521.6782 -99.1018)" class="st0 st1 st2">A</text>
 		</g>
 	</g>
 </g>
 <g transform="translate(628.102,164.205)">
 	<g>
 		<g transform="rotate(-0.0)">
-			<text transform="matrix(1 0 0 1 -537.6948 -31.6483)" class="st0 st1 st2">C</text>
+			<text transform="matrix(1 0 0 1 -536.7988 -48.7084)" class="st0 st1 st2">C</text>
 		</g>
 	</g>
 </g>
 <g transform="translate(739.428,164.205)">
 	<g>
 		<g transform="rotate(-0.0)">
-			<text transform="matrix(1 0 0 1 -614.6893 -31.6483)" class="st0 st1 st2">G</text>
+			<text transform="matrix(1 0 0 1 -609.1863 -48.7084)" class="st0 st1 st2">G</text>
 		</g>
 	</g>
 </g>
 <g transform="translate(813.645,164.205)">
 	<g transform="rotate(-0.0)">
-		<text transform="matrix(1 0 0 1 -673.6036 -31.414)" class="st1 st3">10</text>
+		<text transform="matrix(1 0 0 1 -666.0469 -48.4428)" class="st1 st3">10</text>
 	</g>
 </g>
 <g transform="translate(781.175,247.699)">
 	<g>
 		<g transform="rotate(-0.0)">
-			<text transform="matrix(1 0 0 1 -638.7405 -85.9578)" class="st0 st1 st2">A</text>
+			<text transform="matrix(1 0 0 1 -630.8625 -99.1018)" class="st0 st1 st2">A</text>
 		</g>
 	</g>
 </g>
 <g transform="translate(744.066,321.916)">
 	<g>
 		<g transform="rotate(-0.0)">
-			<text transform="matrix(1 0 0 1 -614.9639 -138.5795)" class="st0 st1 st2">C</text>
+			<text transform="matrix(1 0 0 1 -608.8751 -148.8257)" class="st0 st1 st2">C</text>
 		</g>
 	</g>
 </g>
 <g transform="translate(744.066,377.578)">
 	<g>
 		<g transform="rotate(-0.0)">
-			<text transform="matrix(1 0 0 1 -614.9639 -174.7864)" class="st0 st1 st2">C</text>
+			<text transform="matrix(1 0 0 1 -608.8751 -182.4213)" class="st0 st1 st2">C</text>
 		</g>
 	</g>
 </g>
 <g transform="translate(744.066,433.241)">
 	<g>
 		<g transform="rotate(-0.0)">
-			<text transform="matrix(1 0 0 1 -614.9639 -210.9914)" class="st0 st1 st2">C</text>
+			<text transform="matrix(1 0 0 1 -608.8751 -216.0159)" class="st0 st1 st2">C</text>
 		</g>
 	</g>
 </g>
 <g transform="translate(744.066,488.904)">
 	<g>
 		<g transform="rotate(-0.0)">
-			<text transform="matrix(1 0 0 1 -614.9639 -247.1964)" class="st0 st1 st2">C</text>
+			<text transform="matrix(1 0 0 1 -608.8751 -249.6096)" class="st0 st1 st2">C</text>
 		</g>
 	</g>
 </g>
 <g transform="translate(744.066,544.566)">
 	<g>
 		<g transform="rotate(-0.0)">
-			<text transform="matrix(1 0 0 1 -614.424 -283.4043)" class="st0 st1 st2">A</text>
+			<text transform="matrix(1 0 0 1 -608.2628 -283.2071)" class="st0 st1 st2">A</text>
 		</g>
 	</g>
 </g>
 <g transform="translate(744.066,600.229)">
 	<g>
 		<g transform="rotate(-0.0)">
-			<text transform="matrix(1 0 0 1 -614.9639 -319.6093)" class="st0 st1 st2">C</text>
+			<text transform="matrix(1 0 0 1 -608.8751 -316.8008)" class="st0 st1 st2">C</text>
 		</g>
 	</g>
 </g>
 <g transform="translate(744.066,655.892)">
 	<g>
 		<g transform="rotate(-0.0)">
-			<text transform="matrix(1 0 0 1 -614.9639 -355.8153)" class="st0 st1 st2">C</text>
+			<text transform="matrix(1 0 0 1 -608.8751 -350.3954)" class="st0 st1 st2">C</text>
 		</g>
 	</g>
 </g>
-<line class="st4" x1="105" y1="291.3" x2="128.3" y2="291.3"/>
-<line class="st4" x1="105" y1="271.9" x2="128.3" y2="271.9"/>
-<line class="st4" x1="105" y1="252.4" x2="128.3" y2="252.4"/>
-<line class="st4" x1="105" y1="233" x2="128.3" y2="233"/>
-<line class="st4" x1="105" y1="213.5" x2="128.3" y2="213.5"/>
-<line class="st4" x1="105" y1="194" x2="128.3" y2="194"/>
-<line class="st4" x1="105" y1="174.6" x2="128.3" y2="174.6"/>
-<text transform="matrix(1 0 0 1 53.3191 213.4931)" class="st0 st1 st5">P1</text>
-<text transform="matrix(1 0 0 1 37.4037 54.7721)" class="st1 st2">Guanidine-II riboswitch</text>
-<path class="st6" d="M136.9,147.6c0,3.8-9.1,7-20.4,7c-11.3,0.1-20.4-3-20.5-6.8c0-3.8,9.1-7,20.4-7
-	C127.7,140.7,136.9,143.8,136.9,147.6z"/>
-<text transform="matrix(1 -4.833093e-03 4.833093e-03 1 104.4832 151.051)" class="st7 st1 st8">Guan</text>
-<line class="st4" x1="90.4" y1="154.6" x2="96.1" y2="151.6"/>
-<line class="st4" x1="101.2" y1="134.7" x2="105.9" y2="138.9"/>
-<line class="st4" x1="125.7" y1="140.1" x2="131.5" y2="135.2"/>
-<text transform="matrix(1 0 0 1 74.02 307.1971)" class="st1 st9">5’</text>
-<text transform="matrix(1 0 0 1 145.5207 303.3864)" class="st1 st9">3’</text>
+<line class="st4" x1="107.9" y1="295.5" x2="134.3" y2="295.5"/>
+<line class="st4" x1="107.9" y1="273.5" x2="134.3" y2="273.5"/>
+<line class="st4" x1="107.9" y1="251.4" x2="134.3" y2="251.4"/>
+<line class="st4" x1="107.9" y1="229.4" x2="134.3" y2="229.4"/>
+<line class="st4" x1="107.9" y1="207.3" x2="134.3" y2="207.3"/>
+<line class="st4" x1="107.9" y1="185.2" x2="134.3" y2="185.2"/>
+<line class="st4" x1="107.9" y1="163.2" x2="134.3" y2="163.2"/>
+<text transform="matrix(1 0 0 1 49.2383 207.2935)" class="st0 st1 st5">P1</text>
+<text transform="matrix(1 0 0 1 7.1815 25.2882)" class="st1 st6">Guanidine-II Riboswitch</text>
+<path class="st7" d="M144,132.6c0,4.3-10.3,7.9-23.1,7.9c-12.8,0.1-23.1-3.4-23.3-7.7c0-4.3,10.3-7.9,23.1-7.9
+	C133.6,124.7,144,128.2,144,132.6z"/>
+<text transform="matrix(1 -4.833037e-03 4.833037e-03 1 107.2687 136.4728)" class="st8 st1 st9">Guan</text>
+<line class="st4" x1="91.3" y1="140.5" x2="97.8" y2="137.1"/>
+<line class="st4" x1="103.5" y1="117.9" x2="108.9" y2="122.7"/>
+<line class="st4" x1="131.3" y1="124.1" x2="137.9" y2="118.5"/>
+<text transform="matrix(1 0 0 1 72.7173 313.5718)" class="st1 st10">5’</text>
+<text transform="matrix(1 0 0 1 153.8125 309.2505)" class="st1 st10">3’</text>
 <g transform="translate(632.741,600.229)">
 	<g>
 		<g>
 			<g transform="rotate(-0.0)">
-				<text transform="matrix(1 -4.833037e-03 4.833037e-03 1 -392.0771 -316.9876)" class="st10 st1 st2">G</text>
+				<text transform="matrix(1 -4.832981e-03 4.832981e-03 1 -371.0174 -313.8276)" class="st11 st1 st12">G</text>
 			</g>
 		</g>
 	</g>
@@ -176,7 +178,7 @@
 	<g>
 		<g>
 			<g transform="rotate(-0.0)">
-				<text transform="matrix(1 -4.833037e-03 4.833037e-03 1 -391.6267 -280.785)" class="st10 st1 st2">C</text>
+				<text transform="matrix(1 -4.832981e-03 4.832981e-03 1 -370.5069 -280.2357)" class="st11 st1 st12">C</text>
 			</g>
 		</g>
 	</g>
@@ -185,7 +187,7 @@
 	<g>
 		<g>
 			<g transform="rotate(-0.0)">
-				<text transform="matrix(1 -4.833037e-03 4.833037e-03 1 -392.2652 -244.5743)" class="st10 st1 st2">G</text>
+				<text transform="matrix(1 -4.832981e-03 4.832981e-03 1 -371.2307 -246.6349)" class="st11 st1 st12">G</text>
 			</g>
 		</g>
 	</g>
@@ -194,7 +196,7 @@
 	<g>
 		<g>
 			<g transform="rotate(-0.0)">
-				<text transform="matrix(1 -4.833037e-03 4.833037e-03 1 -392.3592 -208.369)" class="st10 st1 st2">G</text>
+				<text transform="matrix(1 -4.832981e-03 4.832981e-03 1 -371.3374 -213.041)" class="st11 st1 st12">G</text>
 			</g>
 		</g>
 	</g>
@@ -203,7 +205,7 @@
 	<g>
 		<g>
 			<g transform="rotate(-0.0)">
-				<text transform="matrix(1 -4.833037e-03 4.833037e-03 1 -392.4532 -172.1638)" class="st10 st1 st2">G</text>
+				<text transform="matrix(1 -4.832981e-03 4.832981e-03 1 -371.444 -179.4471)" class="st11 st1 st12">G</text>
 			</g>
 		</g>
 	</g>
@@ -212,7 +214,7 @@
 	<g>
 		<g>
 			<g transform="rotate(-0.0)">
-				<text transform="matrix(1 -4.833037e-03 4.833037e-03 1 -392.5473 -135.9567)" class="st10 st1 st2">G</text>
+				<text transform="matrix(1 -4.832981e-03 4.832981e-03 1 -371.5507 -145.8502)" class="st11 st1 st12">G</text>
 			</g>
 		</g>
 	</g>
@@ -221,7 +223,7 @@
 	<g>
 		<g>
 			<g transform="rotate(-0.0)">
-				<text transform="matrix(1 0 0 1 -370.3091 -83.3693)" class="st10 st1 st2">A</text>
+				<text transform="matrix(1 0 0 1 -350.686 -96.1658)" class="st11 st1 st2">A</text>
 			</g>
 		</g>
 	</g>
@@ -230,7 +232,7 @@
 	<g>
 		<g>
 			<g transform="rotate(-0.0)">
-				<text transform="matrix(1 0 0 1 -386.9337 -29.0598)" class="st10 st1 st2">C</text>
+				<text transform="matrix(1 0 0 1 -365.8071 -45.7729)" class="st11 st1 st2">C</text>
 			</g>
 		</g>
 	</g>
@@ -239,21 +241,21 @@
 	<g>
 		<g>
 			<g transform="rotate(-0.0)">
-				<text transform="matrix(1 0 0 1 -463.9282 -29.0598)" class="st10 st1 st2">G</text>
+				<text transform="matrix(1 0 0 1 -438.1946 -45.7729)" class="st11 st1 st2">G</text>
 			</g>
 		</g>
 	</g>
 </g>
 <g transform="translate(813.645,164.205)">
 	<g transform="rotate(-0.0)">
-		<text transform="matrix(1 0 0 1 -506.8045 0.1246)" class="st1 st3">10</text>
+		<text transform="matrix(1 0 0 1 -476.8647 -12.6718)" class="st1 st3">10</text>
 	</g>
 </g>
 <g transform="translate(781.175,247.699)">
 	<g>
 		<g>
 			<g transform="rotate(-0.0)">
-				<text transform="matrix(1 0 0 1 -487.9794 -83.3693)" class="st10 st1 st2">A</text>
+				<text transform="matrix(1 0 0 1 -459.8703 -96.1658)" class="st11 st1 st2">A</text>
 			</g>
 		</g>
 	</g>
@@ -262,7 +264,7 @@
 	<g>
 		<g>
 			<g transform="rotate(-0.0)">
-				<text transform="matrix(1 0 0 1 -464.2028 -135.991)" class="st10 st1 st2">C</text>
+				<text transform="matrix(1 0 0 1 -437.8834 -145.8896)" class="st11 st1 st2">C</text>
 			</g>
 		</g>
 	</g>
@@ -271,7 +273,7 @@
 	<g>
 		<g>
 			<g transform="rotate(-0.0)">
-				<text transform="matrix(1 0 0 1 -464.2028 -172.1979)" class="st10 st1 st2">C</text>
+				<text transform="matrix(1 0 0 1 -437.8834 -179.4857)" class="st11 st1 st2">C</text>
 			</g>
 		</g>
 	</g>
@@ -280,7 +282,7 @@
 	<g>
 		<g>
 			<g transform="rotate(-0.0)">
-				<text transform="matrix(1 0 0 1 -464.2028 -208.4029)" class="st10 st1 st2">C</text>
+				<text transform="matrix(1 0 0 1 -437.8834 -213.0794)" class="st11 st1 st2">C</text>
 			</g>
 		</g>
 	</g>
@@ -289,7 +291,7 @@
 	<g>
 		<g>
 			<g transform="rotate(-0.0)">
-				<text transform="matrix(1 0 0 1 -464.2028 -244.6079)" class="st10 st1 st2">C</text>
+				<text transform="matrix(1 0 0 1 -437.8834 -246.674)" class="st11 st1 st2">C</text>
 			</g>
 		</g>
 	</g>
@@ -298,7 +300,7 @@
 	<g>
 		<g>
 			<g transform="rotate(-0.0)">
-				<text transform="matrix(1 0 0 1 -463.6628 -280.8158)" class="st10 st1 st2">G</text>
+				<text transform="matrix(1 0 0 1 -437.2711 -280.2706)" class="st11 st1 st2">G</text>
 			</g>
 		</g>
 	</g>
@@ -307,24 +309,24 @@
 	<g>
 		<g>
 			<g transform="rotate(-0.0)">
-				<text transform="matrix(1 0 0 1 -464.2028 -317.0208)" class="st10 st1 st2">C</text>
+				<text transform="matrix(1 0 0 1 -437.8834 -313.8652)" class="st11 st1 st2">C</text>
 			</g>
 		</g>
 	</g>
 </g>
-<line class="st4" x1="255.8" y1="274.5" x2="279.1" y2="274.5"/>
-<line class="st4" x1="255.8" y1="255" x2="279.1" y2="255"/>
-<line class="st4" x1="255.8" y1="235.6" x2="279.1" y2="235.6"/>
-<line class="st4" x1="255.8" y1="216.1" x2="279.1" y2="216.1"/>
-<line class="st4" x1="255.8" y1="196.6" x2="279.1" y2="196.6"/>
-<line class="st4" x1="255.8" y1="177.2" x2="279.1" y2="177.2"/>
-<path class="st6" d="M287.7,150.2c0,3.8-9.1,7-20.4,7c-11.3,0.1-20.4-3-20.5-6.8c0-3.8,9.1-7,20.4-7
-	C278.5,143.3,287.7,146.4,287.7,150.2z"/>
-<text transform="matrix(1 -4.833093e-03 4.833093e-03 1 255.2442 153.6395)" class="st7 st1 st8">Guan</text>
-<line class="st4" x1="241.2" y1="157.2" x2="246.9" y2="154.2"/>
-<line class="st4" x1="252" y1="137.3" x2="256.7" y2="141.5"/>
-<line class="st4" x1="276.5" y1="142.7" x2="282.3" y2="137.8"/>
-<text transform="matrix(1 0 0 1 229.7948 295.8524)" class="st1 st9">5’</text>
-<text transform="matrix(1 0 0 1 293.2736 295.8521)" class="st1 st9">3’</text>
-<text transform="matrix(1 0 0 1 202.4723 209.1464)" class="st10 st1 st5">P2</text>
+<line class="st4" x1="278.9" y1="276.5" x2="305.3" y2="276.5"/>
+<line class="st4" x1="278.9" y1="254.4" x2="305.3" y2="254.4"/>
+<line class="st4" x1="278.9" y1="232.4" x2="305.3" y2="232.4"/>
+<line class="st4" x1="278.9" y1="210.3" x2="305.3" y2="210.3"/>
+<line class="st4" x1="278.9" y1="188.1" x2="305.3" y2="188.1"/>
+<line class="st4" x1="278.9" y1="166.1" x2="305.3" y2="166.1"/>
+<path class="st7" d="M315.1,135.5c0,4.3-10.3,7.9-23.1,7.9c-12.8,0.1-23.1-3.4-23.3-7.7c0-4.3,10.3-7.9,23.1-7.9
+	C304.6,127.7,315.1,131.2,315.1,135.5z"/>
+<text transform="matrix(1 -4.833037e-03 4.833037e-03 1 278.2599 139.4086)" class="st8 st1 st9">Guan</text>
+<line class="st4" x1="262.3" y1="143.4" x2="268.8" y2="140"/>
+<line class="st4" x1="274.6" y1="120.9" x2="279.9" y2="125.6"/>
+<line class="st4" x1="302.4" y1="127" x2="308.9" y2="121.4"/>
+<text transform="matrix(1 0 0 1 249.3955 300.7056)" class="st1 st10">5’</text>
+<text transform="matrix(1 0 0 1 321.3926 300.7046)" class="st1 st10">3’</text>
+<text transform="matrix(1 0 0 1 218.4062 202.3638)" class="st11 st1 st5">P2</text>
 </svg>

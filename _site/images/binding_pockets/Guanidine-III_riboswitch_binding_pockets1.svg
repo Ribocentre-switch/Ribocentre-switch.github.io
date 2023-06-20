@@ -8,7 +8,7 @@
 	.st2{font-size:20px;}
 	.st3{fill:#09FEFE;}
 </style>
-<image style="overflow:visible;" width="1887" height="1500" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAB18AAAXcCAIAAADiCdDwAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+<image style="overflow:visible;enable-background:new    ;" width="1887" height="1500" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAB18AAAXcCAIAAADiCdDwAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
 jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAP+lSURBVHhe7P19zG3rdRWG73vPuff6K4ljO3ac
 OMFJMMQ4oQ0EAgngm4SPhAARiRCiVBTRAmqrAKqA/td7q0pV/0FVifj4pYBdNYhKVKoEqkgLNLYK
 pYCaOCAghOA4hiSE2CZxru8959yv31hrrD3eseecz7Oetfd+zz1J1tC484w55nye9bn3Wufx6/c8
@@ -20676,4 +20676,9 @@ AAAAAElFTkSuQmCC" transform="matrix(0.1548 0 0 0.1581 34.9819 76.2479)">
 </image>
 <text transform="matrix(1 0 0 1 334.1365 291.2036)" class="st0 st1 st2">P1</text>
 <text transform="matrix(1 0 0 1 323.9281 151.3922)" class="st3 st1 st2">P2</text>
+<text transform="matrix(1 0 0 1 8.4756 24.1357)" class="st1 st2">Guanidine-III Riboswitch</text>
+<text transform="matrix(1 0 0 1 209.4206 147.7139)" class="st1 st2">G17</text>
+<text transform="matrix(1 0 0 1 241.835 231.2579)" class="st1 st2">G7</text>
+<text transform="matrix(1 0 0 1 127.6637 234.0708)" class="st1 st2">C6</text>
+<text transform="matrix(1 0 0 1 133.0852 180.2634)" class="st1 st2">Guan</text>
 </svg>

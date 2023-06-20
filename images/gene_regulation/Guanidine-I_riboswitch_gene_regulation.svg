@@ -17,7 +17,7 @@
 	.st11{fill:#0A0000;}
 	.st12{fill:#BC3B36;stroke:#BC3B36;stroke-miterlimit:10;}
 	.st13{fill:#FFFFFF;}
-	.st14{font-size:9.8671px;}
+	.st14{font-size:9.8683px;}
 </style>
 <line class="st0" x1="46.9" y1="205.3" x2="64.4" y2="205.3"/>
 <line class="st0" x1="47.1" y1="197" x2="65.2" y2="197"/>
@@ -95,18 +95,17 @@
 <line class="st1" x1="316.7" y1="161" x2="316.7" y2="205.3"/>
 <line class="st1" x1="338.6" y1="161" x2="338.6" y2="192.6"/>
 <path class="st1" d="M338,192.6c3.1,0,5.6,3.1,5.6,6.6c0,3.6-2.6,6.6-5.6,6.6"/>
-<text transform="matrix(1 0 0 1 25.9682 53.1999)" class="st3 st8">Guanidine-I riboswitch</text>
+<text transform="matrix(1 0 0 1 11.5848 24.0808)" class="st3 st8">Guanidine-I Riboswitch</text>
 <text transform="matrix(1 0 0 1 135.5275 197.2063)" class="st9 st3 st4">Terminator</text>
-<text transform="matrix(1 0 0 1 280.9377 330.1758)" class="st10 st3 st8">‘ON’</text>
-<text transform="matrix(1 0 0 1 56.4348 327.639)" class="st10 st3 st8">‘OFF’</text>
+<text transform="matrix(1 0 0 1 263.2999 334.554)" class="st10 st3 st8">‘ON’</text>
+<text transform="matrix(1 0 0 1 42.1 330.4569)" class="st10 st3 st8">‘OFF’</text>
 <text transform="matrix(1.0353 0 0 1 233.6104 180.3862)" class="st11 st3 st4">P1a</text>
 <text transform="matrix(1.0353 0 0 1 233.6104 130.1357)" class="st11 st3 st4">P1b</text>
 <text transform="matrix(1.0353 0 0 1 352.7383 198.9429)" class="st11 st3 st4">P3</text>
 <text transform="matrix(1.0353 0 0 1 317.2461 263.7021)" class="st11 st3 st4">P2</text>
 <text transform="matrix(1.0353 0 0 1 238.7793 223.1738)" class="st11 st3 st4">P1</text>
 <g>
-	<path class="st12" d="M329.2,199.3c0,4.9-6.5,8.7-14.6,8.7c-8.1,0-14.6-3.9-14.6-8.7c0-4.9,6.5-8.7,14.6-8.7
-		S329.2,194.5,329.2,199.3z"/>
-	<text transform="matrix(1.0934 -1.856351e-02 1.697560e-02 0.9999 301.2626 202.5373)" class="st13 st3 st14">Guan</text>
+	<path class="st12" d="M329.2,199.3c0,4.9-6.5,8.7-14.6,8.7s-14.6-3.9-14.6-8.7c0-4.9,6.5-8.7,14.6-8.7S329.2,194.5,329.2,199.3z"/>
+	<text transform="matrix(1.0934 -1.856105e-02 1.697335e-02 0.9999 301.2644 202.5362)" class="st13 st3 st14">Guan</text>
 </g>
 </svg>

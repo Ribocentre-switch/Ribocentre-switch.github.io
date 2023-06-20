@@ -21,6 +21,7 @@
 	.st15{font-size:18px;}
 	.st16{fill:#251E1C;}
 	.st17{font-size:14px;}
+	.st18{font-size:20px;}
 </style>
 <path class="st0" d="M182,259.2c0,10.6-12.4,19.1-27.7,19.1s-27.9-8.6-27.9-19.1c0-10.6,12.4-19.1,27.9-19.1S182,248.5,182,259.2z"
 	/>
@@ -665,4 +666,5 @@
 <text transform="matrix(0.99 0 0 1 73.0122 344.9102)" class="st16 st2 st17">’</text>
 <text transform="matrix(0.99 0 0 1 103.4102 329.8799)" class="st16 st2 st17">5</text>
 <text transform="matrix(0.99 0 0 1 111.1221 329.8799)" class="st16 st2 st17">’</text>
+<text transform="matrix(1.06 0 0 1 5.999 24.8345)" class="st2 st18">SAM-I Riboswitch</text>
 </svg>

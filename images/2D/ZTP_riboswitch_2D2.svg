@@ -16,8 +16,7 @@
 	.st10{font-family:'ArialMT';}
 	.st11{font-size:20px;}
 	.st12{fill:#FF0B0C;}
-	.st13{font-family:'Arial-BoldMT';}
-	.st14{font-size:14px;}
+	.st13{font-size:15px;}
 </style>
 <g>
 	<g transform="translate(381.8034,122.9143)">
@@ -801,8 +800,6 @@
 		<path class="st4" d="M248.2,51.9l-2.7-2.4l-2.7-0.8l-2.7-0.4l-5.4-1.2l5.4-1.2l2.7-0.4l2.7-0.8l2.7-2.4V51.9"/>
 	</g>
 </g>
-<rect x="1.1" y="2.3" class="st9" width="143.3" height="21.7"/>
-<text transform="matrix(1 0 0 1 1.1127 16.6245)" class="st10 st11">ZTP Riboswitch</text>
 <rect x="319.5" y="140.6" class="st9" width="30.9" height="17"/>
 <text transform="matrix(1 0 0 1 319.4832 154.9684)" class="st0 st10 st11">P1</text>
 <rect x="124.7" y="187.7" class="st9" width="30.9" height="17"/>
@@ -811,12 +808,14 @@
 <text transform="matrix(1 0 0 1 3.9279 278.6073)" class="st5 st10 st11">Pseudoknot</text>
 <rect x="321.6" y="313.2" class="st9" width="30.9" height="17"/>
 <text transform="matrix(1 0 0 1 321.5815 327.5498)" class="st6 st10 st11">P2</text>
-<rect x="212.4" y="235.9" class="st9" width="44.9" height="17"/>
-<text transform="matrix(1 0 0 1 212.3501 245.8824)" class="st12 st13 st14">ZMP</text>
+<rect x="213.4" y="236.2" class="st9" width="44.9" height="17"/>
+<text transform="matrix(1 0 0 1 213.3729 246.9371)" class="st12 st10 st13">ZMP</text>
 <rect x="174.1" y="314.9" class="st9" width="43.8" height="21.4"/>
-<text transform="matrix(1 0 0 1 174.0768 324.9317)" class="st12 st13 st14">Mg</text>
-<text transform="matrix(0.583 0 0 0.583 194.2906 320.2696)" class="st12 st13 st14">2+</text>
+<text transform="matrix(1 0 0 1 174.0768 325.6476)" class="st12 st10 st13">Mg</text>
+<text transform="matrix(0.583 0 0 0.583 194.9142 320.6524)" class="st12 st10 st13">2+</text>
 <rect x="224" y="252.2" class="st9" width="43" height="21.2"/>
-<text transform="matrix(1 0 0 1 223.9909 262.2663)" class="st12 st13 st14">Mg</text>
-<text transform="matrix(0.583 0 0 0.583 244.2048 257.6042)" class="st12 st13 st14">2+</text>
+<text transform="matrix(1 0 0 1 223.9909 262.9821)" class="st12 st10 st13">Mg</text>
+<text transform="matrix(0.583 0 0 0.583 244.8283 257.987)" class="st12 st10 st13">2+</text>
+<rect x="3.9" y="7.6" class="st9" width="150.2" height="19.5"/>
+<text transform="matrix(1 0 0 1 3.928 21.9079)" class="st10 st11">ZTP Riboswitch</text>
 </svg>

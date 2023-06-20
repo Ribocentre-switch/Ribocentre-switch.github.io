@@ -80,7 +80,7 @@
 <ellipse class="st2" cx="559.7" cy="226.1" rx="8.1" ry="12.7"/>
 <rect x="552.3" y="228.6" class="st3" width="18.4" height="11.3"/>
 <path class="st7" d="M542,283.2c5.4,0,9.8,6.5,9.8,14.6s-7.2,14.6-9.8,14.6c-5.4,0-9.8-6.5-9.8-14.6S536.6,283.2,542,283.2z"/>
-<text transform="matrix(6.184466e-17 -0.9703 1 5.882465e-17 544.8164 308.8115)" class="st3 st5 st9">SAM</text>
+<text transform="matrix(6.184466e-17 -0.9703 1 5.882465e-17 544.8164 308.8125)" class="st3 st5 st9">SAM</text>
 <path class="st10" d="M569.7,228.1"/>
 <line class="st0" x1="564.7" y1="336.1" x2="550.8" y2="330.6"/>
 <path class="st2" d="M567.6,227v58.8c0,0,12.2,39.4-6,54.6"/>
@@ -108,7 +108,7 @@
 <ellipse class="st10" cx="390.5" cy="62.7" rx="2.2" ry="2.2"/>
 <text transform="matrix(1.0409 0 0 1 269.6816 249.5986)" class="st5 st6">SD</text>
 <text transform="matrix(1.0409 0 0 1 581.8857 336.0967)" class="st5 st6">SD</text>
-<text transform="matrix(1.0513 0 0 1 538.3164 384.3779)" class="st12 st5 st13">‘OFF’</text>
+<text transform="matrix(1.0513 0 0 1 647.3164 297.8)" class="st12 st5 st13">‘OFF’</text>
 <text transform="matrix(1.0513 0 0 1 478.9072 95.8936)" class="st12 st5 st13">‘ON’</text>
 <line class="st4" x1="381" y1="158.6" x2="381" y2="205.4"/>
 <line class="st4" x1="378.3" y1="203.1" x2="381" y2="205.4"/>
@@ -118,5 +118,5 @@
 <line class="st4" x1="367.6" y1="160.9" x2="370.3" y2="158.6"/>
 <ellipse class="st10" cx="541.1" cy="332.4" rx="2.2" ry="2.2"/>
 <ellipse class="st10" cx="541.1" cy="321.7" rx="2.2" ry="2.2"/>
-<text transform="matrix(1.0409 0 0 1 153.1626 384.3779)" class="st5 st14">SAM-II Riboswitch</text>
+<text transform="matrix(1.0409 0 0 1 9.1626 24.8)" class="st5 st14">SAM-II Riboswitch</text>
 </svg>

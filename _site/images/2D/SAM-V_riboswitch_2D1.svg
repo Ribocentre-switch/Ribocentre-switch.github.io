@@ -20,7 +20,7 @@
 	.st13{fill:#FFFFFF;stroke:#251E1C;}
 	.st14{letter-spacing:-2;}
 	.st15{letter-spacing:-1;}
-	.st16{font-size:21px;}
+	.st16{font-size:20px;}
 </style>
 <path class="st0" d="M98.9,154.6L98.9,154.6h19.2v6H98.9V154.6z"/>
 <path class="st1" d="M106.5,157.6h4.1"/>
@@ -358,5 +358,5 @@
 </g>
 <text transform="matrix(1 0 0 1 43.0342 300.3803)" class="st2 st10 st15">Y</text>
 <text transform="matrix(1 0 0 1 49.1542 300.3803)" class="st2 st10">: C or U</text>
-<text transform="matrix(1 0 0 1 208.3497 97.486)" class="st2 st16">SAM-V Riboswitch</text>
+<text transform="matrix(1 0 0 1 4.3497 22.486)" class="st2 st16">SAM-V Riboswitch</text>
 </svg>

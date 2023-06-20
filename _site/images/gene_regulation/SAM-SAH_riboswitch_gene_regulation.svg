@@ -22,6 +22,7 @@
 	.st16{font-size:15.21px;}
 	.st17{letter-spacing:-1;}
 	.st18{fill:#241E1C;}
+	.st19{font-size:20px;}
 </style>
 <line class="st0" x1="626.3" y1="273.9" x2="681.2" y2="273.9"/>
 <line class="st0" x1="625.8" y1="257" x2="681.2" y2="257"/>
@@ -74,7 +75,7 @@
 <text transform="matrix(1 0 0 1 539.775 155.365)" class="st6 st14">SD</text>
 <line class="st13" x1="586.5" y1="97" x2="586.5" y2="165"/>
 <line class="st0" x1="645.4" y1="117.9" x2="676" y2="118"/>
-<text transform="matrix(1 0 0 1 335.6644 388.1097)" class="st15 st6 st14">SAM/SAH Riboswith</text>
+<text transform="matrix(1 0 0 1 11.6644 23.1097)" class="st15 st6 st14">SAM/SAH Riboswith</text>
 <g>
 	<text transform="matrix(1.04 0 0 1 123.3369 310.415)" class="st15 st6 st16">5</text>
 	<text transform="matrix(1.04 0 0 1 132.1475 310.415)" class="st15 st6 st16 st17">’</text>
@@ -84,10 +85,10 @@
 	<text transform="matrix(1.04 0 0 1 366.4912 315.0947)" class="st15 st6 st16 st17">’</text>
 </g>
 <g>
-	<text transform="matrix(1.04 0 0 1 220.1738 353.0703)" class="st18 st6 st14">‘ON’</text>
+	<text transform="matrix(1.04 0 0 1 220.1738 353.0703)" class="st18 st6 st19">‘ON’</text>
 </g>
 <g>
-	<text transform="matrix(1.04 0 0 1 582.4941 353.0703)" class="st18 st6 st14">‘OFF’</text>
+	<text transform="matrix(1.04 0 0 1 607.5 353.0703)" class="st18 st6 st19">‘OFF’</text>
 </g>
 <g>
 	<text transform="matrix(1.04 0 0 1 573.6855 28.0225)" class="st15 st6 st16">3</text>

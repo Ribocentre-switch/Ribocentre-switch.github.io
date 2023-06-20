@@ -3,12 +3,17 @@ title: "Ribocentre - Home"
 layout: homelay
 excerpt: "Ribocentre: A ribozyme database"
 sitemap: false
-permalink: /home_v1s
+permalink: /home_v1s/
 ---
 <html lang="zh-cn">
 <head>
 <meta charset="utf-8"> 
 <style>
+  .header_box {
+    border: none;
+    background: #efefef;
+    font-size:24px
+  }
   button, input, optgroup, select, textarea {
     color: #005826;
     font: inherit;
@@ -58,15 +63,13 @@ permalink: /home_v1s
 <br>
   <div class="well" style="border: 1px solid #C9C9C9; background-color: #fff;">
     <section class="sectiontitle"> 
-  
-    <h1 class="post-title" itemprop="name headline"><strong>Welcome to Ribocentre-switch</strong></h1><br><br><br>
-      <div class="smallwell" style="border: 1px solid #C9C9C9; background-color: #fff;">
-        <strong style="color:#005826;font-weight: bold">Riboswitch</strong>  is a regulatory segment of a messenger RNA molecule that binds a small molecule, resulting in a change in production of the proteins encoded by the mRNA.[1][2][3][4] Thus, an mRNA that contains a riboswitch is directly involved in regulating its own activity, in response to the concentrations of its effector molecule. The discovery that modern organisms use RNA to bind small molecules, and discriminate against closely related analogs, expanded the known natural capabilities of RNA beyond its ability to code for proteins, catalyze reactions, or to bind other RNA or protein macromolecules.
+    <h1 class="post-title" itemprop="name headline"><strong>Welcome to Ribocentre-switch</strong></h1>
+        <strong style="color:#005826;font-weight: bold">Riboswitch</strong>  is a regulatory segment of a messenger RNA molecule that binds a small molecule, resulting in a change in production of the proteins encoded by the mRNA. Thus, an mRNA that contains a riboswitch is directly involved in regulating its own activity, in response to the concentrations of its effector molecule. The discovery that modern organisms use RNA to bind small molecules, and discriminate against closely related analogs, expanded the known natural capabilities of RNA beyond its ability to code for proteins, catalyze reactions, or to bind other RNA or protein macromolecules.
 
-  The original definition of the term "riboswitch" specified that they directly sense small-molecule metabolite concentrations.[5] Although this definition remains in common use, some biologists have used a broader definition that includes other cis-regulatory RNAs. However, this article will discuss only metabolite-binding riboswitches.
+        The original definition of the term "riboswitch" specified that they directly sense small-molecule metabolite concentrations. Although this definition remains in common use, some biologists have used a broader definition that includes other cis-regulatory RNAs. However, this article will discuss only metabolite-binding riboswitches.
 
-  Most known riboswitches occur in bacteria, but functional riboswitches of one type (the TPP riboswitch) have been discovered in archaea, plants and certain fungi. TPP riboswitches have also been found in eukaryotes eukaryotes that function via alternative splicing of mRNA..<br>
-      </div><br><br>
+        Most known riboswitches occur in bacteria, but functional riboswitches of one type (the TPP riboswitch) have been discovered in archaea, plants and certain fungi. TPP riboswitches have also been found in eukaryotes eukaryotes that function via alternative splicing of mRNA <a href="https://en.wikipedia.org/wiki/Riboswitch " target="_blank" >(from Wiki).</a>
+        <br><br><br>
     
   <div class="wrapper box_style " style="background-color: #fff">
 
@@ -112,7 +115,6 @@ permalink: /home_v1s
 </html>
 </div>
 
-
 <script>
 function openPage(pageName,elmnt,color) {
   var i, tabcontent, tablinks;
@@ -135,13 +137,21 @@ document.getElementById("defaultOpen").click();
 </div>
   
       </section>
+<br>
+
+<div class="sectiontitle" style="border: 1px solid #C9C9C9; background-color: #fff;">
+<p class="header_box">News</p>
+<div class="left-aligned" style="width: 82%;">
+
    </div>
     <br>
-  
+
+
 </div>
 <br>
-</body>
-</html>
+
+
+
 
 
 
