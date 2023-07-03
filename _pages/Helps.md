@@ -47,6 +47,7 @@ permalink: /helps/
     border-top: 3px solid black;
     }
   
+  
 </style>
 </head>
 
@@ -107,7 +108,7 @@ You are welcomed to send us feedback and your ideas or suggestions will be great
   <p class="header_box" >Group Members</p>
   <div class="row">
     <div class="col-sm-6 clearfix">
-      <p><img src="/images/tempics/Chichau_photo.jpg" class="img-responsive" width="25%" style="float: left;padding-right: 10px" /></p>
+      <p><img src="/images/tempics/Chichau_photo.jpg" class="img-responsive" width="25%" style="float: left;margin-right: 10px;box-shadow: 2px 2px 5px #888;" /></p>
       <h4 ><a href="Email:miao_zhichao@gzlab.ac.cn">Zhichao (Chichau) Miao</a></h4>
       <p><i>Principal Investigator of Guangzhou Lab</i></p>
       <ul style="overflow: hidden; margin-top: 10px;padding-left: 20px;">
@@ -119,7 +120,7 @@ You are welcomed to send us feedback and your ideas or suggestions will be great
       </ul>
     </div>
     <div class="col-sm-6 clearfix">
-      <p><img src="/images/tempics/Lin_Huang.jpg" class="img-responsive" width="25%" style="float: left;padding-right: 10px" /></p>
+      <p><img src="/images/tempics/Lin_Huang.jpg" class="img-responsive" width="25%" style="float: left;margin-right:10px;box-shadow: 2px 2px 5px #888;"></p>
       <h4><a href="Email:huanglin36@mail.sysu.edu.cn">Lin Huang</a></h4>
       <p><i>Principal Investigator of Sun Yat-sen University</i></p>
       <ul style="overflow: hidden; margin-top: 10px;padding-left: 20px;">
@@ -128,12 +129,186 @@ You are welcomed to send us feedback and your ideas or suggestions will be great
         <temli>Senior research associate at <a href="https://www.dundee.ac.uk/">University of Dundee, UK</a></temli><br>
       </ul>
     </div>
-
-  
-
   </div>
 
-  
+  <div class="row">
+    <div class="col-sm-6 clearfix">
+  <p><img src="/images/tempics/Fan_Bu.jpg" class="img-responsive" width="25%" style="float: left;margin-right: 10px;box-shadow: 2px 2px 5px #888;" /></p>
+  <h4 ><a href="Email:bufan2023@gmail.com">Fan Bu</a></h4>
+  <p><i>Graduate student</i></p>
+  <ul style="overflow: hidden; margin-top: 10px;padding-left: 20px;">
+                
+                    <temli>M.S. <a href="https://en.ustc.edu.cn/">University of Science and Technology of China</a></temli><br>
+                        
+                    <temli>B.S. <a href="http://www.henau.edu.cn/">Henan Agricultural University, China</a></temli><br>
+                        
+  </ul>
+</div>
+                    
+<div class="col-sm-6 clearfix">
+  <p><img src="/images/tempics/Xiaowei_Lin.jpg" class="img-responsive" width="25%" style="float: left;margin-right: 10px;box-shadow: 2px 2px 5px #888;" /></p>
+  <h4 ><a href="Email:linxw7@mail2.sysu.edu.cn">Xiaowei Lin</a></h4>
+  <p><i>Graduate student</i></p>
+  <ul style="overflow: hidden; margin-top: 10px;padding-left: 20px;">
+                
+                    <temli>M.S. <a href="https://www.sysu.edu.cn/sysuen/">Sun Yat-sen University, China</a></temli><br>
+                        
+                    <temli>B.S. <a href="https://www.sysu.edu.cn/sysuen/">Sun Yat-sen University, China</a></temli><br>
+                        
+  </ul>
+</div>
+  </div>
+
+   <div class="row">
+    <div class="col-sm-6 clearfix">
+  <p><img src="/images/tempics/Wenjian_Liao.jpg" class="img-responsive" width="25%" style="float: left;margin-right: 10px;box-shadow: 2px 2px 5px #888;" /></p>
+  <h4 ><a href="Email:liaowj7@mail2.sysu.edu.cn">Wenjian Liao</a></h4>
+  <p><i>Graduate student</i></p>
+  <ul style="overflow: hidden; margin-top: 10px;padding-left: 20px;">
+                
+                    <temli>M.S. <a href="https://www.sysu.edu.cn/">Sun Yat-sen University, China</a></temli><br>
+                        
+                    <temli>B.S. <a href="https://www.sysu.edu.cn/">Sun Yat-sen University, China</a></temli><br>
+                        
+  </ul>
+</div>
+                    
+<div class="col-sm-6 clearfix">
+  <p><img src="/images/tempics/Yuanlin_He.jpg" class="img-responsive" width="25%" style="float: left;margin-right: 10px;box-shadow: 2px 2px 5px #888;" /></p>
+  <h4 ><a href="Email:heylin8@mail2.sysu.edu.cn">Yuanlin He</a></h4>
+  <p><i>Graduate student</i></p>
+  <ul style="overflow: hidden; margin-top: 10px;padding-left: 20px;">
+                
+                    <temli>M.S. <a href="https://www.sysu.edu.cn/sysuen/">Sun Yat-sen University, China</a></temli><br>
+                        
+                    <temli>B.S. <a href="https://en.gzhmu.edu.cn">Guangzhou Medical University, China</a></temli><br>
+                        
+  </ul>
+</div>
+  </div>
+
+   <div class="row">
+    <div class="col-sm-6 clearfix">
+  <p><img src="/images/tempics/Yuanyin_Huang.jpg" class="img-responsive" width="25%" style="float: left;margin-right: 10px;box-shadow: 2px 2px 5px #888;" /></p>
+  <h4 ><a href="Email:huangyuanyin2022@163.com">Yuanyin Huang</a></h4>
+  <p><i>Research assistant</i></p>
+  <ul style="overflow: hidden; margin-top: 10px;padding-left: 20px;">
+                
+                    <temli>B.S. <a href="https://new.gzhmu.edu.cn/">Guangzhou Medical University, China</a></temli><br>
+                        
+  </ul>
+</div>
+                    
+<div class="col-sm-6 clearfix">
+  <p><img src="/images/tempics/Zhizhong_Lu.jpg" class="img-responsive" width="25%" style="float: left;margin-right: 10px;box-shadow: 2px 2px 5px #888;" /></p>
+  <h4 ><a href="Email:2112240208@gdpu.edu.cn">Zhizhong Lu</a></h4>
+  <p><i>Graduate student</i></p>
+  <ul style="overflow: hidden; margin-top: 10px;padding-left: 20px;">
+                
+                    <temli>M.S. <a href="https://www.gdpu.edu.cn/">Guangdong Pharmaceutical University, China</a></temli><br>
+                        
+                    <temli>B.S. <a href="https://www.cduestc.cn/">Chengdu College of University of Electronic Science and Technology of China</a></temli><br>
+                        
+  </ul>
+</div>
+  </div>
+    
+
+   <div class="row">
+    <div class="col-sm-6 clearfix">
+  <p><img src="/images/tempics/Mengxiao_Li.jpg" class="img-responsive" width="25%" style="float: left;margin-right: 10px;box-shadow: 2px 2px 5px #888;" /></p>
+  <h4 ><a href="Email:limx86@mail.sysu.edu.cn">Mengxiao Li</a></h4>
+  <p><i>Research assistant of Sun Yat-sen University</i></p>
+  <ul style="overflow: hidden; margin-top: 10px;padding-left: 20px;">
+                
+                    <temli>M.S. <a href="https://www.nankai.edu.cn/">Nankai University</a></temli><br>
+                        
+  </ul>
+</div>
+                    
+<div class="col-sm-6 clearfix">
+  <p><img src="/images/tempics/Xiaoxue_Chen.jpg" class="img-responsive" width="25%" style="float: left;margin-right: 10px;box-shadow: 2px 2px 5px #888;" /></p>
+  <h4 ><a href="Email:chenxx279@mail.sysu.edu.cn">Xiaoxue Chen</a></h4>
+  <p><i>Postdoctoral researchers of Sun Yat-sen University</i></p>
+  <ul style="overflow: hidden; margin-top: 10px;padding-left: 20px;">
+                
+                    <temli>PhD <a href="https://www.sysu.edu.cn/sysuen/">Sun Yat-sen University, China</a></temli><br>
+                        
+  </ul>
+</div>
+  </div>
+
+   <div class="row">
+    <div class="col-sm-6 clearfix">
+  <p><img src="/images/tempics/Xuemei_Peng.jpg" class="img-responsive" width="25%" style="float: left;margin-right: 10px;box-shadow: 2px 2px 5px #888;" /></p>
+  <h4 ><a href="Email:pengxm25@mail2.sysu.edu.cn">Xuemei Peng</a></h4>
+  <p><i>Graduate student</i></p>
+  <ul style="overflow: hidden; margin-top: 10px;padding-left: 20px;">
+                
+            <temli>PhD <a href="https://www.sysu.edu.cn/sysuen/">Sun Yat-sen University, China</a></temli><br>
+                
+            <temli>M.S. <a href="https://www.smu.edu.cn/">Southern Medical University, China</a></temli><br>
+                
+            <temli>B.S. <a href="https://www.cqmu.edu.cn/">Chongqing Medical University, China</a></temli><br>
+                
+  </ul>
+</div>
+            
+<div class="col-sm-6 clearfix">
+  <p><img src="/images/tempics/Bowen_Xiao.jpg" class="img-responsive" width="25%" style="float: left;margin-right: 10px;box-shadow: 2px 2px 5px #888;" /></p>
+  <h4 ><a href="Email:xiao_bowen@gzlab.ac.cn">Bowen Xiao</a></h4>
+  <p><i>Research assistant at Guangzhou National Laboratory</i></p>
+  <ul style="overflow: hidden; margin-top: 10px;padding-left: 20px;">
+                
+                    <temli>M.Sc. <a href="https://www.ku.dk/english/">University of Copenhagen, Denmark</a></temli><br>
+                        
+                    <temli>B.Sc. <a href="https://www.hzau.edu.cn/en/HOME.htm">Huazhong Agricultural University, China</a></temli><br>
+                        
+  </ul>
+</div>
+  </div>
+
+   <div class="row">
+    <div class="col-sm-6 clearfix">
+  <p><img src="/images/tempics/jiuhong_jiang.png" class="img-responsive" width="25%" style="float: left;margin-right: 10px;box-shadow: 2px 2px 5px #888;" /></p>
+  <h4 ><a href="Email:jiang_jiuhong@gzlab.ac.cn">Jiuhong Jiang</a></h4>
+  <p><i>Research assistant at Guangzhou National Laboratory</i></p>
+  <ul style="overflow: hidden; margin-top: 10px;padding-left: 20px;">
+                
+                    <temli>M.S. <a href="https://www.nenu.edu.cn/">Northeast Normal University, China</a></temli><br>
+                        
+  </ul>
+</div>
+                    
+<div class="col-sm-6 clearfix">
+  <p><img src="/images/tempics/Yuhang_Luo.jpg" class="img-responsive" width="25%" style="float: left;margin-right: 10px;box-shadow: 2px 2px 5px #888;" /></p>
+  <h4 ><a href="Email:1048548636@qq.com">Yuhang Luo</a></h4>
+  <p><i>Graduate student</i></p>
+  <ul style="overflow: hidden; margin-top: 10px;padding-left: 20px;">
+                
+                    <temli>M.S. <a href="https://www.sysu.edu.cn/sysuen/">Sun Yat-sen University, China</a></temli><br>
+                        
+                    <temli>B.S. <a href="https://www.gzhmu.edu.cn/">Guangzhou Medical University,China</a></temli><br>
+                        
+  </ul>
+</div>
+  </div>
+   
+   <div class="row">
+    <div class="col-sm-6 clearfix">
+  <p><img src="/images/tempics/Jie_Deng.jpg" class="img-responsive" width="25%" style="float: left;margin-right: 10px;box-shadow: 2px 2px 5px #888;" /></p>
+  <h4 ><a href="Email:dengj77@mail2.sysu.edu.cn">Jie Deng</a></h4>
+  <p><i>Graduate student</i></p>
+  <ul style="overflow: hidden; margin-top: 10px;padding-left: 20px;">
+                
+                    <temli>M.S. <a href="https://www.sysu.edu.cn/sysuen/">Sun Yat-sen University, China</a></temli><br>
+                        
+                    <temli>B.S. <a href="https://www.hunnu.edu.cn/">Hunan Normal University, China</a></temli><br>
+                        
+  </ul>
+</div>
+  </div>
+
 
 </div>
 

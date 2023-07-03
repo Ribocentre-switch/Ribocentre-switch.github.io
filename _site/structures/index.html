@@ -151,12 +151,43 @@
   <br>
   <div class="well" style="border: 1px solid #C9C9C9; background-color: #fff;">
     <section class="sectiontitle"> 
-      <html lang="en">
+      <h1 class="post-title" itemprop="name headline">Structures</h1>
+<p>This page summarizes structure determination and phasing methods for riboswitches. We also list all PDB of the collected riboswitches on the bottom.
+<br />
+<br /></p>
+<html>
+<head>
+  <title>structures</title>
+  <style>
+    .header_box {border: none;
+      background: #efefef;
+      font-size:24px
+  }
+  blockquote {
+  margin: 0 0 0p}
+  </style>
+</head>
+<body>
+
+</body>
+</html>
+
+<p class="header_box">Statistical information </p>
+<p>Statistics of structure determination and phasing methods for riboswitches. Left: structure determination for riboswitches (Cryogenic electron microscopy, Cryo-EM; Solution-state nuclear magnetic resonance spectroscopy, NMR). Right: The inner circle show cases of molecular replacement (MR) and de novo phasing based on heavy atom derivatives. The outer circle further indicates  the heavy atom used for de novo phasing, and the searching model for MR.
+<img src="/images/structures/phase_determination.svg" alt="drawing" style="width:800px;display:block;margin:0 auto;border:solid 1px;border-radius:0;" class="img-responsive" /></p>
+<div style="display: flex; justify-content: center;">
+  <p><a href="/images/structures/phase_determination.pdf" target="_blank" download="phase_determination.svg.svg"><button class="btn btn-secondary"><span class="glyphicon glyphicon-download-alt"></span>  Download FIGURE</button></a></p>
+</div>
+<p><br /></p>
+<p class="header_box">Detail information</p>
+<p>This page shows all PDB of the collected riboswitches. We also list phase determination of each PDB.</p>
+
+<html lang="en">
 <head>
 <!--set sort order in table header begin-->
 <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no" />
-  <title>Ribozyme applications</title>
+  <title>Structures</title>
   <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.12.1/css/jquery.dataTables.min.css" />
   <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/buttons/2.2.3/css/buttons.dataTables.min.css" />
 
@@ -266,10 +297,7 @@
 </head>
 
 <body onload="showSheet('sheet1')">
-<h1 class="post-title" itemprop="name headline">Structures</h1>
     
-This page shows all PDB of the collected riboswitches. We also list phase determination of each PDB.
-<br /><br /><br />
 <div class="form-container">
   <!-- 搜索框 -->
   <input type="text" id="searchBox" placeholder="Search by keyword..." oninput="searchSheets()" /><br /><br />
@@ -282,8 +310,8 @@ This page shows all PDB of the collected riboswitches. We also list phase determ
     <option value="/download/structures_page/Elemental ions.xlsx">Elemental ions</option>
     <option value="/download/structures_page/Amino acids.xlsx">Amino acids</option>
     <option value="/download/structures_page/Sugars.xlsx">Sugars</option>
-    <option value="/download/structures_page/T-box.xlsx">T-box</option>
     <option value="/download/structures_page/Others.xlsx">Others</option>
+    <option value="/download/structures_page/T-box.xlsx">T-box</option>
     <option value="/download/structures_page/all.xlsx">all</option>
   </select>
   <!-- Download button -->
@@ -299,8 +327,8 @@ This page shows all PDB of the collected riboswitches. We also list phase determ
       <button class="button" onclick="showSheet('sheet5')">Elemental ions</button>
       <button class="button" onclick="showSheet('sheet6')">Amino acids</button>
       <button class="button" onclick="showSheet('sheet7')">Sugars</button>
-      <button class="button" onclick="showSheet('sheet8')">T-box</button>
-      <button class="button" onclick="showSheet('sheet9')">Others</button>
+      <button class="button" onclick="showSheet('sheet8')">Others</button>
+      <button class="button" onclick="showSheet('sheet9')">T-box</button>
   </div>
         
 <div id="sheet1" class="sheet">
@@ -1535,7 +1563,7 @@ MIR-Co, Ir, Ba</td>
         <td name="td2">52</td>
         <td name="td3">SAM-II riboswitch bound to S-adenosylmethionine</td>
         <td name="td4">None</td>
-        <td name="td5">SAD-Cs + SIRAS-Cs</td>
+        <td name="td5">SAD-Cs / SIRAS-Cs</td>
         <td name="td6">X-RAY DIFFRACTION</td>
         <td name="td7">2.80 Å</td>
         <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/18204466/" target="_blank"><b>2008</b></a></td>
@@ -2359,7 +2387,7 @@ MIR-Co, Ir, Ba</td>
             <td name="td2">34</td>
             <td name="td3">Cocrystal structure of a class-I preQ1 riboswitch</td>
             <td name="td4">None</td>
-            <td name="td5">MR (RNA duplexes)</td>
+            <td name="td5">MR (Fragments)</td>
             <td name="td6">X-RAY DIFFRACTION</td>
             <td name="td7">2.85 Å</td>
             <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/19234468/" target="_blank"><b>2009</b></a></td>
@@ -3553,7 +3581,7 @@ MIR-Co, Ir, Ba</td>
             <td name="td2">93</td>
             <td name="td3">Co-crystal structure of a bacterial c-di-GMP riboswitch</td>
             <td name="td4">Homo sapiens</td>
-            <td name="td5">MR-U1A, two 5bp duplexes</td>
+            <td name="td5">MR-U1A</td>
             <td name="td6">X-RAY DIFFRACTION</td>
             <td name="td7">3.20 Å</td>
             <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/19898478/" target="_blank"><b>2009</b></a></td>
@@ -3749,7 +3777,7 @@ MIR-Co, Ir, Ba</td>
             <td name="td2">91</td>
             <td name="td3">Crystal structure of Bacillus subtilis cyclic-di-AMP riboswitch ydaO</td>
             <td name="td4">Homo sapiens', 'Bacillus subtilis</td>
-            <td name="td5">SAD-Se</td>
+            <td name="td5">SAD-Se-U1A</td>
             <td name="td6">X-RAY DIFFRACTION</td>
             <td name="td7">3.21 Å</td>
             <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/25271255/" target="_blank"><b>2014</b></a></td>
@@ -3945,8 +3973,7 @@ MIR-Co, Ir, Ba</td>
             <td name="td2">64</td>
             <td name="td3">Crystal structure of the ZMP riboswitch at 2.50 angstrom</td>
             <td name="td4">Schaalia odontolytica</td>
-            <td name="td5">MR (RNA duplexes),
-SAD-Ir</td>
+            <td name="td5">SAD-Ir</td>
             <td name="td6">X-RAY DIFFRACTION</td>
             <td name="td7">2.50 Å</td>
             <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/26144884/" target="_blank"><b>2015</b></a></td>
@@ -4137,7 +4164,7 @@ SAD-Ir</td>
         <td name="td2">161</td>
         <td name="td3">Structure of the M-Box Riboswitch Aptamer Domain</td>
         <td name="td4">None</td>
-        <td name="td5">SIR-Cs</td>
+        <td name="td5">SIRAS-Cs</td>
         <td name="td6">X-RAY DIFFRACTION</td>
         <td name="td7">2.60 Å</td>
         <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/17803910/" target="_blank"><b>2007</b></a></td>
@@ -4704,7 +4731,7 @@ SAD-Ir</td>
          <td name="td2">50</td>
          <td name="td3">Structure of the Glutamine II Riboswitch</td>
          <td name="td4">Prochlorococcus sp.</td>
-         <td name="td5">MR (homology modeling)</td>
+         <td name="td5">MR (Homology modeling)</td>
          <td name="td6">X-RAY DIFFRACTION</td>
          <td name="td7">2.30 Å</td>
          <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/31216023/" target="_blank"><b>2019</b></a></td>
@@ -4838,7 +4865,7 @@ SAD-Ir</td>
          <td name="td2">27</td>
          <td name="td3">Pre-cleavage state of the Thermoanaerobacter tengcongensis glmS ribozyme bound to glucose-6-phosphate</td>
          <td name="td4">None</td>
-         <td name="td5">MIR-Os, I</td>
+         <td name="td5">MIRAS-Os, I</td>
          <td name="td6">X-RAY DIFFRACTION</td>
          <td name="td7">2.90 Å</td>
          <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/16990543/" target="_blank"><b>2006</b></a></td>
@@ -4852,7 +4879,7 @@ SAD-Ir</td>
          <td name="td2">13</td>
          <td name="td3">Structural investigation of the GlmS ribozyme bound to its catalytic cofactor</td>
          <td name="td4">Homo sapiens</td>
-         <td name="td5">MIR-Ir, Co, I</td>
+         <td name="td5">MIRAS-Ir, Co, I</td>
          <td name="td6">X-RAY DIFFRACTION</td>
          <td name="td7">2.50 Å</td>
          <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/17196404/" target="_blank"><b>2007</b></a></td>
@@ -5054,42 +5081,42 @@ SAD-Ir</td>
       <tr>
         <td name="td0"><a href="https://ribocentre-switch.github.io/docs/T-box" target="_blank"><b>T-box</b></a></td>
         <td name="td1"><a href="https://www.rcsb.org/structure/6PMO" target="_blank"><b>6PMO</b></a></td>
-        <td name="td2">75</td>
+        <td name="td2">66 and 75</td>
         <td name="td3">Co-crystal structure of the Geobacillus kaustophilus glyQ T-box riboswitch discriminator domain in complex with tRNA-Gly</td>
         <td name="td4">Geobacillus kaustophilus</td>
-        <td name="td5">None</td>
+        <td name="td5">SAD-Ir</td>
         <td name="td6">X-RAY DIFFRACTION</td>
         <td name="td7">2.66 Å</td>
-        <td name="td8"><a href="None" target="_blank"><b>None</b></a></td>
-        <td name="td9">None</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/31740854/" target="_blank"><b>2019</b></a></td>
+        <td name="td9">NSMB</td>
       </tr>
     
                 
       <tr>
         <td name="td0"><a href="https://ribocentre-switch.github.io/docs/T-box" target="_blank"><b>T-box</b></a></td>
         <td name="td1"><a href="https://www.rcsb.org/structure/6POM" target="_blank"><b>6POM</b></a></td>
-        <td name="td2">75</td>
+        <td name="td2">169 and 75</td>
         <td name="td3">Cryo-EM structure of the full-length Bacillus subtilis glyQS T-box riboswitch in complex with tRNA-Gly</td>
         <td name="td4">Bacillus subtilis</td>
-        <td name="td5">None</td>
+        <td name="td5">Cryo-EM</td>
         <td name="td6">ELECTRON MICROSCOPY</td>
         <td name="td7">4.90 Å </td>
-        <td name="td8"><a href="None" target="_blank"><b>None</b></a></td>
-        <td name="td9">None</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/31740854/" target="_blank"><b>2019</b></a></td>
+        <td name="td9">NSMB</td>
       </tr>
     
                 
       <tr>
         <td name="td0"><a href="https://ribocentre-switch.github.io/docs/T-box" target="_blank"><b>T-box</b></a></td>
         <td name="td1"><a href="https://www.rcsb.org/structure/6UFM" target="_blank"><b>6UFM</b></a></td>
-        <td name="td2">77</td>
+        <td name="td2">98 and 77</td>
         <td name="td3">Cocrystal Structure of the Nocardia farcinica ileS T-box riboswitch in complex with its cognate tRNA</td>
         <td name="td4">Mycolicibacterium smegmatis', 'Nocardia farcinica</td>
-        <td name="td5">None</td>
+        <td name="td5">SAD-Ir</td>
         <td name="td6">X-RAY DIFFRACTION</td>
         <td name="td7">2.82 Å</td>
-        <td name="td8"><a href="None" target="_blank"><b>None</b></a></td>
-        <td name="td9">None</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/31792448/" target="_blank"><b>2019</b></a></td>
+        <td name="td9">NSMB</td>
       </tr>
     
                 
@@ -5099,11 +5126,11 @@ SAD-Ir</td>
         <td name="td2">86</td>
         <td name="td3">tRNA T-box antiterminator fusion, construct #4</td>
         <td name="td4">Geobacillus kaustophilus</td>
-        <td name="td5">None</td>
+        <td name="td5">MR</td>
         <td name="td6">X-RAY DIFFRACTION</td>
         <td name="td7">2.95 Å</td>
         <td name="td8"><a href="None" target="_blank"><b>None</b></a></td>
-        <td name="td9">None</td>
+        <td name="td9">To be published</td>
       </tr>
     
                 
@@ -5113,11 +5140,124 @@ SAD-Ir</td>
         <td name="td2">87</td>
         <td name="td3">AntiT-tRNA flip UCCA</td>
         <td name="td4">Geobacillus kaustophilus</td>
-        <td name="td5">None</td>
+        <td name="td5">MR</td>
         <td name="td6">X-RAY DIFFRACTION</td>
         <td name="td7">3.03 Å</td>
         <td name="td8"><a href="None" target="_blank"><b>None</b></a></td>
-        <td name="td9">None</td>
+        <td name="td9">To be published</td>
+      </tr>
+    
+                
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/T-box" target="_blank"><b>T-box</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/4LCK" target="_blank"><b>4LCK</b></a></td>
+        <td name="td2">102 and 75</td>
+        <td name="td3">Co-crystal structure of a T-box riboswitch stem I domain in complex with its cognate tRNA</td>
+        <td name="td4">Bacillus subtilis subsp. subtilis str. 168, Oceanobacillus iheyensis</td>
+        <td name="td5">SAD-Se, Sr
+MR (Fragments)</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">3.20 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/23892783/" target="_blank"><b>2013</b></a></td>
+        <td name="td9">Nature</td>
+      </tr>
+    
+                
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/T-box" target="_blank"><b>T-box</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/4MGN" target="_blank"><b>4MGN</b></a></td>
+        <td name="td2">86 and 75</td>
+        <td name="td3">Co-crystal structure of the G. kaustophilus glyQS T box riboswitch Stem I in complex with tRNA</td>
+        <td name="td4">Geobacillus kaustophilus </td>
+        <td name="td5">MR, SAD-Ba</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">3.21 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/24095061/" target="_blank"><b>2013</b></a></td>
+        <td name="td9">Structure</td>
+      </tr>
+    
+                
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/T-box" target="_blank"><b>T-box</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/6UFG" target="_blank"><b>6UFG</b></a></td>
+        <td name="td2">166 and 77</td>
+        <td name="td3">Co-crystal structure of M. tuberculosis ileS T-box in complex with tRNA-3'-OH</td>
+        <td name="td4">Mycobacterium tuberculosis</td>
+        <td name="td5">SAD-Ir, MR</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">2.93 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/31740853/" target="_blank"><b>2019</b></a></td>
+        <td name="td9">NSMB</td>
+      </tr>
+    
+                
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/T-box" target="_blank"><b>T-box</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/6UFH" target="_blank"><b>6UFH</b></a></td>
+        <td name="td2">167 and 77</td>
+        <td name="td3">Co-crystal structure of M. tuberculosis ileS T-box in complex with tRNA-3'-2'3'cyclic phosphate</td>
+        <td name="td4">Mycobacterium tuberculosis</td>
+        <td name="td5">MR</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">3.10 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/31740853/" target="_blank"><b>2019</b></a></td>
+        <td name="td9">NSMB</td>
+      </tr>
+    
+                
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/T-box" target="_blank"><b>T-box</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/4TZP" target="_blank"><b>4TZP</b></a></td>
+        <td name="td2">102 and 75</td>
+        <td name="td3">As Grown, Untreated Co-crystals of the Ternary Complex Containing a T-box Stem I RNA, its cognate tRNAGly, and B. subtilis YbxF protein</td>
+        <td name="td4">Bacillus subtilis, Oceanobacillus iheyensis</td>
+        <td name="td5">MR</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">8.50 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/25185828/" target="_blank"><b>2014</b></a></td>
+        <td name="td9">Structure</td>
+      </tr>
+    
+                
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/T-box" target="_blank"><b>T-box</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/4TZV" target="_blank"><b>4TZV</b></a></td>
+        <td name="td2">102 and 75</td>
+        <td name="td3">Co-crystals of the Ternary Complex Containing a T-box Stem I RNA, its Cognate tRNAGly, and B. subtilis YbxF protein, treated by removing lithium sulfate post crystallization</td>
+        <td name="td4">Bacillus subtilis, Oceanobacillus iheyensis HTE831</td>
+        <td name="td5">MR</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">5.03 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/25185828/" target="_blank"><b>2014</b></a></td>
+        <td name="td9">Structure</td>
+      </tr>
+    
+                
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/T-box" target="_blank"><b>T-box</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/4TZW" target="_blank"><b>4TZW</b></a></td>
+        <td name="td2">102 and 75</td>
+        <td name="td3">Co-crystals of the Ternary Complex Containing a T-box Stem I RNA, its Cognate tRNAGly, and B. subtilis YbxF protein, treated by removing lithium sulfate and replacing Mg2+ with Sr2+ post crystallization</td>
+        <td name="td4">Bacillus subtilis, Oceanobacillus iheyensis HTE831</td>
+        <td name="td5">MR</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">4.67 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/25185828/" target="_blank"><b>2014</b></a></td>
+        <td name="td9">Structure</td>
+      </tr>
+    
+                
+      <tr>
+        <td name="td0"><a href="https://ribocentre-switch.github.io/docs/T-box" target="_blank"><b>T-box</b></a></td>
+        <td name="td1"><a href="https://www.rcsb.org/structure/4TZZ" target="_blank"><b>4TZZ</b></a></td>
+        <td name="td2">102 and 75</td>
+        <td name="td3">Co-crystals of the Ternary Complex Containing a T-box Stem I RNA, its Cognate tRNAGly, and B. subtilis YbxF protein, treated by removing lithium sulfate and increasing PEG3350 concentration from 20% to 45% post crystallization</td>
+        <td name="td4">Bacillus subtilis, Oceanobacillus iheyensis</td>
+        <td name="td5">MR</td>
+        <td name="td6">X-RAY DIFFRACTION</td>
+        <td name="td7">3.64 Å</td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/25185828/" target="_blank"><b>2014</b></a></td>
+        <td name="td9">Structure</td>
       </tr>
     
                 
@@ -5150,7 +5290,7 @@ SAD-Ir</td>
             <td name="td2">95</td>
             <td name="td3">Structure of a guanidine-I riboswitch from S. acidophilus</td>
             <td name="td4">Sulfobacillus acidophilus DSM 10332</td>
-            <td name="td5">MAD-Ir/SIRAS</td>
+            <td name="td5">MAD-Ir / SIRAS</td>
             <td name="td6">X-RAY DIFFRACTION</td>
             <td name="td7">2.71 Å</td>
             <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/28017522/" target="_blank"><b>2017</b></a></td>

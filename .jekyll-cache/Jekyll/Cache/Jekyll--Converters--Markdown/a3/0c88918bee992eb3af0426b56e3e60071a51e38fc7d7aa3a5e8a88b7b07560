@@ -1,0 +1,331 @@
+I"?@<html>
+<h1 class="post-title" itemprop="name headline">Help</h1>
+<head>
+<style>
+  .header_box {
+    border: none;
+    background: #efefef;
+    font-size:24px
+  }
+  .box_style{
+    background: #f4f4f4;
+  }
+  .wrapper {
+    display: block;
+    position: relative;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    text-align: left;
+    word-wrap: break-word;
+    }
+  .sectiontitle {
+    display: block;
+    max-width: 100%;
+    margin: 0 auto ;
+    text-align: left;
+    background :#fff;
+    }
+  body {
+    padding-top: 70px;
+  }
+  .well {
+    max-width: 70%;
+    margin: 0 auto;
+    border-top: 3px solid black;
+    }
+  .smallwell {
+    max-width: 100%;
+    margin: 0 auto;
+    border-top: 3px solid black;
+    }
+  
+  
+</style>
+</head>
+
+<body>
+
+<br />
+<div class="sectiontitle" style="border: 1px solid #C9C9C9; background-color: #fff;">
+<p class="header_box">About Riboswitch database</p>
+Riboswitch is designed to contain comprehensive information of all natural riboswitches. In addition to a brief introduction to riboswitch,on each riboswitch page,We offer a variety of search options, so you can search by sequence, you can also index/search about the publications, structures, catalyses and applications of riboswitches that interest you. Users are welcomed to submit new riboswitch cases or related comments through the submission portal to help us improve our database.
+</div>
+<br />
+
+<div class="sectiontitle" style="border: 1px solid #C9C9C9; background-color: #fff;">  
+<p class="header_box">Usage</p>
+On <code class="language-plaintext highlighter-rouge"><font color="Gray"><a href="https://www.ribocentre.org/">Home</a></font></code> page, we borrow the introduction from wikipedia, hoping you could get some basic concepts of Riboswitches.
+
+Clink the Riboswitch name in <code class="language-plaintext highlighter-rouge"><font color="Gray"><a href="https://www.ribocentre.org/ribozyme">Riboswitches</a></font></code> page, and it would send ypu to a new page which shows the timeline, structure, binding pockets information and so on of the riboswitch you choosed. For 2d structures you can slide the mouse so you can zoom in and out on the structure, for 3d structures you can use the interactive window to colour the structure or click on the zoom button on the right to go to a new page with more detailed information.We hope you can find all the information available in this database. 
+
+The <code class="language-plaintext highlighter-rouge"><font color="Gray"><a href="https://www.ribocentre.org/catalysis">Binding pockets</a></font></code>page sums up information from binding pockets, which is proved by  publicated works and shows classification of the riboswitch.
+
+And on the <code class="language-plaintext highlighter-rouge"><font color="Gray"><a href="https://www.ribocentre.org/application">Applications</a></font></code> page, there are two examples displaying the application process of riboswitch in previous researches. This page will be timely updated.
+
+The <code class="language-plaintext highlighter-rouge"><font color="Gray"><a href="https://www.ribocentre.org/structure">Structures</a></font></code> page provides more details of riboswitches in different aspects and <code class="language-plaintext highlighter-rouge"><font color="Gray"><a href="https://www.ribocentre.org/publications">Publications</a></font></code> page provide the links of single riboswitch page/structure details/publications.<br />
+On some pages, we use table-format to show the information of different riboswitches. You can click the <code class="language-plaintext highlighter-rouge"><font color="Gray">header</font></code> to rank the column information. You can use the <code class="language-plaintext highlighter-rouge"><font color="Gray">Search</font></code>to search for the riboswitch, years, and other information. Under the table, you could find how many items we provided in the left. The database also provide the function of download to download what you want.
+</div>
+
+<br />
+<div class="sectiontitle" style="border: 1px solid #C9C9C9; background-color: #fff;">
+<p class="header_box">How to access Riboswitch data</p>
+The Riboswitch data can be accessed either by browsing or by searching. More details on how-to are provided below.
+</div>
+<br />
+<div class="sectiontitle" style="border: 1px solid #C9C9C9; background-color: #fff;">
+<p class="header_box">How to make a feedback</p>
+You are welcomed to send us feedback and your ideas or suggestions will be greatly valued. We will continue to have our database improved to be fully functional and user-friendly.Your opinions will be fully considered. Click the <code class="language-plaintext highlighter-rouge"><font color="Gray"><a href="https://docs.google.com/spreadsheets/d/1dWzCMqP9_fmOxxBxpx6Rc0Ro2Her0YIn-07Rpx7fzEs/edit?usp=sharing" target="_blank">Submit</a></font></code> button or figures to record your suggestions and comments on Google sheet. We provide more than one entrence you can find to send your feedback.<br />
+
+<a href="https://docs.google.com/spreadsheets/d/1QWMju5Y1uzZ9tL10eDpD7j4IMYvkP9VWAkgVgvU8HqY/edit?usp=sharing" target="_blank"><img src="/images/clikme.png" alt="drawing" style="width:400px;display:block;margin:0 auto;" /></a>
+</div>
+
+<br /><br />
+<html>
+<head>
+<style>
+  h4 {
+      padding-top: 10px;
+      padding-left:10px
+    }
+  temli::before {
+    content: "\2022"; /* 使用Unicode编码表示原点 */
+    margin-right: 5px; /* 可选：调整原点与文本之间的间距 */
+    white-space: pre-line;
+  }
+  
+</style>
+</head>
+<body>
+<div class="sectiontitle" style="border: 1px solid #C9C9C9; background-color: #fff; ">
+  <p class="header_box">Group Members</p>
+  <div class="row">
+    <div class="col-sm-6 clearfix">
+      <p><img src="/images/tempics/Chichau_photo.jpg" class="img-responsive" width="25%" style="float: left;margin-right: 10px;box-shadow: 2px 2px 5px #888;" /></p>
+      <h4><a href="Email:miao_zhichao@gzlab.ac.cn">Zhichao (Chichau) Miao</a></h4>
+      <p><i>Principal Investigator of Guangzhou Lab</i></p>
+      <ul style="overflow: hidden; margin-top: 10px;padding-left: 20px;">
+        <temli>PhD <a href="http://engtemlish.ibp.cas.cn/">Institute of Biophysics, CAS</a></temli><br />
+        <temli>Chercheur at <a href="https://ibmc.cnrs.fr/en/">IBMC, CNRS</a></temli><br />
+        <temli>PostDoc at <a href="https://www.ebi.ac.uk/">EMBL-EBI</a></temli><br />
+        <temli>Visiting Scientist at <a href="https://www.sanger.ac.uk/">Wellcome Sanger Institute</a></temli><br />
+        <temli>Senior Bioinformatician at <a href="https://www.ebi.ac.uk/">EMBL-EBI</a></temli>
+      </ul>
+    </div>
+    <div class="col-sm-6 clearfix">
+      <p><img src="/images/tempics/Lin_Huang.jpg" class="img-responsive" width="25%" style="float: left;margin-right:10px;box-shadow: 2px 2px 5px #888;" /></p>
+      <h4><a href="Email:huanglin36@mail.sysu.edu.cn">Lin Huang</a></h4>
+      <p><i>Principal Investigator of Sun Yat-sen University</i></p>
+      <ul style="overflow: hidden; margin-top: 10px;padding-left: 20px;">
+        <temli>PhD <a href="https://en.whu.edu.cn/">Wuhan University</a></temli><br />
+        <temli>Postdoctoral research assistant at <a href="https://www.dundee.ac.uk/">University of Dundee, UK</a></temli><br />
+        <temli>Senior research associate at <a href="https://www.dundee.ac.uk/">University of Dundee, UK</a></temli><br />
+      </ul>
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="col-sm-6 clearfix">
+  <p><img src="/images/tempics/Fan_Bu.jpg" class="img-responsive" width="25%" style="float: left;margin-right: 10px;box-shadow: 2px 2px 5px #888;" /></p>
+  <h4><a href="Email:bufan2023@gmail.com">Fan Bu</a></h4>
+  <p><i>Graduate student</i></p>
+  <ul style="overflow: hidden; margin-top: 10px;padding-left: 20px;">
+                
+                    <temli>M.S. <a href="https://en.ustc.edu.cn/">University of Science and Technology of China</a></temli><br />
+                        
+                    <temli>B.S. <a href="http://www.henau.edu.cn/">Henan Agricultural University, China</a></temli><br />
+                        
+  </ul>
+</div>
+                    
+<div class="col-sm-6 clearfix">
+  <p><img src="/images/tempics/Xiaowei_Lin.jpg" class="img-responsive" width="25%" style="float: left;margin-right: 10px;box-shadow: 2px 2px 5px #888;" /></p>
+  <h4><a href="Email:linxw7@mail2.sysu.edu.cn">Xiaowei Lin</a></h4>
+  <p><i>Graduate student</i></p>
+  <ul style="overflow: hidden; margin-top: 10px;padding-left: 20px;">
+                
+                    <temli>M.S. <a href="https://www.sysu.edu.cn/sysuen/">Sun Yat-sen University, China</a></temli><br />
+                        
+                    <temli>B.S. <a href="https://www.sysu.edu.cn/sysuen/">Sun Yat-sen University, China</a></temli><br />
+                        
+  </ul>
+</div>
+  </div>
+
+   <div class="row">
+    <div class="col-sm-6 clearfix">
+  <p><img src="/images/tempics/Wenjian_Liao.jpg" class="img-responsive" width="25%" style="float: left;margin-right: 10px;box-shadow: 2px 2px 5px #888;" /></p>
+  <h4><a href="Email:liaowj7@mail2.sysu.edu.cn">Wenjian Liao</a></h4>
+  <p><i>Graduate student</i></p>
+  <ul style="overflow: hidden; margin-top: 10px;padding-left: 20px;">
+                
+                    <temli>M.S. <a href="https://www.sysu.edu.cn/">Sun Yat-sen University, China</a></temli><br />
+                        
+                    <temli>B.S. <a href="https://www.sysu.edu.cn/">Sun Yat-sen University, China</a></temli><br />
+                        
+  </ul>
+</div>
+                    
+<div class="col-sm-6 clearfix">
+  <p><img src="/images/tempics/Yuanlin_He.jpg" class="img-responsive" width="25%" style="float: left;margin-right: 10px;box-shadow: 2px 2px 5px #888;" /></p>
+  <h4><a href="Email:heylin8@mail2.sysu.edu.cn">Yuanlin He</a></h4>
+  <p><i>Graduate student</i></p>
+  <ul style="overflow: hidden; margin-top: 10px;padding-left: 20px;">
+                
+                    <temli>M.S. <a href="https://www.sysu.edu.cn/sysuen/">Sun Yat-sen University, China</a></temli><br />
+                        
+                    <temli>B.S. <a href="https://en.gzhmu.edu.cn">Guangzhou Medical University, China</a></temli><br />
+                        
+  </ul>
+</div>
+  </div>
+
+   <div class="row">
+    <div class="col-sm-6 clearfix">
+  <p><img src="/images/tempics/Yuanyin_Huang.jpg" class="img-responsive" width="25%" style="float: left;margin-right: 10px;box-shadow: 2px 2px 5px #888;" /></p>
+  <h4><a href="Email:huangyuanyin2022@163.com">Yuanyin Huang</a></h4>
+  <p><i>Research assistant</i></p>
+  <ul style="overflow: hidden; margin-top: 10px;padding-left: 20px;">
+                
+                    <temli>B.S. <a href="https://new.gzhmu.edu.cn/">Guangzhou Medical University, China</a></temli><br />
+                        
+  </ul>
+</div>
+                    
+<div class="col-sm-6 clearfix">
+  <p><img src="/images/tempics/Zhizhong_Lu.jpg" class="img-responsive" width="25%" style="float: left;margin-right: 10px;box-shadow: 2px 2px 5px #888;" /></p>
+  <h4><a href="Email:2112240208@gdpu.edu.cn">Zhizhong Lu</a></h4>
+  <p><i>Graduate student</i></p>
+  <ul style="overflow: hidden; margin-top: 10px;padding-left: 20px;">
+                
+                    <temli>M.S. <a href="https://www.gdpu.edu.cn/">Guangdong Pharmaceutical University, China</a></temli><br />
+                        
+                    <temli>B.S. <a href="https://www.cduestc.cn/">Chengdu College of University of Electronic Science and Technology of China</a></temli><br />
+                        
+  </ul>
+</div>
+  </div>
+    
+
+   <div class="row">
+    <div class="col-sm-6 clearfix">
+  <p><img src="/images/tempics/Mengxiao_Li.jpg" class="img-responsive" width="25%" style="float: left;margin-right: 10px;box-shadow: 2px 2px 5px #888;" /></p>
+  <h4><a href="Email:limx86@mail.sysu.edu.cn">Mengxiao Li</a></h4>
+  <p><i>Research assistant of Sun Yat-sen University</i></p>
+  <ul style="overflow: hidden; margin-top: 10px;padding-left: 20px;">
+                
+                    <temli>M.S. <a href="https://www.nankai.edu.cn/">Nankai University</a></temli><br />
+                        
+  </ul>
+</div>
+                    
+<div class="col-sm-6 clearfix">
+  <p><img src="/images/tempics/Xiaoxue_Chen.jpg" class="img-responsive" width="25%" style="float: left;margin-right: 10px;box-shadow: 2px 2px 5px #888;" /></p>
+  <h4><a href="Email:chenxx279@mail.sysu.edu.cn">Xiaoxue Chen</a></h4>
+  <p><i>Postdoctoral researchers of Sun Yat-sen University</i></p>
+  <ul style="overflow: hidden; margin-top: 10px;padding-left: 20px;">
+                
+                    <temli>PhD <a href="https://www.sysu.edu.cn/sysuen/">Sun Yat-sen University, China</a></temli><br />
+                        
+  </ul>
+</div>
+  </div>
+
+   <div class="row">
+    <div class="col-sm-6 clearfix">
+  <p><img src="/images/tempics/Xuemei_Peng.jpg" class="img-responsive" width="25%" style="float: left;margin-right: 10px;box-shadow: 2px 2px 5px #888;" /></p>
+  <h4><a href="Email:pengxm25@mail2.sysu.edu.cn">Xuemei Peng</a></h4>
+  <p><i>Graduate student</i></p>
+  <ul style="overflow: hidden; margin-top: 10px;padding-left: 20px;">
+                
+            <temli>PhD <a href="https://www.sysu.edu.cn/sysuen/">Sun Yat-sen University, China</a></temli><br />
+                
+            <temli>M.S. <a href="https://www.smu.edu.cn/">Southern Medical University, China</a></temli><br />
+                
+            <temli>B.S. <a href="https://www.cqmu.edu.cn/">Chongqing Medical University, China</a></temli><br />
+                
+  </ul>
+</div>
+            
+<div class="col-sm-6 clearfix">
+  <p><img src="/images/tempics/Bowen_Xiao.jpg" class="img-responsive" width="25%" style="float: left;margin-right: 10px;box-shadow: 2px 2px 5px #888;" /></p>
+  <h4><a href="Email:xiao_bowen@gzlab.ac.cn">Bowen Xiao</a></h4>
+  <p><i>Research assistant at Guangzhou National Laboratory</i></p>
+  <ul style="overflow: hidden; margin-top: 10px;padding-left: 20px;">
+                
+                    <temli>M.Sc. <a href="https://www.ku.dk/english/">University of Copenhagen, Denmark</a></temli><br />
+                        
+                    <temli>B.Sc. <a href="https://www.hzau.edu.cn/en/HOME.htm">Huazhong Agricultural University, China</a></temli><br />
+                        
+  </ul>
+</div>
+  </div>
+
+   <div class="row">
+    <div class="col-sm-6 clearfix">
+  <p><img src="/images/tempics/jiuhong_jiang.png" class="img-responsive" width="25%" style="float: left;margin-right: 10px;box-shadow: 2px 2px 5px #888;" /></p>
+  <h4><a href="Email:jiang_jiuhong@gzlab.ac.cn">Jiuhong Jiang</a></h4>
+  <p><i>Research assistant at Guangzhou National Laboratory</i></p>
+  <ul style="overflow: hidden; margin-top: 10px;padding-left: 20px;">
+                
+                    <temli>M.S. <a href="https://www.nenu.edu.cn/">Northeast Normal University, China</a></temli><br />
+                        
+  </ul>
+</div>
+                    
+<div class="col-sm-6 clearfix">
+  <p><img src="/images/tempics/Yuhang_Luo.jpg" class="img-responsive" width="25%" style="float: left;margin-right: 10px;box-shadow: 2px 2px 5px #888;" /></p>
+  <h4><a href="Email:1048548636@qq.com">Yuhang Luo</a></h4>
+  <p><i>Graduate student</i></p>
+  <ul style="overflow: hidden; margin-top: 10px;padding-left: 20px;">
+                
+                    <temli>M.S. <a href="https://www.sysu.edu.cn/sysuen/">Sun Yat-sen University, China</a></temli><br />
+                        
+                    <temli>B.S. <a href="https://www.gzhmu.edu.cn/">Guangzhou Medical University,China</a></temli><br />
+                        
+  </ul>
+</div>
+  </div>
+   
+   <div class="row">
+    <div class="col-sm-6 clearfix">
+  <p><img src="/images/tempics/Jie_Deng.jpg" class="img-responsive" width="25%" style="float: left;margin-right: 10px;box-shadow: 2px 2px 5px #888;" /></p>
+  <h4><a href="Email:dengj77@mail2.sysu.edu.cn">Jie Deng</a></h4>
+  <p><i>Graduate student</i></p>
+  <ul style="overflow: hidden; margin-top: 10px;padding-left: 20px;">
+                
+                    <temli>M.S. <a href="https://www.sysu.edu.cn/sysuen/">Sun Yat-sen University, China</a></temli><br />
+                        
+                    <temli>B.S. <a href="https://www.hunnu.edu.cn/">Hunan Normal University, China</a></temli><br />
+                        
+  </ul>
+</div>
+  </div>
+
+
+</div>
+
+
+
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body></html>
+:ET

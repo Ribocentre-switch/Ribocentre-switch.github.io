@@ -1,0 +1,63 @@
+I"$<html>
+<h1 class="post-title" itemprop="name headline">Help</h1>
+<head>
+<style>
+  .header_box {
+    border: none;
+    background: #efefef;
+    font-size:24px
+  }
+  .box_style{
+    background: #f4f4f4;
+  }
+  .wrapper {
+    display: block;
+    position: relative;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    text-align: left;
+    word-wrap: break-word;
+    }
+  .sectiontitle {
+    display: block;
+    max-width: 100%;
+    margin: 0 auto ;
+    text-align: left;
+    background :#fff;
+    }
+  body {
+    padding-top: 70px;
+  }
+  .well {
+    max-width: 70%;
+    margin: 0 auto;
+    border-top: 3px solid black;
+    }
+  .smallwell {
+    max-width: 100%;
+    margin: 0 auto;
+    border-top: 3px solid black;
+    }
+  
+  
+</style>
+</head>
+
+<body>
+<br />
+<div class="sectiontitle" style="border: 1px solid #C9C9C9; background-color: #fff;">
+<p class="header_box">Summary</p>
+
+</div>
+<br />
+<br />
+<div class="sectiontitle" style="border: 1px solid #C9C9C9; background-color: #fff;">
+<p class="header_box">Detailed information</p>
+
+</div>
+<br />
+
+</body>
+</html>
+:ET
