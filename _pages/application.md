@@ -70,6 +70,7 @@ Riboswitches can affect bacterial homeostasis, development, pathogenicity, and a
         
 Schematic representation of the FMN riboswitch as new antibacterials target. Different antibacterial compounds bind to the FMN riboswitch and abolish the expression of the downstream genes (left). The chemical structure and KD of the antibacterial compounds is also indicated (right).<br>
 <img src="/images/applications/application_figure.svg" alt="drawing" style="weight:400px;display:block;margin:0 auto;border:solid 1px;border-radius:0;"><br>
+
 <a href="/images/applications/application_figure.svg" target="_blank" download="Developing new antibacterials.svg"><button class="btn btn-secondary"><span class="glyphicon 
 glyphicon-download-alt"></span>&nbsp;&nbsp;Download above picture</button></a><br>
 <br>

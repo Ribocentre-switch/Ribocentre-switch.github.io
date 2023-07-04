@@ -59,6 +59,9 @@ permalink: /
   .left-aligned {
   text-align: left;
 }
+   img{
+    margin: 0 0 0 0; 
+    border-radius: 0%; }
       
 </style>
 </head>
@@ -68,12 +71,57 @@ permalink: /
   <div class="well" style="border: 1px solid #C9C9C9; background-color: #fff;">
     <section class="sectiontitle"> 
     <h1 class="post-title" itemprop="name headline"><strong>Welcome to Ribocentre-switch</strong></h1>
-        <strong style="color:#005826;font-weight: bold">Riboswitch</strong>  is a regulatory segment of a messenger RNA molecule that binds a small molecule, resulting in a change in production of the proteins encoded by the mRNA. Thus, an mRNA that contains a riboswitch is directly involved in regulating its own activity, in response to the concentrations of its effector molecule. The discovery that modern organisms use RNA to bind small molecules, and discriminate against closely related analogs, expanded the known natural capabilities of RNA beyond its ability to code for proteins, catalyze reactions, or to bind other RNA or protein macromolecules.
+    <div>
+    <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
+    <!-- Menu -->
+    <ol class="carousel-indicators">
+        <li data-target="#carousel" data-slide-to="0" class="active"></li>
+        <li data-target="#carousel" data-slide-to="1"></li>
+        <li data-target="#carousel" data-slide-to="2"></li>
+        <li data-target="#carousel" data-slide-to="3"></li>
+        <li data-target="#carousel" data-slide-to="4"></li>
+    </ol>
+
+    <!-- Items -->
+    <div class="carousel-inner" markdown="0">
+        <div class="item active">
+            <img src="/images/riboswitch.png" alt="Slide 1" style="height:100%; width: 100%; object-fit: cover;border-radius:0%"/>
+        </div>
+        <div class="item">
+            <img src="/images/riboswitch.png" alt="Slide 2" style="height:100%; width: 100%; object-fit: cover;border-radius:0%"/>
+        </div>
+        <div class="item">
+            <img src="/images/riboswitch.png" alt="Slide 3" style="height:100%; width: 100%; object-fit: cover;border-radius:0%"/>
+        </div>
+        <div class="item">
+            <img src="/images/riboswitch.png" alt="Slide 4" style="height:100%; width: 100%; object-fit: cover;border-radius:0%"/>
+        </div>
+
+        <div class="item">
+            <img src="/images/riboswitch.png" alt="Slide 5" style="height:100%; width: 100%; object-fit: cover;border-radius:0%"/>
+        </div>
+
+    </div>
+  <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
+    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="right carousel-control" href="#carousel" role="button" data-slide="next">
+    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>
+<br>
+<strong style="color:#005826;font-weight: bold">Riboswitch</strong>  is a regulatory segment of a messenger RNA molecule that binds a small molecule, resulting in a change in production of the proteins encoded by the mRNA. Thus, an mRNA that contains a riboswitch is directly involved in regulating its own activity, in response to the concentrations of its effector molecule. The discovery that modern organisms use RNA to bind small molecules, and discriminate against closely related analogs, expanded the known natural capabilities of RNA beyond its ability to code for proteins, catalyze reactions, or to bind other RNA or protein macromolecules.
 
         The original definition of the term "riboswitch" specified that they directly sense small-molecule metabolite concentrations. Although this definition remains in common use, some biologists have used a broader definition that includes other cis-regulatory RNAs. However, this article will discuss only metabolite-binding riboswitches.
 
         Most known riboswitches occur in bacteria, but functional riboswitches of one type (the TPP riboswitch) have been discovered in archaea, plants and certain fungi. TPP riboswitches have also been found in eukaryotes eukaryotes that function via alternative splicing of mRNA <a href="https://en.wikipedia.org/wiki/Riboswitch " target="_blank" >(from Wiki).</a><br>
-      <br><br>
+      
+</div>
+<br>
+<br>
+        
     
 
 <div class="sectiontitle" style="border: 1px solid #C9C9C9; background-color: #fff;">

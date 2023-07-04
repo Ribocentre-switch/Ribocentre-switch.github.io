@@ -1,0 +1,187 @@
+I"�<html lang="zh-cn">
+<head>
+<meta charset="utf-8" /> 
+<style>
+  button, input, optgroup, select, textarea {
+    color: #005826;
+    font: inherit;
+    font-weight: bold;
+    margin: 0;
+}
+.header_box {
+    border: none;
+    background: #efefef;
+    font-size:24px
+  }
+  .box_style{
+    background: #f4f4f4;
+  }
+  .wrapper {
+    display: block;
+    position: relative;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    text-align: left;
+    word-wrap: break-word;
+    }
+  .sectiontitle {
+    display: block;
+    max-width: 100%;
+    margin: 0 auto ;
+    text-align: left;
+    background :#fff;
+    }
+  body {
+    padding-top: 70px;
+  }
+  .well {
+    max-width: 70%;
+    margin: 0 auto;
+    border-top: 3px solid black;
+    }
+  .smallwell {
+    max-width: 100%;
+    margin: 0 auto;
+    border-top: 3px solid black;
+    }
+  table:not(.table-bordered)>thead>tr>th,table:not(.table-bordered)>tbody>tr>th,table:not(.table-bordered)>tfoot>tr>th,table:not(.table-bordered)>thead>tr>td,table:not(.table-bordered)>tbody>tr>td,table:not(.table-bordered)>tfoot>tr>td,.table:not(.table-bordered)>thead>tr>th,.table:not(.table-bordered)>tbody>tr>th,.table:not(.table-bordered)>tfoot>tr>th,.table:not(.table-bordered)>thead>tr>td,.table:not(.table-bordered)>tbody>tr>td,.table:not(.table-bordered)>tfoot>tr>td {
+    border-color: transparent;
+    border: 1px solid #fff
+}
+  .left-aligned {
+  text-align: left;
+}
+      
+</style>
+</head>
+<body>
+<div class="wrapper box_style">
+<br />
+  <div class="well" style="border: 1px solid #C9C9C9; background-color: #fff;">
+    <section class="sectiontitle"> 
+    <h1 class="post-title" itemprop="name headline"><strong>Welcome to Ribocentre-switch</strong></h1>
+    &lt;!DOCTYPE html&gt;
+<html>
+<head>
+  <title>Bootstrap 实例</title>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link rel="stylesheet" href="https://cdn.staticfile.org/twitter-bootstrap/4.3.1/css/bootstrap.min.css" />
+  <script src="https://cdn.staticfile.org/jquery/3.2.1/jquery.min.js"></script>
+  <script src="https://cdn.staticfile.org/popper.js/1.15.0/umd/popper.min.js"></script>
+  <script src="https://cdn.staticfile.org/twitter-bootstrap/4.3.1/js/bootstrap.min.js"></script>
+  <style>
+  /* Make the image fully responsive */
+  .carousel-inner img {
+      width: 100%;
+      height: 100%;
+  }
+  </style>
+</head>
+<body>
+
+<div id="demo" class="carousel slide" data-ride="carousel" data-interval="2000">
+ 
+  <!-- 指示符 -->
+  <ul class="carousel-indicators">
+    <li data-target="#demo" data-slide-to="0" class="active"></li>
+    <li data-target="#demo" data-slide-to="1"></li>
+    <li data-target="#demo" data-slide-to="2"></li>
+  </ul>
+ 
+  <!-- 轮播图片 -->
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="./1.png" />
+    </div>
+    <div class="carousel-item">
+      <img src="./2.png" />
+    </div>
+    <div class="carousel-item">
+      <img src="./3.png" />
+    </div>
+  </div>
+ 
+  <!-- 左右切换按钮 -->
+  <a class="carousel-control-prev" href="#demo" data-slide="prev">
+    <span class="carousel-control-prev-icon"></span>
+  </a>
+  <a class="carousel-control-next" href="#demo" data-slide="next">
+    <span class="carousel-control-next-icon"></span>
+  </a>
+ 
+</div>
+
+</body>
+</html>
+
+        <strong style="color:#005826;font-weight: bold">Riboswitch</strong>  is a regulatory segment of a messenger RNA molecule that binds a small molecule, resulting in a change in production of the proteins encoded by the mRNA. Thus, an mRNA that contains a riboswitch is directly involved in regulating its own activity, in response to the concentrations of its effector molecule. The discovery that modern organisms use RNA to bind small molecules, and discriminate against closely related analogs, expanded the known natural capabilities of RNA beyond its ability to code for proteins, catalyze reactions, or to bind other RNA or protein macromolecules.
+
+        The original definition of the term "riboswitch" specified that they directly sense small-molecule metabolite concentrations. Although this definition remains in common use, some biologists have used a broader definition that includes other cis-regulatory RNAs. However, this article will discuss only metabolite-binding riboswitches.
+
+        Most known riboswitches occur in bacteria, but functional riboswitches of one type (the TPP riboswitch) have been discovered in archaea, plants and certain fungi. TPP riboswitches have also been found in eukaryotes eukaryotes that function via alternative splicing of mRNA <a href="https://en.wikipedia.org/wiki/Riboswitch " target="_blank">(from Wiki).</a><br />
+      <br /><br />
+    
+
+<div class="sectiontitle" style="border: 1px solid #C9C9C9; background-color: #fff;">
+<p class="header_box">Search by sequence</p>
+<html>
+  <head>
+    <title>Sequence search</title>
+  </head>
+  <body>
+    <rnacentral-sequence-search databases="[&quot;ribocentre&quot;]" examples="[
+              {&quot;description&quot;: &quot;c-di-GMP-II-GAG riboswitch&quot;, &quot;urs&quot;: &quot;&quot;, &quot;sequence&quot;: &quot;CUGCACGCGGGAGGCUGUGAUCCGCCGGACGUACCGACUGCGGCCACCGCAGUCCGGCGGGGAGCCACUGGUGAGACCGGCCCCCGAAG&quot;},
+              {&quot;description&quot;: &quot;TPP riboswitch (THI element)&quot;, &quot;urs&quot;: &quot;&quot;, &quot;sequence&quot;: &quot;GTGTCCACTCACGGGTGCGCTTCATTAAGCGCTGAGAATAAACCGTTTGAACCTGATCCGGGTTATGCCGGCGATAGGAAGAGAATTATGCATAATG&quot;}
+            ]" rfam="true" />
+  <script type="text/javascript" src="https://www.ribocentre.org/js/RNAcentral-sequence-search.js"></script></body>
+</html>
+</div>
+<br />
+
+<div class="sectiontitle" style="border: 1px solid #C9C9C9; background-color: #fff;">
+<p class="header_box">Search by text</p>
+<div class="left-aligned" style="width: 82%;">
+<!--<div class="well">-->
+<script async="" src="https://cse.google.com/cse.js?cx=83f482a688df849e9"></script>
+<div class="gcse-search"></div>
+<p>
+    <b>Quick links:&nbsp;</b>
+    <a href="https://riboswitch.ribocentre.org/riboswitches/">Riboswitches</a>&nbsp;&nbsp;
+    <a href="https://riboswitch.ribocentre.org/sequences/">Sequences</a>&nbsp;&nbsp;
+    <a href="https://riboswitch.ribocentre.org/docs/THF/" target="_blank">THF</a>&nbsp;&nbsp;
+    <a href="https://riboswitch.ribocentre.org/helps/">Teams</a>&nbsp;&nbsp;
+</p>
+</div>
+</div>
+<br />
+
+<div class="sectiontitle" style="border: 1px solid #C9C9C9; background-color: #fff;">
+<p class="header_box">News</p>
+<div class="left-aligned" style="width: 82%;">
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+ 
+
+
+
+
+
+
+</div></section></div></div></body></html>
+:ET
