@@ -1,4 +1,4 @@
-I"�7<h1 class="post-title" itemprop="name headline">Orphan riboswitch</h1>
+I"7<h1 class="post-title" itemprop="name headline">Orphan riboswitch</h1>
 <p>Orphan riboswitch candidates are noncoding RNA motifs whose representatives are believed to function as genetic regulatory elements, but whose target ligands have yet to be identified.
 <br /><br /></p>
 <html>
@@ -48,8 +48,8 @@
 <p id="Strong_orphan_riboswitch"> </p>
   <p style="font-size: 16px">Click the buttons to navigate to different sections:</p>
   <div class="button-container">
-    <a class="button" href="#Strong_orphan_riboswitch">Strong orphan riboswitch</a>
-    <a class="button" href="#Weak_orphan_riboswitch">Weak orphan riboswitch</a>
+    <a class="button" href="#Strong_orphan_riboswitch">Strong orphan riboswitches</a>
+    <a class="button" href="#Weak_orphan_riboswitch">Weak orphan riboswitches</a>
   </div>
 </body>
 </html>
@@ -103,7 +103,6 @@
   <thead>
   <tr>
     <th>Name</th>
-    <th>Reference number </th>
     <th>Rfam id</th>
     <th>Unique representatives</th>
     <th>Conserved nucleotides</th>
@@ -113,8 +112,7 @@
  <tbody>
         
   <tr>
-    <td><i>ykkC</i> 2c</td>
-    <td>[2-5]</td>
+    <td><i>ykkC</i> 2c<sup>[2-5]</sup></td>
     <td>None</td>
     <td>45</td>
     <td>66</td>
@@ -123,8 +121,7 @@
     
                     
   <tr>
-    <td><i>ykkC</i> 2d</td>
-    <td>[2-5]</td>
+    <td><i>ykkC</i> 2d<sup>[2-5]</sup></td>
     <td>None</td>
     <td>144</td>
     <td>38</td>
@@ -133,8 +130,7 @@
     
                     
   <tr>
-    <td><i>speF</i></td>
-    <td>[6]</td>
+    <td><i>speF</i><sup>[6]</sup></td>
     <td>RF00518</td>
     <td>868</td>
     <td>92 (59)</td>
@@ -143,8 +139,7 @@
     
                     
   <tr>
-    <td><i>serC</i></td>
-    <td>[6]</td>
+    <td><i>serC</i><sup>[6]</sup></td>
     <td>RF00517</td>
     <td>1274</td>
     <td>16</td>
@@ -153,8 +148,7 @@
     
                     
   <tr>
-    <td><i>ybhL</i></td>
-    <td>[6]</td>
+    <td><i>ybhL</i><sup>[6]</sup></td>
     <td>RF00520</td>
     <td>207</td>
     <td>26</td>
@@ -163,8 +157,7 @@
     
                     
   <tr>
-    <td>ATPC</td>
-    <td>[7]</td>
+    <td>ATPC<sup>[7]</sup></td>
     <td>RF01067</td>
     <td>222</td>
     <td>15</td>
@@ -173,8 +166,7 @@
     
                     
   <tr>
-    <td><i>sucA</i></td>
-    <td>[7]</td>
+    <td><i>sucA</i><sup>[7]</sup></td>
     <td>RF01070</td>
     <td>490</td>
     <td>16</td>
@@ -183,8 +175,7 @@
     
                     
   <tr>
-    <td><i>sucA-II</i></td>
-    <td>[8]</td>
+    <td><i>sucA-II</i><sup>[8]</sup></td>
     <td>RF01758</td>
     <td>294</td>
     <td>25</td>
@@ -193,8 +184,7 @@
     
                     
   <tr>
-    <td><i>aceE</i></td>
-    <td>[8]</td>
+    <td><i>aceE</i><sup>[8]</sup></td>
     <td>None</td>
     <td>181</td>
     <td>12</td>
@@ -203,8 +193,7 @@
     
                     
   <tr>
-    <td><i>gabT</i></td>
-    <td>[8]</td>
+    <td><i>gabT</i><sup>[8]</sup></td>
     <td>RF01738</td>
     <td>315</td>
     <td>21 (23)</td>
@@ -213,8 +202,7 @@
     
                     
   <tr>
-    <td><i>icd</i></td>
-    <td>[8]</td>
+    <td><i>icd</i><sup>[8]</sup></td>
     <td>RF04189</td>
     <td>373</td>
     <td>14</td>
@@ -223,8 +211,7 @@
     
                     
   <tr>
-    <td><i>Lacto-usp</i></td>
-    <td>[8]</td>
+    <td><i>Lacto-usp</i><sup>[8]</sup></td>
     <td>RF01710</td>
     <td>63</td>
     <td>58</td>
@@ -233,8 +220,7 @@
     
                     
   <tr>
-    <td><i>manA</i></td>
-    <td>[8]</td>
+    <td><i>manA</i><sup>[8]</sup></td>
     <td>RF01745</td>
     <td>527</td>
     <td>14 (15, 19)</td>
@@ -243,8 +229,7 @@
     
                     
   <tr>
-    <td>Moco-II</td>
-    <td>[8]</td>
+    <td>Moco-II<sup>[8]</sup></td>
     <td>RF01713</td>
     <td>20</td>
     <td>12</td>
@@ -253,8 +238,7 @@
     
                     
   <tr>
-    <td><i>msiK</i></td>
-    <td>[8]</td>
+    <td><i>msiK</i><sup>[8]</sup></td>
     <td>RF01747</td>
     <td>1124</td>
     <td>23</td>
@@ -263,8 +247,7 @@
     
                     
   <tr>
-    <td><i>potC</i></td>
-    <td>[8]</td>
+    <td><i>potC</i><sup>[8]</sup></td>
     <td>RF01751</td>
     <td>221</td>
     <td>8</td>
@@ -273,8 +256,7 @@
     
                     
   <tr>
-    <td><i>psaA</i></td>
-    <td>[8]</td>
+    <td><i>psaA</i><sup>[8]</sup></td>
     <td>RF01752</td>
     <td>76</td>
     <td>52</td>
@@ -283,8 +265,7 @@
     
                     
   <tr>
-    <td><i>Pseudomon</i>-GGDEF</td>
-    <td>[8]</td>
+    <td><i>Pseudomon</i>-GGDEF<sup>[8]</sup></td>
     <td>None</td>
     <td>65</td>
     <td>67</td>
@@ -293,8 +274,7 @@
     
                     
   <tr>
-    <td>SAM-Chlorobi</td>
-    <td>[8]</td>
+    <td>SAM-Chlorobi<sup>[8]</sup></td>
     <td>RF01724</td>
     <td>40</td>
     <td>22</td>
@@ -303,8 +283,7 @@
     
                     
   <tr>
-    <td><i>wcaG</i></td>
-    <td>[8]</td>
+    <td><i>wcaG</i><sup>[8]</sup></td>
     <td>RF01761</td>
     <td>137</td>
     <td>13</td>
@@ -367,7 +346,6 @@
   <thead>
   <tr>
     <th>Name</th>
-    <th>Reference_number </th>
     <th>Rfam_id</th>
     <th>Unique representatives</th>
     <th>Conserved nucleotides</th>
@@ -377,8 +355,7 @@
  <tbody>
             
   <tr>
-    <td><i>sucC</i>&lt;/a&gt;</td>
-    <td>[8]</td>
+    <td><i>sucC</i><sup>[8]</sup></td>
     <td>None</td>
     <td>72</td>
     <td>25</td>
@@ -387,8 +364,7 @@
     
                     
   <tr>
-    <td><i>rmf</i>&lt;/a&gt;</td>
-    <td>[8]</td>
+    <td><i>rmf</i><sup>[8]</sup></td>
     <td>RF01755</td>
     <td>363</td>
     <td>50</td>
@@ -397,8 +373,7 @@
     
                     
   <tr>
-    <td>Termite-<i>flg</i>&lt;/a&gt;</td>
-    <td>[8]</td>
+    <td>Termite-<i>flg</i><sup>[8]</sup></td>
     <td>RF01729</td>
     <td>67</td>
     <td>18</td>
@@ -407,8 +382,7 @@
     
                     
   <tr>
-    <td><i>nuoG</i>&lt;/a&gt;</td>
-    <td>[8]</td>
+    <td><i>nuoG</i><sup>[8]</sup></td>
     <td>RF01748</td>
     <td>38</td>
     <td>24 (49)</td>
@@ -417,8 +391,7 @@
     
                     
   <tr>
-    <td><i>livK</i>&lt;/a&gt;</td>
-    <td>[8]</td>
+    <td><i>livK</i><sup>[8]</sup></td>
     <td>RF01744</td>
     <td>88</td>
     <td>33</td>
@@ -427,8 +400,7 @@
     
                     
   <tr>
-    <td>Polynucleobacter-1 &lt;/a&gt;</td>
-    <td>[8]</td>
+    <td>Polynucleobacter-1 <sup>[8]</sup></td>
     <td>None</td>
     <td>86</td>
     <td>19</td>
