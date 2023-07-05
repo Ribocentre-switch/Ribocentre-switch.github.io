@@ -6,7 +6,7 @@ sitemap: True
 permalink: /orphan_riboswitch/
 ---
 
-<h1 class="post-title" itemprop="name headline">Orphan riboswitch</h1>
+<h1 class="post-title" itemprop="name headline">Orphan riboswitches</h1>
 Orphan riboswitch candidates are noncoding RNA motifs whose representatives are believed to function as genetic regulatory elements, but whose target ligands have yet to be identified.
 <br><br>
 <html>
