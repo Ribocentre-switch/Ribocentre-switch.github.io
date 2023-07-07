@@ -1,155 +1,4 @@
-<!DOCTYPE html>
-<html>
-
-  <head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>2&#39;-dG</title>
-  <meta name="description" content="Ribo centre is a database of ribozymes.
-">
-  <!--<link rel="stylesheet" href="http://localhost:4002/css/main.css>-->
-  <link rel="stylesheet" href="/css/main.css">
-  <link rel="canonical" href="http://localhost:4002/docs/2-dG/">
-  <link rel="shortcut icon" type ="image/x-icon" href="http://localhost:4002/images/favicon.ico">
-
-
-
-</head>
-
-
-  <body>
-    
-	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-  
-<div class="navbar navbar-default navbar-fixed-top" role="navigation">
-  <style>
-		.navbar-default .navbar-brand {
-    color: #ffffff;
-		}
-        .navbar {
-            background-color: #005826;
-        }
-		#now a{
-			color:#fff;
-			font-size: 20px;
-		}
-		#now a:hover{
-			font-size: 20px;
-		}
-	
-		
-	li {
-		float: left;
-	}
-
-	li a {
-		display: block;
-		color: rgb(254, 247, 247);
-		text-align: center;
-		padding: 14px 16px;
-		text-decoration: none;
-	}
-
-	li a:hover:not(.active) {
-		background-color: #005826;
-	}
-
-	li a.active {
-		background-color: #000000;
-}
-</style>
-
-
-
-  <div class="container-fluid2">
-	<div class="navbar-header">
-	  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse-1" aria-expanded="false">
-		<span class="sr-only">Toggle navigation</span>
-		<span class="icon-bar"></span>
-		<span class="icon-bar"></span>
-		<span class="icon-bar"></span>
-	  </button>
-	
-    <a class="navbar-brand" href="https://riboswitch.ribocentre.org/">
-		
-		<img class="navbar-brand" src="/images/Riboswitch_logo_bggreen.png" style='height:50px;margin-top:-14px;margin-bottom:0;padding:0;font-size: 20px; ' alt="logo">
-		&nbsp;Ribocentre-switch 
-	</a>
-	</div>
-	<div class="collapse navbar-collapse" id="navbar-collapse-1">
-	  <ul class="nav navbar-nav navbar-right">
-		<li id="now" ><a href="http://localhost:4002/">Home</a></li>
-		<li id="now"><a href="http://localhost:4002/riboswitches/">Riboswitches</a></li>
-		<li id="now"><a href="http://localhost:4002/orphan_riboswitch/">Orphan riboswitches</a></li>
-		<li id="now"><a href="http://localhost:4002/sequences/">Sequences</a></li>
-		<li id="now"><a href="http://localhost:4002/structures/">Structures</a></li>
-		<li id="now"><a href="http://localhost:4002/binding_pockets/">Binding pockets</a></li>
-		<li id="now"><a href="http://localhost:4002/applications/">Applications</a></li>
-		<li id="now"><a href="http://localhost:4002/publications/">Publications</a></li>
-		<li id="now"><a href="http://localhost:4002/helps/">Help</a></li>
-	  </ul>
-	  <script>
-		window.addEventListener("DOMContentLoaded", function() {
-		  // 获取当前页面的URL
-		  var currentURL = window.location.href;
-		  
-		  // 获取所有导航按钮
-		  var navButtons = document.querySelectorAll("li a");
-		  
-		  // 遍历导航按钮
-		  navButtons.forEach(function(button) {
-				// 获取按钮的链接
-				var buttonURL = button.href;
-				
-				// 比较URL是否与当前页面的URL匹配
-				if (currentURL === buttonURL) {
-				  // 设置匹配的按钮为激活状态
-				  button.classList.add("active");
-				}
-		  });
-		});
-		</script>
-	  
-				
-   </div>
-  </div>
-</div>
-    
-      <div class="container-fluid">
-        <div class="row">
-          <style>
-  .box_style{
-    background: #f4f4f4;
-  }
-  .wrapper {
-    display: block;
-    position: relative;
-    width: 100%;
-    margin: 0;
-    padding: 0;
-    text-align: left;
-    word-wrap: break-word;
-    }
-  .sectiontitle {
-    display: block;
-    max-width: 70%;
-    margin: 0 auto ;
-    text-align: left;
-    background :#fff;
-    }
-</style>
-<div class="wrapper box_style" >
-  <section class="sectiontitle"> 
-    <article class="post" itemscope itemtype="http://schema.org/BlogPosting" >
-    <div class="well" style="border: 1px solid #C9C9C9; background-color: #fff;">
-      <div class="post-content" itemprop="articleBody">
-        <header class="post-header">
-          <h1 class="post-title" itemprop="name headline">2'-dG</h1>
-          <p class="post-meta"><time datetime="2023-04-26T08:00:00+08:00" itemprop="datePublished">Apr 26, 2023</time> • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">Wenjian Liao</span></span></p>
-        </header>
-      
-        <p style="font-size: 24px"><strong>Rfam ID: <a href="https://rfam.xfam.org/family/RF00167,target=&quot;_blank&quot;">RF00167</a></strong> (Purine riboswitch)<br /></p>
+I"�]<p style="font-size: 24px"><strong>Rfam ID: <a href="https://rfam.xfam.org/family/RF00167,target=&quot;_blank&quot;">RF00167</a></strong> (Purine riboswitch)<br /></p>
 <p style="font-size: 24px"><strong>    <a href="https://rfam.xfam.org/family/RF03165,target=&quot;_blank&quot;">RF03165</a></strong> (2dG-II purine riboswitch) <br /></p>
 
 <p><br /></p>
@@ -297,12 +146,12 @@
 </blockquote>
 
 <font><p>Putative mechanisms for regulation of gene expression by 2'-dG riboswitch<sup>[2,4,6]</sup>.</p></font>
-<table class="table table-bordered" style="table-layout:fixed;width:1200px;margin-left:auto;margin-right:auto;"><tr>
+<table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
-  <img src="/images/gene_regulation/2-dG_riboswitch_gene_regulation1.svg" alt="drawing" style="width:600px;margin-top: 0px;margin-bottom: 0px;" />
+  <img src="/images/gene_regulation/2-dG_riboswitch_gene_regulation1.svg" alt="drawing" style="width:400px;margin-top: 0px;margin-bottom: 0px;" />
   </td>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
-  <img src="/images/gene_regulation/2-dG_riboswitch_gene_regulation2.svg" alt="drawing" style="width:600px;margin-top: 0px;margin-bottom: 0px;" />
+  <img src="/images/gene_regulation/2-dG_riboswitch_gene_regulation2.svg" alt="drawing" style="width:400px;margin-top: 0px;margin-bottom: 0px;" />
   </td>
 </tr>
 </table>
@@ -323,7 +172,7 @@
         <div id="image-caption" style="text-align: left; margin-left: 20px;"></div>
             <table class="clear" cellspacing="5" style="border-spacing: 0; margin: 0 auto;">
                 <tr>
-                    <td style="border: 1px solid black;width:800px">
+                    <td style="border: 1px solid black;width:640px">
                         <div id="layer_pdb" style="display: block">
                             <a id="image-link0" href="#" title="">
                                 <div id="zoom-wrapper0" class="zoom-wrapper0">
@@ -336,13 +185,13 @@
                     </td>
                     <td class="left" style="border: none; padding: 0; vertical-align: top">
                         <div class="image-wrapper" style="margin-bottom: 40px;">
-                            <img id="image-a0" src="/images/2D/2-dG_riboswitch_2D1.svg" width="200" style="border: 1px solid black; cursor: zoom-in;margin-top: 0px;margin-bottom: 0px;" alt="big.png" />
+                            <img id="image-a0" src="/images/2D/2-dG_riboswitch_2D1.svg" width="160" style="border: 1px solid black; cursor: zoom-in;margin-top: 0px;margin-bottom: 0px;" alt="big.png" />
                             <div class="button-wrapper">
                                 <a class="btn " href="javascript:showImage0('/images/2D/2-dG_riboswitch_2D1.svg');">&lt;&lt; Show big</a>
                             </div>
                         </div>
                         <div class="image-wrapper">
-                            <img id="image-b" src="/images/2D/2-dG_riboswitch_2D2.svg" width="200" style="border: 1px solid black; cursor: zoom-in;margin-top: 0px;margin-bottom: 0px;" alt="down.png" />
+                            <img id="image-b" src="/images/2D/2-dG_riboswitch_2D2.svg" width="160" style="border: 1px solid black; cursor: zoom-in;margin-top: 0px;margin-bottom: 0px;" alt="down.png" />
                             <div class="button-wrapper">
                                 <a class="btn " href="javascript:showImage0('/images/2D/2-dG_riboswitch_2D2.svg');">&lt;&lt; Show big</a>
                             </div>
@@ -390,7 +239,7 @@
     
 
     .zoom-wrapper0 {
-        width: 800px;
+        width: 600px;
         border: 1px solid #fff;
         overflow: hidden;
         display: flex;
@@ -423,13 +272,13 @@
         
         var zoomArea = document.getElementById("zoom-area0");
         var panzoom = Panzoom(zoomArea, {
-            maxScale: 8,
+            maxScale: 6,
         });
         zoomArea.addEventListener("wheel", function(e) {
             e.preventDefault();
             panzoom.zoomWithWheel(e);
         });
-        panzoom.zoom(1);
+        panzoom.zoom(0.8);
     });
 </script>
 </html>
@@ -440,9 +289,9 @@
 </blockquote>
 
 <font>The overall structure of the 2'-dG-I riboswitch was generated from PDB ID: 3SKI at 2.30 Å resolution bound with 2'-dG. 2'-dG (shown in sticks) is labeled in red <sup>[3]</sup>.</font>
-<table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;"><tr>
+<table class="table table-bordered" style="table-layout:fixed;width:1200px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
-  <img src="/images/3D/3SKI.gif" alt="drawing" style="width:500px;margin-top: 0px;margin-bottom: 0px;" />
+  <img src="/images/3D/3SKI.gif" alt="drawing" style="width:400px;height:1200px;margin-top: 0px;margin-bottom: 0px;" />
   </td>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
   <html lang="en">
@@ -480,8 +329,8 @@
             }
           #myViewer1{
             float:left;
-            width:500px;
-            height: 500px;
+            width:1200px;
+            
             position:relative;
           }
         </style>
@@ -752,9 +601,9 @@
 <p><br /></p>
 
 <font><p>Left: Surface representation of the binding pocket of the 2'-dG-II riboswitch generated from PDB ID: 6P2H. 2'-dG (shown in sticks) is labeled in red. Right: The hydrogen bonds of the binding sites of the 2'-dG-II riboswitch bound with 2'-dG<sup>[5]</sup>.<br /></p></font>
-<table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;"><tr>
-<td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/2-dG_riboswitch_binding_pockets3.svg" alt="drawing" style="width:500px" px="" /></td>
-<td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/2-dG_riboswitch_binding_pockets4.svg" alt="drawing" style="width:500px" px="" /></td>
+<table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
+<td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/2-dG_riboswitch_binding_pockets3.svg" alt="drawing" style="width:400px" px="" /></td>
+<td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/2-dG_riboswitch_binding_pockets4.svg" alt="drawing" style="width:400px" px="" /></td>
 </tr>
 </table>
 <p><br /></p>
@@ -807,58 +656,4 @@ Hamal, D. S., Panchapakesan, S. S. S., Slattery, P., Roth, A. &amp; Breaker, R. 
 <a href="https://pubmed.ncbi.nlm.nih.gov/35622895/" target="_blank">Proc. Natl. Acad. Sci. U. S. A. 119, (2022).</a>
 <br /><br /></p>
 
-
-      </div>
-    </div>
-    </article>
-  </section>
-</div>
-
-
-        </div>
-      </div>
-    <div id="footer" class="panel">
-  <div class="panel-footer">
-	<div class="container-fluid2">
-	  <div class="row">
-		<div class="col-sm-4">
-			
-		  <p>&copy 2023 Ribocentre. Site made with <a href="https://jekyllrb.com">Jekyll</a>;  <a href="https://www.ribocentre.org/aboutwebsite.html">copy and  modify it for your own research group.</a></p>
-              <p>We are part of the <a href="https://gzlab.ac.cn">Guangzhou Laboratory</a> and <a href="http://www.gzsys.org.cn/">Sun Yat-sen Memorial Hospital of Sun Yat-sen University</a>.</p>
-            
-
-		   <p>  </p><p>
-            		  
-            
-		</div>
-		<div class="col-sm-4">
-		  Funding:<br />
-		  - <a href="https://www.nsfc.gov.cn/">NSFC</a> <br />
-		  - <a href="http://www.most.gov.cn/">MOST IT+BT project</a> <br />
-          - <a href="https://gzlab.ac.cn">GZlab starting grant</a><br />
-		  <br>
-		  <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
-		  <!--<span class="glyphicon glyphicon-user"></span>&nbsp;&nbsp;<span id="busuanzi_container_site_uv"><strong>: <a href=""><span id="busuanzi_value_site_uv"></span></strong></a> </span> &nbsp;&nbsp;
-		  !--><span class="glyphicon glyphicon-eye-open"></span>&nbsp;&nbsp;<span id="busuanzi_container_site_pv"><strong>: <a href=""><span id="busuanzi_value_site_pv"></span></strong></a> </span>
-
-		</div>
-		<div class="col-sm-4">
-		  Contact:<br />
-		  Building B2, Guangzhou Laboratory<br />
-		  96 Xingdao South Road, Guangzhou International Bio Island, <br />
-		  Haizhu District, Guangzhou, Guangdong,<br />
-		  China. <br />
-          (<a href="https://goo.gl/maps/hDLr6siEAS2Eaypt8">Maps</a>)
-		</div>
-	  </div>
-	</div>
-  </div>
-</div>
-
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-<script src="https://www.ribocentre.org/js/bootstrap.min.js"></script>
-
-
-  </body>
-
-</html>
+:ET
