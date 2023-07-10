@@ -168,10 +168,10 @@ permalink: /docs/Adenine/
 > Gene association
             
 <font >Purine salvage, interconversion, and catabolic pathways in <i>B. subtilis</i>. It has been demonstrated that the <i>ydhL</i> gene, encoding for the putative purine efflux pump, and the <i>add</i> gene, encoding for adenine deaminase<sup>[1-4]</sup>.</font>
-<table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;">
+<table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;">
 <tr >
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
-  <img src="/images/gene_association/Adenine_riboswitch_gene_association.svg" alt="drawing" style="width:800px;margin-top: 0px;margin-bottom: 0px;" >
+  <img src="/images/gene_association/Adenine_riboswitch_gene_association.svg" alt="drawing" style="width:1000px;margin-top: 0px;margin-bottom: 0px;" >
 </td>
 </tr>
 </table>
@@ -180,12 +180,12 @@ permalink: /docs/Adenine/
 > Gene regulation
                 
 <font ><p>Mechanisms for regulation of gene expression by adenine riboswitches. The Shine-Dalgarno GAA sequence and the initiation codon are shaded in orange and blue respectively<sup>[3-4]</sup>.</p></font>
-<table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
+<table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
-  <img src="/images/gene_regulation/Adenine_riboswitch_gene_regulation1.svg" alt="drawing" style="width:400px;margin-top: 0px;margin-bottom: 0px;" >
+  <img src="/images/gene_regulation/Adenine_riboswitch_gene_regulation1.svg" alt="drawing" style="width:500px;margin-top: 0px;margin-bottom: 0px;" >
   </td>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
-  <img src="/images/gene_regulation/Adenine_riboswitch_gene_regulation2.svg" alt="drawing" style="width:400px;margin-top: 0px;margin-bottom: 0px;" >
+  <img src="/images/gene_regulation/Adenine_riboswitch_gene_regulation2.svg" alt="drawing" style="width:500px;margin-top: 0px;margin-bottom: 0px;" >
   </td>
 </tr>
 </table>
@@ -203,7 +203,7 @@ permalink: /docs/Adenine/
         <div id="image-caption" style="text-align: left; margin-left: 20px;"></div>
             <table class="clear" cellspacing="5" style="border-spacing: 0; margin: 0 auto;">
                 <tr>
-                    <td style="border: 1px solid black;width:640px">
+                    <td style="border: 1px solid black;width:800px">
                         <div id="layer_pdb" style="display: block">
                             <a id="image-link0" href="#" title="">
                                 <div id="zoom-wrapper0" class="zoom-wrapper0">
@@ -216,13 +216,13 @@ permalink: /docs/Adenine/
                     </td>
                     <td class="left" style="border: none; padding: 0; vertical-align: top">
                         <div class="image-wrapper" style="margin-bottom: 40px;">
-                            <img id="image-a0" src="/images/2D/Adenine_riboswitch_2D1.svg" width="160" style="border: 1px solid black; cursor: zoom-in;margin-top: 0px;margin-bottom: 0px;" alt="big.png"/>
+                            <img id="image-a0" src="/images/2D/Adenine_riboswitch_2D1.svg" width="200" style="border: 1px solid black; cursor: zoom-in;margin-top: 0px;margin-bottom: 0px;" alt="big.png"/>
                             <div class="button-wrapper">
                                 <a class="btn " href="javascript:showImage0('/images/2D/Adenine_riboswitch_2D1.svg');">&lt;&lt; Show big</a>
                             </div>
                         </div>
                         <div class="image-wrapper" >
-                            <img id="image-b" src="/images/2D/Adenine_riboswitch_2D2.svg" width="160" style="border: 1px solid black; cursor: zoom-in;margin-top: 0px;margin-bottom: 0px;" alt="down.png"/>
+                            <img id="image-b" src="/images/2D/Adenine_riboswitch_2D2.svg" width="200" style="border: 1px solid black; cursor: zoom-in;margin-top: 0px;margin-bottom: 0px;" alt="down.png"/>
                             <div class="button-wrapper">
                                 <a class="btn " href="javascript:showImage0('/images/2D/Adenine_riboswitch_2D2.svg');">&lt;&lt; Show big</a>
                             </div>
@@ -270,7 +270,7 @@ permalink: /docs/Adenine/
     
 
     .zoom-wrapper0 {
-        width: 600px;
+        width: 800px;
         border: 1px solid #fff;
         overflow: hidden;
         display: flex;
@@ -318,9 +318,9 @@ permalink: /docs/Adenine/
 > 3D visualisation
                 
 <font >The overall structure of the adenine riboswitch was generated from PDB ID: 1Y26 at 2.10 Å resolution bound with adenine. Adenine (shown in sticks) is labeled in red <sup>[4]</sup>.</font>
-  <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
+  <table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
-  <img src="/images/3D/Adenine_riboswitch_3D1.svg" alt="drawing" style="width:400px;height:400px;margin-top: 0px;margin-bottom: 0px;" >
+  <img src="/images/3D/Adenine_riboswitch_3D1.svg" alt="drawing" style="width:500px;margin-top: 0px;margin-bottom: 0px;" >
   </td>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
   <html lang="en">
@@ -358,8 +358,8 @@ permalink: /docs/Adenine/
             }
           #myViewer1{
             float:left;
-            width:400px;
-            height: 400px;
+            width:500px;
+            height: 500px;
             position:relative;
           }
         </style>
@@ -469,9 +469,9 @@ permalink: /docs/Adenine/
 > Binding pocket
                     
 <font ><p>Left: Surface representation of the binding pocket of the adenine riboswitch generated from PDB ID: 1Y26. Adenine (shown in sticks) is labeled in red. Right: The hydrogen bonds of the binding sites of the adenine riboswitch bound with adenine<sup>[4]</sup>.<br /></p></font>
-<table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
-<td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/Adenine_riboswitch_binding_pockets1.svg" alt="drawing" style="width:400px"  px="" /></td>
-<td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/Adenine_riboswitch_binding_pockets2.svg" alt="drawing" style="width:400px"  px="" /></td>
+<table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;"><tr>
+<td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/Adenine_riboswitch_binding_pockets1.svg" alt="drawing" style="width:500px"  px="" /></td>
+<td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/Adenine_riboswitch_binding_pockets2.svg" alt="drawing" style="width:500px"  px="" /></td>
 </tr>
 </table>
 <p><br /></p>
@@ -481,10 +481,10 @@ permalink: /docs/Adenine/
 <font >
 <p>Chemical structures of adenine and its analogs. The apparent K<sub>D</sub> of each compound of the <i>ydhL</i> adenine riboswitch is shown on bottom<sup>[3]</sup>.<br /><br /></p>
 </font>
-<table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;">
+<table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;">
 <tr>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
-  <img src="/images/ligand_recognition/Adenine_riboswitch_ligand_recognition.svg" alt="drawing" style="width:800px;margin-top: 0px;margin-bottom: 0px;" >
+  <img src="/images/ligand_recognition/Adenine_riboswitch_ligand_recognition.svg" alt="drawing" style="width:1000px;margin-top: 0px;margin-bottom: 0px;" >
 </td>
 </tr>
 </table>

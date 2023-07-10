@@ -178,10 +178,10 @@ The genes regulated by ZMP/ZTP riboswitch relate to one-carbon metabolism. Most 
 > Gene association
             
 <font >Genes most frequently associated with ZMP/ZTP riboswitch are highlighted in red and genes that are occasionally associated are highlighted in green. Genes in black have not been observed to be associated with ZMP/ZTP riboswitch<sup>[2]</sup>.</font>
-<table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;">
+<table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;">
 <tr >
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
-  <img src="/images/gene_association/ZTP_riboswitch_gene_association.svg" alt="drawing" style="width:800px;margin-top: 0px;margin-bottom: 0px;" >
+  <img src="/images/gene_association/ZTP_riboswitch_gene_association.svg" alt="drawing" style="width:1000px;margin-top: 0px;margin-bottom: 0px;" >
 </td>
 </tr>
 </table>
@@ -190,9 +190,9 @@ The genes regulated by ZMP/ZTP riboswitch relate to one-carbon metabolism. Most 
 > Gene regulation
                 
 <font ><p>Potential mechanism of translation regulation by the ZTP riboswitch. The ribosome binding site (RBS) is showed on red<sup>[11]</sup>.</p></font>
-<table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
+<table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
-  <img src="/images/gene_regulation/ZTP_riboswitch_gene_regulation1.svg" alt="drawing" style="width:800px;margin-top: 0px;margin-bottom: 0px;" >
+  <img src="/images/gene_regulation/ZTP_riboswitch_gene_regulation1.svg" alt="drawing" style="width:1000px;margin-top: 0px;margin-bottom: 0px;" >
   </td>
 </tr>
 </table>
@@ -210,7 +210,7 @@ The genes regulated by ZMP/ZTP riboswitch relate to one-carbon metabolism. Most 
         <div id="image-caption" style="text-align: left; margin-left: 20px;"></div>
             <table class="clear" cellspacing="5" style="border-spacing: 0; margin: 0 auto;">
                 <tr>
-                    <td style="border: 1px solid black;width:640px">
+                    <td style="border: 1px solid black;width:800px">
                         <div id="layer_pdb" style="display: block">
                             <a id="image-link0" href="#" title="">
                                 <div id="zoom-wrapper0" class="zoom-wrapper0">
@@ -223,13 +223,13 @@ The genes regulated by ZMP/ZTP riboswitch relate to one-carbon metabolism. Most 
                     </td>
                     <td class="left" style="border: none; padding: 0; vertical-align: top">
                         <div class="image-wrapper" style="margin-bottom: 40px;">
-                            <img id="image-a0" src="/images/2D/ZTP_riboswitch_2D1.svg" width="160" style="border: 1px solid black; cursor: zoom-in;margin-top: 0px;margin-bottom: 0px;" alt="big.png"/>
+                            <img id="image-a0" src="/images/2D/ZTP_riboswitch_2D1.svg" width="200" style="border: 1px solid black; cursor: zoom-in;margin-top: 0px;margin-bottom: 0px;" alt="big.png"/>
                             <div class="button-wrapper">
                                 <a class="btn " href="javascript:showImage0('/images/2D/ZTP_riboswitch_2D1.svg');">&lt;&lt; Show big</a>
                             </div>
                         </div>
                         <div class="image-wrapper" >
-                            <img id="image-b" src="/images/2D/ZTP_riboswitch_2D2.svg" width="160" style="border: 1px solid black; cursor: zoom-in;margin-top: 0px;margin-bottom: 0px;" alt="down.png"/>
+                            <img id="image-b" src="/images/2D/ZTP_riboswitch_2D2.svg" width="200" style="border: 1px solid black; cursor: zoom-in;margin-top: 0px;margin-bottom: 0px;" alt="down.png"/>
                             <div class="button-wrapper">
                                 <a class="btn " href="javascript:showImage0('/images/2D/ZTP_riboswitch_2D2.svg');">&lt;&lt; Show big</a>
                             </div>
@@ -277,7 +277,7 @@ The genes regulated by ZMP/ZTP riboswitch relate to one-carbon metabolism. Most 
     
 
     .zoom-wrapper0 {
-        width: 600px;
+        width: 800px;
         border: 1px solid #fff;
         overflow: hidden;
         display: flex;
@@ -325,9 +325,9 @@ The genes regulated by ZMP/ZTP riboswitch relate to one-carbon metabolism. Most 
 > 3D visualisation
                 
 <font >The overall structure of the ZTP riboswitch was generated from PDB ID: 4ZNP at 2.94 Å resolution bound with 5- amino-4-imidazole carboxamide ribose-5'- monophosphate (ZMP) and Mg<sup>2+</sup>. ZMP (shown in sticks) and Mg<sup>2+</sup> is labeled in red <sup>[3]</sup>.</font>
-  <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
+  <table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
-  <img src="/images/3D/ZTP_riboswitch_3D1.svg" alt="drawing" style="width:400px;height:400px;margin-top: 0px;margin-bottom: 0px;" >
+  <img src="/images/3D/ZTP_riboswitch_3D1.svg" alt="drawing" style="width:500px;margin-top: 0px;margin-bottom: 0px;" >
   </td>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
   <html lang="en">
@@ -365,8 +365,8 @@ The genes regulated by ZMP/ZTP riboswitch relate to one-carbon metabolism. Most 
             }
           #myViewer1{
             float:left;
-            width:400px;
-            height: 400px;
+            width:500px;
+            height: 500px;
             position:relative;
           }
         </style>
@@ -470,9 +470,9 @@ The genes regulated by ZMP/ZTP riboswitch relate to one-carbon metabolism. Most 
 > Binding pocket
                     
 <font ><p>Left: Surface representation of the binding pocket of the ZTP riboswitch generated from PDB ID: 4ZNP. 5- amino-4-imidazole carboxamide ribose-5'- monophosphate (ZMP) (shown in sticks) and Mg<sup>2+</sup> (M) is labeled in red. Right: The hydrogen bonds of the ZTP riboswitch bound with 5- amino-4-imidazole carboxamide ribose-5'- monophosphate (ZMP) and Mg<sup>2+</sup> (M)<sup>[3]</sup>.<br /></p></font>
-<table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
-<td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/ZTP_riboswitch_binding_pockets1.svg" alt="drawing" style="width:400px"  px="" /></td>
-<td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/ZTP_riboswitch_binding_pockets2.svg" alt="drawing" style="width:400px"  px="" /></td>
+<table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;"><tr>
+<td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/ZTP_riboswitch_binding_pockets1.svg" alt="drawing" style="width:500px"  px="" /></td>
+<td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/ZTP_riboswitch_binding_pockets2.svg" alt="drawing" style="width:500px"  px="" /></td>
 </tr>
 </table>
 <p><br /></p>
@@ -482,10 +482,10 @@ The genes regulated by ZMP/ZTP riboswitch relate to one-carbon metabolism. Most 
 <font >
 <p>Chemical structures of 5- amino-4-imidazole carboxamide ribose-5'-triphosphate (ZTP) and its analogs. The apparent K<sub>D</sub> of each compound of ZTP riboswitch is shown on bottom<sup>[2,8]</sup>.<br /><br /></p>
 </font>
-<table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;">
+<table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;">
 <tr>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
-  <img src="/images/ligand_recognition/ZTP_riboswitch_ligand_recognition.svg" alt="drawing" style="width:800px;margin-top: 0px;margin-bottom: 0px;" >
+  <img src="/images/ligand_recognition/ZTP_riboswitch_ligand_recognition.svg" alt="drawing" style="width:1000px;margin-top: 0px;margin-bottom: 0px;" >
 </td>
 </tr>
 </table>

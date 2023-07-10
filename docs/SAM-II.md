@@ -194,10 +194,10 @@ SAM-V riboswitch is the fifth known riboswitch to bind S-adenosyl methionine (SA
 > Gene association
             
 <font >Pathways for sulphate assimilation and biosynthesis of cysteine and methionine. SAM-II riboswitch (red bar) and SAM-V riboswitch (yellow bar) are involved in multiple gene regulation in the synthetic pathway<sup>[1，5]</sup>.</font>
-<table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;">
+<table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;">
 <tr >
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
-  <img src="/images/gene_association/SAM-II_clan riboswitch_gene_association.svg" alt="drawing" style="width:800px;margin-top: 0px;margin-bottom: 0px;" >
+  <img src="/images/gene_association/SAM-II_clan riboswitch_gene_association.svg" alt="drawing" style="width:1000px;margin-top: 0px;margin-bottom: 0px;" >
 </td>
 </tr>
 </table>
@@ -206,18 +206,18 @@ SAM-V riboswitch is the fifth known riboswitch to bind S-adenosyl methionine (SA
 > Gene regulation
                 
 <font ><p>Potential mechanism of translation regulation by the SAM-II riboswitch<sup>[7]</sup>.</p></font>
-<table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
+<table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
-  <img src="/images/gene_regulation/SAM-II_riboswitch_gene_regulation.svg" alt="drawing" style="width:800px;margin-top: 0px;margin-bottom: 0px;" >
+  <img src="/images/gene_regulation/SAM-II_riboswitch_gene_regulation.svg" alt="drawing" style="width:1000px;margin-top: 0px;margin-bottom: 0px;" >
   </td>
 </tr>
 </table>
 <p><br /></p>
                         
 <font ><p>Potential mechanism of translation regulation by the  SAM-V riboswitch<sup>[13]</sup>.</p></font>
-<table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
+<table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
-  <img src="/images/gene_regulation/SAM-V_riboswitch_gene_regulation.svg" alt="drawing" style="width:800px;margin-top: 0px;margin-bottom: 0px;" >
+  <img src="/images/gene_regulation/SAM-V_riboswitch_gene_regulation.svg" alt="drawing" style="width:1000px;margin-top: 0px;margin-bottom: 0px;" >
   </td>
 </tr>
 </table>
@@ -235,7 +235,7 @@ SAM-V riboswitch is the fifth known riboswitch to bind S-adenosyl methionine (SA
         <div id="image-caption" style="text-align: left; margin-left: 20px;"></div>
             <table class="clear" cellspacing="5" style="border-spacing: 0; margin: 0 auto;">
                 <tr>
-                    <td style="border: 1px solid black;width:640px">
+                    <td style="border: 1px solid black;width:800px">
                         <div id="layer_pdb" style="display: block">
                             <a id="image-link0" href="#" title="">
                                 <div id="zoom-wrapper0" class="zoom-wrapper0">
@@ -248,13 +248,13 @@ SAM-V riboswitch is the fifth known riboswitch to bind S-adenosyl methionine (SA
                     </td>
                     <td class="left" style="border: none; padding: 0; vertical-align: top">
                         <div class="image-wrapper" style="margin-bottom: 40px;">
-                            <img id="image-a0" src="/images/2D/SAM-II_riboswitch_2D1.svg" width="160" style="border: 1px solid black; cursor: zoom-in;margin-top: 0px;margin-bottom: 0px;" alt="big.png"/>
+                            <img id="image-a0" src="/images/2D/SAM-II_riboswitch_2D1.svg" width="200" style="border: 1px solid black; cursor: zoom-in;margin-top: 0px;margin-bottom: 0px;" alt="big.png"/>
                             <div class="button-wrapper">
                                 <a class="btn " href="javascript:showImage0('/images/2D/SAM-II_riboswitch_2D1.svg');">&lt;&lt; Show big</a>
                             </div>
                         </div>
                         <div class="image-wrapper" >
-                            <img id="image-b" src="/images/2D/SAM-II_riboswitch_2D2.svg" width="160" style="border: 1px solid black; cursor: zoom-in;margin-top: 0px;margin-bottom: 0px;" alt="down.png"/>
+                            <img id="image-b" src="/images/2D/SAM-II_riboswitch_2D2.svg" width="200" style="border: 1px solid black; cursor: zoom-in;margin-top: 0px;margin-bottom: 0px;" alt="down.png"/>
                             <div class="button-wrapper">
                                 <a class="btn " href="javascript:showImage0('/images/2D/SAM-II_riboswitch_2D2.svg');">&lt;&lt; Show big</a>
                             </div>
@@ -302,7 +302,7 @@ SAM-V riboswitch is the fifth known riboswitch to bind S-adenosyl methionine (SA
     
 
     .zoom-wrapper0 {
-        width: 600px;
+        width: 800px;
         border: 1px solid #fff;
         overflow: hidden;
         display: flex;
@@ -356,7 +356,7 @@ SAM-V riboswitch is the fifth known riboswitch to bind S-adenosyl methionine (SA
         <div id="image-caption" style="text-align: left; margin-left: 20px;"></div>
             <table class="clear" cellspacing="5" style="border-spacing: 0; margin: 0 auto;">
                 <tr>
-                    <td style="border: 1px solid black;width:640px">
+                    <td style="border: 1px solid black;width:800px">
                         <div id="layer_pdb" style="display: block">
                             <a id="image-link1" href="#" title="">
                                 <div id="zoom-wrapper1" class="zoom-wrapper1">
@@ -369,13 +369,13 @@ SAM-V riboswitch is the fifth known riboswitch to bind S-adenosyl methionine (SA
                     </td>
                     <td class="left" style="border: none; padding: 0; vertical-align: top">
                         <div class="image-wrapper" style="margin-bottom: 40px;">
-                            <img id="image-a1" src="/images/2D/SAM-V_riboswitch_2D1.svg" width="160" style="border: 1px solid black; cursor: zoom-in;margin-top: 0px;margin-bottom: 0px;" alt="big.png"/>
+                            <img id="image-a1" src="/images/2D/SAM-V_riboswitch_2D1.svg" width="200" style="border: 1px solid black; cursor: zoom-in;margin-top: 0px;margin-bottom: 0px;" alt="big.png"/>
                             <div class="button-wrapper">
                                 <a class="btn " href="javascript:showImage1('/images/2D/SAM-V_riboswitch_2D1.svg');">&lt;&lt; Show big</a>
                             </div>
                         </div>
                         <div class="image-wrapper" >
-                            <img id="image-b" src="/images/2D/SAM-V_riboswitch_2D2.svg" width="160" style="border: 1px solid black; cursor: zoom-in;margin-top: 0px;margin-bottom: 0px;" alt="down.png"/>
+                            <img id="image-b" src="/images/2D/SAM-V_riboswitch_2D2.svg" width="200" style="border: 1px solid black; cursor: zoom-in;margin-top: 0px;margin-bottom: 0px;" alt="down.png"/>
                             <div class="button-wrapper">
                                 <a class="btn " href="javascript:showImage1('/images/2D/SAM-V_riboswitch_2D2.svg');">&lt;&lt; Show big</a>
                             </div>
@@ -423,7 +423,7 @@ SAM-V riboswitch is the fifth known riboswitch to bind S-adenosyl methionine (SA
     
 
     .zoom-wrapper1 {
-        width: 600px;
+        width: 800px;
         border: 1px solid #fff;
         overflow: hidden;
         display: flex;
@@ -471,9 +471,9 @@ SAM-V riboswitch is the fifth known riboswitch to bind S-adenosyl methionine (SA
 > 3D visualisation
                 
 <font >2.8-Å resolution crystal structure of an SAM-II riboswitch complexed with S-adenosylmethionine. The figure reference from PDB ID: 2QWY, SAM (shown in sticks) is labeled in red <sup>[3]</sup>.</font>
-  <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
+  <table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
-  <img src="/images/3D/SAM-II_riboswitch_3D.svg" alt="drawing" style="width:400px;height:400px;margin-top: 0px;margin-bottom: 0px;" >
+  <img src="/images/3D/SAM-II_riboswitch_3D.svg" alt="drawing" style="width:500px;margin-top: 0px;margin-bottom: 0px;" >
   </td>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
   <html lang="en">
@@ -511,8 +511,8 @@ SAM-V riboswitch is the fifth known riboswitch to bind S-adenosyl methionine (SA
             }
           #myViewer1{
             float:left;
-            width:400px;
-            height: 400px;
+            width:500px;
+            height: 500px;
             position:relative;
           }
         </style>
@@ -584,9 +584,9 @@ SAM-V riboswitch is the fifth known riboswitch to bind S-adenosyl methionine (SA
   <p><br /></p>
                 
 <font >2.50-Å resolution crystal structure of an SAM-V riboswitch complexed with S-adenosylmethionine. The figure reference from PDB ID: 6FZ0, SAM (shown in sticks) is labeled in red <sup>[12]</sup>.</font>
-  <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
+  <table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
-  <img src="/images/3D/SAM-V_riboswitch_3D.svg" alt="drawing" style="width:400px;height:400px;margin-top: 0px;margin-bottom: 0px;" >
+  <img src="/images/3D/SAM-V_riboswitch_3D.svg" alt="drawing" style="width:500px;margin-top: 0px;margin-bottom: 0px;" >
   </td>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
   <html lang="en">
@@ -624,8 +624,8 @@ SAM-V riboswitch is the fifth known riboswitch to bind S-adenosyl methionine (SA
             }
           #myViewer2{
             float:left;
-            width:400px;
-            height: 400px;
+            width:500px;
+            height: 500px;
             position:relative;
           }
         </style>
@@ -704,17 +704,17 @@ SAM-V riboswitch is the fifth known riboswitch to bind S-adenosyl methionine (SA
 > Binding pocket
                     
 <font ><p>Left: Surface representation of the binding pocket of the SAM-II riboswitch generated from PDB ID: 2QWY. S-adenosylmethionine (SAM) (shown in sticks) is labeled in red. Right: Hydrogen bonding between SAM and adjacent bases<sup>[3]</sup>.<br /></p></font>
-<table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
-<td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/SAM-II_riboswitch_binding_pockets1.svg" alt="drawing" style="width:400px"  px="" /></td>
-<td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/SAM-II_riboswitch_binding_pockets2.svg" alt="drawing" style="width:400px"  px="" /></td>
+<table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;"><tr>
+<td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/SAM-II_riboswitch_binding_pockets1.svg" alt="drawing" style="width:500px"  px="" /></td>
+<td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/SAM-II_riboswitch_binding_pockets2.svg" alt="drawing" style="width:500px"  px="" /></td>
 </tr>
 </table>
 <p><br /></p>
                     
 <font ><p>Left: Surface representation of the binding pocket of the SAM-V riboswitch generated from PDB ID: 6FZ0. S-adenosylmethionine (SAM) (shown in sticks) is labeled in red. Right: Hydrogen bonding between SAM and adjacent bases<sup>[13]</sup>.<br /></p></font>
-<table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
-<td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/SAM-V_riboswitch_binding_pockets1.svg" alt="drawing" style="width:400px"  px="" /></td>
-<td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/SAM-V_riboswitch_binding_pockets2.svg" alt="drawing" style="width:400px"  px="" /></td>
+<table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;"><tr>
+<td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/SAM-V_riboswitch_binding_pockets1.svg" alt="drawing" style="width:500px"  px="" /></td>
+<td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/SAM-V_riboswitch_binding_pockets2.svg" alt="drawing" style="width:500px"  px="" /></td>
 </tr>
 </table>
 <p><br /></p>
@@ -724,10 +724,10 @@ SAM-V riboswitch is the fifth known riboswitch to bind S-adenosyl methionine (SA
 <font >
 <p>Chemical structures of various compounds used to probe the binding characteristics of the SAM-II riboswitch and SAM-V riboswitch<sup>[3,5]</sup>.<br /><br /></p>
 </font>
-<table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;">
+<table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;">
 <tr>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
-  <img src="/images/ligand_recognition/SAM-II clan_riboswitch_ligand_recognition.svg" alt="drawing" style="width:800px;margin-top: 0px;margin-bottom: 0px;" >
+  <img src="/images/ligand_recognition/SAM-II clan_riboswitch_ligand_recognition.svg" alt="drawing" style="width:1000px;margin-top: 0px;margin-bottom: 0px;" >
 </td>
 </tr>
 </table>

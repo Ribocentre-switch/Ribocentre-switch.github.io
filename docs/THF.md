@@ -162,10 +162,10 @@ The <i>folE</i> RNA motif, now known as the THF-II riboswitch, is a conserved RN
 > Gene association
             
 <font >Folate biosynthesis and uptake pathway. Genes under control of the THF-I (red bars) and THF-II (cyan bars) riboswitch are highlighted with relative frequency of regulatory interaction reflected by the heights of the bars<sup>[1,6]</sup>.</font>
-<table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;">
+<table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;">
 <tr >
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
-  <img src="/images/gene_association/THF_riboswitch_gene_association.svg" alt="drawing" style="width:800px;margin-top: 0px;margin-bottom: 0px;" >
+  <img src="/images/gene_association/THF_riboswitch_gene_association.svg" alt="drawing" style="width:1000px;margin-top: 0px;margin-bottom: 0px;" >
 </td>
 </tr>
 </table>
@@ -174,18 +174,18 @@ The <i>folE</i> RNA motif, now known as the THF-II riboswitch, is a conserved RN
 > Gene regulation
                 
 <font ><p>Potential mechanism of translation regulation by the THF-I riboswitch. The ribosome binding site (RBS) is showed on red<sup>[7]</sup>.</p></font>
-<table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
+<table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
-  <img src="/images/gene_regulation/THF_riboswitch_gene_regulation1.svg" alt="drawing" style="width:800px;margin-top: 0px;margin-bottom: 0px;" >
+  <img src="/images/gene_regulation/THF_riboswitch_gene_regulation1.svg" alt="drawing" style="width:1000px;margin-top: 0px;margin-bottom: 0px;" >
   </td>
 </tr>
 </table>
 <p><br /></p>
                         
 <font ><p>Potential mechanism of translation regulation by the THF-II riboswitch. The ribosome binding site (RBS) is showed on red<sup>[8]</sup>.</p></font>
-<table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
+<table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
-  <img src="/images/gene_regulation/THF_riboswitch_gene_regulation2.svg" alt="drawing" style="width:800px;margin-top: 0px;margin-bottom: 0px;" >
+  <img src="/images/gene_regulation/THF_riboswitch_gene_regulation2.svg" alt="drawing" style="width:1000px;margin-top: 0px;margin-bottom: 0px;" >
   </td>
 </tr>
 </table>
@@ -203,7 +203,7 @@ The <i>folE</i> RNA motif, now known as the THF-II riboswitch, is a conserved RN
         <div id="image-caption" style="text-align: left; margin-left: 20px;"></div>
             <table class="clear" cellspacing="5" style="border-spacing: 0; margin: 0 auto;">
                 <tr>
-                    <td style="border: 1px solid black;width:640px">
+                    <td style="border: 1px solid black;width:800px">
                         <div id="layer_pdb" style="display: block">
                             <a id="image-link0" href="#" title="">
                                 <div id="zoom-wrapper0" class="zoom-wrapper0">
@@ -216,13 +216,13 @@ The <i>folE</i> RNA motif, now known as the THF-II riboswitch, is a conserved RN
                     </td>
                     <td class="left" style="border: none; padding: 0; vertical-align: top">
                         <div class="image-wrapper" style="margin-bottom: 40px;">
-                            <img id="image-a0" src="/images/2D/THF-I_riboswitch_2D1.svg" width="160" style="border: 1px solid black; cursor: zoom-in;margin-top: 0px;margin-bottom: 0px;" alt="big.png"/>
+                            <img id="image-a0" src="/images/2D/THF-I_riboswitch_2D1.svg" width="200" style="border: 1px solid black; cursor: zoom-in;margin-top: 0px;margin-bottom: 0px;" alt="big.png"/>
                             <div class="button-wrapper">
                                 <a class="btn " href="javascript:showImage0('/images/2D/THF-I_riboswitch_2D1.svg');">&lt;&lt; Show big</a>
                             </div>
                         </div>
                         <div class="image-wrapper" >
-                            <img id="image-b" src="/images/2D/THF-I_riboswitch_2D2.svg" width="160" style="border: 1px solid black; cursor: zoom-in;margin-top: 0px;margin-bottom: 0px;" alt="down.png"/>
+                            <img id="image-b" src="/images/2D/THF-I_riboswitch_2D2.svg" width="200" style="border: 1px solid black; cursor: zoom-in;margin-top: 0px;margin-bottom: 0px;" alt="down.png"/>
                             <div class="button-wrapper">
                                 <a class="btn " href="javascript:showImage0('/images/2D/THF-I_riboswitch_2D2.svg');">&lt;&lt; Show big</a>
                             </div>
@@ -270,7 +270,7 @@ The <i>folE</i> RNA motif, now known as the THF-II riboswitch, is a conserved RN
     
 
     .zoom-wrapper0 {
-        width: 600px;
+        width: 800px;
         border: 1px solid #fff;
         overflow: hidden;
         display: flex;
@@ -324,7 +324,7 @@ The <i>folE</i> RNA motif, now known as the THF-II riboswitch, is a conserved RN
         <div id="image-caption" style="text-align: left; margin-left: 20px;"></div>
             <table class="clear" cellspacing="5" style="border-spacing: 0; margin: 0 auto;">
                 <tr>
-                    <td style="border: 1px solid black;width:640px">
+                    <td style="border: 1px solid black;width:800px">
                         <div id="layer_pdb" style="display: block">
                             <a id="image-link1" href="#" title="">
                                 <div id="zoom-wrapper1" class="zoom-wrapper1">
@@ -337,13 +337,13 @@ The <i>folE</i> RNA motif, now known as the THF-II riboswitch, is a conserved RN
                     </td>
                     <td class="left" style="border: none; padding: 0; vertical-align: top">
                         <div class="image-wrapper" style="margin-bottom: 40px;">
-                            <img id="image-a1" src="/images/2D/THF-II_riboswitch_2D1.svg" width="160" style="border: 1px solid black; cursor: zoom-in;margin-top: 0px;margin-bottom: 0px;" alt="big.png"/>
+                            <img id="image-a1" src="/images/2D/THF-II_riboswitch_2D1.svg" width="200" style="border: 1px solid black; cursor: zoom-in;margin-top: 0px;margin-bottom: 0px;" alt="big.png"/>
                             <div class="button-wrapper">
                                 <a class="btn " href="javascript:showImage1('/images/2D/THF-II_riboswitch_2D1.svg');">&lt;&lt; Show big</a>
                             </div>
                         </div>
                         <div class="image-wrapper" >
-                            <img id="image-b" src="/images/2D/THF-II_riboswitch_2D2.svg" width="160" style="border: 1px solid black; cursor: zoom-in;margin-top: 0px;margin-bottom: 0px;" alt="down.png"/>
+                            <img id="image-b" src="/images/2D/THF-II_riboswitch_2D2.svg" width="200" style="border: 1px solid black; cursor: zoom-in;margin-top: 0px;margin-bottom: 0px;" alt="down.png"/>
                             <div class="button-wrapper">
                                 <a class="btn " href="javascript:showImage1('/images/2D/THF-II_riboswitch_2D2.svg');">&lt;&lt; Show big</a>
                             </div>
@@ -391,7 +391,7 @@ The <i>folE</i> RNA motif, now known as the THF-II riboswitch, is a conserved RN
     
 
     .zoom-wrapper1 {
-        width: 600px;
+        width: 800px;
         border: 1px solid #fff;
         overflow: hidden;
         display: flex;
@@ -439,9 +439,9 @@ The <i>folE</i> RNA motif, now known as the THF-II riboswitch, is a conserved RN
 > 3D visualisation
                 
 <font >The overall structure of the THF-I riboswitch was generated from PDB ID: 4LVV at 2.10 Å resolution bound with 6<i>S</i>-folinic acid. 6<i>S</i>-folinic acid (shown in sticks) is colored in red <sup>[4]</sup>.</font>
-  <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
+  <table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
-  <img src="/images/3D/THF_riboswitch_3D1.svg" alt="drawing" style="width:400px;height:400px;margin-top: 0px;margin-bottom: 0px;" >
+  <img src="/images/3D/THF_riboswitch_3D1.svg" alt="drawing" style="width:500px;margin-top: 0px;margin-bottom: 0px;" >
   </td>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
   <html lang="en">
@@ -479,8 +479,8 @@ The <i>folE</i> RNA motif, now known as the THF-II riboswitch, is a conserved RN
             }
           #myViewer1{
             float:left;
-            width:400px;
-            height: 400px;
+            width:500px;
+            height: 500px;
             position:relative;
           }
         </style>
@@ -618,9 +618,9 @@ The <i>folE</i> RNA motif, now known as the THF-II riboswitch, is a conserved RN
   <p><br /></p>
                 
 <font >The overall structure of the THF-II riboswitch was generated from PDB ID: 7WI9 at 2.98 Å resolution bound with THF. THF (shown in sticks) is colored in red <sup>[8]</sup>.</font>
-  <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
+  <table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
-  <img src="/images/3D/THF_riboswitch_3D2.svg" alt="drawing" style="width:400px;height:400px;margin-top: 0px;margin-bottom: 0px;" >
+  <img src="/images/3D/THF_riboswitch_3D2.svg" alt="drawing" style="width:500px;margin-top: 0px;margin-bottom: 0px;" >
   </td>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
   <html lang="en">
@@ -658,8 +658,8 @@ The <i>folE</i> RNA motif, now known as the THF-II riboswitch, is a conserved RN
             }
           #myViewer2{
             float:left;
-            width:400px;
-            height: 400px;
+            width:500px;
+            height: 500px;
             position:relative;
           }
         </style>
@@ -734,17 +734,17 @@ The <i>folE</i> RNA motif, now known as the THF-II riboswitch, is a conserved RN
                     
 <font ><p>Left: Surface representation of th
 e binding pocket of the THF-I riboswitch generated from PDB ID: 4LVV. 6<i>S</i>-folinic acid (6<i>S</i>-FA) (shown in sticks) is labeled in red. Right: The hydrogen bonds of two binding sites of the THF-I riboswitch bound with 6<i>S</i>-FA<sup>[4]</sup>.<br /></p></font>
-<table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
-<td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/THF_riboswitch_binding_pockets1.svg" alt="drawing" style="width:400px"  px="" /></td>
-<td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/THF_riboswitch_binding_pockets2.svg" alt="drawing" style="width:400px"  px="" /></td>
+<table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;"><tr>
+<td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/THF_riboswitch_binding_pockets1.svg" alt="drawing" style="width:500px"  px="" /></td>
+<td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/THF_riboswitch_binding_pockets2.svg" alt="drawing" style="width:500px"  px="" /></td>
 </tr>
 </table>
 <p><br /></p>
                     
 <font ><p>Left: Surface representation of the binding pocket of the THF-II riboswitch generated from PDB ID: 7WI9. THF (shown in sticks) is labeled in red. Right: The hydrogen bonds of the binding site of the THF-II riboswitch bound with THF<sup>[8]</sup>.<br /></p></font>
-<table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
-<td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/THF_riboswitch_binding_pockets3.svg" alt="drawing" style="width:400px"  px="" /></td>
-<td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/THF_riboswitch_binding_pockets4.svg" alt="drawing" style="width:400px"  px="" /></td>
+<table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;"><tr>
+<td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/THF_riboswitch_binding_pockets3.svg" alt="drawing" style="width:500px"  px="" /></td>
+<td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/THF_riboswitch_binding_pockets4.svg" alt="drawing" style="width:500px"  px="" /></td>
 </tr>
 </table>
 <p><br /></p>
@@ -754,10 +754,10 @@ e binding pocket of the THF-I riboswitch generated from PDB ID: 4LVV. 6<i>S</i>-
 <font >
 <p>Chemical structures of tetrahydrofolate (THF) and its analogs. The apparent K<sub>D</sub> of each compound of THF-I and THF-II riboswitch is shown on bottom<sup>[1,4,6]</sup>.<br /><br /></p>
 </font>
-<table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;">
+<table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;">
 <tr>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
-  <img src="/images/ligand_recognition/THF_riboswitch_ligand_recognition.svg" alt="drawing" style="width:800px;margin-top: 0px;margin-bottom: 0px;" >
+  <img src="/images/ligand_recognition/THF_riboswitch_ligand_recognition.svg" alt="drawing" style="width:1000px;margin-top: 0px;margin-bottom: 0px;" >
 </td>
 </tr>
 </table>

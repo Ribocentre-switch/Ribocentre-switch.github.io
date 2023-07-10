@@ -112,10 +112,10 @@ permalink: /docs/PRA/
 > Gene association
             
 <font >All <I>Fibro-purF</I> motif RNA representatives where determinations can be made are found upstream of a purF gene, which codes for an enzyme, amidophosphoribosyltransferase, that catalyzes the first committed step in the purine biosynthesis pathway.<sup>[1-2]</sup>.</font>
-<table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;">
+<table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;">
 <tr >
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
-  <img src="/images/gene_association/PRA_riboswitch_gene_association.svg" alt="drawing" style="width:800px;margin-top: 0px;margin-bottom: 0px;" >
+  <img src="/images/gene_association/PRA_riboswitch_gene_association.svg" alt="drawing" style="width:1000px;margin-top: 0px;margin-bottom: 0px;" >
 </td>
 </tr>
 </table>
@@ -124,9 +124,9 @@ permalink: /docs/PRA/
 > Gene regulation
                 
 <font ><p>Putative mechanisms for regulation of gene expression by PRA riboswitches. The Shine-Dalgarno sequence are shaded in orange<sup>[2]</sup>.</p></font>
-<table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
+<table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
-  <img src="/images/gene_regulation/PRA_riboswitch_gene_regulation1.svg" alt="drawing" style="width:800px;margin-top: 0px;margin-bottom: 0px;" >
+  <img src="/images/gene_regulation/PRA_riboswitch_gene_regulation1.svg" alt="drawing" style="width:1000px;margin-top: 0px;margin-bottom: 0px;" >
   </td>
 </tr>
 </table>
@@ -136,7 +136,7 @@ permalink: /docs/PRA/
 > 2D representation
         
 <font >Left: Consensus sequence and secondary structure model for the PRA riboswitch. <sup>[1-2]</sup>.</font><br>
-<table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
+<table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
 <head>
     <meta charset="UTF-8">
@@ -159,7 +159,7 @@ permalink: /docs/PRA/
     height: 100%;
 }
    .zoom-wrapper1 {
-    width: 600px;
+    width: 800px;
     border: 1px solid #fff;
     display: flex;
     align-items: center;
@@ -169,7 +169,7 @@ permalink: /docs/PRA/
     <div class="main-container">
         <div class="zoom-wrapper1">
             <div class="zoom-area1">
-                <img src="/images/2D/PRA_riboswitch_2D1.svg" alt="drawing" style="width:800px" />
+                <img src="/images/2D/PRA_riboswitch_2D1.svg" alt="drawing" style="width:1000px" />
             </div>
         </div>
     </div>
@@ -191,10 +191,10 @@ permalink: /docs/PRA/
 <font >
 <p>Chemical structures of PRA and C-PRA. In vitro experiments have corroborated the predicted structure, but no ligand has been established<sup>[3]</sup>.<br /><br /></p>
 </font>
-<table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;">
+<table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;">
 <tr>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
-  <img src="/images/ligand_recognition/PRA_riboswitch_ligand_recognition.svg" alt="drawing" style="width:800px;margin-top: 0px;margin-bottom: 0px;" >
+  <img src="/images/ligand_recognition/PRA_riboswitch_ligand_recognition.svg" alt="drawing" style="width:1000px;margin-top: 0px;margin-bottom: 0px;" >
 </td>
 </tr>
 </table>

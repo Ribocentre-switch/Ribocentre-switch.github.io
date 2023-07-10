@@ -137,10 +137,10 @@ permalink: /docs/2-dG/
 > Gene association
             
 <font >The gene associateds with 2'-dG-I, 2'-dG-II and 2'-dG-III RNAs are different from each other. 2'-dG-I RNAs are associated with genes annotated as ribonucleotide reductase. Genes located downstream from 2'-dG-II RNAs are predicted to encode a signal receiver domain, endonuclease I, phospholipase D, and ComEC. ComEC is a competence protein involved in importing foreign DNA and endonuclease I could mitigate a lack of 2'-dG by salvaging deoxyribonuc. 2'-dG-III RNAs are associated with genes encoding for purine nucleoside hydrolase, which uses nucleosides as substrates and produces free nucleobases as products<sup>[2,4,6]</sup>.</font>
-<table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;">
+<table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;">
 <tr >
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
-  <img src="/images/gene_association/2-dG_riboswitch_gene_association.svg" alt="drawing" style="width:800px;margin-top: 0px;margin-bottom: 0px;" >
+  <img src="/images/gene_association/2-dG_riboswitch_gene_association.svg" alt="drawing" style="width:1000px;margin-top: 0px;margin-bottom: 0px;" >
 </td>
 </tr>
 </table>
@@ -149,12 +149,12 @@ permalink: /docs/2-dG/
 > Gene regulation
                 
 <font ><p>Putative mechanisms for regulation of gene expression by 2'-dG riboswitch<sup>[2,4,6]</sup>.</p></font>
-<table class="table table-bordered" style="table-layout:fixed;width:1200px;margin-left:auto;margin-right:auto;"><tr>
+<table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
-  <img src="/images/gene_regulation/2-dG_riboswitch_gene_regulation1.svg" alt="drawing" style="width:600px;margin-top: 0px;margin-bottom: 0px;" >
+  <img src="/images/gene_regulation/2-dG_riboswitch_gene_regulation1.svg" alt="drawing" style="width:500px;margin-top: 0px;margin-bottom: 0px;" >
   </td>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
-  <img src="/images/gene_regulation/2-dG_riboswitch_gene_regulation2.svg" alt="drawing" style="width:600px;margin-top: 0px;margin-bottom: 0px;" >
+  <img src="/images/gene_regulation/2-dG_riboswitch_gene_regulation2.svg" alt="drawing" style="width:500px;margin-top: 0px;margin-bottom: 0px;" >
   </td>
 </tr>
 </table>
@@ -272,13 +272,13 @@ permalink: /docs/2-dG/
         
         var zoomArea = document.getElementById("zoom-area0");
         var panzoom = Panzoom(zoomArea, {
-            maxScale: 8,
+            maxScale: 6,
         });
         zoomArea.addEventListener("wheel", function(e) {
             e.preventDefault();
             panzoom.zoomWithWheel(e);
         });
-        panzoom.zoom(1);
+        panzoom.zoom(0.8);
     });
 </script>
 </html>
@@ -436,9 +436,9 @@ permalink: /docs/2-dG/
   <p><br /></p>
                 
 <font >The overall structure of the 2'-dG-II riboswitch was generated from PDB ID: 6P2H at 2.80 Å resolution bound with 2'-dG. 2'-dG (shown in sticks) is labeled in red <sup>[5]</sup>.</font>
-  <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
+  <table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
-  <img src="/images/3D/2-dG_riboswitch_3D2.svg" alt="drawing" style="width:400px;height:400px;margin-top: 0px;margin-bottom: 0px;" >
+  <img src="/images/3D/2-dG_riboswitch_3D2.svg" alt="drawing" style="width:500px;margin-top: 0px;margin-bottom: 0px;" >
   </td>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
   <html lang="en">
@@ -476,8 +476,8 @@ permalink: /docs/2-dG/
             }
           #myViewer2{
             float:left;
-            width:400px;
-            height: 400px;
+            width:500px;
+            height: 500px;
             position:relative;
           }
         </style>
@@ -587,9 +587,9 @@ permalink: /docs/2-dG/
 > Binding pocket
                     
 <font ><p>Left: Surface representation of the binding pocket of the 2'-dG-I riboswitch generated from PDB ID: 3SKI. 2'-dG (shown in sticks) is labeled in red. Right: The hydrogen bonds of the binding sites of the 2'-dG-I riboswitch bound with 2'-dG<sup>[3]</sup>.<br /></p></font>
-<table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
-<td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/2-dG_riboswitch_binding_pockets1.svg" alt="drawing" style="width:400px"  px="" /></td>
-<td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/2-dG_riboswitch_binding_pockets2.svg" alt="drawing" style="width:400px"  px="" /></td>
+<table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;"><tr>
+<td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/2-dG_riboswitch_binding_pockets1.svg" alt="drawing" style="width:500px"  px="" /></td>
+<td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/2-dG_riboswitch_binding_pockets2.svg" alt="drawing" style="width:500px"  px="" /></td>
 </tr>
 </table>
 <p><br /></p>
@@ -607,10 +607,10 @@ permalink: /docs/2-dG/
 <font >
 <p>Chemical structures of 2'-dG and its analogs. The apparent K<sub>D</sub> of each compound of three classes of 2-dG riboswitches is shown on bottom<sup>[2, 4, 6]</sup>.<br /><br /></p>
 </font>
-<table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;">
+<table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;">
 <tr>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
-  <img src="/images/ligand_recognition/2-dG_riboswitch_ligand_recognition.svg" alt="drawing" style="width:800px;margin-top: 0px;margin-bottom: 0px;" >
+  <img src="/images/ligand_recognition/2-dG_riboswitch_ligand_recognition.svg" alt="drawing" style="width:1000px;margin-top: 0px;margin-bottom: 0px;" >
 </td>
 </tr>
 </table>

@@ -133,9 +133,9 @@ permalink: /docs/NiCo/
 > Gene regulation
                 
 <font ><p>The NiCo riboswitch is an “on” transcription-termination riboswitch. In the ligand-unbound form, a terminator stem is formed, which leads to transcription to be aborted by RNA polymerase. Binding of the ligand induces a conformational change in which part of the terminator stem sequence is sequestered, allowing transcription read-through and expression of the downstream gene<sup>[3]</sup>.</p></font>
-<table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
+<table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
-  <img src="/images/gene_regulation/NiCo_riboswitch_gene_regulation.svg" alt="drawing" style="width:800px;margin-top: 0px;margin-bottom: 0px;" >
+  <img src="/images/gene_regulation/NiCo_riboswitch_gene_regulation.svg" alt="drawing" style="width:1000px;margin-top: 0px;margin-bottom: 0px;" >
   </td>
 </tr>
 </table>
@@ -153,7 +153,7 @@ permalink: /docs/NiCo/
         <div id="image-caption" style="text-align: left; margin-left: 20px;"></div>
             <table class="clear" cellspacing="5" style="border-spacing: 0; margin: 0 auto;">
                 <tr>
-                    <td style="border: 1px solid black;width:640px">
+                    <td style="border: 1px solid black;width:800px">
                         <div id="layer_pdb" style="display: block">
                             <a id="image-link0" href="#" title="">
                                 <div id="zoom-wrapper0" class="zoom-wrapper0">
@@ -166,13 +166,13 @@ permalink: /docs/NiCo/
                     </td>
                     <td class="left" style="border: none; padding: 0; vertical-align: top">
                         <div class="image-wrapper" style="margin-bottom: 40px;">
-                            <img id="image-a0" src="/images/2D/NiCo_riboswitch_2D1.svg" width="160" style="border: 1px solid black; cursor: zoom-in;margin-top: 0px;margin-bottom: 0px;" alt="big.png"/>
+                            <img id="image-a0" src="/images/2D/NiCo_riboswitch_2D1.svg" width="200" style="border: 1px solid black; cursor: zoom-in;margin-top: 0px;margin-bottom: 0px;" alt="big.png"/>
                             <div class="button-wrapper">
                                 <a class="btn " href="javascript:showImage0('/images/2D/NiCo_riboswitch_2D1.svg');">&lt;&lt; Show big</a>
                             </div>
                         </div>
                         <div class="image-wrapper" >
-                            <img id="image-b" src="/images/2D/NiCo_riboswitch_2D2.svg" width="160" style="border: 1px solid black; cursor: zoom-in;margin-top: 0px;margin-bottom: 0px;" alt="down.png"/>
+                            <img id="image-b" src="/images/2D/NiCo_riboswitch_2D2.svg" width="200" style="border: 1px solid black; cursor: zoom-in;margin-top: 0px;margin-bottom: 0px;" alt="down.png"/>
                             <div class="button-wrapper">
                                 <a class="btn " href="javascript:showImage0('/images/2D/NiCo_riboswitch_2D2.svg');">&lt;&lt; Show big</a>
                             </div>
@@ -220,7 +220,7 @@ permalink: /docs/NiCo/
     
 
     .zoom-wrapper0 {
-        width: 600px;
+        width: 800px;
         border: 1px solid #fff;
         overflow: hidden;
         display: flex;
@@ -268,9 +268,9 @@ permalink: /docs/NiCo/
 > 3D visualisation
                 
 <font >The overall structure of the NiCo riboswitch was generated from PDB ID: 4RUM at 2.64 Å resolution bound to cobalt. Crystal structure of NiCo shows two sets of coaxially stacked helices: P1-P2 (pink) and P3-P4 (palegreen). Interhelical nucleotides coordinate four Co<sup>2+</sup> ions (red). Anti-terminator nucleotides 78 to 98 (cyan) are sequestered within P4 and P1, making direct contacts with Co<sup>2+</sup> ions <sup>[1]</sup>.</font>
-  <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
+  <table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
-  <img src="/images/3D/NiCo_riboswitch_3D.svg" alt="drawing" style="width:400px;height:400px;margin-top: 0px;margin-bottom: 0px;" >
+  <img src="/images/3D/NiCo_riboswitch_3D.svg" alt="drawing" style="width:500px;margin-top: 0px;margin-bottom: 0px;" >
   </td>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
   <html lang="en">
@@ -308,8 +308,8 @@ permalink: /docs/NiCo/
             }
           #myViewer1{
             float:left;
-            width:400px;
-            height: 400px;
+            width:500px;
+            height: 500px;
             position:relative;
           }
         </style>
@@ -461,9 +461,9 @@ permalink: /docs/NiCo/
 > Binding pocket
                     
 <font ><p>Left: Surface representation of the binding pocket of the NiCo riboswitch generated from PDB ID: 4RUM. The Co<sup>2+</sup> ions are labeled in red. Right: Co<sup>2+</sup> ions (red) bound to NiCo are coordinated by interhelical nucleotides from diametrically opposite sides of the RNA. G87 coordinates cobalt 1 via N7 and cobalt 2 via its ribose oxygen. G45 coordinates cobalt 2 via water mediated contacts with a ribosyl oxygen and cobalt 3 via its N7. These long-range connections extend from A14 to G86 via G45 and G87, connecting three of the Co<sup>2+</sup> sites<sup>[1]</sup>.<br /></p></font>
-<table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
-<td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/NiCo_riboswitch_ binding_pockets1.svg" alt="drawing" style="width:400px"  px="" /></td>
-<td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/NiCo_riboswitch_ binding_pockets2.svg" alt="drawing" style="width:400px"  px="" /></td>
+<table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;"><tr>
+<td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/NiCo_riboswitch_ binding_pockets1.svg" alt="drawing" style="width:500px"  px="" /></td>
+<td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/NiCo_riboswitch_ binding_pockets2.svg" alt="drawing" style="width:500px"  px="" /></td>
 </tr>
 </table>
 <p><br /></p>
@@ -473,10 +473,10 @@ permalink: /docs/NiCo/
 <font >
 <p>Isothermal titration calorimetry studies of the native <i>czcD</i> riboswitches show no response to Mn<sup>II</sup>, a weak response to Zn<sup>II</sup>, and similar dissociation constants (∼1μM) and conformational responses for Fe<sup>II</sup>, Co<sup>II</sup>, and Ni<sup>II</sup><sup>[4]</sup>.<br /><br /></p>
 </font>
-<table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;">
+<table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;">
 <tr>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
-  <img src="/images/ligand_recognition/NiCo_riboswitch_ligand_recognition.svg" alt="drawing" style="width:800px;margin-top: 0px;margin-bottom: 0px;" >
+  <img src="/images/ligand_recognition/NiCo_riboswitch_ligand_recognition.svg" alt="drawing" style="width:1000px;margin-top: 0px;margin-bottom: 0px;" >
 </td>
 </tr>
 </table>

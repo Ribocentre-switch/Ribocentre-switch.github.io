@@ -140,10 +140,10 @@ The Magnesium responsive RNA element, not to be confused with the completely dis
 > Gene association
             
 <font >Mg<sup>2+</sup> riboswitch in <i>Salmonella enterica</i>. Magnesium-responsive regulatory pathways in the bacteria <i>Salmonella enterica</i> by the two-component regulatory system consisting of PhoQ, the membrane-bound sensor kinase, and PhoP, a transcription regulator. PhoP, which is phosphorylated, affects more than 100 genes in response to fluctuations in the Mg<sup>2+</sup> concentration. The regulatory system PhoQ/PhoP is a two-component system activated in low magnesium levels or by cationic peptides. Genes regulated by PhoP-PhoQ are depicted in grey boxes and ovals<sup>[6]</sup>.</font>
-<table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;">
+<table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;">
 <tr >
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
-  <img src="/images/gene_association/Magnesium_riboswitch_gene_association.svg" alt="drawing" style="width:800px;margin-top: 0px;margin-bottom: 0px;" >
+  <img src="/images/gene_association/Magnesium_riboswitch_gene_association.svg" alt="drawing" style="width:1000px;margin-top: 0px;margin-bottom: 0px;" >
 </td>
 </tr>
 </table>
@@ -152,12 +152,12 @@ The Magnesium responsive RNA element, not to be confused with the completely dis
 > Gene regulation
                 
 <font ><p>Potential mechanism of transcriptional regulation by the Mg<sup>2+</sup>-I and Mg<sup>2+</sup>-II riboswitch. The magnesium ions are showed on red<sup>[2,5]</sup>.</p></font>
-<table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
+<table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
-  <img src="/images/gene_regulation/Magnesium_riboswitch_gene_regulation1.svg" alt="drawing" style="width:400px;margin-top: 0px;margin-bottom: 0px;" >
+  <img src="/images/gene_regulation/Magnesium_riboswitch_gene_regulation1.svg" alt="drawing" style="width:500px;margin-top: 0px;margin-bottom: 0px;" >
   </td>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
-  <img src="/images/gene_regulation/Magnesium_riboswitch_gene_regulation2.svg" alt="drawing" style="width:400px;margin-top: 0px;margin-bottom: 0px;" >
+  <img src="/images/gene_regulation/Magnesium_riboswitch_gene_regulation2.svg" alt="drawing" style="width:500px;margin-top: 0px;margin-bottom: 0px;" >
   </td>
 </tr>
 </table>
@@ -175,7 +175,7 @@ The Magnesium responsive RNA element, not to be confused with the completely dis
         <div id="image-caption" style="text-align: left; margin-left: 20px;"></div>
             <table class="clear" cellspacing="5" style="border-spacing: 0; margin: 0 auto;">
                 <tr>
-                    <td style="border: 1px solid black;width:640px">
+                    <td style="border: 1px solid black;width:800px">
                         <div id="layer_pdb" style="display: block">
                             <a id="image-link0" href="#" title="">
                                 <div id="zoom-wrapper0" class="zoom-wrapper0">
@@ -188,13 +188,13 @@ The Magnesium responsive RNA element, not to be confused with the completely dis
                     </td>
                     <td class="left" style="border: none; padding: 0; vertical-align: top">
                         <div class="image-wrapper" style="margin-bottom: 40px;">
-                            <img id="image-a0" src="/images/2D/Mg2+-I_riboswitch_2D1.svg" width="160" style="border: 1px solid black; cursor: zoom-in;margin-top: 0px;margin-bottom: 0px;" alt="big.png"/>
+                            <img id="image-a0" src="/images/2D/Mg2+-I_riboswitch_2D1.svg" width="200" style="border: 1px solid black; cursor: zoom-in;margin-top: 0px;margin-bottom: 0px;" alt="big.png"/>
                             <div class="button-wrapper">
                                 <a class="btn " href="javascript:showImage0('/images/2D/Mg2+-I_riboswitch_2D1.svg');">&lt;&lt; Show big</a>
                             </div>
                         </div>
                         <div class="image-wrapper" >
-                            <img id="image-b" src="/images/2D/Mg2+-I_riboswitch_2D2.svg" width="160" style="border: 1px solid black; cursor: zoom-in;margin-top: 0px;margin-bottom: 0px;" alt="down.png"/>
+                            <img id="image-b" src="/images/2D/Mg2+-I_riboswitch_2D2.svg" width="200" style="border: 1px solid black; cursor: zoom-in;margin-top: 0px;margin-bottom: 0px;" alt="down.png"/>
                             <div class="button-wrapper">
                                 <a class="btn " href="javascript:showImage0('/images/2D/Mg2+-I_riboswitch_2D2.svg');">&lt;&lt; Show big</a>
                             </div>
@@ -242,7 +242,7 @@ The Magnesium responsive RNA element, not to be confused with the completely dis
     
 
     .zoom-wrapper0 {
-        width: 600px;
+        width: 800px;
         border: 1px solid #fff;
         overflow: hidden;
         display: flex;
@@ -288,7 +288,7 @@ The Magnesium responsive RNA element, not to be confused with the completely dis
 <p><br></p>
                     
 <font >Left: Consensus sequence and secondary structure model for the Mg<sup>2+</sup>-II riboswitch<sup></sup>.</font><br>
-<table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
+<table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
 <head>
     <meta charset="UTF-8">
@@ -311,7 +311,7 @@ The Magnesium responsive RNA element, not to be confused with the completely dis
     height: 100%;
 }
    .zoom-wrapper3 {
-    width: 600px;
+    width: 800px;
     border: 1px solid #fff;
     display: flex;
     align-items: center;
@@ -321,7 +321,7 @@ The Magnesium responsive RNA element, not to be confused with the completely dis
     <div class="main-container">
         <div class="zoom-wrapper3">
             <div class="zoom-area3">
-                <img src="/images/2D/Mg2+-II_riboswitch_2D1.svg" alt="drawing" style="width:800px" />
+                <img src="/images/2D/Mg2+-II_riboswitch_2D1.svg" alt="drawing" style="width:1000px" />
             </div>
         </div>
     </div>
@@ -341,9 +341,9 @@ The Magnesium responsive RNA element, not to be confused with the completely dis
 > 3D visualisation
                 
 <font >The structure of the M-box riboswitch aptamer domain was generated from PDB ID: 2QBZ at 2.60 Å resolution. Six magnesiums are labeled in red <sup>[3]</sup>.</font>
-  <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
+  <table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
-  <img src="/images/3D/Mg2+-I_riboswitch_3D1.svg" alt="drawing" style="width:400px;height:400px;margin-top: 0px;margin-bottom: 0px;" >
+  <img src="/images/3D/Mg2+-I_riboswitch_3D1.svg" alt="drawing" style="width:500px;margin-top: 0px;margin-bottom: 0px;" >
   </td>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
   <html lang="en">
@@ -381,8 +381,8 @@ The Magnesium responsive RNA element, not to be confused with the completely dis
             }
           #myViewer1{
             float:left;
-            width:400px;
-            height: 400px;
+            width:500px;
+            height: 500px;
             position:relative;
           }
         </style>
@@ -547,9 +547,9 @@ The Magnesium responsive RNA element, not to be confused with the completely dis
                     
 <font ><p>Left: Surface representation of the binding pocket of the Mg<sup>2+</sup>-I riboswitch generated from PDB ID: 2QBZ. Magnesiums are labeled in red.
 Right: Nucleotides that contact Mg1-3 via inner and outer sphere interactions are labeled and shown as sticks<sup>[3]</sup>.<br /></p></font>
-<table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
-<td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/Magnesium_riboswitch_ binding_pockets1.svg" alt="drawing" style="width:400px"  px="" /></td>
-<td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/Magnesium_riboswitch_ binding_pockets2.svg" alt="drawing" style="width:400px"  px="" /></td>
+<table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;"><tr>
+<td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/Magnesium_riboswitch_ binding_pockets1.svg" alt="drawing" style="width:500px"  px="" /></td>
+<td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/Magnesium_riboswitch_ binding_pockets2.svg" alt="drawing" style="width:500px"  px="" /></td>
 </tr>
 </table>
 <p><br /></p>

@@ -114,10 +114,10 @@ A DUF1646 RNA occurs upstream of an operon in <i>Enterococcus</i> hirae that was
 > Gene association
             
 <font >Existing annotations of the protein products whose genes are associated with DUF1646 motif RNAs<sup>[2]</sup>.</font>
-<table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;">
+<table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;">
 <tr >
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
-  <img src="/images/gene_association/Na+_riboswitch_gene_association.svg" alt="drawing" style="width:800px;margin-top: 0px;margin-bottom: 0px;" >
+  <img src="/images/gene_association/Na+_riboswitch_gene_association.svg" alt="drawing" style="width:1000px;margin-top: 0px;margin-bottom: 0px;" >
 </td>
 </tr>
 </table>
@@ -127,7 +127,7 @@ A DUF1646 RNA occurs upstream of an operon in <i>Enterococcus</i> hirae that was
 > 2D representation
         
 <font >Consensus secondary structure and sequence conservation of DUF1646 RNA<sup>[2]</sup>.</font><br>
-<table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
+<table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
 <head>
     <meta charset="UTF-8">
@@ -150,7 +150,7 @@ A DUF1646 RNA occurs upstream of an operon in <i>Enterococcus</i> hirae that was
     height: 100%;
 }
    .zoom-wrapper1 {
-    width: 600px;
+    width: 800px;
     border: 1px solid #fff;
     display: flex;
     align-items: center;
@@ -160,7 +160,7 @@ A DUF1646 RNA occurs upstream of an operon in <i>Enterococcus</i> hirae that was
     <div class="main-container">
         <div class="zoom-wrapper1">
             <div class="zoom-area1">
-                <img src="/images/2D/Na+_riboswitch_2D1.svg" alt="drawing" style="width:800px" />
+                <img src="/images/2D/Na+_riboswitch_2D1.svg" alt="drawing" style="width:1000px" />
             </div>
         </div>
     </div>
@@ -182,10 +182,10 @@ A DUF1646 RNA occurs upstream of an operon in <i>Enterococcus</i> hirae that was
 <font >
 <p>Na+ riboswitches exhibit dissociation constants in the low mM range, and strongly reject all other alkali and alkaline earth ions<sup>[2]</sup>.<br /><br /></p>
 </font>
-<table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;">
+<table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;">
 <tr>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
-  <img src="/images/ligand_recognition/nan" alt="drawing" style="width:800px;margin-top: 0px;margin-bottom: 0px;" >
+  <img src="/images/ligand_recognition/nan" alt="drawing" style="width:1000px;margin-top: 0px;margin-bottom: 0px;" >
 </td>
 </tr>
 </table>

@@ -174,12 +174,12 @@ Cyclic di-GMP-II riboswitches (also c-di-GMP-II riboswitches) form a class of ri
 > Gene regulation
                 
 <font ><p>Left: c-di-GMP mediated transcriptional termination. Right: c-di-GMP-mediated self-splicing to generate a ribosomal binding site<sup>[8]</sup>.</p></font>
-<table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
+<table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
-  <img src="/images/gene_regulation/c-di-GMP-I_gene_regulation.svg" alt="drawing" style="width:400px;margin-top: 0px;margin-bottom: 0px;" >
+  <img src="/images/gene_regulation/c-di-GMP-I_gene_regulation.svg" alt="drawing" style="width:500px;margin-top: 0px;margin-bottom: 0px;" >
   </td>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
-  <img src="/images/gene_regulation/c-di-GMP-II_gene_regulation.svg" alt="drawing" style="width:400px;margin-top: 0px;margin-bottom: 0px;" >
+  <img src="/images/gene_regulation/c-di-GMP-II_gene_regulation.svg" alt="drawing" style="width:500px;margin-top: 0px;margin-bottom: 0px;" >
   </td>
 </tr>
 </table>
@@ -197,7 +197,7 @@ Cyclic di-GMP-II riboswitches (also c-di-GMP-II riboswitches) form a class of ri
         <div id="image-caption" style="text-align: left; margin-left: 20px;"></div>
             <table class="clear" cellspacing="5" style="border-spacing: 0; margin: 0 auto;">
                 <tr>
-                    <td style="border: 1px solid black;width:640px">
+                    <td style="border: 1px solid black;width:800px">
                         <div id="layer_pdb" style="display: block">
                             <a id="image-link0" href="#" title="">
                                 <div id="zoom-wrapper0" class="zoom-wrapper0">
@@ -210,13 +210,13 @@ Cyclic di-GMP-II riboswitches (also c-di-GMP-II riboswitches) form a class of ri
                     </td>
                     <td class="left" style="border: none; padding: 0; vertical-align: top">
                         <div class="image-wrapper" style="margin-bottom: 40px;">
-                            <img id="image-a0" src="/images/2D/c-di-GMP-I_2D1.svg" width="160" style="border: 1px solid black; cursor: zoom-in;margin-top: 0px;margin-bottom: 0px;" alt="big.png"/>
+                            <img id="image-a0" src="/images/2D/c-di-GMP-I_2D1.svg" width="200" style="border: 1px solid black; cursor: zoom-in;margin-top: 0px;margin-bottom: 0px;" alt="big.png"/>
                             <div class="button-wrapper">
                                 <a class="btn " href="javascript:showImage0('/images/2D/c-di-GMP-I_2D1.svg');">&lt;&lt; Show big</a>
                             </div>
                         </div>
                         <div class="image-wrapper" >
-                            <img id="image-b" src="/images/2D/c-di-GMP-I_2D2.svg" width="160" style="border: 1px solid black; cursor: zoom-in;margin-top: 0px;margin-bottom: 0px;" alt="down.png"/>
+                            <img id="image-b" src="/images/2D/c-di-GMP-I_2D2.svg" width="200" style="border: 1px solid black; cursor: zoom-in;margin-top: 0px;margin-bottom: 0px;" alt="down.png"/>
                             <div class="button-wrapper">
                                 <a class="btn " href="javascript:showImage0('/images/2D/c-di-GMP-I_2D2.svg');">&lt;&lt; Show big</a>
                             </div>
@@ -264,7 +264,7 @@ Cyclic di-GMP-II riboswitches (also c-di-GMP-II riboswitches) form a class of ri
     
 
     .zoom-wrapper0 {
-        width: 600px;
+        width: 800px;
         border: 1px solid #fff;
         overflow: hidden;
         display: flex;
@@ -318,7 +318,7 @@ Cyclic di-GMP-II riboswitches (also c-di-GMP-II riboswitches) form a class of ri
         <div id="image-caption" style="text-align: left; margin-left: 20px;"></div>
             <table class="clear" cellspacing="5" style="border-spacing: 0; margin: 0 auto;">
                 <tr>
-                    <td style="border: 1px solid black;width:640px">
+                    <td style="border: 1px solid black;width:800px">
                         <div id="layer_pdb" style="display: block">
                             <a id="image-link1" href="#" title="">
                                 <div id="zoom-wrapper1" class="zoom-wrapper1">
@@ -331,13 +331,13 @@ Cyclic di-GMP-II riboswitches (also c-di-GMP-II riboswitches) form a class of ri
                     </td>
                     <td class="left" style="border: none; padding: 0; vertical-align: top">
                         <div class="image-wrapper" style="margin-bottom: 40px;">
-                            <img id="image-a1" src="/images/2D/c-di-GMP-II_2D1.svg" width="160" style="border: 1px solid black; cursor: zoom-in;margin-top: 0px;margin-bottom: 0px;" alt="big.png"/>
+                            <img id="image-a1" src="/images/2D/c-di-GMP-II_2D1.svg" width="200" style="border: 1px solid black; cursor: zoom-in;margin-top: 0px;margin-bottom: 0px;" alt="big.png"/>
                             <div class="button-wrapper">
                                 <a class="btn " href="javascript:showImage1('/images/2D/c-di-GMP-II_2D1.svg');">&lt;&lt; Show big</a>
                             </div>
                         </div>
                         <div class="image-wrapper" >
-                            <img id="image-b" src="/images/2D/c-di-GMP-II_2D2.svg" width="160" style="border: 1px solid black; cursor: zoom-in;margin-top: 0px;margin-bottom: 0px;" alt="down.png"/>
+                            <img id="image-b" src="/images/2D/c-di-GMP-II_2D2.svg" width="200" style="border: 1px solid black; cursor: zoom-in;margin-top: 0px;margin-bottom: 0px;" alt="down.png"/>
                             <div class="button-wrapper">
                                 <a class="btn " href="javascript:showImage1('/images/2D/c-di-GMP-II_2D2.svg');">&lt;&lt; Show big</a>
                             </div>
@@ -385,7 +385,7 @@ Cyclic di-GMP-II riboswitches (also c-di-GMP-II riboswitches) form a class of ri
     
 
     .zoom-wrapper1 {
-        width: 600px;
+        width: 800px;
         border: 1px solid #fff;
         overflow: hidden;
         display: flex;
@@ -433,9 +433,9 @@ Cyclic di-GMP-II riboswitches (also c-di-GMP-II riboswitches) form a class of ri
 > 3D visualisation
                 
 <font >Structure of a c-di-GMP riboswitch from V. cholerae <sup>[3]</sup>.</font>
-  <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
+  <table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
-  <img src="/images/3D/c-di-GMP-I_3D.svg" alt="drawing" style="width:400px;height:400px;margin-top: 0px;margin-bottom: 0px;" >
+  <img src="/images/3D/c-di-GMP-I_3D.svg" alt="drawing" style="width:500px;margin-top: 0px;margin-bottom: 0px;" >
   </td>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
   <html lang="en">
@@ -473,8 +473,8 @@ Cyclic di-GMP-II riboswitches (also c-di-GMP-II riboswitches) form a class of ri
             }
           #myViewer1{
             float:left;
-            width:400px;
-            height: 400px;
+            width:500px;
+            height: 500px;
             position:relative;
           }
         </style>
@@ -576,9 +576,9 @@ Cyclic di-GMP-II riboswitches (also c-di-GMP-II riboswitches) form a class of ri
   <p><br /></p>
                 
 <font >Structure of a c-di-GMP-II riboswitch from C. acetobutylicum bound to c-di-GMP <sup>[6]</sup>.</font>
-  <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
+  <table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
-  <img src="/images/3D/c-di-GMP-II_3D.svg" alt="drawing" style="width:400px;height:400px;margin-top: 0px;margin-bottom: 0px;" >
+  <img src="/images/3D/c-di-GMP-II_3D.svg" alt="drawing" style="width:500px;margin-top: 0px;margin-bottom: 0px;" >
   </td>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
   <html lang="en">
@@ -616,8 +616,8 @@ Cyclic di-GMP-II riboswitches (also c-di-GMP-II riboswitches) form a class of ri
             }
           #myViewer2{
             float:left;
-            width:400px;
-            height: 400px;
+            width:500px;
+            height: 500px;
             position:relative;
           }
         </style>
@@ -709,17 +709,17 @@ Cyclic di-GMP-II riboswitches (also c-di-GMP-II riboswitches) form a class of ri
 > Binding pocket
                     
 <font ><p>Left: Surface representation of the binding pocket of the c-di-GMP-I riboswitch generated from PDB ID:3IRW. c-di-GMP (shown in sticks) is labeled in red. Right: The hydrogen bonds of the two binding sites of the c-di-GMP-I riboswitch bound with c-di-GMP<sup>[3]</sup>.<br /></p></font>
-<table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
-<td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/c-di-GMP-I_binding_pockets_1.svg" alt="drawing" style="width:400px"  px="" /></td>
-<td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/c-di-GMP-I_binding_pockets_2.svg" alt="drawing" style="width:400px"  px="" /></td>
+<table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;"><tr>
+<td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/c-di-GMP-I_binding_pockets_1.svg" alt="drawing" style="width:500px"  px="" /></td>
+<td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/c-di-GMP-I_binding_pockets_2.svg" alt="drawing" style="width:500px"  px="" /></td>
 </tr>
 </table>
 <p><br /></p>
                     
 <font ><p>Left: Surface representation of the binding pocket of the c-di-GMP-II riboswitch generated from PDB ID:3Q3Z. c-di-GMP (shown in sticks) is labeled in red. Right: The hydrogen bonds of the binding site of the c-di-GMP-II riboswitch bound with c-di-GMP<sup>[6]</sup>.<br /></p></font>
-<table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
-<td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/c-di-GMP-II_binding_pockets_1.svg" alt="drawing" style="width:400px"  px="" /></td>
-<td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/c-di-GMP-II_binding_pockets_2.svg" alt="drawing" style="width:400px"  px="" /></td>
+<table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;"><tr>
+<td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/c-di-GMP-II_binding_pockets_1.svg" alt="drawing" style="width:500px"  px="" /></td>
+<td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/c-di-GMP-II_binding_pockets_2.svg" alt="drawing" style="width:500px"  px="" /></td>
 </tr>
 </table>
 <p><br /></p>
@@ -729,10 +729,10 @@ Cyclic di-GMP-II riboswitches (also c-di-GMP-II riboswitches) form a class of ri
 <font >
 <p>KD values exhibited by c-di-GMP-I riboswitch and c-di-GMP-II rioswitch for c-di-GMP and its analogs<sup>[2, 5]</sup>.<br /><br /></p>
 </font>
-<table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;">
+<table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;">
 <tr>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
-  <img src="/images/ligand_recognition/c-di-GMP_ligand_recognition.svg" alt="drawing" style="width:800px;margin-top: 0px;margin-bottom: 0px;" >
+  <img src="/images/ligand_recognition/c-di-GMP_ligand_recognition.svg" alt="drawing" style="width:1000px;margin-top: 0px;margin-bottom: 0px;" >
 </td>
 </tr>
 </table>

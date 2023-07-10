@@ -234,10 +234,10 @@ permalink: /docs/PreQ/
 > Gene association
             
 <font >PreQ<sub>1</sub>-I regulates expression of genes (which have been named <i>queC</i>, <i>queD</i>, <i>queE</i> and <i>queF</i>) involved in biosynthesis of the nucleoside queuosine (Q) from GTP. Unlike other preQ<sub>1</sub>-I riboswitches, PreQ<sub>1</sub>-I type 3 RNAs were found only in association with <i>yhhQ</i> genes, which are proposed to code for inner membrane proteins of unknown function. PreQ<sub>1</sub>-II was identified upstream of genes classified as COG4708, which are predicted to be a transporter of preQ<sub>1</sub>. Most sequenced examples of preQ<sub>1</sub>-III riboswitches are obtained from environmental DNA samples, and known examples of preQ<sub>1</sub>-III riboswitches are found upstream of <i>queT</i> genes, which are expected to encode transporters of a queuosine derivative<sup>[1, 2, 12]</sup>.</font>
-<table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;">
+<table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;">
 <tr >
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
-  <img src="/images/gene_association/PreQ1_riboswitch_gene_association.svg" alt="drawing" style="width:800px;margin-top: 0px;margin-bottom: 0px;" >
+  <img src="/images/gene_association/PreQ1_riboswitch_gene_association.svg" alt="drawing" style="width:1000px;margin-top: 0px;margin-bottom: 0px;" >
 </td>
 </tr>
 </table>
@@ -246,24 +246,24 @@ permalink: /docs/PreQ/
 > Gene regulation
                 
 <font ><p>PreQ<sub>1</sub>-I riboswitches control gene expression through transcriptional termination or translational termination. The Shine-Dalgarno (SD) sequence is shaded in orange<sup>[1, 12]</sup>.</p></font>
-<table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
+<table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
-  <img src="/images/gene_regulation/PreQ1_riboswitch_gene_regulation1.svg" alt="drawing" style="width:400px;margin-top: 0px;margin-bottom: 0px;" >
+  <img src="/images/gene_regulation/PreQ1_riboswitch_gene_regulation1.svg" alt="drawing" style="width:500px;margin-top: 0px;margin-bottom: 0px;" >
   </td>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
-  <img src="/images/gene_regulation/PreQ1_riboswitch_gene_regulation2.svg" alt="drawing" style="width:400px;margin-top: 0px;margin-bottom: 0px;" >
+  <img src="/images/gene_regulation/PreQ1_riboswitch_gene_regulation2.svg" alt="drawing" style="width:500px;margin-top: 0px;margin-bottom: 0px;" >
   </td>
 </tr>
 </table>
 <p><br /></p>
                         
 <font ><p>Mechanisms for regulation of gene expression by PreQ<sub>1</sub>-II and PreQ<sub>1</sub>-III riboswitches. The Shine-Dalgarno sequence (SD) is shaded in orange<sup>[2, 12-13]</sup>.</p></font>
-<table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
+<table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
-  <img src="/images/gene_regulation/PreQ1_riboswitch_gene_regulation3.svg" alt="drawing" style="width:400px;margin-top: 0px;margin-bottom: 0px;" >
+  <img src="/images/gene_regulation/PreQ1_riboswitch_gene_regulation3.svg" alt="drawing" style="width:500px;margin-top: 0px;margin-bottom: 0px;" >
   </td>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
-  <img src="/images/gene_regulation/PreQ1_riboswitch_gene_regulation4.svg" alt="drawing" style="width:400px;margin-top: 0px;margin-bottom: 0px;" >
+  <img src="/images/gene_regulation/PreQ1_riboswitch_gene_regulation4.svg" alt="drawing" style="width:500px;margin-top: 0px;margin-bottom: 0px;" >
   </td>
 </tr>
 </table>
@@ -281,7 +281,7 @@ permalink: /docs/PreQ/
         <div id="image-caption" style="text-align: left; margin-left: 20px;"></div>
             <table class="clear" cellspacing="5" style="border-spacing: 0; margin: 0 auto;">
                 <tr>
-                    <td style="border: 1px solid black;width:640px">
+                    <td style="border: 1px solid black;width:800px">
                         <div id="layer_pdb" style="display: block">
                             <a id="image-link0" href="#" title="">
                                 <div id="zoom-wrapper0" class="zoom-wrapper0">
@@ -294,13 +294,13 @@ permalink: /docs/PreQ/
                     </td>
                     <td class="left" style="border: none; padding: 0; vertical-align: top">
                         <div class="image-wrapper" style="margin-bottom: 40px;">
-                            <img id="image-a0" src="/images/2D/PreQ1_riboswitch_2D1.svg" width="160" style="border: 1px solid black; cursor: zoom-in;margin-top: 0px;margin-bottom: 0px;" alt="big.png"/>
+                            <img id="image-a0" src="/images/2D/PreQ1_riboswitch_2D1.svg" width="200" style="border: 1px solid black; cursor: zoom-in;margin-top: 0px;margin-bottom: 0px;" alt="big.png"/>
                             <div class="button-wrapper">
                                 <a class="btn " href="javascript:showImage0('/images/2D/PreQ1_riboswitch_2D1.svg');">&lt;&lt; Show big</a>
                             </div>
                         </div>
                         <div class="image-wrapper" >
-                            <img id="image-b" src="/images/2D/PreQ1_riboswitch_2D2.svg" width="160" style="border: 1px solid black; cursor: zoom-in;margin-top: 0px;margin-bottom: 0px;" alt="down.png"/>
+                            <img id="image-b" src="/images/2D/PreQ1_riboswitch_2D2.svg" width="200" style="border: 1px solid black; cursor: zoom-in;margin-top: 0px;margin-bottom: 0px;" alt="down.png"/>
                             <div class="button-wrapper">
                                 <a class="btn " href="javascript:showImage0('/images/2D/PreQ1_riboswitch_2D2.svg');">&lt;&lt; Show big</a>
                             </div>
@@ -348,7 +348,7 @@ permalink: /docs/PreQ/
     
 
     .zoom-wrapper0 {
-        width: 600px;
+        width: 800px;
         border: 1px solid #fff;
         overflow: hidden;
         display: flex;
@@ -402,7 +402,7 @@ permalink: /docs/PreQ/
         <div id="image-caption" style="text-align: left; margin-left: 20px;"></div>
             <table class="clear" cellspacing="5" style="border-spacing: 0; margin: 0 auto;">
                 <tr>
-                    <td style="border: 1px solid black;width:640px">
+                    <td style="border: 1px solid black;width:800px">
                         <div id="layer_pdb" style="display: block">
                             <a id="image-link1" href="#" title="">
                                 <div id="zoom-wrapper1" class="zoom-wrapper1">
@@ -415,13 +415,13 @@ permalink: /docs/PreQ/
                     </td>
                     <td class="left" style="border: none; padding: 0; vertical-align: top">
                         <div class="image-wrapper" style="margin-bottom: 40px;">
-                            <img id="image-a1" src="/images/2D/PreQ1_riboswitch_2D3.svg" width="160" style="border: 1px solid black; cursor: zoom-in;margin-top: 0px;margin-bottom: 0px;" alt="big.png"/>
+                            <img id="image-a1" src="/images/2D/PreQ1_riboswitch_2D3.svg" width="200" style="border: 1px solid black; cursor: zoom-in;margin-top: 0px;margin-bottom: 0px;" alt="big.png"/>
                             <div class="button-wrapper">
                                 <a class="btn " href="javascript:showImage1('/images/2D/PreQ1_riboswitch_2D3.svg');">&lt;&lt; Show big</a>
                             </div>
                         </div>
                         <div class="image-wrapper" >
-                            <img id="image-b" src="/images/2D/PreQ1_riboswitch_2D4.svg" width="160" style="border: 1px solid black; cursor: zoom-in;margin-top: 0px;margin-bottom: 0px;" alt="down.png"/>
+                            <img id="image-b" src="/images/2D/PreQ1_riboswitch_2D4.svg" width="200" style="border: 1px solid black; cursor: zoom-in;margin-top: 0px;margin-bottom: 0px;" alt="down.png"/>
                             <div class="button-wrapper">
                                 <a class="btn " href="javascript:showImage1('/images/2D/PreQ1_riboswitch_2D4.svg');">&lt;&lt; Show big</a>
                             </div>
@@ -469,7 +469,7 @@ permalink: /docs/PreQ/
     
 
     .zoom-wrapper1 {
-        width: 600px;
+        width: 800px;
         border: 1px solid #fff;
         overflow: hidden;
         display: flex;
@@ -523,7 +523,7 @@ permalink: /docs/PreQ/
         <div id="image-caption" style="text-align: left; margin-left: 20px;"></div>
             <table class="clear" cellspacing="5" style="border-spacing: 0; margin: 0 auto;">
                 <tr>
-                    <td style="border: 1px solid black;width:640px">
+                    <td style="border: 1px solid black;width:800px">
                         <div id="layer_pdb" style="display: block">
                             <a id="image-link2" href="#" title="">
                                 <div id="zoom-wrapper2" class="zoom-wrapper2">
@@ -536,13 +536,13 @@ permalink: /docs/PreQ/
                     </td>
                     <td class="left" style="border: none; padding: 0; vertical-align: top">
                         <div class="image-wrapper" style="margin-bottom: 40px;">
-                            <img id="image-a2" src="/images/2D/PreQ1_riboswitch_2D5.svg" width="160" style="border: 1px solid black; cursor: zoom-in;margin-top: 0px;margin-bottom: 0px;" alt="big.png"/>
+                            <img id="image-a2" src="/images/2D/PreQ1_riboswitch_2D5.svg" width="200" style="border: 1px solid black; cursor: zoom-in;margin-top: 0px;margin-bottom: 0px;" alt="big.png"/>
                             <div class="button-wrapper">
                                 <a class="btn " href="javascript:showImage2('/images/2D/PreQ1_riboswitch_2D5.svg');">&lt;&lt; Show big</a>
                             </div>
                         </div>
                         <div class="image-wrapper" >
-                            <img id="image-b" src="/images/2D/PreQ1_riboswitch_2D6.svg" width="160" style="border: 1px solid black; cursor: zoom-in;margin-top: 0px;margin-bottom: 0px;" alt="down.png"/>
+                            <img id="image-b" src="/images/2D/PreQ1_riboswitch_2D6.svg" width="200" style="border: 1px solid black; cursor: zoom-in;margin-top: 0px;margin-bottom: 0px;" alt="down.png"/>
                             <div class="button-wrapper">
                                 <a class="btn " href="javascript:showImage2('/images/2D/PreQ1_riboswitch_2D6.svg');">&lt;&lt; Show big</a>
                             </div>
@@ -590,7 +590,7 @@ permalink: /docs/PreQ/
     
 
     .zoom-wrapper2 {
-        width: 600px;
+        width: 800px;
         border: 1px solid #fff;
         overflow: hidden;
         display: flex;
@@ -638,9 +638,9 @@ permalink: /docs/PreQ/
 > 3D visualisation
                 
 <font >The overall structure of the PreQ<sub>1</sub>-I riboswitch was generated from PDB ID: 3FU2 at 2.85 Å resolution bound with PreQ<sub>1</sub>. PreQ<sub>1</sub> (shown in sticks) is labeled in red <sup>[3]</sup>.</font>
-  <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
+  <table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
-  <img src="/images/3D/PreQ1_riboswitch_3D1.svg" alt="drawing" style="width:400px;height:400px;margin-top: 0px;margin-bottom: 0px;" >
+  <img src="/images/3D/PreQ1_riboswitch_3D1.svg" alt="drawing" style="width:500px;margin-top: 0px;margin-bottom: 0px;" >
   </td>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
   <html lang="en">
@@ -678,8 +678,8 @@ permalink: /docs/PreQ/
             }
           #myViewer1{
             float:left;
-            width:400px;
-            height: 400px;
+            width:500px;
+            height: 500px;
             position:relative;
           }
         </style>
@@ -763,9 +763,9 @@ permalink: /docs/PreQ/
   <p><br /></p>
                 
 <font >The overall structure of the PreQ<sub>1</sub>-II riboswitch was generated from PDB ID: 4JF2 at 2.28 Å resolution bound with PreQ<sub>1</sub>. PreQ<sub>1</sub> (shown in sticks) is labeled in red <sup>[10]</sup>.</font>
-  <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
+  <table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
-  <img src="/images/3D/PreQ1_riboswitch_3D2.svg" alt="drawing" style="width:400px;height:400px;margin-top: 0px;margin-bottom: 0px;" >
+  <img src="/images/3D/PreQ1_riboswitch_3D2.svg" alt="drawing" style="width:500px;margin-top: 0px;margin-bottom: 0px;" >
   </td>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
   <html lang="en">
@@ -803,8 +803,8 @@ permalink: /docs/PreQ/
             }
           #myViewer2{
             float:left;
-            width:400px;
-            height: 400px;
+            width:500px;
+            height: 500px;
             position:relative;
           }
         </style>
@@ -900,9 +900,9 @@ permalink: /docs/PreQ/
   <p><br /></p>
                 
 <font >The overall structure of the PreQ<sub>1</sub>-III riboswitch was generated from PDB ID: 4RZD at 2.75 Å resolution bound with PreQ<sub>1</sub>. PreQ<sub>1</sub> (shown in sticks) is labeled in red <sup>[13]</sup>.</font>
-  <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
+  <table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
-  <img src="/images/3D/PreQ1_riboswitch_3D3.svg" alt="drawing" style="width:400px;height:400px;margin-top: 0px;margin-bottom: 0px;" >
+  <img src="/images/3D/PreQ1_riboswitch_3D3.svg" alt="drawing" style="width:500px;margin-top: 0px;margin-bottom: 0px;" >
   </td>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
   <html lang="en">
@@ -940,8 +940,8 @@ permalink: /docs/PreQ/
             }
           #myViewer3{
             float:left;
-            width:400px;
-            height: 400px;
+            width:500px;
+            height: 500px;
             position:relative;
           }
         </style>
@@ -1081,25 +1081,25 @@ permalink: /docs/PreQ/
 > Binding pocket
                     
 <font ><p>Left: Surface representation of the binding pocket of the PreQ<sub>1</sub>-I riboswitch generated from PDB ID: 3FU2. PreQ<sub>1</sub> (shown in sticks) is labeled in red. Right: The hydrogen bonds of the binding sites of the PreQ<sub>1</sub>-I riboswitch bound with PreQ<sub>1</sub><sup>[3]</sup>.<br /></p></font>
-<table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
-<td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/PreQ1_riboswitch_binding_pockets1.svg" alt="drawing" style="width:400px"  px="" /></td>
-<td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/PreQ1_riboswitch_binding_pockets2.svg" alt="drawing" style="width:400px"  px="" /></td>
+<table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;"><tr>
+<td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/PreQ1_riboswitch_binding_pockets1.svg" alt="drawing" style="width:500px"  px="" /></td>
+<td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/PreQ1_riboswitch_binding_pockets2.svg" alt="drawing" style="width:500px"  px="" /></td>
 </tr>
 </table>
 <p><br /></p>
                     
 <font ><p>Left: Surface representation of the binding pocket of the PreQ<sub>1</sub>-II riboswitch generated from PDB ID: 4JF2. PreQ<sub>1</sub> (shown in sticks) is labeled in red. Right: The hydrogen bonds of the binding sites of the PreQ<sub>1</sub>-II riboswitch bound with PreQ<sub>1</sub><sup>[10]</sup>.<br /></p></font>
-<table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
-<td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/PreQ1_riboswitch_binding_pockets3.svg" alt="drawing" style="width:400px"  px="" /></td>
-<td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/PreQ1_riboswitch_binding_pockets4.svg" alt="drawing" style="width:400px"  px="" /></td>
+<table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;"><tr>
+<td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/PreQ1_riboswitch_binding_pockets3.svg" alt="drawing" style="width:500px"  px="" /></td>
+<td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/PreQ1_riboswitch_binding_pockets4.svg" alt="drawing" style="width:500px"  px="" /></td>
 </tr>
 </table>
 <p><br /></p>
                     
 <font ><p>Left: Surface representation of the binding pocket of the PreQ<sub>1</sub>-III riboswitch generated from PDB ID: 4RZD. PreQ<sub>1</sub> (shown in sticks) is labeled in red. Right: The hydrogen bonds of the binding sites of the PreQ<sub>1</sub>-III riboswitch bound with PreQ<sub>1</sub><sup>[13]</sup>.<br /></p></font>
-<table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
-<td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/PreQ1_riboswitch_binding_pockets5.svg" alt="drawing" style="width:400px"  px="" /></td>
-<td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/PreQ1_riboswitch_binding_pockets6.svg" alt="drawing" style="width:400px"  px="" /></td>
+<table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;"><tr>
+<td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/PreQ1_riboswitch_binding_pockets5.svg" alt="drawing" style="width:500px"  px="" /></td>
+<td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/PreQ1_riboswitch_binding_pockets6.svg" alt="drawing" style="width:500px"  px="" /></td>
 </tr>
 </table>
 <p><br /></p>
@@ -1109,10 +1109,10 @@ permalink: /docs/PreQ/
 <font >
 <p>Chemical structures of PreQ<sub>1</sub> and its analogs. The apparent K<sub>D</sub> of each compound of three classes of preQ<sub>1</sub> riboswitches is shown on bottom<sup>[1-3, 12-13, 13]</sup>.<br /><br /></p>
 </font>
-<table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;">
+<table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;">
 <tr>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
-  <img src="/images/ligand_recognition/PreQ1_riboswitch_ligand_recognition.svg" alt="drawing" style="width:800px;margin-top: 0px;margin-bottom: 0px;" >
+  <img src="/images/ligand_recognition/PreQ1_riboswitch_ligand_recognition.svg" alt="drawing" style="width:1000px;margin-top: 0px;margin-bottom: 0px;" >
 </td>
 </tr>
 </table>

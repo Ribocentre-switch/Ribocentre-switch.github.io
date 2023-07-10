@@ -144,10 +144,10 @@ permalink: /docs/Manganese/
 > Gene association
             
 <font >Network of genes immediately downstream of the <i>yybP-ykoY</i> riboswitch are predicted to have roles in protecting against metal toxicity. P-ZnR denotes proteins with a peptidase-associated zinc-ribbon and MetJ-Arc denotes proteins with MetJ-Arc DNA-binding domains<sup>[2]</sup>.</font>
-<table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;">
+<table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;">
 <tr >
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
-  <img src="/images/gene_association/yybP-ykoY_manganese_riboswitch_gene_association.svg" alt="drawing" style="width:800px;margin-top: 0px;margin-bottom: 0px;" >
+  <img src="/images/gene_association/yybP-ykoY_manganese_riboswitch_gene_association.svg" alt="drawing" style="width:1000px;margin-top: 0px;margin-bottom: 0px;" >
 </td>
 </tr>
 </table>
@@ -156,9 +156,9 @@ permalink: /docs/Manganese/
 > Gene regulation
                 
 <font ><p>Potential mechanism of transcriptional regulation by the <i>yybP-ykoY</i> manganese riboswitch. RNA polymerase produced predominantly terminated transcripts in the absence of Mn<sup>2+</sup>. Addition of 0.5 millimolar (mM) Mn<sup>2+</sup>, but not other metals tested (Fe<sup>2+</sup>, Co<sup>2+</sup>, Ni<sup>2+</sup>,and Ca<sup>2+</sup>), led to highly efficient anti-termination<sup>[3]</sup>.</p></font>
-<table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
+<table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
-  <img src="/images/gene_regulation/yybP-ykoY_manganese_riboswitch_gene_regulation.svg" alt="drawing" style="width:800px;margin-top: 0px;margin-bottom: 0px;" >
+  <img src="/images/gene_regulation/yybP-ykoY_manganese_riboswitch_gene_regulation.svg" alt="drawing" style="width:1000px;margin-top: 0px;margin-bottom: 0px;" >
   </td>
 </tr>
 </table>
@@ -176,7 +176,7 @@ permalink: /docs/Manganese/
         <div id="image-caption" style="text-align: left; margin-left: 20px;"></div>
             <table class="clear" cellspacing="5" style="border-spacing: 0; margin: 0 auto;">
                 <tr>
-                    <td style="border: 1px solid black;width:640px">
+                    <td style="border: 1px solid black;width:800px">
                         <div id="layer_pdb" style="display: block">
                             <a id="image-link0" href="#" title="">
                                 <div id="zoom-wrapper0" class="zoom-wrapper0">
@@ -189,13 +189,13 @@ permalink: /docs/Manganese/
                     </td>
                     <td class="left" style="border: none; padding: 0; vertical-align: top">
                         <div class="image-wrapper" style="margin-bottom: 40px;">
-                            <img id="image-a0" src="/images/2D/yybP-ykoY_manganese_riboswitch_2D1.svg" width="160" style="border: 1px solid black; cursor: zoom-in;margin-top: 0px;margin-bottom: 0px;" alt="big.png"/>
+                            <img id="image-a0" src="/images/2D/yybP-ykoY_manganese_riboswitch_2D1.svg" width="200" style="border: 1px solid black; cursor: zoom-in;margin-top: 0px;margin-bottom: 0px;" alt="big.png"/>
                             <div class="button-wrapper">
                                 <a class="btn " href="javascript:showImage0('/images/2D/yybP-ykoY_manganese_riboswitch_2D1.svg');">&lt;&lt; Show big</a>
                             </div>
                         </div>
                         <div class="image-wrapper" >
-                            <img id="image-b" src="/images/2D/yybP-ykoY_manganese_riboswitch_2D2.svg" width="160" style="border: 1px solid black; cursor: zoom-in;margin-top: 0px;margin-bottom: 0px;" alt="down.png"/>
+                            <img id="image-b" src="/images/2D/yybP-ykoY_manganese_riboswitch_2D2.svg" width="200" style="border: 1px solid black; cursor: zoom-in;margin-top: 0px;margin-bottom: 0px;" alt="down.png"/>
                             <div class="button-wrapper">
                                 <a class="btn " href="javascript:showImage0('/images/2D/yybP-ykoY_manganese_riboswitch_2D2.svg');">&lt;&lt; Show big</a>
                             </div>
@@ -243,7 +243,7 @@ permalink: /docs/Manganese/
     
 
     .zoom-wrapper0 {
-        width: 600px;
+        width: 800px;
         border: 1px solid #fff;
         overflow: hidden;
         display: flex;
@@ -291,9 +291,9 @@ permalink: /docs/Manganese/
 > 3D visualisation
                 
 <font >The overall structure of the <i>yybP-ykoY</i> manganese riboswitch was generated from PDB ID: 4Y1I at 2.85 Å. The structure shows two series of coaxially stacked helices forming an overall hairpin shape, with the highly conserved L1 (yellow) and L3 (orange) docking together and binding two metal ions <sup>[3]</sup>.</font>
-  <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
+  <table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
-  <img src="/images/3D/yybP-ykoY_manganese_riboswitch_3D.svg" alt="drawing" style="width:400px;height:400px;margin-top: 0px;margin-bottom: 0px;" >
+  <img src="/images/3D/yybP-ykoY_manganese_riboswitch_3D.svg" alt="drawing" style="width:500px;margin-top: 0px;margin-bottom: 0px;" >
   </td>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
   <html lang="en">
@@ -331,8 +331,8 @@ permalink: /docs/Manganese/
             }
           #myViewer1{
             float:left;
-            width:400px;
-            height: 400px;
+            width:500px;
+            height: 500px;
             position:relative;
           }
         </style>
@@ -454,9 +454,9 @@ permalink: /docs/Manganese/
 > Binding pocket
                     
 <font ><p>Left: Surface representation of the binding pocket of the <i>yybP-ykoY</i> manganese riboswitch generated from PDB ID: 4Y1I. The manganese ion is labeled in red. Right: The metal coordination scheme. Mg<sup>2+</sup> is coordinated octahedrally by five backbone phosphates and a water. The Mn<sup>2+</sup> contains five backbone phosphates and the N7 of A41. N6 of A41 also makes a H-bond to the phosphate of U39<sup>[3]</sup>.<br /></p></font>
-<table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
-<td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/yybP-ykoY_manganese_riboswitch_binding_pockets1.svg" alt="drawing" style="width:400px"  px="" /></td>
-<td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/yybP-ykoY_manganese_riboswitch_binding_pockets2.svg" alt="drawing" style="width:400px"  px="" /></td>
+<table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;"><tr>
+<td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/yybP-ykoY_manganese_riboswitch_binding_pockets1.svg" alt="drawing" style="width:500px"  px="" /></td>
+<td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/yybP-ykoY_manganese_riboswitch_binding_pockets2.svg" alt="drawing" style="width:500px"  px="" /></td>
 </tr>
 </table>
 <p><br /></p>
@@ -466,10 +466,10 @@ permalink: /docs/Manganese/
 <font >
 <p>The Lactococcus lactis <i>yybP-ykoY</i> riboswitch binds Mn<sup>2+</sup> with an effective Kd of ~ 30–40 micromolar (μM), as monitored by both in vitro transcription (IVT) assays and selective 2’-hydroxyl acylation analyzed by primer extension (SHAPE)<sup>[3]</sup>.<br /><br /></p>
 </font>
-<table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;">
+<table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;">
 <tr>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
-  <img src="/images/ligand_recognition/yybP-ykoY_manganese_riboswitch_ligand_recognition.svg" alt="drawing" style="width:800px;margin-top: 0px;margin-bottom: 0px;" >
+  <img src="/images/ligand_recognition/yybP-ykoY_manganese_riboswitch_ligand_recognition.svg" alt="drawing" style="width:1000px;margin-top: 0px;margin-bottom: 0px;" >
 </td>
 </tr>
 </table>

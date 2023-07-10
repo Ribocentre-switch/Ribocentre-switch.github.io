@@ -128,10 +128,10 @@ permalink: /docs/ADP/
 > Gene association
             
 <font >Nearly all <i>ykkC</i> subtype 2c RNAs are located upstream of genes encoding Nucleoside Diphosphate linked to X (NUDIX) hydrolases. NUDIX hydrolases make up a broad family of proteins that cleave the phosphoester bond between the <i>α</i>- and <i>β</i>-phosphate moieties of various nucleotide substrates. Some nucleoside di- and triphosphate substrates can carry a ribose or a deoxyribose moiety (gray shading)<sup>[4]</sup>.</font>
-<table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;">
+<table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;">
 <tr >
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
-  <img src="/images/gene_association/ADP_riboswitch_gene_association.svg" alt="drawing" style="width:800px;margin-top: 0px;margin-bottom: 0px;" >
+  <img src="/images/gene_association/ADP_riboswitch_gene_association.svg" alt="drawing" style="width:1000px;margin-top: 0px;margin-bottom: 0px;" >
 </td>
 </tr>
 </table>
@@ -140,9 +140,9 @@ permalink: /docs/ADP/
 > Gene regulation
                 
 <font ><p>Putative mechanisms for regulation of gene expression by ADP riboswitches<sup>[2, 4]</sup>.</p></font>
-<table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
+<table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
-  <img src="/images/gene_regulation/ADP_riboswitch_gene_regulation.svg" alt="drawing" style="width:800px;margin-top: 0px;margin-bottom: 0px;" >
+  <img src="/images/gene_regulation/ADP_riboswitch_gene_regulation.svg" alt="drawing" style="width:1000px;margin-top: 0px;margin-bottom: 0px;" >
   </td>
 </tr>
 </table>
@@ -152,7 +152,7 @@ permalink: /docs/ADP/
 > 2D representation
         
 <font >Left: Consensus sequence and secondary structure model for the PRA riboswitch. <sup>[4]</sup>.</font><br>
-<table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
+<table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
 <head>
     <meta charset="UTF-8">
@@ -175,7 +175,7 @@ permalink: /docs/ADP/
     height: 100%;
 }
    .zoom-wrapper1 {
-    width: 600px;
+    width: 800px;
     border: 1px solid #fff;
     display: flex;
     align-items: center;
@@ -185,7 +185,7 @@ permalink: /docs/ADP/
     <div class="main-container">
         <div class="zoom-wrapper1">
             <div class="zoom-area1">
-                <img src="/images/2D/ADP_riboswitch_2D1.svg" alt="drawing" style="width:800px" />
+                <img src="/images/2D/ADP_riboswitch_2D1.svg" alt="drawing" style="width:1000px" />
             </div>
         </div>
     </div>
@@ -207,10 +207,10 @@ permalink: /docs/ADP/
 <font >
 <p>Chemical structures of ADP, dADP, CDP and dCDP. The apparent K<sub>D</sub> of each compound is shown on bottom<sup>[4]</sup>.<br /><br /></p>
 </font>
-<table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;">
+<table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;">
 <tr>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
-  <img src="/images/ligand_recognition/ADP_riboswitch_ligand_recognition.svg" alt="drawing" style="width:800px;margin-top: 0px;margin-bottom: 0px;" >
+  <img src="/images/ligand_recognition/ADP_riboswitch_ligand_recognition.svg" alt="drawing" style="width:1000px;margin-top: 0px;margin-bottom: 0px;" >
 </td>
 </tr>
 </table>

@@ -160,10 +160,10 @@ permalink: /docs/Guanine/
 > Gene association
             
 <font >The guanine-I riboswitch, once thought to be an operon, was originally found in the 5’-UTR of <i>xpt-pbuX</i> gene. The <i>xpt</i> gene and <i>pbuX</i> gene encode a specific xanthine phosphoribosyl-transferase and a xanthine-specific purine permease respectively, and the genes have overlapping coding regions. The guanine-I riboswitch was also identified in other <i>B. subtilis</i> genes (<i>purE</i>, <i>yxjA</i> et.al.) and also in other bacterial species. However, the nucleobase specificities for many annotated PRT enzymes downstream of guanine-II riboswitch have not been established<sup>[1-2, 9]</sup>.</font>
-<table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;">
+<table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;">
 <tr >
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
-  <img src="/images/gene_association/Guanine_riboswitch_gene_association.svg" alt="drawing" style="width:800px;margin-top: 0px;margin-bottom: 0px;" >
+  <img src="/images/gene_association/Guanine_riboswitch_gene_association.svg" alt="drawing" style="width:1000px;margin-top: 0px;margin-bottom: 0px;" >
 </td>
 </tr>
 </table>
@@ -172,12 +172,12 @@ permalink: /docs/Guanine/
 > Gene regulation
                 
 <font ><p>(left) The guanine-I riboswitch has been shown to control gene expression through transcriptional termination. It forms an antiterminator in the absence of guanine, thereby allowing RNA transcription elongation to proceed to completion. The presence of guanine results in stabilization of the aptamer domain, thereby facilitating terminator formation and shutting down transcription. (right) Sequence and secondary structure model of a guanine-II riboswitch is consistent with a genetic “ON” switch wherein ligand binding would preclude formation of the terminator stem. <sup>[2, 4]</sup>.</p></font>
-<table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
+<table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
-  <img src="/images/gene_regulation/Guanine_riboswitch_gene_regulation1.svg" alt="drawing" style="width:400px;margin-top: 0px;margin-bottom: 0px;" >
+  <img src="/images/gene_regulation/Guanine_riboswitch_gene_regulation1.svg" alt="drawing" style="width:500px;margin-top: 0px;margin-bottom: 0px;" >
   </td>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
-  <img src="/images/gene_regulation/Guanine_riboswitch_gene_regulation2.svg" alt="drawing" style="width:400px;margin-top: 0px;margin-bottom: 0px;" >
+  <img src="/images/gene_regulation/Guanine_riboswitch_gene_regulation2.svg" alt="drawing" style="width:500px;margin-top: 0px;margin-bottom: 0px;" >
   </td>
 </tr>
 </table>
@@ -195,7 +195,7 @@ permalink: /docs/Guanine/
         <div id="image-caption" style="text-align: left; margin-left: 20px;"></div>
             <table class="clear" cellspacing="5" style="border-spacing: 0; margin: 0 auto;">
                 <tr>
-                    <td style="border: 1px solid black;width:640px">
+                    <td style="border: 1px solid black;width:800px">
                         <div id="layer_pdb" style="display: block">
                             <a id="image-link0" href="#" title="">
                                 <div id="zoom-wrapper0" class="zoom-wrapper0">
@@ -208,13 +208,13 @@ permalink: /docs/Guanine/
                     </td>
                     <td class="left" style="border: none; padding: 0; vertical-align: top">
                         <div class="image-wrapper" style="margin-bottom: 40px;">
-                            <img id="image-a0" src="/images/2D/Guanine_riboswitch_2D1.svg" width="160" style="border: 1px solid black; cursor: zoom-in;margin-top: 0px;margin-bottom: 0px;" alt="big.png"/>
+                            <img id="image-a0" src="/images/2D/Guanine_riboswitch_2D1.svg" width="200" style="border: 1px solid black; cursor: zoom-in;margin-top: 0px;margin-bottom: 0px;" alt="big.png"/>
                             <div class="button-wrapper">
                                 <a class="btn " href="javascript:showImage0('/images/2D/Guanine_riboswitch_2D1.svg');">&lt;&lt; Show big</a>
                             </div>
                         </div>
                         <div class="image-wrapper" >
-                            <img id="image-b" src="/images/2D/Guanine_riboswitch_2D2.svg" width="160" style="border: 1px solid black; cursor: zoom-in;margin-top: 0px;margin-bottom: 0px;" alt="down.png"/>
+                            <img id="image-b" src="/images/2D/Guanine_riboswitch_2D2.svg" width="200" style="border: 1px solid black; cursor: zoom-in;margin-top: 0px;margin-bottom: 0px;" alt="down.png"/>
                             <div class="button-wrapper">
                                 <a class="btn " href="javascript:showImage0('/images/2D/Guanine_riboswitch_2D2.svg');">&lt;&lt; Show big</a>
                             </div>
@@ -262,7 +262,7 @@ permalink: /docs/Guanine/
     
 
     .zoom-wrapper0 {
-        width: 600px;
+        width: 800px;
         border: 1px solid #fff;
         overflow: hidden;
         display: flex;
@@ -308,7 +308,7 @@ permalink: /docs/Guanine/
 <p><br></p>
                     
 <font >Consensus sequence and structural model for guanine-II riboswitch<sup>[9]</sup>.</font><br>
-<table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
+<table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
 <head>
     <meta charset="UTF-8">
@@ -331,7 +331,7 @@ permalink: /docs/Guanine/
     height: 100%;
 }
    .zoom-wrapper3 {
-    width: 600px;
+    width: 800px;
     border: 1px solid #fff;
     display: flex;
     align-items: center;
@@ -341,7 +341,7 @@ permalink: /docs/Guanine/
     <div class="main-container">
         <div class="zoom-wrapper3">
             <div class="zoom-area3">
-                <img src="/images/2D/Guanine_riboswitch_2D3.svg" alt="drawing" style="width:800px" />
+                <img src="/images/2D/Guanine_riboswitch_2D3.svg" alt="drawing" style="width:1000px" />
             </div>
         </div>
     </div>
@@ -361,9 +361,9 @@ permalink: /docs/Guanine/
 > 3D visualisation
                 
 <font >The overall structure of the guanine-I riboswitch was generated from PDB ID:1Y27 at 2.40Å resolution bound with guanine. Guanine (shown in sticks) is labeled in red <sup>[4]</sup>.</font>
-  <table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
+  <table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
-  <img src="/images/3D/Guanine_riboswitch_3D1.svg" alt="drawing" style="width:400px;height:400px;margin-top: 0px;margin-bottom: 0px;" >
+  <img src="/images/3D/Guanine_riboswitch_3D1.svg" alt="drawing" style="width:500px;margin-top: 0px;margin-bottom: 0px;" >
   </td>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
   <html lang="en">
@@ -401,8 +401,8 @@ permalink: /docs/Guanine/
             }
           #myViewer1{
             float:left;
-            width:400px;
-            height: 400px;
+            width:500px;
+            height: 500px;
             position:relative;
           }
         </style>
@@ -512,9 +512,9 @@ permalink: /docs/Guanine/
 > Binding pocket
                     
 <font ><p>Hydrogen-bonding alignments to bound guanine in the guanine-I riboswitch, generated from PDB ID:1Y27. The bound guanine forms a Watson-Crick pair with C74. Hydrogen bonds involving 2’-OH of U22 and base edges of U47 and U51 are common to both riboswitches<sup>[4]</sup>.<br /></p></font>
-<table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;"><tr>
-<td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/Guanine_riboswitch_binding_pockets1.svg" alt="drawing" style="width:400px"  px="" /></td>
-<td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/Guanine_riboswitch_binding_pockets2.svg" alt="drawing" style="width:400px"  px="" /></td>
+<table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;"><tr>
+<td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/Guanine_riboswitch_binding_pockets1.svg" alt="drawing" style="width:500px"  px="" /></td>
+<td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/Guanine_riboswitch_binding_pockets2.svg" alt="drawing" style="width:500px"  px="" /></td>
 </tr>
 </table>
 <p><br /></p>
@@ -524,10 +524,10 @@ permalink: /docs/Guanine/
 <font >
 <p>Chemical structures of guanine and its various analogs. The apparent K<sub>D</sub> of each compound of guanine-I riboswitch and partial compounds of guanine-II riboswitch are shown on bottom. G-I, guanine-I riboswitch. G-II, guanine-II riboswitch<sup>[2, 9]</sup>.<br /><br /></p>
 </font>
-<table class="table table-bordered" style="table-layout:fixed;width:800px;margin-left:auto;margin-right:auto;">
+<table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;">
 <tr>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
-  <img src="/images/ligand_recognition/Guanine_riboswitch_ligand_recognition.svg" alt="drawing" style="width:800px;margin-top: 0px;margin-bottom: 0px;" >
+  <img src="/images/ligand_recognition/Guanine_riboswitch_ligand_recognition.svg" alt="drawing" style="width:1000px;margin-top: 0px;margin-bottom: 0px;" >
 </td>
 </tr>
 </table>
