@@ -171,7 +171,8 @@
     font-size:24px
   }
   h2{
-    font-size:20px
+    font-size:20px;
+    font-weight: bold;
   }
 /* 按钮容器样式 */
     .button-container {
@@ -189,7 +190,6 @@
       background-color: #efefef;
       color: #005826;
       text-decoration: none;
-      font-weight: bold;
       font-size: 20px;
       border: 1px solid #005826;
       border-radius: 5px;
@@ -283,7 +283,7 @@ Classification of experimentally validated riboswitches. The plotted data corres
 Riboswitches are structured noncoding RNA domains which are typically embedded in messenger RNAs in many bacteria, where they monitor the concentrations of their target ligands and regulate gene expression accordingly. Typically, riboswitches are composed of two parts: an 
 aptamer that senses the target ligand and an expression platform that directly interfaces with components of the cell that affect gene expression.
 In the past 20 years, more than 55 riboswitch classes have been experimentally validated and the ligands they sense comprise a diverse list of biologically relevant compounds including fundamental metabolites derived from RNA nucleotides or their precursors, amino acid, elementl ions and et al. For more detailed information about each riboswitches, please browse the table below and click on each riboswitch name.
-<br /><br /><br />
+<br /><br />
 <div class="form-container">
   <!-- 搜索框 -->
   <input type="text" id="searchBox" placeholder="Search by keyword..." oninput="searchSheets()" /><br /><br />
@@ -298,7 +298,7 @@ In the past 20 years, more than 55 riboswitch classes have been experimentally v
     <option value="/download/riboswitches_page/Sugars.xlsx">Sugars</option>
     <option value="/download/riboswitches_page/T-box.xlsx">T-box</option>
     <option value="/download/riboswitches_page/Others.xlsx">Others</option>
-    <option value="/download/riboswitches_page/all.xlsx">all</option>
+    <option value="/download/riboswitches_page/all_tables.xlsx">all table in this page </option>
   </select>
   <!-- Download button -->
   <button class="button" onclick="downloadExcel()">Download</button>

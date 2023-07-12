@@ -35,7 +35,6 @@ permalink: /docs/c-di-GMP/
       background-color: #efefef;
       color: #005826;
       text-decoration: none;
-      font-weight: bold;
       border: 1px solid #005826;
       border-radius: 5px;
       box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.2);

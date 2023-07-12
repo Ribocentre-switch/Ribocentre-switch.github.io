@@ -31,7 +31,6 @@ Orphan riboswitch candidates are noncoding RNA motifs whose representatives are 
       background-color: #efefef;
       color: #005826;
       text-decoration: none;
-      font-weight: bold;
       border: 1px solid #005826;
       border-radius: 5px;
       
@@ -58,6 +57,7 @@ Orphan riboswitch candidates are noncoding RNA motifs whose representatives are 
   <div class="button-container">
     <a class="button" href="#Strong_orphan_riboswitch" >Strong orphan riboswitches</a>
     <a class="button" href="#Weak_orphan_riboswitch">Weak orphan riboswitches</a>
+    <a class="button" href="#References">References</a>
   </div>
 </body>
 </html>
@@ -66,11 +66,10 @@ Orphan riboswitch candidates are noncoding RNA motifs whose representatives are 
 <p class="header_box" >Strong orphan riboswitches</p>
 Consensus sequence and secondary structure model for the strong orphan riboswitch candidates.<br>      
         
-<img src="/images/orphan_riboswitch/Orphan_riboswitch_2D1.svg" alt="drawing" style="width:1000px;display:block;margin:0 auto;border:solid 1px;border-radius:0;"><br>
+<img src="/images/orphan_riboswitch/Orphan_riboswitch_2D1.svg" alt="drawing" style="width:1000px;display:block;margin:0 auto;border:solid 1px;border-radius:0;">
 <div style="display: flex; justify-content: center;">
 <a href="/images/downloads/orphan_riboswitch/Orphan_riboswitch_2D1.pdf" target="_blank" download="nan.svg"><button class="btn btn-secondary"><span class="glyphicon 
 glyphicon-download-alt"></span>&nbsp;&nbsp;Download above picture</button></a><br>
-<br>
 </div>
                         
 <html>
@@ -302,18 +301,16 @@ glyphicon-download-alt"></span>&nbsp;&nbsp;Download above picture</button></a><b
                     
 </tbody>
 </table>
-</html><br>
+</html><br><br>
             
 <p id="Weak_orphan_riboswitch"> </p>
-<br><br>
 <p class="header_box" >Weak orphan riboswitches</p>
 Consensus sequence and secondary structure model for the weak orphan riboswitch candidates.<br>      
             
-<img src="/images/orphan_riboswitch/Orphan_riboswitch_2D2.svg" alt="drawing" style="width:1000px;display:block;margin:0 auto;border:solid 1px;border-radius:0;"><br>
+<img src="/images/orphan_riboswitch/Orphan_riboswitch_2D2.svg" alt="drawing" style="width:1000px;display:block;margin:0 auto;border:solid 1px;border-radius:0;">
 <div style="display: flex; justify-content: center;">
 <a href="/downloads/orphan_riboswitch/Orphan_riboswitch_2D2.pdf" target="_blank" download="nan.svg"><button class="btn btn-secondary"><span class="glyphicon 
 glyphicon-download-alt"></span>&nbsp;&nbsp;Download above picture</button></a><br>
-<br>
 </div>
                             
 <html>
@@ -419,8 +416,9 @@ glyphicon-download-alt"></span>&nbsp;&nbsp;Download above picture</button></a><b
                     
     </tbody>
     </table>
-    </html><br>
+    </html><br><br>
                 
+<p id="References"> </p>
 <p class="header_box" id="references">References</p>
                 
 <p><strong>[1] Challenges of ligand identification for the second wave of orphan riboswitch candidates.</strong><br />

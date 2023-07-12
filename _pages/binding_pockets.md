@@ -40,10 +40,12 @@ Three classes of 2’-dG riboswitches, named 2’-dG-I, 2’-dG-II and 2’-dG-I
 <a href="/images/summary_binding_pockets/BP_Purine_riboswitches_family2.svg" target="_blank" download="BP_Purine_riboswitches_family2.svg.svg"><button class="btn btn-secondary"><span class="glyphicon glyphicon-download-alt"></span>&nbsp;&nbsp;Download FIGURE</button></a><br><br>    
 </div>           
             
+<br><br>
 <p class="header_box" >SAM riboswitches family</p>
         
 In the SAM riboswitch family, there are three families with similarity, they are SAM-I , SAM-IV , SAM-I/IV, whose members share a common binding core but have widely divergent peripheral architectures. Structures of the these families revealed that S-adenosylmethionine is recognized by features within and surrounding a central four-way junction . Nucleotides crucial for effector binding, along with the secondary structural features in which they are embedded, are nearly invariant within the clan. The structure of the PK-2 subdomain and its relationship to the SAM-binding core was unknown. The SAM-I/IV family lacks the PK-1 subdomain, only having the PK-2 subdomain of the SAM-IV family<sup>[10]</sup>.
-        
+<br>
+<br>    
             
 Cartoon of the secondary structure of the three families of the SAM clan of riboswitches. The binding pocket regions and peripheral subdomains of the three families are shown, along with the bases that interact with the periphery and the SAM is highlighted in purple, bases interacting with SAM are indicated by red circles.
 <img src="/images/summary_binding_pockets/BP_SAM_riboswitches_family1.svg" alt="drawing" style="width:800px;display:block;margin:0 auto;border:solid 1px;border-radius:0;" class="img-responsive">
@@ -69,6 +71,7 @@ As illustrated in following figure: The binding pockets of SAM-II and SAM-V are 
 <a href="/images/summary_binding_pockets/BP_SAM_riboswitches_family4.svg" target="_blank" download="BP_SAM_riboswitches_family4.svg.svg"><button class="btn btn-secondary"><span class="glyphicon glyphicon-download-alt"></span>&nbsp;&nbsp;Download FIGURE</button></a><br><br>    
 </div>           
             
+<br><br>
 <p class="header_box" >Guanidine riboswitches family</p>
         
 Among the four identified classes of guanidine riboswitches, the crystal structures of guanidine and class I, II, and III riboswitches have been determined. The guanidine binding sites of the three riboswitches exhibit a number of common features as well as some differences. All involve guanine nucleobases, and in each case two guanidine nitrogen atoms are bonded to O6 and N7 on the Hoogsteen edge. In the guanidine III riboswitch, this occurs twice in the binding site<sup>[15]</sup>. Guanidine is hydrogen bonded to bridging or non-bridging phosphate oxygen atoms in both the guanidine I and II riboswitches, while a 2′-hydroxyl group participates as the sole backbone contact to the ligand in the guanidine III riboswitch<sup>[16-19]</sup>. Lastly, for each riboswitch it is observed that the guanidinium cation is stacked on a nucleobase at a distance of 3.5 Å, consistent with π-cation interactions. In both the guanidine I and II riboswitches the nucleobase is guanine, whereas in the guanidine III riboswitch it is a cytosine.
@@ -77,6 +80,7 @@ Among the four identified classes of guanidine riboswitches, the crystal structu
 <a href="/images/summary_binding_pockets/BP_Guanidine_riboswitches_family.svg" target="_blank" download="BP_Guanidine_riboswitches_family.svg.svg"><button class="btn btn-secondary"><span class="glyphicon glyphicon-download-alt"></span>&nbsp;&nbsp;Download FIGURE</button></a><br><br>    
 </div>           
             
+<br><br>
 <p class="header_box" id="references">References</p>
                 
 <p><strong>[1] Riboswitches Control Fundamental Biochemical Pathways in Bacillus subtilis and Other Bacteria.</strong><br />

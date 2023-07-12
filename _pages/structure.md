@@ -6,7 +6,7 @@ sitemap: True
 permalink: /structures/
 ---
 <h1 class="post-title" itemprop="name headline">Structures</h1>
-This page summarizes structure determination and phasing methods for riboswitches. We also list all PDB of the collected riboswitches on the bottom.
+This page provides a summary of the methods used for structure determination and phasing in riboswitch research. Additionally, we provide a comprehensive list of all the riboswitches included in this collection, along with their respective Protein Data Bank (PDB) entries.
 <br>
 <br>
 <html>
@@ -30,11 +30,11 @@ This page summarizes structure determination and phasing methods for riboswitche
 Statistics of structure determination and phasing methods for riboswitches. Left: structure determination for riboswitches (Cryogenic electron microscopy, Cryo-EM; Solution-state nuclear magnetic resonance spectroscopy, NMR). Right: The inner circle show cases of molecular replacement (MR) and de novo phasing based on heavy atom derivatives. The outer circle further indicates  the heavy atom used for de novo phasing, and the searching model for MR.
 <img src="/images/structures/phase_determination.svg" alt="drawing" style="width:800px;display:block;margin:0 auto;border:solid 1px;border-radius:0;" class="img-responsive">
 <div style="display: flex; justify-content: center;">
-<a href="/images/structures/phase_determination.pdf" target="_blank" download="phase_determination.svg.svg"><button class="btn btn-secondary"><span class="glyphicon glyphicon-download-alt"></span>&nbsp;&nbsp;Download FIGURE</button></a>   
+<a href="/downloads/structures_page/phase_determination.pdf" target="_blank" download="phase_determination.svg.svg"><button class="btn btn-secondary"><span class="glyphicon glyphicon-download-alt"></span>&nbsp;&nbsp;Download FIGURE</button></a>   
 </div>
 <br>
 <p class="header_box" >Detail information</p>
-This page shows all PDB of the collected riboswitches. We also list phase determination of each PDB.
+This section displays all the PDB entries for the collected riboswitches. Additionally, we provide information on the phase determination for each PDB entry.
 
         
 <html lang="en">
@@ -56,7 +56,8 @@ This page shows all PDB of the collected riboswitches. We also list phase determ
     font-size:24px
   }
   h2{
-    font-size:20px
+    font-size:20px;
+    font-weight: bold
   }
 /* 按钮容器样式 */
     .button-container {
@@ -74,7 +75,6 @@ This page shows all PDB of the collected riboswitches. We also list phase determ
       background-color: #efefef;
       color: #005826;
       text-decoration: none;
-      font-weight: bold;
       font-size: 20px;
       border: 1px solid #005826;
       border-radius: 5px;

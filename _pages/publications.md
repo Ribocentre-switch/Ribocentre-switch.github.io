@@ -24,7 +24,8 @@ permalink: /publications/
     font-size:24px
   }
   h2{
-    font-size:20px
+    font-size:20px;
+    font-weight: bold
   }
 /* 按钮容器样式 */
     .button-container {
@@ -42,7 +43,6 @@ permalink: /publications/
       background-color: #efefef;
       color: #005826;
       text-decoration: none;
-      font-weight: bold;
       font-size: 20px;
       border: 1px solid #005826;
       border-radius: 5px;

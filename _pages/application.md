@@ -31,7 +31,6 @@ This page shows some of the applications of the collected riboswitches. We liste
       background-color: #efefef;
       color: #005826;
       text-decoration: none;
-      font-weight: bold;
       border: 1px solid #005826;
       border-radius: 5px;
       
@@ -70,10 +69,10 @@ Riboswitches can affect bacterial homeostasis, development, pathogenicity, and a
         
 Schematic representation of the FMN riboswitch as new antibacterials target. Different antibacterial compounds bind to the FMN riboswitch and abolish the expression of the downstream genes (left). The chemical structure and KD of the antibacterial compounds is also indicated (right).<br>
 <img src="/images/applications/application_figure.svg" alt="drawing" style="weight:400px;display:block;margin:0 auto;border:solid 1px;border-radius:0;"><br>
-
+<div style="display: flex; justify-content: center;">
 <a href="/images/applications/application_figure.svg" target="_blank" download="Developing new antibacterials.svg"><button class="btn btn-secondary"><span class="glyphicon 
 glyphicon-download-alt"></span>&nbsp;&nbsp;Download above picture</button></a><br>
-<br>
+</div>
                         
 <html>
 <head>
@@ -357,7 +356,7 @@ glyphicon-download-alt"></span>&nbsp;&nbsp;Download above picture</button></a><b
                     
 </tbody>
 </table>
-</html><br>
+</html>
             
 <p id="Synthetic_Biology"> </p>
 <br><br>
@@ -481,7 +480,7 @@ Re-engineered riboswitches that no longer respond to cellular metabolites, but t
                     
     </tbody>
     </table>
-    </html><br>
+    </html>
                 
 <p id="Building_biosensors"></p>
 <br><br>
@@ -583,7 +582,7 @@ Due to riboswitches inherent ability to both detect a specifi c metabolite with 
                     
     </tbody>
     </table>
-    </html><br>
+    </html>
                 
 <p id="Gene_therapy"></p>
 <br><br>
