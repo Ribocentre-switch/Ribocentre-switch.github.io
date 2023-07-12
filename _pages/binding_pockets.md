@@ -5,7 +5,7 @@ excerpt: "Riboswitches: A riboswitch database"
 sitemap: True
 permalink: /binding_pockets/
 ---
-<h1 class="post-title" itemprop="name headline">Binding Pocket</h1>
+<h1 class="post-title" itemprop="name headline">Binding Pockets</h1>
 This page shows some of the comparisons of the binding pockets from different riboswitches. We sorted out three comparisons, ‘Purine riboswitches family’, ‘SAM riboswitches family’, and ‘Guanidine riboswitches family’ as shown in the following figures.
 <br>
 <br>
@@ -44,8 +44,10 @@ Three classes of 2’-dG riboswitches, named 2’-dG-I, 2’-dG-II and 2’-dG-I
 <p class="header_box" >SAM riboswitches family</p>
         
 In the SAM riboswitch family, there are three families with similarity, they are SAM-I , SAM-IV , SAM-I/IV, whose members share a common binding core but have widely divergent peripheral architectures. Structures of the these families revealed that S-adenosylmethionine is recognized by features within and surrounding a central four-way junction . Nucleotides crucial for effector binding, along with the secondary structural features in which they are embedded, are nearly invariant within the clan. The structure of the PK-2 subdomain and its relationship to the SAM-binding core was unknown. The SAM-I/IV family lacks the PK-1 subdomain, only having the PK-2 subdomain of the SAM-IV family<sup>[10]</sup>.
-<br>
-<br>    
+<img src="/images/summary_binding_pockets/nan" alt="drawing" style="width:800px;display:block;margin:0 auto;border:solid 1px;border-radius:0;" class="img-responsive">
+<div style="display: flex; justify-content: center;">
+<a href="/images/summary_binding_pockets/nan" target="_blank" download="nan.svg"><button class="btn btn-secondary"><span class="glyphicon glyphicon-download-alt"></span>&nbsp;&nbsp;Download FIGURE</button></a><br><br>    
+</div>           
             
 Cartoon of the secondary structure of the three families of the SAM clan of riboswitches. The binding pocket regions and peripheral subdomains of the three families are shown, along with the bases that interact with the periphery and the SAM is highlighted in purple, bases interacting with SAM are indicated by red circles.
 <img src="/images/summary_binding_pockets/BP_SAM_riboswitches_family1.svg" alt="drawing" style="width:800px;display:block;margin:0 auto;border:solid 1px;border-radius:0;" class="img-responsive">

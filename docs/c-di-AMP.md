@@ -2,7 +2,7 @@
 layout: post
 title:  "c-di-AMP"
 date:   2023-05-31 00:00:00
-author: Jie Deng_Yuanlin He
+author: Jie Deng,Yuhang Luo
 permalink: /docs/c-di-AMP/
 ---
 <p style="font-size: 24px"><strong>Rfam ID: [RF00379](https://rfam.xfam.org/family/RF00379,target="_blank")</strong> (YdaO/YuaA leader)<br /></p>
@@ -156,10 +156,21 @@ permalink: /docs/c-di-AMP/
 <font >The YdaO/YuaA leader (now called the cyclic di-AMP riboswitch) is a conserved RNA structure found upstream of the ydaO and yuaA genes in Bacillus subtilis and related genes in other bacteria. Its secondary structure and gene associations were predicted by bioinformatics. These RNAs function as riboswitches, and sense the signaling molecule cyclic di-AMP<sup></sup>.</font>
 <p><br /></p>
              
+> Gene regulation
+                
+<font ><p>Left: c-di-AMP mediated transcriptional termination. Right: c-di-AMP-mediated self-splicing to generate a ribosomal binding site<sup>[7]</sup>.</p></font>
+<table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;"><tr>
+  <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
+  <img src="/images/gene_regulation/c-di-AMP_gene_regulation.svg" alt="drawing" style="width:1000px;margin-top: 0px;margin-bottom: 0px;" >
+  </td>
+</tr>
+</table>
+<p><br /></p>
+                         
 <p class="header_box" id="Structure and Ligand recognition">Structure and Ligand recognition</p>
 > 2D representation
         
-<font >Left: Consensus sequence and secondary structure model for the c-di-AMP riboswitch. Right: Secondary structure depictions of the c-di-AMP riboswitch according to PDB ID:4W90 is updating<sup>[3]</sup>.</font><br>
+<font >Top: Consensus sequence and secondary structure model for the c-di-AMP riboswitch. Bottom: Secondary structure depictions of the c-di-AMP riboswitch according to PDB ID:4W90  Adenosine residues stacking on c-di-AMP ligands are shown in yellow, with adjacent stacked residues in pink.<sup>[3]</sup>.</font><br>
 <html>
 <div>
     <div class="entry-content clearfix" itemprop="articleBody description">
@@ -408,7 +419,7 @@ permalink: /docs/c-di-AMP/
 {
   struct_asym_id: 'C', 
   start_residue_number:87, 
-  end_residue_number91, 
+  end_residue_number:91, 
   color:{r:255,g:135,b:10}
 },
 {
@@ -495,8 +506,8 @@ permalink: /docs/c-di-AMP/
                     
 <font ><p>Left: Surface representation of the binding pocket of the c-di-AMP riboswitch generated from PDB ID:4W90. c-di-AMP (shown in sticks) is labeled in red. Right: The hydrogen bonds of the two binding sites of the c-di-AMP riboswitch bound with c-di-AMP<sup>[6]</sup>.<br /></p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;"><tr>
-<td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/c-di-AMP_binding_pockets_1.svg" alt="drawing" style="width:500px"  px="" /></td>
-<td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/c-di-AMP_binding_pockets_2.svg" alt="drawing" style="width:500px"  px="" /></td>
+<td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/c-di-AMP_binding_pockets1.svg" alt="drawing" style="width:500px"  px="" /></td>
+<td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/c-di-AMP_binding_pockets2.svg" alt="drawing" style="width:500px"  px="" /></td>
 </tr>
 </table>
 <p><br /></p>
