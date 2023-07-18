@@ -490,7 +490,7 @@ The genes regulated by ZMP/ZTP riboswitch relate to one-carbon metabolism. Most 
       <title>PDBe Molstar</title>
       <!-- Molstar CSS & JS -->
       <link rel="stylesheet" type="text/css" href="https://www.ebi.ac.uk/pdbe/pdb-component-library/css/pdbe-molstar-1.2.1.css" />
-      <script src="https://www.ebi.ac.uk/pdbe/pdb-component-library/js/pdbe-molstar-plugin-1.2.1.js"></script>
+      <script src="/js/mol/ro_pdbe-molstar-plugin-1.2.1.js"></script>
         <style>
           * {
               margin: 0;
@@ -596,6 +596,7 @@ The genes regulated by ZMP/ZTP riboswitch relate to one-carbon metabolism. Most 
               ]
             viewerInstance1.visual.select({ data: selectSections1, nonSelectedColor: {r:255,g:255,b:255}})" style="float:right;height:25px;width: 120px;">Color Selection</button><br /><br />
           <button button="" style="float: left;height:25px;width: 120px;" onclick="viewerInstance1.visual.clearSelection()">Clear Selection</button><br /><br />
+           <button button="" style="float: left;height:25px;width: 120px;" onclick="loadScript()">Load Script</button>
       </div>
     <div class="viewerSection1">
     <!-- Molstar container -->
@@ -613,6 +614,15 @@ The genes regulated by ZMP/ZTP riboswitch relate to one-carbon metabolism. Most 
         }
       var viewerContainer1 = document.getElementById('myViewer1');
       viewerInstance1.render(viewerContainer1, options1);
+      window.onload = function() {
+      var colorSelectionButton = document.querySelector('.controlsSection1 button');
+      colorSelectionButton.click();
+    };
+      function loadScript() {
+        var script = document.createElement('script');
+        script.src = 'https://www.ebi.ac.uk/pdbe/pdb-component-library/js/pdbe-molstar-plugin-1.2.1.js';
+        document.body.appendChild(script);
+      }
     </script>
     </body>
     </html></td>

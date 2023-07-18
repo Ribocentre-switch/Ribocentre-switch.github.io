@@ -155,7 +155,7 @@ This section displays all the PDB entries for the collected riboswitches. Additi
     
 <div class="form-container">
   <!-- 搜索框 -->
-  <input type="text" id="searchBox" placeholder="Search by keyword..." oninput="searchSheets()"><br><br>
+  <input type="text" id="searchBox" placeholder="Search by keyword..." onfocus="showAllSheets()" oninput="searchTables()"><br><br>
   <select id="downloadOptions">
     <option value="" disabled selected>Select an option</option>
     <option value="/download/structures_page/Cofactors.xlsx">Cofactors</option>
@@ -5456,136 +5456,92 @@ P2-7bp</b></a></td>
 </div>        
                 
 <script>
-    // set sort order in table header begin script
+    var tables = [];
+    var currentSheet = 'sheet1';
      $(document).ready(function() {
     $.noConflict();
-    $('#cfttable').DataTable({
+    tables.push($('#cfttable').DataTable({
       dom: 'Bfrtip',
-      searching: false,
       buttons: [
         'copy', 'csv', 'excel', 'pdf', 'print'
       ]
-    });
+    }));
 
-    $('#rnadetable').DataTable({
+    tables.push($('#rnadetable').DataTable({
       dom: 'Bfrtip',
-      searching: false,
       buttons: [
         'copy', 'csv', 'excel', 'pdf', 'print'
       ]
-    });
+    }));
+
+    tables.push($('#rnapretable').DataTable({
+      dom: 'Bfrtip',
+      buttons: [
+        'copy', 'csv', 'excel', 'pdf', 'print'
+      ]
+    }));
+    tables.push($('#smtable').DataTable({
+      dom: 'Bfrtip',
+      buttons: [
+        'copy', 'csv', 'excel', 'pdf', 'print'
+      ]
+    }));
+    tables.push($('#eletable').DataTable({
+      dom: 'Bfrtip',
+      buttons: [
+        'copy', 'csv', 'excel', 'pdf', 'print'
+      ]
+    }));
+
+
     
-    $('#rnapretable').DataTable({
+    tables.push($('#amintable').DataTable({
       dom: 'Bfrtip',
-      searching: false,
       buttons: [
         'copy', 'csv', 'excel', 'pdf', 'print'
       ]
-    });
-    $('#smtable').DataTable({
+    }));
+    tables.push($('#sugtable').DataTable({
       dom: 'Bfrtip',
-      searching: false,
       buttons: [
         'copy', 'csv', 'excel', 'pdf', 'print'
       ]
-    });
-    $('#eletable').DataTable({
+    }));
+    tables.push($('#tboxtable').DataTable({
       dom: 'Bfrtip',
-      searching: false,
       buttons: [
         'copy', 'csv', 'excel', 'pdf', 'print'
       ]
-    });
-    $('#amintable').DataTable({
+    }));
+    tables.push($('#othtable').DataTable({
       dom: 'Bfrtip',
-      searching: false,
       buttons: [
         'copy', 'csv', 'excel', 'pdf', 'print'
       ]
-    });
-    $('#sugtable').DataTable({
-      dom: 'Bfrtip',
-      searching: false,
-      buttons: [
-        'copy', 'csv', 'excel', 'pdf', 'print'
-      ]
-    });
-    $('#tboxtable').DataTable({
-      dom: 'Bfrtip',
-      searching: false,
-      buttons: [
-        'copy', 'csv', 'excel', 'pdf', 'print'
-      ]
-    });
-    $('#othtable').DataTable({
-      dom: 'Bfrtip',
-      searching: false,
-      buttons: [
-        'copy', 'csv', 'excel', 'pdf', 'print'
-      ]
-    });
+    }));
+    
+    
+    // Hide the search box for DataTables
+      $('#cfttable_filter').css('display', 'none');
+      $('#rnadetable_filter').css('display', 'none');
+      $('#rnapretable_filter').css('display', 'none');
+       $('#smtable_filter').css('display', 'none');
+      $('#eletable_filter').css('display', 'none');
+      $('#amintable_filter').css('display', 'none');
+      $('#sugtable_filter').css('display', 'none');
+      $('#tboxtable_filter').css('display', 'none');
+      $('#othtable_filter').css('display', 'none');
+      
+      // Show the initial sheet (sheet1) and hide others
+    showSheet('sheet1');
+    hideAllSheetsExcept('sheet1');
   });
-    
 
   function sortTable(columnIndex) {
     // TODO: Add sorting logic based on the columnIndex
   }
 
-  function downloadExcel() {
-    // TODO: Implement downloadExcel function
-  }
-
-  function searchSheets() {
-    // TODO: Implement searchSheets function
-  }
-
-  function showSheet(sheetId) {
-    // TODO: Implement showSheet function
-  }
-    // set sort order in table header finish script
-    
-    function showSheet(sheetId) {
-      // 隐藏所有 sheet
-      var sheets = document.getElementsByClassName('sheet');
-      for (var i = 0; i < sheets.length; i++) {
-        sheets[i].style.display = 'none';
-      }
-
-      // 显示选定的 sheet
-      var sheet = document.getElementById(sheetId);
-      sheet.style.display = 'block';
-    }
-     function searchSheets() {
-  var searchBox = document.getElementById('searchBox');
-  var keyword = searchBox.value.toLowerCase();
-
-  var sheets = document.getElementsByClassName('sheet');
-  for (var i = 0; i < sheets.length; i++) {
-    var sheet = sheets[i];
-    var sheetTitle = sheet.getElementsByTagName('h2')[0].textContent.toLowerCase();
-    var tableRows = sheet.getElementsByTagName('tr');
-
-    // Loop through each row and cell of the sheet's table
-    var showSheet = false;
-    for (var j = 0; j < tableRows.length; j++) {
-      var cells = tableRows[j].getElementsByTagName('td');
-      for (var k = 0; k < cells.length; k++) {
-        var cellText = cells[k].textContent.toLowerCase();
-        if (cellText.includes(keyword)) {
-          showSheet = true;
-          break;
-        }
-      }
-    }
-
-    // Show or hide the sheet based on whether the keyword was found
-    if (sheetTitle.includes(keyword) || showSheet) {
-      sheet.style.display = 'block';
-    } else {
-      sheet.style.display = 'none';
-    }
-  }
-}  
+  
 
 function downloadExcel() {
   var selectElement = document.getElementById('downloadOptions');
@@ -5606,6 +5562,76 @@ function downloadExcel() {
     document.body.removeChild(link);
   }
 }
+	
+	
+	function showSheet(sheetId) {
+      // Hide the current sheet
+      var currentSheetElement = document.getElementById(currentSheet);
+      currentSheetElement.style.display = 'none';
+
+      // Show the selected sheet
+      var sheet = document.getElementById(sheetId);
+      sheet.style.display = 'block';
+
+      // Update the current sheet
+      currentSheet = sheetId;
+  }
+
+  function hideAllSheetsExcept(sheetId) {
+    var sheets = document.getElementsByClassName('sheet');
+    for (var i = 0; i < sheets.length; i++) {
+      var sheet = sheets[i];
+      if (sheet.id !== sheetId) {
+        sheet.style.display = 'none';
+      }
+    }
+    }
+
+    function showAllSheets() {
+      var sheets = document.getElementsByClassName('sheet');
+      for (var i = 0; i < sheets.length; i++) {
+        sheets[i].style.display = 'block';
+      }
+    }
+
+    function searchTables() {
+      var keyword = $('#searchBox').val().toLowerCase();
+
+      tables.forEach(function(table) {
+        table.search(keyword).draw();
+      });
+      // Filter the sheets based on search results
+    filterSheets();
+  }
+
+  function filterSheets() {
+    var keyword = $('#searchBox').val().toLowerCase();
+    var sheets = document.getElementsByClassName('sheet');
+
+    for (var i = 0; i < sheets.length; i++) {
+      var sheet = sheets[i];
+      var table = tables[i];
+
+      var displaySheet = false;
+
+      table.rows().eq(0).each(function(index) {
+        var row = table.row(index);
+        var rowData = row.data().join(' ').toLowerCase();
+        var display = rowData.includes(keyword) ? '' : 'none';
+        row.nodes().to$().css('display', display);
+
+        if (display !== 'none') {
+          displaySheet = true;
+        }
+      });
+
+      if (displaySheet) {
+        $('#' + sheet.id).show();
+      } else {
+        $('#' + sheet.id).hide();
+      }
+    }
+  } 
   </script>
         
     </body>

@@ -111,7 +111,7 @@ glyphicon-download-alt"></span>&nbsp;&nbsp;Download above picture</button></a><b
   <thead>
   <tr>
     <th>Name</th>
-    <th>Rfam id</th>
+    <th>Rfam ID</th>
     <th>Unique representatives</th>
     <th>Conserved nucleotides</th>
     <th>Top genes (>10%)</th>
@@ -352,7 +352,7 @@ glyphicon-download-alt"></span>&nbsp;&nbsp;Download above picture</button></a><b
   <thead>
   <tr>
     <th>Name</th>
-    <th>Rfam_id</th>
+    <th>Rfam ID</th>
     <th>Unique representatives</th>
     <th>Conserved nucleotides</th>
     <th>Top genes (>10%)</th>
