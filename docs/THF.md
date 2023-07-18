@@ -616,10 +616,7 @@ The <i>folE</i> RNA motif, now known as the THF-II riboswitch, is a conserved RN
     viewerInstance1.render(viewerContainer1, options1);
     
 
-    window.onload = function() {
-      var colorSelectionButton = document.querySelector('.controlsSection1 button');
-      colorSelectionButton.click();
-    };
+    
     
   </script>
 </body>

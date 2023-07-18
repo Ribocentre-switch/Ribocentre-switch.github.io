@@ -10,7 +10,7 @@
 ">
   <!--<link rel="stylesheet" href="http://localhost:4002/css/main.css>-->
   <link rel="stylesheet" href="/css/main.css">
-  <link rel="canonical" href="http://localhost:4002/docs/THF/">
+  <link rel="canonical" href="http://localhost:4002/docs/THF-copy/">
   <link rel="shortcut icon" type ="image/x-icon" href="http://localhost:4002/images/favicon.ico">
 
 
@@ -769,7 +769,10 @@ The <i>folE</i> RNA motif, now known as the THF-II riboswitch, is a conserved RN
     viewerInstance1.render(viewerContainer1, options1);
     
 
-    
+    window.onload = function() {
+      var colorSelectionButton = document.querySelector('.controlsSection1 button');
+      colorSelectionButton.click();
+    };
     
   </script>
 </body>
