@@ -166,7 +166,7 @@ permalink: /docs/ppGpp/
 <p class="header_box" id="Structure and Ligand recognition">Structure and Ligand recognition</p>
 > 2D representation
         
-<font >Left: Consensus sequence and secondary structure model for the ppGpp riboswitch. Right: Secondary structure depictions of the ppGpp riboswitch according to PDB ID: 6DMC<sup>[5]</sup>.</font><br>
+<font >Top: Consensus sequence and secondary structure model for the ppGpp riboswitch. Bottom: Secondary structure depictions of the ppGpp riboswitch according to PDB ID: 6DMC<sup>[5]</sup>.</font><br>
 <html>
 <div>
     <div class="entry-content clearfix" itemprop="articleBody description">

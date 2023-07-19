@@ -160,7 +160,7 @@ permalink: /docs/Glycine/
 
     <timelineli class="day">
      <div class="events">
-       <p >The engineering of a glycine riboswitch to control a Novel Metabolic Pathway for 5‑Aminolevulinic Acid Production in <i>Escherichia coli</i></p>
+       <p >The engineering of a glycine riboswitch to control a novel metabolic pathway for 5‑aminolevulinic acid production in <i>Escherichia coli</i></p>
        <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/31550137/" target="_blank">2019</a><sup>[13]</sup></div>
      </div>
     </timelineli>
@@ -218,7 +218,7 @@ permalink: /docs/Glycine/
 <p class="header_box" id="Structure and Ligand recognition">Structure and Ligand recognition</p>
 > 2D representation
         
-<font >(Left) Consensus sequence and secondary structure model for glycine riboswitch. (Right) Secondary structure depictions of glycine riboswitch according to PDB ID:3OWZ<sup>[1,4]</sup>.</font><br>
+<font >Top: Consensus sequence and secondary structure model for glycine riboswitch. Bottom: Secondary structure depictions of glycine riboswitch according to PDB ID: 3OWZ<sup>[1,4]</sup>.</font><br>
 <html>
 <div>
     <div class="entry-content clearfix" itemprop="articleBody description">
@@ -341,7 +341,7 @@ permalink: /docs/Glycine/
                      
 > 3D visualisation
                 
-<font >The overall structure of glycine riboswitch was generated from PDB ID:3OWZ at 2.95 Å resolution bound with glycine.  Glycine (shown in sticks) is labeled in red <sup>[4]</sup>.</font>
+<font >The overall structure of glycine riboswitch was generated from PDB ID: 3OWZ at 2.95 Å resolution bound with glycine. Glycine (shown in sticks) is labeled in red <sup>[4]</sup>.</font>
   <table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
   <img src="/images/3D/Glycine_riboswitch_3D.svg" alt="drawing" style="width:500px;margin-top: 0px;margin-bottom: 0px;" >
@@ -486,7 +486,7 @@ permalink: /docs/Glycine/
                  
 > Binding pocket
                     
-<font ><p>(Left) Surface representation of the binding pocket of glycine riboswitch generated from PDB ID:3OWZ. Lysine (shown in sticks) is labeled in red. (Right) The hydrogen bonds of the binding site of glycine riboswitch bound with glycine<sup>[4]</sup>.<br /></p></font>
+<font ><p>(Left) Surface representation of the binding pocket of glycine riboswitch generated from PDB ID: 3OWZ. Lysine (shown in sticks) is labeled in red. (Right) The hydrogen bonds of the binding site of glycine riboswitch bound with glycine<sup>[4]</sup>.<br /></p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;"><tr>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/Glycine_riboswitch_binding_pockets1.svg" alt="drawing" style="width:500px"  px="" /></td>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/Glycine_riboswitch_binding_pockets2.svg" alt="drawing" style="width:500px"  px="" /></td>

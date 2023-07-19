@@ -115,7 +115,7 @@ In 2022, Breaker et al. identified <i>nhaA</i>-I motif and <i>nhaA</i>-II motif 
              
 > Gene association
             
-<font >Annotated functions of proteins encoded by genes commonly associated with the two riboswitch candidates<sup>[2]</sup>.</font>
+<font >Annotated functions of proteins encoded by genes commonly associated with Li<sup>+</sup> riboswitches<sup>[2]</sup>.</font>
 <table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;">
 <tr >
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
@@ -128,7 +128,7 @@ In 2022, Breaker et al. identified <i>nhaA</i>-I motif and <i>nhaA</i>-II motif 
 <p class="header_box" id="Structure and Ligand recognition">Structure and Ligand recognition</p>
 > 2D representation
         
-<font >Consensus secondary structure and sequence conservation of Li<sup>+</sup> riboswitch<sup></sup>.</font><br>
+<font >Consensus secondary structure and sequence conservation of Li<sup>+</sup> riboswitches<sup></sup>.</font><br>
 <table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
 <head>

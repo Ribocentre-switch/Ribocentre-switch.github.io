@@ -174,7 +174,7 @@ permalink: /docs/c-AMP-GMP/
 <p class="header_box" id="Structure and Ligand recognition">Structure and Ligand recognition</p>
 > 2D representation
         
-<font >Left: Consensus sequence and secondary structure model for the c-AMP-GMP riboswitch. Right: Secondary structure depictions of the c-AMP-GMP riboswitch according to PDB ID: 4YAZ<sup>[3]</sup>.</font><br>
+<font >Top: Consensus sequence and secondary structure model for the c-AMP-GMP riboswitch. Bottom: Secondary structure depictions of the c-AMP-GMP riboswitch according to PDB ID: 4YAZ<sup>[3]</sup>.</font><br>
 <html>
 <div>
     <div class="entry-content clearfix" itemprop="articleBody description">
@@ -349,13 +349,13 @@ permalink: /docs/c-AMP-GMP/
             <button onclick="
               var selectSections1 = [
                 {
-  struct_asym_id:'A', 
+  struct_asym_id: 'A', 
   start_residue_number:1, 
   end_residue_number:8, 
   color:{r:255,g:223,b:92}
 },
 {
-  struct_asym_id:'A', 
+  struct_asym_id: 'A', 
   start_residue_number:9, 
   end_residue_number:14, 
   color:{r:194,g:194,b:255}
@@ -388,7 +388,7 @@ permalink: /docs/c-AMP-GMP/
   start_residue_number:76, 
   end_residue_number:84, 
   color:{r:255,g:223,b:92}
-}，
+},
 {
   struct_asym_id: 'A', 
   start_residue_number:103, 

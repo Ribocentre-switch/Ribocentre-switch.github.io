@@ -128,8 +128,24 @@ permalink: /docs/Fluoride/
 
     <timelineli class="day">
      <div class="events">
+       <p >Detection of environmental fluoride via a cell-free riboswitch-based biosensor</p>
+       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/31829623/" target="_blank">2020</a><sup>[7]</sup></div>
+     </div>
+    </timelineli>
+        
+
+    <timelineli class="day">
+     <div class="events">
+       <p >Synthetic gene circuits for organofluorine biosynthesis are implemented in the platform bacterium <i>Pseudomonas putida</i></p>
+       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/33028813/" target="_blank">2020</a><sup>[8]</sup></div>
+     </div>
+    </timelineli>
+        
+
+    <timelineli class="day">
+     <div class="events">
        <p >Ligand F<sup>-</sup> and transcription factor NusA oppose each other's modulation of downstream pausing and termination by RNA polymerase</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/34782462/" target="_blank">2021</a><sup>[7]</sup></div>
+       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/34782462/" target="_blank">2021</a><sup>[9]</sup></div>
      </div>
     </timelineli>
         
@@ -137,7 +153,7 @@ permalink: /docs/Fluoride/
     <timelineli class="day">
      <div class="events">
        <p >The conformational dynamics of the <i>B.cereus crcB</i> fluoride riboswitch at the single-molecule level</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/35017489/" target="_blank">2022</a><sup>[8]</sup></div>
+       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/35017489/" target="_blank">2022</a><sup>[10]</sup></div>
      </div>
     </timelineli>
         
@@ -145,7 +161,7 @@ permalink: /docs/Fluoride/
     <timelineli class="day">
      <div class="events">
        <p ><i>CrcB</i> riboswitch combined with light-up RNA Mango-III was used as a RNA-based fluorogenic biosensor for the detection of fluoride</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/36436882/" target="_blank">2023</a><sup>[9]</sup></div>
+       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/36436882/" target="_blank">2023</a><sup>[11]</sup></div>
      </div>
     </timelineli>
         
@@ -181,7 +197,7 @@ permalink: /docs/Fluoride/
                  
 > Gene regulation
                 
-<font ><p>The fluoride riboswitch from <i>B. cereus</i> regulates gene expression at the transcriptional level. Stabilization of the pseudoknot (PK) upon F<sup>-</sup> binding (F<sup>-</sup>) prevents the formation of an intrinsic terminator hairpin, leading to the transcription of the downstream gene<sup>[6]</sup>.</p></font>
+<font ><p>The fluoride riboswitch from <i>B. cereus</i> regulates gene expression at the transcriptional level. Stabilization of the pseudoknot (PK) upon F<sup>-</sup> binding (F<sup>-</sup>) prevents the formation of an intrinsic terminator hairpin, leading to the transcription of the downstream gene<sup>[9]</sup>.</p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
   <img src="/images/gene_regulation/Fluoride_riboswitch_gene_regulation.svg" alt="drawing" style="width:1000px;margin-top: 0px;margin-bottom: 0px;" >
@@ -193,7 +209,7 @@ permalink: /docs/Fluoride/
 <p class="header_box" id="Structure and Ligand recognition">Structure and Ligand recognition</p>
 > 2D representation
         
-<font >Left: Consensus sequence and secondary structure model for the fluoride riboswitch. Right: Secondary structure depictions of the fluoride riboswitch according to PDB ID: 4ENC<sup>[3]</sup>.</font><br>
+<font >Top: Consensus sequence and secondary structure model for the fluoride riboswitch. Bottom: Secondary structure depictions of the fluoride riboswitch according to PDB ID: 4ENC<sup>[3]</sup>.</font><br>
 <html>
 <div>
     <div class="entry-content clearfix" itemprop="articleBody description">
@@ -565,18 +581,38 @@ Chawla, M., Credendino, R., Poater, A., Oliva, R. & Cavallo, L.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/25487435/" target="_blank">J. Am. Chem. Soc. 137, 299–306 (2015).</a>
 <br /><br /></p>
                 
-<p><strong>[5] An excited state underlies gene regulation of a transcriptional riboswitch.</strong><br />
+<p><strong>[5] Cotranscriptional folding of a riboswitch at nucleotide resolution.</strong><br />
+Watters, K. E., Strobel, E. J., Yu, A. M., Lis, J. T. & Lucks, J. B.<br />
+<a href="https://pubmed.ncbi.nlm.nih.gov/27798597/" target="_blank">Nat. Struct. Mol. Biol. 23, 1124–1131 (2016).</a>
+<br /><br /></p>
+                
+<p><strong>[6] An excited state underlies gene regulation of a transcriptional riboswitch.</strong><br />
 Zhao, B., Guffy, S. L., Williams, B. & Zhang, Q.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/28719589/" target="_blank">Nat. Chem. Biol. 13, 968–974 (2017).</a>
 <br /><br /></p>
                 
-<p><strong>[6] Dynamic competition between a ligand and transcription factor NusA governs riboswitch-mediated transcription regulation.</strong><br />
+<p><strong>[7] Point-of-Use Detection of Environmental Fluoride a Cell-Free Riboswitch-Based Biosensor.</strong><br />
+Thavarajah, W. et al.<br />
+<a href="https://pubmed.ncbi.nlm.nih.gov/31829623/" target="_blank">ACS Synth. Biol. 9, 10–18 (2020).</a>
+<br /><br /></p>
+                
+<p><strong>[8] A fluoride-responsive genetic circuit enables in vivo biofluorination in engineered Pseudomonas putida.</strong><br />
+Calero, P. et al.<br />
+<a href="https://pubmed.ncbi.nlm.nih.gov/33028813/" target="_blank">Nat. Commun. 11, 5045 (2020).</a>
+<br /><br /></p>
+                
+<p><strong>[9] Dynamic competition between a ligand and transcription factor NusA governs riboswitch-mediated transcription regulation.</strong><br />
 Chauvier, A., Ajmera, P., Yadav, R. & Walter, N. G.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/34782462/" target="_blank">Proc. Natl. Acad. Sci. U. S. A. 118, (2021).</a>
 <br /><br /></p>
                 
-<p><strong>[7] An anionic ligand snap-locks a long-range interaction in a magnesium-folded riboswitch.</strong><br />
+<p><strong>[10] An anionic ligand snap-locks a long-range interaction in a magnesium-folded riboswitch.</strong><br />
 Yadav, R., Widom, J. R., Chauvier, A. & Walter, N. G.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/35017489/" target="_blank">Nat. Commun. 13, 207 (2022).</a>
+<br /><br /></p>
+                
+<p><strong>[11] FluorMango, an RNA-Based Fluorogenic Biosensor for the Direct and Specific Detection of Fluoride.</strong><br />
+Husser, C., Vuilleumier, S. & Ryckelynck, M.<br />
+<a href="https://pubmed.ncbi.nlm.nih.gov/36436882/" target="_blank">Small 19, e2205232 (2023).</a>
 <br /><br /></p>
                 

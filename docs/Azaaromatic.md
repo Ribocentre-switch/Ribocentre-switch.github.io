@@ -80,7 +80,7 @@ permalink: /docs/Azaaromatic/
           
     <timelineli class="day">
      <div class="events">
-       <p >Discovery of azaaromatic(yjdF) riboswitch</p>
+       <p >Discovery of azaaromatic(<i>yjdF</i>) riboswitch</p>
        <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/26843526/" target="_blank">2016</a><sup>[1]</sup></div>
      </div>
     </timelineli>

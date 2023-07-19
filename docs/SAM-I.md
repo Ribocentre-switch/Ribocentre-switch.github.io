@@ -268,7 +268,7 @@ SAM-IV riboswitches are a kind of riboswitch that specifically binds S-adenosylm
 <p class="header_box" id="Structure and Ligand recognition">Structure and Ligand recognition</p>
 > 2D representation
         
-<font >Left: Secondary structure depictions of the SAM-I riboswitch according to PDB ID: 2GIS<sup></sup>.</font><br>
+<font >Top: Consensus sequence and secondary structure model for the SAM-I riboswitch. Bottom: Secondary structure depictions of the SAM-I riboswitch according to PDB ID: 2GIS<sup></sup>.</font><br>
 <html>
 <div>
     <div class="entry-content clearfix" itemprop="articleBody description">
@@ -389,7 +389,7 @@ SAM-IV riboswitches are a kind of riboswitch that specifically binds S-adenosylm
 </html>
 <p><br></p>
                     
-<font >Left: Consensus sequence and secondary structure model for the SAM-IV riboswitch. Right: Secondary structure depictions of the SAM-IV riboswitch according to PDB ID:6uet<sup></sup>.</font><br>
+<font >Top: Consensus sequence and secondary structure model for the SAM-IV riboswitch. Bottom: Secondary structure depictions of the SAM-IV riboswitch according to PDB ID:6uet<sup></sup>.</font><br>
 <html>
 <div>
     <div class="entry-content clearfix" itemprop="articleBody description">
@@ -510,7 +510,7 @@ SAM-IV riboswitches are a kind of riboswitch that specifically binds S-adenosylm
 </html>
 <p><br></p>
                     
-<font >Left: Consensus sequence and secondary structure model for the SAM-I/IV riboswitch. Right: Secondary structure depictions of the SAM-I/IV riboswitch according to PDB ID: 4oqu<sup></sup>.</font><br>
+<font >Top: Consensus sequence and secondary structure model for the SAM-I/IV riboswitch. Bottom: Secondary structure depictions of the SAM-I/IV riboswitch according to PDB ID: 4oqu<sup></sup>.</font><br>
 <html>
 <div>
     <div class="entry-content clearfix" itemprop="articleBody description">
@@ -636,7 +636,7 @@ SAM-IV riboswitches are a kind of riboswitch that specifically binds S-adenosylm
 <font >2.9-Å resolution crystal structure of an S-adenosylmethionine (SAM) riboswitch from thermoanaerobacter tengcongensis complexed with S-adenosylmethionine. The figure reference from PDB ID: 2GIS, SAM (shown in sticks) is labeled in red <sup>[4]</sup>.</font>
   <table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
-  <img src="/images/3D/SAM-I_riboswitch_3D.svg" alt="drawing" style="width:500px;margin-top: 0px;margin-bottom: 0px;" >
+  <img src="/images/3D/SAM-I_riboswitch_3D.gif" alt="drawing" style="width:500px;margin-top: 0px;margin-bottom: 0px;" >
   </td>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
   <html lang="en">
@@ -764,7 +764,7 @@ SAM-IV riboswitches are a kind of riboswitch that specifically binds S-adenosylm
 <font >4.1-Å resolution cryo-EM structure of an SAM-IV riboswitch from <i>Mycobacterium sp.</i> complexed with S-adenosylmethionine. The figure reference from PDB ID: 6UET, SAM (shown in sticks) is labeled in red <sup>[19]</sup>.</font>
   <table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
-  <img src="/images/3D/SAM-IV_riboswitch_3D.svg" alt="drawing" style="width:500px;margin-top: 0px;margin-bottom: 0px;" >
+  <img src="/images/3D/SAM-IV_riboswitch_3D.gif" alt="drawing" style="width:500px;margin-top: 0px;margin-bottom: 0px;" >
   </td>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
   <html lang="en">
@@ -892,7 +892,7 @@ SAM-IV riboswitches are a kind of riboswitch that specifically binds S-adenosylm
 <font >3.20-Å resolution crystal structure of an SAM-I/IV variant riboswitch complexed with S-adenosylmethionine.The figure reference from PDB ID: 4OQU, SAM (shown in sticks) is labeled in red <sup>[15]</sup>.</font>
   <table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
-  <img src="/images/3D/SAM-I+IV_riboswitch_3D.svg" alt="drawing" style="width:500px;margin-top: 0px;margin-bottom: 0px;" >
+  <img src="/images/3D/SAM-I+IV_riboswitch_3D.gif" alt="drawing" style="width:500px;margin-top: 0px;margin-bottom: 0px;" >
   </td>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
   <html lang="en">

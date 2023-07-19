@@ -1,174 +1,204 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg id="_图层_1" data-name="图层 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400">
-  <g isolation="isolate">
-    <text transform="translate(408.05 276.77)" font-family="Arial-BoldMT, Arial" font-size="14.25" font-weight="700" isolation="isolate"><tspan x="0" y="0">RN</tspan></text>
-    <text transform="translate(428.64 276.77)" font-family="Arial-BoldMT, Arial" font-size="14.25" font-weight="700" isolation="isolate" letter-spacing="-.08em"><tspan x="0" y="0">A</tspan></text>
-    <text transform="translate(438.4 276.77)" font-family="Arial-BoldMT, Arial" font-size="14.25" font-weight="700" isolation="isolate"><tspan x="0" y="0" xml:space="preserve"> precursors </tspan></text>
-  </g>
-  <g isolation="isolate">
-    <text transform="translate(396.46 16.72)" font-family="Arial-BoldMT, Arial" font-size="14.25" font-weight="700" isolation="isolate" letter-spacing="-.06em"><tspan x="0" y="0">T</tspan></text>
-    <text transform="translate(404.38 16.72)" font-family="Arial-BoldMT, Arial" font-size="14.25" font-weight="700" isolation="isolate"><tspan x="0" y="0">-box</tspan></text>
-  </g>
-  <g isolation="isolate">
-    <text transform="translate(525.74 60.53)" font-family="ArialMT, Arial" font-size="11.47" isolation="isolate"><tspan x="0" y="0" xml:space="preserve">AdoCbl  </tspan></text>
-    <text transform="translate(569.73 60.53)" font-family="ArialMT, Arial" font-size="11.47" isolation="isolate" letter-spacing="-.06em"><tspan x="0" y="0"> </tspan></text>
-    <text transform="translate(572.27 60.53)" font-family="ArialMT, Arial" font-size="11.47" isolation="isolate"><tspan x="0" y="0" xml:space="preserve">AqCbl        FMN</tspan></text>
-    <text transform="translate(525.74 74.29)" font-family="ArialMT, Arial" font-size="11.47" isolation="isolate"><tspan x="0" y="0" xml:space="preserve">MoCo     Wco         </tspan></text>
-    <text transform="translate(623.86 74.29)" font-family="ArialMT, Arial" font-size="11.47" isolation="isolate" letter-spacing="-.02em"><tspan x="0" y="0"> </tspan></text>
-    <text transform="translate(626.84 74.29)" font-family="ArialMT, Arial" font-size="11.47" isolation="isolate"><tspan x="0" y="0">THF-I</tspan></text>
-    <text transform="translate(525.74 88.05)" font-family="ArialMT, Arial" font-size="11.47" isolation="isolate"><tspan x="0" y="0" xml:space="preserve">THF-II   </tspan></text>
-    <text transform="translate(567.78 88.05)" font-family="ArialMT, Arial" font-size="11.47" isolation="isolate" letter-spacing="-.02em"><tspan x="0" y="0"> </tspan></text>
-    <text transform="translate(570.76 88.05)" font-family="ArialMT, Arial" font-size="11.47" isolation="isolate"><tspan x="0" y="0">T</tspan><tspan x="7" y="0" letter-spacing="-.02em">P</tspan></text>
-    <text transform="translate(585.41 88.05)" font-family="ArialMT, Arial" font-size="11.47" isolation="isolate" letter-spacing="-.04em"><tspan x="0" y="0">P</tspan></text>
-    <text transform="translate(592.86 88.05)" font-family="ArialMT, Arial" font-size="11.47" isolation="isolate"><tspan x="0" y="0" xml:space="preserve">           HMP-</tspan><tspan x="64.34" y="0" letter-spacing="-.02em">P</tspan></text>
-    <text transform="translate(664.84 88.05)" font-family="ArialMT, Arial" font-size="11.47" isolation="isolate" letter-spacing="-.04em"><tspan x="0" y="0">P</tspan></text>
-    <text transform="translate(525.74 101.81)" font-family="ArialMT, Arial" font-size="11.47" isolation="isolate"><tspan x="0" y="0" xml:space="preserve">SAM-I    SAM-IV      SAM-I/IV</tspan></text>
-    <text transform="translate(525.74 115.57)" font-family="ArialMT, Arial" font-size="11.47" isolation="isolate"><tspan x="0" y="0" xml:space="preserve">SAM-II   SAM-V       SAM-III</tspan></text>
-    <text transform="translate(525.74 129.33)" font-family="ArialMT, Arial" font-size="11.47" isolation="isolate"><tspan x="0" y="0" xml:space="preserve">SAM-VI  SAM-SAH  SAH</tspan></text>
-    <text transform="translate(525.74 143.09)" font-family="ArialMT, Arial" font-size="11.47" isolation="isolate"><tspan x="0" y="0">NAD</tspan></text>
-  </g>
-  <text transform="translate(549.95 139.28)" font-family="ArialMT, Arial" font-size="6.65" isolation="isolate"><tspan x="0" y="0">+</tspan></text>
-  <g isolation="isolate">
-    <text transform="translate(553.85 143.09)" font-family="ArialMT, Arial" font-size="11.47" isolation="isolate"><tspan x="0" y="0" xml:space="preserve">-I    NAD</tspan></text>
-  </g>
-  <text transform="translate(597.81 139.28)" font-family="ArialMT, Arial" font-size="6.65" isolation="isolate"><tspan x="0" y="0">+</tspan></text>
-  <text transform="translate(601.72 143.09)" font-family="ArialMT, Arial" font-size="11.47" isolation="isolate"><tspan x="0" y="0">-II</tspan></text>
-  <rect x="519.19" y="47.43" width="163.81" height="104.84" fill="none" stroke="#9dd391" stroke-miterlimit="10" stroke-width="1.64"/>
-  <rect x="519.19" y="157.18" width="71.26" height="113.85" fill="none" stroke="#b6dead" stroke-miterlimit="10" stroke-width="1.64"/>
-  <g isolation="isolate">
-    <text transform="translate(526.56 169.46)" font-family="ArialMT, Arial" font-size="11.47" isolation="isolate"><tspan x="0" y="0">Xanthine-I</tspan></text>
-    <text transform="translate(526.56 183.22)" font-family="ArialMT, Arial" font-size="11.47" isolation="isolate"><tspan x="0" y="0">Xanthine-II</tspan></text>
-    <text transform="translate(526.56 196.98)" font-family="ArialMT, Arial" font-size="11.47" isolation="isolate"><tspan x="0" y="0">2&apos;-dG-I</tspan></text>
-    <text transform="translate(526.56 210.75)" font-family="ArialMT, Arial" font-size="11.47" isolation="isolate"><tspan x="0" y="0">2&apos;-dG-II</tspan></text>
-    <text transform="translate(526.56 224.5)" font-family="ArialMT, Arial" font-size="11.47" isolation="isolate"><tspan x="0" y="0">2&apos;-dG-III</tspan></text>
-    <text transform="translate(526.56 238.26)" font-family="ArialMT, Arial" font-size="11.47" isolation="isolate"><tspan x="0" y="0">PreQ</tspan></text>
-  </g>
-  <text transform="translate(553.33 242.08)" font-family="ArialMT, Arial" font-size="6.65" isolation="isolate"><tspan x="0" y="0">1</tspan></text>
-  <g isolation="isolate">
-    <text transform="translate(557.04 238.26)" font-family="ArialMT, Arial" font-size="11.47" isolation="isolate"><tspan x="0" y="0">-I</tspan></text>
-    <text transform="translate(526.56 252.02)" font-family="ArialMT, Arial" font-size="11.47" isolation="isolate"><tspan x="0" y="0">PreQ</tspan></text>
-  </g>
-  <text transform="translate(553.33 255.84)" font-family="ArialMT, Arial" font-size="6.65" isolation="isolate"><tspan x="0" y="0">1</tspan></text>
-  <g isolation="isolate">
-    <text transform="translate(557.04 252.02)" font-family="ArialMT, Arial" font-size="11.47" isolation="isolate"><tspan x="0" y="0">-II</tspan></text>
-    <text transform="translate(526.56 265.79)" font-family="ArialMT, Arial" font-size="11.47" isolation="isolate"><tspan x="0" y="0">preQ</tspan></text>
-  </g>
-  <text transform="translate(552.05 269.6)" font-family="ArialMT, Arial" font-size="6.65" isolation="isolate"><tspan x="0" y="0">1</tspan></text>
-  <text transform="translate(555.77 265.79)" font-family="ArialMT, Arial" font-size="11.47" isolation="isolate"><tspan x="0" y="0">-III</tspan></text>
-  <g isolation="isolate">
-    <text transform="translate(448.75 293.96)" font-family="ArialMT, Arial" font-size="11.47" isolation="isolate"><tspan x="0" y="0">Adenine</tspan></text>
-    <text transform="translate(448.75 307.72)" font-family="ArialMT, Arial" font-size="11.47" isolation="isolate"><tspan x="0" y="0">Guanine-I</tspan></text>
-    <text transform="translate(448.75 321.48)" font-family="ArialMT, Arial" font-size="11.47" isolation="isolate"><tspan x="0" y="0">Guanine-II</tspan></text>
-    <text transform="translate(448.75 335.24)" font-family="ArialMT, Arial" font-size="11.47" isolation="isolate"><tspan x="0" y="0">PR</tspan><tspan x="15.93" y="0" letter-spacing="-.02em">P</tspan></text>
-    <text transform="translate(472.33 335.24)" font-family="ArialMT, Arial" font-size="11.47" isolation="isolate" letter-spacing="-.04em"><tspan x="0" y="0">P</tspan></text>
-    <text transform="translate(448.75 349)" font-family="ArialMT, Arial" font-size="11.47" isolation="isolate"><tspan x="0" y="0">PR</tspan></text>
-    <text transform="translate(464.68 349)" font-family="ArialMT, Arial" font-size="11.47" isolation="isolate" letter-spacing="-.12em"><tspan x="0" y="0">A</tspan></text>
-    <text transform="translate(448.75 362.76)" font-family="ArialMT, Arial" font-size="11.47" isolation="isolate"><tspan x="0" y="0">AD</tspan></text>
-    <text transform="translate(464.68 362.76)" font-family="ArialMT, Arial" font-size="11.47" isolation="isolate" letter-spacing="-.04em"><tspan x="0" y="0">P</tspan></text>
-  </g>
-  <rect x="433.19" y="280.04" width="78.63" height="86" fill="none" stroke="#f36e42" stroke-miterlimit="10" stroke-width="1.64"/>
-  <path d="m387.58,160.94l-11.18-106.37c3.71-.4,7.45-.6,11.18-.59v106.96Z" fill="#d5e8f2" stroke="#fff" stroke-miterlimit="10" stroke-width="1.64"/>
-  <path d="m387.58,160.94l-22.21-104.63c3.65-.79,7.34-1.37,11.06-1.74l11.16,106.37Z" fill="#82b9d9" stroke="#fff" stroke-miterlimit="10" stroke-width="1.64"/>
-  <path d="m387.58,160.94l-71.57-79.45c14.61-13.2,30.08-21.08,49.36-25.18l22.21,104.63Z" fill="#2e8abf" stroke="#fff" stroke-miterlimit="10" stroke-width="1.64"/>
-  <path d="m387.58,160.94l-97.71-43.5c5.96-13.77,14.89-26.06,26.14-35.99l71.57,79.49Z" fill="#fbbf7a" stroke="#fff" stroke-miterlimit="10" stroke-width="1.64"/>
-  <path d="m387.58,160.94l-92.65,53.48c-17.72-30.7-19.5-64.61-5.08-96.98l97.73,43.5Z" fill="#faa94d" stroke="#fff" stroke-miterlimit="10" stroke-width="1.64"/>
-  <path d="m387.58,160.94l-43.51,97.72c-21.58-9.62-37.31-23.75-49.14-44.23l92.65-53.49Z" fill="#f58b68" stroke="#fff" stroke-miterlimit="10" stroke-width="1.64"/>
-  <path d="m387.58,160.94l22.24,104.63c-23.11,4.91-44.15,2.7-65.74-6.9l43.51-97.72Z" fill="#f36e42" stroke="#fff" stroke-miterlimit="10" stroke-width="1.64"/>
-  <path d="m387.58,160.94l92.63,53.48c-15.74,27.27-39.6,44.6-70.44,51.14l-22.2-104.63Z" fill="#b6dead" stroke="#fff" stroke-miterlimit="10" stroke-width="1.64"/>
-  <path d="m387.58,160.94V53.98c59.07,0,106.96,47.89,106.96,106.96,0,19.66-4.49,36.45-14.33,53.48l-92.63-53.48Z" fill="#9dd391" stroke="#fff" stroke-miterlimit="10" stroke-width="1.64"/>
-  <text transform="translate(411.33 138.01)" font-family="Arial-BoldMT, Arial" font-size="14.25" font-weight="700" isolation="isolate"><tspan x="0" y="0">Cofactors</tspan></text>
-  <g isolation="isolate">
-    <text transform="translate(402.32 207.63)" font-family="Arial-BoldMT, Arial" font-size="14.25" font-weight="700" isolation="isolate"><tspan x="0" y="0">RN</tspan></text>
-    <text transform="translate(422.9 207.63)" font-family="Arial-BoldMT, Arial" font-size="14.25" font-weight="700" isolation="isolate" letter-spacing="-.08em"><tspan x="0" y="0">A</tspan></text>
-  </g>
-  <text transform="translate(400.68 220.74)" font-family="Arial-BoldMT, Arial" font-size="14.25" font-weight="700" isolation="isolate"><tspan x="0" y="0">derivatives</tspan></text>
-  <text transform="translate(323.69 91.66)" font-family="Arial-BoldMT, Arial" font-size="14.25" font-weight="700" isolation="isolate"><tspan x="0" y="0">Others</tspan></text>
-  <text transform="translate(289.29 161.77)" font-family="Arial-BoldMT, Arial" font-size="14.25" font-weight="700" isolation="isolate"><tspan x="0" y="0">Elemental</tspan></text>
-  <text transform="translate(290.11 176.51)" font-family="Arial-BoldMT, Arial" font-size="14.25" font-weight="700" isolation="isolate"><tspan x="0" y="0">ions</tspan></text>
-  <text transform="translate(144.89 284.96)" font-family="Arial-BoldMT, Arial" font-size="14.25" font-weight="700" isolation="isolate"><tspan x="0" y="0">Signaling molecules</tspan></text>
-  <g isolation="isolate">
-    <text transform="translate(180.92 302.15)" font-family="ArialMT, Arial" font-size="11.47" isolation="isolate"><tspan x="0" y="0">c-AMP-GM</tspan></text>
-    <text transform="translate(237.61 302.15)" font-family="ArialMT, Arial" font-size="11.47" isolation="isolate" letter-spacing="-.04em"><tspan x="0" y="0">P</tspan></text>
-    <text transform="translate(180.92 315.91)" font-family="ArialMT, Arial" font-size="11.47" isolation="isolate"><tspan x="0" y="0">ppGpp</tspan></text>
-    <text transform="translate(180.92 329.67)" font-family="ArialMT, Arial" font-size="11.47" isolation="isolate"><tspan x="0" y="0">c-di-GM</tspan></text>
-    <text transform="translate(221.69 329.67)" font-family="ArialMT, Arial" font-size="11.47" isolation="isolate" letter-spacing="-.04em"><tspan x="0" y="0">P</tspan></text>
-    <text transform="translate(180.92 343.43)" font-family="ArialMT, Arial" font-size="11.47" isolation="isolate"><tspan x="0" y="0">c-di-GMP-II</tspan></text>
-    <text transform="translate(180.92 357.19)" font-family="ArialMT, Arial" font-size="11.47" isolation="isolate"><tspan x="0" y="0">c-di-AM</tspan></text>
-    <text transform="translate(220.42 357.19)" font-family="ArialMT, Arial" font-size="11.47" isolation="isolate" letter-spacing="-.04em"><tspan x="0" y="0">P</tspan></text>
-    <text transform="translate(180.92 370.95)" font-family="ArialMT, Arial" font-size="11.47" isolation="isolate"><tspan x="0" y="0">Z</tspan><tspan x="7" y="0" letter-spacing="-.02em">T</tspan></text>
-    <text transform="translate(194.93 370.95)" font-family="ArialMT, Arial" font-size="11.47" isolation="isolate" letter-spacing="-.04em"><tspan x="0" y="0">P</tspan></text>
-  </g>
-  <rect x="168.64" y="289.87" width="84.36" height="86" fill="none" stroke="#f58b68" stroke-miterlimit="10" stroke-width="1.64"/>
-  <text transform="translate(167 104.77)" font-family="Arial-BoldMT, Arial" font-size="14.25" font-weight="700" isolation="isolate"><tspan x="0" y="0">Amino acids</tspan></text>
-  <g isolation="isolate">
-    <text transform="translate(180.1 120.32)" font-family="ArialMT, Arial" font-size="11.47" isolation="isolate"><tspan x="0" y="0">Glycine</tspan></text>
-    <text transform="translate(180.1 134.08)" font-family="ArialMT, Arial" font-size="11.47" isolation="isolate" letter-spacing="-.08em"><tspan x="0" y="0">L</tspan></text>
-    <text transform="translate(186.06 134.08)" font-family="ArialMT, Arial" font-size="11.47" isolation="isolate"><tspan x="0" y="0">ysine</tspan></text>
-    <text transform="translate(180.1 147.84)" font-family="ArialMT, Arial" font-size="11.47" isolation="isolate"><tspan x="0" y="0">Glutamine-I</tspan></text>
-    <text transform="translate(180.1 161.6)" font-family="ArialMT, Arial" font-size="11.47" isolation="isolate"><tspan x="0" y="0">Glutamine-II</tspan></text>
-  </g>
-  <rect x="169.46" y="107.22" width="78.63" height="60.61" fill="none" stroke="#fbbf7a" stroke-miterlimit="10" stroke-width="1.64"/>
-  <g isolation="isolate">
-    <text transform="translate(175.6 14.67)" font-family="ArialMT, Arial" font-size="11.47" isolation="isolate"><tspan x="0" y="0">Azaaromatic</tspan></text>
-    <text transform="translate(175.6 28.42)" font-family="ArialMT, Arial" font-size="11.47" isolation="isolate"><tspan x="0" y="0">Guanidine-I</tspan></text>
-    <text transform="translate(175.6 42.18)" font-family="ArialMT, Arial" font-size="11.47" isolation="isolate"><tspan x="0" y="0">Guanidine-II</tspan></text>
-    <text transform="translate(175.6 55.95)" font-family="ArialMT, Arial" font-size="11.47" isolation="isolate"><tspan x="0" y="0">Guanidine-III</tspan></text>
-    <text transform="translate(175.6 69.71)" font-family="ArialMT, Arial" font-size="11.47" isolation="isolate"><tspan x="0" y="0">Guanidine-IV</tspan></text>
-  </g>
-  <rect x="168.23" y="1.15" width="78.63" height="76.58" fill="none" stroke="#82b9d9" stroke-miterlimit="10" stroke-width="1.64"/>
-  <g isolation="isolate">
-    <text transform="translate(167.82 196.29)" font-family="ArialMT, Arial" font-size="11.47" isolation="isolate"><tspan x="0" y="0" xml:space="preserve">Fluoride  Mg</tspan></text>
-  </g>
-  <text transform="translate(231.55 192.47)" font-family="ArialMT, Arial" font-size="6.65" isolation="isolate"><tspan x="0" y="0">2+</tspan></text>
-  <g isolation="isolate">
-    <text transform="translate(239.17 196.29)" font-family="ArialMT, Arial" font-size="11.47" isolation="isolate"><tspan x="0" y="0">-I</tspan></text>
-    <text transform="translate(167.82 210.05)" font-family="ArialMT, Arial" font-size="11.47" isolation="isolate"><tspan x="0" y="0">Mg</tspan></text>
-  </g>
-  <text transform="translate(183.75 206.23)" font-family="ArialMT, Arial" font-size="6.65" isolation="isolate"><tspan x="0" y="0">2+</tspan></text>
-  <g isolation="isolate">
-    <text transform="translate(191.37 210.05)" font-family="ArialMT, Arial" font-size="11.47" isolation="isolate"><tspan x="0" y="0" xml:space="preserve">-II    Mn</tspan></text>
-  </g>
-  <text transform="translate(230.23 206.23)" font-family="ArialMT, Arial" font-size="6.65" isolation="isolate"><tspan x="0" y="0">2+</tspan></text>
-  <g isolation="isolate">
-    <text transform="translate(167.82 223.81)" font-family="ArialMT, Arial" font-size="11.47" isolation="isolate"><tspan x="0" y="0" xml:space="preserve">NiCo       Na</tspan></text>
-  </g>
-  <text transform="translate(230.26 219.99)" font-family="ArialMT, Arial" font-size="6.65" isolation="isolate"><tspan x="0" y="0">+</tspan></text>
-  <g isolation="isolate">
-    <text transform="translate(234.17 223.81)" font-family="ArialMT, Arial" font-size="11.47" isolation="isolate"><tspan x="0" y="0">-I</tspan></text>
-    <text transform="translate(167.82 237.57)" font-family="ArialMT, Arial" font-size="11.47" isolation="isolate"><tspan x="0" y="0">Na</tspan></text>
-  </g>
-  <text transform="translate(182.48 233.75)" font-family="ArialMT, Arial" font-size="6.65" isolation="isolate"><tspan x="0" y="0">+</tspan></text>
-  <g isolation="isolate">
-    <text transform="translate(186.38 237.57)" font-family="ArialMT, Arial" font-size="11.47" isolation="isolate"><tspan x="0" y="0" xml:space="preserve">-I       Li</tspan></text>
-  </g>
-  <text transform="translate(224.61 233.75)" font-family="ArialMT, Arial" font-size="6.65" isolation="isolate"><tspan x="0" y="0">+</tspan></text>
-  <g isolation="isolate">
-    <text transform="translate(228.52 237.57)" font-family="ArialMT, Arial" font-size="11.47" isolation="isolate"><tspan x="0" y="0">-I</tspan></text>
-    <text transform="translate(167.82 251.33)" font-family="ArialMT, Arial" font-size="11.47" isolation="isolate"><tspan x="0" y="0">Li</tspan></text>
-  </g>
-  <text transform="translate(176.75 247.51)" font-family="ArialMT, Arial" font-size="6.65" isolation="isolate"><tspan x="0" y="0">+</tspan></text>
-  <text transform="translate(180.64 251.33)" font-family="ArialMT, Arial" font-size="11.47" isolation="isolate"><tspan x="0" y="0">-II</tspan></text>
-  <rect x="158.81" y="181.96" width="97.47" height="76.58" fill="none" stroke="#faa94d" stroke-miterlimit="10" stroke-width="1.64"/>
-  <text transform="translate(321.79 16.72)" font-family="Arial-BoldMT, Arial" font-size="14.25" font-weight="700" isolation="isolate"><tspan x="0" y="0">Sugars</tspan></text>
-  <g isolation="isolate">
-    <text transform="translate(325.89 34.73)" font-family="ArialMT, Arial" font-size="11.47" isolation="isolate"><tspan x="0" y="0">GlcN6</tspan></text>
-    <text transform="translate(357.75 34.73)" font-family="ArialMT, Arial" font-size="11.47" isolation="isolate" letter-spacing="-.04em"><tspan x="0" y="0">P</tspan></text>
-  </g>
-  <rect x="314.42" y="21.63" width="62.25" height="17.2" fill="none" stroke="#2e8abf" stroke-miterlimit="10" stroke-width="1.64"/>
-  <line x1="497.9" y1="99.85" x2="518.37" y2="99.85" fill="none" stroke="#9dd391" stroke-miterlimit="10" stroke-width="1.64"/>
-  <line x1="481.51" y1="112.13" x2="497.9" y2="99.85" fill="none" stroke="#9dd391" stroke-miterlimit="10" stroke-width="1.64"/>
-  <line x1="412.03" y1="323.04" x2="432.51" y2="323.04" fill="none" stroke="#f36e42" stroke-miterlimit="10" stroke-width="1.64"/>
-  <line x1="253.82" y1="332.87" x2="274.3" y2="332.87" fill="none" stroke="#f58b68" stroke-miterlimit="10" stroke-width="1.64"/>
-  <line x1="455.87" y1="243.7" x2="518.37" y2="214.1" fill="none" stroke="#b6dead" stroke-miterlimit="10" stroke-width="1.64"/>
-  <line x1="381.59" y1="266.11" x2="411.33" y2="323.04" fill="none" stroke="#f36e42" stroke-miterlimit="10" stroke-width="1.64"/>
-  <line x1="314.42" y1="238.47" x2="274.3" y2="332.87" fill="none" stroke="#f58b68" stroke-miterlimit="10" stroke-width="1.64"/>
-  <line x1="280.24" y1="163.71" x2="257.01" y2="226.91" fill="none" stroke="#faa94d" stroke-miterlimit="10" stroke-width="1.64"/>
-  <line x1="248.09" y1="137.52" x2="268.56" y2="137.52" fill="none" stroke="#fbbf7a" stroke-miterlimit="10" stroke-width="1.64"/>
-  <line x1="268.56" y1="137.52" x2="300.51" y2="99.85" fill="none" stroke="#fbbf7a" stroke-miterlimit="10" stroke-width="1.64"/>
-  <line x1="246.86" y1="33.09" x2="334.8" y2="67.72" fill="none" stroke="#2e8abf" stroke-miterlimit="10" stroke-width="1.64"/>
-  <line x1="350.06" y1="39.44" x2="370.53" y2="56.44" fill="none" stroke="#82b9d9" stroke-miterlimit="10" stroke-width="1.64"/>
-  <line x1="381.59" y1="54.8" x2="408.05" y2="19.58" fill="none" stroke="#d5e8f2" stroke-miterlimit="10" stroke-width="1.64"/>
-  <g isolation="isolate">
-    <text transform="translate(234.32 394.11)" font-family="Arial-BoldMT, Arial" font-size="16.38" font-weight="700" isolation="isolate"><tspan x="0" y="0" xml:space="preserve"> Experimentally validated riboswitch classes</tspan></text>
-  </g>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.5.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="_图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 800 400" style="enable-background:new 0 0 800 400;" xml:space="preserve">
+<style type="text/css">
+	.st0{font-family:'Arial-BoldMT';}
+	.st1{font-size:14.25px;}
+	.st2{letter-spacing:-1;}
+	.st3{font-family:'ArialMT';}
+	.st4{font-size:11.47px;}
+	.st5{font-size:6.65px;}
+	.st6{fill:none;stroke:#9DD391;stroke-width:1.64;stroke-miterlimit:10;}
+	.st7{fill:none;stroke:#B6DEAD;stroke-width:1.64;stroke-miterlimit:10;}
+	.st8{fill:none;stroke:#F36E42;stroke-width:1.64;stroke-miterlimit:10;}
+	.st9{fill:#D5E8F2;stroke:#FFFFFF;stroke-width:1.64;stroke-miterlimit:10;}
+	.st10{fill:#82B9D9;stroke:#FFFFFF;stroke-width:1.64;stroke-miterlimit:10;}
+	.st11{fill:#2E8ABF;stroke:#FFFFFF;stroke-width:1.64;stroke-miterlimit:10;}
+	.st12{fill:#FBBF7A;stroke:#FFFFFF;stroke-width:1.64;stroke-miterlimit:10;}
+	.st13{fill:#FAA94D;stroke:#FFFFFF;stroke-width:1.64;stroke-miterlimit:10;}
+	.st14{fill:#F58B68;stroke:#FFFFFF;stroke-width:1.64;stroke-miterlimit:10;}
+	.st15{fill:#F36E42;stroke:#FFFFFF;stroke-width:1.64;stroke-miterlimit:10;}
+	.st16{fill:#B6DEAD;stroke:#FFFFFF;stroke-width:1.64;stroke-miterlimit:10;}
+	.st17{fill:#9DD391;stroke:#FFFFFF;stroke-width:1.64;stroke-miterlimit:10;}
+	.st18{fill:none;stroke:#F58B68;stroke-width:1.64;stroke-miterlimit:10;}
+	.st19{fill:none;stroke:#FBBF7A;stroke-width:1.64;stroke-miterlimit:10;}
+	.st20{fill:none;stroke:#82B9D9;stroke-width:1.64;stroke-miterlimit:10;}
+	.st21{fill:none;stroke:#FAA94D;stroke-width:1.64;stroke-miterlimit:10;}
+	.st22{fill:none;stroke:#2E8ABF;stroke-width:1.64;stroke-miterlimit:10;}
+	.st23{fill:none;stroke:#D5E8F2;stroke-width:1.64;stroke-miterlimit:10;}
+	.st24{font-size:16.38px;}
+</style>
+<g>
+	<text transform="matrix(1 0 0 1 408.05 276.77)" class="st0 st1">RN</text>
+	<text transform="matrix(1 0 0 1 428.64 276.77)" class="st0 st1 st2">A</text>
+	<text transform="matrix(1 0 0 1 438.4 276.77)" class="st0 st1"> precursors </text>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 396.46 16.72)" class="st0 st1">T</text>
+	<text transform="matrix(1 0 0 1 404.38 16.72)" class="st0 st1">-box</text>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 525.74 60.53)" class="st3 st4">AdoCbl  </text>
+	<text transform="matrix(1 0 0 1 572.27 60.53)" class="st3 st4">AqCbl        FMN</text>
+	<text transform="matrix(1 0 0 1 525.74 74.29)" class="st3 st4">MoCo     Wco         </text>
+	<text transform="matrix(1 0 0 1 626.84 74.29)" class="st3 st4">THF-I</text>
+	<text transform="matrix(1 0 0 1 525.74 88.05)" class="st3 st4">THF-II   </text>
+	<text transform="matrix(1 0 0 1 570.76 88.05)" class="st3 st4">T</text>
+	<text transform="matrix(1 0 0 1 577.76 88.05)" class="st3 st4">P</text>
+	<text transform="matrix(1 0 0 1 585.41 88.05)" class="st3 st4">P</text>
+	<text transform="matrix(1 0 0 1 592.86 88.05)" class="st3 st4">           HMP-</text>
+	<text transform="matrix(1 0 0 1 657.2 88.05)" class="st3 st4">P</text>
+	<text transform="matrix(1 0 0 1 664.84 88.05)" class="st3 st4">P</text>
+	<text transform="matrix(1 0 0 1 525.74 101.81)" class="st3 st4">SAM-I    SAM-IV      SAM-I/IV</text>
+	<text transform="matrix(1 0 0 1 525.74 115.57)" class="st3 st4">SAM-II   SAM-V       SAM-III</text>
+	<text transform="matrix(1 0 0 1 525.74 129.33)" class="st3 st4">SAM-VI  SAM-SAH  SAH</text>
+	<text transform="matrix(1 0 0 1 525.74 143.09)" class="st3 st4">NAD</text>
+</g>
+<text transform="matrix(1 0 0 1 549.95 139.28)" class="st3 st5">+</text>
+<g>
+	<text transform="matrix(1 0 0 1 553.85 143.09)" class="st3 st4">-I    NAD</text>
+</g>
+<text transform="matrix(1 0 0 1 597.81 139.28)" class="st3 st5">+</text>
+<text transform="matrix(1 0 0 1 601.72 143.09)" class="st3 st4">-II</text>
+<rect x="519.2" y="47.4" class="st6" width="163.8" height="104.8"/>
+<rect x="519.2" y="157.2" class="st7" width="71.3" height="113.9"/>
+<g>
+	<text transform="matrix(1 0 0 1 526.56 169.46)" class="st3 st4">Xanthine-I</text>
+	<text transform="matrix(1 0 0 1 526.56 183.22)" class="st3 st4">Xanthine-II</text>
+	<text transform="matrix(1 0 0 1 526.56 196.98)" class="st3 st4">2&apos;-dG-I</text>
+	<text transform="matrix(1 0 0 1 526.56 210.75)" class="st3 st4">2&apos;-dG-II</text>
+	<text transform="matrix(1 0 0 1 526.56 224.5)" class="st3 st4">2&apos;-dG-III</text>
+	<text transform="matrix(1 0 0 1 526.56 238.26)" class="st3 st4">PreQ</text>
+</g>
+<text transform="matrix(1 0 0 1 553.33 242.08)" class="st3 st5">1</text>
+<g>
+	<text transform="matrix(1 0 0 1 557.04 238.26)" class="st3 st4">-I</text>
+	<text transform="matrix(1 0 0 1 526.56 252.02)" class="st3 st4">PreQ</text>
+</g>
+<text transform="matrix(1 0 0 1 553.33 255.84)" class="st3 st5">1</text>
+<g>
+	<text transform="matrix(1 0 0 1 557.04 252.02)" class="st3 st4">-II</text>
+	<text transform="matrix(1 0 0 1 526.56 265.79)" class="st3 st4">preQ</text>
+</g>
+<text transform="matrix(1 0 0 1 552.05 269.6)" class="st3 st5">1</text>
+<text transform="matrix(1 0 0 1 555.77 265.79)" class="st3 st4">-III</text>
+<g>
+	<text transform="matrix(1 0 0 1 448.75 293.96)" class="st3 st4">Adenine</text>
+	<text transform="matrix(1 0 0 1 448.75 307.72)" class="st3 st4">Guanine-I</text>
+	<text transform="matrix(1 0 0 1 448.75 321.48)" class="st3 st4">Guanine-II</text>
+	<text transform="matrix(1 0 0 1 448.75 335.24)" class="st3 st4">PR</text>
+	<text transform="matrix(1 0 0 1 464.68 335.24)" class="st3 st4">P</text>
+	<text transform="matrix(1 0 0 1 472.33 335.24)" class="st3 st4">P</text>
+	<text transform="matrix(1 0 0 1 448.75 349)" class="st3 st4">PR</text>
+	<text transform="matrix(1 0 0 1 464.68 349)" class="st3 st4 st2">A</text>
+	<text transform="matrix(1 0 0 1 448.75 362.76)" class="st3 st4">AD</text>
+	<text transform="matrix(1 0 0 1 464.68 362.76)" class="st3 st4">P</text>
+</g>
+<rect x="433.2" y="280" class="st8" width="78.6" height="86"/>
+<path class="st9" d="M387.6,160.9L376.4,54.6c3.7-0.4,7.5-0.6,11.2-0.6V160.9z"/>
+<path class="st10" d="M387.6,160.9L365.4,56.3c3.6-0.8,7.3-1.4,11.1-1.7L387.6,160.9L387.6,160.9z"/>
+<path class="st11" d="M387.6,160.9L316,81.5c14.6-13.2,30.1-21.1,49.4-25.2L387.6,160.9z"/>
+<path class="st12" d="M387.6,160.9l-97.7-43.5c6-13.8,14.9-26.1,26.1-36L387.6,160.9L387.6,160.9z"/>
+<path class="st13" d="M387.6,160.9l-92.6,53.5c-17.7-30.7-19.5-64.6-5.1-97L387.6,160.9L387.6,160.9z"/>
+<path class="st14" d="M387.6,160.9l-43.5,97.7c-21.6-9.6-37.3-23.8-49.1-44.2L387.6,160.9z"/>
+<path class="st15" d="M387.6,160.9l22.2,104.6c-23.1,4.9-44.1,2.7-65.7-6.9L387.6,160.9L387.6,160.9z"/>
+<path class="st16" d="M387.6,160.9l92.6,53.5c-15.7,27.3-39.6,44.6-70.4,51.1L387.6,160.9L387.6,160.9z"/>
+<path class="st17" d="M387.6,160.9V54c59.1,0,107,47.9,107,107c0,19.7-4.5,36.4-14.3,53.5L387.6,160.9z"/>
+<text transform="matrix(1 0 0 1 411.33 138.01)" class="st0 st1">Cofactors</text>
+<g>
+	<text transform="matrix(1 0 0 1 402.32 207.63)" class="st0 st1">RN</text>
+	<text transform="matrix(1 0 0 1 422.9 207.63)" class="st0 st1 st2">A</text>
+</g>
+<text transform="matrix(1 0 0 1 400.68 220.74)" class="st0 st1">derivatives</text>
+<text transform="matrix(1 0 0 1 323.69 91.66)" class="st0 st1">Others</text>
+<text transform="matrix(1 0 0 1 289.29 161.77)" class="st0 st1">Elemental</text>
+<text transform="matrix(1 0 0 1 290.11 176.51)" class="st0 st1">ions</text>
+<text transform="matrix(1 0 0 1 144.89 284.96)" class="st0 st1">Signaling molecules</text>
+<g>
+	<text transform="matrix(1 0 0 1 180.92 302.15)" class="st3 st4">c-AMP-GM</text>
+	<text transform="matrix(1 0 0 1 237.61 302.15)" class="st3 st4">P</text>
+	<text transform="matrix(1 0 0 1 180.92 315.91)" class="st3 st4">ppGpp</text>
+	<text transform="matrix(1 0 0 1 180.92 329.67)" class="st3 st4">c-di-GM</text>
+	<text transform="matrix(1 0 0 1 221.69 329.67)" class="st3 st4">P</text>
+	<text transform="matrix(1 0 0 1 180.92 343.43)" class="st3 st4">c-di-GMP-II</text>
+	<text transform="matrix(1 0 0 1 180.92 357.19)" class="st3 st4">c-di-AM</text>
+	<text transform="matrix(1 0 0 1 220.42 357.19)" class="st3 st4">P</text>
+	<text transform="matrix(1 0 0 1 180.92 370.95)" class="st3 st4">Z</text>
+	<text transform="matrix(1 0 0 1 187.92 370.95)" class="st3 st4">T</text>
+	<text transform="matrix(1 0 0 1 194.93 370.95)" class="st3 st4">P</text>
+</g>
+<rect x="168.6" y="289.9" class="st18" width="84.4" height="86"/>
+<text transform="matrix(1 0 0 1 167 104.77)" class="st0 st1">Amino acids</text>
+<g>
+	<text transform="matrix(1 0 0 1 180.1 120.32)" class="st3 st4">Glycine</text>
+	<text transform="matrix(1 0 0 1 180.1 134.08)" class="st3 st4">L</text>
+	<text transform="matrix(1 0 0 1 186.06 134.08)" class="st3 st4">ysine</text>
+	<text transform="matrix(1 0 0 1 180.1 147.84)" class="st3 st4">Glutamine-I</text>
+	<text transform="matrix(1 0 0 1 180.1 161.6)" class="st3 st4">Glutamine-II</text>
+</g>
+<rect x="169.5" y="107.2" class="st19" width="78.6" height="60.6"/>
+<g>
+	<text transform="matrix(1 0 0 1 175.6 14.67)" class="st3 st4">Azaaromatic</text>
+	<text transform="matrix(1 0 0 1 175.6 28.42)" class="st3 st4">Guanidine-I</text>
+	<text transform="matrix(1 0 0 1 175.6 42.18)" class="st3 st4">Guanidine-II</text>
+	<text transform="matrix(1 0 0 1 175.6 55.95)" class="st3 st4">Guanidine-III</text>
+	<text transform="matrix(1 0 0 1 175.6 69.71)" class="st3 st4">Guanidine-IV</text>
+</g>
+<rect x="168.2" y="1.1" class="st20" width="78.6" height="76.6"/>
+<g>
+	<text transform="matrix(1 0 0 1 167.82 196.29)" class="st3 st4">Fluoride  Mg</text>
+</g>
+<text transform="matrix(1 0 0 1 231.55 192.47)" class="st3 st5">2+</text>
+<g>
+	<text transform="matrix(1 0 0 1 239.17 196.29)" class="st3 st4">-I</text>
+	<text transform="matrix(1 0 0 1 167.82 210.05)" class="st3 st4">Mg</text>
+</g>
+<text transform="matrix(1 0 0 1 183.75 206.23)" class="st3 st5">2+</text>
+<g>
+	<text transform="matrix(1 0 0 1 191.37 210.05)" class="st3 st4">-II    Mn</text>
+</g>
+<text transform="matrix(1 0 0 1 230.23 206.23)" class="st3 st5">2+</text>
+<g>
+	<text transform="matrix(1 0 0 1 167.82 223.81)" class="st3 st4">NiCo       Na</text>
+</g>
+<text transform="matrix(1 0 0 1 230.26 219.99)" class="st3 st5">+</text>
+<g>
+	<text transform="matrix(1 0 0 1 234.17 223.81)" class="st3 st4">-I</text>
+	<text transform="matrix(1 0 0 1 167.82 237.57)" class="st3 st4">Na</text>
+</g>
+<text transform="matrix(1 0 0 1 182.48 233.75)" class="st3 st5">+</text>
+<g>
+	<text transform="matrix(1 0 0 1 186.38 237.57)" class="st3 st4">-I       Li</text>
+</g>
+<text transform="matrix(1 0 0 1 224.61 233.75)" class="st3 st5">+</text>
+<g>
+	<text transform="matrix(1 0 0 1 228.52 237.57)" class="st3 st4">-I</text>
+	<text transform="matrix(1 0 0 1 167.82 251.33)" class="st3 st4">Li</text>
+</g>
+<text transform="matrix(1 0 0 1 176.75 247.51)" class="st3 st5">+</text>
+<text transform="matrix(1 0 0 1 180.64 251.33)" class="st3 st4">-II</text>
+<rect x="158.8" y="182" class="st21" width="97.5" height="76.6"/>
+<text transform="matrix(1 0 0 1 321.79 16.72)" class="st0 st1">Sugars</text>
+<g>
+	<text transform="matrix(1 0 0 1 325.89 34.73)" class="st3 st4">GlcN6</text>
+	<text transform="matrix(1 0 0 1 357.75 34.73)" class="st3 st4">P</text>
+</g>
+<rect x="314.4" y="21.6" class="st22" width="62.2" height="17.2"/>
+<line class="st6" x1="497.9" y1="99.8" x2="518.4" y2="99.8"/>
+<line class="st6" x1="481.5" y1="112.1" x2="497.9" y2="99.8"/>
+<line class="st8" x1="412" y1="323" x2="432.5" y2="323"/>
+<line class="st18" x1="253.8" y1="332.9" x2="274.3" y2="332.9"/>
+<line class="st7" x1="455.9" y1="243.7" x2="518.4" y2="214.1"/>
+<line class="st8" x1="381.6" y1="266.1" x2="411.3" y2="323"/>
+<line class="st18" x1="314.4" y1="238.5" x2="274.3" y2="332.9"/>
+<line class="st21" x1="280.2" y1="163.7" x2="257" y2="226.9"/>
+<line class="st19" x1="248.1" y1="137.5" x2="268.6" y2="137.5"/>
+<line class="st19" x1="268.6" y1="137.5" x2="300.5" y2="99.8"/>
+<line class="st22" x1="246.9" y1="33.1" x2="334.8" y2="67.7"/>
+<line class="st20" x1="350.1" y1="39.4" x2="370.5" y2="56.4"/>
+<line class="st23" x1="381.6" y1="54.8" x2="408" y2="19.6"/>
+<g>
+	<text transform="matrix(1 0 0 1 234.32 394.11)" class="st0 st24"> Experimentally validated riboswitch classes</text>
+</g>
 </svg>

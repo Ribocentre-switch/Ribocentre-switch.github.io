@@ -166,7 +166,7 @@ permalink: /docs/Manganese/
 <p class="header_box" id="Structure and Ligand recognition">Structure and Ligand recognition</p>
 > 2D representation
         
-<font >Left: Consensus sequence and secondary structure model for the <i>yybP-ykoY</i> manganese riboswitch. Right: Secondary structure depictions of the <i>yybP-ykoY</i> manganese riboswitch according to PDB ID: 4Y1I<sup>[3]</sup>.</font><br>
+<font >Top: Consensus sequence and secondary structure model for the <i>yybP-ykoY</i> manganese riboswitch. Bottom: Secondary structure depictions of the <i>yybP-ykoY</i> manganese riboswitch according to PDB ID: 4Y1I<sup>[3]</sup>.</font><br>
 <html>
 <div>
     <div class="entry-content clearfix" itemprop="articleBody description">

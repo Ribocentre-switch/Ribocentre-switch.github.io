@@ -126,7 +126,14 @@ permalink: /docs/NiCo/
              
 > Gene association
             
-<font >（暂缺）<sup></sup>.</font>
+<font >The predicted metal transporters regulated by <i>czcD</i> riboswitches fall into three classes: P<sub>1B4</sub>-type ATPases (exporters), P<sub>3</sub>-type ATPases (importers), and cation diffusion facilitators (CDFs, usually exporters). These riboswitches were identified in Gram-positive, obligate anaerobes primarily from the human gut<sup>[3]</sup>.</font>
+<table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;">
+<tr >
+<td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
+  <img src="/images/gene_association/NiCo_riboswitch_gene_association.svg" alt="drawing" style="width:1000px;margin-top: 0px;margin-bottom: 0px;" >
+</td>
+</tr>
+</table>
 <p><br /></p>
                  
 > Gene regulation
@@ -143,7 +150,7 @@ permalink: /docs/NiCo/
 <p class="header_box" id="Structure and Ligand recognition">Structure and Ligand recognition</p>
 > 2D representation
         
-<font >Left: Consensus sequence and secondary structure model for the NiCo riboswitch. Right: Secondary structure depictions of the NiCo riboswitch according to PDB ID: 4RUM. Helices P1-P2 (pink) and P3-P4 (blue) form a 'H'-shaped structure stabilized at the junction by four Co<sup>2+</sup> ions. Inner sphere (filled symbols) mediated contacts to different metals are shown in key<sup>[2]</sup>.</font><br>
+<font >Top: Consensus sequence and secondary structure model for the NiCo riboswitch. Bottom: Secondary structure depictions of the NiCo riboswitch according to PDB ID: 4RUM. Helices P1-P2 (pink) and P3-P4 (blue) form a 'H'-shaped structure stabilized at the junction by four Co<sup>2+</sup> ions. Inner sphere (filled symbols) mediated contacts to different metals are shown in key<sup>[2]</sup>.</font><br>
 <html>
 <div>
     <div class="entry-content clearfix" itemprop="articleBody description">
@@ -266,7 +273,7 @@ permalink: /docs/NiCo/
                      
 > 3D visualisation
                 
-<font >The overall structure of the NiCo riboswitch was generated from PDB ID: 4RUM at 2.64 Å resolution bound to cobalt. Crystal structure of NiCo shows two sets of coaxially stacked helices: P1-P2 (pink) and P3-P4 (palegreen). Interhelical nucleotides coordinate four Co<sup>2+</sup> ions (red). Anti-terminator nucleotides 78 to 98 (cyan) are sequestered within P4 and P1, making direct contacts with Co<sup>2+</sup> ions <sup>[1]</sup>.</font>
+<font >The overall structure of the NiCo riboswitch was generated from PDB ID: 4RUM at 2.64 Å resolution bound to cobalt. Crystal structure of NiCo shows two sets of coaxially stacked helices: P1-P2 (pink) and P3-P4 (blue). Interhelical nucleotides coordinate four Co<sup>2+</sup> ions (red). Anti-terminator nucleotides 78 to 98 (cyan) are sequestered within P4 and P1, making direct contacts with Co<sup>2+</sup> ions <sup>[1]</sup>.</font>
   <table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
   <img src="/images/3D/NiCo_riboswitch_3D.svg" alt="drawing" style="width:500px;margin-top: 0px;margin-bottom: 0px;" >

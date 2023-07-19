@@ -166,7 +166,7 @@ permalink: /docs/SAM-SAH/
 <p class="header_box" id="Structure and Ligand recognition">Structure and Ligand recognition</p>
 > 2D representation
         
-<font >Left: Consensus sequence and secondary structure model for the SAM-SAH riboswitch. Right: Secondary structure depictions of the SAM-SAH riboswitch according to PDB ID: 6ymm<sup>[5]</sup>.</font><br>
+<font >Top: Consensus sequence and secondary structure model for the SAM-SAH riboswitch. Bottom: Secondary structure depictions of the SAM-SAH riboswitch according to PDB ID: 6ymm<sup>[5]</sup>.</font><br>
 <html>
 <div>
     <div class="entry-content clearfix" itemprop="articleBody description">
@@ -292,7 +292,7 @@ permalink: /docs/SAM-SAH/
 <font >2.2-Å resolution crystal structure of an SAM-SAH riboswitch complexed with S-adenosylmethionine. The figure reference from PDB ID: 6YMM, SAM (shown in sticks) is labeled in red <sup>[5]</sup>.</font>
   <table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
-  <img src="/images/3D/SAM-SAH_riboswitch_3D.svg" alt="drawing" style="width:500px;margin-top: 0px;margin-bottom: 0px;" >
+  <img src="/images/3D/SAM-SAH_riboswitch_3D.gif" alt="drawing" style="width:500px;margin-top: 0px;margin-bottom: 0px;" >
   </td>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
   <html lang="en">
