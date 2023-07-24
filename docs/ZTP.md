@@ -204,9 +204,10 @@ The genes regulated by ZMP/ZTP riboswitch relate to one-carbon metabolism. Most 
 <html>
 <div>
     <div class="entry-content clearfix" itemprop="articleBody description">
-        <div style="display: flex; justify-content: center;">
+        <div style="display: flex; justify-content: center;overflow: auto;">
         <div>
         <div id="image-caption" style="text-align: left; margin-left: 20px;"></div>
+            
             <table class="clear" cellspacing="5" style="border-spacing: 0; margin: 0 auto;">
                 <tr>
                     <td style="border: 1px solid black;width:800px">
@@ -236,8 +237,9 @@ The genes regulated by ZMP/ZTP riboswitch relate to one-carbon metabolism. Most 
                     </td>
                 </tr>
             </table>
+            </div>
         </div>
-        </div>
+        
     </div>
 </div>
 
@@ -367,7 +369,14 @@ The genes regulated by ZMP/ZTP riboswitch relate to one-carbon metabolism. Most 
             width:500px;
             height: 500px;
             position:relative;
+            
           }
+          .viewerContainer {
+      width: 100%;
+      max-width: 500px; /* 设置最大宽度，调整为适当的值 */
+      height: 500px;
+      overflow: auto; /* 添加滚动条 */
+    }
         </style>
     </head>
     <body onload="customize()">
@@ -446,7 +455,9 @@ The genes regulated by ZMP/ZTP riboswitch relate to one-carbon metabolism. Most 
       </div>
     <div class="viewerSection1">
     <!-- Molstar container -->
+      <div class="viewerContainer">
       <div id="myViewer1"></div>
+    </div>
     </div>
     <script>
       var viewerInstance1 = new PDBeMolstarPlugin();

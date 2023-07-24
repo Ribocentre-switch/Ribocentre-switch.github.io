@@ -175,6 +175,7 @@ This section lists all the experimentally validated riboswitches.
         
 <div id="sheet1" class="sheet">
     <h2>Cofactors</h2>
+    <div class="table-responsive">
     <table id="cfttable">
       <thead>
       <tr>
@@ -943,6 +944,7 @@ RF03170</td>
             
       </tbody>
     </table>
+    </div>
 </div>        
                 
 <script>

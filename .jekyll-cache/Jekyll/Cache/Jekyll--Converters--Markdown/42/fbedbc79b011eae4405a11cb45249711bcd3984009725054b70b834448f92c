@@ -1,0 +1,274 @@
+I"”"<blockquote>
+  <p>3D visualisation</p>
+</blockquote>
+
+<p>Crystal structure of <em>T. maritima</em> RNase P RNA. P1/P4/P5/P6 is shown in blue, P2/P3 stems in pink, P7 and P10/P11/P12 in yellow, P8/P9 in green, P13/P14 in cyan, P15/P16/L17 in red, and P18 in orange. This representation was generated from PDB ID: 3Q1Q at 3.8 Ã… resolution.</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;table&gt;&lt;tr&gt;
+&lt;td&gt;&lt;img src="https://www.ribocentre.org/images/RNasePPic/RNaseP3D.png" alt="drawing" style="weight:450px;height:380px" border="0" /&gt;&lt;/td&gt;
+&lt;td&gt;
+  &lt;html lang="en"&gt;
+    &lt;head&gt;
+      &lt;meta charset="utf-8" /&gt;
+      &lt;meta name="viewport" content="width=device-width, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0"&gt;
+      &lt;title&gt;PDBe Molstar - Helper functions&lt;/title&gt;
+  
+      &lt;!-- Molstar CSS &amp; JS --&gt;
+      &lt;link rel="stylesheet" type="text/css" href="https://www.ebi.ac.uk/pdbe/pdb-component-library/css/pdbe-molstar-3.0.0.css"&gt;
+      &lt;script type="text/javascript" src="https://www.ebi.ac.uk/pdbe/pdb-component-library/js/pdbe-molstar-plugin-3.0.0.js"&gt;&lt;/script&gt;
+      &lt;script&gt;
+        function customize()
+        {
+          viewerInstance.canvas.setBgColor({r:255, g:255, b:255})
+        }
+        &lt;/script&gt;
+  
+  
+      &lt;style&gt;
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        .msp-plugin ::-webkit-scrollbar-thumb {
+            background-color: #474748 !important;
+        }
+        .viewerSection {
+          padding-top: 0px;
+        }
+        .controlsSection {
+          width: 300px;
+          display: flex;
+          float:left;
+          padding: 0px 0 0 0;
+          height:25px;
+        }
+        .controlBox {
+          border: 0px solid lightgray;
+          padding: 0px;
+          margin-bottom: 0px;
+        }
+        #myViewer{
+          float:left;
+          width:450px;
+          height: 455px;
+          position:relative;
+        }
+  &lt;/style&gt;
+  &lt;/head&gt;
+  &lt;body onload="customize()"&gt;
+    &lt;div class="controlsSection"&gt;
+        &lt;button onclick="
+          var selectSections = [
+            {
+              struct_asym_id: 'A', 
+              start_residue_number: 1, 
+              end_residue_number: 11, 
+              color:{r:3,g:110,b:183},
+            },
+            {
+              struct_asym_id: 'A', 
+              start_residue_number: 333, 
+              end_residue_number: 347, 
+              color:{r:3,g:110,b:183}
+            },
+            {
+              struct_asym_id: 'A', 
+              start_residue_number: 49, 
+              end_residue_number: 57, 
+              color:{r:3,g:110,b:183}
+            },
+            {
+              struct_asym_id: 'A', 
+              start_residue_number: 324, 
+              end_residue_number: 331, 
+              color:{r:3,g:110,b:183}
+            },
+            {
+              struct_asym_id: 'A', 
+              start_residue_number: 58, 
+              end_residue_number: 61, 
+              color:{r:3,g:110,b:183}
+            },
+            {
+              struct_asym_id: 'A', 
+              start_residue_number: 217, 
+              end_residue_number: 220, 
+              color:{r:3,g:110,b:183}
+            },
+            {
+              struct_asym_id: 'A', 
+              start_residue_number: 62, 
+              end_residue_number: 67, 
+              color:{r:3,g:110,b:183}
+            },
+            {
+              struct_asym_id: 'A', 
+              start_residue_number: 244, 
+              end_residue_number: 249, 
+              color:{r:3,g:110,b:183}
+            },
+            {
+              struct_asym_id: 'A', 
+              start_residue_number: 12, 
+              end_residue_number: 19, 
+              color:{r:214,g:148,b:190}
+            },
+            {
+              struct_asym_id: 'A', 
+              start_residue_number: 307, 
+              end_residue_number: 313, 
+              color:{r:214,g:148,b:190}
+            },
+            {
+              struct_asym_id: 'A', 
+              start_residue_number: 20, 
+              end_residue_number: 45, 
+              color:{r:214,g:148,b:190}
+            },
+            {
+              struct_asym_id: 'A', 
+              start_residue_number: 68, 
+              end_residue_number: 72, 
+              color:{r:214,g:148,b:190}
+            },
+            {
+              struct_asym_id: 'A', 
+              start_residue_number: 102, 
+              end_residue_number: 108, 
+              color:{r:202,g:175,b:71}
+            },
+            {
+              struct_asym_id: 'A', 
+              start_residue_number: 208, 
+              end_residue_number: 211, 
+              color:{r:202,g:175,b:71}
+            },
+            {
+              struct_asym_id: 'A', 
+              start_residue_number: 109, 
+              end_residue_number: 111, 
+              color:{r:202,g:175,b:71}
+            },
+            {
+              struct_asym_id: 'A', 
+              start_residue_number: 203, 
+              end_residue_number: 205, 
+              color:{r:202,g:175,b:71}
+            },
+            {
+              struct_asym_id: 'A', 
+              start_residue_number: 125, 
+              end_residue_number: 130, 
+              color:{r:202,g:175,b:71}
+            },
+            {
+              struct_asym_id: 'A', 
+              start_residue_number: 145, 
+              end_residue_number: 152, 
+              color:{r:202,g:175,b:71}
+            },
+            {
+              struct_asym_id: 'A', 
+              start_residue_number: 73, 
+              end_residue_number: 87, 
+              color:{r:61,g:171,b:74}
+            },
+            {
+              struct_asym_id: 'A', 
+              start_residue_number: 88, 
+              end_residue_number: 101, 
+              color:{r:61,g:171,b:74}
+            },
+            {
+              struct_asym_id: 'A', 
+              start_residue_number: 160, 
+              end_residue_number: 178, 
+              color:{r:44,g:166,b:224}
+            },
+            {
+              struct_asym_id: 'A', 
+              start_residue_number: 179, 
+              end_residue_number: 202, 
+              color:{r:44,g:166,b:224}
+            },
+            {
+              struct_asym_id: 'A', 
+              start_residue_number: 224, 
+              end_residue_number: 227, 
+              color:{r:230,g:31,b:25}
+            },
+            {
+              struct_asym_id: 'A', 
+              start_residue_number: 267, 
+              end_residue_number: 270, 
+              color:{r:230,g:31,b:25}
+            },
+            {
+              struct_asym_id: 'A', 
+              start_residue_number: 233, 
+              end_residue_number: 237, 
+              color:{r:230,g:31,b:25}
+            },
+            {
+              struct_asym_id: 'A', 
+              start_residue_number: 257, 
+              end_residue_number: 261, 
+              color:{r:230,g:31,b:25}
+            },
+            {
+              struct_asym_id: 'A', 
+              start_residue_number: 239, 
+              end_residue_number: 242, 
+              color:{r:230,g:31,b:25}
+            },
+            {
+              struct_asym_id: 'A', 
+              start_residue_number: 251, 
+              end_residue_number: 254, 
+              color:{r:230,g:31,b:25}
+            },
+            {
+              struct_asym_id: 'A', 
+              start_residue_number: 277, 
+              end_residue_number: 296, 
+              color:{r:231,g:119,b:39}
+            }
+          ]
+          viewerInstance.visual.select({ data: selectSections, nonSelectedColor: {r:255,g:255,b:255}})" style="float:right;height:25px;"&gt;Color Selection&lt;/button&gt;&lt;br&gt;&lt;br&gt;
+  
+        &lt;button button style="float: left;height:25px;" onclick="viewerInstance.visual.clearSelection()"&gt;Clear Selection&lt;/button&gt;&lt;br&gt;&lt;br&gt;
+  
+    &lt;/div&gt;
+  
+    &lt;div class="viewerSection"&gt;
+  
+      &lt;!-- Molstar container --&gt;
+      &lt;div id="myViewer"&gt;&lt;/div&gt;
+      
+    &lt;/div&gt;
+    &lt;script&gt;
+  
+      //Create plugin instance
+      var viewerInstance = new PDBeMolstarPlugin();
+  
+      //Set options (Checkout available options list in the documentation)
+      var options = {
+        moleculeId: '3q1q',
+        hideControls: true
+      }
+      
+      //Get element from HTML/Template to place the viewer 
+      var viewerContainer = document.getElementById('myViewer');
+  
+      //Call render method to display the 3D view
+      viewerInstance.render(viewerContainer, options);
+      
+    &lt;/script&gt;
+  &lt;/body&gt;
+&lt;/html&gt;&lt;/td&gt;
+&lt;/tr&gt;&lt;/table&gt;
+</code></pre></div></div>
+<p>&lt;/div&gt;
+&lt;/div&gt;</p>
+<p><br /></p>
+:ET

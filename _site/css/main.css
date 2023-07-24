@@ -2597,7 +2597,7 @@ pubtit { font-weight: bold; }
 /* the all layout*/
 .container-fluid { margin-right: auto; margin-left: auto; max-width: 100%; /* or 950px 1320px*/ }
 
-.container-fluid2 { margin-right: auto; margin-left: auto; max-width: 72%; /* or 950px 1320px*/ }
+.container-fluid2 { margin-right: auto; margin-left: auto; max-width: 72%; /* 72% (original)or 950px 1320px*/ }
 
 /* Home, News */
 #newsid p { text-align: center; }
