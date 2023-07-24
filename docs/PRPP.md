@@ -158,10 +158,10 @@ permalink: /docs/PRPP/
 <p class="header_box" id="Structure and Ligand recognition">Structure and Ligand recognition</p>
 > 2D representation
         
-<font >Left: Consensus sequence and secondary structure model for the PRPP riboswitch. Right: Secondary structure depictions of the PRPP riboswitch according to PDB ID: 6CK5<sup>[4]</sup>.</font><br>
+<font >Top: Consensus sequence and secondary structure model for the PRPP riboswitch. Bottom: Secondary structure depictions of the PRPP riboswitch according to PDB ID: 6CK5<sup>[4]</sup>.</font><br>
 <html>
 <div>
-    <div class="entry-content clearfix" itemprop="articleBody description">
+    <div class="entry-content clearfix" itemprop="articleBody description" style="overflow: auto;">
         <div style="display: flex; justify-content: center;">
         <div>
         <div id="image-caption" style="text-align: left; margin-left: 20px;"></div>

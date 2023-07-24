@@ -173,7 +173,7 @@ permalink: /docs/c-di-AMP/
 <font >Top: Consensus sequence and secondary structure model for the c-di-AMP riboswitch. Bottom: Secondary structure depictions of the c-di-AMP riboswitch according to PDB ID:4W90  Adenosine residues stacking on c-di-AMP ligands are shown in yellow, with adjacent stacked residues in pink.<sup>[3]</sup>.</font><br>
 <html>
 <div>
-    <div class="entry-content clearfix" itemprop="articleBody description">
+    <div class="entry-content clearfix" itemprop="articleBody description" style="overflow: auto;">
         <div style="display: flex; justify-content: center;">
         <div>
         <div id="image-caption" style="text-align: left; margin-left: 20px;"></div>

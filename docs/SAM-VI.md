@@ -153,7 +153,7 @@ permalink: /docs/SAM-VI/
 <font >Top: Consensus sequence and secondary structure model for the SAM-VI riboswitch. Bottom: Secondary structure depictions of the SAM-VI riboswitch according to PDB ID: 6las<sup></sup>.</font><br>
 <html>
 <div>
-    <div class="entry-content clearfix" itemprop="articleBody description">
+    <div class="entry-content clearfix" itemprop="articleBody description" style="overflow: auto;">
         <div style="display: flex; justify-content: center;">
         <div>
         <div id="image-caption" style="text-align: left; margin-left: 20px;"></div>

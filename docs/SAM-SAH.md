@@ -169,7 +169,7 @@ permalink: /docs/SAM-SAH/
 <font >Top: Consensus sequence and secondary structure model for the SAM-SAH riboswitch. Bottom: Secondary structure depictions of the SAM-SAH riboswitch according to PDB ID: 6ymm<sup>[5]</sup>.</font><br>
 <html>
 <div>
-    <div class="entry-content clearfix" itemprop="articleBody description">
+    <div class="entry-content clearfix" itemprop="articleBody description" style="overflow: auto;">
         <div style="display: flex; justify-content: center;">
         <div>
         <div id="image-caption" style="text-align: left; margin-left: 20px;"></div>

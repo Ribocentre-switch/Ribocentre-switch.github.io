@@ -78,7 +78,7 @@
 	</a>
 	</div>
 	<div class="collapse navbar-collapse" id="navbar-collapse-1">
-	  <ul class="nav navbar-nav navbar-right">
+	  <ul class="nav navbar-nav navbar-right" style="margin-right: 0px;">
 		<li id="now" ><a href="http://localhost:4002/">Home</a></li>
 		<li id="now"><a href="http://localhost:4002/riboswitches/">Riboswitches</a></li>
 		<li id="now"><a href="http://localhost:4002/orphan_riboswitch/">Orphan riboswitches</a></li>
@@ -350,11 +350,11 @@ its cognate uncharged tRNA<sup>Gly</sup> and Cryo-EM structures of <i>Bacillus s
   <p>2D representation</p>
 </blockquote>
 
-<font>Left: Consensus sequence and secondary structure model for the T-box riboswitch. Middle: Secondary structure depictions of the T-box riboswitch according to PDB ID: 6UFG. Right: Secondary structure depictions of the THF-I riboswitch according to PDB ID: 6POM. tRNA is colored in pale purple<sup>[10],[11]</sup>.</font>
+<font>Top: Consensus sequence and secondary structure model for the T-box riboswitch. Middle: Secondary structure depictions of the T-box riboswitch according to PDB ID: 6UFG. Bottom: Secondary structure depictions of the THF-I riboswitch according to PDB ID: 6POM. tRNA is colored in pale purple<sup>[10],[11]</sup>.</font>
 <p><br /></p>
 <html>
 <div>
-    <div class="entry-content clearfix" itemprop="articleBody description">
+    <div class="entry-content clearfix" itemprop="articleBody description " style="overflow: auto;">
         <div style="display: flex; justify-content: center;">
         <div>
         <div id="image-caption" style="text-align: left; margin-left: 20px;"></div>
@@ -487,7 +487,7 @@ its cognate uncharged tRNA<sup>Gly</sup> and Cryo-EM structures of <i>Bacillus s
 <font>Co-crystal structure of  <i>M. tuberculosis ileS</i>  T-box in complex with tRNA-3'-OH was generated from PDB ID: 6UFG at 2.93 Å resolution. tRNA is colored in pale purple <sup>[10]</sup>.</font>
 <table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
-  <img src="/images/3D/T-box_riboswitch_3D1.svg" alt="drawing" style="width:500px;margin-top: 0px;margin-bottom: 0px;" />
+  <img src="/images/3D/T-box_riboswitch_3D1.gif" alt="drawing" style="width:500px;margin-top: 0px;margin-bottom: 0px;" />
   </td>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
   <html lang="en">
@@ -613,7 +613,7 @@ its cognate uncharged tRNA<sup>Gly</sup> and Cryo-EM structures of <i>Bacillus s
 <font>4.9-Å resolution cryo-EM structure of a full-length <i>B. subtilis glyQS</i> T-box-tRNA<sup>Gly</sup> complex was generated from PDB ID: 6POM. tRNA is colored in pale purple <sup>[11]</sup>.</font>
 <table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
-  <img src="/images/3D/T-box_riboswitch_3D2.svg" alt="drawing" style="width:500px;margin-top: 0px;margin-bottom: 0px;" />
+  <img src="/images/3D/T-box_riboswitch_3D2.gif" alt="drawing" style="width:500px;margin-top: 0px;margin-bottom: 0px;" />
   </td>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
   <html lang="en">
@@ -880,6 +880,16 @@ Zhang, J.<br />
     </article>
   </section>
 </div>
+<script>
+  // Use JavaScript to detect device type and adjust page zoom
+  if (/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)) {
+    var viewport = document.querySelector('meta[name="viewport"]');
+    viewport.setAttribute('content', 'width=device-width, initial-scale=0.5, maximum-scale=1.0, user-scalable=yes');
+    document.body.style.zoom = "50%";
+  }
+</script>
+
+
 
 
         </div>

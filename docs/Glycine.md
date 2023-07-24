@@ -221,7 +221,7 @@ permalink: /docs/Glycine/
 <font >Top: Consensus sequence and secondary structure model for glycine riboswitch. Bottom: Secondary structure depictions of glycine riboswitch according to PDB ID: 3OWZ<sup>[1,4]</sup>.</font><br>
 <html>
 <div>
-    <div class="entry-content clearfix" itemprop="articleBody description">
+    <div class="entry-content clearfix" itemprop="articleBody description" style="overflow: auto;">
         <div style="display: flex; justify-content: center;">
         <div>
         <div id="image-caption" style="text-align: left; margin-left: 20px;"></div>

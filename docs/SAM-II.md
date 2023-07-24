@@ -228,7 +228,7 @@ SAM-V riboswitch is the fifth known riboswitch to bind S-adenosyl methionine (SA
 <font >Top: Consensus sequence and secondary structure model for the SAM-II riboswitch. Bottom: Secondary structure depictions of the SAM-II riboswitch according to PDB ID: 2qwy<sup></sup>.</font><br>
 <html>
 <div>
-    <div class="entry-content clearfix" itemprop="articleBody description">
+    <div class="entry-content clearfix" itemprop="articleBody description" style="overflow: auto;">
         <div style="display: flex; justify-content: center;">
         <div>
         <div id="image-caption" style="text-align: left; margin-left: 20px;"></div>
@@ -349,7 +349,7 @@ SAM-V riboswitch is the fifth known riboswitch to bind S-adenosyl methionine (SA
 <font >Top: Consensus sequence and secondary structure model for the SAM-V riboswitch. Bottom: Secondary structure depictions of the SAM-V riboswitch according to PDB ID: 6fz0<sup></sup>.</font><br>
 <html>
 <div>
-    <div class="entry-content clearfix" itemprop="articleBody description">
+    <div class="entry-content clearfix" itemprop="articleBody description" style="overflow: auto;">
         <div style="display: flex; justify-content: center;">
         <div>
         <div id="image-caption" style="text-align: left; margin-left: 20px;"></div>

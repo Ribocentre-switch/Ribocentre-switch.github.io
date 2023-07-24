@@ -195,7 +195,6 @@ Cobalamin riboswitches are broadly classified by the identity of the aptamer, bu
 > Gene association
             
 <font >Biosynthetic pathways for adenosylcobalamin in bacteria. The anaerobic and aerobic Ado-CBL pathways are characterized by the early and late cobalt insertions, respectively<sup>[4]</sup>.</font>
-<div class="table-responsive">
 <table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;">
 <tr >
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
@@ -203,7 +202,6 @@ Cobalamin riboswitches are broadly classified by the identity of the aptamer, bu
 </td>
 </tr>
 </table>
-</div>
 <p><br /></p>
                  
 > Gene regulation
@@ -223,11 +221,10 @@ Cobalamin riboswitches are broadly classified by the identity of the aptamer, bu
 <font >Left: Consensus sequence and secondary structure model for the AdoCbl riboswitch. Right: Secondary structure depictions of the AdoCbl riboswitch according to PDB ID: 4GMA. AdoCbl is denoted in red. KL denotes a kissing-loop (KL) interaction between L5 of the receptor and L13 of the regulatory domain that instructs the expression machinery<sup>[4,7]</sup>.</font><br>
 <html>
 <div>
-    <div class="entry-content clearfix" itemprop="articleBody description">
+    <div class="entry-content clearfix" itemprop="articleBody description" style="overflow: auto;">
         <div style="display: flex; justify-content: center;">
         <div>
         <div id="image-caption" style="text-align: left; margin-left: 20px;"></div>
-            <div class="table-responsive">
             <table class="clear" cellspacing="5" style="border-spacing: 0; margin: 0 auto;">
                 <tr>
                     <td style="border: 1px solid black;width:800px">
@@ -257,7 +254,6 @@ Cobalamin riboswitches are broadly classified by the identity of the aptamer, bu
                     </td>
                 </tr>
             </table>
-            </div>
         </div>
         </div>
     </div>
@@ -346,7 +342,7 @@ Cobalamin riboswitches are broadly classified by the identity of the aptamer, bu
 <font >Left: Consensus sequence and secondary structure model for the AqCbll riboswitch. Right: Secondary structure depictions of the AqCbl riboswitch according to PDB ID: 4FRN. AqCbl is denoted in red. KL denotes a kissing-loop (KL) interaction between L5 of the receptor and L13 of the regulatory domain that instructs the expression machinery<sup>[5,7]</sup>.</font><br>
 <html>
 <div>
-    <div class="entry-content clearfix" itemprop="articleBody description">
+    <div class="entry-content clearfix" itemprop="articleBody description" style="overflow: auto;">
         <div style="display: flex; justify-content: center;">
         <div>
         <div id="image-caption" style="text-align: left; margin-left: 20px;"></div>
@@ -467,7 +463,6 @@ Cobalamin riboswitches are broadly classified by the identity of the aptamer, bu
 > 3D visualisation
                 
 <font >The overall structure of the <i>Tte</i>AdoCbl riboswitch was generated from PDB ID: 4GMA at 3.94 Å resolution bound with AdoCbl. AdoCbl (shown in sticks) is colored in red. KL denotes a kissing-loop (KL) interaction between L5 of the receptor and L13 of the regulatory domain that instructs the expression machinery <sup>[7]</sup>.</font>
-<div class="table-responsive">
   <table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
   <img src="/images/3D/AdoCbl_riboswitch_3D.svg" alt="drawing" style="width:500px;margin-top: 0px;margin-bottom: 0px;" >
@@ -607,9 +602,7 @@ Cobalamin riboswitches are broadly classified by the identity of the aptamer, bu
     </script>
     </body>
     </html></td>
-    
   </tr></table><br>
-  </div>
   <p><br /></p>
                 
 <font >The overall structure of the <i>env8</i>AqCbl riboswitch was generated from PDB ID: 4FRN at 3.43 Å resolution bound with AqCbl. AqCbl (shown in sticks) is colored in red. KL denotes a kissing-loop (KL) interaction between L5 of the receptor and L13 of the regulatory domain that instructs the expression machinery <sup>[7]</sup>.</font>

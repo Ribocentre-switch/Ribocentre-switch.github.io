@@ -200,10 +200,10 @@ its cognate uncharged tRNA<sup>Gly</sup> and Cryo-EM structures of <i>Bacillus s
 <p class="header_box" id="Structure and Ligand recognition">Structure and Ligand recognition</p>
 > 2D representation
         
-<font >Left: Consensus sequence and secondary structure model for the T-box riboswitch. Middle: Secondary structure depictions of the T-box riboswitch according to PDB ID: 6UFG. Right: Secondary structure depictions of the THF-I riboswitch according to PDB ID: 6POM. tRNA is colored in pale purple<sup>[10],[11]</sup>.</font><br>
+<font >Top: Consensus sequence and secondary structure model for the T-box riboswitch. Middle: Secondary structure depictions of the T-box riboswitch according to PDB ID: 6UFG. Bottom: Secondary structure depictions of the THF-I riboswitch according to PDB ID: 6POM. tRNA is colored in pale purple<sup>[10],[11]</sup>.</font><br>
 <html>
 <div>
-    <div class="entry-content clearfix" itemprop="articleBody description">
+    <div class="entry-content clearfix" itemprop="articleBody description " style="overflow: auto;">
         <div style="display: flex; justify-content: center;">
         <div>
         <div id="image-caption" style="text-align: left; margin-left: 20px;"></div>
@@ -334,7 +334,7 @@ its cognate uncharged tRNA<sup>Gly</sup> and Cryo-EM structures of <i>Bacillus s
 <font >Co-crystal structure of  <i>M. tuberculosis ileS</i>  T-box in complex with tRNA-3'-OH was generated from PDB ID: 6UFG at 2.93 Å resolution. tRNA is colored in pale purple <sup>[10]</sup>.</font>
   <table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
-  <img src="/images/3D/T-box_riboswitch_3D1.svg" alt="drawing" style="width:500px;margin-top: 0px;margin-bottom: 0px;" >
+  <img src="/images/3D/T-box_riboswitch_3D1.gif" alt="drawing" style="width:500px;margin-top: 0px;margin-bottom: 0px;" >
   </td>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
   <html lang="en">
@@ -459,7 +459,7 @@ its cognate uncharged tRNA<sup>Gly</sup> and Cryo-EM structures of <i>Bacillus s
 <font >4.9-Å resolution cryo-EM structure of a full-length <i>B. subtilis glyQS</i> T-box-tRNA<sup>Gly</sup> complex was generated from PDB ID: 6POM. tRNA is colored in pale purple <sup>[11]</sup>.</font>
   <table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
-  <img src="/images/3D/T-box_riboswitch_3D2.svg" alt="drawing" style="width:500px;margin-top: 0px;margin-bottom: 0px;" >
+  <img src="/images/3D/T-box_riboswitch_3D2.gif" alt="drawing" style="width:500px;margin-top: 0px;margin-bottom: 0px;" >
   </td>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
   <html lang="en">

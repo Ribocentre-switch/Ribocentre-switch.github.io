@@ -271,7 +271,7 @@ SAM-IV riboswitches are a kind of riboswitch that specifically binds S-adenosylm
 <font >Top: Consensus sequence and secondary structure model for the SAM-I riboswitch. Bottom: Secondary structure depictions of the SAM-I riboswitch according to PDB ID: 2GIS<sup></sup>.</font><br>
 <html>
 <div>
-    <div class="entry-content clearfix" itemprop="articleBody description">
+    <div class="entry-content clearfix" itemprop="articleBody description" style="overflow: auto;">
         <div style="display: flex; justify-content: center;">
         <div>
         <div id="image-caption" style="text-align: left; margin-left: 20px;"></div>
@@ -392,7 +392,7 @@ SAM-IV riboswitches are a kind of riboswitch that specifically binds S-adenosylm
 <font >Top: Consensus sequence and secondary structure model for the SAM-IV riboswitch. Bottom: Secondary structure depictions of the SAM-IV riboswitch according to PDB ID:6uet<sup></sup>.</font><br>
 <html>
 <div>
-    <div class="entry-content clearfix" itemprop="articleBody description">
+    <div class="entry-content clearfix" itemprop="articleBody description" style="overflow: auto;">
         <div style="display: flex; justify-content: center;">
         <div>
         <div id="image-caption" style="text-align: left; margin-left: 20px;"></div>
@@ -513,7 +513,7 @@ SAM-IV riboswitches are a kind of riboswitch that specifically binds S-adenosylm
 <font >Top: Consensus sequence and secondary structure model for the SAM-I/IV riboswitch. Bottom: Secondary structure depictions of the SAM-I/IV riboswitch according to PDB ID: 4oqu<sup></sup>.</font><br>
 <html>
 <div>
-    <div class="entry-content clearfix" itemprop="articleBody description">
+    <div class="entry-content clearfix" itemprop="articleBody description" style="overflow: auto;">
         <div style="display: flex; justify-content: center;">
         <div>
         <div id="image-caption" style="text-align: left; margin-left: 20px;"></div>

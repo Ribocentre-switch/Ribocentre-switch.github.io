@@ -78,7 +78,7 @@
 	</a>
 	</div>
 	<div class="collapse navbar-collapse" id="navbar-collapse-1">
-	  <ul class="nav navbar-nav navbar-right">
+	  <ul class="nav navbar-nav navbar-right" style="margin-right: 0px;">
 		<li id="now" ><a href="http://localhost:4002/">Home</a></li>
 		<li id="now"><a href="http://localhost:4002/riboswitches/">Riboswitches</a></li>
 		<li id="now"><a href="http://localhost:4002/orphan_riboswitch/">Orphan riboswitches</a></li>
@@ -350,15 +350,14 @@ The genes regulated by ZMP/ZTP riboswitch relate to one-carbon metabolism. Most 
   <p>2D representation</p>
 </blockquote>
 
-<font>Left: Consensus sequence and secondary structure model for the ZTP riboswitch. Right: Secondary structure depictions of the ZTP riboswitch according to PDB ID: 4ZNP<sup>[3]</sup>.</font>
+<font>Top: Consensus sequence and secondary structure model for the ZTP riboswitch. Bottom: Secondary structure depictions of the ZTP riboswitch according to PDB ID: 4ZNP<sup>[3]</sup>.</font>
 <p><br /></p>
 <html>
 <div>
-    <div class="entry-content clearfix" itemprop="articleBody description">
-        <div style="display: flex; justify-content: center;overflow: auto;">
+    <div class="entry-content clearfix" itemprop="articleBody description" style="overflow: auto;">
+        <div style="display: flex; justify-content: center;">
         <div>
         <div id="image-caption" style="text-align: left; margin-left: 20px;"></div>
-            
             <table class="clear" cellspacing="5" style="border-spacing: 0; margin: 0 auto;">
                 <tr>
                     <td style="border: 1px solid black;width:800px">
@@ -388,9 +387,8 @@ The genes regulated by ZMP/ZTP riboswitch relate to one-carbon metabolism. Most 
                     </td>
                 </tr>
             </table>
-            </div>
         </div>
-        
+        </div>
     </div>
 </div>
 
@@ -522,14 +520,7 @@ The genes regulated by ZMP/ZTP riboswitch relate to one-carbon metabolism. Most 
             width:500px;
             height: 500px;
             position:relative;
-            
           }
-          .viewerContainer {
-      width: 100%;
-      max-width: 500px; /* 设置最大宽度，调整为适当的值 */
-      height: 500px;
-      overflow: auto; /* 添加滚动条 */
-    }
         </style>
     </head>
     <body onload="customize()">
@@ -608,9 +599,7 @@ The genes regulated by ZMP/ZTP riboswitch relate to one-carbon metabolism. Most 
       </div>
     <div class="viewerSection1">
     <!-- Molstar container -->
-      <div class="viewerContainer">
       <div id="myViewer1"></div>
-    </div>
     </div>
     <script>
       var viewerInstance1 = new PDBeMolstarPlugin();
@@ -722,6 +711,16 @@ Perkins, K. R., Atilho, R. M., Moon, M. H. &amp; Breaker, R. R.<br />
     </article>
   </section>
 </div>
+<script>
+  // Use JavaScript to detect device type and adjust page zoom
+  if (/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)) {
+    var viewport = document.querySelector('meta[name="viewport"]');
+    viewport.setAttribute('content', 'width=device-width, initial-scale=0.5, maximum-scale=1.0, user-scalable=yes');
+    document.body.style.zoom = "50%";
+  }
+</script>
+
+
 
 
         </div>

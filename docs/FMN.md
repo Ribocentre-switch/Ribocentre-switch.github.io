@@ -225,7 +225,7 @@ permalink: /docs/FMN/
 <font >Left: Consensus sequence and secondary structure model for the FMN riboswitch. Right: Secondary structure depictions of the FMN riboswitch according to PDB ID: 3F2Q. The bound FMN is denoted in red<sup>[6]</sup>.</font><br>
 <html>
 <div>
-    <div class="entry-content clearfix" itemprop="articleBody description">
+    <div class="entry-content clearfix" itemprop="articleBody description" style="overflow: auto;">
         <div style="display: flex; justify-content: center;">
         <div>
         <div id="image-caption" style="text-align: left; margin-left: 20px;"></div>

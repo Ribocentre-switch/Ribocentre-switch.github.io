@@ -185,10 +185,10 @@ permalink: /docs/Guanine/
 <p class="header_box" id="Structure and Ligand recognition">Structure and Ligand recognition</p>
 > 2D representation
         
-<font >(left) Consensus sequence and structural model for guanine-I riboswitch. (right) Sequence and secondary structure model of the guanine-I riboswitch<sup>[3]</sup>.</font><br>
+<font >Top: Consensus sequence and structural model for guanine-I riboswitch. Bottom: Sequence and secondary structure model of the guanine-I riboswitch<sup>[3]</sup>.</font><br>
 <html>
 <div>
-    <div class="entry-content clearfix" itemprop="articleBody description">
+    <div class="entry-content clearfix" itemprop="articleBody description" style="overflow: auto;">
         <div style="display: flex; justify-content: center;">
         <div>
         <div id="image-caption" style="text-align: left; margin-left: 20px;"></div>

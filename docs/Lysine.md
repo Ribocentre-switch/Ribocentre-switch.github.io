@@ -241,7 +241,7 @@ permalink: /docs/Lysine/
 <font >Top: Consensus sequence and secondary structure model for lysine riboswitch. Bottom: Secondary structure depictions of  lysine riboswitch according to PDB ID: 3DIL<sup>[1,6]</sup>.</font><br>
 <html>
 <div>
-    <div class="entry-content clearfix" itemprop="articleBody description">
+    <div class="entry-content clearfix" itemprop="articleBody description" style="overflow: auto;">
         <div style="display: flex; justify-content: center;">
         <div>
         <div id="image-caption" style="text-align: left; margin-left: 20px;"></div>
@@ -406,7 +406,6 @@ permalink: /docs/Lysine/
             height: 500px;
             position:relative;
           }
-          
         </style>
     </head>
     <body onload="customize()">

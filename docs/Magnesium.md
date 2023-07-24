@@ -168,7 +168,7 @@ The Magnesium responsive RNA element, not to be confused with the completely dis
 <font >Top: Consensus sequence and secondary structure model for the Mg<sup>2+</sup>-I riboswitch. Bottom: Secondary structure depictions of the Mg<sup>2+</sup>-I riboswitch according to PDB ID: 2QBZ. Secondary structure shows the positions of inner- and outer-sphere contacts using shaded and open symbols, respectively, for the six Mg<sup>2+</sup> coordinated to the RNA. Each Mg<sup>2+</sup> has a unique symbol denoted in the legend<sup></sup>.</font><br>
 <html>
 <div>
-    <div class="entry-content clearfix" itemprop="articleBody description">
+    <div class="entry-content clearfix" itemprop="articleBody description" style="overflow: auto;">
         <div style="display: flex; justify-content: center;">
         <div>
         <div id="image-caption" style="text-align: left; margin-left: 20px;"></div>

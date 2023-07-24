@@ -215,10 +215,10 @@ Thus, when GlcN6P levels are high, the glmS ribozyme is activated and the mRNA t
 <p class="header_box" id="Structure and Ligand recognition">Structure and Ligand recognition</p>
 > 2D representation
         
-<font >Left: Consensus sequence and secondary structure model for the GlcN6P riboswitch. Right: Secondary structure depictions of GlcN6P riboswitch according to PDB ID: 2H0Z<sup>[4]</sup>.</font><br>
+<font >Top: Consensus sequence and secondary structure model for the GlcN6P riboswitch. Bottom: Secondary structure depictions of GlcN6P riboswitch according to PDB ID: 2H0Z<sup>[4]</sup>.</font><br>
 <html>
 <div>
-    <div class="entry-content clearfix" itemprop="articleBody description">
+    <div class="entry-content clearfix" itemprop="articleBody description" style="overflow: auto;">
         <div style="display: flex; justify-content: center;">
         <div>
         <div id="image-caption" style="text-align: left; margin-left: 20px;"></div>
@@ -341,7 +341,7 @@ Thus, when GlcN6P levels are high, the glmS ribozyme is activated and the mRNA t
 <font >The overall structure of the GlcN6P riboswitch was generated based on PDB ID: 2H0Z, which was resolved at 2.7 Å resolution and bound with glucose-6-phosphate (G6P) and Mg<sup>2+</sup>. In the structure model, glucose-6-phosphate (depicted in sticks) and Mg<sup>2+</sup> (depicted in sphere) were highlighted in red <sup>[4]</sup>.</font>
   <table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
-  <img src="/images/3D/GlcN6P_riboswitch_3D1.svg" alt="drawing" style="width:500px;margin-top: 0px;margin-bottom: 0px;" >
+  <img src="/images/3D/GlcN6P_riboswitch_3D1.gif" alt="drawing" style="width:500px;margin-top: 0px;margin-bottom: 0px;" >
   </td>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
   <html lang="en">

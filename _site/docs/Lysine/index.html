@@ -78,7 +78,7 @@
 	</a>
 	</div>
 	<div class="collapse navbar-collapse" id="navbar-collapse-1">
-	  <ul class="nav navbar-nav navbar-right">
+	  <ul class="nav navbar-nav navbar-right" style="margin-right: 0px;">
 		<li id="now" ><a href="http://localhost:4002/">Home</a></li>
 		<li id="now"><a href="http://localhost:4002/riboswitches/">Riboswitches</a></li>
 		<li id="now"><a href="http://localhost:4002/orphan_riboswitch/">Orphan riboswitches</a></li>
@@ -392,7 +392,7 @@
 <p><br /></p>
 <html>
 <div>
-    <div class="entry-content clearfix" itemprop="articleBody description">
+    <div class="entry-content clearfix" itemprop="articleBody description" style="overflow: auto;">
         <div style="display: flex; justify-content: center;">
         <div>
         <div id="image-caption" style="text-align: left; margin-left: 20px;"></div>
@@ -559,7 +559,6 @@
             height: 500px;
             position:relative;
           }
-          
         </style>
     </head>
     <body onload="customize()">
@@ -751,6 +750,16 @@ Marton Menendez, A. &amp; Nesbitt, D. J.<br />
     </article>
   </section>
 </div>
+<script>
+  // Use JavaScript to detect device type and adjust page zoom
+  if (/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)) {
+    var viewport = document.querySelector('meta[name="viewport"]');
+    viewport.setAttribute('content', 'width=device-width, initial-scale=0.5, maximum-scale=1.0, user-scalable=yes');
+    document.body.style.zoom = "50%";
+  }
+</script>
+
+
 
 
         </div>

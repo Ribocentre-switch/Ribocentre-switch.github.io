@@ -159,7 +159,7 @@ The Downstream-peptide motif refers to a conserved RNA structure identified by b
 <font >Top: Consensus sequence and secondary structure model for the Glutamine-I riboswitch. Bottom: Secondary structure depictions of the Glutamine-I riboswitch according to PDB ID: 5DDR<sup>[2]</sup>.</font><br>
 <html>
 <div>
-    <div class="entry-content clearfix" itemprop="articleBody description">
+    <div class="entry-content clearfix" itemprop="articleBody description" style="overflow: auto;">
         <div style="display: flex; justify-content: center;">
         <div>
         <div id="image-caption" style="text-align: left; margin-left: 20px;"></div>
@@ -280,7 +280,7 @@ The Downstream-peptide motif refers to a conserved RNA structure identified by b
 <font >Top: Consensus sequence and secondary structure model for the Glutamine-II riboswitch. Bottom: Secondary structure depictions of the Glutamine-II riboswitch according to PDB ID: 6QN3<sup>[4]</sup>.</font><br>
 <html>
 <div>
-    <div class="entry-content clearfix" itemprop="articleBody description">
+    <div class="entry-content clearfix" itemprop="articleBody description" style="overflow: auto;">
         <div style="display: flex; justify-content: center;">
         <div>
         <div id="image-caption" style="text-align: left; margin-left: 20px;"></div>

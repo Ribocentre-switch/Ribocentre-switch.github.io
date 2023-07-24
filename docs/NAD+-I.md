@@ -142,7 +142,7 @@ permalink: /docs/NAD/
 <font >(Left) Consensus sequence and secondary structure model for the NAD<sup>+</sup>-I riboswitch. (Right) Secondary structure depictions of the NAD<sup>+</sup>-I riboswitch according to PDB ID:6TFF<sup>[1,4]</sup>.</font><br>
 <html>
 <div>
-    <div class="entry-content clearfix" itemprop="articleBody description">
+    <div class="entry-content clearfix" itemprop="articleBody description" style="overflow: auto;">
         <div style="display: flex; justify-content: center;">
         <div>
         <div id="image-caption" style="text-align: left; margin-left: 20px;"></div>

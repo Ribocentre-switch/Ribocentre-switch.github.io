@@ -194,7 +194,7 @@ permalink: /docs/PreQ/
 
     <timelineli class="day">
      <div class="events">
-       <p >Long-range stacking spine in preQ<sub>1</sub>-I type 2 riboswitche that links effector binding to the expression platform</p>
+       <p >long-range stacking spine in preQ<sub>1</sub>-I type 2 riboswitche that links effector binding to the expression platform</p>
        <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/32597951/" target="_blank">2020</a><sup>[16]</sup></div>
      </div>
     </timelineli>
@@ -271,10 +271,10 @@ permalink: /docs/PreQ/
 <p class="header_box" id="Structure and Ligand recognition">Structure and Ligand recognition</p>
 > 2D representation
         
-<font >Left: Consensus sequence and secondary structure model for the PreQ<sub>1</sub>-I riboswitch. Right: Secondary structure depictions of the PreQ<sub>1</sub>-I type 2 riboswitch according to PDB ID: 3FU2<sup>[1, 3, 12]</sup>.</font><br>
+<font >Top: Consensus sequence and secondary structure model for the PreQ<sub>1</sub>-I riboswitch. Bottom: Secondary structure depictions of the PreQ<sub>1</sub>-I type 2 riboswitch according to PDB ID: 3FU2<sup>[1, 3, 12]</sup>.</font><br>
 <html>
 <div>
-    <div class="entry-content clearfix" itemprop="articleBody description">
+    <div class="entry-content clearfix" itemprop="articleBody description" style="overflow: auto;">
         <div style="display: flex; justify-content: center;">
         <div>
         <div id="image-caption" style="text-align: left; margin-left: 20px;"></div>
@@ -392,10 +392,10 @@ permalink: /docs/PreQ/
 </html>
 <p><br></p>
                     
-<font >Left: Consensus sequence and secondary structure model for the PreQ<sub>1</sub>-II riboswitch. Right: Secondary structure depictions of the PreQ<sub>1</sub>-II riboswitch according to PDB ID: 4JF2<sup>[10, 12]</sup>.</font><br>
+<font >Top: Consensus sequence and secondary structure model for the PreQ<sub>1</sub>-II riboswitch. Bottom: Secondary structure depictions of the PreQ<sub>1</sub>-II riboswitch according to PDB ID: 4JF2<sup>[10, 12]</sup>.</font><br>
 <html>
 <div>
-    <div class="entry-content clearfix" itemprop="articleBody description">
+    <div class="entry-content clearfix" itemprop="articleBody description" style="overflow: auto;">
         <div style="display: flex; justify-content: center;">
         <div>
         <div id="image-caption" style="text-align: left; margin-left: 20px;"></div>
@@ -513,10 +513,10 @@ permalink: /docs/PreQ/
 </html>
 <p><br></p>
                     
-<font >Left: Consensus sequence and secondary structure model for the PreQ<sub>1</sub>-III riboswitch. Right: Secondary structure depictions of the PreQ<sub>1</sub>-III riboswitch according to PDB ID: 4RZD<sup>[12, 13]</sup>.</font><br>
+<font >Top: Consensus sequence and secondary structure model for the PreQ<sub>1</sub>-III riboswitch. Bottom: Secondary structure depictions of the PreQ<sub>1</sub>-III riboswitch according to PDB ID: 4RZD<sup>[12, 13]</sup>.</font><br>
 <html>
 <div>
-    <div class="entry-content clearfix" itemprop="articleBody description">
+    <div class="entry-content clearfix" itemprop="articleBody description" style="overflow: auto;">
         <div style="display: flex; justify-content: center;">
         <div>
         <div id="image-caption" style="text-align: left; margin-left: 20px;"></div>

@@ -136,7 +136,7 @@ glyphicon-download-alt"></span>&nbsp;&nbsp;Download above picture</button></a><b
                     
   <tr>
     <td><a href="https://ribocentre-switch.github.io/docs/Lysine" target="_blank"><b>Lysine riboswitch</b></a></td>
-    <td>This study identified several lysine analogs that bind to riboswitches in vitro and inhibit Bacillus subtilis growth</td>
+    <td>This study identified several lysine analogs that bind to riboswitches in vitro and inhibit Bacillus subtilis growth.</td>
     <td>Kenneth F Blount</td>
     <td>Ronald R. Breaker</td>
     <td>2007</td>
@@ -446,8 +446,8 @@ Re-engineered riboswitches, which are unresponsive to cellular metabolites and i
     
                     
   <tr>
-    <td><a href="https://ribocentre-switch.github.io/docs/Adenine" target="_blank"><b>Purine riboswitch</b></a></td>
-    <td>This paper showed how the modular architecture of purine riboswitches can be exploited to develop orthogonal and chimeric switches that are transferable across diverse bacterial species, modulating either transcription or translation, to provide tunable activation or repression of target gene expression, in response to synthetic non-natural effector molecules</td>
+    <td><a href="https://ribocentre-switch.github.io/docs/Adenine" target="_blank"><b>Adenine riboswitch</b></a></td>
+    <td>This paper showed how the modular architecture of purine riboswitches can be exploited to develop orthogonal and chimeric switches that are transferable across diverse bacterial species, modulating either transcription or translation, to provide tunable activation or repression of target gene expression, in response to synthetic non-natural effector molecules.</td>
     <td>Christopher J Robinson</td>
     <td>Jason Micklefield</td>
     <td>2014</td>
