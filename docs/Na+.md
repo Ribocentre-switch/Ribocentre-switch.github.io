@@ -102,7 +102,7 @@ permalink: /docs/Na/
   </div>
 </div>
 </html>
-<p><br /></p>
+<br><br>
          
 <p class="header_box" id="description">Description</p>
 <font >The DUF1646 RNA motif is a conserved RNA structure that was discovered by bioinformatics. One of the two DUF1646 RNAs in <i>Enterococcus faecalis</i> was independently detected by term-seq. Data from both discoveries suggest that DUF1646 RNAs are cis-regulatory RNAss, and that at least some DUF1646 RNAs use Rho-independent transcription terminators as their mechanism to regulate gene expression.
@@ -112,7 +112,7 @@ A DUF1646 RNA occurs upstream of an operon in <i>Enterococcus</i> hirae that was
              
 > Gene association
             
-<font >Existing annotations of the protein products whose genes are associated with DUF1646 motif RNAs<sup>[2]</sup>.</font>
+<p>Existing annotations of the protein products whose genes are associated with DUF1646 motif RNAs<sup>[2]</sup>.</p>
 <table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;">
 <tr >
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
@@ -125,7 +125,7 @@ A DUF1646 RNA occurs upstream of an operon in <i>Enterococcus</i> hirae that was
 <p class="header_box" id="Structure and Ligand recognition">Structure and Ligand recognition</p>
 > 2D representation
         
-<font >Consensus secondary structure and sequence conservation of DUF1646 RNA<sup>[2]</sup>.</font><br>
+<p>Consensus secondary structure and sequence conservation of DUF1646 RNA<sup>[2]</sup>.</p><br>
 <table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
 <head>
@@ -178,9 +178,8 @@ A DUF1646 RNA occurs upstream of an operon in <i>Enterococcus</i> hirae that was
                      
 > Ligand recognition
                 
-<font >
-<p>Na+ riboswitches exhibit dissociation constants in the low mM range, and strongly reject all other alkali and alkaline earth ions<sup>[2]</sup>.<br /><br /></p>
-</font>
+
+<p>Na+ riboswitches exhibit dissociation constants in the low mM range, and strongly reject all other alkali and alkaline earth ions<sup>[2]</sup>.</p>
 <table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;">
 <tr>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
@@ -188,17 +187,17 @@ A DUF1646 RNA occurs upstream of an operon in <i>Enterococcus</i> hirae that was
 </td>
 </tr>
 </table>
-<p><br /></p>
+<br /><br>
                  
 <p class="header_box" id="references">References</p>
                 
 <p><strong>[1] Detection of 224 candidate structured RNAs by comparative analysis of specific subsets of intergenic regions.</strong><br />
 Weinberg, Z. et al.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/28977401/" target="_blank">Nucleic Acids Res. 45, 10811–10823 (2017).</a>
-<br /><br /></p>
+<br /></p>
                 
 <p><strong>[2] Na riboswitches regulate genes for diverse physiological processes in bacteria.</strong><br />
 White, N., Sadeeshkumar, H., Sun, A., Sudarsan, N. & Breaker, R. R.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/35879547/" target="_blank">Nat. Chem. Biol. 18, 878–885 (2022).</a>
-<br /><br /></p>
+<br /></p>
                 

@@ -134,7 +134,7 @@ permalink: /docs/ppGpp/
   </div>
 </div>
 </html>
-<p><br /></p>
+<br><br>
          
 <p class="header_box" id="description">Description</p>
 <font >ppGpp riboswitches form a class of riboswitch that specifically bind guanosine tetraphosphate(ppGpp),which is a well-known alarmone produced during various stresses including stringent response,causing by a shortage of amino acids. ppGpp acts on many levels and affects replication,transcription and translation.ppGpp riboswitch were originally identified by bioinformatics as a conserved RNA-like structure called the "The ykkC motif"，which was proposed to represent the highly-conserved aptamer domain of a riboswitch candidate. ykkC RNAs have been organized into at least four major categories called subtypes 2a through 2d. Subtype 2a RNAs are riboswitches that sense the bacterial alarmone ppGpp, and typically regulate amino acid biosynthesisgenes.ppGpp riboswitches control genes involved in biosynthesis and transport of branched-chain amino acids and genes encoding for glutamate synthase and The ATP-binding cassette transporters（ABC transporters）<sup>[1, 3-5]</sup>.</font>
@@ -142,7 +142,7 @@ permalink: /docs/ppGpp/
              
 > Gene association
             
-<font >This figure depicts genes predicted to be regulated by the ppGpp riboswitch<sup>[4]</sup>.</font>
+<p>This figure depicts genes predicted to be regulated by the ppGpp riboswitch<sup>[4]</sup>.</p>
 <table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;">
 <tr >
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
@@ -154,19 +154,19 @@ permalink: /docs/ppGpp/
                  
 > Gene regulation
                 
-<font ><p>Putative mechanisms for regulation of gene expression by ppGpp riboswitches<sup>[5]</sup>.</p></font>
+<p>Putative mechanisms for regulation of gene expression by ppGpp riboswitches<sup>[5]</sup>.</p>
 <table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
   <img src="/images/gene_regulation/ppGpp_riboswitch_gene_regulation.svg" alt="drawing" style="width:1000px;margin-top: 0px;margin-bottom: 0px;" >
   </td>
 </tr>
 </table>
-<p><br /></p>
+<br><br>
                          
 <p class="header_box" id="Structure and Ligand recognition">Structure and Ligand recognition</p>
 > 2D representation
         
-<font >Top: Consensus sequence and secondary structure model for the ppGpp riboswitch. Bottom: Secondary structure depictions of the ppGpp riboswitch according to PDB ID: 6DMC<sup>[5]</sup>.</font><br>
+<p>Top: Consensus sequence and secondary structure model for the ppGpp riboswitch. Bottom: Secondary structure depictions of the ppGpp riboswitch according to PDB ID: 6DMC<sup>[5]</sup>.</p><br>
 <html>
 <div>
     <div class="entry-content clearfix" itemprop="articleBody description" style="overflow: auto;">
@@ -285,12 +285,12 @@ permalink: /docs/ppGpp/
     });
 </script>
 </html>
-<p><br></p>
+ <p><br /></p>
                      
 > 3D visualisation
                 
 <font >The overall structure of the ppGpp riboswitch was generated from PDB ID: 6DMC at 2.20 Å bound with ppGpp. ppGpp (shown in sticks) is labeled in red <sup>[5]</sup>.</font>
-<div ><p style="text-align:right;margin-bottom: 0px;">(Clicking the "Settings/Controls info" to turn Spin off)</p>
+<div ><p style="text-align:right;margin-bottom: 0px;">(Clicking the "Settings/Controls info" to turn Spin off)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
   <table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
   <img src="/images/3D/ppGpp_riboswitch_3D.svg" alt="drawing" style="width:500px;margin-top: 0px;margin-bottom: 0px;" >
@@ -435,7 +435,7 @@ permalink: /docs/ppGpp/
                  
 > Binding pocket
                     
-<font ><p>Left: Surface representation of the binding pocket of the ppGpp riboswitch generated from PDB ID: 6DMC. ppGpp (shown in sticks) is labeled in red. Right: The hydrogen bonds of the binding sites of the ppGpp riboswitch bound with ppGpp<sup>[5]</sup>.<br /></p></font>
+<p>Left: Surface representation of the binding pocket of the ppGpp riboswitch generated from PDB ID: 6DMC. ppGpp (shown in sticks) is labeled in red. Right: The hydrogen bonds of the binding sites of the ppGpp riboswitch bound with ppGpp<sup>[5]</sup>.</p>
 <table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;"><tr>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/ppGpp_riboswitch_binding_pockets1.svg" alt="drawing" style="width:500px"  px="" /></td>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/ppGpp_riboswitch_binding_pockets2.svg" alt="drawing" style="width:500px"  px="" /></td>
@@ -445,9 +445,8 @@ permalink: /docs/ppGpp/
                      
 > Ligand recognition
                 
-<font >
-<p>Chemical structures of ppGpp and its analogs. The apparent K<sub>D</sub> is shown on bottom<sup>[5]</sup>.<br /><br /></p>
-</font>
+
+<p>Chemical structures of ppGpp and its analogs. The apparent K<sub>D</sub> is shown on bottom<sup>[5]</sup>.</p>
 <table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;">
 <tr>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
@@ -455,37 +454,37 @@ permalink: /docs/ppGpp/
 </td>
 </tr>
 </table>
-<p><br /></p>
+<br /><br>
                  
 <p class="header_box" id="references">References</p>
                 
 <p><strong>[1] New RNA motifs suggest an expanded scope for riboswitches in bacterial genetic control.</strong><br />
 Barrick, J. E. et al.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/15096624/" target="_blank">Proc. Natl. Acad. Sci. U. S. A. 101, 6421–6426 (2004).</a>
-<br /><br /></p>
+<br /></p>
                 
 <p><strong>[2] Metabolism of Free Guanidine in Bacteria Is Regulated by a Widespread Riboswitch Class.</strong><br />
 Nelson, J. W., Atilho, R. M., Sherlock, M. E., Stockbridge, R. B. & Breaker, R. R.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/27989440/" target="_blank">Mol. Cell 65, 220–230 (2017).</a>
-<br /><br /></p>
+<br /></p>
                 
 <p><strong>[3] Tandem riboswitches form a natural Boolean logic gate to control purine metabolism in bacteria.</strong><br />
 Sherlock, M. E., Sudarsan, N., Stav, S. & Breaker, R. R.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/29504937/" target="_blank">Elife 7, (2018).</a>
-<br /><br /></p>
+<br /></p>
                 
 <p><strong>[4] Riboswitches for the alarmone ppGpp expand the collection of RNA-based signaling systems.</strong><br />
 Sherlock, M. E., Sudarsan, N. & Breaker, R. R.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/29784782/" target="_blank">Proc. Natl. Acad. Sci. U. S. A. 115, 6052–6057 (2018).</a>
-<br /><br /></p>
+<br /></p>
                 
 <p><strong>[5] ykkC riboswitches employ an add-on helix to adjust specificity for polyanionic ligands. </strong><br />
 Peselis, A. & Serganov, A.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/30120360/" target="_blank">Nat. Chem. Biol. 14, 887–894 (2018).</a>
-<br /><br /></p>
+<br /></p>
                 
 <p><strong>[6] Live-Cell Imaging of Guanosine Tetra- and Pentaphosphate (p)ppGpp with RNA-based Fluorescent Sensors*.</strong><br />
 Sun, Z. et al.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/34487413/" target="_blank">Angew. Chem. Int. Ed Engl. 60, 24070–24074 (2021).</a>
-<br /><br /></p>
+<br /></p>
                 

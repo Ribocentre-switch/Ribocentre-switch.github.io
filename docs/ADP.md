@@ -118,7 +118,7 @@ permalink: /docs/ADP/
   </div>
 </div>
 </html>
-<p><br /></p>
+<br><br>
          
 <p class="header_box" id="description">Description</p>
 <font >The <i>ykkC</i> RNAs were initially found in 2004 and in 2017,<i>ykkC</i> subtype 2 RNAs were separated from <i>ykkC</i> RNAs. Further analysis of the RNA sequences and consensus models of <i>ykkC</i> subtype 2 RNAs, and the assessment of the diverse types of genes found downstream of these RNAs, revealed that there are probably at least four additional distinct riboswitch classes present within the <i>ykkC</i> subtype 2 collection, termed <i>ykkC</i> subtypes 2a-2d. At last, <i>ykkC</i> subtype 2c RNAs were proved to recognize adenosine and cytidine 5′-diphosphate molecules in either their ribose or deoxyribose forms (ADP, dADP, CDP, and dCDP)<sup>[2-4]</sup>.</font>
@@ -126,7 +126,7 @@ permalink: /docs/ADP/
              
 > Gene association
             
-<font >Nearly all <i>ykkC</i> subtype 2c RNAs are located upstream of genes encoding Nucleoside Diphosphate linked to X (NUDIX) hydrolases. NUDIX hydrolases make up a broad family of proteins that cleave the phosphoester bond between the <i>α</i>- and <i>β</i>-phosphate moieties of various nucleotide substrates. Some nucleoside di- and triphosphate substrates can carry a ribose or a deoxyribose moiety (gray shading)<sup>[4]</sup>.</font>
+<p>Nearly all <i>ykkC</i> subtype 2c RNAs are located upstream of genes encoding Nucleoside Diphosphate linked to X (NUDIX) hydrolases. NUDIX hydrolases make up a broad family of proteins that cleave the phosphoester bond between the <i>α</i>- and <i>β</i>-phosphate moieties of various nucleotide substrates. Some nucleoside di- and triphosphate substrates can carry a ribose or a deoxyribose moiety (gray shading)<sup>[4]</sup>.</p>
 <table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;">
 <tr >
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
@@ -138,19 +138,19 @@ permalink: /docs/ADP/
                  
 > Gene regulation
                 
-<font ><p>Putative mechanisms for regulation of gene expression by ADP riboswitches<sup>[2, 4]</sup>.</p></font>
+<p>Putative mechanisms for regulation of gene expression by ADP riboswitches<sup>[2, 4]</sup>.</p>
 <table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
   <img src="/images/gene_regulation/ADP_riboswitch_gene_regulation.svg" alt="drawing" style="width:1000px;margin-top: 0px;margin-bottom: 0px;" >
   </td>
 </tr>
 </table>
-<p><br /></p>
+<br><br>
                          
 <p class="header_box" id="Structure and Ligand recognition">Structure and Ligand recognition</p>
 > 2D representation
         
-<font >Consensus sequence and secondary structure model for the PRA riboswitch. <sup>[4]</sup>.</font><br>
+<p>Consensus sequence and secondary structure model for the PRA riboswitch. <sup>[4]</sup>.</p><br>
 <table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
 <head>
@@ -203,9 +203,8 @@ permalink: /docs/ADP/
                      
 > Ligand recognition
                 
-<font >
-<p>Chemical structures of ADP, dADP, CDP and dCDP. The apparent K<sub>D</sub> of each compound is shown on bottom<sup>[4]</sup>.<br /><br /></p>
-</font>
+
+<p>Chemical structures of ADP, dADP, CDP and dCDP. The apparent K<sub>D</sub> of each compound is shown on bottom<sup>[4]</sup>.</p>
 <table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;">
 <tr>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
@@ -213,27 +212,27 @@ permalink: /docs/ADP/
 </td>
 </tr>
 </table>
-<p><br /></p>
+<br /><br>
                  
 <p class="header_box" id="references">References</p>
                 
 <p><strong>[1] New RNA motifs suggest an expanded scope for riboswitches in bacterial genetic control.</strong><br />
 Barrick, J. E. et al.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/15096624/" target="_blank">Proc. Natl. Acad. Sci. U. S. A. 101, 6421–6426 (2004).</a>
-<br /><br /></p>
+<br /></p>
                 
 <p><strong>[2] Metabolism of Free Guanidine in Bacteria Is Regulated by a Widespread Riboswitch Class.</strong><br />
 Nelson, J. W., Atilho, R. M., Sherlock, M. E., Stockbridge, R. B. & Breaker, R. R.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/27989440/" target="_blank">Mol. Cell 65, 220–230 (2017).</a>
-<br /><br /></p>
+<br /></p>
                 
 <p><strong>[3] Tandem riboswitches form a natural Boolean logic gate to control purine metabolism in bacteria.</strong><br />
 Sherlock, M. E., Sudarsan, N., Stav, S. & Breaker, R. R.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/29504937/" target="_blank">Elife 7, (2018).</a>
-<br /><br /></p>
+<br /></p>
                 
 <p><strong>[4] Variant Bacterial Riboswitches Associated with Nucleotide Hydrolase Genes Sense Nucleoside Diphosphates.</strong><br />
 Sherlock, M. E., Sadeeshkumar, H. & Breaker, R. R.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/30081631/" target="_blank">Biochemistry 58, 401–410 (2019).</a>
-<br /><br /></p>
+<br /></p>
                 

@@ -127,7 +127,7 @@ permalink: /docs/Magnesium/
   </div>
 </div>
 </html>
-<p><br /></p>
+<br><br>
          
 <p class="header_box" id="description">Description</p>
 <font >The Ykok leader or M-box is a Mg-sensing RNA structure that controls the expression of Magnesium ion transport proteins in bacteria. It is a distinct structure to the Magnesium responsive RNA element.
@@ -138,7 +138,7 @@ The Magnesium responsive RNA element, not to be confused with the completely dis
              
 > Gene association
             
-<font >Mg<sup>2+</sup> riboswitch in <i>Salmonella enterica</i>. Magnesium-responsive regulatory pathways in the bacteria <i>Salmonella enterica</i> by the two-component regulatory system consisting of PhoQ, the membrane-bound sensor kinase, and PhoP, a transcription regulator. PhoP, which is phosphorylated, affects more than 100 genes in response to fluctuations in the Mg<sup>2+</sup> concentration. The regulatory system PhoQ/PhoP is a two-component system activated in low magnesium levels or by cationic peptides. Genes regulated by PhoP-PhoQ are depicted in grey boxes and ovals<sup>[6]</sup>.</font>
+<p>Mg<sup>2+</sup> riboswitch in <i>Salmonella enterica</i>. Magnesium-responsive regulatory pathways in the bacteria <i>Salmonella enterica</i> by the two-component regulatory system consisting of PhoQ, the membrane-bound sensor kinase, and PhoP, a transcription regulator. PhoP, which is phosphorylated, affects more than 100 genes in response to fluctuations in the Mg<sup>2+</sup> concentration. The regulatory system PhoQ/PhoP is a two-component system activated in low magnesium levels or by cationic peptides. Genes regulated by PhoP-PhoQ are depicted in grey boxes and ovals<sup>[6]</sup>.</p>
 <table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;">
 <tr >
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
@@ -160,12 +160,12 @@ The Magnesium responsive RNA element, not to be confused with the completely dis
   </td>
 </tr>
 </table>
-<p><br /></p>
+<br><br>
                          
 <p class="header_box" id="Structure and Ligand recognition">Structure and Ligand recognition</p>
 > 2D representation
         
-<font >Top: Consensus sequence and secondary structure model for the Mg<sup>2+</sup>-I riboswitch. Bottom: Secondary structure depictions of the Mg<sup>2+</sup>-I riboswitch according to PDB ID: 2QBZ. Secondary structure shows the positions of inner- and outer-sphere contacts using shaded and open symbols, respectively, for the six Mg<sup>2+</sup> coordinated to the RNA. Each Mg<sup>2+</sup> has a unique symbol denoted in the legend<sup></sup>.</font><br>
+<p>Top: Consensus sequence and secondary structure model for the Mg<sup>2+</sup>-I riboswitch. Bottom: Secondary structure depictions of the Mg<sup>2+</sup>-I riboswitch according to PDB ID: 2QBZ. Secondary structure shows the positions of inner- and outer-sphere contacts using shaded and open symbols, respectively, for the six Mg<sup>2+</sup> coordinated to the RNA. Each Mg<sup>2+</sup> has a unique symbol denoted in the legend<sup></sup>.</p><br>
 <html>
 <div>
     <div class="entry-content clearfix" itemprop="articleBody description" style="overflow: auto;">
@@ -284,9 +284,9 @@ The Magnesium responsive RNA element, not to be confused with the completely dis
     });
 </script>
 </html>
-<p><br></p>
+ <p><br /></p>
                     
-<font >Left: Consensus sequence and secondary structure model for the Mg<sup>2+</sup>-II riboswitch<sup></sup>.</font><br>
+<p>Left: Consensus sequence and secondary structure model for the Mg<sup>2+</sup>-II riboswitch<sup></sup>.</p><br>
 <table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
 <head>
@@ -340,7 +340,7 @@ The Magnesium responsive RNA element, not to be confused with the completely dis
 > 3D visualisation
                 
 <font >The structure of the M-box riboswitch aptamer domain was generated from PDB ID: 2QBZ at 2.60 Å resolution. Six magnesiums are labeled in red <sup>[3]</sup>.</font>
-<div ><p style="text-align:right;margin-bottom: 0px;">(Clicking the "Settings/Controls info" to turn Spin off)</p>
+<div ><p style="text-align:right;margin-bottom: 0px;">(Clicking the "Settings/Controls info" to turn Spin off)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
   <table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
   <img src="/images/3D/Mg2+-I_riboswitch_3D1.svg" alt="drawing" style="width:500px;margin-top: 0px;margin-bottom: 0px;" >
@@ -552,8 +552,8 @@ The Magnesium responsive RNA element, not to be confused with the completely dis
                  
 > Binding pocket
                     
-<font ><p>Left: Surface representation of the binding pocket of the Mg<sup>2+</sup>-I riboswitch generated from PDB ID: 2QBZ. Magnesiums are labeled in red.
-Right: Nucleotides that contact Mg1-3 via inner and outer sphere interactions are labeled and shown as sticks<sup>[3]</sup>.<br /></p></font>
+<p>Left: Surface representation of the binding pocket of the Mg<sup>2+</sup>-I riboswitch generated from PDB ID: 2QBZ. Magnesiums are labeled in red.
+Right: Nucleotides that contact Mg1-3 via inner and outer sphere interactions are labeled and shown as sticks<sup>[3]</sup>.</p>
 <table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;"><tr>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/Magnesium_riboswitch_ binding_pockets1.svg" alt="drawing" style="width:500px"  px="" /></td>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/Magnesium_riboswitch_ binding_pockets2.svg" alt="drawing" style="width:500px"  px="" /></td>
@@ -566,30 +566,30 @@ Right: Nucleotides that contact Mg1-3 via inner and outer sphere interactions ar
 <p><strong>[1] New RNA motifs suggest an expanded scope for riboswitches in bacterial genetic control.</strong><br />
 Barrick, J. E. et al.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/15096624/" target="_blank">Proc. Natl. Acad. Sci. U. S. A. 101, 6421–6426 (2004).</a>
-<br /><br /></p>
+<br /></p>
                 
 <p><strong>[2] An RNA sensor for intracellular Mg(2+).</strong><br />
 Cromie, M. J., Shi, Y., Latifi, T. & Groisman, E. A.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/16615891/" target="_blank">Cell 125, 71–84 (2006).</a>
-<br /><br /></p>
+<br /></p>
                 
 <p><strong>[3] Structure and mechanism of a metal-sensing regulatory RNA.</strong><br />
 Dann, C. E., 3rd et al.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/17803910/" target="_blank">Cell 130, 878–892 (2007).</a>
-<br /><br /></p>
+<br /></p>
                 
 <p><strong>[4] Multiple metal-binding cores are required for metalloregulation by M-box riboswitch RNAs.</strong><br />
 Wakeman, C. A., Ramesh, A. & Winkler, W. C.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/19619558/" target="_blank">J. Mol. Biol. 392, 723–735 (2009).</a>
-<br /><br /></p>
+<br /></p>
                 
 <p><strong>[5] Insights into metalloregulation by M-box riboswitch RNAs via structural analysis of manganese-bound complexes.</strong><br />
 Ramesh, A., Wakeman, C. A. & Winkler, W. C.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/21315082/" target="_blank">J. Mol. Biol. 407, 556–570 (2011).</a>
-<br /><br /></p>
+<br /></p>
                 
 <p><strong>[6] Bioinformatics and Genomic Analyses of the Suitability of Eight Riboswitches for Antibacterial Drug Targets.</strong><br />
 Pavlova, N. & Penchovsky, R.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/36139956/" target="_blank">Antibiotics (Basel) 11, (2022).</a>
-<br /><br /></p>
+<br /></p>
                 

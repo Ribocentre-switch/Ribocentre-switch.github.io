@@ -62,7 +62,7 @@ permalink: /helps/
 <div class="sectiontitle" style="border: 1px solid #C9C9C9; background-color: #fff;">
 <p class="header_box" >About Ribocentre-switch database</p>
 Riboswitch is designed to contain comprehensive information of all natural riboswitches. In addition to a brief introduction to riboswitch,on each riboswitch page, We offer a variety of search options, so you can search by sequence, you can also index/search about the publications, structures, catalyses and applications of riboswitches that interest you. Users are welcomed to submit new riboswitch cases or related comments through the submission portal to help us improve our database. The <code class="language-plaintext highlighter-rouge"><font color=Gray><a href="https://www.ribocentre.org/catalysis">Binding pockets</a></font></code>page sums up information from binding pockets, which is proved by  publicated works and shows classification of the riboswitch.
-And on the <code class="language-plaintext highlighter-rouge"><font color=Gray><a href="https://www.ribocentre.org/application">Applications</a></font></code> page, there are two examples displaying the application process of riboswitch in previous researches. This page will be timely updated.
+And on the <code class="language-plaintext highlighter-rouge"><font color=Gray><a href="https://www.ribocentre.org/application">Applications</a></font></code> page, there are four examples displaying the application process of riboswitch in previous researches. This page will be timely updated.
 The <code class="language-plaintext highlighter-rouge"><font color=Gray><a href="https://www.ribocentre.org/structure">Structures</a></font></code> page provides more details of riboswitches in different aspects and <code class="language-plaintext highlighter-rouge"><font color=Gray><a href="https://www.ribocentre.org/publications">Publications</a></font></code> page provide the links of single riboswitch page/structure details/publications.<br>
 </div>
 <br>
@@ -77,25 +77,25 @@ For any inquiries or concerns regarding the database, please reach out to <code 
   <p>Search channels</p>
 </blockquote>
 On <code class="language-plaintext highlighter-rouge"><font color=Gray><a href="https://www.ribocentre.org/">Home</a></font></code> page, we borrow the introduction from wikipedia, hoping you could get some basic concepts of Riboswitches. There are two search channels available in the home page, as shown below, you can switch to the Riboswitche, Binding pockets, Application, or Publication page by using the navigation bar. You can switch to a specific page by searching for keywords or sequences.
-<img src="/images/help_page/usage1.png" alt="drawing" style="width:1000px;display:block;margin:0 auto;border: 1px solid #000;border-radius: 0%">
+<img src="/images/help_page/usage1.svg" alt="drawing" style="width:1000px;display:block;margin:0 auto;border: 1px solid #000;border-radius: 0%">
 <br>
 <blockquote>
   <p>Interactive visualisation</p>
 </blockquote>
-Clink the Riboswitch name in <code class="language-plaintext highlighter-rouge"><font color=Gray><a href="https://www.ribocentre.org/ribozyme">Riboswitches</a></font></code> page, and it would send ypu to a new page which shows the timeline, structure, binding pockets information and so on of the riboswitch you choosed. For 2d structures you can slide the mouse so you can zoom in and out on the structure, for 3d structures you can use the interactive window to colour the structure or click on the zoom button on the right to go to a new page with more detailed information. We hope you can find all the information available in this database. 
-<img src="/images/help_page/usage2.png" alt="drawing" style="width:1000px;display:block;margin:0 auto;border: 1px solid #000;border-radius: 0%">
+Clink the Riboswitch name in <code class="language-plaintext highlighter-rouge"><font color=Gray><a href="https://www.ribocentre.org/ribozyme">Riboswitches</a></font></code> page, and it would send you to a new page which shows the timeline, structure, binding pockets information and so on of the riboswitch you choosed. For 2d structures you can slide the mouse so you can zoom in and out on the structure, for 3d structures you can use the interactive window to colour the structure or click on the zoom button on the right to go to a new page with more detailed information. We hope you can find all the information available in this database. 
+<img src="/images/help_page/usage2.svg" alt="drawing" style="width:1000px;display:block;margin:0 auto;border: 1px solid #000;border-radius: 0%">
 <br>
 <blockquote>
   <p>Download channels</p>
 </blockquote>
 On some pages, we use table-format to show the information of different riboswitches. You can click the <code class="language-plaintext highlighter-rouge"><font color=Gray>header</font></code> to rank the column information. You can use the <code class="language-plaintext highlighter-rouge"><font color=Gray>Search</font></code>to search for the riboswitch, years, and other information. Under the table, you could find how many items we provided in the left. The database also provide the function of download to download what you want.
-<img src="/images/help_page/usage3.png" alt="drawing" style="width:1000px;display:block;margin:0 auto;border: 1px solid #000;border-radius: 0%">
+<img src="/images/help_page/usage3.svg" alt="drawing" style="width:1000px;display:block;margin:0 auto;border: 1px solid #000;border-radius: 0%">
 <br>
 <blockquote>
   <p>Feedback channels</p>
 </blockquote>
-To keep pace with the latest developments in riboswitch research, the database will undergo regular updates. Users are actively encouraged to contribute by submitting new riboswitch cases through the feedback portal on the Help page or via direct email, their valuable input will play a crucial role in enhancing and improving the database, ensuring it better serves the research community.
-<img src="/images/help_page/usage4.png" alt="drawing" style="width:1000px;display:block;margin:0 auto;border: 1px solid #000;border-radius: 0%">
+To keep pace with the latest developments in riboswitch research, the database will undergo regular updates. Users are actively encouraged to contribute by submitting new riboswitch cases through the feedback portal on the Help page or via direct email, their valuable input will play a crucial role in enhancing and improving the database, promoting riboswitch research and foster new insights in the field.
+<img src="/images/help_page/usage4.svg" alt="drawing" style="width:1000px;display:block;margin:0 auto;border: 1px solid #000;border-radius: 0%">
 <br>
 </div>
 

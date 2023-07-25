@@ -119,7 +119,7 @@ permalink: /docs/Glutamine/
   </div>
 </div>
 </html>
-<p><br /></p>
+<br><br>
          
 <p class="header_box" id="description">Description</p>
 <font >Both Downstream-peptide RNAs and <i>glnA</i> RNAs selectively bind glutamine. <i>glnA</i> RNAs and Downstream-peptide RNAs were later named Glutamine-I and Glutamine-II riboswitch. 
@@ -129,7 +129,7 @@ The Downstream-peptide motif refers to a conserved RNA structure identified by b
              
 > Gene association
             
-<font >The pathway of glutamine riboswitches regulating glutamine synthesis<sup>[3]</sup>.</font>
+<p>The pathway of glutamine riboswitches regulating glutamine synthesis<sup>[3]</sup>.</p>
 <table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;">
 <tr >
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
@@ -151,12 +151,12 @@ The Downstream-peptide motif refers to a conserved RNA structure identified by b
   </td>
 </tr>
 </table>
-<p><br /></p>
+<br><br>
                          
 <p class="header_box" id="Structure and Ligand recognition">Structure and Ligand recognition</p>
 > 2D representation
         
-<font >Top: Consensus sequence and secondary structure model for the Glutamine-I riboswitch. Bottom: Secondary structure depictions of the Glutamine-I riboswitch according to PDB ID: 5DDR<sup>[2]</sup>.</font><br>
+<p>Top: Consensus sequence and secondary structure model for the Glutamine-I riboswitch. Bottom: Secondary structure depictions of the Glutamine-I riboswitch according to PDB ID: 5DDR<sup>[2]</sup>.</p><br>
 <html>
 <div>
     <div class="entry-content clearfix" itemprop="articleBody description" style="overflow: auto;">
@@ -275,9 +275,9 @@ The Downstream-peptide motif refers to a conserved RNA structure identified by b
     });
 </script>
 </html>
-<p><br></p>
+ <p><br /></p>
                     
-<font >Top: Consensus sequence and secondary structure model for the Glutamine-II riboswitch. Bottom: Secondary structure depictions of the Glutamine-II riboswitch according to PDB ID: 6QN3<sup>[4]</sup>.</font><br>
+<p>Top: Consensus sequence and secondary structure model for the Glutamine-II riboswitch. Bottom: Secondary structure depictions of the Glutamine-II riboswitch according to PDB ID: 6QN3<sup>[4]</sup>.</p><br>
 <html>
 <div>
     <div class="entry-content clearfix" itemprop="articleBody description" style="overflow: auto;">
@@ -396,12 +396,12 @@ The Downstream-peptide motif refers to a conserved RNA structure identified by b
     });
 </script>
 </html>
-<p><br></p>
+ <p><br /></p>
                      
 > 3D visualisation
                 
 <font >The overall structure of the Glutamine-I riboswitch was generated from PDB ID: 5DDR at 2.60 Å resolution bound with glutamine. Glutamine (shown in sticks) is labeled in red <sup>[2]</sup>.</font>
-<div ><p style="text-align:right;margin-bottom: 0px;">(Clicking the "Settings/Controls info" to turn Spin off)</p>
+<div ><p style="text-align:right;margin-bottom: 0px;">(Clicking the "Settings/Controls info" to turn Spin off)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
   <table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
   <img src="/images/3D/Glutamine_riboswitch_3D1.svg" alt="drawing" style="width:500px;margin-top: 0px;margin-bottom: 0px;" >
@@ -528,7 +528,7 @@ The Downstream-peptide motif refers to a conserved RNA structure identified by b
   <p><br /></p>
                 
 <font >The overall structure of the Glutamine-II riboswitch was generated from PDB ID: 6QN3 at 2.30 Å resolution bound with glutamine. Glutamine (shown in sticks) is labeled in red <sup>[4]</sup>.</font>
-<div ><p style="text-align:right;margin-bottom: 0px;">(Clicking the "Settings/Controls info" to turn Spin off)</p>
+<div ><p style="text-align:right;margin-bottom: 0px;">(Clicking the "Settings/Controls info" to turn Spin off)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
   <table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
   <img src="/images/3D/Glutamine_riboswitch_3D2.svg" alt="drawing" style="width:500px;margin-top: 0px;margin-bottom: 0px;" >
@@ -632,7 +632,7 @@ The Downstream-peptide motif refers to a conserved RNA structure identified by b
                  
 > Binding pocket
                     
-<font ><p>(Left)Surface representation of the binding pocket of the glutamine-I riboswitch generated from PDB ID:5DDR. Glutamine (shown in sticks) is labeled in red. (Right) The hydrogen bonds of the binding site of the glutamine-I riboswitch bound with glutamine<sup>[2]</sup>.<br /></p></font>
+<p>(Left)Surface representation of the binding pocket of the glutamine-I riboswitch generated from PDB ID:5DDR. Glutamine (shown in sticks) is labeled in red. (Right) The hydrogen bonds of the binding site of the glutamine-I riboswitch bound with glutamine<sup>[2]</sup>.</p>
 <table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;"><tr>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/Glutamine_riboswitch_binding_pockets1.svg" alt="drawing" style="width:500px"  px="" /></td>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/Glutamine_riboswitch_binding_pockets2.svg" alt="drawing" style="width:500px"  px="" /></td>
@@ -640,7 +640,7 @@ The Downstream-peptide motif refers to a conserved RNA structure identified by b
 </table>
 <p><br /></p>
                     
-<font ><p>(Left) Surface representation of the binding pocket of the glutamine-II riboswitch generated from PDB ID: 6QN3. Glutamine (shown in sticks) is labeled in red. (Right) The hydrogen bonds of the binding site of the glutamine-II riboswitch bound with glutamine<sup>[4]</sup>.<br /></p></font>
+<p>(Left) Surface representation of the binding pocket of the glutamine-II riboswitch generated from PDB ID: 6QN3. Glutamine (shown in sticks) is labeled in red. (Right) The hydrogen bonds of the binding site of the glutamine-II riboswitch bound with glutamine<sup>[4]</sup>.</p>
 <table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;"><tr>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/Glutamine_riboswitch_binding_pockets3.svg" alt="drawing" style="width:500px"  px="" /></td>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/Glutamine_riboswitch_binding_pockets4.svg" alt="drawing" style="width:500px"  px="" /></td>
@@ -650,9 +650,8 @@ The Downstream-peptide motif refers to a conserved RNA structure identified by b
                      
 > Ligand recognition
                 
-<font >
-<p>Chemical structures of glutamine and its analogs. The apparent K<sub>D</sub> of each compound of glutamine-I and glutamine-II riboswitch is shown on bottom<sup>[1]</sup>.<br /><br /></p>
-</font>
+
+<p>Chemical structures of glutamine and its analogs. The apparent K<sub>D</sub> of each compound of glutamine-I and glutamine-II riboswitch is shown on bottom<sup>[1]</sup>.</p>
 <table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;">
 <tr>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
@@ -660,27 +659,27 @@ The Downstream-peptide motif refers to a conserved RNA structure identified by b
 </td>
 </tr>
 </table>
-<p><br /></p>
+<br /><br>
                  
 <p class="header_box" id="references">References</p>
                 
 <p><strong>[1] Bacterial aptamers that selectively bind glutamine</strong><br />
 Ames, T. D. & Breaker, R. R.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/21282981/" target="_blank">RNA Biol. 8, (2011).</a>
-<br /><br /></p>
+<br /></p>
                 
 <p><strong>[2] Structural and Dynamic Basis for Low-Affinity, High-Selectivity Binding of L-Glutamine by the Glutamine Riboswitch</strong><br />
 Ren, A. et al.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/26655897/" target="_blank">Cell Rep. 13, (2015).</a>
-<br /><br /></p>
+<br /></p>
                 
 <p><strong>[3] A glutamine riboswitch is a key element for the regulation of glutamine synthetase in cyanobacteria</strong><br />
 Klähn, S. et al.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/30085248/" target="_blank">Nucleic Acids Res. 46, (2018).</a>
-<br /><br /></p>
+<br /></p>
                 
 <p><strong>[4] Structure and ligand binding of the glutamine-II riboswitch</strong><br />
 Huang, L., Wang, J., Watkins, A. M., Das, R. & Lilley, D. M. J.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/31216023/" target="_blank">Nucleic Acids Res. 47, (2019).</a>
-<br /><br /></p>
+<br /></p>
                 

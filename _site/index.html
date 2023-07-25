@@ -213,6 +213,21 @@
       
     }
         /* 弹窗样式 */
+     /*一闪一闪*/
+    .updating-text {
+      animation: updateText 2s infinite;
+      font-weight:bold;
+      color:#005826
+    }
+    @keyframes updateText {
+      0%, 100% {
+        opacity: 1;
+      }
+      50% {
+        opacity: 0.3;
+      }
+    }
+    /*一闪一闪*/
 </style>
 </head>
 <body>
@@ -294,7 +309,7 @@
     
 
 <div class="sectiontitle" style="border: 1px solid #C9C9C9; background-color: #fff;">
-<p class="header_box">Search by sequence</p>
+<p class="header_box">Search by sequence<span class="updating-text"> (Continuously updated)</span></p>
 <html>
   <head>
     <title>Sequence search</title>
@@ -316,8 +331,10 @@
 <!--<div class="well">-->
 <script async="" src="https://cse.google.com/cse.js?cx=83f482a688df849e9"></script>
 <div class="gcse-search"></div>
-<p>
-    <b>Quick links:&nbsp;</b>
+<p>&nbsp;&nbsp;<b>Example: </b>
+    <a href="https://riboswitch.ribocentre.org/#gsc.tab=0&amp;gsc.sort=&amp;gsc.q=ribo" target="_blank">Ribo</a>&nbsp;&nbsp;  
+    <a href="https://riboswitch.ribocentre.org/#gsc.tab=0&amp;gsc.sort=&amp;gsc.q=SAH" target="_blank">SAH</a>  <br />
+    &nbsp;&nbsp;<b>Quick links:&nbsp;</b>
     <a href="https://riboswitch.ribocentre.org/riboswitches/">Riboswitches</a>&nbsp;&nbsp;
     <a href="https://riboswitch.ribocentre.org/sequences/">Sequences</a>&nbsp;&nbsp;
     <a href="https://riboswitch.ribocentre.org/docs/THF/" target="_blank">THF</a>&nbsp;&nbsp;

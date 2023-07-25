@@ -158,7 +158,7 @@ permalink: /docs/Adenine/
   </div>
 </div>
 </html>
-<p><br /></p>
+<br><br>
          
 <p class="header_box" id="description">Description</p>
 <font >Carrying an aptamer domain similar in sequence and secondary structure to the guanine riboswitch, the adenine riboswitch selectively recognizes adenine, and contains a uracil ribonucleotide in position 74 of the adenine-binding aptamer domain. <i>B. subtilis ydhL</i> (also called <i>pbuE</i>) and two RNAs (<i>add</i> genes) from <i>Clostridium perfringens</i> and <i>Vibrio vulnificus</i> harbor adenine riboswitches in their mRNA elements. The <i>ydhL</i> adenine riboswitch has been shown to control gene expression through transcriptional activation, while the add adenine riboswitch controls gene expression through translational activation<sup>[3-4]</sup>.</font>
@@ -166,7 +166,7 @@ permalink: /docs/Adenine/
              
 > Gene association
             
-<font >Purine salvage, interconversion, and catabolic pathways in <i>B. subtilis</i>. It has been demonstrated that the <i>ydhL</i> gene, encoding for the putative purine efflux pump, and the <i>add</i> gene, encoding for adenine deaminase<sup>[1-4]</sup>.</font>
+<p>Purine salvage, interconversion, and catabolic pathways in <i>B. subtilis</i>. It has been demonstrated that the <i>ydhL</i> gene, encoding for the putative purine efflux pump, and the <i>add</i> gene, encoding for adenine deaminase<sup>[1-4]</sup>.</p>
 <table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;">
 <tr >
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
@@ -188,12 +188,12 @@ permalink: /docs/Adenine/
   </td>
 </tr>
 </table>
-<p><br /></p>
+<br><br>
                          
 <p class="header_box" id="Structure and Ligand recognition">Structure and Ligand recognition</p>
 > 2D representation
         
-<font >Top: Consensus sequence and secondary structure model for the adenine riboswitch. Bottom: Secondary structure depictions of the adenine riboswitch according to PDB ID: 1Y26<sup>[4]</sup>.</font><br>
+<p>Top: Consensus sequence and secondary structure model for the adenine riboswitch. Bottom: Secondary structure depictions of the adenine riboswitch according to PDB ID: 1Y26<sup>[4]</sup>.</p><br>
 <html>
 <div>
     <div class="entry-content clearfix" itemprop="articleBody description" style="overflow: auto;">
@@ -312,12 +312,12 @@ permalink: /docs/Adenine/
     });
 </script>
 </html>
-<p><br></p>
+ <p><br /></p>
                      
 > 3D visualisation
                 
 <font >The overall structure of the adenine riboswitch was generated from PDB ID: 1Y26 at 2.10 Å resolution bound with adenine. Adenine (shown in sticks) is labeled in red <sup>[4]</sup>.</font>
-<div ><p style="text-align:right;margin-bottom: 0px;">(Clicking the "Settings/Controls info" to turn Spin off)</p>
+<div ><p style="text-align:right;margin-bottom: 0px;">(Clicking the "Settings/Controls info" to turn Spin off)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
   <table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
   <img src="/images/3D/Adenine_riboswitch_3D1.svg" alt="drawing" style="width:500px;margin-top: 0px;margin-bottom: 0px;" >
@@ -475,7 +475,7 @@ permalink: /docs/Adenine/
                  
 > Binding pocket
                     
-<font ><p>Left: Surface representation of the binding pocket of the adenine riboswitch generated from PDB ID: 1Y26. Adenine (shown in sticks) is labeled in red. Right: The hydrogen bonds of the binding sites of the adenine riboswitch bound with adenine<sup>[4]</sup>.<br /></p></font>
+<p>Left: Surface representation of the binding pocket of the adenine riboswitch generated from PDB ID: 1Y26. Adenine (shown in sticks) is labeled in red. Right: The hydrogen bonds of the binding sites of the adenine riboswitch bound with adenine<sup>[4]</sup>.</p>
 <table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;"><tr>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/Adenine_riboswitch_binding_pockets1.svg" alt="drawing" style="width:500px"  px="" /></td>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/Adenine_riboswitch_binding_pockets2.svg" alt="drawing" style="width:500px"  px="" /></td>
@@ -485,9 +485,8 @@ permalink: /docs/Adenine/
                      
 > Ligand recognition
                 
-<font >
-<p>Chemical structures of adenine and its analogs. The apparent K<sub>D</sub> of each compound of the <i>ydhL</i> adenine riboswitch is shown on bottom<sup>[3]</sup>.<br /><br /></p>
-</font>
+
+<p>Chemical structures of adenine and its analogs. The apparent K<sub>D</sub> of each compound of the <i>ydhL</i> adenine riboswitch is shown on bottom<sup>[3]</sup>.</p>
 <table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;">
 <tr>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
@@ -495,62 +494,62 @@ permalink: /docs/Adenine/
 </td>
 </tr>
 </table>
-<p><br /></p>
+<br /><br>
                  
 <p class="header_box" id="references">References</p>
                 
 <p><strong>[1] Xanthine metabolism in Bacillus subtilis: characterization of the xpt-pbuX operon and evidence for purine- and nitrogen-controlled expression of genes involved in xanthine salvage and catabolism.</strong><br />
 Christiansen, L. C., Schou, S., Nygaard, P. & Saxild, H. H.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/9098051/" target="_blank">J. Bacteriol. 179, (1997).</a>
-<br /><br /></p>
+<br /></p>
                 
 <p><strong>[2] Definition of a second Bacillus subtilis pur regulon comprising the pur and  xpt-pbuX operons plus pbuG, nupG (yxjA), and pbuE (ydhL).</strong><br />
 Johansen, L. E., Nygaard, P., Lassen, C., Agersø, Y. & Saxild, H. H.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/12923093/" target="_blank">J. Bacteriol. 185, (2003).</a>
-<br /><br /></p>
+<br /></p>
                 
 <p><strong>[3] Adenine riboswitches and gene activation by disruption of a transcription terminator.</strong><br />
 Mandal, M. & Breaker, R. R.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/14718920/" target="_blank">Nat. Struct. Mol. Biol. 11, (2004).</a>
-<br /><br /></p>
+<br /></p>
                 
 <p><strong>[4] Structural Basis for Discriminative Regulation of Gene Expression by Adenine- and Guanine-Sensing mRNAs.</strong><br />
 Serganov, A. et al.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/15610857/" target="_blank">Chem. Biol. 11, (2004).</a>
-<br /><br /></p>
+<br /></p>
                 
 <p><strong>[5] The Kinetics of Ligand Binding by an Adenine-Sensing Riboswitch.</strong><br />
 Wickiser, J. K., Cheah, M. T., Breaker, R. R. & Crothers, D. M.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/16201765/" target="_blank">Biochemistry 44, (2005).</a>
-<br /><br /></p>
+<br /></p>
                 
 <p><strong>[6] Folding of the Adenine Riboswitch.</strong><br />
 Lemay, J. F., Penedo, J. C., Tremblay, R., Lilley, D. M. & Lafontaine, D. A.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/16931335/" target="_blank">Chem. Biol. 13, (2006).</a>
-<br /><br /></p>
+<br /></p>
                 
 <p><strong>[7] Riboswitch structure: an internal residue mimicking the purine ligand.</strong><br />
 Delfosse, V. et al.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/20022916/" target="_blank">Nucleic Acids Res. 38, (2010).</a>
-<br /><br /></p>
+<br /></p>
                 
 <p><strong>[8] Direct observation of cotranscriptional folding in an adenine riboswitch.</strong><br />
 Frieda, K. L. & Block, S. M.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/23087247/" target="_blank">Science 338, (2012).</a>
-<br /><br /></p>
+<br /></p>
                 
 <p><strong>[9] Structures of riboswitch RNA reaction states by mix-and-inject XFEL serial crystallography.</strong><br />
 Stagno, J. R. et al.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/27841871/" target="_blank">Nature 541, (2017).</a>
-<br /><br /></p>
+<br /></p>
                 
 <p><strong>[10] A structural intermediate pre-organizes the add adenine riboswitch for ligand recognition.</strong><br />
 St-Pierre, P. et al.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/33963862/" target="_blank">Nucleic Acids Res. 49, (2021).</a>
-<br /><br /></p>
+<br /></p>
                 
 <p><strong>[11] Repurposing an adenine riboswitch into a fluorogenic imaging and sensing tag.</strong><br />
 Dey, S. K. et al.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/34937909/" target="_blank">Nat. Chem. Biol. 18, 180–190 (2022).</a>
-<br /><br /></p>
+<br /></p>
                 
