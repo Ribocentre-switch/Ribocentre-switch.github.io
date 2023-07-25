@@ -401,6 +401,7 @@ The Downstream-peptide motif refers to a conserved RNA structure identified by b
 > 3D visualisation
                 
 <font >The overall structure of the Glutamine-I riboswitch was generated from PDB ID: 5DDR at 2.60 Å resolution bound with glutamine. Glutamine (shown in sticks) is labeled in red <sup>[2]</sup>.</font>
+<div ><p style="text-align:right;margin-bottom: 0px;">(Clicking the "Settings/Controls info" to turn Spin off)</p>
   <table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
   <img src="/images/3D/Glutamine_riboswitch_3D1.svg" alt="drawing" style="width:500px;margin-top: 0px;margin-bottom: 0px;" >
@@ -414,7 +415,7 @@ The Downstream-peptide motif refers to a conserved RNA structure identified by b
       <title>PDBe Molstar</title>
       <!-- Molstar CSS & JS -->
       <link rel="stylesheet" type="text/css" href="https://www.ebi.ac.uk/pdbe/pdb-component-library/css/pdbe-molstar-1.2.1.css">
-      <script src="https://www.ebi.ac.uk/pdbe/pdb-component-library/js/pdbe-molstar-plugin-1.2.1.js"></script>
+      <script src="/js/mol/ro_pdbe-molstar-plugin-1.2.1.js"></script>
         <style>
           * {
               margin: 0;
@@ -513,13 +514,21 @@ The Downstream-peptide motif refers to a conserved RNA structure identified by b
         }
       var viewerContainer1 = document.getElementById('myViewer1');
       viewerInstance1.render(viewerContainer1, options1);
+  window.addEventListener('load', function() {
+    var colorSelectionButton1 = document.querySelector('.controlsSection1 button');
+    colorSelectionButton1.click();
+  });
+
+
     </script>
     </body>
     </html></td>
   </tr></table><br>
+  </div>
   <p><br /></p>
                 
 <font >The overall structure of the Glutamine-II riboswitch was generated from PDB ID: 6QN3 at 2.30 Å resolution bound with glutamine. Glutamine (shown in sticks) is labeled in red <sup>[4]</sup>.</font>
+<div ><p style="text-align:right;margin-bottom: 0px;">(Clicking the "Settings/Controls info" to turn Spin off)</p>
   <table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
   <img src="/images/3D/Glutamine_riboswitch_3D2.svg" alt="drawing" style="width:500px;margin-top: 0px;margin-bottom: 0px;" >
@@ -533,7 +542,7 @@ The Downstream-peptide motif refers to a conserved RNA structure identified by b
       <title>PDBe Molstar</title>
       <!-- Molstar CSS & JS -->
       <link rel="stylesheet" type="text/css" href="https://www.ebi.ac.uk/pdbe/pdb-component-library/css/pdbe-molstar-1.2.1.css">
-      <script src="https://www.ebi.ac.uk/pdbe/pdb-component-library/js/pdbe-molstar-plugin-1.2.1.js"></script>
+      <script src="/js/mol/ro_pdbe-molstar-plugin-1.2.1.js"></script>
         <style>
           * {
               margin: 0;
@@ -608,10 +617,17 @@ The Downstream-peptide motif refers to a conserved RNA structure identified by b
         }
       var viewerContainer2 = document.getElementById('myViewer2');
       viewerInstance2.render(viewerContainer2, options2);
+  window.addEventListener('load', function() {
+    var colorSelectionButton2 = document.querySelector('.controlsSection2 button');
+    colorSelectionButton2.click();
+  });
+
+
     </script>
     </body>
     </html></td>
   </tr></table><br>
+  </div>
   <p><br /></p>
                  
 > Binding pocket

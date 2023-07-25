@@ -3,7 +3,7 @@ title: "Ribocentre - Home"
 layout: homelay
 excerpt: "Ribocentre: A ribozyme database"
 sitemap: false
-permalink: /home_v1s/
+permalink: /home_v2/
 ---
 <html lang="zh-cn">
 <head>
