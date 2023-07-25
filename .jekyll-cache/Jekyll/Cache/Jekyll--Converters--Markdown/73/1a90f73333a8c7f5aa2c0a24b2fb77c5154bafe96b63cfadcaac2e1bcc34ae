@@ -1,124 +1,4 @@
-<!DOCTYPE html>
-<html>
-
-  <head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Riboswitch - Home</title>
-  <meta name="description" content="Riboswitch: A riboswitch database">
-  <!--<link rel="stylesheet" href="http://localhost:4002/css/main.css>-->
-  <link rel="stylesheet" href="/css/main.css">
-  <link rel="canonical" href="http://localhost:4002/">
-  <link rel="shortcut icon" type ="image/x-icon" href="http://localhost:4002/images/favicon.ico">
-
-
-
-</head>
-
-
-  <body>
-    
-	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-  
-<div class="navbar navbar-default navbar-fixed-top" role="navigation">
-  <style>
-		.navbar-default .navbar-brand {
-    color: #ffffff;
-		}
-        .navbar {
-            background-color: #005826;
-        }
-		#now a{
-			color:#fff;
-			font-size: 20px;
-		}
-		#now a:hover{
-			font-size: 20px;
-		}
-	
-		
-	li {
-		float: left;
-	}
-
-	li a {
-		display: block;
-		color: rgb(254, 247, 247);
-		text-align: center;
-		padding: 14px 16px;
-		text-decoration: none;
-	}
-
-	li a:hover:not(.active) {
-		background-color: #005826;
-	}
-
-	li a.active {
-		background-color: #000000;
-}
-</style>
-
-
-
-  <div class="container-fluid2">
-	<div class="navbar-header">
-	  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse-1" aria-expanded="false">
-		<span class="sr-only">Toggle navigation</span>
-		<span class="icon-bar"></span>
-		<span class="icon-bar"></span>
-		<span class="icon-bar"></span>
-	  </button>
-	
-    <a class="navbar-brand" href="https://riboswitch.ribocentre.org/">
-		
-		<img class="navbar-brand" src="/images/Riboswitch_logo_bggreen.png" style='height:50px;margin-top:-14px;margin-bottom:0;padding:0;font-size: 20px; ' alt="logo">
-		&nbsp;Ribocentre-switch 
-	</a>
-	</div>
-	<div class="collapse navbar-collapse" id="navbar-collapse-1">
-	  <ul class="nav navbar-nav navbar-right" style="margin-right: 0px;">
-		<li id="now" ><a href="http://localhost:4002/">Home</a></li>
-		<li id="now"><a href="http://localhost:4002/riboswitches/">Riboswitches</a></li>
-		<li id="now"><a href="http://localhost:4002/orphan_riboswitch/">Orphan riboswitches</a></li>
-		<li id="now"><a href="http://localhost:4002/sequences/">Sequences</a></li>
-		<li id="now"><a href="http://localhost:4002/structures/">Structures</a></li>
-		<li id="now"><a href="http://localhost:4002/binding_pockets/">Binding pockets</a></li>
-		<li id="now"><a href="http://localhost:4002/applications/">Applications</a></li>
-		<li id="now"><a href="http://localhost:4002/publications/">Publications</a></li>
-		<li id="now"><a href="http://localhost:4002/helps/">Help</a></li>
-	  </ul>
-	  <script>
-		window.addEventListener("DOMContentLoaded", function() {
-		  // 获取当前页面的URL
-		  var currentURL = window.location.href;
-		  
-		  // 获取所有导航按钮
-		  var navButtons = document.querySelectorAll("li a");
-		  
-		  // 遍历导航按钮
-		  navButtons.forEach(function(button) {
-				// 获取按钮的链接
-				var buttonURL = button.href;
-				
-				// 比较URL是否与当前页面的URL匹配
-				if (currentURL === buttonURL) {
-				  // 设置匹配的按钮为激活状态
-				  button.classList.add("active");
-				}
-		  });
-		});
-		</script>
-	  
-				
-   </div>
-  </div>
-</div>
-    
-      <div class="container-fluid">
-        <div class="row">
-            <div id="homeid" >
-	<html lang="zh-cn">
+I"3$<html lang="zh-cn">
 <head>
 <meta charset="utf-8" /> 
 
@@ -178,11 +58,6 @@
     border-radius: 0%; }
     
     /* 弹窗样式 */
-      .click-here {
-      cursor: pointer;
-      font-weight: bold;
-      color: #005826; /* Add the green color */
-    }
         .popup {
             display: none;
             position: fixed;
@@ -209,28 +84,26 @@
             cursor: pointer;
         }
         .popup-title {
-      font-size: 24px;
-      
+      font-size: 20px;
+      font-weight: bold;
     }
         /* 弹窗样式 */
 </style>
 </head>
 <body>
-  <!-- 弹窗内容开始 -->
+  <!-- 弹窗内容 -->
     <div class="popup" id="myPopup">
         <div class="popup-title">
       <img class="popup-image" src="/images/light.svg" alt="Image" />
       Need helps
     </div>
         <a href="https://riboswitch.ribocentre.org/helps/" class="hidden-link" target="_blank"></a>
-      How to use the database, <span onclick="openLink()" class="click-here">click here</span><br />
-      <a href="https://docs.google.com/spreadsheets/u/1/d/1QWMju5Y1uzZ9tL10eDpD7j4IMYvkP9VWAkgVgvU8HqY/edit?usp=sharing" class="hidden-link" target="_blank"></a>
-      How to provide feedback, <span onclick="openLink()" class="click-here">click here</span>
-        
+      How to use the database, <span onclick="openLink()" style="cursor: pointer; text-decoration: underline;">Click here</span>
+        <p>How to provide feedback, click here</p>
         <button class="close-btn" onclick="closePopup()">Close pop-up window</button>
     </div>
 
-  <!-- 弹窗内容结束 -->
+  <!-- 引入 popup.js -->
  
 <div class="wrapper box_style">
 <br />
@@ -374,65 +247,4 @@
 
 
 </section></div></div></body></html>
-
-  </div>
-  <br>
-  <br>
-  <script>
-    // Use JavaScript to detect device type and adjust page zoom
-    if (/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)) {
-      var viewport = document.querySelector('meta[name="viewport"]');
-      viewport.setAttribute('content', 'width=device-width, initial-scale=0.5, maximum-scale=1.0, user-scalable=yes');
-      document.body.style.zoom = "50%";
-    }
-  </script>
-
-
-        </div>
-      </div>
-    <div id="footer" class="panel">
-  <div class="panel-footer">
-	<!--<div class="container-fluid2">-->
-	<div class="container-fluid2">
-	  <div class="row">
-		<div class="col-sm-4">
-			
-		  <p>&copy 2023 Ribocentre. Site made with <a href="https://jekyllrb.com">Jekyll</a>;  <a href="https://www.ribocentre.org/aboutwebsite.html">copy and  modify it for your own research group.</a></p>
-              <p>We are part of the <a href="https://gzlab.ac.cn">Guangzhou Laboratory</a> and <a href="http://www.gzsys.org.cn/">Sun Yat-sen Memorial Hospital of Sun Yat-sen University</a>.</p>
-            
-
-		   <p>  </p><p>
-            		  
-            
-		</div>
-		<div class="col-sm-4">
-		  Funding:<br />
-		  - <a href="https://www.nsfc.gov.cn/">NSFC</a> <br />
-		  - <a href="http://www.most.gov.cn/">MOST IT+BT project</a> <br />
-          - <a href="https://gzlab.ac.cn">GZlab starting grant</a><br />
-		  <br>
-		  <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
-		  <!--<span class="glyphicon glyphicon-user"></span>&nbsp;&nbsp;<span id="busuanzi_container_site_uv"><strong>: <a href=""><span id="busuanzi_value_site_uv"></span></strong></a> </span> &nbsp;&nbsp;
-		  !--><span class="glyphicon glyphicon-eye-open"></span>&nbsp;&nbsp;<span id="busuanzi_container_site_pv"><strong>: <a href=""><span id="busuanzi_value_site_pv"></span></strong></a> </span>
-
-		</div>
-		<div class="col-sm-4">
-		  Contact:<br />
-		  Building B2, Guangzhou Laboratory<br />
-		  96 Xingdao South Road, Guangzhou International Bio Island, <br />
-		  Haizhu District, Guangzhou, Guangdong,<br />
-		  China. <br />
-          (<a href="https://goo.gl/maps/hDLr6siEAS2Eaypt8">Maps</a>)
-		</div>
-	  </div>
-	</div>
-  </div>
-</div>
-
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-<script src="https://www.ribocentre.org/js/bootstrap.min.js"></script>
-
-
-  </body>
-
-</html>
+:ET
