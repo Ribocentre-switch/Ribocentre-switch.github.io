@@ -5,81 +5,132 @@ excerpt: "Riboswitches: A riboswitch database"
 sitemap: True
 permalink: /binding_pockets/
 ---
+
 <h1 class="post-title" itemprop="name headline">Binding Pockets</h1>
 This page shows some of the comparisons of the binding pockets from different riboswitches. We sorted out three comparisons, ‘Purine riboswitches family’, ‘SAM riboswitches family’, and ‘Guanidine riboswitches family’ as shown in the following figures.
 <br>
 <br>
+
 <html>
 <head>
   <title>横向排列的点击按钮</title>
   <style>
-    .header_box {border: none;
-      background: #efefef;
-      font-size:24px
+    /* 按钮容器样式 */
+    .button-container {
+      display: flex;
+      justify-content: left;
+      align-items: center;
+      height: 50px;
+    }
+    
+    /* 按钮样式 */
+    .button {
+      display: block;
+      padding: 10px;
+      font-size:24px;
+      margin-right: 10px;
+      text-align: center;
+      background-color: #efefef;
+      color: #005826;
+      text-decoration: none;
+      border: 1px solid #005826;
+      border-radius: 5px;
+      
+    }
+    
+    
+    /* 鼠标悬停样式 */
+    .button:hover {
+      background-color: #999;
+      cursor: pointer;
+    }
+    .header_box {
+    border: none;
+    background: #efefef;
+    font-size:24px
   }
   blockquote {
   margin: 0 0 0p}
   </style>
 </head>
 <body>
-
+<p id="Purine_riboswitches_family"> </p>
+  <p style="font-size: 16px">Click the buttons to navigate to different sections:</p>
+  <div class="button-container">
+    <a class="button" href="#Purine_riboswitches_family" >Purine riboswitches family</a>
+    <a class="button" href="#SAM_riboswitches_family">SAM riboswitches family</a>
+    <a class="button" href="#Guanidine_riboswitches_family">Guanidine riboswitches family</a>
+  </div>
 </body>
 </html>
+<br><br> 
         
 <p class="header_box" >Purine riboswitches family</p>
         
 Purine riboswitches family share a similar three-way junction to position highly conserved nucleotides and form a similar ligand-binding site<sup>[1, 3, 5, 7, 9]</sup>. Members of purine riboswitches family have altered ligand specificity, wherein some classes sense guanine<sup>[1]</sup>, some classes sense adenine<sup>[3]</sup> and others sense the nucleoside 2’-deoxyguanosine (2’-dG)<sup>[5, 7, 9]</sup>. Up to now, four classes of riboswitches have atomic-resolution structural models<sup>[2, 4, 6, 8]</sup>, which allow us to find out and reveal the significant nucleotides in the recognition of purine moiety as shown in the figure below. Carrying mutations in the conserved locations of the binding pocket, each member of purine riboswitches family alters the affinity for different purine molecules.
-<img src="/images/summary_binding_pockets/BP_Purine_riboswitches_family1.svg" alt="drawing" style="width:800px;display:block;margin:0 auto;border:solid 1px;border-radius:0;" class="img-responsive">
+<div style="width:1000px;display:block;margin:0 auto;border:solid 1px;border-radius:0;">
+<img src="/images/summary_binding_pockets/BP_Purine_riboswitches_family1.svg" alt="drawing" class="img-responsive">
+</div>
 <div style="display: flex; justify-content: center;">
-<a href="/images/summary_binding_pockets/BP_Purine_riboswitches_family1.svg" target="_blank" download="BP_Purine_riboswitches_family1.svg.svg"><button class="btn btn-secondary"><span class="glyphicon glyphicon-download-alt"></span>&nbsp;&nbsp;Download FIGURE</button></a><br><br>    
+<a href="/images/downloads/binding_pockets/BP_Purine_riboswitches_family1.pdf" target="_blank" download="BP_Purine_riboswitches_family1.svg.svg"><button class="btn btn-secondary"><span class="glyphicon glyphicon-download-alt"></span>&nbsp;&nbsp;Download FIGURE</button></a><br><br>   
 </div>           
             
 Three classes of 2’-dG riboswitches, named 2’-dG-I, 2’-dG-II and 2’-dG-III, exist in purine riboswitches family, wherein the first two classes of 2'-dG riboswitches have atomic-resolution structural models<sup>[6, 8]</sup>. Although 2’-dG-II has some additional nucleotides insertion in its three-way junction compared with 2’-dG-I, both of them use almost the same ligand binding strategy and the extra insertion of 2’-dG-II only makes some effect on its affinity with 2’-dG.
-<img src="/images/summary_binding_pockets/BP_Purine_riboswitches_family2.svg" alt="drawing" style="width:800px;display:block;margin:0 auto;border:solid 1px;border-radius:0;" class="img-responsive">
+<div style="width:1000px;display:block;margin:0 auto;border:solid 1px;border-radius:0;">
+<img src="/images/summary_binding_pockets/BP_Purine_riboswitches_family2.svg" alt="drawing" class="img-responsive">
+</div>
 <div style="display: flex; justify-content: center;">
-<a href="/images/summary_binding_pockets/BP_Purine_riboswitches_family2.svg" target="_blank" download="BP_Purine_riboswitches_family2.svg.svg"><button class="btn btn-secondary"><span class="glyphicon glyphicon-download-alt"></span>&nbsp;&nbsp;Download FIGURE</button></a><br><br>    
+<a href="/images/downloads/binding_pockets/BP_Purine_riboswitches_family2.pdf" target="_blank" download="BP_Purine_riboswitches_family2.svg.svg"><button class="btn btn-secondary"><span class="glyphicon glyphicon-download-alt"></span>&nbsp;&nbsp;Download FIGURE</button></a><br><br>   
 </div>           
             
+<p id="SAM_riboswitches_family"> </p>
 <br><br>
 <p class="header_box" >SAM riboswitches family</p>
         
-In the SAM riboswitch family, there are three families with similarity, they are SAM-I , SAM-IV , SAM-I/IV, whose members share a common binding core but have widely divergent peripheral architectures. Structures of the these families revealed that S-adenosylmethionine is recognized by features within and surrounding a central four-way junction . Nucleotides crucial for effector binding, along with the secondary structural features in which they are embedded, are nearly invariant within the clan. The structure of the PK-2 subdomain and its relationship to the SAM-binding core was unknown. The SAM-I/IV family lacks the PK-1 subdomain, only having the PK-2 subdomain of the SAM-IV family<sup>[10]</sup>.
-<img src="/images/summary_binding_pockets/nan" alt="drawing" style="width:800px;display:block;margin:0 auto;border:solid 1px;border-radius:0;" class="img-responsive">
-<div style="display: flex; justify-content: center;">
-<a href="/images/summary_binding_pockets/nan" target="_blank" download="nan.svg"><button class="btn btn-secondary"><span class="glyphicon glyphicon-download-alt"></span>&nbsp;&nbsp;Download FIGURE</button></a><br><br>    
-</div>           
+In the SAM riboswitch family, there are three families with similarities, they are SAM-I, SAM-IV, SAM-I/IV, whose members share a common binding core but have widely divergent peripheral architectures. Structures of these families revealed that S-adenosylmethionine is recognized by features within and surrounding a central four-way junction. Nucleotides crucial for effector binding, along with the secondary structural features in which they are embedded, are nearly invariant within the clan. The structure of the PK-2 subdomain and its relationship to the SAM-binding core was unknown. The SAM-I/IV family lacks the PK-1 subdomain, only having the PK-2 subdomain of the SAM-IV family<sup>[10]</sup>.<br><br>           
             
 Cartoon of the secondary structure of the three families of the SAM clan of riboswitches. The binding pocket regions and peripheral subdomains of the three families are shown, along with the bases that interact with the periphery and the SAM is highlighted in purple, bases interacting with SAM are indicated by red circles.
-<img src="/images/summary_binding_pockets/BP_SAM_riboswitches_family1.svg" alt="drawing" style="width:800px;display:block;margin:0 auto;border:solid 1px;border-radius:0;" class="img-responsive">
+<div style="width:800px;display:block;margin:0 auto;border:solid 1px;border-radius:0;">
+<img src="/images/summary_binding_pockets/BP_SAM_riboswitches_family1.svg" alt="drawing" class="img-responsive">
+</div>
 <div style="display: flex; justify-content: center;">
-<a href="/images/summary_binding_pockets/BP_SAM_riboswitches_family1.svg" target="_blank" download="BP_SAM_riboswitches_family1.svg.svg"><button class="btn btn-secondary"><span class="glyphicon glyphicon-download-alt"></span>&nbsp;&nbsp;Download FIGURE</button></a><br><br>    
+<a href="/images/downloads/binding_pockets/BP_SAM_riboswitches_family1..pdf" target="_blank" download="BP_SAM_riboswitches_family1.svg.svg"><button class="btn btn-secondary"><span class="glyphicon glyphicon-download-alt"></span>&nbsp;&nbsp;Download FIGURE</button></a><br><br>    
 </div>           
             
-As illustrated in following figure： The binding pockets of the three families are very similar, and they are basically identical with the surrounding bases. Taking SAM-I riboswitch for example, SAM (in red color) forms a base triple with A45, U57 and C47, the ribose moiety of SAM forms one hydrogen bond with the ribose of C47, G58, G44 and G11 interact with the methionine tail of SAM, Electrostatic interaction between the positively charged sulfonium moiety of SAM and U7 and U88. SAM-IV, SAM-I/IV binding to SAM-I is highly similar, and since SAM-IV was resolved by cryo-electron microscopy, as the resolution was not sufficient to determine the conformation of the SAM binding pocket. However, it has been verified that the position of the ligand of SAM-IV coincided with the location of the ligand derived from the SAM-I crystal structure<sup>[11]</sup>.
-<img src="/images/summary_binding_pockets/BP_SAM_riboswitches_family2.svg" alt="drawing" style="width:800px;display:block;margin:0 auto;border:solid 1px;border-radius:0;" class="img-responsive">
+As illustrated in the following figure: the binding pockets of the three families are very similar, and they are almost identical to the surrounding bases. Taking SAM-I riboswitch for example: the purine moiety of C47, G58, C44 and G11 interact with the methionine tail of SAM. SAM (in red color) forms a base triple with A45, U57 and C47. The ribose moiety of SAM forms one hydrogen bond with C47, and the adenine ring of SAM forms two hydrogen bonds with U57 and A45. Electrostatic interaction between the positively charged sulfonium moiety of SAM and U7 and U88. SAM-IV, SAM-I/IV binding to SAM is highly similar to SAM-I, and since SAM-IV was resolved by cryo-electron microscopy, the resolution was not sufficient to determine the conformation of the SAM binding pocket. However, it has been verified that the position of the ligand of SAM-IV coincided with the location of the ligand derived from the SAM-I crystal structure<sup>[11]</sup>.
+<div style="width:800px;display:block;margin:0 auto;border:solid 1px;border-radius:0;">
+<img src="/images/summary_binding_pockets/BP_SAM_riboswitches_family2.svg" alt="drawing" class="img-responsive">
+</div>
 <div style="display: flex; justify-content: center;">
-<a href="/images/summary_binding_pockets/BP_SAM_riboswitches_family2.svg" target="_blank" download="BP_SAM_riboswitches_family2.svg.svg"><button class="btn btn-secondary"><span class="glyphicon glyphicon-download-alt"></span>&nbsp;&nbsp;Download FIGURE</button></a><br><br>    
+<a href="/images/downloads/binding_pockets/BP_SAM_riboswitches_family2..pdf" target="_blank" download="BP_SAM_riboswitches_family2.svg.svg"><button class="btn btn-secondary"><span class="glyphicon glyphicon-download-alt"></span>&nbsp;&nbsp;Download FIGURE</button></a><br><br>    
 </div>           
             
-These SAM-II riboswitches and SAM-V riboswitches are typically short sequences, which allowed the full crystal structure, rather than just an aptamer domain, to be determined in complex with SAM. The structurally related SAM-V riboswitch is widespread in marine bacteria. Like SAM-II, it appears to control expression mainly by SD sequestration. Its predicted binding site is very similar to that of SAM-II<sup>[12]</sup>. A clear similarity exists between the SAM-V and SAM-II riboswitches, and noted a strong similarity in secondary structure between the two riboswitches. Both sequences suggested the formation of a pseudoknot. However, the two riboswitches have a different bacterial distribution, and the majority of the SAM-II riboswitches are transcriptional whereas the SAM-V riboswitch is translational. A major difference appeared to be that an additional 3’ helix P2a was proposed for the SAM-II riboswitch. However, we now find that the structures of SAM-II and SAM-V are closely similar, and their manner of binding the SAM ligand virtually identical<sup>[13]</sup>.
-<img src="/images/summary_binding_pockets/BP_SAM_riboswitches_family3.svg" alt="drawing" style="width:800px;display:block;margin:0 auto;border:solid 1px;border-radius:0;" class="img-responsive">
+These SAM-II riboswitches and SAM-V riboswitches are typically short sequences, which allowed the full crystal structure, rather than just an aptamer domain, to be determined in complex with SAM. The structurally related SAM-V riboswitch is widespread in marine bacteria. Like SAM-II, it appears to control expression mainly by SD sequestration. Its predicted binding site is very similar to that of SAM-II<sup>[12]</sup>. A clear similarity exists between the SAM-V and SAM-II riboswitches and noted a strong similarity in secondary structure between the two riboswitches. Both sequences suggested the formation of a pseudoknot. However, the two riboswitches have a different bacterial distribution, and the majority of the SAM-II riboswitches are transcriptional whereas the SAM-V riboswitch is translational. A major difference appeared to be that an additional 3' helix P2a was proposed for the SAM-II riboswitch. However, we now find that the structures of SAM-II and SAM-V are closely similar, and their manner of binding the SAM ligand is virtually identical<sup>[13]</sup>.
+<div style="width:800px;display:block;margin:0 auto;border:solid 1px;border-radius:0;">
+<img src="/images/summary_binding_pockets/BP_SAM_riboswitches_family3.svg" alt="drawing" class="img-responsive">
+</div>
 <div style="display: flex; justify-content: center;">
-<a href="/images/summary_binding_pockets/BP_SAM_riboswitches_family3.svg" target="_blank" download="BP_SAM_riboswitches_family3.svg.svg"><button class="btn btn-secondary"><span class="glyphicon glyphicon-download-alt"></span>&nbsp;&nbsp;Download FIGURE</button></a><br><br>    
+<a href="/images/downloads/binding_pockets/BP_SAM_riboswitches_family3..pdf" target="_blank" download="BP_SAM_riboswitches_family3.svg.svg"><button class="btn btn-secondary"><span class="glyphicon glyphicon-download-alt"></span>&nbsp;&nbsp;Download FIGURE</button></a><br><br>    
 </div>           
             
-As illustrated in following figure: The binding pockets of SAM-II and SAM-V are very similar, and so are the interacting bases. So Taking SAM-II riboswitch for example. The adenine ring and ribose of SAM are recognized by U44, U11 and G22. It's a little bit different here and SAM-V, there is a hydrogen bond between G10 and the adenine ring of SAM. However, SAM-V have not. The SAM adenine stacks between G22 and A45. Electrostatic interaction between the positively charged sulfonium moiety of SAM and O4 of U11 and U21, and the methionine tail hydrogen bonds with A47. A47 also forms hydrogen bonds with A19.The electrostatic interactions of the positively charged SAM sulfonium also contribute to the high binding selectivity of SAM-V riboswitch to SAM. One Mg2+ cation was also found to be involved in ligand binding, which forms a water-mediated coordination with the carboxyl group of SAM and direct coordination to U10.In SAM-V riboswitch, the adenine is base paired via its Hoogsteen edge, and the aminoacyl group is hydrogen bonded to two nucleobases, but there is no equivalent of the U20:A48. U9 triple that might make an electrostatic interaction with the sulfonium in a similar manner.
-<img src="/images/summary_binding_pockets/BP_SAM_riboswitches_family4.svg" alt="drawing" style="width:800px;display:block;margin:0 auto;border:solid 1px;border-radius:0;" class="img-responsive">
+As illustrated in the following figure: the binding pockets of SAM-II and SAM-V are very similar, and so are the interacting bases. So taking SAM-II riboswitch for example: The SAM methionine tail hydrogen bonds with A47. A47 also forms hydrogen bonds with A19. The adenine ring and ribose of SAM are recognized by U44, U10 and G22. It's a little bit different here and SAM-V, there is a hydrogen bond between U8 and the adenine ring of SAM in SAM-V riboswitches. The SAM adenine stacks between G22 and A45. Electrostatic interaction between the positively charged sulfonium moiety of SAM and O4 of U11 and U21, and the electrostatic interactions of the positively charged SAM sulfonium also contribute to the high binding selectivity of SAM-II riboswitch to SAM. One Mg2+ cation was also found to be involved in ligand binding, which forms water-mediated coordination with the carboxyl group of SAM and direct coordination to U10 in SAM-V riboswitch, it's not shown here. In SAM-V, the adenine is base-paired via its Hoogsteen edge, and the aminoacyl group is hydrogen bonded to two nucleobases. There is an equivalent of the U20:A48:U9 triple that might make an electrostatic interaction with the sulfonium in a similar manner.
+<div style="width:800px;display:block;margin:0 auto;border:solid 1px;border-radius:0;">
+<img src="/images/summary_binding_pockets/BP_SAM_riboswitches_family4.svg" alt="drawing" class="img-responsive">
+</div>
 <div style="display: flex; justify-content: center;">
-<a href="/images/summary_binding_pockets/BP_SAM_riboswitches_family4.svg" target="_blank" download="BP_SAM_riboswitches_family4.svg.svg"><button class="btn btn-secondary"><span class="glyphicon glyphicon-download-alt"></span>&nbsp;&nbsp;Download FIGURE</button></a><br><br>    
+<a href="/images/downloads/binding_pockets/BP_SAM_riboswitches_family4..pdf" target="_blank" download="BP_SAM_riboswitches_family4.svg.svg"><button class="btn btn-secondary"><span class="glyphicon glyphicon-download-alt"></span>&nbsp;&nbsp;Download FIGURE</button></a><br><br>    
 </div>           
             
+<p id="Guanidine_riboswitches_family"> </p>
 <br><br>
 <p class="header_box" >Guanidine riboswitches family</p>
         
 Among the four identified classes of guanidine riboswitches, the crystal structures of guanidine and class I, II, and III riboswitches have been determined. The guanidine binding sites of the three riboswitches exhibit a number of common features as well as some differences. All involve guanine nucleobases, and in each case two guanidine nitrogen atoms are bonded to O6 and N7 on the Hoogsteen edge. In the guanidine III riboswitch, this occurs twice in the binding site<sup>[15]</sup>. Guanidine is hydrogen bonded to bridging or non-bridging phosphate oxygen atoms in both the guanidine I and II riboswitches, while a 2′-hydroxyl group participates as the sole backbone contact to the ligand in the guanidine III riboswitch<sup>[16-19]</sup>. Lastly, for each riboswitch it is observed that the guanidinium cation is stacked on a nucleobase at a distance of 3.5 Å, consistent with π-cation interactions. In both the guanidine I and II riboswitches the nucleobase is guanine, whereas in the guanidine III riboswitch it is a cytosine.
-<img src="/images/summary_binding_pockets/BP_Guanidine_riboswitches_family.svg" alt="drawing" style="width:800px;display:block;margin:0 auto;border:solid 1px;border-radius:0;" class="img-responsive">
+<div style="width:800px;display:block;margin:0 auto;border:solid 1px;border-radius:0;">
+<img src="/images/summary_binding_pockets/BP_Guanidine_riboswitches_family.svg" alt="drawing" class="img-responsive">
+</div>
 <div style="display: flex; justify-content: center;">
-<a href="/images/summary_binding_pockets/BP_Guanidine_riboswitches_family.svg" target="_blank" download="BP_Guanidine_riboswitches_family.svg.svg"><button class="btn btn-secondary"><span class="glyphicon glyphicon-download-alt"></span>&nbsp;&nbsp;Download FIGURE</button></a><br><br>    
+<a href="/images/downloads/binding_pockets/BP_Guanidine_riboswitches_family.pdf" target="_blank" download="BP_Guanidine_riboswitches_family.svg.svg"><button class="btn btn-secondary"><span class="glyphicon glyphicon-download-alt"></span>&nbsp;&nbsp;Download FIGURE</button></a><br><br>   
 </div>           
             
 <br><br>

@@ -6,9 +6,10 @@ sitemap: True
 permalink: /orphan_riboswitch/
 ---
 
-<h1 class="post-title" itemprop="name headline">Orphan riboswitch</h1>
-Orphan riboswitch candidates are noncoding RNA motifs whose representatives are believed to function as genetic regulatory elements, but whose target ligands have yet to be identified.
+<h1 class="post-title" itemprop="name headline">Orphan riboswitches</h1>
+Orphan riboswitch candidates are noncoding RNA motifs whose representatives are believed to function as genetic regulatory elements, but whose target ligands have yet to be identified<sup>[1]</sup>
 <br><br>
+
 <html>
 <head>
   <title>横向排列的点击按钮</title>
@@ -63,16 +64,19 @@ Orphan riboswitch candidates are noncoding RNA motifs whose representatives are 
 </html>
 <br>  
         
+<html>
 <p class="header_box" >Strong orphan riboswitches</p>
-Consensus sequence and secondary structure model for the strong orphan riboswitch candidates.<br>      
-        
-<img src="/images/orphan_riboswitch/Orphan_riboswitch_2D1.svg" alt="drawing" style="width:1000px;display:block;margin:0 auto;border:solid 1px;border-radius:0;">
+<p>Consensus sequence and secondary structure model for the strong orphan riboswitch candidates<sup>[1]</sup>.</p>      
+
+<div style="width:1000px;display:block;margin:0 auto;border:solid 1px;border-radius:0;">
+<img src="/images/orphan_riboswitch/Orphan_riboswitch_2D1.svg" alt="drawing" >
+</div>
 <div style="display: flex; justify-content: center;">
 <a href="/images/downloads/orphan_riboswitch/Orphan_riboswitch_2D1.pdf" target="_blank" download="nan.svg"><button class="btn btn-secondary"><span class="glyphicon 
 glyphicon-download-alt"></span>&nbsp;&nbsp;Download above picture</button></a><br>
-</div>
+</div><br>
                         
-<html>
+
 <head>
     <meta http-equiv="Content-type" content="text/html; charset=utf-8">
     <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no">
@@ -103,8 +107,8 @@ glyphicon-download-alt"></span>&nbsp;&nbsp;Download above picture</button></a><b
                 buttons: [
                     'copy', 'csv', 'excel', 'pdf', 
                 ]
-
             } );
+        Dnatable.order([[0, 'desc']]).draw();
         } );
    </script>
 <table id="Dnatable" class="table table-striped table-bordered" cellspacing="0" width="100%">
@@ -303,17 +307,20 @@ glyphicon-download-alt"></span>&nbsp;&nbsp;Download above picture</button></a><b
 </table>
 </html><br><br>
             
+<html>
 <p id="Weak_orphan_riboswitch"> </p>
 <p class="header_box" >Weak orphan riboswitches</p>
-Consensus sequence and secondary structure model for the weak orphan riboswitch candidates.<br>      
+<p>Consensus sequence and secondary structure model for the weak orphan riboswitch candidates<sup>[1]</sup>.</p>     
             
-<img src="/images/orphan_riboswitch/Orphan_riboswitch_2D2.svg" alt="drawing" style="width:1000px;display:block;margin:0 auto;border:solid 1px;border-radius:0;">
+<div style="width:1000px;display:block;margin:0 auto;border:solid 1px;border-radius:0;">
+<img src="/images/orphan_riboswitch/Orphan_riboswitch_2D2.svg" alt="drawing" >
+</div>
 <div style="display: flex; justify-content: center;">
 <a href="/downloads/orphan_riboswitch/Orphan_riboswitch_2D2.pdf" target="_blank" download="nan.svg"><button class="btn btn-secondary"><span class="glyphicon 
 glyphicon-download-alt"></span>&nbsp;&nbsp;Download above picture</button></a><br>
-</div>
+</div><br>
                             
-<html>
+
 <head>
     <meta http-equiv="Content-type" content="text/html; charset=utf-8">
     <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no">
@@ -344,8 +351,10 @@ glyphicon-download-alt"></span>&nbsp;&nbsp;Download above picture</button></a><b
                 buttons: [
                     'copy', 'csv', 'excel', 'pdf', 
                 ]
+                 
 
             } );
+        Dnatable.order([[0, 'desc']]).draw();
         } );
    </script>
 <table id="SBtable" class="table table-striped table-bordered" cellspacing="0" width="100%">

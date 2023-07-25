@@ -28,7 +28,9 @@ This page provides a summary of the methods used for structure determination and
             
 <p class="header_box" >Statistical information </p>
 Statistics of structure determination and phasing methods for riboswitches. Left: structure determination for riboswitches (Cryogenic electron microscopy, Cryo-EM; Solution-state nuclear magnetic resonance spectroscopy, NMR). Right: The inner circle show cases of molecular replacement (MR) and de novo phasing based on heavy atom derivatives. The outer circle further indicates  the heavy atom used for de novo phasing, and the searching model for MR.
-<img src="/images/structures/phase_determination.svg" alt="drawing" style="width:800px;display:block;margin:0 auto;border:solid 1px;border-radius:0;" class="img-responsive">
+<div style="width:1000px;display:block;margin:0 auto;border:solid 1px;border-radius:0;">
+<img src="/images/structures/phase_determination.svg" alt="drawing"  class="img-responsive">
+</div>
 <div style="display: flex; justify-content: center;">
 <a href="/downloads/structures_page/phase_determination.pdf" target="_blank" download="phase_determination.svg.svg"><button class="btn btn-secondary"><span class="glyphicon glyphicon-download-alt"></span>&nbsp;&nbsp;Download FIGURE</button></a>   
 </div>
@@ -65,6 +67,7 @@ This section displays all the PDB entries for the collected riboswitches. Additi
       justify-content: left;
       align-items: center;
       height: 50px;
+      overflow:auto
     }
     /* 按钮样式 */
     .button {
@@ -75,7 +78,7 @@ This section displays all the PDB entries for the collected riboswitches. Additi
       background-color: #efefef;
       color: #005826;
       text-decoration: none;
-      font-size: 20px;
+      font-size: 16px;
       border: 1px solid #005826;
       border-radius: 5px;
       
@@ -112,6 +115,7 @@ This section displays all the PDB entries for the collected riboswitches. Additi
     /* 隐藏所有 sheet */
     .sheet {
       display: none;
+      overflow:auto
     }
     /* Style the search box */
   #searchBox {
@@ -134,6 +138,7 @@ This section displays all the PDB entries for the collected riboswitches. Additi
     .form-container {
       display: flex;
       align-items: center;
+      overflow:auto
     }
     .form-container input {
       margin-right: 10px;

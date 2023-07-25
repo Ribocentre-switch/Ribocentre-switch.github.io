@@ -9,6 +9,7 @@ permalink: /applications/
 <h1 class="post-title" itemprop="name headline">Applications</h1>
 This page shows some of the applications of the collected riboswitches. We listed four kinds of applications, ‘Developing new antibacterials’, ‘Synthetic Biology’, ‘Building biosensors’ and ‘Gene therapy’ as shown in the following tables. The representatives of FMN riboswitch-specific antibacterial compounds are presented, as shown in the figure below.
 <br><br>
+
 <html>
 <head>
   <title>横向排列的点击按钮</title>
@@ -65,14 +66,16 @@ This page shows some of the applications of the collected riboswitches. We liste
 <br>  
         
 <p class="header_box" >Developing new antibacterials</p>
-Riboswitches have the ability to impact bacterial homeostasis, development, pathogenicity, and antibiotic resistance at the transcriptional or translational level. Moreover, they can form intricate three-dimensional structures that possess specific binding sites for small molecules. Consequently, these characteristics render them attractive targets for antimicrobial therapy.<br>      
+<p>Riboswitches have the ability to impact bacterial homeostasis, development, pathogenicity, and antibiotic resistance at the transcriptional or translational level. Moreover, they can form intricate three-dimensional structures that possess specific binding sites for small molecules. Consequently, these characteristics render them attractive targets for antimicrobial therapy.</p>    
         
-Schematic representation of the FMN riboswitch as new antibacterial target. Different antibacterial compounds bind to the FMN riboswitch and abolish the expression of the downstream genes (left). The structural formula and K<sub>D</sub> values of the antibacterial compounds are additionally provided (right).<br>
-<img src="/images/applications/application_figure.svg" alt="drawing" style="weight:400px;display:block;margin:0 auto;border:solid 1px;border-radius:0;"><br>
+<p>Schematic representation of the FMN riboswitch as new antibacterial target. Different antibacterial compounds bind to the FMN riboswitch and abolish the expression of the downstream genes (left). The structural formula and K<sub>D</sub> values of the antibacterial compounds are additionally provided (right).</p>
+<div style="weight:400px;display:block;margin:0 auto;border:solid 1px;border-radius:0;">
+<img src="/images/applications/application_figure.svg" alt="drawing" >
+</div>
 <div style="display: flex; justify-content: center;">
 <a href="/images/applications/application_figure.svg" target="_blank" download="Developing new antibacterials.svg"><button class="btn btn-secondary"><span class="glyphicon 
-glyphicon-download-alt"></span>&nbsp;&nbsp;Download above picture</button></a><br>
-</div>
+glyphicon-download-alt"></span>&nbsp;&nbsp;Download above picture</button></a>
+</div><br>
                         
 <html>
 <head>

@@ -43,7 +43,7 @@ permalink: /publications/
       background-color: #efefef;
       color: #005826;
       text-decoration: none;
-      font-size: 20px;
+      font-size: 16px;
       border: 1px solid #005826;
       border-radius: 5px;
 
@@ -103,6 +103,7 @@ permalink: /publications/
     .form-container {
       display: flex;
       align-items: center;
+      overflow:auto
     }
     .form-container input {
       margin-right: 10px;
@@ -132,8 +133,8 @@ Click into different sections:
   <select id="downloadOptions">
     <option value="" disabled selected>Select an option</option>
     <option value="/download/publications_page/Reviews.xlsx">Reviews</option>
-    <option value="/download/publications_page/Artivles.xlsx">Artivles</option>
-    <option value="/download/publications_page/all.xlsx">all</option>
+    <option value="/download/publications_page/Articles.xlsx">Articles</option>
+    <option value="/download/publications_page/all.xlsx">all tables in this page</option>
   </select>
   <!-- Download button -->
   <button class="button" onclick="downloadExcel()">Download</button>
@@ -142,7 +143,7 @@ Click into different sections:
   <!-- 按钮 -->
   <div class="button-container">
       <button class="button" onclick="showSheet('sheet1')">Reviews</button>
-      <button class="button" onclick="showSheet('sheet2')">Artivles</button>
+      <button class="button" onclick="showSheet('sheet2')">Articles</button>
   </div>
         
 <div id="sheet1" class="sheet">
@@ -153,7 +154,6 @@ Click into different sections:
         <th onclick="sortTable(0)">Year</th>
         <th onclick="sortTable(1)">Author</th>
         <th onclick="sortTable(1)">Title</th>
-        <th onclick="sortTable(2)">Subject</th>
         <th onclick="sortTable(3)">Journal</th>
       </tr>
       </thead>
@@ -163,8 +163,7 @@ Click into different sections:
         <td name="td0"><a href="https://pubmed.ncbi.nlm.nih.gov/14523920/" target="_blank"><b>2003</b></a></td>
         <td name="td1">Winkler, W. C. & Breaker, R. R.</td>
         <td name="td2">Genetic control by metabolite-binding riboswitches.</td>
-        <td name="td3">Riboswitch</td>
-        <td name="td4">Chembiochem</td>
+        <td name="td3">Chembiochem</td>
       </tr>
 
             
@@ -172,8 +171,7 @@ Click into different sections:
         <td name="td0"><a href="https://pubmed.ncbi.nlm.nih.gov/12676109/" target="_blank"><b>2003</b></a></td>
         <td name="td1">Lai E. C.</td>
         <td name="td2">RNA sensors and riboswitches: self-regulating messages.</td>
-        <td name="td3">Riboswitch</td>
-        <td name="td4">Curr Biol</td>
+        <td name="td3">Curr Biol</td>
       </tr>
 
             
@@ -181,8 +179,7 @@ Click into different sections:
         <td name="td0"><a href="https://pubmed.ncbi.nlm.nih.gov/15173824/" target="_blank"><b>2004</b></a></td>
         <td name="td1">Mandal, M. & Breaker, R. R.</td>
         <td name="td2">Gene regulation by riboswitches.</td>
-        <td name="td3">Riboswitch</td>
-        <td name="td4">Nat. Rev. Mol. Cell Biol</td>
+        <td name="td3">Nat. Rev. Mol. Cell Biol</td>
       </tr>
 
             
@@ -190,8 +187,7 @@ Click into different sections:
         <td name="td0"><a href="https://pubmed.ncbi.nlm.nih.gov/14729327/" target="_blank"><b>2004</b></a></td>
         <td name="td1">Nudler, E., & Mironov, A. S.</td>
         <td name="td2">The riboswitch control of bacterial metabolism.</td>
-        <td name="td3">Riboswitch</td>
-        <td name="td4">Trends Biochem Sci</td>
+        <td name="td3">Trends Biochem Sci</td>
       </tr>
 
             
@@ -199,8 +195,7 @@ Click into different sections:
         <td name="td0"><a href="https://pubmed.ncbi.nlm.nih.gov/15549109/" target="_blank"><b>2004</b></a></td>
         <td name="td1">Batey, R. T., Gilbert, S. D., & Montange, R. K.</td>
         <td name="td2">Structure of a natural guanine-responsive riboswitch complexed with the metabolite hypoxanthine.</td>
-        <td name="td3">Riboswitch</td>
-        <td name="td4">Nature</td>
+        <td name="td3">Nature</td>
       </tr>
 
             
@@ -208,8 +203,7 @@ Click into different sections:
         <td name="td0"><a href="https://pubmed.ncbi.nlm.nih.gov/14698618/" target="_blank"><b>2004</b></a></td>
         <td name="td1">Vitreschak, A. G., Rodionov, D. A., Mironov, A. A., & Gelfand, M. S.</td>
         <td name="td2">Riboswitches: the oldest mechanism for the regulation of gene expression?</td>
-        <td name="td3">Riboswitch</td>
-        <td name="td4">Trends Genet</td>
+        <td name="td3">Trends Genet</td>
       </tr>
 
             
@@ -217,8 +211,7 @@ Click into different sections:
         <td name="td0"><a href="https://pubmed.ncbi.nlm.nih.gov/15342904/" target="_blank"><b>2004</b></a></td>
         <td name="td1">Templeton, G. W., & Moorhead, G. B.</td>
         <td name="td2">A renaissance of metabolite sensing and signaling: from modular domains to riboswitches.</td>
-        <td name="td3">Riboswitch</td>
-        <td name="td4">Plant Cell</td>
+        <td name="td3">Plant Cell</td>
       </tr>
 
             
@@ -226,8 +219,7 @@ Click into different sections:
         <td name="td0"><a href="https://pubmed.ncbi.nlm.nih.gov/15363900/" target="_blank"><b>2004</b></a></td>
         <td name="td1">Abreu-Goodger, C., Ontiveros-Palacios, N., Ciria, R., & Merino, E.</td>
         <td name="td2">Conserved regulatory motifs in bacteria: riboswitches and beyond.</td>
-        <td name="td3">Riboswitch</td>
-        <td name="td4">Trends Genet</td>
+        <td name="td3">Trends Genet</td>
       </tr>
 
             
@@ -235,8 +227,7 @@ Click into different sections:
         <td name="td0"><a href="https://pubmed.ncbi.nlm.nih.gov/16153177/" target="_blank"><b>2005</b></a></td>
         <td name="td1">Winkler, W. C. & Breaker, R. R.</td>
         <td name="td2">Regulation of bacterial gene expression by riboswitches.</td>
-        <td name="td3">Riboswitch</td>
-        <td name="td4">Annu. Rev. Microbiol</td>
+        <td name="td3">Annu. Rev. Microbiol</td>
       </tr>
 
             
@@ -244,8 +235,7 @@ Click into different sections:
         <td name="td0"><a href="https://pubmed.ncbi.nlm.nih.gov/15919195/" target="_blank"><b>2005</b></a></td>
         <td name="td1">Tucker, B. J. & Breaker, R. R.</td>
         <td name="td2">Riboswitches as versatile gene control elements.</td>
-        <td name="td3">Riboswitch</td>
-        <td name="td4">Curr. Opin. Struct. Biol</td>
+        <td name="td3">Curr. Opin. Struct. Biol</td>
       </tr>
 
             
@@ -253,8 +243,7 @@ Click into different sections:
         <td name="td0"><a href="https://pubmed.ncbi.nlm.nih.gov/16226486/" target="_blank"><b>2005</b></a></td>
         <td name="td1">Winkler W. C.</td>
         <td name="td2">Riboswitches and the role of noncoding RNAs in bacterial metabolic control.</td>
-        <td name="td3">Riboswitch</td>
-        <td name="td4">Curr Opin Chem Biol</td>
+        <td name="td3">Curr Opin Chem Biol</td>
       </tr>
 
             
@@ -262,8 +251,7 @@ Click into different sections:
         <td name="td0"><a href="https://pubmed.ncbi.nlm.nih.gov/17381305/" target="_blank"><b>2006</b></a></td>
         <td name="td1">Gilbert, S. D., Montange, R. K., Stoddard, C. D., & Batey, R. T.</td>
         <td name="td2">Structural studies of the purine and SAM binding riboswitches.</td>
-        <td name="td3">Riboswitch</td>
-        <td name="td4">Cold Spring Harb Symp Quant Biol</td>
+        <td name="td3">Cold Spring Harb Symp Quant Biol</td>
       </tr>
 
             
@@ -271,8 +259,7 @@ Click into different sections:
         <td name="td0"><a href="https://pubmed.ncbi.nlm.nih.gov/17160062/" target="_blank"><b>2006</b></a></td>
         <td name="td1">Blount, K. F. & Breaker, R. R.</td>
         <td name="td2">Riboswitches as antibacterial drug targets.</td>
-        <td name="td3">Riboswitch</td>
-        <td name="td4">Nat. Biotechnol</td>
+        <td name="td3">Nat. Biotechnol</td>
       </tr>
 
             
@@ -280,8 +267,7 @@ Click into different sections:
         <td name="td0"><a href="https://pubmed.ncbi.nlm.nih.gov/17092822/" target="_blank"><b>2006</b></a></td>
         <td name="td1">Grundy, F. J., & Henkin, T. M.</td>
         <td name="td2">From ribosome to riboswitch: control of gene expression in bacteria by RNA structural rearrangements.</td>
-        <td name="td3">Riboswitch</td>
-        <td name="td4">Crit Rev Biochem Mol Biol</td>
+        <td name="td3">Crit Rev Biochem Mol Biol</td>
       </tr>
 
             
@@ -289,8 +275,7 @@ Click into different sections:
         <td name="td0"><a href="https://pubmed.ncbi.nlm.nih.gov/16839869/" target="_blank"><b>2006</b></a></td>
         <td name="td1">Nudler E.</td>
         <td name="td2">Flipping riboswitches.</td>
-        <td name="td3">Riboswitch</td>
-        <td name="td4">Cell</td>
+        <td name="td3">Cell</td>
       </tr>
 
             
@@ -298,8 +283,7 @@ Click into different sections:
         <td name="td0"><a href="https://pubmed.ncbi.nlm.nih.gov/17381302/" target="_blank"><b>2006</b></a></td>
         <td name="td1">Henkin, T. M., & Grundy, F. J.</td>
         <td name="td2">Sensing metabolic signals with nascent RNA transcripts: the T box and S box riboswitches as paradigms.</td>
-        <td name="td3">Riboswitch</td>
-        <td name="td4">Cold Spring Harb Symp Quant Biol</td>
+        <td name="td3">Cold Spring Harb Symp Quant Biol</td>
       </tr>
 
             
@@ -307,8 +291,7 @@ Click into different sections:
         <td name="td0"><a href="https://pubmed.ncbi.nlm.nih.gov/16545107/" target="_blank"><b>2006</b></a></td>
         <td name="td1">Loenen W. A.</td>
         <td name="td2">S-Adenosylmethionine: jack of all trades and master of everything?</td>
-        <td name="td3">Riboswitch</td>
-        <td name="td4">Biochem Soc Trans</td>
+        <td name="td3">Biochem Soc Trans</td>
       </tr>
 
             
@@ -316,8 +299,7 @@ Click into different sections:
         <td name="td0"><a href="https://pubmed.ncbi.nlm.nih.gov/17383225/" target="_blank"><b>2007</b></a></td>
         <td name="td1">Coppins, R. L., Hall, K. B., & Groisman, E. A.</td>
         <td name="td2">The intricate world of riboswitches.</td>
-        <td name="td3">Riboswitch</td>
-        <td name="td4">Curr Opin Microbiol</td>
+        <td name="td3">Curr Opin Microbiol</td>
       </tr>
 
             
@@ -325,8 +307,7 @@ Click into different sections:
         <td name="td0"><a href="https://pubmed.ncbi.nlm.nih.gov/17355861/" target="_blank"><b>2007</b></a></td>
         <td name="td1">Miranda-Ríos J.</td>
         <td name="td2">The THI-box riboswitch, or how RNA binds thiamin pyrophosphate.</td>
-        <td name="td3">Riboswitch</td>
-        <td name="td4">Structure</td>
+        <td name="td3">Structure</td>
       </tr>
 
             
@@ -334,8 +315,7 @@ Click into different sections:
         <td name="td0"><a href="https://pubmed.ncbi.nlm.nih.gov/17574837/" target="_blank"><b>2007</b></a></td>
         <td name="td1">Edwards, T. E., Klein, D. J., & Ferré-D'Amaré, A. R.</td>
         <td name="td2">Riboswitches: small-molecule recognition by gene regulatory RNAs.</td>
-        <td name="td3">Riboswitch</td>
-        <td name="td4">Curr Opin Struct Biol</td>
+        <td name="td3">Curr Opin Struct Biol</td>
       </tr>
 
             
@@ -343,8 +323,7 @@ Click into different sections:
         <td name="td0"><a href="https://pubmed.ncbi.nlm.nih.gov/18443629/" target="_blank"><b>2008</b></a></td>
         <td name="td1">Wang, J. X. & Breaker, R. R.</td>
         <td name="td2">Riboswitches that sense S-adenosylmethionine and S-adenosylhomocysteine.</td>
-        <td name="td3">Riboswitch</td>
-        <td name="td4">Biochem</td>
+        <td name="td3">Biochem</td>
       </tr>
 
             
@@ -352,8 +331,7 @@ Click into different sections:
         <td name="td0"><a href="https://pubmed.ncbi.nlm.nih.gov/18072940/" target="_blank"><b>2008</b></a></td>
         <td name="td1">Kim, J. N. & Breaker, R. R.</td>
         <td name="td2">Purine sensing by riboswitches.</td>
-        <td name="td3">Riboswitch</td>
-        <td name="td4">Biol. Cell</td>
+        <td name="td3">Biol. Cell</td>
       </tr>
 
             
@@ -361,8 +339,7 @@ Click into different sections:
         <td name="td0"><a href="https://pubmed.ncbi.nlm.nih.gov/19141470/" target="_blank"><b>2008</b></a></td>
         <td name="td1">Henkin T. M.</td>
         <td name="td2">Riboswitch RNAs: using RNA to sense cellular metabolism.</td>
-        <td name="td3">Riboswitch</td>
-        <td name="td4">Genes Dev</td>
+        <td name="td3">Genes Dev</td>
       </tr>
 
             
@@ -370,8 +347,7 @@ Click into different sections:
         <td name="td0"><a href="https://pubmed.ncbi.nlm.nih.gov/18573075/" target="_blank"><b>2008</b></a></td>
         <td name="td1">Montange, R. K., & Batey, R. T.</td>
         <td name="td2">Riboswitches: emerging themes in RNA structure and function.</td>
-        <td name="td3">Riboswitch</td>
-        <td name="td4">Annu Rev Biophys</td>
+        <td name="td3">Annu Rev Biophys</td>
       </tr>
 
             
@@ -379,8 +355,7 @@ Click into different sections:
         <td name="td0"><a href="https://pubmed.ncbi.nlm.nih.gov/18430893/" target="_blank"><b>2008</b></a></td>
         <td name="td1">Cochrane, J. C., & Strobel, S. A.</td>
         <td name="td2">Riboswitch effectors as protein enzyme cofactors.</td>
-        <td name="td3">Riboswitch</td>
-        <td name="td4">RNA</td>
+        <td name="td3">RNA</td>
       </tr>
 
             
@@ -388,8 +363,7 @@ Click into different sections:
         <td name="td0"><a href="https://pubmed.ncbi.nlm.nih.gov/18388492/" target="_blank"><b>2008</b></a></td>
         <td name="td1">Suess, B., & Weigand, J. E.</td>
         <td name="td2">Engineered riboswitches: overview, problems and trends.</td>
-        <td name="td3">Riboswitch</td>
-        <td name="td4">RNA Biol</td>
+        <td name="td3">RNA Biol</td>
       </tr>
 
             
@@ -397,8 +371,7 @@ Click into different sections:
         <td name="td0"><a href="https://pubmed.ncbi.nlm.nih.gov/18778966/" target="_blank"><b>2008</b></a></td>
         <td name="td1">Bocobza, S. E., & Aharoni, A.</td>
         <td name="td2">Switching the light on plant riboswitches.</td>
-        <td name="td3">Riboswitch</td>
-        <td name="td4">rends Plant Sci</td>
+        <td name="td3">rends Plant Sci</td>
       </tr>
 
             
@@ -406,8 +379,7 @@ Click into different sections:
         <td name="td0"><a href="https://pubmed.ncbi.nlm.nih.gov/19298181/" target="_blank"><b>2009</b></a></td>
         <td name="td1">Roth, A. & Breaker, R. R.</td>
         <td name="td2">The structural and functional diversity of metabolite-binding riboswitches.</td>
-        <td name="td3">Riboswitch</td>
-        <td name="td4">Annu. Rev. Biochem.</td>
+        <td name="td3">Annu. Rev. Biochem.</td>
       </tr>
 
             
@@ -415,8 +387,7 @@ Click into different sections:
         <td name="td0"><a href="https://pubmed.ncbi.nlm.nih.gov/19595806/" target="_blank"><b>2009</b></a></td>
         <td name="td1">Garst, A. D., & Batey, R. T.</td>
         <td name="td2">A switch in time: detailing the life of a riboswitch.</td>
-        <td name="td3">Riboswitch</td>
-        <td name="td4">Biochim Biophys Acta</td>
+        <td name="td3">Biochim Biophys Acta</td>
       </tr>
 
             
@@ -424,8 +395,7 @@ Click into different sections:
         <td name="td0"><a href="https://pubmed.ncbi.nlm.nih.gov/19303767/" target="_blank"><b>2009</b></a></td>
         <td name="td1">Serganov A.</td>
         <td name="td2">The long and the short of riboswitches.</td>
-        <td name="td3">Riboswitch</td>
-        <td name="td4">Curr Opin Struct Biol</td>
+        <td name="td3">Curr Opin Struct Biol</td>
       </tr>
 
             
@@ -433,8 +403,7 @@ Click into different sections:
         <td name="td0"><a href="https://pubmed.ncbi.nlm.nih.gov/19101979/" target="_blank"><b>2009</b></a></td>
         <td name="td1">Blouin, S., Mulhbacher, J., Penedo, J. C., & Lafontaine, D. A.</td>
         <td name="td2">Riboswitches: ancient and promising genetic regulators.</td>
-        <td name="td3">Riboswitch</td>
-        <td name="td4">Chembiochem</td>
+        <td name="td3">Chembiochem</td>
       </tr>
 
             
@@ -442,8 +411,7 @@ Click into different sections:
         <td name="td0"><a href="https://pubmed.ncbi.nlm.nih.gov/19619684/" target="_blank"><b>2009</b></a></td>
         <td name="td1">Serganov, A., & Patel, D. J.</td>
         <td name="td2">Amino acid recognition and gene regulation by riboswitches.</td>
-        <td name="td3">Riboswitch</td>
-        <td name="td4">Biochim Biophys Acta</td>
+        <td name="td3">Biochim Biophys Acta</td>
       </tr>
 
             
@@ -451,8 +419,7 @@ Click into different sections:
         <td name="td0"><a href="https://pubmed.ncbi.nlm.nih.gov/20009507/" target="_blank"><b>2010</b></a></td>
         <td name="td1">Wachter A.</td>
         <td name="td2">Riboswitch-mediated control of gene expression in eukaryotes.</td>
-        <td name="td3">Riboswitch</td>
-        <td name="td4">RNA Biol</td>
+        <td name="td3">RNA Biol</td>
       </tr>
 
             
@@ -460,8 +427,7 @@ Click into different sections:
         <td name="td0"><a href="https://pubmed.ncbi.nlm.nih.gov/20458165/" target="_blank"><b>2010</b></a></td>
         <td name="td1">Baird, N. J., Kulshina, N., & Ferré-D'Amaré, A. R.</td>
         <td name="td2">Riboswitch function: flipping the switch or tuning the dimmer?</td>
-        <td name="td3">Riboswitch</td>
-        <td name="td4">RNA Biol</td>
+        <td name="td3">RNA Biol</td>
       </tr>
 
             
@@ -469,8 +435,7 @@ Click into different sections:
         <td name="td0"><a href="https://pubmed.ncbi.nlm.nih.gov/20061810/" target="_blank"><b>2010</b></a></td>
         <td name="td1">Smith, A. M., Fuchs, R. T., Grundy, F. J., & Henkin, T. M</td>
         <td name="td2">Riboswitch RNAs: regulation of gene expression by direct monitoring of a physiological signal.</td>
-        <td name="td3">Riboswitch</td>
-        <td name="td4">RNA Biol</td>
+        <td name="td3">RNA Biol</td>
       </tr>
 
             
@@ -478,8 +443,7 @@ Click into different sections:
         <td name="td0"><a href="https://pubmed.ncbi.nlm.nih.gov/20061809/" target="_blank"><b>2010</b></a></td>
         <td name="td1">Serganov A.</td>
         <td name="td2">Determination of riboswitch structures: light at the end of the tunnel?</td>
-        <td name="td3">Riboswitch</td>
-        <td name="td4">RNA Biol</td>
+        <td name="td3">RNA Biol</td>
       </tr>
 
             
@@ -487,8 +451,7 @@ Click into different sections:
         <td name="td0"><a href="https://pubmed.ncbi.nlm.nih.gov/20050612/" target="_blank"><b>2010</b></a></td>
         <td name="td1">Topp, S., & Gallivan, J. P.</td>
         <td name="td2">Emerging applications of riboswitches in chemical biology.</td>
-        <td name="td3">Riboswitch</td>
-        <td name="td4">ACS Chem Biol</td>
+        <td name="td3">ACS Chem Biol</td>
       </tr>
 
             
@@ -496,8 +459,7 @@ Click into different sections:
         <td name="td0"><a href="https://pubmed.ncbi.nlm.nih.gov/21925376/" target="_blank"><b>2011</b></a></td>
         <td name="td1">Breaker, R. R.</td>
         <td name="td2">Prospects for riboswitch discovery and analysis.</td>
-        <td name="td3">Riboswitch</td>
-        <td name="td4">Mol. Cell</td>
+        <td name="td3">Mol. Cell</td>
       </tr>
 
             
@@ -505,8 +467,7 @@ Click into different sections:
         <td name="td0"><a href="https://pubmed.ncbi.nlm.nih.gov/21477128/" target="_blank"><b>2011</b></a></td>
         <td name="td1">Bastet, L., Dubé, A., Massé, E., & Lafontaine, D. A.</td>
         <td name="td2">New insights into riboswitch regulation mechanisms.</td>
-        <td name="td3">Riboswitch</td>
-        <td name="td4">Mol Microbiol</td>
+        <td name="td3">Mol Microbiol</td>
       </tr>
 
             
@@ -514,8 +475,7 @@ Click into different sections:
         <td name="td0"><a href="https://pubmed.ncbi.nlm.nih.gov/21678902/" target="_blank"><b>2011</b></a></td>
         <td name="td1">Haller, A., Soulière, M. F., & Micura, R.</td>
         <td name="td2">The dynamic nature of RNA as key to understanding riboswitch mechanisms.</td>
-        <td name="td3">Riboswitch</td>
-        <td name="td4">Acc Chem Res</td>
+        <td name="td3">Acc Chem Res</td>
       </tr>
 
             
@@ -523,8 +483,7 @@ Click into different sections:
         <td name="td0"><a href="https://pubmed.ncbi.nlm.nih.gov/20943759/" target="_blank"><b>2011</b></a></td>
         <td name="td1">Garst, A. D., Edwards, A. L., & Batey, R. T.</td>
         <td name="td2">Riboswitches: structures and mechanisms.</td>
-        <td name="td3">Riboswitch</td>
-        <td name="td4">Cold Spring Harb Perspect Biol</td>
+        <td name="td3">Cold Spring Harb Perspect Biol</td>
       </tr>
 
             
@@ -532,8 +491,7 @@ Click into different sections:
         <td name="td0"><a href="https://pubmed.ncbi.nlm.nih.gov/21615107/" target="_blank"><b>2011</b></a></td>
         <td name="td1">Deigan, K. E., & Ferré-D'Amaré, A. R.</td>
         <td name="td2">Riboswitches: discovery of drugs that target bacterial gene-regulatory RNAs.</td>
-        <td name="td3">Riboswitch</td>
-        <td name="td4">Acc Chem Res</td>
+        <td name="td3">Acc Chem Res</td>
       </tr>
 
             
@@ -541,8 +499,7 @@ Click into different sections:
         <td name="td0"><a href="https://pubmed.ncbi.nlm.nih.gov/21106649/" target="_blank"><b>2012</b></a></td>
         <td name="td1">Breaker, R. R.</td>
         <td name="td2">Riboswitches and the RNA world.</td>
-        <td name="td3">Riboswitch</td>
-        <td name="td4">Cold Spring Harb</td>
+        <td name="td3">Cold Spring Harb</td>
       </tr>
 
             
@@ -550,8 +507,7 @@ Click into different sections:
         <td name="td0"><a href="https://pubmed.ncbi.nlm.nih.gov/22577823/" target="_blank"><b>2012</b></a></td>
         <td name="td1">Serganov, A., & Patel, D. J.</td>
         <td name="td2">Metabolite recognition principles and molecular mechanisms underlying riboswitch function.</td>
-        <td name="td3">Riboswitch</td>
-        <td name="td4">Annu Rev Biophys</td>
+        <td name="td3">Annu Rev Biophys</td>
       </tr>
 
             
@@ -559,8 +515,7 @@ Click into different sections:
         <td name="td0"><a href="https://pubmed.ncbi.nlm.nih.gov/21957061/" target="_blank"><b>2012</b></a></td>
         <td name="td1">Liberman, J. A., & Wedekind, J. E.</td>
         <td name="td2">Riboswitch structure in the ligand‐free state.</td>
-        <td name="td3">Riboswitch</td>
-        <td name="td4">Wiley Interdiscip Rev RNA</td>
+        <td name="td3">Wiley Interdiscip Rev RNA</td>
       </tr>
 
             
@@ -568,8 +523,7 @@ Click into different sections:
         <td name="td0"><a href="https://pubmed.ncbi.nlm.nih.gov/22579413/" target="_blank"><b>2012</b></a></td>
         <td name="td1">Serganov, A., & Patel, D. J.</td>
         <td name="td2">Molecular recognition and function of riboswitches.</td>
-        <td name="td3">Riboswitch</td>
-        <td name="td4">Curr Opin Struct Biol</td>
+        <td name="td3">Curr Opin Struct Biol</td>
       </tr>
 
             
@@ -577,8 +531,7 @@ Click into different sections:
         <td name="td0"><a href="https://pubmed.ncbi.nlm.nih.gov/23332744/" target="_blank"><b>2013</b></a></td>
         <td name="td1">Serganov, A., & Nudler, E.</td>
         <td name="td2">A decade of riboswitches.</td>
-        <td name="td3">Riboswitch</td>
-        <td name="td4">Cell</td>
+        <td name="td3">Cell</td>
       </tr>
 
             
@@ -586,8 +539,7 @@ Click into different sections:
         <td name="td0"><a href="https://pubmed.ncbi.nlm.nih.gov/23163232/" target="_blank"><b>2013</b></a></td>
         <td name="td1">Penchovsky, R., & Stoilova, C. C.</td>
         <td name="td2">Riboswitch-based antibacterial drug discovery using high-throughput screening methods.</td>
-        <td name="td3">Riboswitch</td>
-        <td name="td4">Expert Opin Drug Discov</td>
+        <td name="td3">Expert Opin Drug Discov</td>
       </tr>
 
             
@@ -595,8 +547,7 @@ Click into different sections:
         <td name="td0"><a href="https://pubmed.ncbi.nlm.nih.gov/24769285/" target="_blank"><b>2014</b></a></td>
         <td name="td1">Zhang, J., Jones, C. P., & Ferré-D'Amaré, A. R.</td>
         <td name="td2">Global analysis of riboswitches by small-angle X-ray scattering and calorimetry.</td>
-        <td name="td3">Riboswitch</td>
-        <td name="td4">Biochim Biophys Acta</td>
+        <td name="td3">Biochim Biophys Acta</td>
       </tr>
 
             
@@ -604,8 +555,7 @@ Click into different sections:
         <td name="td0"><a href="https://pubmed.ncbi.nlm.nih.gov/24583553/" target="_blank"><b>2014</b></a></td>
         <td name="td1">Peselis, A., & Serganov, A.</td>
         <td name="td2">Themes and variations in riboswitch structure and function.</td>
-        <td name="td3">Riboswitch</td>
-        <td name="td4">Biochim Biophys Acta</td>
+        <td name="td3">Biochim Biophys Acta</td>
       </tr>
 
             
@@ -613,8 +563,7 @@ Click into different sections:
         <td name="td0"><a href="https://pubmed.ncbi.nlm.nih.gov/24727093/" target="_blank"><b>2014</b></a></td>
         <td name="td1">Savinov, A., Perez, C. F., & Block, S. M.</td>
         <td name="td2">Single-molecule studies of riboswitch folding.</td>
-        <td name="td3">Riboswitch</td>
-        <td name="td4">Biochim Biophys Acta</td>
+        <td name="td3">Biochim Biophys Acta</td>
       </tr>
 
             
@@ -622,8 +571,7 @@ Click into different sections:
         <td name="td0"><a href="https://pubmed.ncbi.nlm.nih.gov/24816551/" target="_blank"><b>2014</b></a></td>
         <td name="td1">Henkin T. M.</td>
         <td name="td2">The T box riboswitch: A novel regulatory RNA that utilizes tRNA as its ligand.</td>
-        <td name="td3">Riboswitch</td>
-        <td name="td4">Biochim Biophys Acta</td>
+        <td name="td3">Biochim Biophys Acta</td>
       </tr>
 
             
@@ -631,8 +579,7 @@ Click into different sections:
         <td name="td0"><a href="https://pubmed.ncbi.nlm.nih.gov/24773387/" target="_blank"><b>2014</b></a></td>
         <td name="td1">Bocobza, S. E., & Aharoni, A.</td>
         <td name="td2">Small molecules that interact with RNA: riboswitch‐based gene control and its involvement in metabolic regulation in plants and algae.</td>
-        <td name="td3">Riboswitch</td>
-        <td name="td4">Plant J</td>
+        <td name="td3">Plant J</td>
       </tr>
 
             
@@ -640,8 +587,7 @@ Click into different sections:
         <td name="td0"><a href="https://pubmed.ncbi.nlm.nih.gov/24590258/" target="_blank"><b>2014</b></a></td>
         <td name="td1">Porter, E. B., Marcano-Velázquez, J. G., & Batey, R. T.</td>
         <td name="td2">The purine riboswitch as a model system for exploring RNA biology and chemistry.</td>
-        <td name="td3">Riboswitch</td>
-        <td name="td4">Biochim Biophys Acta</td>
+        <td name="td3">Biochim Biophys Acta</td>
       </tr>
 
             
@@ -649,8 +595,7 @@ Click into different sections:
         <td name="td0"><a href="https://pubmed.ncbi.nlm.nih.gov/24863161/" target="_blank"><b>2014</b></a></td>
         <td name="td1">Biochim Biophys Acta. 2014 Oct;1839(10):1005-1019</td>
         <td name="td2">Fluorescence tools to investigate riboswitch structural dynamics.</td>
-        <td name="td3">Riboswitch</td>
-        <td name="td4">Biochim Biophys Acta</td>
+        <td name="td3">Biochim Biophys Acta</td>
       </tr>
 
             
@@ -658,8 +603,7 @@ Click into different sections:
         <td name="td0"><a href="https://pubmed.ncbi.nlm.nih.gov/15193315/" target="_blank"><b>2014</b></a></td>
         <td name="td1">Soukup, J. K., & Soukup, G. A.</td>
         <td name="td2">Riboswitches exert genetic control through metabolite-induced conformational change.</td>
-        <td name="td3">Riboswitch</td>
-        <td name="td4">Curr Opin Struct Biol</td>
+        <td name="td3">Curr Opin Struct Biol</td>
       </tr>
 
             
@@ -667,8 +611,7 @@ Click into different sections:
         <td name="td0"><a href="https://pubmed.ncbi.nlm.nih.gov/26143008/" target="_blank"><b>2015</b></a></td>
         <td name="td1">Peselis, A., Gao, A., & Serganov, A.</td>
         <td name="td2">Cooperativity, allostery and synergism in ligand binding to riboswitches.</td>
-        <td name="td3">Riboswitch</td>
-        <td name="td4">Biochimie</td>
+        <td name="td3">Biochimie</td>
       </tr>
 
             
@@ -676,8 +619,7 @@ Click into different sections:
         <td name="td0"><a href="https://pubmed.ncbi.nlm.nih.gov/25137633/" target="_blank"><b>2015</b></a></td>
         <td name="td1">Berens, C., & Suess, B.</td>
         <td name="td2">Riboswitch engineering—making the all-important second and third steps.</td>
-        <td name="td3">Riboswitch</td>
-        <td name="td4">Curr Opin Biotechnol</td>
+        <td name="td3">Curr Opin Biotechnol</td>
       </tr>
 
             
@@ -685,8 +627,7 @@ Click into different sections:
         <td name="td0"><a href="https://pubmed.ncbi.nlm.nih.gov/25708284/" target="_blank"><b>2015</b></a></td>
         <td name="td1">Mellin, J. R., & Cossart, P.</td>
         <td name="td2">Unexpected versatility in bacterial riboswitches.</td>
-        <td name="td3">Riboswitch</td>
-        <td name="td4">Trends Genet</td>
+        <td name="td3">Trends Genet</td>
       </tr>
 
             
@@ -694,8 +635,7 @@ Click into different sections:
         <td name="td0"><a href="https://pubmed.ncbi.nlm.nih.gov/25727496/" target="_blank"><b>2015</b></a></td>
         <td name="td1">Fürtig, B., Nozinovic, S., Reining, A., & Schwalbe, H.</td>
         <td name="td2">Multiple conformational states of riboswitches fine-tune gene regulation.</td>
-        <td name="td3">Riboswitch</td>
-        <td name="td4">Curr Opin Struct Biol</td>
+        <td name="td3">Curr Opin Struct Biol</td>
       </tr>
 
             
@@ -703,8 +643,7 @@ Click into different sections:
         <td name="td0"><a href="https://pubmed.ncbi.nlm.nih.gov/27607554/" target="_blank"><b>2016</b></a></td>
         <td name="td1">Sherwood, A. V., & Henkin, T. M.</td>
         <td name="td2">Riboswitch-mediated gene regulation: novel RNA architectures dictate gene expression responses.</td>
-        <td name="td3">Riboswitch</td>
-        <td name="td4">Annu Rev Microbiol</td>
+        <td name="td3">Annu Rev Microbiol</td>
       </tr>
 
             
@@ -712,8 +651,7 @@ Click into different sections:
         <td name="td0"><a href="https://pubmed.ncbi.nlm.nih.gov/28375729/" target="_blank"><b>2017</b></a></td>
         <td name="td1">Jones, C. P., & Ferré-D'Amaré, A. R.</td>
         <td name="td2">Long-range interactions in riboswitch control of gene expression.</td>
-        <td name="td3">Riboswitch</td>
-        <td name="td4">Annu Rev Biophys</td>
+        <td name="td3">Annu Rev Biophys</td>
       </tr>
 
             
@@ -721,8 +659,7 @@ Click into different sections:
         <td name="td0"><a href="https://pubmed.ncbi.nlm.nih.gov/28375743/" target="_blank"><b>2017</b></a></td>
         <td name="td1">Hallberg, Z. F., Su, Y., Kitto, R. Z., & Hammond, M. C.</td>
         <td name="td2">Engineering and in vivo applications of riboswitches.</td>
-        <td name="td3">Riboswitch</td>
-        <td name="td4">Annu Rev Biochem</td>
+        <td name="td3">Annu Rev Biochem</td>
       </tr>
 
             
@@ -730,8 +667,7 @@ Click into different sections:
         <td name="td0"><a href="https://pubmed.ncbi.nlm.nih.gov/30051797/" target="_blank"><b>2018</b></a></td>
         <td name="td1">Kreuzer, K. D., & Henkin, T. M.</td>
         <td name="td2">The T-box riboswitch: tRNA as an effector to modulate gene regulation.</td>
-        <td name="td3">Riboswitch</td>
-        <td name="td4">Microbiol Spectr</td>
+        <td name="td3">Microbiol Spectr</td>
       </tr>
 
             
@@ -739,8 +675,7 @@ Click into different sections:
         <td name="td0"><a href="https://pubmed.ncbi.nlm.nih.gov/29844057/" target="_blank"><b>2018</b></a></td>
         <td name="td1">Breaker, R. R.</td>
         <td name="td2">Riboswitches and Translation Control.</td>
-        <td name="td3">Riboswitch</td>
-        <td name="td4">Cold Spring Harb. Perspect. Biol</td>
+        <td name="td3">Cold Spring Harb. Perspect. Biol</td>
       </tr>
 
             
@@ -748,8 +683,7 @@ Click into different sections:
         <td name="td0"><a href="https://pubmed.ncbi.nlm.nih.gov/30084346/" target="_blank"><b>2018</b></a></td>
         <td name="td1">Lotz, T. S., & Suess, B.</td>
         <td name="td2">Small-Molecule-Binding Riboswitches.</td>
-        <td name="td3">Riboswitch</td>
-        <td name="td4">Microbiol Spectr</td>
+        <td name="td3">Microbiol Spectr</td>
       </tr>
 
             
@@ -757,8 +691,7 @@ Click into different sections:
         <td name="td0"><a href="https://pubmed.ncbi.nlm.nih.gov/31128223/" target="_blank"><b>2019</b></a></td>
         <td name="td1">Pavlova, N., Kaloudas, D., & Penchovsky, R.</td>
         <td name="td2">Riboswitch distribution, structure, and function in bacteria.</td>
-        <td name="td3">Riboswitch</td>
-        <td name="td4">Gene</td>
+        <td name="td3">Gene</td>
       </tr>
 
             
@@ -766,8 +699,7 @@ Click into different sections:
         <td name="td0"><a href="https://pubmed.ncbi.nlm.nih.gov/31079546/" target="_blank"><b>2019</b></a></td>
         <td name="td1">Pavlova, N., & Penchovsky, R.</td>
         <td name="td2">Genome-wide bioinformatics analysis of FMN, SAM-I, glmS, TPP, lysine, purine, cobalamin, and SAH riboswitches for their applications as allosteric antibacterial drug targets in human pathogenic bacteria.</td>
-        <td name="td3">Riboswitch</td>
-        <td name="td4">Expert Opin Ther Targets</td>
+        <td name="td3">Expert Opin Ther Targets</td>
       </tr>
 
             
@@ -775,8 +707,7 @@ Click into different sections:
         <td name="td0"><a href="https://pubmed.ncbi.nlm.nih.gov/31238268/" target="_blank"><b>2019</b></a></td>
         <td name="td1">Yokobayashi Y.</td>
         <td name="td2">Aptamer-based and aptazyme-based riboswitches in mammalian cells.</td>
-        <td name="td3">Riboswitch</td>
-        <td name="td4">Curr Opin Chem Biol</td>
+        <td name="td3">Curr Opin Chem Biol</td>
       </tr>
 
             
@@ -784,8 +715,7 @@ Click into different sections:
         <td name="td0"><a href="https://pubmed.ncbi.nlm.nih.gov/31249101/" target="_blank"><b>2019</b></a></td>
         <td name="td1">Arnvig K. B.</td>
         <td name="td2">Riboswitches: choosing the best platform.</td>
-        <td name="td3">Riboswitch</td>
-        <td name="td4">Biochem Soc Trans</td>
+        <td name="td3">Biochem Soc Trans</td>
       </tr>
 
             
@@ -793,8 +723,7 @@ Click into different sections:
         <td name="td0"><a href="https://pubmed.ncbi.nlm.nih.gov/32165489/" target="_blank"><b>2020</b></a></td>
         <td name="td1">Sherlock, M. E. & Breaker, R. R.</td>
         <td name="td2">Former orphan riboswitches reveal unexplored areas of bacterial metabolism, signaling, and gene control processes.</td>
-        <td name="td3">Riboswitch</td>
-        <td name="td4">RNA</td>
+        <td name="td3">RNA</td>
       </tr>
 
             
@@ -802,8 +731,7 @@ Click into different sections:
         <td name="td0"><a href="https://pubmed.ncbi.nlm.nih.gov/32036061/" target="_blank"><b>2020</b></a></td>
         <td name="td1">Bédard, A. V., Hien, E. D. M., & Lafontaine, D. A.</td>
         <td name="td2">Riboswitch regulation mechanisms: RNA, metabolites and regulatory proteins.</td>
-        <td name="td3">Riboswitch</td>
-        <td name="td4">Biochim Biophys Acta Gene Regul Mech</td>
+        <td name="td3">Biochim Biophys Acta Gene Regul Mech</td>
       </tr>
 
             
@@ -811,8 +739,7 @@ Click into different sections:
         <td name="td0"><a href="https://pubmed.ncbi.nlm.nih.gov/33466288/" target="_blank"><b>2021</b></a></td>
         <td name="td1">Panchal, V., & Brenk, R.</td>
         <td name="td2">Riboswitches as drug targets for antibiotics.</td>
-        <td name="td3">Riboswitch</td>
-        <td name="td4">Antibiotics</td>
+        <td name="td3">Antibiotics</td>
       </tr>
 
             
@@ -820,8 +747,7 @@ Click into different sections:
         <td name="td0"><a href="https://pubmed.ncbi.nlm.nih.gov/35595164/" target="_blank"><b>2022</b></a></td>
         <td name="td1">Hoetzel, J., & Suess, B.</td>
         <td name="td2">Structural changes in aptamers are essential for synthetic riboswitch engineering.</td>
-        <td name="td3">Riboswitch</td>
-        <td name="td4">J Mol Biol</td>
+        <td name="td3">J Mol Biol</td>
       </tr>
 
             
@@ -829,8 +755,7 @@ Click into different sections:
         <td name="td0"><a href="https://pubmed.ncbi.nlm.nih.gov/36275359/" target="_blank"><b>2022</b></a></td>
         <td name="td1">Vikram, Mishra, V., Rana, A., & Ahire, J. J.</td>
         <td name="td2">Riboswitch-mediated regulation of riboflavin biosynthesis genes in prokaryotes.</td>
-        <td name="td3">Riboswitch</td>
-        <td name="td4">3 Biotech</td>
+        <td name="td3">3 Biotech</td>
       </tr>
 
             
@@ -838,8 +763,7 @@ Click into different sections:
         <td name="td0"><a href="https://pubmed.ncbi.nlm.nih.gov/36140022/" target="_blank"><b>2022</b></a></td>
         <td name="td1">Giarimoglou, N., Kouvela, A., Maniatis, A., Papakyriakou, A., Zhang, J., Stamatopoulou, V., & Stathopoulos, C.</td>
         <td name="td2">A riboswitch-driven era of new antibacterials.</td>
-        <td name="td3">Riboswitch</td>
-        <td name="td4">Antibiotics</td>
+        <td name="td3">Antibiotics</td>
       </tr>
 
             
@@ -847,8 +771,7 @@ Click into different sections:
         <td name="td0"><a href="https://pubmed.ncbi.nlm.nih.gov/36150954/" target="_blank"><b>2023</b></a></td>
         <td name="td1">Kavita, K. & Breaker, R. R.</td>
         <td name="td2">Discovering riboswitches: the past and the future.</td>
-        <td name="td3">Riboswitch</td>
-        <td name="td4">Trends Biochem</td>
+        <td name="td3">Trends Biochem</td>
       </tr>
 
             
@@ -856,8 +779,7 @@ Click into different sections:
         <td name="td0"><a href="https://pubmed.ncbi.nlm.nih.gov/36594112/" target="_blank"><b>2023</b></a></td>
         <td name="td1">Wakchaure, P. D., & Ganguly, B.</td>
         <td name="td2">Exploring the structure, function of thiamine pyrophosphate riboswitch, and designing small molecules for antibacterial activity.</td>
-        <td name="td3">Riboswitch</td>
-        <td name="td4">Wiley Interdiscip Rev RNA</td>
+        <td name="td3">Wiley Interdiscip Rev RNA</td>
       </tr>
 
             

@@ -7,10 +7,10 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Ribocentre - Orphan_riboswitch</title>
   <meta name="description" content="Riboswitches: A riboswitch database">
-  <!--<link rel="stylesheet" href="http://localhost:4002/css/main.css>-->
+  <!--<link rel="stylesheet" href="http://localhost:4003/css/main.css>-->
   <link rel="stylesheet" href="/css/main.css">
-  <link rel="canonical" href="http://localhost:4002/orphan_riboswitch/">
-  <link rel="shortcut icon" type ="image/x-icon" href="http://localhost:4002/images/favicon.ico">
+  <link rel="canonical" href="http://localhost:4003/orphan_riboswitch/">
+  <link rel="shortcut icon" type ="image/x-icon" href="http://localhost:4003/images/favicon.ico">
 
 
 
@@ -78,15 +78,15 @@
 	</div>
 	<div class="collapse navbar-collapse" id="navbar-collapse-1">
 	  <ul class="nav navbar-nav navbar-right" style="margin-right: 0px;">
-		<li id="now" ><a href="http://localhost:4002/">Home</a></li>
-		<li id="now"><a href="http://localhost:4002/riboswitches/">Riboswitches</a></li>
-		<li id="now"><a href="http://localhost:4002/orphan_riboswitch/">Orphan riboswitches</a></li>
-		<li id="now"><a href="http://localhost:4002/sequences/">Sequences</a></li>
-		<li id="now"><a href="http://localhost:4002/structures/">Structures</a></li>
-		<li id="now"><a href="http://localhost:4002/binding_pockets/">Binding pockets</a></li>
-		<li id="now"><a href="http://localhost:4002/applications/">Applications</a></li>
-		<li id="now"><a href="http://localhost:4002/publications/">Publications</a></li>
-		<li id="now"><a href="http://localhost:4002/helps/">Help</a></li>
+		<li id="now" ><a href="http://localhost:4003/">Home</a></li>
+		<li id="now"><a href="http://localhost:4003/riboswitches/">Riboswitches</a></li>
+		<li id="now"><a href="http://localhost:4003/orphan_riboswitch/">Orphan riboswitches</a></li>
+		<li id="now"><a href="http://localhost:4003/sequences/">Sequences</a></li>
+		<li id="now"><a href="http://localhost:4003/structures/">Structures</a></li>
+		<li id="now"><a href="http://localhost:4003/binding_pockets/">Binding pockets</a></li>
+		<li id="now"><a href="http://localhost:4003/applications/">Applications</a></li>
+		<li id="now"><a href="http://localhost:4003/publications/">Publications</a></li>
+		<li id="now"><a href="http://localhost:4003/helps/">Help</a></li>
 	  </ul>
 	  <script>
 		window.addEventListener("DOMContentLoaded", function() {
@@ -152,9 +152,10 @@
     <div class="well" style="border: 1px solid #C9C9C9; background-color: #fff;">
       <section class="sectiontitle"> 
      
-       <h1 class="post-title" itemprop="name headline">Orphan riboswitch</h1>
-<p>Orphan riboswitch candidates are noncoding RNA motifs whose representatives are believed to function as genetic regulatory elements, but whose target ligands have yet to be identified.
+       <h1 class="post-title" itemprop="name headline">Orphan riboswitches</h1>
+<p>Orphan riboswitch candidates are noncoding RNA motifs whose representatives are believed to function as genetic regulatory elements, but whose target ligands have yet to be identified<sup>[1]</sup>
 <br /><br /></p>
+
 <html>
 <head>
   <title>横向排列的点击按钮</title>
@@ -209,15 +210,19 @@
 </html>
 <p><br /></p>
 
-<p class="header_box">Strong orphan riboswitches</p>
-<p>Consensus sequence and secondary structure model for the strong orphan riboswitch candidates.<br /></p>
-
-<p><img src="/images/orphan_riboswitch/Orphan_riboswitch_2D1.svg" alt="drawing" style="width:1000px;display:block;margin:0 auto;border:solid 1px;border-radius:0;" /></p>
-<div style="display: flex; justify-content: center;">
-  <p><a href="/images/downloads/orphan_riboswitch/Orphan_riboswitch_2D1.pdf" target="_blank" download="nan.svg"><button class="btn btn-secondary"><span class="glyphicon  glyphicon-download-alt"></span>  Download above picture</button></a><br /></p>
-</div>
-
 <html>
+<p class="header_box">Strong orphan riboswitches</p>
+<p>Consensus sequence and secondary structure model for the strong orphan riboswitch candidates<sup>[1]</sup>.</p>      
+
+<div style="width:1000px;display:block;margin:0 auto;border:solid 1px;border-radius:0;">
+<img src="/images/orphan_riboswitch/Orphan_riboswitch_2D1.svg" alt="drawing" />
+</div>
+<div style="display: flex; justify-content: center;">
+<a href="/images/downloads/orphan_riboswitch/Orphan_riboswitch_2D1.pdf" target="_blank" download="nan.svg"><button class="btn btn-secondary"><span class="glyphicon 
+glyphicon-download-alt"></span>&nbsp;&nbsp;Download above picture</button></a><br />
+</div><br />
+                        
+
 <head>
     <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
     <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no" />
@@ -248,8 +253,8 @@
                 buttons: [
                     'copy', 'csv', 'excel', 'pdf', 
                 ]
-
             } );
+        Dnatable.order([[0, 'desc']]).draw();
         } );
    </script>
 <table id="Dnatable" class="table table-striped table-bordered" cellspacing="0" width="100%">
@@ -449,16 +454,20 @@
 </html>
 <p><br /><br /></p>
 
+<html>
 <p id="Weak_orphan_riboswitch"> </p>
 <p class="header_box">Weak orphan riboswitches</p>
-<p>Consensus sequence and secondary structure model for the weak orphan riboswitch candidates.<br /></p>
-
-<p><img src="/images/orphan_riboswitch/Orphan_riboswitch_2D2.svg" alt="drawing" style="width:1000px;display:block;margin:0 auto;border:solid 1px;border-radius:0;" /></p>
-<div style="display: flex; justify-content: center;">
-  <p><a href="/downloads/orphan_riboswitch/Orphan_riboswitch_2D2.pdf" target="_blank" download="nan.svg"><button class="btn btn-secondary"><span class="glyphicon  glyphicon-download-alt"></span>  Download above picture</button></a><br /></p>
+<p>Consensus sequence and secondary structure model for the weak orphan riboswitch candidates<sup>[1]</sup>.</p>     
+            
+<div style="width:1000px;display:block;margin:0 auto;border:solid 1px;border-radius:0;">
+<img src="/images/orphan_riboswitch/Orphan_riboswitch_2D2.svg" alt="drawing" />
 </div>
+<div style="display: flex; justify-content: center;">
+<a href="/downloads/orphan_riboswitch/Orphan_riboswitch_2D2.pdf" target="_blank" download="nan.svg"><button class="btn btn-secondary"><span class="glyphicon 
+glyphicon-download-alt"></span>&nbsp;&nbsp;Download above picture</button></a><br />
+</div><br />
+                            
 
-<html>
 <head>
     <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
     <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no" />
@@ -489,8 +498,10 @@
                 buttons: [
                     'copy', 'csv', 'excel', 'pdf', 
                 ]
+                 
 
             } );
+        Dnatable.order([[0, 'desc']]).draw();
         } );
    </script>
 <table id="SBtable" class="table table-striped table-bordered" cellspacing="0" width="100%">

@@ -46,10 +46,25 @@ Shows the sequence of Riboswitch (Rfam ID for fasta file download). We keep the 
     .sheet {
       display: none;
     }
+    /*一闪一闪*/
+    .updating-text {
+      animation: updateText 2s infinite;
+      font-weight:bold;
+      color:#005826
+    }
+    @keyframes updateText {
+      0%, 100% {
+        opacity: 1;
+      }
+      50% {
+        opacity: 0.3;
+      }
+    }
+    /*一闪一闪*/
 </style>
 </head>
 <div class="sectiontitle" style="border: 1px solid #C9C9C9; background-color: #fff;">
-<p class="header_box" >Search by sequence</p>
+<p class="header_box" >Search by sequence<span class="updating-text"> (Continuously updated)</span></p>
 <head>
     <title>Sequence search</title>
   </head>
@@ -65,13 +80,13 @@ Shows the sequence of Riboswitch (Rfam ID for fasta file download). We keep the 
   <script type="text/javascript" src="https://www.ribocentre.org/js/RNAcentral-sequence-search.js"></script></body>
 </div>
 
-<br><br>
+<br>
 <div class="sectiontitle" style="border: 1px solid #C9C9C9; background-color: #fff;">
 <p class="header_box" >About sequence in Riboswitch database</p>
 The table below presents the complete collection of currently available sequences from RNAcentre. Click 'download' to obtain the desired target sequence.<br><br>
 
         
- <div style="display: flex;">
+ <div style="display: flex;overflow:auto">
  
     <table style="flex: 1;">
       <tr>

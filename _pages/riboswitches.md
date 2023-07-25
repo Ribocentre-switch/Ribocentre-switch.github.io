@@ -33,6 +33,7 @@ permalink: /riboswitches/
       justify-content: left;
       align-items: center;
       height: 50px;
+      overflow:auto
     }
     /* 按钮样式 */
     .button {
@@ -43,7 +44,7 @@ permalink: /riboswitches/
       background-color: #efefef;
       color: #005826;
       text-decoration: none;
-      font-size: 20px;
+      font-size: 16px;
       border: 1px solid #005826;
       border-radius: 5px;
 
@@ -81,6 +82,7 @@ permalink: /riboswitches/
     /* 隐藏所有 sheet */
     .sheet {
       display: none;
+      overflow:auto
     }
     /* Style the search box */
   #searchBox {
@@ -103,6 +105,7 @@ permalink: /riboswitches/
     .form-container {
       display: flex;
       align-items: center;
+      overflow:auto
     }
     .form-container input {
       margin-right: 10px;
@@ -129,7 +132,7 @@ In the past 20 years, more than 55 riboswitch classes have been experimentally v
 <br><br>
         
 <p class="header_box" >Statistical information </p>
-Classification of experimentally validated riboswitches. The plotted data correspond to the types of riboswitches according to the biochemical category of their cognate ligand.
+<p>Classification of experimentally validated riboswitches. The plotted data correspond to the types of riboswitches according to the biochemical category of their cognate ligand.</p>
 <img src="/images/riboswitches/Classification_of_Riboswitches.svg" alt="drawing" style="width:1000px;display:block;margin:0 auto;border:solid 1px;border-radius:0;" class="img-responsive">
 <div style="display: flex; justify-content: center;">
 <a href="/downloads/riboswitches_page/Classification_of_Riboswitches.pdf" target="_blank" download="Classification_of_Riboswitches.svg.svg"><button class="btn btn-secondary"><span class="glyphicon glyphicon-download-alt"></span>&nbsp;&nbsp;Download FIGURE</button></a>   
@@ -175,7 +178,6 @@ This section lists all the experimentally validated riboswitches.
         
 <div id="sheet1" class="sheet">
     <h2>Cofactors</h2>
-    
     <table id="cfttable">
       <thead>
       <tr>
@@ -944,7 +946,6 @@ RF03170</td>
             
       </tbody>
     </table>
-    
 </div>        
                 
 <script>
