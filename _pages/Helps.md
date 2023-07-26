@@ -68,7 +68,7 @@ The <code class="language-plaintext highlighter-rouge"><font color=Gray><a href=
 <br>
 <div class="sectiontitle" style="border: 1px solid #C9C9C9; background-color: #fff;">
 <p class="header_box" >How to contact us</p>
-For any inquiries or concerns regarding the database, please reach out to <code class="language-plaintext highlighter-rouge"><font color=Gray>bufan2023@gmail.com</font></code>.
+For any inquiries or concerns regarding the database, please reach out to <code class="language-plaintext highlighter-rouge"><font color=Gray><a href="mailto:bufan2023@gmail.com">bufan2023@gmail.com</a></font></code>.
 </div>
 <br>
 <div class="sectiontitle" style="border: 1px solid #C9C9C9; background-color: #fff;">  

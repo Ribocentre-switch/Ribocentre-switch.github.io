@@ -103,12 +103,12 @@ glyphicon-download-alt"></span>&nbsp;&nbsp;Download above picture</button></a><b
         $(document).ready(function() {
             $.noConflict();
             $('#Dnatable').DataTable( {
+                "order": [[0, "desc"]],
                 dom: 'Bfrtip', 
                 buttons: [
                     'copy', 'csv', 'excel', 'pdf', 
                 ]
             } );
-        Dnatable.order([[0, 'desc']]).draw();
         } );
    </script>
 <table id="Dnatable" class="table table-striped table-bordered" cellspacing="0" width="100%">
@@ -347,6 +347,7 @@ glyphicon-download-alt"></span>&nbsp;&nbsp;Download above picture</button></a><b
         $(document).ready(function() {
             $.noConflict();
             $('#SBtable').DataTable( {
+                "order": [[0, "desc"]],
                 dom: 'Bfrtip', 
                 buttons: [
                     'copy', 'csv', 'excel', 'pdf', 
