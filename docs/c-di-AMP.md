@@ -420,7 +420,7 @@ permalink: /docs/c-di-AMP/
 {
   struct_asym_id: 'C', 
   start_residue_number:87, 
-  end_residue_number:91, 
+  end_residue_number91, 
   color:{r:255,g:135,b:10}
 },
 {

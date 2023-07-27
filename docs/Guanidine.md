@@ -247,7 +247,7 @@ permalink: /docs/Guanidine/
 <p class="header_box" id="Structure and Ligand recognition">Structure and Ligand recognition</p>
 > 2D representation
         
-<p>(Left) Consensus sequence and secondary structure model for the guanidine-I riboswitch. (Right) Secondary structure depictions of the guanidine-I riboswitch according to PDB ID: 5T83<sup>[4]</sup>.</p><br>
+<p>(Top) Consensus sequence and secondary structure model for the guanidine-I riboswitch. (Bottom) Secondary structure depictions of the guanidine-I riboswitch according to PDB ID: 5T83<sup>[4]</sup>.</p><br>
 <html>
 <div>
     <div class="entry-content clearfix" itemprop="articleBody description" style="overflow: auto;">
@@ -368,7 +368,7 @@ permalink: /docs/Guanidine/
 </html>
  <p><br /></p>
                     
-<p>(Left) Consensus sequence and secondary structure model for the guanidine-II riboswitch. (Right) Secondary structure depictions of the guanidine-II riboswitch P1 stem-loop according to PDB ID: 5NOM and P2 stem-loop according to PDB ID: 5NDH<sup>[6]</sup>.</p><br>
+<p>(Top) Consensus sequence and secondary structure model for the guanidine-II riboswitch. (Bottom) Secondary structure depictions of the guanidine-II riboswitch P1 stem-loop according to PDB ID: 5NOM and P2 stem-loop according to PDB ID: 5NDH<sup>[6]</sup>.</p><br>
 <html>
 <div>
     <div class="entry-content clearfix" itemprop="articleBody description" style="overflow: auto;">
@@ -489,7 +489,7 @@ permalink: /docs/Guanidine/
 </html>
  <p><br /></p>
                     
-<p>(Left) Consensus sequence and secondary structure model for the guanidine-III riboswitch. (Right) Secondary structure depictions of the guanidine-III riboswitch according to PDB ID: 5NWQ<sup>[7]</sup>.</p><br>
+<p>(Top) Consensus sequence and secondary structure model for the guanidine-III riboswitch. (Bottom) Secondary structure depictions of the guanidine-III riboswitch according to PDB ID: 5NWQ<sup>[7]</sup>.</p><br>
 <html>
 <div>
     <div class="entry-content clearfix" itemprop="articleBody description" style="overflow: auto;">
@@ -610,7 +610,7 @@ permalink: /docs/Guanidine/
 </html>
  <p><br /></p>
                     
-<p>(Left) Consensus sequence and secondary structure model for the guanidine-IV riboswitch. (Right) Sequence and secondary structure model of the guanidine-IV (mepA motif) riboswitch<sup>[8]</sup>.</p><br>
+<p>Consensus sequence and secondary structure model for the guanidine-IV riboswitch<sup>[8]</sup>.</p><br>
 <table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
 <head>

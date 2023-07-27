@@ -150,7 +150,7 @@ permalink: /docs/Xanthine/
 <p class="header_box" id="Structure and Ligand recognition">Structure and Ligand recognition</p>
 > 2D representation
         
-<p>(Left) Consensus sequence and secondary structure model for the xanthine-I riboswitch. (Right) Secondary structure depictions of the xanthine-I riboswitch according to PDB ID: 7ELR<sup>[2]</sup>.</p><br>
+<p>(Top) Consensus sequence and secondary structure model for the xanthine-I riboswitch. (Bottom) Secondary structure depictions of the xanthine-I riboswitch according to PDB ID: 7ELR<sup>[2]</sup>.</p><br>
 <html>
 <div>
     <div class="entry-content clearfix" itemprop="articleBody description" style="overflow: auto;">
@@ -271,7 +271,7 @@ permalink: /docs/Xanthine/
 </html>
  <p><br /></p>
                     
-<p>(Left) Consensus sequence and secondary structure model for the xanthine-II riboswitch. (Right) Sequence and secondary structure model of the xanthine-II (92 allB RNA) riboswitch<sup>[4]</sup>.</p><br>
+<p>Consensus sequence and secondary structure model for the xanthine-II riboswitch<sup>[4]</sup>.</p><br>
 <table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
 <head>
