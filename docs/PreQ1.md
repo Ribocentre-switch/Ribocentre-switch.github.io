@@ -637,7 +637,7 @@ permalink: /docs/PreQ/
 > 3D visualisation
                 
 <font >The overall structure of the PreQ<sub>1</sub>-I riboswitch was generated from PDB ID: 3FU2 at 2.85 Å resolution bound with PreQ<sub>1</sub>. PreQ<sub>1</sub> (shown in sticks) is labeled in red <sup>[3]</sup>.</font>
-<div ><p style="text-align:right;margin-bottom: 0px;">(Clicking the "Settings/Controls info" to turn Spin off)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<div ><font ><p style="text-align:right;margin-bottom: 0px;">(Clicking the "Settings/Controls info" to turn Spin off)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p></font>
   <table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
   <img src="/images/3D/PreQ1_riboswitch_3D1.svg" alt="drawing" style="width:500px;margin-top: 0px;margin-bottom: 0px;" >
@@ -770,7 +770,7 @@ permalink: /docs/PreQ/
   <p><br /></p>
                 
 <font >The overall structure of the PreQ<sub>1</sub>-II riboswitch was generated from PDB ID: 4JF2 at 2.28 Å resolution bound with PreQ<sub>1</sub>. PreQ<sub>1</sub> (shown in sticks) is labeled in red <sup>[10]</sup>.</font>
-<div ><p style="text-align:right;margin-bottom: 0px;">(Clicking the "Settings/Controls info" to turn Spin off)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<div ><font ><p style="text-align:right;margin-bottom: 0px;">(Clicking the "Settings/Controls info" to turn Spin off)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p></font>
   <table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
   <img src="/images/3D/PreQ1_riboswitch_3D2.svg" alt="drawing" style="width:500px;margin-top: 0px;margin-bottom: 0px;" >
@@ -915,7 +915,7 @@ permalink: /docs/PreQ/
   <p><br /></p>
                 
 <font >The overall structure of the PreQ<sub>1</sub>-III riboswitch was generated from PDB ID: 4RZD at 2.75 Å resolution bound with PreQ<sub>1</sub>. PreQ<sub>1</sub> (shown in sticks) is labeled in red <sup>[13]</sup>.</font>
-<div ><p style="text-align:right;margin-bottom: 0px;">(Clicking the "Settings/Controls info" to turn Spin off)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<div ><font ><p style="text-align:right;margin-bottom: 0px;">(Clicking the "Settings/Controls info" to turn Spin off)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p></font>
   <table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
   <img src="/images/3D/PreQ1_riboswitch_3D3.svg" alt="drawing" style="width:500px;margin-top: 0px;margin-bottom: 0px;" >

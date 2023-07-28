@@ -634,7 +634,7 @@ SAM-IV riboswitches are a kind of riboswitch that specifically binds S-adenosylm
 > 3D visualisation
                 
 <font >2.9-Å resolution crystal structure of an S-adenosylmethionine (SAM) riboswitch from thermoanaerobacter tengcongensis complexed with S-adenosylmethionine. The figure reference from PDB ID: 2GIS, SAM (shown in sticks) is labeled in red <sup>[4]</sup>.</font>
-<div ><p style="text-align:right;margin-bottom: 0px;">(Clicking the "Settings/Controls info" to turn Spin off)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<div ><font ><p style="text-align:right;margin-bottom: 0px;">(Clicking the "Settings/Controls info" to turn Spin off)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p></font>
   <table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
   <img src="/images/3D/SAM-I_riboswitch_3D.gif" alt="drawing" style="width:500px;margin-top: 0px;margin-bottom: 0px;" >
@@ -770,7 +770,7 @@ SAM-IV riboswitches are a kind of riboswitch that specifically binds S-adenosylm
   <p><br /></p>
                 
 <font >4.1-Å resolution cryo-EM structure of an SAM-IV riboswitch from <i>Mycobacterium sp.</i> complexed with S-adenosylmethionine. The figure reference from PDB ID: 6UET, SAM (shown in sticks) is labeled in red <sup>[19]</sup>.</font>
-<div ><p style="text-align:right;margin-bottom: 0px;">(Clicking the "Settings/Controls info" to turn Spin off)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<div ><font ><p style="text-align:right;margin-bottom: 0px;">(Clicking the "Settings/Controls info" to turn Spin off)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p></font>
   <table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
   <img src="/images/3D/SAM-IV_riboswitch_3D.gif" alt="drawing" style="width:500px;margin-top: 0px;margin-bottom: 0px;" >
@@ -906,7 +906,7 @@ SAM-IV riboswitches are a kind of riboswitch that specifically binds S-adenosylm
   <p><br /></p>
                 
 <font >3.20-Å resolution crystal structure of an SAM-I/IV variant riboswitch complexed with S-adenosylmethionine.The figure reference from PDB ID: 4OQU, SAM (shown in sticks) is labeled in red <sup>[15]</sup>.</font>
-<div ><p style="text-align:right;margin-bottom: 0px;">(Clicking the "Settings/Controls info" to turn Spin off)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<div ><font ><p style="text-align:right;margin-bottom: 0px;">(Clicking the "Settings/Controls info" to turn Spin off)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p></font>
   <table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
   <img src="/images/3D/SAM-I+IV_riboswitch_3D.gif" alt="drawing" style="width:500px;margin-top: 0px;margin-bottom: 0px;" >
