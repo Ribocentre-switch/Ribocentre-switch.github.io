@@ -120,13 +120,13 @@ permalink: /docs/NAD2/
 </html>
 <br><br>
          
-<p class="header_box" id="description">Description</p>
+<font ><p class="header_box" id="description">Description</p></font>
 <font >NAD<sup>+</sup>-II riboswitch is the second class of riboswitches that recognize NAD<sup>+</sup>. It is usually associated with pnuC genes, and PnuC proteins are known to transport nicotinamide riboside (NR), which is a component of the ubiquitous and abundant enzyme cofactor nicotinamide adenine dinucleotide (NAD<sup>+</sup>). Thus, “pnuC motif” was inferred to function as aptamers for a novel class of NAD<sup>+</sup>-sensing riboswitches<sup></sup>.</font>
 <p><br /></p>
              
 > Gene association
             
-<p>Schematic representation of pnuC as a NR transporter involved in NAD+ synthesis. NAD+-II riboswitch representatives are found exclusively upstream of pnuC genes<sup>[2]</sup>.</p>
+<font><p>Schematic representation of pnuC as a NR transporter involved in NAD+ synthesis. NAD+-II riboswitch representatives are found exclusively upstream of pnuC genes<sup>[2]</sup>.</p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;">
 <tr >
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
@@ -138,7 +138,7 @@ permalink: /docs/NAD2/
                  
 > Gene regulation
                 
-<p>Potential mechanism of translation regulation by the NAD<sup>+</sup>-II riboswitch.The ribosome binding site (RBS) is showed on green<sup>[4]</sup>.</p>
+<font><p>Potential mechanism of translation regulation by the NAD<sup>+</sup>-II riboswitch.The ribosome binding site (RBS) is showed on green<sup>[4]</sup>.</p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
   <img src="/images/gene_regulation/NAD+-II_gene_regulation.svg" alt="drawing" style="width:1000px;margin-top: 0px;margin-bottom: 0px;" >
@@ -150,7 +150,7 @@ permalink: /docs/NAD2/
 <p class="header_box" id="Structure and Ligand recognition">Structure and Ligand recognition</p>
 > 2D representation
         
-<p>(Left) Consensus sequence and secondary structure model for the NAD<sup>+</sup>-II riboswitch. (Right) Secondary structure depictions of the NAD<sup>+</sup>-II riboswitch according to PDB ID:8I3Z<sup>[2,4]</sup>.</p><br>
+<font><p>(Left) Consensus sequence and secondary structure model for the NAD<sup>+</sup>-II riboswitch. (Right) Secondary structure depictions of the NAD<sup>+</sup>-II riboswitch according to PDB ID:8I3Z<sup>[2,4]</sup>.</p><br></font>
 <html>
 <div>
     <div class="entry-content clearfix" itemprop="articleBody description" style="overflow: auto;">
@@ -455,7 +455,7 @@ permalink: /docs/NAD2/
                  
 > Binding pocket
                     
-<p>(Left) Surface representation of the binding site 1 and 2 of NAD-II riboswitch generated from PDB ID:8I3Z. NMN (shown in sticks) is labeled in red. (Right) The hydrogen bonds of the two binding sites of the NAD-II riboswitch bound with NMN<sup>[4]</sup>.</p>
+<font><p>(Left) Surface representation of the binding site 1 and 2 of NAD-II riboswitch generated from PDB ID:8I3Z. NMN (shown in sticks) is labeled in red. (Right) The hydrogen bonds of the two binding sites of the NAD-II riboswitch bound with NMN<sup>[4]</sup>.</p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;"><tr>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/NAD+-II_riboswitch_binding_pockets1.svg" alt="drawing" style="width:500px"  px="" /></td>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/NAD+-II_riboswitch_binding_pockets2.svg" alt="drawing" style="width:500px"  px="" /></td>
@@ -465,23 +465,23 @@ permalink: /docs/NAD2/
                      
 <p class="header_box" id="references">References</p>
                 
-<p><strong>[1] Comprehensive discovery of novel structured noncoding RNAs in 26 bacterial genomes</strong><br />
+<font><strong>[1] Comprehensive discovery of novel structured noncoding RNAs in 26 bacterial genomes</strong></font>
 Brewer, K. I. et al.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/33970790/" target="_blank">RNA Biol. 18, 2417–2432 (2021).</a>
-<br /></p>
+<br />
                 
-<p><strong>[2] A second riboswitch class for the enzyme cofactor NAD</strong><br />
+<font><strong>[2] A second riboswitch class for the enzyme cofactor NAD</strong></font>
 Panchapakesan, S. S. S., Corey, L., Malkowski, S. N., Higgs, G. & Breaker, R. R.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/33087526/" target="_blank">RNA 27, 99–105 (2021).</a>
-<br /></p>
+<br />
                 
-<p><strong>[3] Structure-based investigations of the NAD<sup>+</sup>-II riboswitch</strong><br />
+<font><strong>[3] Structure-based investigations of the NAD<sup>+</sup>-II riboswitch</strong></font>
 Xu, X. et al.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/36610789/" target="_blank">Nucleic Acids Res. 51, 54–67 (2023).</a>
-<br /></p>
+<br />
                 
-<p><strong>[4] Crystal structures of the NAD<sup>+</sup>-II riboswitch reveal two distinct ligand-binding pockets</strong><br />
+<font><strong>[4] Crystal structures of the NAD<sup>+</sup>-II riboswitch reveal two distinct ligand-binding pockets</strong></font>
 Peng, X., Liao, W., Lin, X., Lilley, D. M. J. & Huang, L.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/36840714/" target="_blank">Nucleic Acids Res. 51, 2904–2914 (2023).</a>
-<br /></p>
+<br />
                 

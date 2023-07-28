@@ -112,13 +112,13 @@ permalink: /docs/Azaaromatic/
 </html>
 <br><br>
          
-<p class="header_box" id="description">Description</p>
+<font ><p class="header_box" id="description">Description</p></font>
 <font >The azaaromatic riboswitch was named <i>yjdF</i> RNA. The <i>yjdF</i> RNA motif is a conserved RNA structure identified using bioinformatics. Most <i>yjdF</i> RNAs are located in bacteria classified within the phylum Bacillota. A <i>yjdF</i> RNA is found in the presumed 5' untranslated region (5' UTR) of the <i>yjdF</i> gene in <i>Bacillus subtilis</i>, and almost all <i>yjdF</i> RNAs are found in the 5' UTRs of homologs of this gene. <i>yjdF</i> RNAs appear to function as riboswitches that sense azaaromatic compounds, although the precise compound or set of compounds that is sensed by this riboswitch in the cell remains unclear (From Wikipedia)<sup></sup>.</font>
 <p><br /></p>
              
 > Gene regulation
                 
-<p>Potential mechanism of translation regulation by azaaromatic riboswitch<sup>[2]</sup>.</p>
+<font><p>Potential mechanism of translation regulation by azaaromatic riboswitch<sup>[2]</sup>.</p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
   <img src="/images/gene_regulation/Azaaromatic_riboswitch_gene_regulation.svg" alt="drawing" style="width:1000px;margin-top: 0px;margin-bottom: 0px;" >
@@ -130,7 +130,7 @@ permalink: /docs/Azaaromatic/
 <p class="header_box" id="Structure and Ligand recognition">Structure and Ligand recognition</p>
 > 2D representation
         
-<p>Consensus sequence and secondary structure model for azaaromatic riboswitch<sup>[1]</sup>.</p><br>
+<font><p>Consensus sequence and secondary structure model for azaaromatic riboswitch<sup>[1]</sup>.</p></font><br>
 <table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
 <head>
@@ -184,7 +184,7 @@ permalink: /docs/Azaaromatic/
 > Ligand recognition
                 
 
-<p>Chemical structures of azaaromatic. The apparent K<sub>D</sub> of each compound of azaaromatic riboswitch is shown on bottom<sup>[1]</sup>.</p>
+<font><p>Chemical structures of azaaromatic. The apparent K<sub>D</sub> of each compound of azaaromatic riboswitch is shown on bottom<sup>[1]</sup>.</p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;">
 <tr>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
@@ -196,18 +196,18 @@ permalink: /docs/Azaaromatic/
                  
 <p class="header_box" id="references">References</p>
                 
-<p><strong>[1] The yjdF riboswitch candidate regulates gene expression by binding diverse azaaromatic compounds.</strong><br />
+<font><strong>[1] The yjdF riboswitch candidate regulates gene expression by binding diverse azaaromatic compounds.</strong></font>
 Li, S., Hwang, X. Y., Stav, S. & Breaker, R. R.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/26843526/" target="_blank">RNA 22, 530–541 (2016).</a>
-<br /></p>
+<br />
                 
-<p><strong>[2] Genetic regulation mechanism of the yjdF riboswitch.</strong><br />
+<font><strong>[2] Genetic regulation mechanism of the yjdF riboswitch.</strong></font>
 Gong, S., Wang, Y., Wang, Z., Wang, Y. & Zhang, W.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/29223402/" target="_blank">J. Theor. Biol. 439, 152–159 (2018).</a>
-<br /></p>
+<br />
                 
-<p><strong>[3] The bacterial yjdF riboswitch regulates translation through its tRNA-like fold.</strong><br />
+<font><strong>[3] The bacterial yjdF riboswitch regulates translation through its tRNA-like fold.</strong></font>
 Trachman, R. J., 3rd, Passalacqua, L. F. M. & Ferré-D’Amaré, A. R.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/35427649/" target="_blank">J. Biol. Chem. 298, 101934 (2022).</a>
-<br /></p>
+<br />
                 

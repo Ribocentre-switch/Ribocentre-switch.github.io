@@ -185,14 +185,14 @@ permalink: /docs/SAM-II_clan/
 </html>
 <br><br>
          
-<p class="header_box" id="description">Description</p>
+<font ><p class="header_box" id="description">Description</p></font>
 <font >The SAM-II riboswitch is a RNA element found predominantly in Alphaproteobacteria that binds S-adenosyl methionine (SAM). Its structure and sequence appear to be unrelated to the SAM riboswitch found in Gram-positive bacteria. This SAM riboswitch is located upstream of the <i>metA</i> and <i>metC</i> genes in Agrobacterium tumefaciens, and other methionine and SAM biosynthesis genes in other alpha-proteobacteria. Like the other SAM riboswitch, it probably functions to turn off expression of these genes in response to elevated SAM levels. A significant variant of SAM-II riboswitches was found in Pelagibacter ubique and related marine bacteria and called SAM-V. Also, like many structured RNAs, SAM-II riboswitches can tolerate long loops between their stems.
 SAM-V riboswitch is the fifth known riboswitch to bind S-adenosyl methionine (SAM). It was first discovered in the marine bacterium Candidatus Pelagibacter ubique and can also be found in marine metagenomes. SAM-V features a similar consensus sequence and secondary structure as the binding site of SAM-II riboswitch, but bioinformatics scans cluster the two aptamers independently. These similar binding pockets suggest that the two riboswitches have undergone convergent evolution. (from WiKi)<sup></sup>.</font>
 <p><br /></p>
              
 > Gene association
             
-<p>Pathways for sulphate assimilation and biosynthesis of cysteine and methionine. SAM-II riboswitch (red bar) and SAM-V riboswitch (yellow bar) are involved in multiple gene regulation in the synthetic pathway<sup>[1，5]</sup>.</p>
+<font><p>Pathways for sulphate assimilation and biosynthesis of cysteine and methionine. SAM-II riboswitch (red bar) and SAM-V riboswitch (yellow bar) are involved in multiple gene regulation in the synthetic pathway<sup>[1，5]</sup>.</p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;">
 <tr >
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
@@ -204,7 +204,7 @@ SAM-V riboswitch is the fifth known riboswitch to bind S-adenosyl methionine (SA
                  
 > Gene regulation
                 
-<p>Potential mechanism of translation regulation by the SAM-II riboswitch<sup>[7]</sup>.</p>
+<font><p>Potential mechanism of translation regulation by the SAM-II riboswitch<sup>[7]</sup>.</p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
   <img src="/images/gene_regulation/SAM-II_riboswitch_gene_regulation.svg" alt="drawing" style="width:1000px;margin-top: 0px;margin-bottom: 0px;" >
@@ -213,7 +213,7 @@ SAM-V riboswitch is the fifth known riboswitch to bind S-adenosyl methionine (SA
 </table>
 <br><br>
                         
-<p>Potential mechanism of translation regulation by the  SAM-V riboswitch<sup>[13]</sup>.</p>
+<font><p>Potential mechanism of translation regulation by the  SAM-V riboswitch<sup>[13]</sup>.</p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
   <img src="/images/gene_regulation/SAM-V_riboswitch_gene_regulation.svg" alt="drawing" style="width:1000px;margin-top: 0px;margin-bottom: 0px;" >
@@ -225,7 +225,7 @@ SAM-V riboswitch is the fifth known riboswitch to bind S-adenosyl methionine (SA
 <p class="header_box" id="Structure and Ligand recognition">Structure and Ligand recognition</p>
 > 2D representation
         
-<p>Top: Consensus sequence and secondary structure model for the SAM-II riboswitch. Bottom: Secondary structure depictions of the SAM-II riboswitch according to PDB ID: 2qwy<sup></sup>.</p><br>
+<font><p>Top: Consensus sequence and secondary structure model for the SAM-II riboswitch. Bottom: Secondary structure depictions of the SAM-II riboswitch according to PDB ID: 2qwy<sup></sup>.</p><br></font>
 <html>
 <div>
     <div class="entry-content clearfix" itemprop="articleBody description" style="overflow: auto;">
@@ -346,7 +346,7 @@ SAM-V riboswitch is the fifth known riboswitch to bind S-adenosyl methionine (SA
 </html>
  <p><br /></p>
                     
-<p>Top: Consensus sequence and secondary structure model for the SAM-V riboswitch. Bottom: Secondary structure depictions of the SAM-V riboswitch according to PDB ID: 6fz0<sup></sup>.</p><br>
+<font><p>Top: Consensus sequence and secondary structure model for the SAM-V riboswitch. Bottom: Secondary structure depictions of the SAM-V riboswitch according to PDB ID: 6fz0<sup></sup>.</p><br></font>
 <html>
 <div>
     <div class="entry-content clearfix" itemprop="articleBody description" style="overflow: auto;">
@@ -718,7 +718,7 @@ SAM-V riboswitch is the fifth known riboswitch to bind S-adenosyl methionine (SA
                  
 > Binding pocket
                     
-<p>Left: Surface representation of the binding pocket of the SAM-II riboswitch generated from PDB ID: 2QWY. S-adenosylmethionine (SAM) (shown in sticks) is labeled in red. Right: Hydrogen bonding between SAM and adjacent bases<sup>[3]</sup>.</p>
+<font><p>Left: Surface representation of the binding pocket of the SAM-II riboswitch generated from PDB ID: 2QWY. S-adenosylmethionine (SAM) (shown in sticks) is labeled in red. Right: Hydrogen bonding between SAM and adjacent bases<sup>[3]</sup>.</p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;"><tr>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/SAM-II_riboswitch_binding_pockets1.svg" alt="drawing" style="width:500px"  px="" /></td>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/SAM-II_riboswitch_binding_pockets2.svg" alt="drawing" style="width:500px"  px="" /></td>
@@ -726,7 +726,7 @@ SAM-V riboswitch is the fifth known riboswitch to bind S-adenosyl methionine (SA
 </table>
 <p><br /></p>
                     
-<p>Left: Surface representation of the binding pocket of the SAM-V riboswitch generated from PDB ID: 6FZ0. S-adenosylmethionine (SAM) (shown in sticks) is labeled in red. Right: Hydrogen bonding between SAM and adjacent bases<sup>[13]</sup>.</p>
+<font><p>Left: Surface representation of the binding pocket of the SAM-V riboswitch generated from PDB ID: 6FZ0. S-adenosylmethionine (SAM) (shown in sticks) is labeled in red. Right: Hydrogen bonding between SAM and adjacent bases<sup>[13]</sup>.</p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;"><tr>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/SAM-V_riboswitch_binding_pockets1.svg" alt="drawing" style="width:500px"  px="" /></td>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/SAM-V_riboswitch_binding_pockets2.svg" alt="drawing" style="width:500px"  px="" /></td>
@@ -737,7 +737,7 @@ SAM-V riboswitch is the fifth known riboswitch to bind S-adenosyl methionine (SA
 > Ligand recognition
                 
 
-<p>Chemical structures of various compounds used to probe the binding characteristics of the SAM-II riboswitch and SAM-V riboswitch<sup>[3,5]</sup>.</p>
+<font><p>Chemical structures of various compounds used to probe the binding characteristics of the SAM-II riboswitch and SAM-V riboswitch<sup>[3,5]</sup>.</p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;">
 <tr>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
@@ -749,73 +749,73 @@ SAM-V riboswitch is the fifth known riboswitch to bind S-adenosyl methionine (SA
                  
 <p class="header_box" id="references">References</p>
                 
-<p><strong>[1] Evidence for a second class of S-adenosylmethionine riboswitches and other regulatory RNA motifs in alpha-proteobacteria.</strong><br />
+<font><strong>[1] Evidence for a second class of S-adenosylmethionine riboswitches and other regulatory RNA motifs in alpha-proteobacteria.</strong></font>
 Corbino, K. A., Barrick, J. E., Lim, J., Welz, R., Tucker, B. J., Puskarz, I., Mandal, M., Rudnick, N. D., & Breaker, R. R.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/16086852/" target="_blank">Genome Biol. 6, R70 (2005).</a>
-<br /></p>
+<br />
                 
-<p><strong>[2] Molecular-recognition characteristics of SAM-binding riboswitches.</strong><br />
+<font><strong>[2] Molecular-recognition characteristics of SAM-binding riboswitches.</strong></font>
 Lim, J., Winkler, W. C., Nakamura, S., Scott, V., & Breaker, R. R.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/16381055/" target="_blank">Angew. Chem. Int. Ed Engl. 45, 964–968 (2006).</a>
-<br /></p>
+<br />
                 
-<p><strong>[3] Structure of the SAM-II riboswitch bound to S-adenosylmethionine.</strong><br />
+<font><strong>[3] Structure of the SAM-II riboswitch bound to S-adenosylmethionine.</strong></font>
 Gilbert, S. D., Rambo, R. P., Van Tyne, D., & Batey, R. T.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/18204466/" target="_blank">Nat. Struct. Mol. Biol. 15, 177–182 (2008).</a>
-<br /></p>
+<br />
                 
-<p><strong>[4] Identification of candidate structured RNAs in the marine organism 'Candidatus Pelagibacter Ubique'.</strong><br />
+<font><strong>[4] Identification of candidate structured RNAs in the marine organism 'Candidatus Pelagibacter Ubique'.</strong></font>
 Meyer, M. M., Ames, T. D., Smith, D. P., Weinberg, Z., Schwalbach, M. S., Giovannoni, S. J., & Breaker, R. R.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/19531245/" target="_blank">BMC Genomics 10, 268 (2009).</a>
-<br /></p>
+<br />
                 
-<p><strong>[5] A variant riboswitch aptamer class for S-adenosylmethionine common in marine bacteria.</strong><br />
+<font><strong>[5] A variant riboswitch aptamer class for S-adenosylmethionine common in marine bacteria.</strong></font>
 Poiata, E., Meyer, M. M., Ames, T. D., & Breaker, R. R.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/19776155/" target="_blank">RNA 15, 2046–2056 (2009).</a>
-<br /></p>
+<br />
                 
-<p><strong>[6] Conformational capture of the SAM-II riboswitch.</strong><br />
+<font><strong>[6] Conformational capture of the SAM-II riboswitch.</strong></font>
 Haller, A., Rieder, U., Aigner, M., Blanchard, S. C., & Micura, R.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/21532598/" target="_blank">Nat. Chem. Biol. 7, 393–400 (2011).</a>
-<br /></p>
+<br />
                 
-<p><strong>[7] Multiple conformations of SAM-II riboswitch detected with SAXS and NMR spectroscopy.</strong><br />
+<font><strong>[7] Multiple conformations of SAM-II riboswitch detected with SAXS and NMR spectroscopy.</strong></font>
 Chen, B., Zuo, X., Wang, Y. X., & Dayie, T. K.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/22139931/" target="_blank">Nucleic Acids Res. 40, 3117–3130 (2012).</a>
-<br /></p>
+<br />
                 
-<p><strong>[8] Atomic-level insights into metabolite recognition and specificity of the SAM-II riboswitch.</strong><br />
+<font><strong>[8] Atomic-level insights into metabolite recognition and specificity of the SAM-II riboswitch.</strong></font>
 Doshi, U., Kelley, J. M., & Hamelberg, D.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/22194311/" target="_blank">RNA 18, 300–307 (2012).</a>
-<br /></p>
+<br />
                 
-<p><strong>[9] Common themes and differences in SAM recognition among SAM riboswitches.</strong><br />
+<font><strong>[9] Common themes and differences in SAM recognition among SAM riboswitches.</strong></font>
 Price IR, Grigg JC, Ke A.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/24863160/" target="_blank">Biochim Biophys Acta.1839(10):931-938.(2014)</a>
-<br /></p>
+<br />
                 
-<p><strong>[10] Folding of SAM-II riboswitch explored by replica-exchange molecular dynamics simulation.</strong><br />
+<font><strong>[10] Folding of SAM-II riboswitch explored by replica-exchange molecular dynamics simulation.</strong></font>
 Xue, X., Yongjun, W., & Zhihong, L.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/25451761/" target="_blank">J. Theor. Biol. 365, 265–269 (2015).</a>
-<br /></p>
+<br />
                 
-<p><strong>[11] SAM-II riboswitch samples at least two conformations in solution in the absence of ligand: implications for recognition.</strong><br />
+<font><strong>[11] SAM-II riboswitch samples at least two conformations in solution in the absence of ligand: implications for recognition.</strong></font>
 Chen, B., LeBlanc, R., & Dayie, T. K.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/26800479/" target="_blank">Angew. Chem. Int. Ed Engl. 55, 2724–2727 (2016).</a>
-<br /></p>
+<br />
                 
-<p><strong>[12] A magnesium-induced triplex pre-organizes the SAM-II riboswitch.</strong><br />
+<font><strong>[12] A magnesium-induced triplex pre-organizes the SAM-II riboswitch.</strong></font>
 Roy, S., Lammert, H., Hayes, R. L., Chen, B., LeBlanc, R., Dayie, T. K., Onuchic, J. N., & Sanbonmatsu, K. Y.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/28248966/" target="_blank">PLoS Comput. Biol. 13, e1005406 (2017).</a>
-<br /></p>
+<br />
                 
-<p><strong>[13] Structure and ligand binding of the SAM-V riboswitch.</strong><br />
+<font><strong>[13] Structure and ligand binding of the SAM-V riboswitch.</strong></font>
 Huang, L., & Lilley, D. M. J.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/29931337/" target="_blank">Nucleic Acids Res. 46, 6869–6879 (2018).</a>
-<br /></p>
+<br />
                 
-<p><strong>[14] Structure-based insights into recognition and regulation of SAM-sensing riboswitches.</strong><br />
+<font><strong>[14] Structure-based insights into recognition and regulation of SAM-sensing riboswitches.</strong></font>
 Zheng L, Song Q, Xu X, Shen X, Li C, Li H, Chen H, Ren A.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/36459353/" target="_blank">Sci China Life Sci.66(1):31-50 (2023).</a>
-<br /></p>
+<br />
                 

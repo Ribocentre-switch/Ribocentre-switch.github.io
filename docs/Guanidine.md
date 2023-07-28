@@ -202,13 +202,13 @@ permalink: /docs/Guanidine/
 </html>
 <br><br>
          
-<p class="header_box" id="description">Description</p>
+<font ><p class="header_box" id="description">Description</p></font>
 <font >Four classes of riboswitches have been identified that bind the cationic molecule guanidine (Gdm<sup>+</sup> ). The ykkC motif RNA is associated with genes encoding transporters, such as multidrug efflux pumps, urea carboxylase, purine biosynthesis, and amino acid metabolism enzymes. Later, transporters and urea carboxylase were also found to be associated with the mini-ykkC and ykkC-III motifs. They sense the same ligand guanidine, now known as guanidine-I, -II and -III riboswitches. It was later discovered that the guanidine-IV riboswitch was shown to selectively respond to guanidine. Guanidine-I and -IV are transcriptional regulatory riboswitches, while guanidine-II and -III are considered translational riboswitches<sup>[1-3,10]</sup>.</font>
 <p><br /></p>
              
 > Gene association
             
-<p>Guanidine is sensed by at least four different classes of riboswitches that are ubiquitous in bacteria. The genes primarily regulated by the guanidine riboswitch are Gdx transporters that export compounds from bacterial cells. In addition, urea/guanidine carboxylase and related hydrolases, as well as ABC transporters, are often incorporated in guanidine-inducible operons<sup>[13]</sup>.</p>
+<font><p>Guanidine is sensed by at least four different classes of riboswitches that are ubiquitous in bacteria. The genes primarily regulated by the guanidine riboswitch are Gdx transporters that export compounds from bacterial cells. In addition, urea/guanidine carboxylase and related hydrolases, as well as ABC transporters, are often incorporated in guanidine-inducible operons<sup>[13]</sup>.</p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;">
 <tr >
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
@@ -247,7 +247,7 @@ permalink: /docs/Guanidine/
 <p class="header_box" id="Structure and Ligand recognition">Structure and Ligand recognition</p>
 > 2D representation
         
-<p>(Top) Consensus sequence and secondary structure model for the guanidine-I riboswitch. (Bottom) Secondary structure depictions of the guanidine-I riboswitch according to PDB ID: 5T83<sup>[4]</sup>.</p><br>
+<font><p>(Top) Consensus sequence and secondary structure model for the guanidine-I riboswitch. (Bottom) Secondary structure depictions of the guanidine-I riboswitch according to PDB ID: 5T83<sup>[4]</sup>.</p><br></font>
 <html>
 <div>
     <div class="entry-content clearfix" itemprop="articleBody description" style="overflow: auto;">
@@ -368,7 +368,7 @@ permalink: /docs/Guanidine/
 </html>
  <p><br /></p>
                     
-<p>(Top) Consensus sequence and secondary structure model for the guanidine-II riboswitch. (Bottom) Secondary structure depictions of the guanidine-II riboswitch P1 stem-loop according to PDB ID: 5NOM and P2 stem-loop according to PDB ID: 5NDH<sup>[6]</sup>.</p><br>
+<font><p>(Top) Consensus sequence and secondary structure model for the guanidine-II riboswitch. (Bottom) Secondary structure depictions of the guanidine-II riboswitch P1 stem-loop according to PDB ID: 5NOM and P2 stem-loop according to PDB ID: 5NDH<sup>[6]</sup>.</p><br></font>
 <html>
 <div>
     <div class="entry-content clearfix" itemprop="articleBody description" style="overflow: auto;">
@@ -489,7 +489,7 @@ permalink: /docs/Guanidine/
 </html>
  <p><br /></p>
                     
-<p>(Top) Consensus sequence and secondary structure model for the guanidine-III riboswitch. (Bottom) Secondary structure depictions of the guanidine-III riboswitch according to PDB ID: 5NWQ<sup>[7]</sup>.</p><br>
+<font><p>(Top) Consensus sequence and secondary structure model for the guanidine-III riboswitch. (Bottom) Secondary structure depictions of the guanidine-III riboswitch according to PDB ID: 5NWQ<sup>[7]</sup>.</p><br></font>
 <html>
 <div>
     <div class="entry-content clearfix" itemprop="articleBody description" style="overflow: auto;">
@@ -610,7 +610,7 @@ permalink: /docs/Guanidine/
 </html>
  <p><br /></p>
                     
-<p>Consensus sequence and secondary structure model for the guanidine-IV riboswitch<sup>[8]</sup>.</p><br>
+<font><p>Consensus sequence and secondary structure model for the guanidine-IV riboswitch<sup>[8]</sup>.</p></font><br>
 <table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
 <head>
@@ -1022,7 +1022,7 @@ permalink: /docs/Guanidine/
                  
 > Binding pocket
                     
-<p>(Left) Surface representation of the binding pocket of the guanidine-I riboswitch generated from PDB ID: 5T83. Guanidine (shown in sticks) is labeled in red. (Right) Ligand interaction between guanidine and guanidine-I riboswitch<sup>[4]</sup>.</p>
+<font><p>(Left) Surface representation of the binding pocket of the guanidine-I riboswitch generated from PDB ID: 5T83. Guanidine (shown in sticks) is labeled in red. (Right) Ligand interaction between guanidine and guanidine-I riboswitch<sup>[4]</sup>.</p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;"><tr>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/Guanidine-I_riboswitch_binding_pockets1.svg" alt="drawing" style="width:500px"  px="" /></td>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/Guanidine-I_riboswitch_binding_pockets2.svg" alt="drawing" style="width:500px"  px="" /></td>
@@ -1030,7 +1030,7 @@ permalink: /docs/Guanidine/
 </table>
 <p><br /></p>
                     
-<p>(Left) Surface representation of the binding pocket of the guanidine-II riboswitch generated from PDB ID: 5NOM, 5NDH. Guanidine (shown in sticks) is labeled in red. (Right) Ligand interaction between guanidine and guanidine-II riboswitch<sup>[6]</sup>.</p>
+<font><p>(Left) Surface representation of the binding pocket of the guanidine-II riboswitch generated from PDB ID: 5NOM, 5NDH. Guanidine (shown in sticks) is labeled in red. (Right) Ligand interaction between guanidine and guanidine-II riboswitch<sup>[6]</sup>.</p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;"><tr>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/Guanidine-II_riboswitch_binding_pockets1.svg" alt="drawing" style="width:500px"  px="" /></td>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/Guanidine-II_riboswitch_binding_pockets2.svg" alt="drawing" style="width:500px"  px="" /></td>
@@ -1038,7 +1038,7 @@ permalink: /docs/Guanidine/
 </table>
 <p><br /></p>
                     
-<p>(Left) Surface representation of the binding pocket of the guanidine-III riboswitch generated from PDB ID: 5NWQ. Guanidine (shown in sticks) is labeled in red. (Right) Ligand interaction between guanidine and guanidine-III riboswitch<sup>[7]</sup>.</p>
+<font><p>(Left) Surface representation of the binding pocket of the guanidine-III riboswitch generated from PDB ID: 5NWQ. Guanidine (shown in sticks) is labeled in red. (Right) Ligand interaction between guanidine and guanidine-III riboswitch<sup>[7]</sup>.</p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;"><tr>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/Guanidine-III_riboswitch_binding_pockets1.svg" alt="drawing" style="width:500px"  px="" /></td>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/Guanidine-III_riboswitch_binding_pockets2.svg" alt="drawing" style="width:500px"  px="" /></td>
@@ -1049,7 +1049,7 @@ permalink: /docs/Guanidine/
 > Ligand recognition
                 
 
-<p>Chemical structures of xanthine and its analogs. The apparent K<sub>D</sub> of each compound of guanidine-I, -II, -III, -IV riboswitch is shown on bottom<sup>[1-3,11]</sup>.</p>
+<font><p>Chemical structures of xanthine and its analogs. The apparent K<sub>D</sub> of each compound of guanidine-I, -II, -III, -IV riboswitch is shown on bottom<sup>[1-3,11]</sup>.</p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;">
 <tr>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
@@ -1061,73 +1061,73 @@ permalink: /docs/Guanidine/
                  
 <p class="header_box" id="references">References</p>
                 
-<p><strong>[1] Metabolism of Free Guanidine in Bacteria Is Regulated by a Widespread Riboswitch Class.</strong><br />
+<font><strong>[1] Metabolism of Free Guanidine in Bacteria Is Regulated by a Widespread Riboswitch Class.</strong></font>
 Nelson, J. W., Atilho, R. M., Sherlock, M. E., Stockbridge, R. B. & Breaker, R. R.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/27989440/" target="_blank">Mol. Cell 65, 220–230 (2017).</a>
-<br /></p>
+<br />
                 
-<p><strong>[2] Biochemical Validation of a Second Guanidine Riboswitch Class in Bacteria.</strong><br />
+<font><strong>[2] Biochemical Validation of a Second Guanidine Riboswitch Class in Bacteria.</strong></font>
 Sherlock, M. E., Malkowski, S. N. & Breaker, R. R.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/28001368/" target="_blank">Biochemistry 56, 352–358 (2017).</a>
-<br /></p>
+<br />
                 
-<p><strong>[3] Biochemical Validation of a Third Guanidine Riboswitch Class in Bacteria.</strong><br />
+<font><strong>[3] Biochemical Validation of a Third Guanidine Riboswitch Class in Bacteria.</strong></font>
 Sherlock, M. E. & Breaker, R. R.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/28001372/" target="_blank">Biochemistry 56, 359–363 (2017).</a>
-<br /></p>
+<br />
                 
-<p><strong>[4] Structural Basis for Ligand Binding to the Guanidine-I Riboswitch.</strong><br />
+<font><strong>[4] Structural Basis for Ligand Binding to the Guanidine-I Riboswitch.</strong></font>
 Reiss, C. W., Xiong, Y. & Strobel, S. A.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/28017522/" target="_blank">Structure 25, 195–202 (2017).</a>
-<br /></p>
+<br />
                 
-<p><strong>[5] ykkCStructural basis for guanidine sensing by the family of riboswitches.</strong><br />
+<font><strong>[5] ykkCStructural basis for guanidine sensing by the family of riboswitches.</strong></font>
 Battaglia, R. A., Price, I. R. & Ke, A.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/28096518/" target="_blank">RNA 23, 578–585 (2017).</a>
-<br /></p>
+<br />
                 
-<p><strong>[6] The Structure of the Guanidine-II Riboswitch.</strong><br />
+<font><strong>[6] The Structure of the Guanidine-II Riboswitch.</strong></font>
 Huang, L., Wang, J. & Lilley, D. M. J.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/28529131/" target="_blank">Cell Chem Biol 24, 695–702.e2 (2017).</a>
-<br /></p>
+<br />
                 
-<p><strong>[7] Structural basis for ligand binding to the guanidine-II riboswitch.</strong><br />
+<font><strong>[7] Structural basis for ligand binding to the guanidine-II riboswitch.</strong></font>
 Reiss, C. W. & Strobel, S. A.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/28600356/" target="_blank">RNA 23, 1338–1343 (2017).</a>
-<br /></p>
+<br />
                 
-<p><strong>[8] Structure of the Guanidine III Riboswitch.</strong><br />
+<font><strong>[8] Structure of the Guanidine III Riboswitch.</strong></font>
 Huang, L., Wang, J., Wilson, T. J. & Lilley, D. M. J.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/28988949/" target="_blank">Cell Chem Biol 24, 1407–1415.e2 (2017).</a>
-<br /></p>
+<br />
                 
-<p><strong>[9] Structure-guided design of a high-affinity ligand for a riboswitch. </strong><br />
+<font><strong>[9] Structure-guided design of a high-affinity ligand for a riboswitch. </strong></font>
 Huang, L., Wang, J., Wilson, T. J. & Lilley, D. M. J. <br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/30609994/" target="_blank">RNA 25, 423–430 (2019).</a>
-<br /></p>
+<br />
                 
-<p><strong>[10] Do the P1 and P2 hairpins of the Guanidine-II riboswitch interact?</strong><br />
+<font><strong>[10] Do the P1 and P2 hairpins of the Guanidine-II riboswitch interact?</strong></font>
 Wuebben, C., Vicino, M. F., Mueller, M. & Schiemann, O.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/32857846/" target="_blank">Nucleic Acids Res. 48, 10518–10526 (2020).</a>
-<br /></p>
+<br />
                 
-<p><strong>[11] Biochemical Validation of a Fourth Guanidine Riboswitch Class in Bacteria.</strong><br />
+<font><strong>[11] Biochemical Validation of a Fourth Guanidine Riboswitch Class in Bacteria.</strong></font>
 Salvail, H., Balaji, A., Yu, D., Roth, A. & Breaker, R. R.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/33236895/" target="_blank">Biochemistry 59, 4654–4662 (2020).</a>
-<br /></p>
+<br />
                 
-<p><strong>[12] Discovery and characterization of a fourth class of guanidine riboswitches.</strong><br />
+<font><strong>[12] Discovery and characterization of a fourth class of guanidine riboswitches.</strong></font>
 Lenkeit, F., Eckert, I., Hartig, J. S. & Weinberg, Z.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/33237283/" target="_blank">Nucleic Acids Res. 48, 12889–12899 (2020).</a>
-<br /></p>
+<br />
                 
-<p><strong>[13] Widespread bacterial utilization of guanidine as nitrogen source.</strong><br />
+<font><strong>[13] Widespread bacterial utilization of guanidine as nitrogen source.</strong></font>
 Sinn, M., Hauth, F., Lenkeit, F., Weinberg, Z. & Hartig, J. S.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/33590553/" target="_blank">Mol. Microbiol. 116, 200–210 (2021).</a>
-<br /></p>
+<br />
                 
-<p><strong>[14] Combining Coarse-Grained Simulations and Single Molecule Analysis Reveals a Three-State Folding Model of the Guanidine-II Riboswitch.</strong><br />
+<font><strong>[14] Combining Coarse-Grained Simulations and Single Molecule Analysis Reveals a Three-State Folding Model of the Guanidine-II Riboswitch.</strong></font>
 Fuks, C., Falkner, S., Schwierz, N. & Hengesbach, M.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/35573739/" target="_blank">Front Mol Biosci 9, 826505 (2022).</a>
-<br /></p>
+<br />
                 

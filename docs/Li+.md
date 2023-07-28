@@ -105,7 +105,7 @@ permalink: /docs/Li/
 </html>
 <br><br>
          
-<p class="header_box" id="description">Description</p>
+<font ><p class="header_box" id="description">Description</p></font>
 <font >The <i>nhaA</i>-I RNA motif is a conserved RNA structure that was discovered by bioinformatics. <i>nhaA</i>-I motif RNAs are found in Acidobacteriota, alpha-, beta- and Gammaproteobacteria, Verrucomicrobiota and the tentative phylum NC10 (see bacterial phyla and List of taxa with candidatus status).
 <i>nhaA</i>-I motif RNAs likely function as cis-regulatory elements, in view of their positions upstream of protein-coding genes. Indeed, it is reasonable to speculate that <i>nhaA</i>-I RNAs directly bind a ligand, and therefore function as riboswitches, in view of their widespread distribution and conserved nucleotide positions. <i>nhaA</i>-I RNAs typically occur upstream of genes that encode exchangers of sodium ions and protons. More rarely, they also exist upstream of genes that encode DUF1646 protein domains, or that are involved in cell signaling or peptidoglycan. DUF1646-coding genes are also regulated by the DUF1646 RNA motif, which also has a potential association with sodium ions. <i>nhaA</i>-I RNAs also sometimes occur in tandem pairs, with two such RNAs nearby to one another. Such arrangements have been proposed to implement cooperative binding to more digitally regulate gene expression, although the biology underlying these tandem arrangements of <i>nhaA</i>-I RNAs is, as of 2018, unknown.
 The <i>nhaA</i>-II RNA motif is a conserved RNA structure that was discovered by bioinformatics. <i>nhaA</i>-II motifs are found in Caulobacterales.
@@ -115,7 +115,7 @@ In 2022, Breaker et al. identified <i>nhaA</i>-I motif and <i>nhaA</i>-II motif 
              
 > Gene association
             
-<p>Annotated functions of proteins encoded by genes commonly associated with Li<sup>+</sup> riboswitches<sup>[2]</sup>.</p>
+<font><p>Annotated functions of proteins encoded by genes commonly associated with Li<sup>+</sup> riboswitches<sup>[2]</sup>.</p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;">
 <tr >
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
@@ -128,7 +128,7 @@ In 2022, Breaker et al. identified <i>nhaA</i>-I motif and <i>nhaA</i>-II motif 
 <p class="header_box" id="Structure and Ligand recognition">Structure and Ligand recognition</p>
 > 2D representation
         
-<p>Consensus secondary structure and sequence conservation of Li<sup>+</sup> riboswitches<sup></sup>.</p><br>
+<font><p>Consensus secondary structure and sequence conservation of Li<sup>+</sup> riboswitches<sup></sup>.</p></font><br>
 <table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
 <head>
@@ -181,13 +181,13 @@ In 2022, Breaker et al. identified <i>nhaA</i>-I motif and <i>nhaA</i>-II motif 
                      
 <p class="header_box" id="references">References</p>
                 
-<p><strong>[1] Detection of 224 candidate structured RNAs by comparative analysis of specific subsets of intergenic regions.</strong><br />
+<font><strong>[1] Detection of 224 candidate structured RNAs by comparative analysis of specific subsets of intergenic regions.</strong></font>
 Weinberg, Z. et al.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/28977401/" target="_blank">Nucleic Acids Res. 45, 10811–10823 (2017).</a>
-<br /></p>
+<br />
                 
-<p><strong>[2] Lithium-sensing riboswitch classes regulate expression of bacterial cation transporter genes.</strong><br />
+<font><strong>[2] Lithium-sensing riboswitch classes regulate expression of bacterial cation transporter genes.</strong></font>
 White, N., Sadeeshkumar, H., Sun, A., Sudarsan, N. & Breaker, R. R.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/36352003/" target="_blank">Sci. Rep. 12, 19145 (2022).</a>
-<br /></p>
+<br />
                 

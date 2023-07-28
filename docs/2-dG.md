@@ -129,13 +129,13 @@ permalink: /docs/2-dG/
 </html>
 <br><br>
          
-<p class="header_box" id="description">Description</p>
+<font ><p class="header_box" id="description">Description</p></font>
 <font >Carrying an aptamer domain similar in sequence and secondary structure to the guanine riboswitch, the 2'-dG riboswitch exhibits improved affinities for 2'-deoxyguanosine (2'-dG), 3'-deoxyguanosine (3'-dG) and guanosine, and contains a uracil ribonucleotide in a conserved position of the ligand-binding aptamer domain. Up to now, three classes of 2'-dG riboswitches, named 2'-dG-I, 2'-dG-II and 2'-dG-III, have been identified, wherein the first two classes of 2'-dG riboswitches have atomic-resolution structural models<sup>[2-6]</sup>.</font>
 <p><br /></p>
              
 > Gene association
             
-<p>The gene associateds with 2'-dG-I, 2'-dG-II and 2'-dG-III RNAs are different from each other. 2'-dG-I RNAs are associated with genes annotated as ribonucleotide reductase. Genes located downstream from 2'-dG-II RNAs are predicted to encode a signal receiver domain, endonuclease I, phospholipase D, and ComEC. ComEC is a competence protein involved in importing foreign DNA and endonuclease I could mitigate a lack of 2'-dG by salvaging deoxyribonuc. 2'-dG-III RNAs are associated with genes encoding for purine nucleoside hydrolase, which uses nucleosides as substrates and produces free nucleobases as products<sup>[2,4,6]</sup>.</p>
+<font><p>The gene associateds with 2'-dG-I, 2'-dG-II and 2'-dG-III RNAs are different from each other. 2'-dG-I RNAs are associated with genes annotated as ribonucleotide reductase. Genes located downstream from 2'-dG-II RNAs are predicted to encode a signal receiver domain, endonuclease I, phospholipase D, and ComEC. ComEC is a competence protein involved in importing foreign DNA and endonuclease I could mitigate a lack of 2'-dG by salvaging deoxyribonuc. 2'-dG-III RNAs are associated with genes encoding for purine nucleoside hydrolase, which uses nucleosides as substrates and produces free nucleobases as products<sup>[2,4,6]</sup>.</p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;">
 <tr >
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
@@ -162,7 +162,7 @@ permalink: /docs/2-dG/
 <p class="header_box" id="Structure and Ligand recognition">Structure and Ligand recognition</p>
 > 2D representation
         
-<p>Top: Consensus sequence and secondary structure model for riboswitches that recognize purines, which are dominated by guanine riboswitches. Bottom: Secondary structure depictions of the 2'-dG-II riboswitch according to PDB ID: 6P2H<sup>[1, 4, 6]</sup>.</p><br>
+<font><p>Top: Consensus sequence and secondary structure model for riboswitches that recognize purines, which are dominated by guanine riboswitches. Bottom: Secondary structure depictions of the 2'-dG-II riboswitch according to PDB ID: 6P2H<sup>[1, 4, 6]</sup>.</p><br></font>
 <html>
 <div>
     <div class="entry-content clearfix" itemprop="articleBody description" style="overflow: auto;">
@@ -601,7 +601,7 @@ permalink: /docs/2-dG/
                  
 > Binding pocket
                     
-<p>Left: Surface representation of the binding pocket of the 2'-dG-I riboswitch generated from PDB ID: 3SKI. 2'-dG (shown in sticks) is labeled in red. Right: The hydrogen bonds of the binding sites of the 2'-dG-I riboswitch bound with 2'-dG<sup>[3]</sup>.</p>
+<font><p>Left: Surface representation of the binding pocket of the 2'-dG-I riboswitch generated from PDB ID: 3SKI. 2'-dG (shown in sticks) is labeled in red. Right: The hydrogen bonds of the binding sites of the 2'-dG-I riboswitch bound with 2'-dG<sup>[3]</sup>.</p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;"><tr>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/2-dG_riboswitch_binding_pockets1.svg" alt="drawing" style="width:500px"  px="" /></td>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/2-dG_riboswitch_binding_pockets2.svg" alt="drawing" style="width:500px"  px="" /></td>
@@ -609,7 +609,7 @@ permalink: /docs/2-dG/
 </table>
 <p><br /></p>
                     
-<p>Left: Surface representation of the binding pocket of the 2'-dG-II riboswitch generated from PDB ID: 6P2H. 2'-dG (shown in sticks) is labeled in red. Right: The hydrogen bonds of the binding sites of the 2'-dG-II riboswitch bound with 2'-dG<sup>[5]</sup>.</p>
+<font><p>Left: Surface representation of the binding pocket of the 2'-dG-II riboswitch generated from PDB ID: 6P2H. 2'-dG (shown in sticks) is labeled in red. Right: The hydrogen bonds of the binding sites of the 2'-dG-II riboswitch bound with 2'-dG<sup>[5]</sup>.</p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;"><tr>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/2-dG_riboswitch_binding_pockets3.svg" alt="drawing" style="width:500px"  px="" /></td>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/2-dG_riboswitch_binding_pockets4.svg" alt="drawing" style="width:500px"  px="" /></td>
@@ -620,7 +620,7 @@ permalink: /docs/2-dG/
 > Ligand recognition
                 
 
-<p>Chemical structures of 2'-dG and its analogs. The apparent K<sub>D</sub> of each compound of three classes of 2-dG riboswitches is shown on bottom<sup>[2, 4, 6]</sup>.</p>
+<font><p>Chemical structures of 2'-dG and its analogs. The apparent K<sub>D</sub> of each compound of three classes of 2-dG riboswitches is shown on bottom<sup>[2, 4, 6]</sup>.</p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;">
 <tr>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
@@ -632,33 +632,33 @@ permalink: /docs/2-dG/
                  
 <p class="header_box" id="references">References</p>
                 
-<p><strong>[1] Interactions between deoxyribonucleotide and DNA synthesis.</strong><br />
+<font><strong>[1] Interactions between deoxyribonucleotide and DNA synthesis.</strong></font>
 Reichard, P.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/3052277/" target="_blank">Annu. Rev. Biochem. 57, (1988).</a>
-<br /></p>
+<br />
                 
-<p><strong>[2] Guanine riboswitch variants from Mesoplasma florum selectively recognize  2'-deoxyguanosine.</strong><br />
+<font><strong>[2] Guanine riboswitch variants from Mesoplasma florum selectively recognize  2'-deoxyguanosine.</strong></font>
 Kim, J. N., Roth, A. & Breaker, R. R.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/17911257/" target="_blank">Proc. Natl. Acad. Sci. U. S. A. 104, (2007).</a>
-<br /></p>
+<br />
                 
-<p><strong>[3] Structural principles of nucleoside selectivity in a 2′-deoxyguanosine riboswitch.</strong><br />
+<font><strong>[3] Structural principles of nucleoside selectivity in a 2′-deoxyguanosine riboswitch.</strong></font>
 Pikovskaya, O., Polonskaia, A., Patel, D. J. & Serganov, A.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/21841796/" target="_blank">Nat. Chem. Biol. 7, (2011).</a>
-<br /></p>
+<br />
                 
-<p><strong>[4] Bioinformatic analysis of riboswitch structures uncovers variant classes with altered ligand specificity.</strong><br />
+<font><strong>[4] Bioinformatic analysis of riboswitch structures uncovers variant classes with altered ligand specificity.</strong></font>
 Weinberg, Z., Nelson, J. W., Lünse, C. E., Sherlock, M. E. & Breaker, R. R.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/28265071/" target="_blank">Proc. Natl. Acad. Sci. U. S. A. 114, (2017).</a>
-<br /></p>
+<br />
                 
-<p><strong>[5] Structural basis for 2′-deoxyguanosine recognition by the 2′-dG-II class of riboswitches.</strong><br />
+<font><strong>[5] Structural basis for 2′-deoxyguanosine recognition by the 2′-dG-II class of riboswitches.</strong></font>
 Matyjasik, M. M. & Batey, R. T.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/31598729/" target="_blank">Nucleic Acids Res. 47, (2019).</a>
-<br /></p>
+<br />
                 
-<p><strong>[6] Variants of the guanine riboswitch class exhibit altered ligand specificities for xanthine, guanine, or 2′-deoxyguanosine.</strong><br />
+<font><strong>[6] Variants of the guanine riboswitch class exhibit altered ligand specificities for xanthine, guanine, or 2′-deoxyguanosine.</strong></font>
 Hamal, D. S., Panchapakesan, S. S. S., Slattery, P., Roth, A. & Breaker, R. R.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/35622895/" target="_blank">Proc. Natl. Acad. Sci. U. S. A. 119, (2022).</a>
-<br /></p>
+<br />
                 

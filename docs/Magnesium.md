@@ -129,7 +129,7 @@ permalink: /docs/Magnesium/
 </html>
 <br><br>
          
-<p class="header_box" id="description">Description</p>
+<font ><p class="header_box" id="description">Description</p></font>
 <font >The Ykok leader or M-box is a Mg-sensing RNA structure that controls the expression of Magnesium ion transport proteins in bacteria. It is a distinct structure to the Magnesium responsive RNA element.
 The Ykok leader was originally described as a conserved sequence with potential riboswitch function found upstream of the <i>B. subtilis</i> ykoK gene and genes with related functions in other bacteria. Examples of the conserved M-box RNA structure occur upstream of each of the three major families of Mg transporters (CorA, MgtE and MgtA/MgtB) in various bacterial species.
 The molecular structure of the M-box example upstream of the <i>B. subtilis</i> ykoK gene includes six bound Mg ions. Biochemical studies indicate that this M-Box RNA compacts in the presence of Mg and other divalent ions. This folding process appears to disrupt an antiterminator structure, and thereby allow a transcription terminator structure to form. As expected from this model, B. subtilis cells repress expression of a downstream reporter gene when grown in the presence of Mg. Therefore, the M-box appears to function as a genetic "off" switch that is important for maintaining Mg homeostasis in bacteria.
@@ -138,7 +138,7 @@ The Magnesium responsive RNA element, not to be confused with the completely dis
              
 > Gene association
             
-<p>Mg<sup>2+</sup> riboswitch in <i>Salmonella enterica</i>. Magnesium-responsive regulatory pathways in the bacteria <i>Salmonella enterica</i> by the two-component regulatory system consisting of PhoQ, the membrane-bound sensor kinase, and PhoP, a transcription regulator. PhoP, which is phosphorylated, affects more than 100 genes in response to fluctuations in the Mg<sup>2+</sup> concentration. The regulatory system PhoQ/PhoP is a two-component system activated in low magnesium levels or by cationic peptides. Genes regulated by PhoP-PhoQ are depicted in grey boxes and ovals<sup>[6]</sup>.</p>
+<font><p>Mg<sup>2+</sup> riboswitch in <i>Salmonella enterica</i>. Magnesium-responsive regulatory pathways in the bacteria <i>Salmonella enterica</i> by the two-component regulatory system consisting of PhoQ, the membrane-bound sensor kinase, and PhoP, a transcription regulator. PhoP, which is phosphorylated, affects more than 100 genes in response to fluctuations in the Mg<sup>2+</sup> concentration. The regulatory system PhoQ/PhoP is a two-component system activated in low magnesium levels or by cationic peptides. Genes regulated by PhoP-PhoQ are depicted in grey boxes and ovals<sup>[6]</sup>.</p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;">
 <tr >
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
@@ -165,7 +165,7 @@ The Magnesium responsive RNA element, not to be confused with the completely dis
 <p class="header_box" id="Structure and Ligand recognition">Structure and Ligand recognition</p>
 > 2D representation
         
-<p>Top: Consensus sequence and secondary structure model for the Mg<sup>2+</sup>-I riboswitch. Bottom: Secondary structure depictions of the Mg<sup>2+</sup>-I riboswitch according to PDB ID: 2QBZ. Secondary structure shows the positions of inner- and outer-sphere contacts using shaded and open symbols, respectively, for the six Mg<sup>2+</sup> coordinated to the RNA. Each Mg<sup>2+</sup> has a unique symbol denoted in the legend<sup></sup>.</p><br>
+<font><p>Top: Consensus sequence and secondary structure model for the Mg<sup>2+</sup>-I riboswitch. Bottom: Secondary structure depictions of the Mg<sup>2+</sup>-I riboswitch according to PDB ID: 2QBZ. Secondary structure shows the positions of inner- and outer-sphere contacts using shaded and open symbols, respectively, for the six Mg<sup>2+</sup> coordinated to the RNA. Each Mg<sup>2+</sup> has a unique symbol denoted in the legend<sup></sup>.</p><br></font>
 <html>
 <div>
     <div class="entry-content clearfix" itemprop="articleBody description" style="overflow: auto;">
@@ -286,7 +286,7 @@ The Magnesium responsive RNA element, not to be confused with the completely dis
 </html>
  <p><br /></p>
                     
-<p>Left: Consensus sequence and secondary structure model for the Mg<sup>2+</sup>-II riboswitch<sup></sup>.</p><br>
+<font><p>Left: Consensus sequence and secondary structure model for the Mg<sup>2+</sup>-II riboswitch<sup></sup>.</p></font><br>
 <table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
 <head>
@@ -552,8 +552,8 @@ The Magnesium responsive RNA element, not to be confused with the completely dis
                  
 > Binding pocket
                     
-<p>Left: Surface representation of the binding pocket of the Mg<sup>2+</sup>-I riboswitch generated from PDB ID: 2QBZ. Magnesiums are labeled in red.
-Right: Nucleotides that contact Mg1-3 via inner and outer sphere interactions are labeled and shown as sticks<sup>[3]</sup>.</p>
+<font><p>Left: Surface representation of the binding pocket of the Mg<sup>2+</sup>-I riboswitch generated from PDB ID: 2QBZ. Magnesiums are labeled in red.
+Right: Nucleotides that contact Mg1-3 via inner and outer sphere interactions are labeled and shown as sticks<sup>[3]</sup>.</p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;"><tr>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/Magnesium_riboswitch_ binding_pockets1.svg" alt="drawing" style="width:500px"  px="" /></td>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/Magnesium_riboswitch_ binding_pockets2.svg" alt="drawing" style="width:500px"  px="" /></td>
@@ -563,33 +563,33 @@ Right: Nucleotides that contact Mg1-3 via inner and outer sphere interactions ar
                      
 <p class="header_box" id="references">References</p>
                 
-<p><strong>[1] New RNA motifs suggest an expanded scope for riboswitches in bacterial genetic control.</strong><br />
+<font><strong>[1] New RNA motifs suggest an expanded scope for riboswitches in bacterial genetic control.</strong></font>
 Barrick, J. E. et al.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/15096624/" target="_blank">Proc. Natl. Acad. Sci. U. S. A. 101, 6421–6426 (2004).</a>
-<br /></p>
+<br />
                 
-<p><strong>[2] An RNA sensor for intracellular Mg(2+).</strong><br />
+<font><strong>[2] An RNA sensor for intracellular Mg(2+).</strong></font>
 Cromie, M. J., Shi, Y., Latifi, T. & Groisman, E. A.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/16615891/" target="_blank">Cell 125, 71–84 (2006).</a>
-<br /></p>
+<br />
                 
-<p><strong>[3] Structure and mechanism of a metal-sensing regulatory RNA.</strong><br />
+<font><strong>[3] Structure and mechanism of a metal-sensing regulatory RNA.</strong></font>
 Dann, C. E., 3rd et al.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/17803910/" target="_blank">Cell 130, 878–892 (2007).</a>
-<br /></p>
+<br />
                 
-<p><strong>[4] Multiple metal-binding cores are required for metalloregulation by M-box riboswitch RNAs.</strong><br />
+<font><strong>[4] Multiple metal-binding cores are required for metalloregulation by M-box riboswitch RNAs.</strong></font>
 Wakeman, C. A., Ramesh, A. & Winkler, W. C.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/19619558/" target="_blank">J. Mol. Biol. 392, 723–735 (2009).</a>
-<br /></p>
+<br />
                 
-<p><strong>[5] Insights into metalloregulation by M-box riboswitch RNAs via structural analysis of manganese-bound complexes.</strong><br />
+<font><strong>[5] Insights into metalloregulation by M-box riboswitch RNAs via structural analysis of manganese-bound complexes.</strong></font>
 Ramesh, A., Wakeman, C. A. & Winkler, W. C.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/21315082/" target="_blank">J. Mol. Biol. 407, 556–570 (2011).</a>
-<br /></p>
+<br />
                 
-<p><strong>[6] Bioinformatics and Genomic Analyses of the Suitability of Eight Riboswitches for Antibacterial Drug Targets.</strong><br />
+<font><strong>[6] Bioinformatics and Genomic Analyses of the Suitability of Eight Riboswitches for Antibacterial Drug Targets.</strong></font>
 Pavlova, N. & Penchovsky, R.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/36139956/" target="_blank">Antibiotics (Basel) 11, (2022).</a>
-<br /></p>
+<br />
                 

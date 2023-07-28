@@ -192,13 +192,13 @@ permalink: /docs/FMN/
 </html>
 <br><br>
          
-<p class="header_box" id="description">Description</p>
+<font ><p class="header_box" id="description">Description</p></font>
 <font >The FMN riboswitch (also known as RFN element) is a highly conserved RNA element which is naturally occurring, and is found frequently in the 5'-untranslated regions of prokaryotic mRNAs that encode for flavin mononucleotide (FMN) biosynthesis and transport proteins. This element is a metabolite-dependent riboswitch that directly binds FMN in the absence of proteins, thus giving it the ability to regulate RNA expression by responding to changes in the concentration of FMN. In <i>Bacillus subtilis</i>, previous studies have shown that this bacterium utilizes at least two FMN riboswitches, where one controls translation initiation, and the other controls premature transcription termination. Regarding the second riboswitch in Bacilius subtilis, premature transcription termination occurs within the 5' untranslated region of the ribDEAHT operon, precluding access to the ribosome-binding site of ypaA mRNA. FMN riboswitches also have various magnesium and potassium ions dispersed throughout the nucleotide structure, some of which participate in binding of FMN (From Wikipedia)<sup></sup>.</font>
 <p><br /></p>
              
 > Gene association
             
-<p>The riboflavin biosynthesis pathway in bacteria. The genes under contol of the FMN ribswtch are colored in red<sup>[2]</sup>.</p>
+<font><p>The riboflavin biosynthesis pathway in bacteria. The genes under contol of the FMN ribswtch are colored in red<sup>[2]</sup>.</p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;">
 <tr >
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
@@ -210,7 +210,7 @@ permalink: /docs/FMN/
                  
 > Gene regulation
                 
-<p>Model for the FMN riboswitch to regulate gene expression. Shaded regions identify the putative anti-terminator structure that is disrupted after binding of FMN and formation of the P1 structure<sup>[2-3]</sup>.</p>
+<font><p>Model for the FMN riboswitch to regulate gene expression. Shaded regions identify the putative anti-terminator structure that is disrupted after binding of FMN and formation of the P1 structure<sup>[2-3]</sup>.</p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
   <img src="/images/gene_regulation/FMN_riboswitch_gene_regulation.svg" alt="drawing" style="width:1000px;margin-top: 0px;margin-bottom: 0px;" >
@@ -222,7 +222,7 @@ permalink: /docs/FMN/
 <p class="header_box" id="Structure and Ligand recognition">Structure and Ligand recognition</p>
 > 2D representation
         
-<p>Left: Consensus sequence and secondary structure model for the FMN riboswitch. Right: Secondary structure depictions of the FMN riboswitch according to PDB ID: 3F2Q. The bound FMN is denoted in red<sup>[6]</sup>.</p><br>
+<font><p>Left: Consensus sequence and secondary structure model for the FMN riboswitch. Right: Secondary structure depictions of the FMN riboswitch according to PDB ID: 3F2Q. The bound FMN is denoted in red<sup>[6]</sup>.</p><br></font>
 <html>
 <div>
     <div class="entry-content clearfix" itemprop="articleBody description" style="overflow: auto;">
@@ -498,7 +498,7 @@ permalink: /docs/FMN/
                  
 > Binding pocket
                     
-<p>Left: Surface representation of the binding pocket of the FMN riboswitch generated from PDB ID: 3F2Q. FMN (shown in sticks) is labeled in red. Right: The hydrogen bonds of the binding site of the FMN riboswitch bound with FMN<sup>[6]</sup>.</p>
+<font><p>Left: Surface representation of the binding pocket of the FMN riboswitch generated from PDB ID: 3F2Q. FMN (shown in sticks) is labeled in red. Right: The hydrogen bonds of the binding site of the FMN riboswitch bound with FMN<sup>[6]</sup>.</p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;"><tr>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/FMN_riboswitch_binding_pockets1.svg" alt="drawing" style="width:500px"  px="" /></td>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/FMN_riboswitch_binding_pockets2.svg" alt="drawing" style="width:500px"  px="" /></td>
@@ -509,8 +509,8 @@ permalink: /docs/FMN/
 > Ligand recognition
                 
 
-<p>Chemical structures of FMN and its analogs. The apparent K<sub>D</sub>
- of each compound is shown on bottom<sup>[3,6,8-9]</sup>.</p>
+<font><p>Chemical structures of FMN and its analogs. The apparent K<sub>D</sub>
+ of each compound is shown on bottom<sup>[3,6,8-9]</sup>.</p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;">
 <tr>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
@@ -522,83 +522,83 @@ permalink: /docs/FMN/
                  
 <p class="header_box" id="references">References</p>
                 
-<p><strong>[1] A conserved RNA structure element involved in the regulation of bacterial riboflavin synthesis genes.</strong><br />
+<font><strong>[1] A conserved RNA structure element involved in the regulation of bacterial riboflavin synthesis genes.</strong></font>
 Gelfand, M. S., Mironov, A. A., Jomantas, J., Kozlov, Y. I. & Perumov, D. A.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/10529804/" target="_blank">Trends Genet. 15, (1999).</a>
-<br /></p>
+<br />
                 
-<p><strong>[2] Regulation of riboflavin biosynthesis and transport genes in bacteria by transcriptional and translational attenuation.</strong><br />
+<font><strong>[2] Regulation of riboflavin biosynthesis and transport genes in bacteria by transcriptional and translational attenuation.</strong></font>
 Vitreschak, A. G., Rodionov, D. A., Mironov, A. A. & Gelfand, M. S.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/12136096/" target="_blank">Nucleic Acids Res. 30, (2002).</a>
-<br /></p>
+<br />
                 
-<p><strong>[3] An mRNA structure that controls gene expression by binding FMN.</strong><br />
+<font><strong>[3] An mRNA structure that controls gene expression by binding FMN.</strong></font>
 Winkler, W. C., Cohen-Chalamish, S. & Breaker, R. R.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/12456892/" target="_blank">Proc. Natl. Acad. Sci. U. S. A. 99, (2002).</a>
-<br /></p>
+<br />
                 
-<p><strong>[4] The speed of RNA transcription and metabolite binding kinetics operate an FMN riboswitch.</strong><br />
+<font><strong>[4] The speed of RNA transcription and metabolite binding kinetics operate an FMN riboswitch.</strong></font>
 Wickiser, J. K., Winkler, W. C., Breaker, R. R. & Crothers, D. M.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/15808508/" target="_blank">Mol. Cell 18, (2005).</a>
-<br /></p>
+<br />
                 
-<p><strong>[5] Roseoflavin is a natural antibacterial compound that binds to FMN riboswitches and regulates gene expression.</strong><br />
+<font><strong>[5] Roseoflavin is a natural antibacterial compound that binds to FMN riboswitches and regulates gene expression.</strong></font>
 Lee, E. R., Blount, K. F. & Breaker, R. R.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/19246992/" target="_blank">RNA Biol. 6, (2009).</a>
-<br /></p>
+<br />
                 
-<p><strong>[6] Coenzyme recognition and gene regulation by a flavin mononucleotide riboswitch.</strong><br />
+<font><strong>[6] Coenzyme recognition and gene regulation by a flavin mononucleotide riboswitch.</strong></font>
 Serganov, A., Huang, L. & Patel, D. J.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/19169240/" target="_blank">Nature 458, (2009).</a>
-<br /></p>
+<br />
                 
-<p><strong>[7] Molecular sensing by the aptamer domain of the FMN riboswitch: a general model for ligand binding by conformational selection.</strong><br />
+<font><strong>[7] Molecular sensing by the aptamer domain of the FMN riboswitch: a general model for ligand binding by conformational selection.</strong></font>
 Vicens, Q., Mondragón, E. & Batey, R. T.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/21745821/" target="_blank">Nucleic Acids Res. 39, (2011).</a>
-<br /></p>
+<br />
                 
-<p><strong>[8] Novel riboswitch-binding flavin analog that protects mice against Clostridium difficile infection without inhibiting cecal flora.</strong><br />
+<font><strong>[8] Novel riboswitch-binding flavin analog that protects mice against Clostridium difficile infection without inhibiting cecal flora.</strong></font>
 Blount, K. F. et al.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/26169403/" target="_blank">Antimicrob. Agents Chemother. 59, (2015).</a>
-<br /></p>
+<br />
                 
-<p><strong>[9] Selective small-molecule inhibition of an RNA structural element.</strong><br />
+<font><strong>[9] Selective small-molecule inhibition of an RNA structural element.</strong></font>
 Howe, J. A. et al.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/26416753/" target="_blank">Nature 526, (2015).</a>
-<br /></p>
+<br />
                 
-<p><strong>[10] Atomic resolution mechanistic studies of ribocil: A highly selective unnatural ligand mimic of the E. coli FMN riboswitch.</strong><br />
+<font><strong>[10] Atomic resolution mechanistic studies of ribocil: A highly selective unnatural ligand mimic of the E. coli FMN riboswitch.</strong></font>
 Howe, J. A., L. Xiao, T. O. Fischmann, H. Wang, H. Tang, A. Villafania, R. Zhang, C. M. Barbieri and T. Roemer.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/27485612/" target="_blank">RNA Biol. 13, (2016).</a>
-<br /></p>
+<br />
                 
-<p><strong>[11] Bioinformatic analysis of riboswitch structures uncovers variant classes with altered ligand specificity.</strong><br />
+<font><strong>[11] Bioinformatic analysis of riboswitch structures uncovers variant classes with altered ligand specificity.</strong></font>
 Weinberg, Z., Nelson, J. W., Lünse, C. E., Sherlock, M. E. & Breaker, R. R.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/28265071/" target="_blank">Proc. Natl. Acad. Sci. U. S. A. 114, (2017).</a>
-<br /></p>
+<br />
                 
-<p><strong>[12] Discovery of Selective RNA-Binding Small Molecules by Affinity-Selection Mass Spectrometry.</strong><br />
+<font><strong>[12] Discovery of Selective RNA-Binding Small Molecules by Affinity-Selection Mass Spectrometry.</strong></font>
 Rizvi, N. F. et al.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/29412640/" target="_blank">ACS Chem. Biol. 13, (2018).</a>
-<br /></p>
+<br />
                 
-<p><strong>[13] Structure-Activity Relationship of Flavin Analogues That Target the Flavin Mononucleotide Riboswitch.</strong><br />
+<font><strong>[13] Structure-Activity Relationship of Flavin Analogues That Target the Flavin Mononucleotide Riboswitch.</strong></font>
 Vicens, Q. et al.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/30107111/" target="_blank">ACS Chem. Biol. 13, (2018).</a>
-<br /></p>
+<br />
                 
-<p><strong>[14] FMN riboswitch aptamer symmetry facilitates conformational switching through mutually exclusive coaxial stacking configurations.</strong><br />
+<font><strong>[14] FMN riboswitch aptamer symmetry facilitates conformational switching through mutually exclusive coaxial stacking configurations.</strong></font>
 Wilt, H. M., Yu, P., Tan, K., Wang, Y. X. & Stagno, J. R.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/33103111/" target="_blank">Journal of structural biology: X 4, (2020).</a>
-<br /></p>
+<br />
                 
-<p><strong>[15] Synthesis and evaluation of antimycobacterial activity of riboflavin derivatives.</strong><br />
+<font><strong>[15] Synthesis and evaluation of antimycobacterial activity of riboflavin derivatives.</strong></font>
 Harale, B. et al.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/34242760/" target="_blank">Bioorg. Med. Chem. Lett. 48, 128236 (2021).</a>
-<br /></p>
+<br />
                 
-<p><strong>[16] Engineering Antisense Oligonucleotides as Antibacterial Agents That Target FMN Riboswitches and Inhibit the Growth of <i>Staphylococcus aureus</i>, <i>Listeria monocytogenes</i>, and <i>Escherichia coli</i>.</strong><br />
+<font><strong>[16] Engineering Antisense Oligonucleotides as Antibacterial Agents That Target FMN Riboswitches and Inhibit the Growth of <i>Staphylococcus aureus</i>, <i>Listeria monocytogenes</i>, and <i>Escherichia coli</i>.</strong></font>
 Traykovska, M. & Penchovsky, R.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/35440139/" target="_blank">ACS Synth. Biol. 11, 1845–1855 (2022).</a>
-<br /></p>
+<br />
                 

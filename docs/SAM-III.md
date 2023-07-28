@@ -160,13 +160,13 @@ permalink: /docs/SAM-III/
 </html>
 <br><br>
          
-<p class="header_box" id="description">Description</p>
+<font ><p class="header_box" id="description">Description</p></font>
 <font >The S<sub>MK</sub>box riboswitch (also known as SAM-III) is an RNA element that regulates gene expression in bacteria. The S<sub>MK</sub> box riboswitch is found in the 5' UTR of the <i>MetK</i> gene in lactic acid bacteria. The structure of this element changes upon binding to S-adenosyl methionine (SAM) to a conformation that blocks the shine-dalgarno sequence and blocks translation of the gene. There are other known SAM-binding riboswitches such as SAM-I and SAM-II, but these appear to share no similarity in sequence or structure to SAM-III. (from WiKi)<sup></sup>.</font>
 <p><br /></p>
              
 > Gene association
             
-<p>Pathways for sulphate assimilation and biosynthesis of cysteine and methionine. SAM-III riboswitch (red bar) is involved in multiple gene regulation in the synthetic pathway<sup>[1]</sup>.</p>
+<font><p>Pathways for sulphate assimilation and biosynthesis of cysteine and methionine. SAM-III riboswitch (red bar) is involved in multiple gene regulation in the synthetic pathway<sup>[1]</sup>.</p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;">
 <tr >
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
@@ -178,7 +178,7 @@ permalink: /docs/SAM-III/
                  
 > Gene regulation
                 
-<p>Translation mechanism of the <i>E.faecalis</i> S<sub>MK</sub> box/SAM-III riboswitch, the AUG start codon of <i>metK</i> is indicated in yellow, SD sequence (green) is accessible for translation initiation<sup>[5]</sup>.</p>
+<font><p>Translation mechanism of the <i>E.faecalis</i> S<sub>MK</sub> box/SAM-III riboswitch, the AUG start codon of <i>metK</i> is indicated in yellow, SD sequence (green) is accessible for translation initiation<sup>[5]</sup>.</p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
   <img src="/images/gene_regulation/SAM-III_riboswitch_gene_regulation.svg" alt="drawing" style="width:1000px;margin-top: 0px;margin-bottom: 0px;" >
@@ -190,7 +190,7 @@ permalink: /docs/SAM-III/
 <p class="header_box" id="Structure and Ligand recognition">Structure and Ligand recognition</p>
 > 2D representation
         
-<p>Top: Consensus sequence and secondary structure model for the SAM-III riboswitch. Bottom: Secondary structure depictions of the SAM-III riboswitch according to PDB ID: 3e5c<sup></sup>.</p><br>
+<font><p>Top: Consensus sequence and secondary structure model for the SAM-III riboswitch. Bottom: Secondary structure depictions of the SAM-III riboswitch according to PDB ID: 3e5c<sup></sup>.</p><br></font>
 <html>
 <div>
     <div class="entry-content clearfix" itemprop="articleBody description" style="overflow: auto;">
@@ -453,7 +453,7 @@ permalink: /docs/SAM-III/
                  
 > Binding pocket
                     
-<p>Left: Surface representation of the binding pocket of the SAM-III riboswitch generated from PDB ID: 3E5C. S-adenosylmethionine (SAM) (shown in sticks) is labeled in red. Right: Hydrogen bonding between SAM and adjacent bases<sup>[3]</sup>.</p>
+<font><p>Left: Surface representation of the binding pocket of the SAM-III riboswitch generated from PDB ID: 3E5C. S-adenosylmethionine (SAM) (shown in sticks) is labeled in red. Right: Hydrogen bonding between SAM and adjacent bases<sup>[3]</sup>.</p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;"><tr>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/SAM-III_riboswitch_binding_pockets1.svg" alt="drawing" style="width:500px"  px="" /></td>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/SAM-III_riboswitch_binding_pockets2.svg" alt="drawing" style="width:500px"  px="" /></td>
@@ -464,7 +464,7 @@ permalink: /docs/SAM-III/
 > Ligand recognition
                 
 
-<p>Chemical structures of various compounds used to probe the binding characteristics of the SAM-III riboswitch<sup>[6]</sup>.</p>
+<font><p>Chemical structures of various compounds used to probe the binding characteristics of the SAM-III riboswitch<sup>[6]</sup>.</p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;">
 <tr>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
@@ -476,58 +476,58 @@ permalink: /docs/SAM-III/
                  
 <p class="header_box" id="references">References</p>
                 
-<p><strong>[1] The S(MK) box is a new SAM-binding RNA for translational regulation of SAM synthetase.</strong><br />
+<font><strong>[1] The S(MK) box is a new SAM-binding RNA for translational regulation of SAM synthetase.</strong></font>
 Fuchs, R. T., Grundy, F. J., & Henkin, T. M.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/16491091/" target="_blank">Nat. Struct. Mol. Biol. 13, 226–233 (2006).</a>
-<br /></p>
+<br />
                 
-<p><strong>[2] S-adenosylmethionine directly inhibits binding of 30S ribosomal subunits to the S(MK) box translational riboswitch RNA.</strong><br />
+<font><strong>[2] S-adenosylmethionine directly inhibits binding of 30S ribosomal subunits to the S(MK) box translational riboswitch RNA.</strong></font>
 Fuchs, R. T., Grundy, F. J., & Henkin, T. M.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/17360376/" target="_blank">Proc. Natl. Acad. Sci. U. S. A. 104, 4876–4880 (2007).</a>
-<br /></p>
+<br />
                 
-<p><strong>[3] Crystal structures of the SAM-III/S(MK) riboswitch reveal the SAM-dependent translation inhibition mechanism.</strong><br />
+<font><strong>[3] Crystal structures of the SAM-III/S(MK) riboswitch reveal the SAM-dependent translation inhibition mechanism.</strong></font>
 Lu, C., Smith, A. M., Fuchs, R. T., Ding, F., Rajashankar, K., Henkin, T. M., & Ke, A.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/18806797/" target="_blank">Nat. Struct. Mol. Biol. 15, 1076–1083 (2008).</a>
-<br /></p>
+<br />
                 
-<p><strong>[4] Atomistic details of the ligand discrimination mechanism of S(MK)/SAM-III riboswitch.</strong><br />
+<font><strong>[4] Atomistic details of the ligand discrimination mechanism of S(MK)/SAM-III riboswitch.</strong></font>
 Priyakumar U. D.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/20614931/" target="_blank">J. Phys. Chem. B 114, 9920–9925 (2010).</a>
-<br /></p>
+<br />
                 
-<p><strong>[5] The SAM-responsive S(MK) box is a reversible riboswitch.</strong><br />
+<font><strong>[5] The SAM-responsive S(MK) box is a reversible riboswitch.</strong></font>
 Smith, A. M., Fuchs, R. T., Grundy, F. J., & Henkin, T. M.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/21143313/" target="_blank">Mol. Microbiol. 78, 1393–1402 (2010).</a>
-<br /></p>
+<br />
                 
-<p><strong>[6] Variable sequences outside the SAM-binding core critically influence the conformational dynamics of the SAM-III/SMK box riboswitch.</strong><br />
+<font><strong>[6] Variable sequences outside the SAM-binding core critically influence the conformational dynamics of the SAM-III/SMK box riboswitch.</strong></font>
 Lu, C., Smith, A. M., Ding, F., Chowdhury, A., Henkin, T. M., & Ke, A.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/21549712/" target="_blank">J. Mol. Biol. 409, 786–799 (2011).</a>
-<br /></p>
+<br />
                 
-<p><strong>[7] Common themes and differences in SAM recognition among SAM riboswitches.</strong><br />
+<font><strong>[7] Common themes and differences in SAM recognition among SAM riboswitches.</strong></font>
 Price IR, Grigg JC, Ke A.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/24863160/" target="_blank">Biochim Biophys Acta.1839(10):931-938.(2014)</a>
-<br /></p>
+<br />
                 
-<p><strong>[8] Ligand-induced stabilization of a duplex-like architecture is crucial for the switching mechanism of the SAM-III riboswitch.</strong><br />
+<font><strong>[8] Ligand-induced stabilization of a duplex-like architecture is crucial for the switching mechanism of the SAM-III riboswitch.</strong></font>
 Suresh, G., Srinivasan, H., Nanda, S., & Priyakumar, U. D.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/27249101/" target="_blank">Biochemistry 55, 3349–3360 (2016).</a>
-<br /></p>
+<br />
                 
-<p><strong>[9] Reversible-switch mechanism of the SAM-III riboswitch.</strong><br />
+<font><strong>[9] Reversible-switch mechanism of the SAM-III riboswitch.</strong></font>
 Gong, S., Wang, Y., Wang, Z., Wang, Y., & Zhang, W.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/27934232/" target="_blank">J. Phys. Chem. B 120, 12305–12311 (2016).</a>
-<br /></p>
+<br />
                 
-<p><strong>[10] Decoding the identification mechanism of an SAM-III riboswitch on ligands through multiple independent gaussian-accelerated molecular dynamics simulations.</strong><br />
+<font><strong>[10] Decoding the identification mechanism of an SAM-III riboswitch on ligands through multiple independent gaussian-accelerated molecular dynamics simulations.</strong></font>
 Chen, J., Zeng, Q., Wang, W., Sun, H., & Hu, G.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/36440874/" target="_blank">J. Chem. Inf. Model. 62, 6118–6132 (2022).</a>
-<br /></p>
+<br />
                 
-<p><strong>[11] Structure-based insights into recognition and regulation of SAM-sensing riboswitches.</strong><br />
+<font><strong>[11] Structure-based insights into recognition and regulation of SAM-sensing riboswitches.</strong></font>
 Zheng L, Song Q, Xu X, Shen X, Li C, Li H, Chen H, Ren A.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/36459353/" target="_blank">Sci China Life Sci.66(1):31-50 (2023).</a>
-<br /></p>
+<br />
                 

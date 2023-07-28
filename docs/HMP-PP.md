@@ -104,13 +104,13 @@ permalink: /docs/HMP-PP/
 </html>
 <br><br>
          
-<p class="header_box" id="description">Description</p>
+<font ><p class="header_box" id="description">Description</p></font>
 <font >HMP-PP riboswitches are a class of homologous RNAs in certain bacteria that function as sensors of the thiamin precursor HMP-PP, which is fused with HET-P ultimately to form the final active coenzyme thiamin pyrophosphate (TPP). The HMP-PP riboswitch was initially named as the ‘thiS motif' because of its frequent association with a gene coding for the ThiS protein, which delivers sulfur to form the thiazole moiety of the thiamin precursor HET-P, which was firstly reported by using a computational approach to identify new riboswitches in bacteria in 2019. Unlike with many other riboswitches,the small ligand sensing aptamer of the HMP-PP riboswitch was embedded within a terminator, rather than being a separate entity. The 3D structure of the HMP-PP riboswitch has not been solved yet<sup>[2-3]</sup>.</font>
 <p><br /></p>
              
 > Gene association
             
-<p>Typical biosynthetic pathways for the pyrimidine and thiazole moieties of thiamin, and their eventual conversion into the enzyme cofactor thiamin pyrophosphate (TPP). Genes coding for the enzymes involved in HET transport and catalysis of various biosynthetic steps are showed. The genes colored in red are associated with the HMP-PP riboswitch<sup>[1-3]</sup>.</p>
+<font><p>Typical biosynthetic pathways for the pyrimidine and thiazole moieties of thiamin, and their eventual conversion into the enzyme cofactor thiamin pyrophosphate (TPP). Genes coding for the enzymes involved in HET transport and catalysis of various biosynthetic steps are showed. The genes colored in red are associated with the HMP-PP riboswitch<sup>[1-3]</sup>.</p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;">
 <tr >
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
@@ -122,7 +122,7 @@ permalink: /docs/HMP-PP/
                  
 > Gene regulation
                 
-<p>Potential mechanism of transcription termination regulation for the HMP-PP riboswitch. The shaded nucleotides highlight possible base-pairs of the predicted pseudoknot. Complementary sequences and alternate base-pairing are shown in blue<sup>[3]</sup>.</p>
+<font><p>Potential mechanism of transcription termination regulation for the HMP-PP riboswitch. The shaded nucleotides highlight possible base-pairs of the predicted pseudoknot. Complementary sequences and alternate base-pairing are shown in blue<sup>[3]</sup>.</p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
   <img src="/images/gene_regulation/HMP-PP_riboswitch_gene_regulation.svg" alt="drawing" style="width:1000px;margin-top: 0px;margin-bottom: 0px;" >
@@ -134,7 +134,7 @@ permalink: /docs/HMP-PP/
 <p class="header_box" id="Structure and Ligand recognition">Structure and Ligand recognition</p>
 > 2D representation
         
-<p>Left: The consensus models and two possible secondary structure models based on 400 representatives for the HMP-PP riboswitch. Right: Sequence and predicted secondary structure of the HMP-PP riboswitch of <i>C. sp.</i> Maddingley (depicted in presumed ‘ON’ state), where the shaded nucleotides highlight possible base-pairs of the predicted pseudoknot. Red nucleotides are >97% conserved as depicted in the HMP-PP riboswitch consensus model<sup>[2-3]</sup>.</p><br>
+<font><p>Left: The consensus models and two possible secondary structure models based on 400 representatives for the HMP-PP riboswitch. Right: Sequence and predicted secondary structure of the HMP-PP riboswitch of <i>C. sp.</i> Maddingley (depicted in presumed ‘ON' state), where the shaded nucleotides highlight possible base-pairs of the predicted pseudoknot. Red nucleotides are >97% conserved as depicted in the HMP-PP riboswitch consensus model<sup>[2-3]</sup>.</p><br></font>
 <html>
 <div>
     <div class="entry-content clearfix" itemprop="articleBody description" style="overflow: auto;">
@@ -258,7 +258,7 @@ permalink: /docs/HMP-PP/
 > Ligand recognition
                 
 
-<p>Chemical structures of hydroxymethyl-pyrimidine pyrophosphate (HMP-PP) and its precursors. The apparent K<sub>D</sub>  of each compound is shown on bottom<sup>[3]</sup>.</p>
+<font><p>Chemical structures of hydroxymethyl-pyrimidine pyrophosphate (HMP-PP) and its precursors. The apparent K<sub>D</sub>  of each compound is shown on bottom<sup>[3]</sup>.</p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;">
 <tr>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
@@ -270,18 +270,18 @@ permalink: /docs/HMP-PP/
                  
 <p class="header_box" id="references">References</p>
                 
-<p><strong>[1] Thiamin biosynthesis in prokaryotes.</strong><br />
+<font><strong>[1] Thiamin biosynthesis in prokaryotes.</strong></font>
 Begley, T. P. et al.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/10382260/" target="_blank">Arch. Microbiol. 171, (1999).</a>
-<br /></p>
+<br />
                 
-<p><strong>[2] Genome-wide discovery of structured noncoding RNAs in bacteria.</strong><br />
+<font><strong>[2] Genome-wide discovery of structured noncoding RNAs in bacteria.</strong></font>
 Stav, S. et al.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/30902049/" target="_blank">BMC Microbiol. 19, (2019).</a>
-<br /></p>
+<br />
                 
-<p><strong>[3] A bacterial riboswitch class for the thiamin precursor HMP-PP employs a terminator-embedded aptamer.</strong><br />
+<font><strong>[3] A bacterial riboswitch class for the thiamin precursor HMP-PP employs a terminator-embedded aptamer.</strong></font>
 Atilho, R. M., Mirihana, A. G., Greenlee, E. B., Knecht, K. M. & Breaker, R. R.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/30950790/" target="_blank">Elife 8, (2019).</a>
-<br /></p>
+<br />
                 

@@ -144,13 +144,13 @@ permalink: /docs/c-AMP-GMP/
 </html>
 <br><br>
          
-<p class="header_box" id="description">Description</p>
+<font ><p class="header_box" id="description">Description</p></font>
 <font >c-AMP-GMP riboswitches (also known as c-GAMP riboswitches) form a class of ribose switches that bind specifically to cyclic AMP-GMP. Previously annotated as the c-di-GMP-I ribose switch, its mutant cyclic AMP-GMP riboswitch is able to bind to a second messenger, c-AMP-GMP. The cyclic AMP-GMP ribose switch recognizes c-AMP-GMP and controls a group of genes important for utilizing iron oxide (III) in external power generation.Approximately 6,800 sequences conform to the c-di-GMP-I riboswitch class consensus , which was formerly called the Genes for the Environment, for Membranes and for Motility (GEMM) motif .Predominantly found in species of Bacillales, Clostridia, Deltaproteobacteria, and Gammaproteobacteria , the vastmajority have aptamer sequences and gene associations that aretypical for c-di-GMP binding and control<sup>[1-2, 4-5]</sup>.</font>
 <p><br /></p>
              
 > Gene association
             
-<p>This figure depicts genes predicted to be regulated by the c-AMP-GMP riboswitch<sup>[2]</sup>.</p>
+<font><p>This figure depicts genes predicted to be regulated by the c-AMP-GMP riboswitch<sup>[2]</sup>.</p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;">
 <tr >
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
@@ -162,7 +162,7 @@ permalink: /docs/c-AMP-GMP/
                  
 > Gene regulation
                 
-<p>Putative mechanisms for regulation of gene expression by c-AMP-GMP riboswitches<sup>[4]</sup>.</p>
+<font><p>Putative mechanisms for regulation of gene expression by c-AMP-GMP riboswitches<sup>[4]</sup>.</p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
   <img src="/images/gene_regulation/c-AMP-GMP_riboswitch_gene_regulation.svg" alt="drawing" style="width:1000px;margin-top: 0px;margin-bottom: 0px;" >
@@ -174,7 +174,7 @@ permalink: /docs/c-AMP-GMP/
 <p class="header_box" id="Structure and Ligand recognition">Structure and Ligand recognition</p>
 > 2D representation
         
-<p>Top: Consensus sequence and secondary structure model for the c-AMP-GMP riboswitch. Bottom: Secondary structure depictions of the c-AMP-GMP riboswitch according to PDB ID: 4YAZ<sup>[3]</sup>.</p><br>
+<font><p>Top: Consensus sequence and secondary structure model for the c-AMP-GMP riboswitch. Bottom: Secondary structure depictions of the c-AMP-GMP riboswitch according to PDB ID: 4YAZ<sup>[3]</sup>.</p><br></font>
 <html>
 <div>
     <div class="entry-content clearfix" itemprop="articleBody description" style="overflow: auto;">
@@ -431,7 +431,7 @@ permalink: /docs/c-AMP-GMP/
                  
 > Binding pocket
                     
-<p>Left: Surface representation of the binding pocket of the c-AMP-GMP riboswitch generated from PDB ID: 4YAZ. c-AMP-GMP (shown in sticks) is labeled in red. Right: The hydrogen bonds of the binding sites of the c-AMP-GMP riboswitch bound with c-AMP-GMP<sup>[3]</sup>.</p>
+<font><p>Left: Surface representation of the binding pocket of the c-AMP-GMP riboswitch generated from PDB ID: 4YAZ. c-AMP-GMP (shown in sticks) is labeled in red. Right: The hydrogen bonds of the binding sites of the c-AMP-GMP riboswitch bound with c-AMP-GMP<sup>[3]</sup>.</p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;"><tr>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/c-AMP-GMP_riboswitch_binding_pockets1.svg" alt="drawing" style="width:500px"  px="" /></td>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/c-AMP-GMP_riboswitch_binding_pockets2.svg" alt="drawing" style="width:500px"  px="" /></td>
@@ -442,7 +442,7 @@ permalink: /docs/c-AMP-GMP/
 > Ligand recognition
                 
 
-<p>Chemical structures of c-AMP-GMP and its analogs. The apparent K<sub>D</sub> is shown on bottom<sup>[3]</sup>.</p>
+<font><p>Chemical structures of c-AMP-GMP and its analogs. The apparent K<sub>D</sub> is shown on bottom<sup>[3]</sup>.</p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;">
 <tr>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
@@ -454,38 +454,38 @@ permalink: /docs/c-AMP-GMP/
                  
 <p class="header_box" id="references">References</p>
                 
-<p><strong>[1] Identification of 22 candidate structured RNAs in bacteria using the CMfinder comparative genomics pipeline.</strong><br />
+<font><strong>[1] Identification of 22 candidate structured RNAs in bacteria using the CMfinder comparative genomics pipeline.</strong></font>
 Weinberg, Z. et al.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/17621584/" target="_blank">Nucleic Acids Res. 35, 4809–4819 (2007).</a>
-<br /></p>
+<br />
                 
-<p><strong>[2] Control of bacterial exoelectrogenesis by c-AMP-GMP.</strong><br />
+<font><strong>[2] Control of bacterial exoelectrogenesis by c-AMP-GMP.</strong></font>
 Nelson, J. W. et al.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/25848023/" target="_blank">Proc. Natl. Acad. Sci. U. S. A. 112, 5389–5394 (2015).</a>
-<br /></p>
+<br />
                 
-<p><strong>[3] Structural basis for molecular discrimination by a 3',3'-cGAMP sensing riboswitch.</strong><br />
+<font><strong>[3] Structural basis for molecular discrimination by a 3',3'-cGAMP sensing riboswitch.</strong></font>
 Ren, A. et al.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/25818298/" target="_blank">Cell Rep. 11, 1–12 (2015).</a>
-<br /></p>
+<br />
                 
-<p><strong>[4] GEMM-I riboswitches from Geobacter sense the bacterial second messenger cyclic AMP-GMP.</strong><br />
+<font><strong>[4] GEMM-I riboswitches from Geobacter sense the bacterial second messenger cyclic AMP-GMP.</strong></font>
 Kellenberger, C. A. et al.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/25848022/" target="_blank">Proc. Natl. Acad. Sci. U. S. A. 112, 5383–5388 (2015).</a>
-<br /></p>
+<br />
                 
-<p><strong>[5] Adenine protonation enables cyclic-di-GMP binding to cyclic-GAMP sensing riboswitches.</strong><br />
+<font><strong>[5] Adenine protonation enables cyclic-di-GMP binding to cyclic-GAMP sensing riboswitches.</strong></font>
 Keller, H., Weickhmann, A. K., Bock, T. & Wöhnert, J.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/30006500/" target="_blank">RNA 24, 1390–1402 (2018).</a>
-<br /></p>
+<br />
                 
-<p><strong>[6] Structural Studies of the 3',3'-cGAMP Riboswitch Induced by Cognate and Noncognate Ligands Using Molecular Dynamics Simulation.</strong><br />
+<font><strong>[6] Structural Studies of the 3',3'-cGAMP Riboswitch Induced by Cognate and Noncognate Ligands Using Molecular Dynamics Simulation.</strong></font>
 Li, C., Zhao, X., Zhu, X., Xie, P. & Chen, G.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/30423927/" target="_blank">Int. J. Mol. Sci. 19, (2018).</a>
-<br /></p>
+<br />
                 
-<p><strong>[7] The Signaling Pathway That cGAMP Riboswitches Found: Analysis and Application of Riboswitches to Study cGAMP Signaling in Geobacter sulfurreducens.</strong><br />
+<font><strong>[7] The Signaling Pathway That cGAMP Riboswitches Found: Analysis and Application of Riboswitches to Study cGAMP Signaling in Geobacter sulfurreducens.</strong></font>
 Tan, Z. et al.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/35163114/" target="_blank">Int. J. Mol. Sci. 23, (2022).</a>
-<br /></p>
+<br />
                 

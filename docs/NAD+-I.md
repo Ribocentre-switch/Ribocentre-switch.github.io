@@ -120,13 +120,13 @@ permalink: /docs/NAD/
 </html>
 <br><br>
          
-<p class="header_box" id="description">Description</p>
+<font ><p class="header_box" id="description">Description</p></font>
 <font >NAD<sup>+</sup>-I riboswitch is the first class of riboswitches that recognize NAD<sup>+</sup>. It is usually located upstream of nadA genes  within the phylum Acidobacteria, which encode quinolinate synthetase, an enzyme that performs a step in NAD<sup>+</sup> synthesis. For these reasons it was inferred that the RNAs function as riboswitches<sup></sup>.</font>
 <p><br /></p>
              
 > Gene association
             
-<p>Biosynthetic pathway of NAD<sup>+</sup>and related molecules. All NAD<sup>+</sup>-I riboswitch representatives are found exclusively upstream of nadA genes<sup>[2]</sup>.</p>
+<font><p>Biosynthetic pathway of NAD<sup>+</sup>and related molecules. All NAD<sup>+</sup>-I riboswitch representatives are found exclusively upstream of nadA genes<sup>[2]</sup>.</p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;">
 <tr >
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
@@ -139,7 +139,7 @@ permalink: /docs/NAD/
 <p class="header_box" id="Structure and Ligand recognition">Structure and Ligand recognition</p>
 > 2D representation
         
-<p>(Left) Consensus sequence and secondary structure model for the NAD<sup>+</sup>-I riboswitch. (Right) Secondary structure depictions of the NAD<sup>+</sup>-I riboswitch according to PDB ID:6TFF<sup>[1,4]</sup>.</p><br>
+<font><p>(Left) Consensus sequence and secondary structure model for the NAD<sup>+</sup>-I riboswitch. (Right) Secondary structure depictions of the NAD<sup>+</sup>-I riboswitch according to PDB ID:6TFF<sup>[1,4]</sup>.</p><br></font>
 <html>
 <div>
     <div class="entry-content clearfix" itemprop="articleBody description" style="overflow: auto;">
@@ -403,7 +403,7 @@ permalink: /docs/NAD/
                  
 > Binding pocket
                     
-<p>(Left) Surface representation of the binding pocket of the the domain 1 and 2 of NAD<sup>+</sup>-I riboswitch generated from PDB ID:6TFF and 6D81. . (Right) The hydrogen bonds of the two binding sites of the NAD<sup>+</sup>-I riboswitch bound with NAD<sup>+</sup><sup>[3-4]</sup>.</p>
+<font><p>(Left) Surface representation of the binding pocket of the the domain 1 and 2 of NAD<sup>+</sup>-I riboswitch generated from PDB ID:6TFF and 6D81. . (Right) The hydrogen bonds of the two binding sites of the NAD<sup>+</sup>-I riboswitch bound with NAD<sup>+</sup><sup>[3-4]</sup>.</p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;"><tr>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/NAD+-I_riboswitch_binding_pockets1.svg" alt="drawing" style="width:500px"  px="" /></td>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/NAD+-I_riboswitch_binding_pockets2.svg" alt="drawing" style="width:500px"  px="" /></td>
@@ -414,7 +414,7 @@ permalink: /docs/NAD/
 > Ligand recognition
                 
 
-<p>Chemical structures of NAD<sup>+</sup> and its analogs. The apparent KD of each compound of NAD<sup>+</sup>-I riboswitch is shown on bottom<sup>[2]</sup>.</p>
+<font><p>Chemical structures of NAD<sup>+</sup> and its analogs. The apparent KD of each compound of NAD<sup>+</sup>-I riboswitch is shown on bottom<sup>[2]</sup>.</p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;">
 <tr>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
@@ -426,23 +426,23 @@ permalink: /docs/NAD/
                  
 <p class="header_box" id="references">References</p>
                 
-<p><strong>[1] Detection of 224 candidate structured RNAs by comparative analysis of specific subsets of intergenic regions</strong><br />
+<font><strong>[1] Detection of 224 candidate structured RNAs by comparative analysis of specific subsets of intergenic regions</strong></font>
 Weinberg, Z. et al.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/28977401/" target="_blank">Nucleic Acids Res. 45, 10811–10823 (2017).</a>
-<br /></p>
+<br />
                 
-<p><strong>[2] Evidence that the nadA motif is a bacterial riboswitch for the ubiquitous enzyme  cofactor NAD</strong><br />
+<font><strong>[2] Evidence that the nadA motif is a bacterial riboswitch for the ubiquitous enzyme  cofactor NAD</strong></font>
 Malkowski, S. N., Spencer, T. C. J. & Breaker, R. R.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/31467147/" target="_blank">RNA 25, 1616–1627 (2019).</a>
-<br /></p>
+<br />
                 
-<p><strong>[3] Structure and ligand binding of the ADP-binding domain of the NAD<sup>+</sup> riboswitch</strong><br />
+<font><strong>[3] Structure and ligand binding of the ADP-binding domain of the NAD<sup>+</sup> riboswitch</strong></font>
 Huang, L., Wang, J. & Lilley, D. M. J.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/32295864/" target="_blank">RNA 26, 878–887 (2020).</a>
-<br /></p>
+<br />
                 
-<p><strong>[4] Structural distinctions between NAD<sup>+</sup> riboswitch domains 1 and 2 determine  differential folding and ligand binding</strong><br />
+<font><strong>[4] Structural distinctions between NAD<sup>+</sup> riboswitch domains 1 and 2 determine  differential folding and ligand binding</strong></font>
 Chen, H. et al.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/33170270/" target="_blank">Nucleic Acids Res. 48, 12394–12406 (2020).</a>
-<br /></p>
+<br />
                 

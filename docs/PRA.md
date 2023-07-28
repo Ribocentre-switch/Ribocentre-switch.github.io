@@ -104,13 +104,13 @@ permalink: /docs/PRA/
 </html>
 <br><br>
          
-<p class="header_box" id="description">Description</p>
+<font ><p class="header_box" id="description">Description</p></font>
 <font >The PRA riboswitch (<i>Fibro-purF</i> RNA motif) is a conserved RNA structure that was discovered by bioinformatics. All known <i>Fibro-purF</i> RNAs are found upstream of <i>purF</i> genes, which encode amidophosphoribosyltransferase that participates in the biosynthesis of biological purine molecules. Due to the instability of the proposed ligand, 5-phospho-D-ribosylamine, direct experiments to confirm this ligand have not yet been conducted (From Wikipedia)<sup></sup>.</font>
 <p><br /></p>
              
 > Gene association
             
-<p>All <I>Fibro-purF</I> motif RNA representatives where determinations can be made are found upstream of a purF gene, which codes for an enzyme, amidophosphoribosyltransferase, that catalyzes the first committed step in the purine biosynthesis pathway.<sup>[1-2]</sup>.</p>
+<font><p>All <I>Fibro-purF</I> motif RNA representatives where determinations can be made are found upstream of a purF gene, which codes for an enzyme, amidophosphoribosyltransferase, that catalyzes the first committed step in the purine biosynthesis pathway.<sup>[1-2]</sup>.</p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;">
 <tr >
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
@@ -122,7 +122,7 @@ permalink: /docs/PRA/
                  
 > Gene regulation
                 
-<p>Putative mechanisms for regulation of gene expression by PRA riboswitches. The Shine-Dalgarno sequence are shaded in orange<sup>[2]</sup>.</p>
+<font><p>Putative mechanisms for regulation of gene expression by PRA riboswitches. The Shine-Dalgarno sequence are shaded in orange<sup>[2]</sup>.</p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
   <img src="/images/gene_regulation/PRA_riboswitch_gene_regulation1.svg" alt="drawing" style="width:1000px;margin-top: 0px;margin-bottom: 0px;" >
@@ -134,7 +134,7 @@ permalink: /docs/PRA/
 <p class="header_box" id="Structure and Ligand recognition">Structure and Ligand recognition</p>
 > 2D representation
         
-<p>Consensus sequence and secondary structure model for the PRA riboswitch. <sup>[1-2]</sup>.</p><br>
+<font><p>Consensus sequence and secondary structure model for the PRA riboswitch. <sup>[1-2]</sup>.</p></font><br>
 <table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
 <head>
@@ -188,7 +188,7 @@ permalink: /docs/PRA/
 > Ligand recognition
                 
 
-<p>Chemical structures of PRA and C-PRA. In vitro experiments have corroborated the predicted structure, but no ligand has been established<sup>[3]</sup>.</p>
+<font><p>Chemical structures of PRA and C-PRA. In vitro experiments have corroborated the predicted structure, but no ligand has been established<sup>[3]</sup>.</p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;">
 <tr>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
@@ -200,13 +200,13 @@ permalink: /docs/PRA/
                  
 <p class="header_box" id="references">References</p>
                 
-<p><strong>[1] Detection of 224 candidate structured RNAs by comparative analysis of specific subsets of intergenic regions.</strong><br />
+<font><strong>[1] Detection of 224 candidate structured RNAs by comparative analysis of specific subsets of intergenic regions.</strong></font>
 Weinberg, Z. et al.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/28977401/" target="_blank">Nucleic Acids Res. 45, (2017).</a>
-<br /></p>
+<br />
                 
-<p><strong>[2] A rare bacterial RNA motif is implicated in the regulation of the purF gene whose encoded enzyme synthesizes phosphoribosylamine.</strong><br />
+<font><strong>[2] A rare bacterial RNA motif is implicated in the regulation of the purF gene whose encoded enzyme synthesizes phosphoribosylamine.</strong></font>
 Malkowski, S. N., Atilho, R. M., Greenlee, E. B., Weinberg, C. E. & Breaker, R. R.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/32843366/" target="_blank">RNA 26, (2020).</a>
-<br /></p>
+<br />
                 

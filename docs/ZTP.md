@@ -168,7 +168,7 @@ permalink: /docs/ZTP/
 </html>
 <br><br>
          
-<p class="header_box" id="description">Description</p>
+<font ><p class="header_box" id="description">Description</p></font>
 <font >The ZMP/ZTP riboswitch (called the <i>pfl</i> RNA motif before) refers to a conserved RNA structure present in some bacteria and originally discovered using bioinformatics. ZMP/ZTP riboswitch are consistently present in genomic locations that likely correspond to the 5' untranslated regions (5' UTRs) of protein-coding genes. This arrangement in bacteria is commonly associated with <i>cis</i>-regulatory elements. Moreover, they are in presumed 5' UTRs of multiple non-homologous genes, suggesting that they function only in these locations. Additional evidence of <i>cis</i>-regulatory function came from the observation that predicted rho-independent transcription terminators overlap pfl RNAs. This overlap suggests that the alternate secondary structures of <i>pfl</i> RNA and the transcription terminator stem-loops compete with each other, and this is a common mechanism for <i>cis</i> gene control in bacteria. ZMP/ZTP riboswitch are found in a variety of phyla of bacteria, but are not found in all the species of that phylum. ZMP/ZTP riboswitch are common among species of orders <i>Actinomycetales</i> and <i>Clostridiales</i>, the classes <i>Alphaproteobacteria</i> and <i>Betaproteobacteria</i> and the genus <i>Deinococcus</i>. They are also found in isolated species of <i>Bacteroidota</i>, <i>Chloroflexota</i>, and <i>Deltaproteobacteria</i>. 
 
 The genes regulated by ZMP/ZTP riboswitch relate to one-carbon metabolism. Most obviously, for example, formate-tetrahydrofolate ligase synthesizes 10-formyltetrahydrofolate. The <i>glyA</i> and <i>folD</i> convert between other one-carbon adducts of tetrahydrofolate. Another gene commonly associated with ZMP/ZTP riboswitch is <i>purH</i>, which catalyzes the formylation of the intermediate AICAR in <i>de novo</i> synthesis of purines. The formyl group is taken from formyltetrahydrofolate, and purine biosynthesis is often the dominant user of formyltetrahydrofolate. In similar fashions, if less directly, most ZMP/ZTP riboswitch are associated with genes that are directly or indirectly involved in one-carbon metabolism. It appears that the ZTP/ZMP purine derivatives can be used to regulate one-carbon metabolism by indirectly sensing a shortage of 10-formyl-tetrahydrofolate. The atomic-resolution structure has been solved by X-ray crystallography. These structures were deposited into the Protein Data Bank under accessions 4ZNP  (From Wikipedia)<sup></sup>.</font>
@@ -176,7 +176,7 @@ The genes regulated by ZMP/ZTP riboswitch relate to one-carbon metabolism. Most 
              
 > Gene association
             
-<p>Genes most frequently associated with ZMP/ZTP riboswitch are highlighted in red and genes that are occasionally associated are highlighted in green. Genes in black have not been observed to be associated with ZMP/ZTP riboswitch<sup>[2]</sup>.</p>
+<font><p>Genes most frequently associated with ZMP/ZTP riboswitch are highlighted in red and genes that are occasionally associated are highlighted in green. Genes in black have not been observed to be associated with ZMP/ZTP riboswitch<sup>[2]</sup>.</p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;">
 <tr >
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
@@ -188,7 +188,7 @@ The genes regulated by ZMP/ZTP riboswitch relate to one-carbon metabolism. Most 
                  
 > Gene regulation
                 
-<p>Potential mechanism of translation regulation by the ZTP riboswitch. The ribosome binding site (RBS) is showed on red<sup>[11]</sup>.</p>
+<font><p>Potential mechanism of translation regulation by the ZTP riboswitch. The ribosome binding site (RBS) is showed on red<sup>[11]</sup>.</p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
   <img src="/images/gene_regulation/ZTP_riboswitch_gene_regulation1.svg" alt="drawing" style="width:1000px;margin-top: 0px;margin-bottom: 0px;" >
@@ -200,7 +200,7 @@ The genes regulated by ZMP/ZTP riboswitch relate to one-carbon metabolism. Most 
 <p class="header_box" id="Structure and Ligand recognition">Structure and Ligand recognition</p>
 > 2D representation
         
-<p>Top: Consensus sequence and secondary structure model for the ZTP riboswitch. Bottom: Secondary structure depictions of the ZTP riboswitch according to PDB ID: 4ZNP<sup>[3]</sup>.</p><br>
+<font><p>Top: Consensus sequence and secondary structure model for the ZTP riboswitch. Bottom: Secondary structure depictions of the ZTP riboswitch according to PDB ID: 4ZNP<sup>[3]</sup>.</p><br></font>
 <html>
 <div>
     <div class="entry-content clearfix" itemprop="articleBody description" style="overflow: auto;">
@@ -476,7 +476,7 @@ The genes regulated by ZMP/ZTP riboswitch relate to one-carbon metabolism. Most 
                  
 > Binding pocket
                     
-<p>Left: Surface representation of the binding pocket of the ZTP riboswitch generated from PDB ID: 4ZNP. 5- amino-4-imidazole carboxamide ribose-5'- monophosphate (ZMP) (shown in sticks) and Mg<sup>2+</sup> (M) is labeled in red. Right: The hydrogen bonds of the ZTP riboswitch bound with 5- amino-4-imidazole carboxamide ribose-5'- monophosphate (ZMP) and Mg<sup>2+</sup> (M)<sup>[3]</sup>.</p>
+<font><p>Left: Surface representation of the binding pocket of the ZTP riboswitch generated from PDB ID: 4ZNP. 5- amino-4-imidazole carboxamide ribose-5'- monophosphate (ZMP) (shown in sticks) and Mg<sup>2+</sup> (M) is labeled in red. Right: The hydrogen bonds of the ZTP riboswitch bound with 5- amino-4-imidazole carboxamide ribose-5'- monophosphate (ZMP) and Mg<sup>2+</sup> (M)<sup>[3]</sup>.</p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;"><tr>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/ZTP_riboswitch_binding_pockets1.svg" alt="drawing" style="width:500px"  px="" /></td>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/ZTP_riboswitch_binding_pockets2.svg" alt="drawing" style="width:500px"  px="" /></td>
@@ -487,7 +487,7 @@ The genes regulated by ZMP/ZTP riboswitch relate to one-carbon metabolism. Most 
 > Ligand recognition
                 
 
-<p>Chemical structures of 5- amino-4-imidazole carboxamide ribose-5'-triphosphate (ZTP) and its analogs. The apparent K<sub>D</sub> of each compound of ZTP riboswitch is shown on bottom<sup>[2,8]</sup>.</p>
+<font><p>Chemical structures of 5- amino-4-imidazole carboxamide ribose-5'-triphosphate (ZTP) and its analogs. The apparent K<sub>D</sub> of each compound of ZTP riboswitch is shown on bottom<sup>[2,8]</sup>.</p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;">
 <tr>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
@@ -499,58 +499,58 @@ The genes regulated by ZMP/ZTP riboswitch relate to one-carbon metabolism. Most 
                  
 <p class="header_box" id="references">References</p>
                 
-<p><strong>[1] Comparative genomics reveals 104 candidate structured RNAs from bacteria, archaea, and their metagenomes</strong><br />
+<font><strong>[1] Comparative genomics reveals 104 candidate structured RNAs from bacteria, archaea, and their metagenomes</strong></font>
 Weinberg, Z. et al.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/20230605/" target="_blank">Genome Biol. 11, R31 (2010).</a>
-<br /></p>
+<br />
                 
-<p><strong>[2] An ancient riboswitch class in bacteria regulates purine biosynthesis and one-carbon metabolism</strong><br />
+<font><strong>[2] An ancient riboswitch class in bacteria regulates purine biosynthesis and one-carbon metabolism</strong></font>
 Kim, P. B., Nelson, J. W. & Breaker, R. R.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/25616067/" target="_blank">Mol. Cell 57, 317–328 (2015).</a>
-<br /></p>
+<br />
                 
-<p><strong>[3] Global RNA Fold and Molecular Recognition for a pfl Riboswitch Bound to ZMP, a Master Regulator of One-Carbon Metabolism</strong><br />
+<font><strong>[3] Global RNA Fold and Molecular Recognition for a pfl Riboswitch Bound to ZMP, a Master Regulator of One-Carbon Metabolism</strong></font>
 Ren, A., Rajashankar, K. R. & Patel, D. J.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/26118534/" target="_blank">Structure 23, 1375–1381 (2015).</a>
-<br /></p>
+<br />
                 
-<p><strong>[4] Metal Ion-Mediated Nucleobase Recognition by the ZTP Riboswitch</strong><br />
+<font><strong>[4] Metal Ion-Mediated Nucleobase Recognition by the ZTP Riboswitch</strong></font>
 Trausch, J. J., Marcano-Velázquez, J. G., Matyjasik, M. M. & Batey, R. T.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/26144884/" target="_blank">Chem. Biol. 22, 829–837 (2015).</a>
-<br /></p>
+<br />
                 
-<p><strong>[5] Recognition of the bacterial alarmone ZMP through long-distance association of two RNA subdomains</strong><br />
+<font><strong>[5] Recognition of the bacterial alarmone ZMP through long-distance association of two RNA subdomains</strong></font>
 Jones, C. P. & Ferré-D’Amaré, A. R.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/26280533/" target="_blank">Nat. Struct. Mol. Biol. 22, 679–685 (2015).</a>
-<br /></p>
+<br />
                 
-<p><strong>[6] Co-crystal structure of the Fusobacterium ulcerans ZTP riboswitch using an X-ray free-electron laser</strong><br />
+<font><strong>[6] Co-crystal structure of the Fusobacterium ulcerans ZTP riboswitch using an X-ray free-electron laser</strong></font>
 Jones, C. et al.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/31282869/" target="_blank">Acta Crystallogr. Sect. F Struct. Biol. Cryst. Commun. 75, 496–500 (2019).</a>
-<br /></p>
+<br />
                 
-<p><strong>[7] A ligand-gated strand displacement mechanism for ZTP riboswitch transcription control</strong><br />
+<font><strong>[7] A ligand-gated strand displacement mechanism for ZTP riboswitch transcription control</strong></font>
 Strobel, E. J., Cheng, L., Berman, K. E., Carlson, P. D. & Lucks, J. B.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/31636437/" target="_blank">Nat. Chem. Biol. 15, 1067–1076 (2019).</a>
-<br /></p>
+<br />
                 
-<p><strong>[8] Parallel Discovery Strategies Provide a Basis for Riboswitch Ligand Design</strong><br />
+<font><strong>[8] Parallel Discovery Strategies Provide a Basis for Riboswitch Ligand Design</strong></font>
 Tran, B. et al.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/32795418/" target="_blank">Cell Chem Biol 27, 1241–1249.e4 (2020).</a>
-<br /></p>
+<br />
                 
-<p><strong>[9] Real-time monitoring of single ZTP riboswitches reveals a complex and kinetically controlled decision landscape</strong><br />
+<font><strong>[9] Real-time monitoring of single ZTP riboswitches reveals a complex and kinetically controlled decision landscape</strong></font>
 Hua, B. et al.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/32913225/" target="_blank">Nat. Commun. 11, 4531 (2020).</a>
-<br /></p>
+<br />
                 
-<p><strong>[10] Tuning strand displacement kinetics enables programmable ZTP riboswitch dynamic range in vivo</strong><br />
+<font><strong>[10] Tuning strand displacement kinetics enables programmable ZTP riboswitch dynamic range in vivo</strong></font>
 Bushhouse, D. Z. & Lucks, J. B.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/36864761/" target="_blank">Nucleic Acids Res. 51, 2891–2903 (2023).</a>
-<br /></p>
+<br />
                 
-<p><strong>[11] Employing a ZTP Riboswitch to Detect Bacterial Folate Biosynthesis Inhibitors in a Small Molecule High-Throughput Screen</strong><br />
+<font><strong>[11] Employing a ZTP Riboswitch to Detect Bacterial Folate Biosynthesis Inhibitors in a Small Molecule High-Throughput Screen</strong></font>
 Perkins, K. R., Atilho, R. M., Moon, M. H. & Breaker, R. R.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/31609568/" target="_blank">ACS Chem. Biol. 14, 2841–2850 (2019).</a>
-<br /></p>
+<br />
                 

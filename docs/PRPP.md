@@ -128,13 +128,13 @@ permalink: /docs/PRPP/
 </html>
 <br><br>
          
-<p class="header_box" id="description">Description</p>
+<font ><p class="header_box" id="description">Description</p></font>
 <font >The <i>ykkC</i> RNAs were initially found in 2004 and in 2017,<i>ykkC</i> subtype 2 RNAs were separated from <i>ykkC</i> RNAs. Further analysis of the RNA sequences and consensus models of <i>ykkC</i> subtype 2 RNAs, and the assessment of the diverse types of genes found downstream of these RNAs, revealed that there are probably at least four additional distinct riboswitch classes present within the <i>ykkC</i> subtype 2 collection, termed <i>ykkC</i> subtypes 2a-2d. Phosphoribosyl pyrophosphate (PRPP, 5-phospho-α-D-ribose 1-diphosphate) was identified as the ligand for <i>ykkC</i> subtype 2b RNAs (PRPP riboswitches)<sup>[1-3]</sup>.</font>
 <p><br /></p>
              
 > Gene association
             
-<p>Representatives of PRPP riboswitch commonly associate with genes for de novo purine biosynthesis. The genes commonly asssociated with PRPP riboswitches are shown in orange <sup>[3]</sup>.</p>
+<font><p>Representatives of PRPP riboswitch commonly associate with genes for de novo purine biosynthesis. The genes commonly asssociated with PRPP riboswitches are shown in orange <sup>[3]</sup>.</p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;">
 <tr >
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
@@ -146,7 +146,7 @@ permalink: /docs/PRPP/
                  
 > Gene regulation
                 
-<p>Putative mechanisms for regulation of gene expression by PRPP riboswitches<sup>[3]</sup>.</p>
+<font><p>Putative mechanisms for regulation of gene expression by PRPP riboswitches<sup>[3]</sup>.</p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
   <img src="/images/gene_regulation/PRPP_riboswitch_gene_regulation.svg" alt="drawing" style="width:1000px;margin-top: 0px;margin-bottom: 0px;" >
@@ -158,7 +158,7 @@ permalink: /docs/PRPP/
 <p class="header_box" id="Structure and Ligand recognition">Structure and Ligand recognition</p>
 > 2D representation
         
-<p>Top: Consensus sequence and secondary structure model for the PRPP riboswitch. Bottom: Secondary structure depictions of the PRPP riboswitch according to PDB ID: 6CK5<sup>[4]</sup>.</p><br>
+<font><p>Top: Consensus sequence and secondary structure model for the PRPP riboswitch. Bottom: Secondary structure depictions of the PRPP riboswitch according to PDB ID: 6CK5<sup>[4]</sup>.</p><br></font>
 <html>
 <div>
     <div class="entry-content clearfix" itemprop="articleBody description" style="overflow: auto;">
@@ -428,7 +428,7 @@ permalink: /docs/PRPP/
                  
 > Binding pocket
                     
-<p>Left: Surface representation of the binding pocket of the PRPP riboswitch generated from PDB ID: 6CK5. PRPP (shown in sticks) is labeled in red. Right: The hydrogen bonds of the binding sites of the PRPP riboswitch bound with PRPP<sup>[4]</sup>.</p>
+<font><p>Left: Surface representation of the binding pocket of the PRPP riboswitch generated from PDB ID: 6CK5. PRPP (shown in sticks) is labeled in red. Right: The hydrogen bonds of the binding sites of the PRPP riboswitch bound with PRPP<sup>[4]</sup>.</p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;"><tr>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/PRPP_riboswitch_binding_pockets1.svg" alt="drawing" style="width:500px"  px="" /></td>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/PRPP_riboswitch_binding_pockets2.svg" alt="drawing" style="width:500px"  px="" /></td>
@@ -439,7 +439,7 @@ permalink: /docs/PRPP/
 > Ligand recognition
                 
 
-<p>Chemical structures of PRPP. The apparent K<sub>D</sub> is shown on bottom<sup>[3, 4, 5]</sup>.</p>
+<font><p>Chemical structures of PRPP. The apparent K<sub>D</sub> is shown on bottom<sup>[3, 4, 5]</sup>.</p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;">
 <tr>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
@@ -451,28 +451,28 @@ permalink: /docs/PRPP/
                  
 <p class="header_box" id="references">References</p>
                 
-<p><strong>[1] New RNA motifs suggest an expanded scope for riboswitches in bacterial genetic control.</strong><br />
+<font><strong>[1] New RNA motifs suggest an expanded scope for riboswitches in bacterial genetic control.</strong></font>
 Barrick, J. E. et al.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/15096624/" target="_blank">Proc. Natl. Acad. Sci. U. S. A. 101, 6421–6426 (2004).</a>
-<br /></p>
+<br />
                 
-<p><strong>[2] Metabolism of Free Guanidine in Bacteria Is Regulated by a Widespread Riboswitch Class.</strong><br />
+<font><strong>[2] Metabolism of Free Guanidine in Bacteria Is Regulated by a Widespread Riboswitch Class.</strong></font>
 Nelson, J. W., Atilho, R. M., Sherlock, M. E., Stockbridge, R. B. & Breaker, R. R.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/27989440/" target="_blank">Mol. Cell 65, (2017).</a>
-<br /></p>
+<br />
                 
-<p><strong>[3] Tandem riboswitches form a natural Boolean logic gate to control purine metabolism in bacteria.</strong><br />
+<font><strong>[3] Tandem riboswitches form a natural Boolean logic gate to control purine metabolism in bacteria.</strong></font>
 Sherlock, M. E., Sudarsan, N., Stav, S. & Breaker, R. R.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/29504937/" target="_blank">Elife 7, (2018).</a>
-<br /></p>
+<br />
                 
-<p><strong>[4] Structures of two aptamers with differing ligand specificity reveal ruggedness in the functional landscape of RNA.</strong><br />
+<font><strong>[4] Structures of two aptamers with differing ligand specificity reveal ruggedness in the functional landscape of RNA.</strong></font>
 Knappenberger, A. J., Reiss, C. W. & Strobel, S. A.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/29877798/" target="_blank">Elife 7, (2018).</a>
-<br /></p>
+<br />
                 
-<p><strong>[5] ykkC riboswitches employ an add-on helix to adjust specificity for polyanionic ligands.</strong><br />
+<font><strong>[5] ykkC riboswitches employ an add-on helix to adjust specificity for polyanionic ligands.</strong></font>
 Peselis, A. & Serganov, A.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/30120360/" target="_blank">Nat. Chem. Biol. 14, 887–894 (2018).</a>
-<br /></p>
+<br />
                 

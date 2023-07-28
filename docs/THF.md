@@ -153,14 +153,14 @@ permalink: /docs/THF/
 </html>
 <br><br>
          
-<p class="header_box" id="description">Description</p>
+<font ><p class="header_box" id="description">Description</p></font>
 <font >Tetrahydrofolate riboswitches are a class of homologous RNAs in certain bacteria that bind tetrahydrofolate (THF). It is almost exclusively located in the probable 5' untranslated regions of protein-coding genes, and most of these genes are known to encode either folate transporters or enzymes involved in folate metabolism. For these reasons it was inferred that the RNAs function as riboswitches. THF riboswitches are found in a variety of Bacillota, specifically the orders Clostridiales and Lactobacillales, and more rarely in other lineages of bacteria. The THF riboswitch was one of many conserved RNA structures found in a project based on comparative genomics. The 3-d structure of the tetrahydrofolate riboswitch has been solved by separate groups using X-ray crystallography. These structures were deposited into the Protein Data Bank under accessions 3SD1 and 3SUX, with other entries containing variants.
 The <i>folE</i> RNA motif, now known as the THF-II riboswitch, is a conserved RNA structure that was discovered by bioinformatics. <i>folE</i> motifs are found in Alphaproteobacteria. <i>folE</i> motif RNAs likely function as cis-regulatory elements, in view of their positions upstream of protein-coding genes. Instances of the <i>folE</i> RNA motif are often located nearby to the predicted Shine-Dalgarno sequence of the downstream gene. This arrangement is consistent with a model of cis-regulation where the RNA allosterically controls access to the Shine-Dalgarno sequence, thus regulating the gene translationally. All known <i>folE</i> RNAs are present upstream of genes encoding GTP cyclohydrolase I, which performs a step in folate metabolism. folE RNAs have been shown to bind tetrahydrofolate and related molecules, leading to their designation as a second structural class of tetrahydrofolate riboswitches, called THF-II riboswitches (From Wikipedia)<sup></sup>.</font>
 <p><br /></p>
              
 > Gene association
             
-<p>Folate biosynthesis and uptake pathway. Genes under control of the THF-I (red bars) and THF-II (cyan bars) riboswitch are highlighted with relative frequency of regulatory interaction reflected by the heights of the bars<sup>[1,6]</sup>.</p>
+<font><p>Folate biosynthesis and uptake pathway. Genes under control of the THF-I (red bars) and THF-II (cyan bars) riboswitch are highlighted with relative frequency of regulatory interaction reflected by the heights of the bars<sup>[1,6]</sup>.</p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;">
 <tr >
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
@@ -172,7 +172,7 @@ The <i>folE</i> RNA motif, now known as the THF-II riboswitch, is a conserved RN
                  
 > Gene regulation
                 
-<p>Potential mechanism of translation regulation by the THF-I riboswitch. The ribosome binding site (RBS) is showed on red<sup>[7]</sup>.</p>
+<font><p>Potential mechanism of translation regulation by the THF-I riboswitch. The ribosome binding site (RBS) is showed on red<sup>[7]</sup>.</p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
   <img src="/images/gene_regulation/THF_riboswitch_gene_regulation1.svg" alt="drawing" style="width:1000px;margin-top: 0px;margin-bottom: 0px;" >
@@ -181,7 +181,7 @@ The <i>folE</i> RNA motif, now known as the THF-II riboswitch, is a conserved RN
 </table>
 <br><br>
                         
-<p>Potential mechanism of translation regulation by the THF-II riboswitch. The ribosome binding site (RBS) is showed on red<sup>[8]</sup>.</p>
+<font><p>Potential mechanism of translation regulation by the THF-II riboswitch. The ribosome binding site (RBS) is showed on red<sup>[8]</sup>.</p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
   <img src="/images/gene_regulation/THF_riboswitch_gene_regulation2.svg" alt="drawing" style="width:1000px;margin-top: 0px;margin-bottom: 0px;" >
@@ -193,7 +193,7 @@ The <i>folE</i> RNA motif, now known as the THF-II riboswitch, is a conserved RN
 <p class="header_box" id="Structure and Ligand recognition">Structure and Ligand recognition</p>
 > 2D representation
         
-<p>Left: Consensus sequence and secondary structure model for the THF-I riboswitch. Right: Secondary structure depictions of the THF-I riboswitch according to PDB ID: 4LVV. The two molecules of folinic acid (FA) observed in the crystal structure are denoted in red<sup></sup>.</p><br>
+<font><p>Left: Consensus sequence and secondary structure model for the THF-I riboswitch. Right: Secondary structure depictions of the THF-I riboswitch according to PDB ID: 4LVV. The two molecules of folinic acid (FA) observed in the crystal structure are denoted in red<sup></sup>.</p><br></font>
 <html>
 <div>
     <div class="entry-content clearfix" itemprop="articleBody description" style="overflow: auto;">
@@ -314,7 +314,7 @@ The <i>folE</i> RNA motif, now known as the THF-II riboswitch, is a conserved RN
 </html>
  <p><br /></p>
                     
-<p>Left: Consensus sequence and secondary structure model for the THF-II riboswitch. Right: Secondary structure depictions of the THF-II riboswitch according to PDB ID: 7WI9. Residues are numbered according to THF-II-loti<sub>62</sub> WT RNA. The ribosome binding site (RBS) is boxed in red<sup></sup>.</p><br>
+<font><p>Left: Consensus sequence and secondary structure model for the THF-II riboswitch. Right: Secondary structure depictions of the THF-II riboswitch according to PDB ID: 7WI9. Residues are numbered according to THF-II-loti<sub>62</sub> WT RNA. The ribosome binding site (RBS) is boxed in red<sup></sup>.</p><br></font>
 <html>
 <div>
     <div class="entry-content clearfix" itemprop="articleBody description" style="overflow: auto;">
@@ -747,8 +747,8 @@ The <i>folE</i> RNA motif, now known as the THF-II riboswitch, is a conserved RN
                  
 > Binding pocket
                     
-<p>Left: Surface representation of th
-e binding pocket of the THF-I riboswitch generated from PDB ID: 4LVV. 6<i>S</i>-folinic acid (6<i>S</i>-FA) (shown in sticks) is labeled in red. Right: The hydrogen bonds of two binding sites of the THF-I riboswitch bound with 6<i>S</i>-FA<sup>[4]</sup>.</p>
+<font><p>Left: Surface representation of th
+e binding pocket of the THF-I riboswitch generated from PDB ID: 4LVV. 6<i>S</i>-folinic acid (6<i>S</i>-FA) (shown in sticks) is labeled in red. Right: The hydrogen bonds of two binding sites of the THF-I riboswitch bound with 6<i>S</i>-FA<sup>[4]</sup>.</p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;"><tr>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/THF_riboswitch_binding_pockets1.svg" alt="drawing" style="width:500px"  px="" /></td>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/THF_riboswitch_binding_pockets2.svg" alt="drawing" style="width:500px"  px="" /></td>
@@ -756,7 +756,7 @@ e binding pocket of the THF-I riboswitch generated from PDB ID: 4LVV. 6<i>S</i>-
 </table>
 <p><br /></p>
                     
-<p>Left: Surface representation of the binding pocket of the THF-II riboswitch generated from PDB ID: 7WI9. THF (shown in sticks) is labeled in red. Right: The hydrogen bonds of the binding site of the THF-II riboswitch bound with THF<sup>[8]</sup>.</p>
+<font><p>Left: Surface representation of the binding pocket of the THF-II riboswitch generated from PDB ID: 7WI9. THF (shown in sticks) is labeled in red. Right: The hydrogen bonds of the binding site of the THF-II riboswitch bound with THF<sup>[8]</sup>.</p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;"><tr>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/THF_riboswitch_binding_pockets3.svg" alt="drawing" style="width:500px"  px="" /></td>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/THF_riboswitch_binding_pockets4.svg" alt="drawing" style="width:500px"  px="" /></td>
@@ -767,7 +767,7 @@ e binding pocket of the THF-I riboswitch generated from PDB ID: 4LVV. 6<i>S</i>-
 > Ligand recognition
                 
 
-<p>Chemical structures of tetrahydrofolate (THF) and its analogs. The apparent K<sub>D</sub> of each compound of THF-I and THF-II riboswitch is shown on bottom<sup>[1,4,6]</sup>.</p>
+<font><p>Chemical structures of tetrahydrofolate (THF) and its analogs. The apparent K<sub>D</sub> of each compound of THF-I and THF-II riboswitch is shown on bottom<sup>[1,4,6]</sup>.</p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;">
 <tr>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
@@ -779,43 +779,43 @@ e binding pocket of the THF-I riboswitch generated from PDB ID: 4LVV. 6<i>S</i>-
                  
 <p class="header_box" id="references">References</p>
                 
-<p><strong>[1] A eubacterial riboswitch class that senses the coenzyme tetrahydrofolate.</strong><br />
+<font><strong>[1] A eubacterial riboswitch class that senses the coenzyme tetrahydrofolate.</strong></font>
 Ames, T. D., Rodionov, D. A., Weinberg, Z. & Breaker, R. R.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/20659680/" target="_blank">Chem. Biol. 17, (2010).</a>
-<br /></p>
+<br />
                 
-<p><strong>[2] Long-range pseudoknot interactions dictate the regulatory response in the tetrahydrofolate riboswitch.</strong><br />
+<font><strong>[2] Long-range pseudoknot interactions dictate the regulatory response in the tetrahydrofolate riboswitch.</strong></font>
 Huang, L., Ishibe-Murakami, S., Patel, D. J. & Serganov, A.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/21873197/" target="_blank">Proc. Natl. Acad. Sci. U. S. A. 108, (2011).</a>
-<br /></p>
+<br />
                 
-<p><strong>[3] The structure of a tetrahydrofolate-sensing riboswitch reveals two ligand binding sites in a single aptamer.</strong><br />
+<font><strong>[3] The structure of a tetrahydrofolate-sensing riboswitch reveals two ligand binding sites in a single aptamer.</strong></font>
 Trausch, J. J., Ceres, P., Reyes, F. E. & Batey, R. T.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/21906956/" target="_blank">Structure 19, (2011).</a>
-<br /></p>
+<br />
                 
-<p><strong>[4] A disconnect between high-affinity binding and efficient regulation by antifolates and purines in the tetrahydrofolate riboswitch.</strong><br />
+<font><strong>[4] A disconnect between high-affinity binding and efficient regulation by antifolates and purines in the tetrahydrofolate riboswitch.</strong></font>
 Trausch, J. J. & Batey, R. T.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/24388757/" target="_blank">Chem. Biol. 21, (2014).</a>
-<br /></p>
+<br />
                 
-<p><strong>[5] Detection of 224 candidate structured RNAs by comparative analysis of specific subsets of intergenic regions.</strong><br />
+<font><strong>[5] Detection of 224 candidate structured RNAs by comparative analysis of specific subsets of intergenic regions.</strong></font>
 Weinberg, Z. et al.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/28977401/" target="_blank">Nucleic Acids Res. 45, (2017).</a>
-<br /></p>
+<br />
                 
-<p><strong>[6] Biochemical validation of a second class of tetrahydrofolate riboswitches in bacteria.</strong><br />
+<font><strong>[6] Biochemical validation of a second class of tetrahydrofolate riboswitches in bacteria.</strong></font>
 Chen, X., Mirihana, A. G. & Breaker, R. R.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/31186369/" target="_blank">RNA 25, (2019).</a>
-<br /></p>
+<br />
                 
-<p><strong>[7] Tying the knot in the tetrahydrofolate (THF) riboswitch: A molecular basis for gene regulation.</strong><br />
+<font><strong>[7] Tying the knot in the tetrahydrofolate (THF) riboswitch: A molecular basis for gene regulation.</strong></font>
 Wilt, H. M., Yu, P., Tan, K., Wang, Y. X. & Stagno, J. R.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/33571639/" target="_blank">J. Struct. Biol. 213, (2021).</a>
-<br /></p>
+<br />
                 
-<p><strong>[8] Structural insights into translation regulation by the THF-II riboswitch.</strong><br />
+<font><strong>[8] Structural insights into translation regulation by the THF-II riboswitch.</strong></font>
 Xu, L., Xiao, Y., Zhang, J. & Fang, X.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/36620887/" target="_blank">Nucleic Acids Res. 51, (2023).</a>
-<br /></p>
+<br />
                 
