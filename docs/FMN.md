@@ -5,7 +5,7 @@ date:   2023-04-10 00:00:00
 author: Xiaowei Lin, Yuanyin Huang
 permalink: /docs/FMN/
 ---
-<p style="font-size: 24px"><strong>Rfam ID: [RF00050](https://rfam.xfam.org/family/RF00050,target="_blank")</strong> (FMN riboswitch (RFN element))<br /></p>
+<p style="font-size: 24px"><strong>Rfam ID: <a href="https://rfam.xfam.org/family/RF00050" target="_blank">RF00050</a></strong> (FMN riboswitch (RFN element))<br /></p>
  
 <br />
 <html>

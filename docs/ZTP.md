@@ -5,7 +5,7 @@ date:   2023-04-05 00:00:00
 author: Bowen Xiao, Xiaowei Lin
 permalink: /docs/ZTP/
 ---
-<p style="font-size: 24px"><strong>Rfam ID: [RF01750](https://rfam.xfam.org/family/RF01750,target="_blank")</strong> (ZMP/ZTP riboswitch)<br /></p>
+<p style="font-size: 24px"><strong>Rfam ID: <a href="https://rfam.xfam.org/family/RF01750" target="_blank">RF01750</a></strong> (ZMP/ZTP riboswitch)<br /></p>
  
 <br />
 <html>

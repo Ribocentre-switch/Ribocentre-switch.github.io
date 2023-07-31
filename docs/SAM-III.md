@@ -5,7 +5,7 @@ date:   2023-04-27 00:00:00
 author: Zhizhong Lu, Wenjian Liao
 permalink: /docs/SAM-III/
 ---
-<p style="font-size: 24px"><strong>Rfam ID: [RF01767](https://rfam.xfam.org/family/RF01767,target="_blank")</strong> (SMK box translational riboswitch (SAM-III))<br /></p>
+<p style="font-size: 24px"><strong>Rfam ID: <a href="https://rfam.xfam.org/family/RF01767" target="_blank">RF01767</a></strong> (SMK box translational riboswitch (SAM-III))<br /></p>
  
 <br />
 <html>

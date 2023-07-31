@@ -72,7 +72,7 @@ Orphan riboswitch candidates are noncoding RNA motifs whose representatives are 
 <img src="/images/orphan_riboswitch/Orphan_riboswitch_2D1.svg" alt="drawing" >
 </div>
 <div style="display: flex; justify-content: center;">
-<a href="/images/downloads/orphan_riboswitch/Orphan_riboswitch_2D1.pdf" target="_blank" download="nan.svg"><button class="btn btn-secondary"><span class="glyphicon 
+<a href="/downloads/orphan_riboswitch/Orphan_riboswitch_2D1.pdf" target="_blank" download="Orphan_riboswitch_2D1.pdf"><button class="btn btn-secondary"><span class="glyphicon 
 glyphicon-download-alt"></span>&nbsp;&nbsp;Download above picture</button></a><br>
 </div><br>
                         
@@ -316,7 +316,7 @@ glyphicon-download-alt"></span>&nbsp;&nbsp;Download above picture</button></a><b
 <img src="/images/orphan_riboswitch/Orphan_riboswitch_2D2.svg" alt="drawing" >
 </div>
 <div style="display: flex; justify-content: center;">
-<a href="/downloads/orphan_riboswitch/Orphan_riboswitch_2D2.pdf" target="_blank" download="nan.svg"><button class="btn btn-secondary"><span class="glyphicon 
+<a href="/downloads/orphan_riboswitch/Orphan_riboswitch_2D2.pdf" target="_blank" download="Orphan_riboswitch_2D2.pdf"><button class="btn btn-secondary"><span class="glyphicon 
 glyphicon-download-alt"></span>&nbsp;&nbsp;Download above picture</button></a><br>
 </div><br>
                             

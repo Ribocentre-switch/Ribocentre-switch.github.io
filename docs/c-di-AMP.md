@@ -5,7 +5,7 @@ date:   2023-05-31 00:00:00
 author: Jie Deng,Yuhang Luo
 permalink: /docs/c-di-AMP/
 ---
-<p style="font-size: 24px"><strong>Rfam ID: [RF00379](https://rfam.xfam.org/family/RF00379,target="_blank")</strong> (YdaO/YuaA leader)<br /></p>
+<p style="font-size: 24px"><strong>Rfam ID: <a href="https://rfam.xfam.org/family/RF00379" target="_blank">RF00379</a></strong> (YdaO/YuaA leader)<br /></p>
  
 <br />
 <html>

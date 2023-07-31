@@ -5,8 +5,8 @@ date:   2023-04-26 00:00:00
 author: Wenjian Liao
 permalink: /docs/2-dG/
 ---
-<p style="font-size: 24px"><strong>Rfam ID: [RF00167](https://rfam.xfam.org/family/RF00167,target="_blank")</strong> (Purine riboswitch)<br /></p>
-<p style="font-size: 24px"><strong>&emsp;&emsp;&emsp;&emsp;[RF03165](https://rfam.xfam.org/family/RF03165,target="_blank")</strong> (2dG-II purine riboswitch) <br /></p>
+<p style="font-size: 24px"><strong>Rfam ID: <a href="https://rfam.xfam.org/family/RF00167" target="_blank">RF00167</a></strong> (Purine riboswitch)<br /></p>
+<p style="font-size: 24px"><strong>&emsp;&emsp;&emsp;&emsp;<a href="https://rfam.xfam.org/family/RF03165" target="_blank">RF03165</a></strong> (2dG-II purine riboswitch) <br /></p>
  
 <br />
 <html>

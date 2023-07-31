@@ -5,7 +5,7 @@ date:   2023-05-15 00:00:00
 author: Xiaoxue Chen, Zhizhong Lu, Mengxiao Li
 permalink: /docs/T-box/
 ---
-<p style="font-size: 24px"><strong>Rfam ID: [RF00230](https://rfam.xfam.org/family/RF00230,target="_blank")</strong> (T-box leader)<br /></p>
+<p style="font-size: 24px"><strong>Rfam ID: <a href="https://rfam.xfam.org/family/RF00230" target="_blank">RF00230</a></strong> (T-box leader)<br /></p>
  
 <br />
 <html>

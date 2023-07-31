@@ -5,7 +5,7 @@ date:   2023-04-29 00:00:00
 author: Zhizhong Lu, Wenjian Liao
 permalink: /docs/SAM-SAH/
 ---
-<p style="font-size: 24px"><strong>Rfam ID: [RF01727](https://rfam.xfam.org/family/RF01727,target="_blank")</strong> (SAM/SAH riboswitch)<br /></p>
+<p style="font-size: 24px"><strong>Rfam ID: <a href="https://rfam.xfam.org/family/RF01727" target="_blank">RF01727</a></strong> (SAM/SAH riboswitch)<br /></p>
  
 <br />
 <html>

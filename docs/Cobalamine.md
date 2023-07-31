@@ -5,9 +5,9 @@ date:   2023-03-11 00:00:00
 author: Xiaowei Lin, Yuanyin Huang
 permalink: /docs/Cobalamine/
 ---
-<p style="font-size: 24px"><strong>Rfam ID: [RF01482](https://rfam.xfam.org/family/RF01482,target="_blank")</strong> (AdoCbl riboswitch)<br /></p>
-<p style="font-size: 24px"><strong>&emsp;&emsp;&emsp;&emsp;[RF00174](https://rfam.xfam.org/family/RF00174,target="_blank")</strong> (Cobalamin riboswitch) <br /></p>
-<p style="font-size: 24px"><strong>&emsp;&emsp;&emsp;&emsp;[RF01689](https://rfam.xfam.org/family/RF01689,target="_blank")</strong> (AdoCbl variant RNA) <br /></p>
+<p style="font-size: 24px"><strong>Rfam ID: <a href="https://rfam.xfam.org/family/RF01482" target="_blank">RF01482</a></strong> (AdoCbl riboswitch)<br /></p>
+<p style="font-size: 24px"><strong>&emsp;&emsp;&emsp;&emsp;<a href="https://rfam.xfam.org/family/RF00174" target="_blank">RF00174</a></strong> (Cobalamin riboswitch) <br /></p>
+<p style="font-size: 24px"><strong>&emsp;&emsp;&emsp;&emsp;<a href="https://rfam.xfam.org/family/RF01689" target="_blank">RF01689</a></strong> (AdoCbl variant RNA) <br /></p>
  
 <br />
 <html>
