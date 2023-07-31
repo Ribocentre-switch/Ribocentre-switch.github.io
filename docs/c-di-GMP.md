@@ -37,7 +37,6 @@ permalink: /docs/c-di-GMP/
       text-decoration: none;
       border: 1px solid #005826;
       border-radius: 5px;
-      box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.2);
     }
     
     /* 鼠标悬停样式 */

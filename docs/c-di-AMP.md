@@ -32,7 +32,6 @@ permalink: /docs/c-di-AMP/
       text-decoration: none;
       border: 1px solid #005826;
       border-radius: 5px;
-      box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.2);
     }
     
     /* 鼠标悬停样式 */
@@ -420,7 +419,7 @@ permalink: /docs/c-di-AMP/
 {
   struct_asym_id: 'C', 
   start_residue_number:87, 
-  end_residue_number91, 
+  end_residue_number:91, 
   color:{r:255,g:135,b:10}
 },
 {
