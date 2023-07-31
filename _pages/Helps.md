@@ -1,5 +1,5 @@
 ---
-title: "Ribocentre - Help"
+title: "Riboswitch - Help"
 layout: piclay
 excerpt: "Riboswitch: A riboswitch database"
 sitemap: True

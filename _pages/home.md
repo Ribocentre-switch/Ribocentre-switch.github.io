@@ -63,7 +63,11 @@ permalink: /
    img{
     margin: 0 0 0 0; 
     border-radius: 0%; }
-    
+    .custom-link{
+      color:#005826
+    }
+
+
     /* 弹窗样式 */
       .click-here {
       cursor: pointer;
@@ -202,7 +206,7 @@ permalink: /
   </head>
   <body>
     <rnacentral-sequence-search
-            databases='["ribocentre"]'
+            databases='["Ribocentre-switch"]'
             examples='[
               {"description": "c-di-GMP-II-GAG riboswitch", "urs": "", "sequence": "CUGCACGCGGGAGGCUGUGAUCCGCCGGACGUACCGACUGCGGCCACCGCAGUCCGGCGGGGAGCCACUGGUGAGACCGGCCCCCGAAG"},
               {"description": "TPP riboswitch (THI element)", "urs": "", "sequence": "GTGTCCACTCACGGGTGCGCTTCATTAAGCGCTGAGAATAAACCGTTTGAACCTGATCCGGGTTATGCCGGCGATAGGAAGAGAATTATGCATAATG"}
@@ -221,10 +225,11 @@ permalink: /
 <!--<div class="well">-->
 <script async src="https://cse.google.com/cse.js?cx=83f482a688df849e9"></script>
 <div class="gcse-search"></div>
-<p>&nbsp;&nbsp;<b>Example: </b>
-    <a href="https://riboswitch.ribocentre.org/#gsc.tab=0&gsc.sort=&gsc.q=ribo" target="_blank">Ribo</a>&nbsp;&nbsp;  
+<p>&nbsp;&nbsp;&nbsp;&nbsp;Example: 
+    <a href="http://localhost:4003/#gsc.tab=0&gsc.sort=&gsc.q=Mg" target="_blank">Mg</a>&nbsp;&nbsp;  
+    <a href="https://riboswitch.ribocentre.org/#gsc.tab=0&gsc.sort=&gsc.q=orphan" target="_blank">Orphan</a> &nbsp;&nbsp; 
     <a href="https://riboswitch.ribocentre.org/#gsc.tab=0&gsc.sort=&gsc.q=SAH" target="_blank">SAH</a>  <br />
-    &nbsp;&nbsp;<b>Quick links:&nbsp;</b>
+    &nbsp;&nbsp;&nbsp;&nbsp;Quick links:&nbsp;
     <a href="https://riboswitch.ribocentre.org/riboswitches/">Riboswitches</a>&nbsp;&nbsp;
     <a href="https://riboswitch.ribocentre.org/sequences/">Sequences</a>&nbsp;&nbsp;
     <a href="https://riboswitch.ribocentre.org/docs/THF/" target="_blank">THF</a>&nbsp;&nbsp;
