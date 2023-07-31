@@ -102,10 +102,10 @@ permalink: /home_v2/
       <img class="popup-image" src="/images/light.svg" alt="Image">
       Need helps
     </div>
-        <a href="https://riboswitch.ribocentre.org/helps/" class="hidden-link" target="_blank"></a>
-      How to use the database, <span onclick="openLink()" class="click-here">click here</span><br>
-      <a href="https://docs.google.com/spreadsheets/u/1/d/1QWMju5Y1uzZ9tL10eDpD7j4IMYvkP9VWAkgVgvU8HqY/edit?usp=sharing" class="hidden-link" target="_blank"></a>
-      How to provide feedback, <span onclick="openLink()" class="click-here">click here</span>
+        <a href="https://riboswitch.ribocentre.org/helps/" class="hidden-link" id="link1" target="_blank"></a>
+      How to use the database, <span onclick="openLink('link1')" class="click-here">click here</span><br>
+      <a href="https://docs.google.com/spreadsheets/d/1QWMju5Y1uzZ9tL10eDpD7j4IMYvkP9VWAkgVgvU8HqY/edit#gid=0" class="hidden-link" id="link2" target="_blank"></a>
+      How to provide feedback, <span onclick="openLink('link2')" class="click-here">click it</span>
         
         <button class="close-btn" onclick="closePopup()">Close pop-up window</button>
     </div>
@@ -242,9 +242,11 @@ document.getElementById("defaultOpen").click();
         window.onload = function() {
             openPopup();
         };
-        function openLink() {
-      var link = document.querySelector('.hidden-link');
-      link.click();
+        function openLink(linkId) {
+        // 根据 linkId 参数获取链接元素
+        const linkElement = document.getElementById(linkId);
+        // 点击链接
+        linkElement.click();
     }
     </script>
       

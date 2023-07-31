@@ -132,9 +132,9 @@ Click into different sections:
   <input type="text" id="searchBox" placeholder="Search by keyword..." onfocus="showAllSheets()" oninput="searchTables()"><br><br>
   <select id="downloadOptions">
     <option value="" disabled selected>Select an option</option>
-    <option value="/download/publications_page/Reviews.xlsx">Reviews</option>
-    <option value="/download/publications_page/Articles.xlsx">Articles</option>
-    <option value="/download/publications_page/all.xlsx">all tables in this page</option>
+    <option value="/downloads/publications_page/Reviews.xlsx">Reviews</option>
+    <option value="/downloads/publications_page/Articles.xlsx">Articles</option>
+    <option value="/downloads/publications_page/All_tables.xlsx">All tables in this page</option>
   </select>
   <!-- Download button -->
   <button class="button" onclick="downloadExcel()">Download</button>

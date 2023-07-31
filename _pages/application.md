@@ -73,7 +73,7 @@ This page shows some of the applications of the collected riboswitches. We liste
 <img src="/images/applications/application_figure.svg" alt="drawing" >
 </div>
 <div style="display: flex; justify-content: center;">
-<a href="/images/applications/application_figure.svg" target="_blank" download="Developing new antibacterials.svg"><button class="btn btn-secondary"><span class="glyphicon 
+<a href="/downloads/applications_page/application_figure.pdf" target="_blank" download="application_figure.pdf"><button class="btn btn-secondary"><span class="glyphicon 
 glyphicon-download-alt"></span>&nbsp;&nbsp;Download above picture</button></a>
 </div><br>
                         

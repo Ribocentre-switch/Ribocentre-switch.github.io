@@ -1,158 +1,4 @@
-<!DOCTYPE html>
-<html>
-
-  <head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Riboswitches - binding pockets</title>
-  <meta name="description" content="Riboswitches: A riboswitch database">
-  <!--<link rel="stylesheet" href="http://localhost:4003/css/main.css>-->
-  <link rel="stylesheet" href="/css/main.css">
-  <link rel="canonical" href="http://localhost:4003/binding_pockets/">
-  <link rel="shortcut icon" type ="image/x-icon" href="http://localhost:4003/images/favicon.ico">
-
-
-
-</head>
-
-
-  <body>
-    
-	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-  
-<div class="navbar navbar-default navbar-fixed-top" role="navigation">
-  <style>
-		.navbar-default .navbar-brand {
-    color: #ffffff;
-		}
-        .navbar {
-            background-color: #005826;
-        }
-		#now a{
-			color:#fff;
-			font-size: 20px;
-		}
-		#now a:hover{
-			font-size: 20px;
-		}
-	
-		
-	li {
-		float: left;
-	}
-
-	li a {
-		display: block;
-		color: rgb(254, 247, 247);
-		text-align: center;
-		padding: 14px 16px;
-		text-decoration: none;
-	}
-
-	li a:hover:not(.active) {
-		background-color: #005826;
-	}
-
-	li a.active {
-		background-color: #000000;
-}
-</style>
-
-
-
-  <div class="container-fluid2">
-	<div class="navbar-header">
-	  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse-1" aria-expanded="false">
-		<span class="sr-only">Toggle navigation</span>
-		<span class="icon-bar"></span>
-		<span class="icon-bar"></span>
-		<span class="icon-bar"></span>
-	  </button>
-	
-    <a class="navbar-brand" href="https://riboswitch.ribocentre.org/">
-		
-		<img class="navbar-brand" src="/images/Riboswitch_logo_bggreen.png" style='height:50px;margin-top:-14px;margin-bottom:0;padding:0;font-size: 20px; ' alt="logo">
-		&nbsp;Ribocentre-switch 
-	</a>
-	</div>
-	<div class="collapse navbar-collapse" id="navbar-collapse-1">
-	  <ul class="nav navbar-nav navbar-right" style="margin-right: 0px;">
-		<li id="now" ><a href="http://localhost:4003/">Home</a></li>
-		<li id="now"><a href="http://localhost:4003/riboswitches/">Riboswitches</a></li>
-		<li id="now"><a href="http://localhost:4003/orphan_riboswitch/">Orphan riboswitches</a></li>
-		<li id="now"><a href="http://localhost:4003/sequences/">Sequences</a></li>
-		<li id="now"><a href="http://localhost:4003/structures/">Structures</a></li>
-		<li id="now"><a href="http://localhost:4003/binding_pockets/">Binding pockets</a></li>
-		<li id="now"><a href="http://localhost:4003/applications/">Applications</a></li>
-		<li id="now"><a href="http://localhost:4003/publications/">Publications</a></li>
-		<li id="now"><a href="http://localhost:4003/helps/">Help</a></li>
-	  </ul>
-	  <script>
-		window.addEventListener("DOMContentLoaded", function() {
-		  // 获取当前页面的URL
-		  var currentURL = window.location.href;
-		  
-		  // 获取所有导航按钮
-		  var navButtons = document.querySelectorAll("li a");
-		  
-		  // 遍历导航按钮
-		  navButtons.forEach(function(button) {
-				// 获取按钮的链接
-				var buttonURL = button.href;
-				
-				// 比较URL是否与当前页面的URL匹配
-				if (currentURL === buttonURL) {
-				  // 设置匹配的按钮为激活状态
-				  button.classList.add("active");
-				}
-		  });
-		});
-		</script>
-	  
-				
-   </div>
-  </div>
-</div>
-    
-      <div class="container-fluid">
-        <div class="row">
-          <style>
-  .box_style{
-    background: #f4f4f4;
-  }
-  .well {
-    max-width: 70%;
-    margin: 0 auto;
-    border-top: 3px solid black;
-    }
-  .wrapper {
-    display: block;
-    position: relative;
-    width: 100%;
-    margin: 0;
-    padding: 0;
-    text-align: left;
-    word-wrap: break-word;
-    }
-  .sectiontitle {
-    display: block;
-    max-width: 100%;
-    margin: 0 auto ;
-    text-align: left;
-    background :#fff;
-    }
-    body {
-    padding-top: 70px;
-  }
-</style>
-
-  <div class="wrapper box_style " >
-    <br>
-    <div class="well" style="border: 1px solid #C9C9C9; background-color: #fff;">
-      <section class="sectiontitle"> 
-     
-       <h1 class="post-title" itemprop="name headline">Binding Pockets</h1>
+I"F<h1 class="post-title" itemprop="name headline">Binding Pockets</h1>
 <p>This page shows some of the comparisons of the binding pockets from different riboswitches. We sorted out three comparisons, ‘Purine riboswitches family’, ‘SAM riboswitches family’, and ‘Guanidine riboswitches family’ as shown in the following figures.
 <br />
 <br /></p>
@@ -240,7 +86,7 @@
   <p><img src="/images/summary_binding_pockets/BP_SAM_riboswitches_family1.svg" alt="drawing" class="img-responsive" /></p>
 </div>
 <div style="display: flex; justify-content: center;">
-  <p><a href="/downloads/binding_pockets/BP_SAM_riboswitches_family1.pdf" target="_blank" download="BP_SAM_riboswitches_family1.pdf"><button class="btn btn-secondary"><span class="glyphicon glyphicon-download-alt"></span>  Download FIGURE</button></a><br /><br /></p>
+  <p><a href="/downloads/binding_pockets/BP_SAM_riboswitches_family1.svg.pdf" target="_blank" download="BP_SAM_riboswitches_family1.pdf"><button class="btn btn-secondary"><span class="glyphicon glyphicon-download-alt"></span>  Download FIGURE</button></a><br /><br /></p>
 </div>
 
 <p>As illustrated in the following figure: the binding pockets of the three families are very similar, and they are almost identical to the surrounding bases. Taking SAM-I riboswitch for example: the purine moiety of C47, G58, C44 and G11 interact with the methionine tail of SAM. SAM (in red color) forms a base triple with A45, U57 and C47. The ribose moiety of SAM forms one hydrogen bond with C47, and the adenine ring of SAM forms two hydrogen bonds with U57 and A45. Electrostatic interaction between the positively charged sulfonium moiety of SAM and U7 and U88. SAM-IV, SAM-I/IV binding to SAM is highly similar to SAM-I, and since SAM-IV was resolved by cryo-electron microscopy, the resolution was not sufficient to determine the conformation of the SAM binding pocket. However, it has been verified that the position of the ligand of SAM-IV coincided with the location of the ligand derived from the SAM-I crystal structure<sup>[11]</sup>.</p>
@@ -248,7 +94,7 @@
   <p><img src="/images/summary_binding_pockets/BP_SAM_riboswitches_family2.svg" alt="drawing" class="img-responsive" /></p>
 </div>
 <div style="display: flex; justify-content: center;">
-  <p><a href="/downloads/binding_pockets/BP_SAM_riboswitches_family2.pdf" target="_blank" download="BP_SAM_riboswitches_family2.pdf"><button class="btn btn-secondary"><span class="glyphicon glyphicon-download-alt"></span>  Download FIGURE</button></a><br /><br /></p>
+  <p><a href="/downloads/binding_pockets/BP_SAM_riboswitches_family2.svg.pdf" target="_blank" download="BP_SAM_riboswitches_family2.pdf"><button class="btn btn-secondary"><span class="glyphicon glyphicon-download-alt"></span>  Download FIGURE</button></a><br /><br /></p>
 </div>
 
 <p>These SAM-II riboswitches and SAM-V riboswitches are typically short sequences, which allowed the full crystal structure, rather than just an aptamer domain, to be determined in complex with SAM. The structurally related SAM-V riboswitch is widespread in marine bacteria. Like SAM-II, it appears to control expression mainly by SD sequestration. Its predicted binding site is very similar to that of SAM-II<sup>[12]</sup>. A clear similarity exists between the SAM-V and SAM-II riboswitches and noted a strong similarity in secondary structure between the two riboswitches. Both sequences suggested the formation of a pseudoknot. However, the two riboswitches have a different bacterial distribution, and the majority of the SAM-II riboswitches are transcriptional whereas the SAM-V riboswitch is translational. A major difference appeared to be that an additional 3’ helix P2a was proposed for the SAM-II riboswitch. However, we now find that the structures of SAM-II and SAM-V are closely similar, and their manner of binding the SAM ligand is virtually identical<sup>[13]</sup>.</p>
@@ -256,7 +102,7 @@
   <p><img src="/images/summary_binding_pockets/BP_SAM_riboswitches_family3.svg" alt="drawing" class="img-responsive" /></p>
 </div>
 <div style="display: flex; justify-content: center;">
-  <p><a href="/downloads/binding_pockets/BP_SAM_riboswitches_family3.pdf" target="_blank" download="BP_SAM_riboswitches_family3.pdf"><button class="btn btn-secondary"><span class="glyphicon glyphicon-download-alt"></span>  Download FIGURE</button></a><br /><br /></p>
+  <p><a href="/downloads/binding_pockets/BP_SAM_riboswitches_family3.svg.pdf" target="_blank" download="BP_SAM_riboswitches_family3.pdf"><button class="btn btn-secondary"><span class="glyphicon glyphicon-download-alt"></span>  Download FIGURE</button></a><br /><br /></p>
 </div>
 
 <p>As illustrated in the following figure: the binding pockets of SAM-II and SAM-V are very similar, and so are the interacting bases. So taking SAM-II riboswitch for example: The SAM methionine tail hydrogen bonds with A47. A47 also forms hydrogen bonds with A19. The adenine ring and ribose of SAM are recognized by U44, U10 and G22. It’s a little bit different here and SAM-V, there is a hydrogen bond between U8 and the adenine ring of SAM in SAM-V riboswitches. The SAM adenine stacks between G22 and A45. Electrostatic interaction between the positively charged sulfonium moiety of SAM and O4 of U11 and U21, and the electrostatic interactions of the positively charged SAM sulfonium also contribute to the high binding selectivity of SAM-II riboswitch to SAM. One Mg2+ cation was also found to be involved in ligand binding, which forms water-mediated coordination with the carboxyl group of SAM and direct coordination to U10 in SAM-V riboswitch, it’s not shown here. In SAM-V, the adenine is base-paired via its Hoogsteen edge, and the aminoacyl group is hydrogen bonded to two nucleobases. There is an equivalent of the U20:A48:U9 triple that might make an electrostatic interaction with the sulfonium in a similar manner.</p>
@@ -264,7 +110,7 @@
   <p><img src="/images/summary_binding_pockets/BP_SAM_riboswitches_family4.svg" alt="drawing" class="img-responsive" /></p>
 </div>
 <div style="display: flex; justify-content: center;">
-  <p><a href="/downloads/binding_pockets/BP_SAM_riboswitches_family4.pdf" target="_blank" download="BP_SAM_riboswitches_family4.pdf"><button class="btn btn-secondary"><span class="glyphicon glyphicon-download-alt"></span>  Download FIGURE</button></a><br /><br /></p>
+  <p><a href="/downloads/binding_pockets/BP_SAM_riboswitches_family4.svg.pdf" target="_blank" download="BP_SAM_riboswitches_family4.pdf"><button class="btn btn-secondary"><span class="glyphicon glyphicon-download-alt"></span>  Download FIGURE</button></a><br /><br /></p>
 </div>
 
 <p id="Guanidine_riboswitches_family"> </p>
@@ -377,68 +223,4 @@ Reiss, C. W. &amp; Strobel, S. A.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/28600356/" target="_blank">RNA 23, 1338–1343 (2017).</a>
 <br /></p>
 
-
-      
-      </section>
-      
-    </div>
-    <br>
-  </div>
-  <br>
-  <script>
-    // Use JavaScript to detect device type and adjust page zoom
-    if (/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)) {
-      var viewport = document.querySelector('meta[name="viewport"]');
-      viewport.setAttribute('content', 'width=device-width, initial-scale=0.5, maximum-scale=1.0, user-scalable=yes');
-      document.body.style.zoom = "50%";
-    }
-  </script>
-  
-        </div>
-      </div>
-    <div id="footer" class="panel">
-  <div class="panel-footer">
-	<!--<div class="container-fluid2">-->
-	<div class="container-fluid2">
-	  <div class="row">
-		<div class="col-sm-4">
-			
-		  <p>&copy 2023 Ribocentre. Site made with <a href="https://jekyllrb.com">Jekyll</a>;  <a href="https://www.ribocentre.org/aboutwebsite.html">copy and  modify it for your own research group.</a></p>
-              <p>We are part of the <a href="https://gzlab.ac.cn">Guangzhou Laboratory</a> and <a href="http://www.gzsys.org.cn/">Sun Yat-sen Memorial Hospital of Sun Yat-sen University</a>.</p>
-            
-
-		   <p>  </p><p>
-            		  
-            
-		</div>
-		<div class="col-sm-4">
-		  Funding:<br />
-		  - <a href="https://www.nsfc.gov.cn/">NSFC</a> <br />
-		  - <a href="http://www.most.gov.cn/">MOST IT+BT project</a> <br />
-          - <a href="https://gzlab.ac.cn">GZlab starting grant</a><br />
-		  <br>
-		  <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
-		  <!--<span class="glyphicon glyphicon-user"></span>&nbsp;&nbsp;<span id="busuanzi_container_site_uv"><strong>: <a href=""><span id="busuanzi_value_site_uv"></span></strong></a> </span> &nbsp;&nbsp;
-		  !--><span class="glyphicon glyphicon-eye-open"></span>&nbsp;&nbsp;<span id="busuanzi_container_site_pv"><strong>: <a href=""><span id="busuanzi_value_site_pv"></span></strong></a> </span>
-
-		</div>
-		<div class="col-sm-4">
-		  Contact:<br />
-		  Building B2, Guangzhou Laboratory<br />
-		  96 Xingdao South Road, Guangzhou International Bio Island, <br />
-		  Haizhu District, Guangzhou, Guangdong,<br />
-		  China. <br />
-          (<a href="https://goo.gl/maps/hDLr6siEAS2Eaypt8">Maps</a>)
-		</div>
-	  </div>
-	</div>
-  </div>
-</div>
-
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-<script src="https://www.ribocentre.org/js/bootstrap.min.js"></script>
-
-
-  </body>
-
-</html>
+:ET
