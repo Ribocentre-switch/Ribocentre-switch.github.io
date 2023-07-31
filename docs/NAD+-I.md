@@ -138,7 +138,7 @@ permalink: /docs/NAD/
 <p class="header_box" id="Structure and Ligand recognition">Structure and Ligand recognition</p>
 > 2D representation
         
-<font><p>(Left) Consensus sequence and secondary structure model for the NAD<sup>+</sup>-I riboswitch. (Right) Secondary structure depictions of the NAD<sup>+</sup>-I riboswitch according to PDB ID:6TFF<sup>[1,4]</sup>.</p><br></font>
+<font><p>Top: Consensus sequence and secondary structure model for the NAD<sup>+</sup>-I riboswitch. Bottom: Secondary structure depictions of the NAD<sup>+</sup>-I riboswitch according to PDB ID:6TFF<sup>[1,4]</sup>.</p><br></font>
 <html>
 <div>
     <div class="entry-content clearfix" itemprop="articleBody description" style="overflow: auto;">

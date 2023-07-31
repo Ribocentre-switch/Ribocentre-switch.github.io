@@ -165,7 +165,7 @@ permalink: /docs/MoCo&Wco/
 <p class="header_box" id="Structure and Ligand recognition">Structure and Ligand recognition</p>
 > 2D representation
         
-<font><p>Left: Consensus sequence and secondary structure model for the WoCo and Wco riboswitch. Right: Sequence of the 138 moaA RNA of <i>E. coli</i> depicted to conform to the secondary structure model. Nucleotidesshaded in grey undergo greater rates of spontaneous 3' phosphodiester cleavage, which typically indicates an elevated level of structural flexibility relative to internucleotide linkages present in stable secondary or tertiary structures. The bar in red identifies purine nucleotides predicted to serve as a ribosome binding site and the translation start codon for moaA is boxed in green<sup>[3]</sup>.</p><br></font>
+<font><p>Top: Consensus sequence and secondary structure model for the WoCo and Wco riboswitch. Bottom: Sequence of the 138 moaA RNA of <i>E. coli</i> depicted to conform to the secondary structure model. Nucleotidesshaded in grey undergo greater rates of spontaneous 3' phosphodiester cleavage, which typically indicates an elevated level of structural flexibility relative to internucleotide linkages present in stable secondary or tertiary structures. The bar in red identifies purine nucleotides predicted to serve as a ribosome binding site and the translation start codon for moaA is boxed in green<sup>[3]</sup>.</p><br></font>
 <html>
 <div>
     <div class="entry-content clearfix" itemprop="articleBody description" style="overflow: auto;">

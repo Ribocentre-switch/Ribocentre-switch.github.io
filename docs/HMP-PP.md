@@ -133,7 +133,7 @@ permalink: /docs/HMP-PP/
 <p class="header_box" id="Structure and Ligand recognition">Structure and Ligand recognition</p>
 > 2D representation
         
-<font><p>Left: The consensus models and two possible secondary structure models based on 400 representatives for the HMP-PP riboswitch. Right: Sequence and predicted secondary structure of the HMP-PP riboswitch of <i>C. sp.</i> Maddingley (depicted in presumed ‘ON' state), where the shaded nucleotides highlight possible base-pairs of the predicted pseudoknot. Red nucleotides are >97% conserved as depicted in the HMP-PP riboswitch consensus model<sup>[2-3]</sup>.</p><br></font>
+<font><p>Top: The consensus models and two possible secondary structure models based on 400 representatives for the HMP-PP riboswitch. Bottom: Sequence and predicted secondary structure of the HMP-PP riboswitch of <i>C. sp.</i> Maddingley (depicted in presumed ‘ON' state), where the shaded nucleotides highlight possible base-pairs of the predicted pseudoknot. Red nucleotides are >97% conserved as depicted in the HMP-PP riboswitch consensus model<sup>[2-3]</sup>.</p><br></font>
 <html>
 <div>
     <div class="entry-content clearfix" itemprop="articleBody description" style="overflow: auto;">

@@ -201,7 +201,7 @@ permalink: /docs/TPP/
                  
 > Gene regulation
                 
-<font><p>Typical mechanisms of the TPP riboswitch to repress gene expression. Top: translation initiation regulation (<i>thiM</i> genes). Bottom: transcription termination regulation (<i>thiC</i> genes). Complementary sequences and alternate base-pairing are shown in cyan. SD sequence and initiation codon are shaded green. TPP and Mg2+ ions are depicted in red and pink, respectively<sup>[2,7-8]</sup>.</p></font>
+<font><p>Typical mechanisms of the TPP riboswitch to repress gene expression. Top: translation initiation regulation (<i>thiM</i> genes). Bottom: transcription termination regulation (<i>thiC</i> genes). Complementary sequences and alternate base-pairing are shown in cyan. SD sequence and initiation codon are shaded green. TPP and Mg<sup>2+</sup> ions are depicted in red and pink, respectively<sup>[2,7-8]</sup>.</p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
   <img src="/images/gene_regulation/TPP_riboswitch_gene_regulation.svg" alt="drawing" style="width:1000px;margin-top: 0px;margin-bottom: 0px;" >
@@ -340,7 +340,7 @@ permalink: /docs/TPP/
 <div ><font ><p style="text-align:right;margin-bottom: 0px;">(Clicking the "Settings/Controls info" to turn Spin off)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p></font>
   <table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
-  <img src="/images/3D/TPP_riboswitch_3D.gif" alt="drawing" style="width:500px;margin-top: 0px;margin-bottom: 0px;" >
+  <img src="/images/3D/TPP_riboswitch_3D.svg" alt="drawing" style="width:500px;margin-top: 0px;margin-bottom: 0px;" >
   </td>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
   <html lang="en">

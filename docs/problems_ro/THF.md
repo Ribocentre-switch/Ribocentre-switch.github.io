@@ -3,7 +3,7 @@ layout: post
 title:  "THF"
 date:   2023-04-05 00:00:00
 author: Xiaowei Lin, Yuanyin Huang
-permalink: /docs/THF-copy/
+permalink: /docs/THF-copy_test/
 ---
 <p style="font-size: 24px"><strong>Rfam ID: [RF01831](https://rfam.xfam.org/family/RF01831,target="_blank")</strong> (THF riboswitch)<br /></p>
 <p style="font-size: 24px"><strong>&emsp;&emsp;&emsp;&emsp;[RF02977](https://rfam.xfam.org/family/RF02977,target="_blank")</strong> (<i>folE</i> RNA) <br /></p>

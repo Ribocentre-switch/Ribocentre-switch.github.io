@@ -143,7 +143,7 @@ permalink: /docs/Glycine/
 
     <timelineli class="day">
      <div class="events">
-       <p >The discovery of Singlet glycine riboswitch with one aptamer domain</p>
+       <p >The discovery of singlet glycine riboswitch with one aptamer domain</p>
        <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/27659053/" target="_blank">2016</a><sup>[10]</sup></div>
      </div>
     </timelineli>
@@ -151,7 +151,7 @@ permalink: /docs/Glycine/
 
     <timelineli class="day">
      <div class="events">
-       <p >In vivo behavior of the tandem glycine riboswitch</p>
+       <p ><i>In vivo</i> behavior of the tandem glycine riboswitch</p>
        <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/29089431/" target="_blank">2017</a><sup>[11]</sup></div>
      </div>
     </timelineli>
