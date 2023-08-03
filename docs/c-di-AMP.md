@@ -103,7 +103,7 @@ permalink: /docs/c-di-AMP/
 
     <timelineli class="day">
      <div class="events">
-       <p >Structure of ydao riboswitch binding with c-di-Damp</p>
+       <p >Structure of ydao riboswitch binding with c-di-AMP</p>
        <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/25086509/" target="_blank">2014</a><sup>[4]</sup></div>
      </div>
     </timelineli>
@@ -419,7 +419,7 @@ permalink: /docs/c-di-AMP/
 {
   struct_asym_id: 'C', 
   start_residue_number:87, 
-  end_residue_number91, 
+  end_residue_number:91, 
   color:{r:255,g:135,b:10}
 },
 {
