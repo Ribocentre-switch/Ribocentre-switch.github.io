@@ -1171,12 +1171,12 @@ Jenkins, J. L., Krucinska, J., McCarty, R. M., Bandarian, V. & Wedekind, J. E.<b
 <a href="https://pubmed.ncbi.nlm.nih.gov/21592962/" target="_blank">J. Biol. Chem. 286, (2011).</a>
 <br />
                 
-<font><strong>[7] Folding of a transcriptionally acting preQ1 riboswitch.</strong></font>
+<font><strong>[7] Folding of a transcriptionally acting preQ<sub>1</sub> riboswitch.</strong></font>
 Rieder, U., Kreutz, C. & Micura, R.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/20534493/" target="_blank">Proc. Natl. Acad. Sci. U. S. A. 107, 10804–10809 (2010).</a>
 <br />
                 
-<font><strong>[8] Pseudoknot preorganization of the preQ1 class I riboswitch.</strong></font>
+<font><strong>[8] Pseudoknot preorganization of the preQ<sub>1</sub> class I riboswitch.</strong></font>
 Santner, T., Rieder, U., Kreutz, C. & Micura, R.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/22775200/" target="_blank">J. Am. Chem. Soc. 134, (2012).</a>
 <br />
