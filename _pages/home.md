@@ -63,10 +63,7 @@ permalink: /
    img{
     margin: 0 0 0 0; 
     border-radius: 0%; }
-    .custom-link{
-      color:#005826
-    }
-
+    
 
     /* 弹窗样式 */
       .click-here {
@@ -151,6 +148,7 @@ permalink: /
         <li data-target="#carousel" data-slide-to="2"></li>
         <li data-target="#carousel" data-slide-to="3"></li>
          <li data-target="#carousel" data-slide-to="4"></li>
+         <li data-target="#carousel" data-slide-to="5"></li>
         
         
     </ol>
@@ -171,6 +169,9 @@ permalink: /
         </div>
         <div class="item">
             <img src="/images/home_page/home_page_picture5.svg" alt="Slide 4" style=" width:1000px; object-fit: cover;border-radius:0%;display: block; margin: 0 auto;"/>
+        </div>
+        <div class="item">
+            <img src="/images/home_page/home_page_picture6.svg" alt="Slide 4" style=" width:1000px; object-fit: cover;border-radius:0%;display: block; margin: 0 auto;"/>
         </div>
 
         
