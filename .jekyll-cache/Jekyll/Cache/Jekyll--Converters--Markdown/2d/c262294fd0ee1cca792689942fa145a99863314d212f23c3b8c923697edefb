@@ -1,13 +1,6 @@
----
-title: "Riboswitch - Home"
-layout: homelay
-excerpt: "Riboswitch: A riboswitch database"
-sitemap: True
-permalink: /
----
-<html lang="zh-cn">
+I"�(<html lang="zh-cn">
 <head>
-<meta charset="utf-8"> 
+<meta charset="utf-8" /> 
 
 <style>
   button, input, optgroup, select, textarea {
@@ -122,11 +115,11 @@ permalink: /
   <!-- 弹窗内容开始 -->
     <div class="popup" id="myPopup">
         <div class="popup-title">
-      <img class="popup-image" src="/images/light.svg" alt="Image">
+      <img class="popup-image" src="/images/light.svg" alt="Image" />
       Need helps
     </div>
         <a href="https://riboswitch.ribocentre.org/helps/" class="hidden-link" id="link1" target="_blank"></a>
-      How to use the database, <span onclick="openLink('link1')" class="click-here">click here</span><br>
+      How to use the database, <span onclick="openLink('link1')" class="click-here">click here</span><br />
       <a href="https://docs.google.com/spreadsheets/d/1QWMju5Y1uzZ9tL10eDpD7j4IMYvkP9VWAkgVgvU8HqY/edit#gid=0" class="hidden-link" id="link2" target="_blank"></a>
       How to provide feedback, <span onclick="openLink('link2')" class="click-here">click here</span>
         <button class="close-btn" onclick="closePopup()">Close pop-up window</button>
@@ -134,13 +127,13 @@ permalink: /
 
   <!-- 弹窗内容结束 -->
  
-<div class="wrapper box_style" >
-<br>
+<div class="wrapper box_style">
+<br />
   <div class="well" style="border: 1px solid #C9C9C9; background-color: #fff;">
     <section class="sectiontitle"> 
     <h1 class="post-title" itemprop="name headline"><strong>Welcome to Ribocentre-switch</strong></h1>
     <div>
-    <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
+    <div id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover">
     <!-- Menu -->
     <ol class="carousel-indicators">
         <li data-target="#carousel" data-slide-to="0" class="active"></li>
@@ -154,24 +147,24 @@ permalink: /
     </ol>
 
     <!-- Items -->
-    <div class="carousel-inner" markdown="0">
+    <div class="carousel-inner">
          <div class="item active">
-            <img src="/images/home_page/home_page_picture1.svg" alt="Slide 1" style=" width:1000px; object-fit: cover;border-radius:0%;display: block; margin: 0 auto;"/>
+            <img src="/images/home_page/home_page_picture1.svg" alt="Slide 1" style=" width:1000px; object-fit: cover;border-radius:0%;display: block; margin: 0 auto;" />
         </div>
         <div class="item ">
-            <img src="/images/home_page/home_page_picture2.svg" alt="Slide 1" style=" width:1000px; object-fit: cover;border-radius:0%;display: block; margin: 0 auto;"/>
+            <img src="/images/home_page/home_page_picture2.svg" alt="Slide 1" style=" width:1000px; object-fit: cover;border-radius:0%;display: block; margin: 0 auto;" />
         </div>
         <div class="item">
-            <img src="/images/home_page/home_page_picture3.svg" alt="Slide 2" style=" width:1000px; object-fit: cover;border-radius:0%;display: block; margin: 0 auto;"/>
+            <img src="/images/home_page/home_page_picture3.svg" alt="Slide 2" style=" width:1000px; object-fit: cover;border-radius:0%;display: block; margin: 0 auto;" />
         </div>
         <div class="item">
-            <img src="/images/home_page/home_page_picture4.svg" alt="Slide 3" style="width:1000px; object-fit: cover;border-radius:0%;display: block; margin: 0 auto;"/>
+            <img src="/images/home_page/home_page_picture4.svg" alt="Slide 3" style="width:1000px; object-fit: cover;border-radius:0%;display: block; margin: 0 auto;" />
         </div>
         <div class="item">
-            <img src="/images/home_page/home_page_picture5.svg" alt="Slide 4" style=" width:1000px; object-fit: cover;border-radius:0%;display: block; margin: 0 auto;"/>
+            <img src="/images/home_page/home_page_picture5.svg" alt="Slide 4" style=" width:1000px; object-fit: cover;border-radius:0%;display: block; margin: 0 auto;" />
         </div>
         <div class="item">
-            <img src="/images/home_page/home_page_picture6.svg" alt="Slide 4" style=" width:1000px; object-fit: cover;border-radius:0%;display: block; margin: 0 auto;"/>
+            <img src="/images/home_page/home_page_picture6.svg" alt="Slide 4" style=" width:1000px; object-fit: cover;border-radius:0%;display: block; margin: 0 auto;" />
         </div>
 
         
@@ -186,50 +179,46 @@ permalink: /
     <span class="sr-only">Next</span>
   </a>
 </div>
-<br>
+<br />
 <strong style="color:#005826;font-weight: bold">Riboswitch</strong>  is a regulatory segment of a messenger RNA molecule that binds a small molecule, resulting in a change in production of the proteins encoded by the mRNA. Thus, an mRNA that contains a riboswitch is directly involved in regulating its own activity, in response to the concentrations of its effector molecule. The discovery that modern organisms use RNA to bind small molecules, and discriminate against closely related analogs, expanded the known natural capabilities of RNA beyond its ability to code for proteins, catalyze reactions, or to bind other RNA or protein macromolecules.
 
         The original definition of the term "riboswitch" specified that they directly sense small-molecule metabolite concentrations. Although this definition remains in common use, some biologists have used a broader definition that includes other cis-regulatory RNAs. However, this article will discuss only metabolite-binding riboswitches.
 
-        Most known riboswitches occur in bacteria, but functional riboswitches of one type (the TPP riboswitch) have been discovered in archaea, plants and certain fungi. TPP riboswitches have also been found in eukaryotes eukaryotes that function via alternative splicing of mRNA <a href="https://en.wikipedia.org/wiki/Riboswitch " target="_blank" > (Adapted from Wiki).</a><br>
+        Most known riboswitches occur in bacteria, but functional riboswitches of one type (the TPP riboswitch) have been discovered in archaea, plants and certain fungi. TPP riboswitches have also been found in eukaryotes eukaryotes that function via alternative splicing of mRNA <a href="https://en.wikipedia.org/wiki/Riboswitch " target="_blank"> (Adapted from Wiki).</a><br />
       
 </div>
-<br>
-<br>
+<br />
+<br />
         
     
 
 <div class="sectiontitle" style="border: 1px solid #C9C9C9; background-color: #fff;">
-<p class="header_box" >Search by sequence<span class="updating-text"> (Continuously updated)</span></p>
+<p class="header_box">Search by sequence<span class="updating-text"> (Continuously updated)</span></p>
 <html>
   <head>
     <title>Sequence search</title>
   </head>
   <body>
-    <rnacentral-sequence-search
-            databases='["ribocentre"]'
-            examples='[
-              {"description": "c-di-GMP-II-GAG riboswitch", "urs": "", "sequence": "CUGCACGCGGGAGGCUGUGAUCCGCCGGACGUACCGACUGCGGCCACCGCAGUCCGGCGGGGAGCCACUGGUGAGACCGGCCCCCGAAG"},
-              {"description": "TPP riboswitch (THI element)", "urs": "", "sequence": "GTGTCCACTCACGGGTGCGCTTCATTAAGCGCTGAGAATAAACCGTTTGAACCTGATCCGGGTTATGCCGGCGATAGGAAGAGAATTATGCATAATG"}
-            ]'
-            rfam="true"
-    />
+    <rnacentral-sequence-search databases="[&quot;ribocentre&quot;]" examples="[
+              {&quot;description&quot;: &quot;c-di-GMP-II-GAG riboswitch&quot;, &quot;urs&quot;: &quot;&quot;, &quot;sequence&quot;: &quot;CUGCACGCGGGAGGCUGUGAUCCGCCGGACGUACCGACUGCGGCCACCGCAGUCCGGCGGGGAGCCACUGGUGAGACCGGCCCCCGAAG&quot;},
+              {&quot;description&quot;: &quot;TPP riboswitch (THI element)&quot;, &quot;urs&quot;: &quot;&quot;, &quot;sequence&quot;: &quot;GTGTCCACTCACGGGTGCGCTTCATTAAGCGCTGAGAATAAACCGTTTGAACCTGATCCGGGTTATGCCGGCGATAGGAAGAGAATTATGCATAATG&quot;}
+            ]" rfam="true" />
   <script type="text/javascript" src="https://www.ribocentre.org/js/RNAcentral-sequence-search.js"></script></body>
 </html>
 </div>
-<br>
-<br>
+<br />
+<br />
 
 <div class="sectiontitle" style="border: 1px solid #C9C9C9; background-color: #fff;">
 <p class="header_box">Search by text</p>
 <div class="left-aligned" style="width: 82%;">
 <!--<div class="well">-->
-<script async src="https://cse.google.com/cse.js?cx=83f482a688df849e9"></script>
+<script async="" src="https://cse.google.com/cse.js?cx=83f482a688df849e9"></script>
 <div class="gcse-search"></div>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;Example: 
-    <a href="http://localhost:4003/#gsc.tab=0&gsc.sort=&gsc.q=Mg" target="_blank">Mg</a>&nbsp;&nbsp;  
-    <a href="https://riboswitch.ribocentre.org/#gsc.tab=0&gsc.sort=&gsc.q=orphan" target="_blank">Orphan</a> &nbsp;&nbsp; 
-    <a href="https://riboswitch.ribocentre.org/#gsc.tab=0&gsc.sort=&gsc.q=SAH" target="_blank">SAH</a>  <br />
+    <a href="http://localhost:4003/#gsc.tab=0&amp;gsc.sort=&amp;gsc.q=Mg" target="_blank">Mg</a>&nbsp;&nbsp;  
+    <a href="https://riboswitch.ribocentre.org/#gsc.tab=0&amp;gsc.sort=&amp;gsc.q=orphan" target="_blank">Orphan</a> &nbsp;&nbsp; 
+    <a href="https://riboswitch.ribocentre.org/#gsc.tab=0&amp;gsc.sort=&amp;gsc.q=SAH" target="_blank">SAH</a>  <br />
     &nbsp;&nbsp;&nbsp;&nbsp;Quick links:&nbsp;
     <a href="https://riboswitch.ribocentre.org/riboswitches/">Riboswitches</a>&nbsp;&nbsp;
     <a href="https://riboswitch.ribocentre.org/sequences/">Sequences</a>&nbsp;&nbsp;
@@ -264,7 +253,7 @@ permalink: /
 
    
     </script>
-<br>
+<br />
 
 
 
@@ -287,3 +276,5 @@ permalink: /
 
 
 
+</section></div></div></body></html>
+:ET
