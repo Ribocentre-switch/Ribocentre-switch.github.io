@@ -152,7 +152,7 @@ The <i>folE</i> RNA motif, now known as the THF-II riboswitch, is a conserved RN
              
 > Gene association
             
-<font><p>Folate biosynthesis and uptake pathway. Genes under control of the THF-I (red bars) and THF-II (cyan bars) riboswitch are highlighted with relative frequency of regulatory interaction reflected by the heights of the bars<sup>[<a href="#ref1">1</a>,<a href="#ref6">6</a>]</sup>.</p></font>
+<font><p>Folate biosynthesis and uptake pathway of <i>Escherichia coli</i>. Genes under control of the THF-I (red bars) and THF-II (cyan bars) riboswitch are highlighted with relative frequency of regulatory interaction reflected by the heights of the bars<sup>[<a href="#ref1">1</a>,<a href="#ref6">6</a>]</sup>.</p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;">
 <tr >
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
@@ -164,7 +164,7 @@ The <i>folE</i> RNA motif, now known as the THF-II riboswitch, is a conserved RN
                  
 > Gene regulation
                 
-<font><p>Potential mechanism of translation regulation by the THF-I riboswitch. The ribosome binding site (RBS) is showed on red<sup>[<a href="#ref7">7</a>]</sup>.</p></font>
+<font><p>Potential mechanism of the THF-I riboswitch for controlling gene expression in  <i>Streptococcus mutans</i>. The ribosome binding site (RBS) is showed on red. We present the  prototypical mechanism, but not all possible mechanisms<sup>[<a href="#ref7">7</a>]</sup>.</p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
   <img src="/images/gene_regulation/THF_riboswitch_gene_regulation1.svg" alt="drawing" style="width:1000px;margin-top: 0px;margin-bottom: 0px;" >
@@ -173,7 +173,7 @@ The <i>folE</i> RNA motif, now known as the THF-II riboswitch, is a conserved RN
 </table>
 <br><br>
                         
-<font><p>Potential mechanism of translation regulation by the THF-II riboswitch. The ribosome binding site (RBS) is showed on red<sup>[<a href="#ref8">8</a>]</sup>.</p></font>
+<font><p>Potential mechanism of  translation initiation regulation by the THF-II riboswitch in  <i>Mesorhizobium loti</i> . The ribosome binding site (RBS) is showed on red. We present the  prototypical mechanism, but not all possible mechanisms<sup>[<a href="#ref8">8</a>]</sup>.</p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
   <img src="/images/gene_regulation/THF_riboswitch_gene_regulation2.svg" alt="drawing" style="width:1000px;margin-top: 0px;margin-bottom: 0px;" >
@@ -185,8 +185,8 @@ The <i>folE</i> RNA motif, now known as the THF-II riboswitch, is a conserved RN
 <p class="header_box" id="Structure and Ligand recognition">Structure and Ligand recognition</p>
 > 2D representation
         
-<font><p>Top: Consensus sequence and secondary structure model for the THF-I riboswitch. Bottom: Secondary structure depictions of the THF-I riboswitch according to PDB ID: 4LVV. The two molecules of folinic acid (FA) observed in the crystal structure are denoted in red<sup></sup>.</p></font>
-<font><p>5' AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA 3' (Sequence from bottom structure )</p><br></font>
+<font><p>Top: Consensus sequence and secondary structure model for the THF-I riboswitch. Bottom: Secondary structure depictions of the <i>Streptococcus mutans</i> THF-I riboswitch according to PDB ID: 4LVV. The two molecules of folinic acid (FA) observed in the crystal structure are denoted in red<sup></sup>.</p></font>
+<font><p>5'GGAGAGUAGAUGAUUCGCGUUAAGUGUGUGUGAAUGGGAUGUCGUCACACAACGAAGCGAGAGCGCGGUGAAUCAUUGCAUCCGCUCCA3' (Sequence from bottom structure )</p><br></font>
 <html>
 <div>
     <div class="entry-content clearfix" itemprop="articleBody description" style="overflow: auto;">
@@ -307,60 +307,131 @@ The <i>folE</i> RNA motif, now known as the THF-II riboswitch, is a conserved RN
 </html>
  <p><br /></p>
                     
-<font><p>Top: Consensus sequence and secondary structure model for the THF-II riboswitch. Bottom: Secondary structure depictions of the THF-II riboswitch according to PDB ID: 7WI9. Residues are numbered according to THF-II-loti<sub>62</sub> WT RNA. The ribosome binding site (RBS) is boxed in red<sup></sup>.</p></font><br>
-<table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;"><tr>
-  <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<style>
-   body {
-    width: 100%;
-    height: 100vh;
-}
-   button {
-   margin-right: 0px;
-}
-   .main-container {
-    display: flex;
-    align-items: left;
-    justify-content: center;
-    height: 100%;
-}
-   .zoom-wrapper3 {
-    width: 800px;
-    border: 1px solid #fff;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-</style>
-    <div class="main-container">
-        <div class="zoom-wrapper3">
-            <div class="zoom-area3">
-                <img src="/images/2D/THF-II_riboswitch_2D1.svg" alt="drawing" style="width:1000px" />
-            </div>
+<font><p>Top: Consensus sequence and secondary structure model for the THF-II riboswitch. Bottom: Secondary structure depictions of the <i>Mesorhizobium loti</i> THF-II riboswitch according to PDB ID: 7WI9. Residues are numbered according to THF-II-loti<sub>62</sub> WT RNA. The ribosome binding site (RBS) is boxed in red<sup></sup>.</p></font>
+<font><p>5'GGCGUGGUCCGUUCAACUCGUUCCUCGAAAGAGGAACUACGGGAGACGCC3' (Sequence from bottom structure )</p><br></font>
+<html>
+<div>
+    <div class="entry-content clearfix" itemprop="articleBody description" style="overflow: auto;">
+        <div style="display: flex; justify-content: center;">
+        <div>
+        <div id="image-caption" style="text-align: left; margin-left: 20px;"></div>
+            <table class="clear" cellspacing="5" style="border-spacing: 0; margin: 0 auto;">
+                <tr>
+                    <td style="border: 1px solid black;width:800px">
+                        <div id="layer_pdb" style="display: block">
+                            <a id="image-link1" href="#" title="">
+                                <div id="zoom-wrapper1" class="zoom-wrapper1">
+                                    <div id="zoom-area1" class="zoom-area1">
+                                        <img id="image-preview1" src="#" height="500" />
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                    </td>
+                    <td class="left" style="border: none; padding: 0; vertical-align: top">
+                        <div class="image-wrapper" style="margin-bottom: 40px;">
+                            <img id="image-a1" src="/images/2D/THF-II_riboswitch_2D1.svg" width="200" style="border: 1px solid black; cursor: zoom-in;margin-top: 0px;margin-bottom: 0px;" alt="big.png"/>
+                            <div class="button-wrapper">
+                                <a class="btn " href="javascript:showImage1('/images/2D/THF-II_riboswitch_2D1.svg');">&lt;&lt; Show big</a>
+                            </div>
+                        </div>
+                        <div class="image-wrapper" >
+                            <img id="image-b" src="/images/2D/THF-II_riboswitch_2D2.svg" width="200" style="border: 1px solid black; cursor: zoom-in;margin-top: 0px;margin-bottom: 0px;" alt="down.png"/>
+                            <div class="button-wrapper">
+                                <a class="btn " href="javascript:showImage1('/images/2D/THF-II_riboswitch_2D2.svg');">&lt;&lt; Show big</a>
+                            </div>
+                        </div>
+                    </td>
+                </tr>
+            </table>
+        </div>
         </div>
     </div>
-    <script src="https://www.ribocentre.org/js/panzoom.js"></script>
-    <script type='text/javascript'>
-      var zoomWraper3 = document.querySelector(".zoom-wrapper3");
-      var panzoom3 = Panzoom(document.querySelector(".zoom-area3"), {
-      maxScale: 6
-      });
-      zoomWraper3.addEventListener("wheel", panzoom3.zoomWithWheel);
-      panzoom3.zoom(0.8);
-      </script>
-</td>
-</tr></table><br>
-<p><br /></p>
+</div>
+
+<style>
+    .image-wrapper {
+        display: block;
+        text-align: center;
+        margin-bottom: 20px;
+    }
+
+    .button-wrapper {
+        text-align: left;
+    }
+
+    .btn {
+      
+      padding: 10px;
+      font-size:16px;
+      margin-right: 10px;
+      text-align: left;
+      background-color: #efefef;
+      color: #005826;
+      text-decoration: none;
+      font-weight: bold;
+      border: 1px solid #005826;
+      border-radius: 5px;
+      
+    }
+    /* 鼠标悬停样式 */
+    .btn:hover {
+      color: #005826;
+      background-color: #999;
+      cursor: pointer;
+    }
+    
+    
+
+    .zoom-wrapper1 {
+        width: 800px;
+        border: 1px solid #fff;
+        overflow: hidden;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    
+</style>
+
+<script src="https://www.ribocentre.org/js/panzoom.js"></script>
+<script type="text/javascript">
+    function showImage1(imageUrl) {
+        var imagePreview = document.getElementById("image-preview1");
+        var imageLink = document.getElementById("image-link1");
+        var imageCaption = document.getElementById("image-caption");
+
+        imagePreview.src = imageUrl;
+        imageLink.href = imageUrl;
+
+       
+    }
+
+    window.addEventListener('DOMContentLoaded', (event) => {
+        var imagePreview = document.getElementById("image-preview1");
+        var imageLink = document.getElementById("image-link1");
+        var rightImage = document.getElementById("image-a1");
+
+        imagePreview.src = rightImage.src;
+        imageLink.href = rightImage.src;
+        
+        var zoomArea = document.getElementById("zoom-area1");
+        var panzoom = Panzoom(zoomArea, {
+            maxScale: 6,
+        });
+        zoomArea.addEventListener("wheel", function(e) {
+            e.preventDefault();
+            panzoom.zoomWithWheel(e);
+        });
+        panzoom.zoom(0.8);
+    });
+</script>
+</html>
+ <p><br /></p>
                      
 > 3D visualisation
                 
-<font >The overall structure of the THF-I riboswitch was generated from PDB ID: 4LVV at 2.10 Å resolution bound with 6<i>S</i>-folinic acid. 6<i>S</i>-folinic acid (shown in sticks) is colored in red <sup>[<a href="#ref4">4</a>]</sup>.</font>
+<font >The overall structure of the <i>Streptococcus mutans</i> THF-I riboswitch was generated from PDB ID: 4LVV at 2.10 Å resolution bound with 6<i>S</i>-folinic acid. 6<i>S</i>-folinic acid (shown in sticks) is colored in red.Additional available structures that have been solved and detailed information are accessible on Structures page <sup>[<a href="#ref4">4</a>]</sup>.</font>
 <div ><font ><p style="text-align:right;margin-bottom: 0px;">(Clicking the "Settings/Controls info" to turn Spin off)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p></font>
   <table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
@@ -547,7 +618,7 @@ The <i>folE</i> RNA motif, now known as the THF-II riboswitch, is a conserved RN
   </div>
   <p><br /></p>
                 
-<font >The overall structure of the THF-II riboswitch was generated from PDB ID: 7WI9 at 2.98 Å resolution bound with THF. THF (shown in sticks) is colored in red <sup>[<a href="#ref8">8</a>]</sup>.</font>
+<font >The overall structure of the <i>Mesorhizobium loti</i> THF-II riboswitch was generated from PDB ID: 7WI9 at 2.98 Å resolution bound with THF. THF (shown in sticks) is colored in red. Additional available structures that have been solved and detailed information are accessible on Structures page <sup>[<a href="#ref8">8</a>]</sup>.</font>
 <div ><font ><p style="text-align:right;margin-bottom: 0px;">(Clicking the "Settings/Controls info" to turn Spin off)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p></font>
   <table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
@@ -670,8 +741,7 @@ The <i>folE</i> RNA motif, now known as the THF-II riboswitch, is a conserved RN
                  
 > Binding pocket
                     
-<font><p>Left: Surface representation of th
-e binding pocket of the THF-I riboswitch generated from PDB ID: 4LVV. 6<i>S</i>-folinic acid (6<i>S</i>-FA) (shown in sticks) is labeled in red. Right: The hydrogen bonds of two binding sites of the THF-I riboswitch bound with 6<i>S</i>-FA<sup>[<a href="#ref4">4</a>]</sup>.</p></font>
+<font><p>Left: Surface representation of the binding pocket of the <i>Streptococcus mutans</i> THF-I riboswitch generated from PDB ID: 4LVV at 2.10 Å resolution. 6<i>S</i>-folinic acid (6<i>S</i>-FA) (shown in sticks) is labeled in red. Right: The hydrogen bonds of two binding sites of the THF-I riboswitch bound with 6<i>S</i>-FA<sup>[<a href="#ref4">4</a>]</sup>.</p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;"><tr>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/THF_riboswitch_binding_pockets1.svg" alt="drawing" style="width:500px"  px="" /></td>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/THF_riboswitch_binding_pockets2.svg" alt="drawing" style="width:500px"  px="" /></td>
@@ -679,7 +749,7 @@ e binding pocket of the THF-I riboswitch generated from PDB ID: 4LVV. 6<i>S</i>-
 </table>
 <p><br /></p>
                     
-<font><p>Left: Surface representation of the binding pocket of the THF-II riboswitch generated from PDB ID: 7WI9. THF (shown in sticks) is labeled in red. Right: The hydrogen bonds of the binding site of the THF-II riboswitch bound with THF<sup>[<a href="#ref8">8</a>]</sup>.</p></font>
+<font><p>Left: Surface representation of the binding pocket of the <i>Mesorhizobium loti</i> THF-II riboswitch generated from PDB ID: 7WI9 at 2.98 Å resolution. THF (shown in sticks) is labeled in red. Right: The hydrogen bonds of the binding site of the THF-II riboswitch bound with THF<sup>[<a href="#ref8">8</a>]</sup>.</p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;"><tr>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/THF_riboswitch_binding_pockets3.svg" alt="drawing" style="width:500px"  px="" /></td>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/THF_riboswitch_binding_pockets4.svg" alt="drawing" style="width:500px"  px="" /></td>
@@ -690,7 +760,7 @@ e binding pocket of the THF-I riboswitch generated from PDB ID: 4LVV. 6<i>S</i>-
 > Ligand recognition
                 
 
-<font><p>Chemical structures of tetrahydrofolate (THF) and its analogs. The apparent K<sub>D</sub> of each compound of THF-I and THF-II riboswitch is shown on bottom<sup>[<a href="#ref1">1</a>,<a href="#ref4">4</a>,<a href="#ref6">6</a>]</sup>.</p></font>
+<font><p>Chemical structures of tetrahydrofolate (THF) and its analogs. The apparent K<sub>D</sub> of each compound of THF-I and THF-II riboswitch is shown on bottom. Refer to the corresponding references for comprehensive details regarding reaction conditions and species information in measuring the dissociation constant displayed below<sup>[<a href="#ref1">1</a>,<a href="#ref4">4</a>,<a href="#ref6">6</a>]</sup>.</p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;">
 <tr>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
