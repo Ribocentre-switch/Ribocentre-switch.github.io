@@ -79,16 +79,14 @@ permalink: /docs/Na/
           
     <timelineli class="day">
      <div class="events">
-       <p >Discovery of DUF1646 motif</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/28977401/" target="_blank">2017</a><sup>[1]</sup></div>
+       <p ><a href="https://pubmed.ncbi.nlm.nih.gov/28977401/" target="_blank">2017</a><sup>[1]</sup>&emsp;Discovery of DUF1646 motif</p>
      </div>
     </timelineli>
         
 
     <timelineli class="day">
      <div class="events">
-       <p >Identify the DUF1646 motif as a Na+ riboswitch</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/35879547/" target="_blank">2022</a><sup>[2]</sup></div>
+       <p ><a href="https://pubmed.ncbi.nlm.nih.gov/35879547/" target="_blank">2022</a><sup>[2]</sup>&emsp;Identify the DUF1646 motif as a Na+ riboswitch</p>
      </div>
     </timelineli>
         
@@ -182,12 +180,12 @@ A DUF1646 RNA occurs upstream of an operon in <i>Enterococcus</i> hirae that was
                  
 <p class="header_box" id="references">References</p>
                 
-<font><strong>[1] Detection of 224 candidate structured RNAs by comparative analysis of specific subsets of intergenic regions.</strong></font>
+<a id=""></a><font><strong>[1] Detection of 224 candidate structured RNAs by comparative analysis of specific subsets of intergenic regions.</strong></font>
 Weinberg, Z. et al.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/28977401/" target="_blank">Nucleic Acids Res. 45, 10811–10823 (2017).</a>
 <br />
                 
-<font><strong>[2] Na riboswitches regulate genes for diverse physiological processes in bacteria.</strong></font>
+<a id=""></a><font><strong>[2] Na riboswitches regulate genes for diverse physiological processes in bacteria.</strong></font>
 White, N., Sadeeshkumar, H., Sun, A., Sudarsan, N. & Breaker, R. R.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/35879547/" target="_blank">Nat. Chem. Biol. 18, 878–885 (2022).</a>
 <br />

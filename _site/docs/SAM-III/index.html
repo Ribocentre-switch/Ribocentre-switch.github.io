@@ -58,6 +58,14 @@
 	li a.active {
 		background-color: #000000;
 }
+.resource-dropdown {
+    color: #fff !important; /* 使用 !important 确保该样式优先级高于其他潜在的样式 */
+	font-size: 20px;
+}
+.dropdown-menu {
+    background-color: #005826; /* 你可以选择一个与你的网站配色相符的颜色 */
+}
+
 </style>
 
 
@@ -81,7 +89,18 @@
 	  <ul class="nav navbar-nav navbar-right" style="margin-right: 0px;">
 		<li id="now" ><a href="http://localhost:4003/">Home</a></li>
 		<li id="now"><a href="http://localhost:4003/riboswitches/">Riboswitches</a></li>
-		<li id="now"><a href="http://localhost:4003/orphan_riboswitch/">Orphan riboswitches</a></li>
+		 <!-- ...下拉菜单-begin ... -->
+		<li class="dropdown">
+			<a href="#" class="dropdown-toggle resource-dropdown" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" >Other riboswitches <span class="caret"></span></a>
+			<ul class="dropdown-menu">
+				<li id="now"><a href="http://localhost:4003/tandom_riboswitches/">Tandom riboswitches</a></li>
+				<li id="now"><a href="http://localhost:4003/orphan_riboswitch/">Orphan riboswitches</a></li>
+			  <!-- ... other sub-menu items ... -->
+			</ul>
+		  </li>
+		  <!-- ...下拉菜单-finish ... -->
+
+		
 		<li id="now"><a href="http://localhost:4003/sequences/">Sequences</a></li>
 		<li id="now"><a href="http://localhost:4003/structures/">Structures</a></li>
 		<li id="now"><a href="http://localhost:4003/binding_pockets/">Binding pockets</a></li>
@@ -109,6 +128,20 @@
 				}
 		  });
 		});
+
+		// 获取所有下拉菜单的导航项
+var dropdownNavItems = document.querySelectorAll(".dropdown-menu li a");
+
+// 遍历下拉菜单的导航项
+dropdownNavItems.forEach(function(item) {
+    var itemURL = item.href;
+
+    if (currentURL === itemURL) {
+        // 设置匹配的项为激活状态
+        item.classList.add("active");
+    }
+});
+
 		</script>
 	  
 				

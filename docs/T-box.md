@@ -79,89 +79,78 @@ permalink: /docs/T-box/
           
     <timelineli class="day">
      <div class="events">
-       <p >Discovery of T-box riboswitch</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/1735721/" target="_blank">1992</a><sup>[1]</sup></div>
+       <p ><a href="https://pubmed.ncbi.nlm.nih.gov/1735721/" target="_blank">1992</a><sup>[1]</sup>&emsp;Discovery of T-box riboswitch</p>
      </div>
     </timelineli>
         
 
     <timelineli class="day">
      <div class="events">
-       <p >tRNA as a regulator of transcription antitermination</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/8348614/" target="_blank">1993</a><sup>[2]</sup></div>
+       <p ><a href="https://pubmed.ncbi.nlm.nih.gov/8348614/" target="_blank">1993</a><sup>[2]</sup>&emsp;tRNA as a regulator of transcription antitermination</p>
      </div>
     </timelineli>
         
 
     <timelineli class="day">
      <div class="events">
-       <p >Biochemical evidence for structural switch depend on the charge of bound tRNA</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/15890195/" target="_blank">2005</a><sup>[3]</sup></div>
+       <p ><a href="https://pubmed.ncbi.nlm.nih.gov/15890195/" target="_blank">2005</a><sup>[3]</sup>&emsp;Biochemical evidence for structural switch depend on the charge of bound tRNA</p>
      </div>
     </timelineli>
         
 
     <timelineli class="day">
      <div class="events">
-       <p >Co-crystal structure of a T-box riboswitch stem I domain in complex with its cognate tRNA</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/23892783/" target="_blank">2013</a><sup>[4]</sup></div>
+       <p ><a href="https://pubmed.ncbi.nlm.nih.gov/23892783/" target="_blank">2013</a><sup>[4]</sup>&emsp;Co-crystal structure of a T-box riboswitch stem I domain in complex with its cognate tRNA</p>
      </div>
     </timelineli>
         
 
     <timelineli class="day">
      <div class="events">
-       <p >Co-crystal structure of the <i>G. kaustophilus</i> glyQS T box riboswitch Stem I in complex with tRNA</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/24095061/" target="_blank">2013</a><sup>[5]</sup></div>
+       <p ><a href="https://pubmed.ncbi.nlm.nih.gov/24095061/" target="_blank">2013</a><sup>[5]</sup>&emsp;Co-crystal structure of the <i>G. kaustophilus</i> glyQS T box riboswitch Stem I in complex with tRNA</p>
      </div>
     </timelineli>
         
 
     <timelineli class="day">
      <div class="events">
-       <p >The first demonstration that the T-box RNA itself is able to sense and respond to tRNA aminoacylation in vitro</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/24954903/" target="_blank">2014</a><sup>[6]</sup></div>
+       <p ><a href="https://pubmed.ncbi.nlm.nih.gov/24954903/" target="_blank">2014</a><sup>[6]</sup>&emsp;The first demonstration that the T-box RNA itself is able to sense and respond to tRNA aminoacylation in vitro</p>
      </div>
     </timelineli>
         
 
     <timelineli class="day">
      <div class="events">
-       <p >A T-box riboswitch subclass regulates at the level of translation initiation</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/25583497/" target="_blank">2015</a><sup>[7]</sup></div>
+       <p ><a href="https://pubmed.ncbi.nlm.nih.gov/25583497/" target="_blank">2015</a><sup>[7]</sup>&emsp;A T-box riboswitch subclass regulates at the level of translation initiation</p>
      </div>
     </timelineli>
         
 
     <timelineli class="day">
      <div class="events">
-       <p >The kinetic and structural underpinnings of tRNA binding to a glycyl T-box riboswitch</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/29760498/" target="_blank">2018</a><sup>[8]</sup></div>
+       <p ><a href="https://pubmed.ncbi.nlm.nih.gov/29760498/" target="_blank">2018</a><sup>[8]</sup>&emsp;The kinetic and structural underpinnings of tRNA binding to a glycyl T-box riboswitch</p>
      </div>
     </timelineli>
         
 
     <timelineli class="day">
      <div class="events">
-       <p >The stem I and stem II domains of a <i>Nocardia farcinica ileS</i> translational T-box riboswitch in complex with its cognate tRNA<sup>Ile</sup></p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/31792448/" target="_blank">2019</a><sup>[9]</sup></div>
+       <p ><a href="https://pubmed.ncbi.nlm.nih.gov/31792448/" target="_blank">2019</a><sup>[9]</sup>&emsp;The stem I and stem II domains of a <i>Nocardia farcinica ileS</i> translational T-box riboswitch in complex with its cognate tRNA<sup>Ile</sup></p>
      </div>
     </timelineli>
         
 
     <timelineli class="day">
      <div class="events">
-       <p >Crystal structure of full-length T-box from <i>Mycobacterium tuberculosis</i></p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/31740853/" target="_blank">2019</a><sup>[10]</sup></div>
+       <p ><a href="https://pubmed.ncbi.nlm.nih.gov/31740853/" target="_blank">2019</a><sup>[10]</sup>&emsp;Crystal structure of full-length T-box from <i>Mycobacterium tuberculosis</i></p>
      </div>
     </timelineli>
         
 
     <timelineli class="day">
      <div class="events">
-       <p >Co-crystal structure of <i>G. kaustophilus glyQ</i> T-box discriminator in complex with 
+       <p ><a href="https://pubmed.ncbi.nlm.nih.gov/31740854/" target="_blank">2019</a><sup>[11]</sup>&emsp;Co-crystal structure of <i>G. kaustophilus glyQ</i> T-box discriminator in complex with 
 its cognate uncharged tRNA<sup>Gly</sup> and Cryo-EM structures of <i>Bacillus subtilis</i> T-box-tRNA complexes</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/31740854/" target="_blank">2019</a><sup>[11]</sup></div>
      </div>
     </timelineli>
         
@@ -199,7 +188,9 @@ its cognate uncharged tRNA<sup>Gly</sup> and Cryo-EM structures of <i>Bacillus s
 <p class="header_box" id="Structure and Ligand recognition">Structure and Ligand recognition</p>
 > 2D representation
         
-<font><p>Top: Consensus sequence and secondary structure model for the T-box riboswitch. Middle: Secondary structure depictions of the T-box riboswitch according to PDB ID: 6UFG. Bottom: Secondary structure depictions of the THF-I riboswitch according to PDB ID: 6POM. tRNA is colored in pale purple<sup>[10],[11]</sup>.</p><br></font>
+<font><p>Top: Consensus sequence and secondary structure model for the T-box riboswitch. Middle: Secondary structure depictions of the T-box riboswitch according to PDB ID: 6UFG. Bottom: Secondary structure depictions of the THF-I riboswitch according to PDB ID: 6POM. tRNA is colored in pale purple<sup>[10],[11]</sup>.</p></font>
+<font><p>5' AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA 3' (Sequence from middle structure)</p></font>
+<font><p>5' AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA 3' (Sequence from bottom structure)</p><br></font>
 <html>
 <div>
     <div class="entry-content clearfix" itemprop="articleBody description " style="overflow: auto;">
@@ -233,7 +224,7 @@ its cognate uncharged tRNA<sup>Gly</sup> and Cryo-EM structures of <i>Bacillus s
                             </div>
                         </div>
                          <div class="image-wrapper" >
-                            <img id="image-c" src="/images/2D/T-box_riboswitch_2D3.svg" width="160" style="border: 1px solid black; cursor: zoom-in;margin-top: 0px;margin-bottom: 0px;" alt="down.png"/>
+                            <img id="image-c" src="/images/2D/T-box_riboswitch_2D3.svg" width="200" style="border: 1px solid black; cursor: zoom-in;margin-top: 0px;margin-bottom: 0px;" alt="down.png"/>
                             <div class="button-wrapper">
                                 <a class="btn " href="javascript:showImage0('/images/2D/T-box_riboswitch_2D3.svg');">&lt;&lt; Show big</a>
                             </div>
@@ -661,72 +652,72 @@ its cognate uncharged tRNA<sup>Gly</sup> and Cryo-EM structures of <i>Bacillus s
                                     
 <p class="header_box" id="references">References</p>
                 
-<font><strong>[1] Analysis of the Bacillus subtilis tyrS gene: conservation of a regulatory sequence in multiple tRNA synthetase genes.</strong></font>
+<a id="refer_tag"></a><font><strong>[1] Analysis of the Bacillus subtilis tyrS gene: conservation of a regulatory sequence in multiple tRNA synthetase genes.</strong></font>
 Henkin, T. M., Glass, B. L. & Grundy, F. J.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/1735721/" target="_blank">J. Bacteriol. 174, (1992).</a>
 <br />
                 
-<font><strong>[2] tRNA as a positive regulator of transcription antitermination in B. subtilis.</strong></font>
+<a id="ref1"></a><font><strong>[2] tRNA as a positive regulator of transcription antitermination in B. subtilis.</strong></font>
 Grundy, F. J. & Henkin, T. M.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/8348614/" target="_blank">Cell 74, 475–482 (1993).</a>
 <br />
                 
-<font><strong>[3] Structural transitions induced by the interaction between tRNA(Gly) and the Bacillus subtilis glyQS T box leader RNA.</strong></font>
+<a id="ref2"></a><font><strong>[3] Structural transitions induced by the interaction between tRNA(Gly) and the Bacillus subtilis glyQS T box leader RNA.</strong></font>
 Yousef, M. R., Grundy, F. J. & Henkin, T. M.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/15890195/" target="_blank">J. Mol. Biol. 349, 273–287 (2005).</a>
 <br />
                 
-<font><strong>[4] Co-crystal structure of a T-box riboswitch stem I domain in complex with its cognate tRNA.</strong></font>
+<a id="ref3"></a><font><strong>[4] Co-crystal structure of a T-box riboswitch stem I domain in complex with its cognate tRNA.</strong></font>
 Zhang, J. & Ferré-D’Amaré, A. R.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/23892783/" target="_blank">Nature 500, 363–366 (2013).</a>
 <br />
                 
-<font><strong>[5] Structural determinants for geometry and information decoding of tRNA by T box leader RNA.</strong></font>
+<a id="ref4"></a><font><strong>[5] Structural determinants for geometry and information decoding of tRNA by T box leader RNA.</strong></font>
 Grigg, J. C. & Ke, A.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/24095061/" target="_blank">Structure 21, 2025–2032 (2013).</a>
 <br />
                 
-<font><strong>[6] Direct evaluation of tRNA aminoacylation status by the T-box riboswitch using tRNA-mRNA stacking and steric readout.</strong></font>
+<a id="ref5"></a><font><strong>[6] Direct evaluation of tRNA aminoacylation status by the T-box riboswitch using tRNA-mRNA stacking and steric readout.</strong></font>
 Zhang, J. & Ferré-D’Amaré, A. R.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/24954903/" target="_blank">Mol. Cell 55, (2014).</a>
 <br />
                 
-<font><strong>[7] T box riboswitches in Actinobacteria: translational regulation via novel tRNA interactions.</strong></font>
+<a id="ref6"></a><font><strong>[7] T box riboswitches in Actinobacteria: translational regulation via novel tRNA interactions.</strong></font>
 Sherwood, A. V., Grundy, F. J. & Henkin, T. M.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/25583497/" target="_blank">Proc. Natl. Acad. Sci. U. S. A. 112, 1113–1118 (2015).</a>
 <br />
                 
-<font><strong>[8] Hierarchical mechanism of amino acid sensing by the T-box riboswitch.</strong></font>
+<a id="ref7"></a><font><strong>[8] Hierarchical mechanism of amino acid sensing by the T-box riboswitch.</strong></font>
 Suddala, K. C. et al.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/29760498/" target="_blank">Nat. Commun. 9, (2018).</a>
 <br />
                 
-<font><strong>[9] High-affinity recognition of specific tRNAs by an mRNA anticodon-binding groove.</strong></font>
+<a id="ref8"></a><font><strong>[9] High-affinity recognition of specific tRNAs by an mRNA anticodon-binding groove.</strong></font>
 Suddala, K. C. & Zhang, J.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/31792448/" target="_blank">Nat. Struct. Mol. Biol. 26, (2019).</a>
 <br />
                 
-<font><strong>[10] Structural basis for tRNA decoding and aminoacylation sensing by T-box riboregulators.</strong></font>
+<a id="ref9"></a><font><strong>[10] Structural basis for tRNA decoding and aminoacylation sensing by T-box riboregulators.</strong></font>
 Battaglia, R. A., Grigg, J. C. & Ke, A.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/31740853/" target="_blank">Nat. Struct. Mol. Biol. 26, 1106–1113 (2019).</a>
 <br />
                 
-<font><strong>[11] Structural basis of amino acid surveillance by higher-order tRNA-mRNA interactions.</strong></font>
+<a id="ref10"></a><font><strong>[11] Structural basis of amino acid surveillance by higher-order tRNA-mRNA interactions.</strong></font>
 Li, S. et al.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/31740854/" target="_blank">Nat. Struct. Mol. Biol. 26, 1094–1105 (2019).</a>
 <br />
                 
-<font><strong>[12] Biochemical features and functional implications of the RNA-based T-box regulatory mechanism.</strong></font>
+<a id="ref11"></a><font><strong>[12] Biochemical features and functional implications of the RNA-based T-box regulatory mechanism.</strong></font>
 Gutiérrez-Preciado, A., Henkin, T. M., Grundy, F. J., Yanofsky, C. & Merino, E.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/19258532/" target="_blank">Microbiol. Mol. Biol. Rev. 73, 36–61 (2009).</a>
 <br />
                 
-<font><strong>[13] T-box RNA gets boxed.</strong></font>
+<a id="ref12"></a><font><strong>[13] T-box RNA gets boxed.</strong></font>
 Weaver, J. W. & Serganov, A.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/31792446/" target="_blank">Nat. Struct. Mol. Biol. 26, 1081–1083 (2019).</a>
 <br />
                 
-<font><strong>[14] Unboxing the T-box riboswitches-A glimpse into multivalent and multimodal RNA-RNA interactions.</strong></font>
+<a id="ref13"></a><font><strong>[14] Unboxing the T-box riboswitches-A glimpse into multivalent and multimodal RNA-RNA interactions.</strong></font>
 Zhang, J.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/32633085/" target="_blank">Wiley Interdiscip. Rev. RNA 11, e1600 (2020).</a>
 <br />

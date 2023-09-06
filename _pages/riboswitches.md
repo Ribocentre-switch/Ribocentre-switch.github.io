@@ -120,6 +120,10 @@ permalink: /riboswitches/
       width: 300px;
     }
 
+    .button.clicked {
+    background-color: #999;
+}
+
   </style>
 </head>
 
@@ -1057,18 +1061,34 @@ function downloadExcel() {
 }
 	
 	
-	function showSheet(sheetId) {
-      // Hide the current sheet
-      var currentSheetElement = document.getElementById(currentSheet);
-      currentSheetElement.style.display = 'none';
+	
 
-      // Show the selected sheet
-      var sheet = document.getElementById(sheetId);
-      sheet.style.display = 'block';
+function showSheet(sheetId) {
+    // Hide the current sheet
+    if (currentSheet) {
+        var currentSheetElement = document.getElementById(currentSheet);
+        currentSheetElement.style.display = 'none';
+    }
 
-      // Update the current sheet
-      currentSheet = sheetId;
-  }
+    // Show the selected sheet
+    var sheet = document.getElementById(sheetId);
+    sheet.style.display = 'block';
+
+    // Update the current sheet
+    currentSheet = sheetId;
+
+    // Get all buttons
+    var buttons = document.querySelectorAll('.button');
+
+    // Remove clicked class from all buttons
+    buttons.forEach(function(btn) {
+        btn.classList.remove('clicked');
+    });
+
+    // Add clicked class to the clicked button using event.target
+    event.target.classList.add('clicked');
+}
+
 
   function hideAllSheetsExcept(sheetId) {
     var sheets = document.getElementsByClassName('sheet');
@@ -1125,6 +1145,9 @@ function downloadExcel() {
       }
     }
   }  
+
+
+  
   </script>
         
     </body>
