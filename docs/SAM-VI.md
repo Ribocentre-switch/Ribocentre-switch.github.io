@@ -79,32 +79,28 @@ permalink: /docs/SAM-VI/
           
     <timelineli class="day">
      <div class="events">
-       <p >Discovery of SAM-VI riboswitch</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/29106323/" target="_blank">2018</a><sup>[1]</sup></div>
+       <p ><a href="https://pubmed.ncbi.nlm.nih.gov/29106323/" target="_blank">2018</a><sup>[<a href="#ref1">1</a>]</sup>&emsp;Discovery of SAM-VI riboswitch</p>
      </div>
     </timelineli>
         
 
     <timelineli class="day">
      <div class="events">
-       <p >Crystal structure of SAM-VI riboswitch</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/31844059/" target="_blank">2019</a><sup>[2]</sup></div>
+       <p ><a href="https://pubmed.ncbi.nlm.nih.gov/31844059/" target="_blank">2019</a><sup>[<a href="#ref2">2</a>]</sup>&emsp;Crystal structure of SAM-VI riboswitch</p>
      </div>
     </timelineli>
         
 
     <timelineli class="day">
      <div class="events">
-       <p >NMR and smFRET research on SAM-VI riboswitch</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/37087479/" target="_blank">2023</a><sup>[3]</sup></div>
+       <p ><a href="https://pubmed.ncbi.nlm.nih.gov/37087479/" target="_blank">2023</a><sup>[<a href="#ref3">3</a>]</sup>&emsp;NMR and sm-FRET research on SAM-VI riboswitch</p>
      </div>
     </timelineli>
         
 
     <timelineli class="day">
      <div class="events">
-       <p >This review summarizes the current research progress on these SAM-related riboswitch families</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/36459353/" target="_blank">2023</a><sup>[4]</sup></div>
+       <p ><a href="https://pubmed.ncbi.nlm.nih.gov/36459353/" target="_blank">2023</a><sup>[<a href="#ref4">4</a>]</sup>&emsp;This review summarizes the current research progress on these SAM-related riboswitch families</p>
      </div>
     </timelineli>
         
@@ -125,7 +121,7 @@ permalink: /docs/SAM-VI/
              
 > Gene association
             
-<font><p>Pathways for sulphate assimilation and biosynthesis of cysteine and methionine. SAM-VI riboswitch (red bar) is involved in multiple gene regulation in the synthetic pathway<sup>[1]</sup>.</p></font>
+<font><p>Pathways for sulphate assimilation and biosynthesis of cysteine and methionine of <i>Bifidobacterium</i>. SAM-VI riboswitch (red bar) is involved in multiple gene regulation in the synthetic pathway<sup>[<a href="#ref1">1</a>]</sup>.</p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;">
 <tr >
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
@@ -137,7 +133,7 @@ permalink: /docs/SAM-VI/
                  
 > Gene regulation
                 
-<font><p>Model of SAM-VI riboswitch sequential folding and translational control<sup>[2]</sup>.</p></font>
+<font><p>Model of SAM-VI riboswitch sequential folding and translational control in <i>Bifidobacterium angulatum</i>. We present the  prototypical mechanism, but not all possible mechanisms<sup>[<a href="#ref2">2</a>]</sup>.</p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
   <img src="/images/gene_regulation/SAM-VI_riboswitch_gene_regulation.svg" alt="drawing" style="width:1000px;margin-top: 0px;margin-bottom: 0px;" >
@@ -149,7 +145,8 @@ permalink: /docs/SAM-VI/
 <p class="header_box" id="Structure and Ligand recognition">Structure and Ligand recognition</p>
 > 2D representation
         
-<font><p>Top: Consensus sequence and secondary structure model for the SAM-VI riboswitch. Bottom: Secondary structure depictions of the SAM-VI riboswitch according to PDB ID: 6las<sup></sup>.</p><br></font>
+<font><p>Top: Consensus sequence and secondary structure model for the SAM-VI riboswitch. Bottom: Secondary structure depictions of the <i>Bifidobacterium angulatum</i> SAM-VI riboswitch according to PDB ID: 6LAS<sup></sup>.</p></font>
+<font><p>5'GGCAUUGUGCCUCGCAUUGCACUCCGCGGGGCGAUAAGUCCUGAAAAGGGAUGUC3' (Sequence from bottom structure )</p><br></font>
 <html>
 <div>
     <div class="entry-content clearfix" itemprop="articleBody description" style="overflow: auto;">
@@ -173,13 +170,13 @@ permalink: /docs/SAM-VI/
                         <div class="image-wrapper" style="margin-bottom: 40px;">
                             <img id="image-a0" src="/images/2D/SAM-VI_riboswitch_2D1.svg" width="200" style="border: 1px solid black; cursor: zoom-in;margin-top: 0px;margin-bottom: 0px;" alt="big.png"/>
                             <div class="button-wrapper">
-                                <a class="btn " href="javascript:showImage0('/images/2D/SAM-VI_riboswitch_2D1.svg');">&lt;&lt; Show big</a>
+                                <a class="btn " href="javascript:showImage0('/images/2D/SAM-VI_riboswitch_2D1.svg');">&lt;&lt; Switch to</a>
                             </div>
                         </div>
                         <div class="image-wrapper" >
                             <img id="image-b" src="/images/2D/SAM-VI_riboswitch_2D2.svg" width="200" style="border: 1px solid black; cursor: zoom-in;margin-top: 0px;margin-bottom: 0px;" alt="down.png"/>
                             <div class="button-wrapper">
-                                <a class="btn " href="javascript:showImage0('/images/2D/SAM-VI_riboswitch_2D2.svg');">&lt;&lt; Show big</a>
+                                <a class="btn " href="javascript:showImage0('/images/2D/SAM-VI_riboswitch_2D2.svg');">&lt;&lt; Switch to</a>
                             </div>
                         </div>
                     </td>
@@ -272,7 +269,7 @@ permalink: /docs/SAM-VI/
                      
 > 3D visualisation
                 
-<font >2.71-Å resolution crystal structure of an SAM-VI riboswitch complexed with S-adenosylmethionine. The figure reference from PDB ID: 6LAS, SAM (shown in sticks) is labeled in red <sup>[2]</sup>.</font>
+<font >2.71-Å resolution crystal structure of an SAM-VI riboswitch from <i>Bifidobacterium angulatum</i> complexed with S-adenosylmethionine. The figure reference from PDB ID: 6LAS, SAM (shown in sticks) is labeled in red. Additional available structures that have been solved and detailed information are accessible on <i>Structures</i> page <sup>[<a href="#ref2">2</a>]</sup>.</font>
 <div ><font ><p style="text-align:right;margin-bottom: 0px;">(Clicking the "Settings/Controls info" to turn Spin off)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p></font>
   <table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
@@ -378,7 +375,7 @@ permalink: /docs/SAM-VI/
       var viewerInstance1 = new PDBeMolstarPlugin();
       var options1 = {
         customData:{
-        url:'/docs/pdbfiles/6las.pdb',
+        url:'/docs/pdbfiles/6LAS.pdb',
         format: 'pdb'},
         expanded: false,
         hideControls: true,
@@ -401,7 +398,7 @@ permalink: /docs/SAM-VI/
                  
 > Binding pocket
                     
-<font><p>Left: Surface representation of the binding pocket of the SAM-VI riboswitch generated from PDB ID: 6LAS. S-adenosylmethionine (SAM) (shown in sticks) is labeled in red. Right: Hydrogen bonding between SAM and adjacent bases<sup>[2]</sup>.</p></font>
+<font><p>Left: Surface representation of the binding pocket of the <i>Bifidobacterium angulatum</i> SAM-VI riboswitch generated from PDB ID: 6LAS at 2.71-Å resolution. S-adenosylmethionine (SAM) (shown in sticks) is labeled in red. Right: Hydrogen bonding between SAM and adjacent bases<sup>[<a href="#ref2">2</a>]</sup>.</p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;"><tr>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/SAM-VI_riboswitch_binding_pockets1.svg" alt="drawing" style="width:500px"  px="" /></td>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/SAM-VI_riboswitch_binding_pockets2.svg" alt="drawing" style="width:500px"  px="" /></td>
@@ -412,7 +409,7 @@ permalink: /docs/SAM-VI/
 > Ligand recognition
                 
 
-<font><p>Chemical structures of various compounds used to probe the binding characteristics of the SAM-VI riboswitch<sup>[2]</sup>.</p></font>
+<font><p>Chemical structures of various compounds used to probe the binding characteristics of the SAM-VI riboswitch. Refer to the corresponding references for comprehensive details regarding reaction conditions and species information in measuring the dissociation constant displayed below<sup>[<a href="#ref2">2</a>]</sup>.</p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;">
 <tr>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
@@ -424,22 +421,22 @@ permalink: /docs/SAM-VI/
                  
 <p class="header_box" id="references">References</p>
                 
-<font><strong>[1] SAM-VI RNAs selectively bind S-adenosylmethionine and exhibit similarities to SAM-III riboswitches.</strong></font>
+<a id="ref1"></a><font><strong>[1] SAM-VI RNAs selectively bind S-adenosylmethionine and exhibit similarities to SAM-III riboswitches.</strong></font><br />
 Mirihana Arachchilage, G., Sherlock, M. E., Weinberg, Z., & Breaker, R. R.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/29106323/" target="_blank">RNA Biol. 15, 371–378 (2018).</a>
 <br />
                 
-<font><strong>[2] SAM-VI riboswitch structure and signature for ligand discrimination.</strong></font>
+<a id="ref2"></a><font><strong>[2] SAM-VI riboswitch structure and signature for ligand discrimination.</strong></font><br />
 Sun, A., Gasser, C., Li, F., Chen, H., Mair, S., Krasheninina, O., Micura, R., & Ren, A.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/31844059/" target="_blank">Nat. Commun. 10, 5728 (2019).</a>
 <br />
                 
-<font><strong>[3] Observation of structural switch in nascent SAM-VI riboswitch during transcription at single-nucleotide and single-molecule resolution.</strong></font>
+<a id="ref3"></a><font><strong>[3] Observation of structural switch in nascent SAM-VI riboswitch during transcription at single-nucleotide and single-molecule resolution.</strong></font><br />
 Xue, Y., Li, J., Chen, D., Zhao, X., Hong, L., & Liu, Y.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/37087479/" target="_blank">Nat. Commun. 14, 2320 (2023).</a>
 <br />
                 
-<font><strong>[4] Structure-based insights into recognition and regulation of SAM-sensing riboswitches.</strong></font>
+<a id="ref4"></a><font><strong>[4] Structure-based insights into recognition and regulation of SAM-sensing riboswitches.</strong></font><br />
 Zheng L, Song Q, Xu X, Shen X, Li C, Li H, Chen H, Ren A.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/36459353/" target="_blank">Sci China Life Sci.66(1):31-50 (2023).</a>
 <br />

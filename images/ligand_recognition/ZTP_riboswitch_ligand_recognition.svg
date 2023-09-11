@@ -8,6 +8,7 @@
 	.st2{font-size:4.4123px;}
 	.st3{fill:none;}
 	.st4{font-size:12px;}
+	.st5{font-size:6.996px;}
 </style>
 <text transform="matrix(1 0 0 1 438.0329 146.5211)" class="st0 st1">N</text>
 <text transform="matrix(1 0 0 1 446.5827 171.4019)" class="st0 st1">N</text>
@@ -1240,160 +1241,158 @@
 <text transform="matrix(1 0 0 1 40.4047 218.3013)" class="st0 st4">5-aminoimidazole-</text>
 <text transform="matrix(1 0 0 1 40.4047 232.7017)" class="st0 st4">4-carboxamide (AICA)</text>
 <text transform="matrix(1 0 0 1 40.4047 247.1011)" class="st0 st4">K</text>
-<text transform="matrix(0.583 0 0 0.583 48.4086 251.0972)" class="st0 st4">D</text>
+<text transform="matrix(1 0 0 1 48.4082 251.0977)" class="st0 st5">D</text>
 <text transform="matrix(1 0 0 1 53.4609 247.1011)" class="st0 st4">= 41 ± 4µM</text>
 <rect x="374.9" y="209.7" class="st3" width="125.5" height="55.5"/>
 <text transform="matrix(1 0 0 1 374.9366 218.3013)" class="st0 st4">AICAR 5’-monophos</text>
 <text transform="matrix(1 0 0 1 484.3195 218.3013)" class="st0 st4">-</text>
 <text transform="matrix(1 0 0 1 374.9366 232.7017)" class="st0 st4">phate (ZMP)</text>
 <text transform="matrix(1 0 0 1 374.9366 247.1011)" class="st0 st4">K</text>
-<text transform="matrix(0.583 0 0 0.583 382.9406 251.0972)" class="st0 st4">D</text>
+<text transform="matrix(1 0 0 1 382.9404 251.0977)" class="st0 st5">D</text>
 <text transform="matrix(1 0 0 1 387.9928 247.1011)" class="st0 st4">= 0.32 ± 0.13µM</text>
 <rect x="204.3" y="209.7" class="st3" width="125.5" height="55.5"/>
 <text transform="matrix(1 0 0 1 204.3077 218.3013)" class="st0 st4">AICA-ß-1-D-ribofurano</text>
 <text transform="matrix(1 0 0 1 325.005 218.3013)" class="st0 st4">-</text>
 <text transform="matrix(1 0 0 1 204.3077 232.7017)" class="st0 st4">side (AICAR)</text>
 <text transform="matrix(1 0 0 1 204.3077 247.1011)" class="st0 st4">K</text>
-<text transform="matrix(0.583 0 0 0.583 212.3116 251.0972)" class="st0 st4">D</text>
+<text transform="matrix(1 0 0 1 212.3115 251.0977)" class="st0 st5">D</text>
 <text transform="matrix(1 0 0 1 217.3639 247.1011)" class="st0 st4">= 2.3 ± 0.6µM</text>
 <rect x="531.6" y="209.7" class="st3" width="141.9" height="52.5"/>
 <text transform="matrix(1 0 0 1 531.5511 218.3013)" class="st0 st4">AICAR 5&apos;-triphosphate </text>
 <text transform="matrix(1 0 0 1 531.5511 232.7017)" class="st0 st4">(ZTP)</text>
 <text transform="matrix(1 0 0 1 531.5511 247.1011)" class="st0 st4">K</text>
-<text transform="matrix(0.583 0 0 0.583 539.5551 251.0972)" class="st0 st4">D</text>
+<text transform="matrix(1 0 0 1 539.5547 251.0977)" class="st0 st5">D</text>
 <text transform="matrix(1 0 0 1 544.6073 247.1011)" class="st0 st4">= 0.32 ± 0.13µM</text>
 <rect x="684.7" y="209.1" class="st3" width="115.5" height="41.4"/>
 <text transform="matrix(1 0 0 1 684.6706 217.74)" class="st0 st4">1-propyl-AICA</text>
 <text transform="matrix(1 0 0 1 684.6706 232.1404)" class="st0 st4">K</text>
-<text transform="matrix(0.583 0 0 0.583 692.6745 236.1365)" class="st0 st4">D</text>
+<text transform="matrix(1 0 0 1 692.6738 236.1367)" class="st0 st5">D</text>
 <text transform="matrix(1 0 0 1 697.7267 232.1404)" class="st0 st4">= no bound</text>
 <rect x="40.4" y="387.8" class="st3" width="110.5" height="39.3"/>
 <text transform="matrix(1 0 0 1 40.4047 396.3571)" class="st0 st4">2-isopropyl-AICA</text>
 <text transform="matrix(1 0 0 1 40.4047 410.7575)" class="st0 st4">K</text>
-<text transform="matrix(0.583 0 0 0.583 48.4086 414.7536)" class="st0 st4">D</text>
+<text transform="matrix(1 0 0 1 48.4082 414.7539)" class="st0 st5">D</text>
 <text transform="matrix(1 0 0 1 53.4609 410.7575)" class="st0 st4">= no bound</text>
 <rect x="194.4" y="387.4" class="st3" width="142.2" height="40.1"/>
 <text transform="matrix(1 0 0 1 194.3807 395.9872)" class="st0 st4">1-methyl-2-mercapto-AI</text>
 <text transform="matrix(1 0 0 1 320.4158 395.9872)" class="st0 st4">-</text>
 <text transform="matrix(1 0 0 1 194.3807 410.3876)" class="st0 st4">CA</text>
 <text transform="matrix(1 0 0 1 194.3807 424.787)" class="st0 st4">K</text>
-<text transform="matrix(0.583 0 0 0.583 202.3846 428.7831)" class="st0 st4">D</text>
+<text transform="matrix(1 0 0 1 202.3848 428.7832)" class="st0 st5">D</text>
 <text transform="matrix(1 0 0 1 207.4368 424.787)" class="st0 st4">= no bound</text>
 <rect x="358" y="389.5" class="st3" width="168.8" height="35.9"/>
 <text transform="matrix(1 0 0 1 358.0173 398.0517)" class="st0 st4">1-hydroxyethyl-2-methyl-AICA</text>
 <text transform="matrix(1 0 0 1 358.0173 412.4521)" class="st0 st4">K</text>
-<text transform="matrix(0.583 0 0 0.583 366.0212 416.4482)" class="st0 st4">D</text>
+<text transform="matrix(1 0 0 1 366.0215 416.4482)" class="st0 st5">D</text>
 <text transform="matrix(1 0 0 1 371.0734 412.4521)" class="st0 st4">= 150 ± 30µM</text>
 <rect x="32.8" y="562.3" class="st3" width="125.5" height="55.5"/>
 <text transform="matrix(1 0 0 1 32.7701 570.8757)" class="st0 st4">m-1-pyridinyl-AICA</text>
 <text transform="matrix(1 0 0 1 32.7701 585.2761)" class="st0 st4">K</text>
-<text transform="matrix(0.583 0 0 0.583 40.774 589.2722)" class="st0 st4">D</text>
+<text transform="matrix(1 0 0 1 40.7739 589.2725)" class="st0 st5">D</text>
 <text transform="matrix(1 0 0 1 45.8263 585.2761)" class="st0 st4">= 0.60 ± 0.06µM</text>
 <rect x="202.7" y="562.3" class="st3" width="125.5" height="55.5"/>
 <text transform="matrix(1 0 0 1 202.7298 570.8757)" class="st0 st4">o-1-pyridinyl-AICA</text>
 <text transform="matrix(1 0 0 1 202.7298 585.2761)" class="st0 st4">K</text>
-<text transform="matrix(0.583 0 0 0.583 210.7337 589.2722)" class="st0 st4">D</text>
+<text transform="matrix(1 0 0 1 210.7334 589.2725)" class="st0 st5">D</text>
 <text transform="matrix(1 0 0 1 215.786 585.2761)" class="st0 st4">= 5.6 ± 3.2µM</text>
 <rect x="539.9" y="387.8" class="st3" width="110.5" height="39.3"/>
 <text transform="matrix(1 0 0 1 539.9325 396.357)" class="st0 st4">p-1-piperidinyl-AICA</text>
 <text transform="matrix(1 0 0 1 539.9325 410.7574)" class="st0 st4">K</text>
-<text transform="matrix(0.583 0 0 0.583 547.9364 414.7535)" class="st0 st4">D</text>
+<text transform="matrix(1 0 0 1 547.9365 414.7539)" class="st0 st5">D</text>
 <text transform="matrix(1 0 0 1 552.9886 410.7574)" class="st0 st4">= 11 ± 1µM</text>
 <rect x="672.7" y="387.8" class="st3" width="110.5" height="39.3"/>
 <text transform="matrix(1 0 0 1 672.6602 396.357)" class="st0 st4">p-1-pyridinyl-AICA</text>
 <text transform="matrix(1 0 0 1 672.6602 410.7574)" class="st0 st4">K</text>
-<text transform="matrix(0.583 0 0 0.583 680.6641 414.7535)" class="st0 st4">D</text>
+<text transform="matrix(1 0 0 1 680.6641 414.7539)" class="st0 st5">D</text>
 <text transform="matrix(1 0 0 1 685.7163 410.7574)" class="st0 st4">= 1.0 ± 0.3µM</text>
 <rect x="371.5" y="562.3" class="st3" width="125.5" height="55.5"/>
 <text transform="matrix(1 0 0 1 371.5441 570.8757)" class="st0 st4">1-(1-piperazinyl)an</text>
 <text transform="matrix(1 0 0 1 471.587 570.8757)" class="st0 st4">-</text>
 <text transform="matrix(1 0 0 1 371.5441 585.2761)" class="st0 st4">thra-9,10-quinone</text>
 <text transform="matrix(1 0 0 1 371.5441 599.6755)" class="st0 st4">K</text>
-<text transform="matrix(0.583 0 0 0.583 379.548 603.6716)" class="st0 st4">D</text>
+<text transform="matrix(1 0 0 1 379.5479 603.6719)" class="st0 st5">D</text>
 <text transform="matrix(1 0 0 1 384.6002 599.6755)" class="st0 st4">= ~0.2mM</text>
 <rect x="530.6" y="564" class="st3" width="140.7" height="51.9"/>
 <text transform="matrix(1 0 0 1 530.585 572.6378)" class="st0 st4">9-ethyl-3-(1-piperazinyl</text>
 <text transform="matrix(1 0 0 1 653.2979 572.6378)" class="st0 st4">-</text>
 <text transform="matrix(1 0 0 1 530.585 587.0381)" class="st0 st4">methyl)-9H-carbazole</text>
 <text transform="matrix(1 0 0 1 530.585 601.4376)" class="st0 st4">K</text>
-<text transform="matrix(0.583 0 0 0.583 538.5889 605.4337)" class="st0 st4">D</text>
+<text transform="matrix(1 0 0 1 538.5889 605.4336)" class="st0 st5">D</text>
 <text transform="matrix(1 0 0 1 543.6412 601.4376)" class="st0 st4">= ~0.2mM</text>
 <rect x="699.5" y="565.5" class="st3" width="99.4" height="43.1"/>
 <text transform="matrix(1 0 0 1 699.5259 574.0773)" class="st0 st4">Ribavirin</text>
 <text transform="matrix(1 0 0 1 699.5259 588.4777)" class="st0 st4">K</text>
-<text transform="matrix(0.583 0 0 0.583 707.5298 592.4738)" class="st0 st4">D</text>
+<text transform="matrix(1 0 0 1 707.5293 592.4736)" class="st0 st5">D</text>
 <text transform="matrix(1 0 0 1 712.5821 588.4777)" class="st0 st4">= no bound</text>
 <rect x="34.1" y="689.1" class="st3" width="122.3" height="54.4"/>
 <text transform="matrix(1 0 0 1 34.0697 697.7033)" class="st0 st4">1H-imidazole-4-car</text>
 <text transform="matrix(1 0 0 1 135.431 697.7033)" class="st0 st4">-</text>
 <text transform="matrix(1 0 0 1 34.0697 712.1037)" class="st0 st4">boxamide</text>
 <text transform="matrix(1 0 0 1 34.0697 726.5031)" class="st0 st4">K</text>
-<text transform="matrix(0.583 0 0 0.583 42.0736 730.4992)" class="st0 st4">D</text>
+<text transform="matrix(1 0 0 1 42.0732 730.499)" class="st0 st5">D</text>
 <text transform="matrix(1 0 0 1 47.1259 726.5031)" class="st0 st4">= no bound</text>
 <rect x="195.6" y="688.5" class="st3" width="141.5" height="56.7"/>
 <text transform="matrix(1 0 0 1 195.6472 697.1103)" class="st0 st4">5-amino-2-methyl-1H-im</text>
 <text transform="matrix(1 0 0 1 325.0046 697.1103)" class="st0 st4">-</text>
 <text transform="matrix(1 0 0 1 195.6472 711.5107)" class="st0 st4">idazole-4-carboxamide</text>
 <text transform="matrix(1 0 0 1 195.6472 725.9101)" class="st0 st4">K</text>
-<text transform="matrix(0.583 0 0 0.583 203.6511 729.9062)" class="st0 st4">D</text>
+<text transform="matrix(1 0 0 1 203.6504 729.9062)" class="st0 st5">D</text>
 <text transform="matrix(1 0 0 1 208.7034 725.9101)" class="st0 st4">= no bound</text>
 <rect x="519.7" y="691.5" class="st3" width="137.2" height="53.8"/>
 <text transform="matrix(1 0 0 1 519.6971 700.0659)" class="st0 st4">5-amino-N-methyl-1H-im</text>
 <text transform="matrix(1 0 0 1 651.0468 700.0659)" class="st0 st4">-</text>
 <text transform="matrix(1 0 0 1 519.6971 714.4663)" class="st0 st4">idazole-4-carboxamide</text>
 <text transform="matrix(1 0 0 1 519.6971 728.8657)" class="st0 st4">K</text>
-<text transform="matrix(0.583 0 0 0.583 527.701 732.8618)" class="st0 st4">D</text>
+<text transform="matrix(1 0 0 1 527.7012 732.8613)" class="st0 st5">D</text>
 <text transform="matrix(1 0 0 1 532.7533 728.8657)" class="st0 st4">= no bound</text>
 <rect x="363.9" y="690.4" class="st3" width="139.3" height="58.3"/>
 <text transform="matrix(1 0 0 1 363.9349 699.0187)" class="st0 st4">5-amino-2-methyl-1H-im</text>
 <text transform="matrix(1 0 0 1 493.2923 699.0187)" class="st0 st4">-</text>
 <text transform="matrix(1 0 0 1 363.9349 713.4191)" class="st0 st4">idazole-4-carboxamide</text>
 <text transform="matrix(1 0 0 1 363.9349 727.8185)" class="st0 st4">K</text>
-<text transform="matrix(0.583 0 0 0.583 371.9388 731.8146)" class="st0 st4">D</text>
+<text transform="matrix(1 0 0 1 371.9385 731.8145)" class="st0 st5">D</text>
 <text transform="matrix(1 0 0 1 376.9911 727.8185)" class="st0 st4">= no bound</text>
 <rect x="672.1" y="692.1" class="st3" width="126.8" height="51.4"/>
 <text transform="matrix(1 0 0 1 672.1121 700.6611)" class="st0 st4">6-amino-7-deazapurine</text>
 <text transform="matrix(1 0 0 1 672.1121 715.0615)" class="st0 st4">K</text>
-<text transform="matrix(0.583 0 0 0.583 680.116 719.0576)" class="st0 st4">D</text>
+<text transform="matrix(1 0 0 1 680.1162 719.0576)" class="st0 st5">D</text>
 <text transform="matrix(1 0 0 1 685.1683 715.0615)" class="st0 st4">= no bound</text>
-<rect x="51.5" y="916.4" class="st3" width="99.4" height="43.1"/>
-<text transform="matrix(1 0 0 1 51.5492 925.0237)" class="st0 st4">IMP</text>
-<text transform="matrix(1 0 0 1 51.5492 939.4241)" class="st0 st4">K</text>
-<text transform="matrix(0.583 0 0 0.583 59.5531 943.4202)" class="st0 st4">D</text>
-<text transform="matrix(1 0 0 1 64.6053 939.4241)" class="st0 st4">= no bound</text>
-<rect x="224.4" y="916.4" class="st3" width="99.4" height="43.1"/>
-<text transform="matrix(1 0 0 1 224.4019 925.0236)" class="st0 st4">AMP</text>
-<text transform="matrix(1 0 0 1 224.4019 939.424)" class="st0 st4">K</text>
-<text transform="matrix(0.583 0 0 0.583 232.4058 943.4201)" class="st0 st4">D</text>
-<text transform="matrix(1 0 0 1 237.4581 939.424)" class="st0 st4">= ~0.1mM </text>
+<text transform="matrix(1 0 0 1 8.7459 923.405)" class="st0 st4">Inosine monophosphate (IMP)</text>
+<text transform="matrix(1 0 0 1 47.6219 937.57)" class="st0 st4">K</text>
+<text transform="matrix(1 0 0 1 55.6254 941.5659)" class="st0 st5">D</text>
+<text transform="matrix(1 0 0 1 60.678 937.57)" class="st0 st4">= no bound</text>
+<text transform="matrix(1 0 0 1 183.9737 923.405)" class="st0 st4">Adenosine monophosphate (AMP)</text>
+<text transform="matrix(1 0 0 1 230.3717 939.5676)" class="st0 st4">K</text>
+<text transform="matrix(1 0 0 1 238.3761 943.5635)" class="st0 st5">D</text>
+<text transform="matrix(1 0 0 1 243.4279 939.5676)" class="st0 st4">= ~0.1mM </text>
 <rect x="49" y="1137.2" class="st3" width="99.4" height="43.1"/>
 <text transform="matrix(1 0 0 1 48.962 1145.755)" class="st0 st4">2’-dATP</text>
 <text transform="matrix(1 0 0 1 48.962 1160.1554)" class="st0 st4">K</text>
-<text transform="matrix(0.583 0 0 0.583 56.9659 1164.1515)" class="st0 st4">D</text>
+<text transform="matrix(1 0 0 1 56.9658 1164.1514)" class="st0 st5">D</text>
 <text transform="matrix(1 0 0 1 62.0181 1160.1554)" class="st0 st4">= ~0.1mM</text>
 <rect x="582.2" y="916.4" class="st3" width="99.4" height="43.1"/>
-<text transform="matrix(1 0 0 1 582.1665 925.0237)" class="st0 st4">ATP</text>
+<text transform="matrix(1 0 0 1 547.9362 923.5493)" class="st0 st4">Adenosine triphosphate (ATP)</text>
 <text transform="matrix(1 0 0 1 582.1665 939.4241)" class="st0 st4">K</text>
-<text transform="matrix(0.583 0 0 0.583 590.1704 943.4202)" class="st0 st4">D</text>
+<text transform="matrix(1 0 0 1 590.1699 943.4199)" class="st0 st5">D</text>
 <text transform="matrix(1 0 0 1 595.2227 939.4241)" class="st0 st4">= ~1mM</text>
 <rect x="720.6" y="916.4" class="st3" width="99.4" height="43.1"/>
-<text transform="matrix(1 0 0 1 720.616 925.0236)" class="st0 st4">3’-dATP</text>
+<text transform="matrix(1 0 0 1 729.8499 923.4055)" class="st0 st4">3’-dATP</text>
 <text transform="matrix(1 0 0 1 720.616 939.424)" class="st0 st4">K</text>
-<text transform="matrix(0.583 0 0 0.583 728.6199 943.4201)" class="st0 st4">D</text>
+<text transform="matrix(1 0 0 1 728.6201 943.4199)" class="st0 st5">D</text>
 <text transform="matrix(1 0 0 1 733.6722 939.424)" class="st0 st4">= ~1mM</text>
 <rect x="403.3" y="916.4" class="st3" width="99.4" height="43.1"/>
-<text transform="matrix(1 0 0 1 403.2842 925.0237)" class="st0 st4">ADP</text>
+<text transform="matrix(1 0 0 1 374.9365 923.4055)" class="st0 st4">Adenosine diphosphate (ADP)</text>
 <text transform="matrix(1 0 0 1 403.2842 939.4241)" class="st0 st4">K</text>
-<text transform="matrix(0.583 0 0 0.583 411.2881 943.4202)" class="st0 st4">D</text>
+<text transform="matrix(1 0 0 1 411.2881 943.4199)" class="st0 st5">D</text>
 <text transform="matrix(1 0 0 1 416.3404 939.4241)" class="st0 st4">= 0.1mM</text>
 <rect x="222.2" y="1137.2" class="st3" width="99.4" height="43.1"/>
 <text transform="matrix(1 0 0 1 222.1568 1145.755)" class="st0 st4">ddATP</text>
 <text transform="matrix(1 0 0 1 222.1568 1160.1554)" class="st0 st4">K</text>
-<text transform="matrix(0.583 0 0 0.583 230.1607 1164.1515)" class="st0 st4">D</text>
+<text transform="matrix(1 0 0 1 230.1602 1164.1514)" class="st0 st5">D</text>
 <text transform="matrix(1 0 0 1 235.2129 1160.1554)" class="st0 st4">= ~1mM</text>
 <rect x="388.1" y="1138.8" class="st3" width="127.9" height="39.8"/>
 <text transform="matrix(1 0 0 1 388.055 1147.4412)" class="st0 st4">3’,5’-cZMP</text>
 <text transform="matrix(1 0 0 1 388.055 1161.8416)" class="st0 st4">K</text>
-<text transform="matrix(0.583 0 0 0.583 396.0589 1165.8376)" class="st0 st4">D</text>
+<text transform="matrix(1 0 0 1 396.0586 1165.8379)" class="st0 st5">D</text>
 <text transform="matrix(1 0 0 1 401.1111 1161.8416)" class="st0 st4">= 0.32 ± 0.13µM</text>
 </svg>

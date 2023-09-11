@@ -79,32 +79,35 @@ permalink: /docs/NiCo/
           
     <timelineli class="day">
      <div class="events">
-       <p >Discovery of NiCo riboswitch</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/25794617/" target="_blank">2015</a><sup>[1]</sup></div>
+       <p ><a href="https://pubmed.ncbi.nlm.nih.gov/25794617/" target="_blank">2015</a><sup>[<a href="#ref1">1</a>]</sup>&emsp;Discovery of NiCo riboswitch</p>
      </div>
     </timelineli>
         
 
     <timelineli class="day">
      <div class="events">
-       <p >The NiCo riboswitch can respond to multiple divalent transition metals, including Fe<sup>II</sup></p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/32250107/" target="_blank">2020</a><sup>[2]</sup></div>
+       <p ><a href="https://pubmed.ncbi.nlm.nih.gov/32250107/" target="_blank">2020</a><sup>[<a href="#ref2">2</a>]</sup>&emsp;The NiCo riboswitch can respond to multiple divalent transition metals, including Fe<sup>II</sup></p>
      </div>
     </timelineli>
         
 
     <timelineli class="day">
      <div class="events">
-       <p >To review the evidence that the primary function of the NiCo riboswitch is response to iron</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/35427920/" target="_blank">2022</a><sup>[3]</sup></div>
+       <p ><a href="https://pubmed.ncbi.nlm.nih.gov/32790410/" target="_blank">2020</a><sup>[<a href="#ref3">3</a>]</sup>&emsp;Presenting the first single-molecule fluorescence resonant energy transfer (smFRET) studies of the NiCo riboswitch and providing comprehensive kinetic and thermodynamic information on folding into a biochemically competent structure</p>
      </div>
     </timelineli>
         
 
     <timelineli class="day">
      <div class="events">
-       <p >Reconsidering the NiCo Riboswitch as an Iron Riboswitch</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/35996475/" target="_blank">2022</a><sup>[4]</sup></div>
+       <p ><a href="https://pubmed.ncbi.nlm.nih.gov/35427920/" target="_blank">2022</a><sup>[<a href="#ref4">4</a>]</sup>&emsp;To review the evidence that the primary function of the NiCo riboswitch is response to iron</p>
+     </div>
+    </timelineli>
+        
+
+    <timelineli class="day">
+     <div class="events">
+       <p ><a href="https://pubmed.ncbi.nlm.nih.gov/35996475/" target="_blank">2022</a><sup>[<a href="#ref5">5</a>]</sup>&emsp;Reconsidering the NiCo Riboswitch as an Iron Riboswitch</p>
      </div>
     </timelineli>
         
@@ -125,7 +128,7 @@ permalink: /docs/NiCo/
              
 > Gene association
             
-<font><p>The predicted metal transporters regulated by <i>czcD</i> riboswitches fall into three classes: P<sub>1B4</sub>-type ATPases (exporters), P<sub>3</sub>-type ATPases (importers), and cation diffusion facilitators (CDFs, usually exporters). These riboswitches were identified in Gram-positive, obligate anaerobes primarily from the human gut<sup>[3]</sup>.</p></font>
+<font><p>The predicted metal transporters regulated by <i>czcD</i> riboswitches fall into three classes: P<sub>1B4</sub>-type ATPases (exporters), P<sub>3</sub>-type ATPases (importers), and cation diffusion facilitators (CDFs, usually exporters). These riboswitches were identified in Gram-positive, obligate anaerobes primarily from the human gut<sup>[<a href="#ref4">4</a>]</sup>.</p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;">
 <tr >
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
@@ -137,7 +140,7 @@ permalink: /docs/NiCo/
                  
 > Gene regulation
                 
-<font><p>The NiCo riboswitch is an “on” transcription-termination riboswitch. In the ligand-unbound form, a terminator stem is formed, which leads to transcription to be aborted by RNA polymerase. Binding of the ligand induces a conformational change in which part of the terminator stem sequence is sequestered, allowing transcription read-through and expression of the downstream gene<sup>[3]</sup>.</p></font>
+<font><p>Potential mechanism of the NiCo riboswitch for controlling gene expression in <i>E. bacterium</i>. The NiCo riboswitch is an “on” transcription-termination riboswitch. In the ligand-unbound form, a terminator stem is formed, which leads to transcription to be aborted by RNA polymerase. Binding of the ligand induces a conformational change in which part of the terminator stem sequence is sequestered, allowing transcription read-through and expression of the downstream gene. We present the  prototypical mechanism, but not all possible mechanisms<sup>[<a href="#ref4">4</a>]</sup>.</p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
   <img src="/images/gene_regulation/NiCo_riboswitch_gene_regulation.svg" alt="drawing" style="width:1000px;margin-top: 0px;margin-bottom: 0px;" >
@@ -149,7 +152,8 @@ permalink: /docs/NiCo/
 <p class="header_box" id="Structure and Ligand recognition">Structure and Ligand recognition</p>
 > 2D representation
         
-<font><p>Top: Consensus sequence and secondary structure model for the NiCo riboswitch. Bottom: Secondary structure depictions of the NiCo riboswitch according to PDB ID: 4RUM. Helices P1-P2 (pink) and P3-P4 (blue) form a 'H'-shaped structure stabilized at the junction by four Co<sup>2+</sup> ions. Inner sphere (filled symbols) mediated contacts to different metals are shown in key<sup>[2]</sup>.</p><br></font>
+<font><p>Top: Consensus sequence and secondary structure model for the NiCo riboswitch. Bottom: Secondary structure depictions of the <i>E. bacterium</i> NiCo riboswitch according to PDB ID: 4RUM. Helices P1-P2 (pink) and P3-P4 (blue) form a 'H'-shaped structure stabilized at the junction by four Co<sup>2+</sup> ions. Inner sphere (filled symbols) mediated contacts to different metals are shown in key<sup>[<a href="#ref2">2</a>]</sup>.</p></font>
+<font><p>5'GGGAACUGAGCAGGCAAUGACCAGAGCGGUCAUGCAGCCGGGCUGCGAAAGCGGCAACAGAUGAUUACACGCACAUCUGUGGGACAGUUCCCAC3' (Sequence from bottom structure )</p><br></font>
 <html>
 <div>
     <div class="entry-content clearfix" itemprop="articleBody description" style="overflow: auto;">
@@ -173,13 +177,13 @@ permalink: /docs/NiCo/
                         <div class="image-wrapper" style="margin-bottom: 40px;">
                             <img id="image-a0" src="/images/2D/NiCo_riboswitch_2D1.svg" width="200" style="border: 1px solid black; cursor: zoom-in;margin-top: 0px;margin-bottom: 0px;" alt="big.png"/>
                             <div class="button-wrapper">
-                                <a class="btn " href="javascript:showImage0('/images/2D/NiCo_riboswitch_2D1.svg');">&lt;&lt; Show big</a>
+                                <a class="btn " href="javascript:showImage0('/images/2D/NiCo_riboswitch_2D1.svg');">&lt;&lt; Switch to</a>
                             </div>
                         </div>
                         <div class="image-wrapper" >
                             <img id="image-b" src="/images/2D/NiCo_riboswitch_2D2.svg" width="200" style="border: 1px solid black; cursor: zoom-in;margin-top: 0px;margin-bottom: 0px;" alt="down.png"/>
                             <div class="button-wrapper">
-                                <a class="btn " href="javascript:showImage0('/images/2D/NiCo_riboswitch_2D2.svg');">&lt;&lt; Show big</a>
+                                <a class="btn " href="javascript:showImage0('/images/2D/NiCo_riboswitch_2D2.svg');">&lt;&lt; Switch to</a>
                             </div>
                         </div>
                     </td>
@@ -272,7 +276,7 @@ permalink: /docs/NiCo/
                      
 > 3D visualisation
                 
-<font >The overall structure of the NiCo riboswitch was generated from PDB ID: 4RUM at 2.64 Å resolution bound to cobalt. Crystal structure of NiCo shows two sets of coaxially stacked helices: P1-P2 (pink) and P3-P4 (blue). Interhelical nucleotides coordinate four Co<sup>2+</sup> ions (red). Anti-terminator nucleotides 78 to 98 (cyan) are sequestered within P4 and P1, making direct contacts with Co<sup>2+</sup> ions <sup>[1]</sup>.</font>
+<font >The overall structure of the <i>E. bacterium</i> NiCo riboswitch was generated from PDB ID: 4RUM at 2.64 Å resolution bound to cobalt. Crystal structure of NiCo shows two sets of coaxially stacked helices: P1-P2 (pink) and P3-P4 (blue). Interhelical nucleotides coordinate four Co<sup>2+</sup> ions (red). Anti-terminator nucleotides 78 to 98 (cyan) are sequestered within P4 and P1, making direct contacts with Co<sup>2+</sup> ions. Additional available structures that have been solved and detailed information are accessible on <i>Structures</i> page <sup>[<a href="#ref1">1</a>]</sup>.</font>
 <div ><font ><p style="text-align:right;margin-bottom: 0px;">(Clicking the "Settings/Controls info" to turn Spin off)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p></font>
   <table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
@@ -473,7 +477,7 @@ permalink: /docs/NiCo/
                  
 > Binding pocket
                     
-<font><p>Left: Surface representation of the binding pocket of the NiCo riboswitch generated from PDB ID: 4RUM. The Co<sup>2+</sup> ions are labeled in red. Right: Co<sup>2+</sup> ions (red) bound to NiCo are coordinated by interhelical nucleotides from diametrically opposite sides of the RNA. G87 coordinates cobalt 1 via N7 and cobalt 2 via its ribose oxygen. G45 coordinates cobalt 2 via water mediated contacts with a ribosyl oxygen and cobalt 3 via its N7. These long-range connections extend from A14 to G86 via G45 and G87, connecting three of the Co<sup>2+</sup> sites<sup>[1]</sup>.</p></font>
+<font><p>Left: Surface representation of the binding pocket of the <i>E. bacterium</i> NiCo riboswitch generated from PDB ID: 4RUM at 2.64 Å resolution. The Co<sup>2+</sup> ions are labeled in red. Right: Co<sup>2+</sup> ions (red) bound to NiCo are coordinated by interhelical nucleotides from diametrically opposite sides of the RNA. G87 coordinates cobalt 1 via N7 and cobalt 2 via its ribose oxygen. G45 coordinates cobalt 2 via water mediated contacts with a ribosyl oxygen and cobalt 3 via its N7. These long-range connections extend from A14 to G86 via G45 and G87, connecting three of the Co<sup>2+</sup> sites<sup>[<a href="#ref1">1</a>]</sup>.</p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;"><tr>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/NiCo_riboswitch_ binding_pockets1.svg" alt="drawing" style="width:500px"  px="" /></td>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/NiCo_riboswitch_ binding_pockets2.svg" alt="drawing" style="width:500px"  px="" /></td>
@@ -484,7 +488,7 @@ permalink: /docs/NiCo/
 > Ligand recognition
                 
 
-<font><p>Isothermal titration calorimetry studies of the native <i>czcD</i> riboswitches show no response to Mn<sup>II</sup>, a weak response to Zn<sup>II</sup>, and similar dissociation constants (∼1μM) and conformational responses for Fe<sup>II</sup>, Co<sup>II</sup>, and Ni<sup>II</sup><sup>[4]</sup>.</p></font>
+<font><p>Isothermal titration calorimetry studies of the native <i>czcD</i> riboswitches show no response to Mn<sup>II</sup>, a weak response to Zn<sup>II</sup>, and similar dissociation constants (∼1μM) and conformational responses for Fe<sup>II</sup>, Co<sup>II</sup>, and Ni<sup>II</sup>. Refer to the corresponding references for comprehensive details regarding reaction conditions and species information in measuring the dissociation constant displayed below<sup>[<a href="#ref4">4</a>]</sup>.</p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;">
 <tr>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
@@ -496,22 +500,27 @@ permalink: /docs/NiCo/
                  
 <p class="header_box" id="references">References</p>
                 
-<font><strong>[1] Bacterial riboswitches cooperatively bind Ni(2+) or Co(2+) ions and control  expression of heavy metal transporters.</strong></font>
+<a id="ref1"></a><font><strong>[1] Bacterial riboswitches cooperatively bind Ni(2+) or Co(2+) ions and control  expression of heavy metal transporters.</strong></font><br />
 Furukawa, K. et al.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/25794617/" target="_blank">Mol. Cell 57, 1088–1098 (2015).</a>
 <br />
                 
-<font><strong>[2] The (NiCo) Riboswitch Responds to Iron(II).</strong></font>
+<a id="ref2"></a><font><strong>[2] The (NiCo) Riboswitch Responds to Iron(II).</strong></font><br />
 Xu, J. & Cotruvo, J. A., Jr.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/32250107/" target="_blank">Biochemistry 59, 1508–1516 (2020).</a>
 <br />
                 
-<font><strong>[3] Iron-responsive riboswitches.</strong></font>
+<a id="ref3"></a><font><strong>[3] Sequential Folding of the Nickel/Cobalt Riboswitch Is Facilitated by a Conformational Intermediate: Insights from Single-Molecule Kinetics and Thermodynamics.</strong></font><br />
+Sung, H.-L. & Nesbitt, D. J.<br />
+<a href="https://pubmed.ncbi.nlm.nih.gov/32790410/" target="_blank">J. Phys. Chem. B 124, 7348–7360 (2020).</a>
+<br />
+                
+<a id="ref4"></a><font><strong>[4] Iron-responsive riboswitches.</strong></font><br />
 Xu, J. & Cotruvo, J. A., Jr.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/35427920/" target="_blank">Curr. Opin. Chem. Biol. 68, 102135 (2022).</a>
 <br />
                 
-<font><strong>[4] Reconsidering the (NiCo) Riboswitch as an Iron Riboswitch.</strong></font>
+<a id="ref5"></a><font><strong>[5] Reconsidering the (NiCo) Riboswitch as an Iron Riboswitch.</strong></font><br />
 Xu, J. & Cotruvo, J. A., Jr.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/35996475/" target="_blank">ACS Bio Med Chem Au 2, 376–385 (2022).</a>
 <br />

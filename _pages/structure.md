@@ -19,6 +19,9 @@ This page provides a summary of the methods used for structure determination and
   }
   blockquote {
   margin: 0 0 0p}
+  .button.clicked {
+    background-color: #999;
+}
   </style>
 </head>
 <body>
@@ -27,7 +30,7 @@ This page provides a summary of the methods used for structure determination and
 </html>
             
 <p class="header_box" >Statistical information </p>
-Statistics of structure determination and phasing methods for riboswitches. Left: structure determination for riboswitches (Cryogenic electron microscopy, Cryo-EM; Solution-state nuclear magnetic resonance spectroscopy, NMR). Right: The inner circle show cases of molecular replacement (MR) and de novo phasing based on heavy atom derivatives. The outer circle further indicates  the heavy atom used for de novo phasing, and the searching model for MR.
+Statistics of structure determination and phasing methods for riboswitches. Left: structure determination for riboswitches (Cryogenic electron microscopy, Cryo-EM; Nuclear magnetic resonance spectroscopy, NMR). Right: The inner circle show cases of molecular replacement (MR) and de novo phasing based on heavy atom derivatives. The outer circle further indicates the heavy atom used for de novo phasing, and the searching model for MR.
 <div style="width:1000px;display:block;margin:0 auto;border:solid 1px;border-radius:0;">
 <img src="/images/structures/phase_determination.svg" alt="drawing"  class="img-responsive">
 </div>
@@ -170,8 +173,8 @@ This section displays all the PDB entries for the collected riboswitches. Additi
     <option value="/downloads/structures_page/Elemental_ions.xlsx">Elemental_ions</option>
     <option value="/downloads/structures_page/Amino_acids.xlsx">Amino_acids</option>
     <option value="/downloads/structures_page/Sugars.xlsx">Sugars</option>
-    <option value="/downloads/structures_page/T-box.xlsx">T-box</option>
     <option value="/downloads/structures_page/Others.xlsx">Others</option>
+     <option value="/downloads/structures_page/T-box.xlsx">T-box</option>
     <option value="/downloads/structures_page/All_tables.xlsx">All tables in this page</option>
   </select>
   <!-- Download button -->
@@ -187,8 +190,8 @@ This section displays all the PDB entries for the collected riboswitches. Additi
       <button class="button" onclick="showSheet('sheet5')">Elemental ions</button>
       <button class="button" onclick="showSheet('sheet6')">Amino acids</button>
       <button class="button" onclick="showSheet('sheet7')">Sugars</button>
-      <button class="button" onclick="showSheet('sheet8')">T-box</button>
-      <button class="button" onclick="showSheet('sheet9')">Others</button>
+      <button class="button" onclick="showSheet('sheet8')">Others</button>
+      <button class="button" onclick="showSheet('sheet9')">T-box</button>
   </div>
         
 <div id="sheet1" class="sheet">
@@ -278,7 +281,7 @@ MIR-Co, Ir, Ba</td>
         <td name="td5">MR</td>
         <td name="td6">X-RAY DIFFRACTION</td>
         <td name="td7">3.94 Å</td>
-        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/23064232/" target="_blank"><b>2020</b></a></td>
+        <td name="td8"><a href="https://pubmed.ncbi.nlm.nih.gov/23064232/" target="_blank"><b>2012</b></a></td>
         <td name="td9">Nature</td>
       </tr>
     
@@ -4919,7 +4922,7 @@ MIR-Co, Ir, Ba</td>
     </table>
 </div>        
         
-<div id="sheet8" class="sheet">
+<div id="sheet9" class="sheet">
     <h2>T-box</h2>
     <table id="tboxtable">
       <thead>
@@ -5125,7 +5128,7 @@ MR (Fragments)</td>
     </table>
 </div>
 
-<div id="sheet9" class="sheet">
+<div id="sheet8" class="sheet">
     <h2>Others</h2>
     <table id="othtable">
       <thead>
@@ -5582,15 +5585,35 @@ function downloadExcel() {
       currentSheet = sheetId;
   }
 
-  function hideAllSheetsExcept(sheetId) {
-    var sheets = document.getElementsByClassName('sheet');
-    for (var i = 0; i < sheets.length; i++) {
-      var sheet = sheets[i];
-      if (sheet.id !== sheetId) {
-        sheet.style.display = 'none';
-      }
+
+
+function showSheet(sheetId) {
+// add .button.clicked  style in the begining style
+    // Hide the current sheet
+    if (currentSheet) {
+        var currentSheetElement = document.getElementById(currentSheet);
+        currentSheetElement.style.display = 'none';
     }
-    }
+
+    // Show the selected sheet
+    var sheet = document.getElementById(sheetId);
+    sheet.style.display = 'block';
+
+    // Update the current sheet
+    currentSheet = sheetId;
+
+    // Get all buttons
+    var buttons = document.querySelectorAll('.button');
+
+    // Remove clicked class from all buttons
+    buttons.forEach(function(btn) {
+        btn.classList.remove('clicked');
+    });
+
+    // Add clicked class to the clicked button using event.target
+    event.target.classList.add('clicked');
+}
+
 
     function showAllSheets() {
       var sheets = document.getElementsByClassName('sheet');

@@ -7,7 +7,7 @@ permalink: /orphan_riboswitch/
 ---
 
 <h1 class="post-title" itemprop="name headline">Orphan riboswitches</h1>
-Orphan riboswitch candidates are noncoding RNA motifs whose representatives are believed to function as genetic regulatory elements, but whose target ligands have yet to be identified<sup>[1]</sup>
+Orphan riboswitch candidates are noncoding RNA motifs whose representatives are believed to function as genetic regulatory elements; however, their specific ligands remain unidentified. In this section, we present a list of 30 orphan riboswitch candidates to draw attention to their most distinctive characteristics. The significance and quality of a riboswitch candidate can be assessed by considering the number of representatives discovered, the complexity displayed by its conserved sequence and secondary structure, and its associations with diverse gene types. We categorize these candidates as either strong or weak orphan riboswitch candidates based on the criterion, the strength of the characteristics of candidates listed above. This section draws mainly from the work of Ron Breaker primarily<sup>[<a href="#ref1">1</a>]</sup>
 <br><br>
 
 <html>
@@ -50,6 +50,11 @@ Orphan riboswitch candidates are noncoding RNA motifs whose representatives are 
   }
   blockquote {
   margin: 0 0 0p}
+  
+   [id]:target {
+  scroll-margin-top: 80px; /* 根据你的导航栏的高度调整 */
+}
+  
   </style>
 </head>
 <body>
@@ -66,7 +71,7 @@ Orphan riboswitch candidates are noncoding RNA motifs whose representatives are 
         
 <html>
 <p class="header_box" >Strong orphan riboswitches</p>
-<p>Consensus sequence and secondary structure model for the strong orphan riboswitch candidates<sup>[1]</sup>.</p>      
+<p>Consensus sequence and secondary structure model for the strong orphan riboswitch candidates<sup>[<a href="#ref1">1</a>]</sup>.</p>      
 
 <div style="width:1000px;display:block;margin:0 auto;border:solid 1px;border-radius:0;">
 <img src="/images/orphan_riboswitch/Orphan_riboswitch_2D1.svg" alt="drawing" >
@@ -124,7 +129,7 @@ glyphicon-download-alt"></span>&nbsp;&nbsp;Download above picture</button></a><b
  <tbody>
         
   <tr>
-    <td><i>ykkC</i> 2c<sup>[2-5]</sup></td>
+    <td><i>ykkC</i> 2c<sup>[<a href="#ref2">2</a>-<a href="#ref5">5</a>]</sup></td>
     <td>None</td>
     <td>45</td>
     <td>66</td>
@@ -133,7 +138,7 @@ glyphicon-download-alt"></span>&nbsp;&nbsp;Download above picture</button></a><b
     
                     
   <tr>
-    <td><i>ykkC</i> 2d<sup>[2-5]</sup></td>
+    <td><i>ykkC</i> 2d<sup>[<a href="#ref2">2</a>-<a href="#ref5">5</a>]</sup></td>
     <td>None</td>
     <td>144</td>
     <td>38</td>
@@ -142,7 +147,7 @@ glyphicon-download-alt"></span>&nbsp;&nbsp;Download above picture</button></a><b
     
                     
   <tr>
-    <td><i>speF</i><sup>[6]</sup></td>
+    <td><i>speF</i><sup>[<a href="#ref6">6</a>]</sup></td>
     <td>RF00518</td>
     <td>868</td>
     <td>92 (59)</td>
@@ -151,7 +156,7 @@ glyphicon-download-alt"></span>&nbsp;&nbsp;Download above picture</button></a><b
     
                     
   <tr>
-    <td><i>serC</i><sup>[6]</sup></td>
+    <td><i>serC</i><sup>[<a href="#ref6">6</a>]</sup></td>
     <td>RF00517</td>
     <td>1274</td>
     <td>16</td>
@@ -160,7 +165,7 @@ glyphicon-download-alt"></span>&nbsp;&nbsp;Download above picture</button></a><b
     
                     
   <tr>
-    <td><i>ybhL</i><sup>[6]</sup></td>
+    <td><i>ybhL</i><sup>[<a href="#ref6">6</a>]</sup></td>
     <td>RF00520</td>
     <td>207</td>
     <td>26</td>
@@ -169,7 +174,7 @@ glyphicon-download-alt"></span>&nbsp;&nbsp;Download above picture</button></a><b
     
                     
   <tr>
-    <td>ATPC<sup>[7]</sup></td>
+    <td>ATPC<sup>[<a href="#ref7">7</a>]</sup></td>
     <td>RF01067</td>
     <td>222</td>
     <td>15</td>
@@ -178,7 +183,7 @@ glyphicon-download-alt"></span>&nbsp;&nbsp;Download above picture</button></a><b
     
                     
   <tr>
-    <td><i>sucA</i><sup>[7]</sup></td>
+    <td><i>sucA</i><sup>[<a href="#ref7">7</a>]</sup></td>
     <td>RF01070</td>
     <td>490</td>
     <td>16</td>
@@ -187,7 +192,7 @@ glyphicon-download-alt"></span>&nbsp;&nbsp;Download above picture</button></a><b
     
                     
   <tr>
-    <td><i>sucA-II</i><sup>[8]</sup></td>
+    <td><i>sucA-II</i><sup>[<a href="#ref8">8</a>]</sup></td>
     <td>RF01758</td>
     <td>294</td>
     <td>25</td>
@@ -196,7 +201,7 @@ glyphicon-download-alt"></span>&nbsp;&nbsp;Download above picture</button></a><b
     
                     
   <tr>
-    <td><i>aceE</i><sup>[8]</sup></td>
+    <td><i>aceE</i><sup>[<a href="#ref8">8</a>]</sup></td>
     <td>None</td>
     <td>181</td>
     <td>12</td>
@@ -205,7 +210,7 @@ glyphicon-download-alt"></span>&nbsp;&nbsp;Download above picture</button></a><b
     
                     
   <tr>
-    <td><i>gabT</i><sup>[8]</sup></td>
+    <td><i>gabT</i><sup>[<a href="#ref8">8</a>]</sup></td>
     <td>RF01738</td>
     <td>315</td>
     <td>21 (23)</td>
@@ -214,7 +219,7 @@ glyphicon-download-alt"></span>&nbsp;&nbsp;Download above picture</button></a><b
     
                     
   <tr>
-    <td><i>icd</i><sup>[8]</sup></td>
+    <td><i>icd</i><sup>[<a href="#ref8">8</a>]</sup></td>
     <td>RF04189</td>
     <td>373</td>
     <td>14</td>
@@ -223,7 +228,7 @@ glyphicon-download-alt"></span>&nbsp;&nbsp;Download above picture</button></a><b
     
                     
   <tr>
-    <td><i>Lacto-usp</i><sup>[8]</sup></td>
+    <td><i>Lacto-usp</i><sup>[<a href="#ref8">8</a>]</sup></td>
     <td>RF01710</td>
     <td>63</td>
     <td>58</td>
@@ -232,7 +237,7 @@ glyphicon-download-alt"></span>&nbsp;&nbsp;Download above picture</button></a><b
     
                     
   <tr>
-    <td><i>manA</i><sup>[8]</sup></td>
+    <td><i>manA</i><sup>[<a href="#ref8">8</a>]</sup></td>
     <td>RF01745</td>
     <td>527</td>
     <td>14 (15, 19)</td>
@@ -241,7 +246,7 @@ glyphicon-download-alt"></span>&nbsp;&nbsp;Download above picture</button></a><b
     
                     
   <tr>
-    <td>Moco-II<sup>[8]</sup></td>
+    <td>Moco-II<sup>[<a href="#ref8">8</a>]</sup></td>
     <td>RF01713</td>
     <td>20</td>
     <td>12</td>
@@ -250,7 +255,7 @@ glyphicon-download-alt"></span>&nbsp;&nbsp;Download above picture</button></a><b
     
                     
   <tr>
-    <td><i>msiK</i><sup>[8]</sup></td>
+    <td><i>msiK</i><sup>[<a href="#ref8">8</a>]</sup></td>
     <td>RF01747</td>
     <td>1124</td>
     <td>23</td>
@@ -259,7 +264,7 @@ glyphicon-download-alt"></span>&nbsp;&nbsp;Download above picture</button></a><b
     
                     
   <tr>
-    <td><i>potC</i><sup>[8]</sup></td>
+    <td><i>potC</i><sup>[<a href="#ref8">8</a>]</sup></td>
     <td>RF01751</td>
     <td>221</td>
     <td>8</td>
@@ -268,7 +273,7 @@ glyphicon-download-alt"></span>&nbsp;&nbsp;Download above picture</button></a><b
     
                     
   <tr>
-    <td><i>psaA</i><sup>[8]</sup></td>
+    <td><i>psaA</i><sup>[<a href="#ref8">8</a>]</sup></td>
     <td>RF01752</td>
     <td>76</td>
     <td>52</td>
@@ -277,7 +282,7 @@ glyphicon-download-alt"></span>&nbsp;&nbsp;Download above picture</button></a><b
     
                     
   <tr>
-    <td><i>Pseudomon</i>-GGDEF<sup>[8]</sup></td>
+    <td><i>Pseudomon</i>-GGDEF<sup>[<a href="#ref8">8</a>]</sup></td>
     <td>None</td>
     <td>65</td>
     <td>67</td>
@@ -286,7 +291,7 @@ glyphicon-download-alt"></span>&nbsp;&nbsp;Download above picture</button></a><b
     
                     
   <tr>
-    <td>SAM-Chlorobi<sup>[8]</sup></td>
+    <td>SAM-Chlorobi<sup>[<a href="#ref8">8</a>]</sup></td>
     <td>RF01724</td>
     <td>40</td>
     <td>22</td>
@@ -295,7 +300,7 @@ glyphicon-download-alt"></span>&nbsp;&nbsp;Download above picture</button></a><b
     
                     
   <tr>
-    <td><i>wcaG</i><sup>[8]</sup></td>
+    <td><i>wcaG</i><sup>[<a href="#ref8">8</a>]</sup></td>
     <td>RF01761</td>
     <td>137</td>
     <td>13</td>
@@ -310,7 +315,7 @@ glyphicon-download-alt"></span>&nbsp;&nbsp;Download above picture</button></a><b
 <html>
 <p id="Weak_orphan_riboswitch"> </p>
 <p class="header_box" >Weak orphan riboswitches</p>
-<p>Consensus sequence and secondary structure model for the weak orphan riboswitch candidates<sup>[1]</sup>.</p>     
+<p>Consensus sequence and secondary structure model for the weak orphan riboswitch candidates<sup>[<a href="#ref1">1</a>]</sup>.</p>     
             
 <div style="width:1000px;display:block;margin:0 auto;border:solid 1px;border-radius:0;">
 <img src="/images/orphan_riboswitch/Orphan_riboswitch_2D2.svg" alt="drawing" >
@@ -371,7 +376,7 @@ glyphicon-download-alt"></span>&nbsp;&nbsp;Download above picture</button></a><b
  <tbody>
             
   <tr>
-    <td><i>sucC</i><sup>[8]</sup></td>
+    <td><i>sucC</i><sup>[<a href="#ref8">8</a>]</sup></td>
     <td>None</td>
     <td>72</td>
     <td>25</td>
@@ -380,7 +385,7 @@ glyphicon-download-alt"></span>&nbsp;&nbsp;Download above picture</button></a><b
     
                     
   <tr>
-    <td><i>rmf</i><sup>[8]</sup></td>
+    <td><i>rmf</i><sup>[<a href="#ref8">8</a>]</sup></td>
     <td>RF01755</td>
     <td>363</td>
     <td>50</td>
@@ -389,7 +394,7 @@ glyphicon-download-alt"></span>&nbsp;&nbsp;Download above picture</button></a><b
     
                     
   <tr>
-    <td>Termite-<i>flg</i><sup>[8]</sup></td>
+    <td>Termite-<i>flg</i><sup>[<a href="#ref8">8</a>]</sup></td>
     <td>RF01729</td>
     <td>67</td>
     <td>18</td>
@@ -398,7 +403,7 @@ glyphicon-download-alt"></span>&nbsp;&nbsp;Download above picture</button></a><b
     
                     
   <tr>
-    <td><i>nuoG</i><sup>[8]</sup></td>
+    <td><i>nuoG</i><sup>[<a href="#ref8">8</a>]</sup></td>
     <td>RF01748</td>
     <td>38</td>
     <td>24 (49)</td>
@@ -407,7 +412,7 @@ glyphicon-download-alt"></span>&nbsp;&nbsp;Download above picture</button></a><b
     
                     
   <tr>
-    <td><i>livK</i><sup>[8]</sup></td>
+    <td><i>livK</i><sup>[<a href="#ref8">8</a>]</sup></td>
     <td>RF01744</td>
     <td>88</td>
     <td>33</td>
@@ -416,7 +421,7 @@ glyphicon-download-alt"></span>&nbsp;&nbsp;Download above picture</button></a><b
     
                     
   <tr>
-    <td>Polynucleobacter-1 <sup>[8]</sup></td>
+    <td>Polynucleobacter-1 <sup>[<a href="#ref8">8</a>]</sup></td>
     <td>None</td>
     <td>86</td>
     <td>19</td>
@@ -431,43 +436,43 @@ glyphicon-download-alt"></span>&nbsp;&nbsp;Download above picture</button></a><b
 <p id="References"> </p>
 <p class="header_box" id="references">References</p>
                 
-<p><strong>[1] Challenges of ligand identification for the second wave of orphan riboswitch candidates.</strong><br />
+<a id="ref1"></a><font><strong>[1] Challenges of ligand identification for the second wave of orphan riboswitch candidates.</strong></font><br />
 Greenlee, E. B. et al.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/29135333/" target="_blank">RNA Biol. 15, 377–390 (2018).</a>
-<br /></p>
+<br />
                 
-<p><strong>[2] Riboswitches for the alarmone ppGpp expand the collection of RNA-based signaling systems.</strong><br />
+<a id="ref2"></a><font><strong>[2] Riboswitches for the alarmone ppGpp expand the collection of RNA-based signaling systems.</strong></font><br />
 Sherlock, M. E., Sudarsan, N. & Breaker, R. R.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/29784782/" target="_blank">Proc. Natl. Acad. Sci. U. S. A. 115, 6052–6057 (2018).</a>
-<br /></p>
+<br />
                 
-<p><strong>[3] Tandem riboswitches form a natural Boolean logic gate to control purine metabolism in bacteria.</strong><br />
+<a id="ref3"></a><font><strong>[3] Tandem riboswitches form a natural Boolean logic gate to control purine metabolism in bacteria.</strong></font><br />
 Sherlock, M. E., Sudarsan, N., Stav, S. & Breaker, R. R.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/29504937/" target="_blank">Elife 7, (2018).</a>
-<br /></p>
+<br />
                 
-<p><strong>[4] New RNA motifs suggest an expanded scope for riboswitches in bacterial genetic control.</strong><br />
+<a id="ref4"></a><font><strong>[4] New RNA motifs suggest an expanded scope for riboswitches in bacterial genetic control.</strong></font><br />
 Barrick, J. E. et al.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/15096624/" target="_blank">Proc. Natl. Acad. Sci. U. S. A. 101, 6421–6426 (2004).</a>
-<br /></p>
+<br />
                 
-<p><strong>[5] Metabolism of Free Guanidine in Bacteria Is Regulated by a Widespread Riboswitch Class.</strong><br />
+<a id="ref5"></a><font><strong>[5] Metabolism of Free Guanidine in Bacteria Is Regulated by a Widespread Riboswitch Class.</strong></font><br />
 Nelson, J. W., Atilho, R. M., Sherlock, M. E., Stockbridge, R. B. & Breaker, R. R.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/27989440/" target="_blank">Mol. Cell 65, 220–230 (2017).</a>
-<br /></p>
+<br />
                 
-<p><strong>[6] Evidence for a second class of S-adenosylmethionine riboswitches and other regulatory RNA motifs in alpha-proteobacteria.</strong><br />
+<a id="ref6"></a><font><strong>[6] Evidence for a second class of S-adenosylmethionine riboswitches and other regulatory RNA motifs in alpha-proteobacteria.</strong></font><br />
 Corbino, K. A. et al.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/16086852/" target="_blank">Genome Biol. 6, R70 (2005).</a>
-<br /></p>
+<br />
                 
-<p><strong>[7] Identification of 22 candidate structured RNAs in bacteria using the CMfinder comparative genomics pipeline.</strong><br />
+<a id="ref7"></a><font><strong>[7] Identification of 22 candidate structured RNAs in bacteria using the CMfinder comparative genomics pipeline.</strong></font><br />
 Weinberg, Z. et al.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/17621584/" target="_blank">Nucleic Acids Res. 35, 4809–4819 (2007).</a>
-<br /></p>
+<br />
                 
-<p><strong>[8] Comparative genomics reveals 104 candidate structured RNAs from bacteria, archaea, and their metagenomes.</strong><br />
+<a id="ref8"></a><font><strong>[8] Comparative genomics reveals 104 candidate structured RNAs from bacteria, archaea, and their metagenomes.</strong></font><br />
 Weinberg, Z. et al.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/20230605/" target="_blank">Genome Biol. 11, R31 (2010).</a>
-<br /></p>
+<br />
                 

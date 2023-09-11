@@ -81,96 +81,84 @@ permalink: /docs/Cobalamine/
           
     <timelineli class="day">
      <div class="events">
-       <p >Discovery of the 5'-leader sequences of the <i>btuB</i> mRNAs recognizing cobalamine to control gene expresion</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/10852957/" target="_blank">2000</a><sup>[1]</sup></div>
+       <p ><a href="https://pubmed.ncbi.nlm.nih.gov/10852957/" target="_blank">2000</a><sup>[<a href="#ref1">1</a>]</sup>&emsp;Discovery of the 5'-leader sequences of the <i>btuB</i> mRNAs recognizing cobalamine to control gene expresion</p>
      </div>
     </timelineli>
         
 
     <timelineli class="day">
      <div class="events">
-       <p >Validation of the AdoCbl  riboswitch</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/12323379/" target="_blank">2002</a><sup>[2]</sup></div>
+       <p ><a href="https://pubmed.ncbi.nlm.nih.gov/12323379/" target="_blank">2002</a><sup>[<a href="#ref2">2</a>]</sup>&emsp;Validation of the AdoCbl  riboswitch</p>
      </div>
     </timelineli>
         
 
     <timelineli class="day">
      <div class="events">
-       <p >The consensus secondary structure model</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/12923257/" target="_blank">2003</a><sup>[3]</sup></div>
+       <p ><a href="https://pubmed.ncbi.nlm.nih.gov/12923257/" target="_blank">2003</a><sup>[<a href="#ref3">3</a>]</sup>&emsp;The consensus secondary structure model</p>
      </div>
     </timelineli>
         
 
     <timelineli class="day">
      <div class="events">
-       <p >The revision of the consensus secondary structure model and validation of the AqCbl  riboswitch</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/14704351/" target="_blank">2004</a><sup>[5]</sup></div>
+       <p ><a href="https://pubmed.ncbi.nlm.nih.gov/14704351/" target="_blank">2004</a><sup>[<a href="#ref5">5</a>]</sup>&emsp;The revision of the consensus secondary structure model and validation of the AqCbl  riboswitch</p>
      </div>
     </timelineli>
         
 
     <timelineli class="day">
      <div class="events">
-       <p >Discovery of the AdoCbl riboswitch variants</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/20230605/" target="_blank">2010</a><sup>[6]</sup></div>
+       <p ><a href="https://pubmed.ncbi.nlm.nih.gov/20230605/" target="_blank">2010</a><sup>[<a href="#ref6">6</a>]</sup>&emsp;Discovery of the AdoCbl riboswitch variants</p>
      </div>
     </timelineli>
         
 
     <timelineli class="day">
      <div class="events">
-       <p >Crystal structure of the AdoCbl and AqCbl riboswitch</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/23064232/" target="_blank">2012</a><sup>[7]</sup></div>
+       <p ><a href="https://pubmed.ncbi.nlm.nih.gov/23064232/" target="_blank">2012</a><sup>[<a href="#ref7">7</a>]</sup>&emsp;Crystal structure of the AdoCbl and AqCbl riboswitch</p>
      </div>
     </timelineli>
         
 
     <timelineli class="day">
      <div class="events">
-       <p >Crystal structure of AdoCbl riboswitch bound with AdoCbl</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/23064646/" target="_blank">2012</a><sup>[8]</sup></div>
+       <p ><a href="https://pubmed.ncbi.nlm.nih.gov/23064646/" target="_blank">2012</a><sup>[<a href="#ref8">8</a>]</sup>&emsp;Crystal structure of AdoCbl riboswitch bound with AdoCbl</p>
      </div>
     </timelineli>
         
 
     <timelineli class="day">
      <div class="events">
-       <p >Mg<sup>2+</sup> induced conformational changes of the AdoCbl riboswitch from <i>E. coli</i></p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/24243114/" target="_blank">2014</a><sup>[9]</sup></div>
+       <p ><a href="https://pubmed.ncbi.nlm.nih.gov/24243114/" target="_blank">2014</a><sup>[<a href="#ref9">9</a>]</sup>&emsp;Mg<sup>2+</sup> induced conformational changes of the AdoCbl riboswitch from <i>E. coli</i></p>
      </div>
     </timelineli>
         
 
     <timelineli class="day">
      <div class="events">
-       <p >New classification of the cobalamine riboswitch</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/28483920/" target="_blank">2017</a><sup>[11]</sup></div>
+       <p ><a href="https://pubmed.ncbi.nlm.nih.gov/28483920/" target="_blank">2017</a><sup>[<a href="#ref11">11</a>]</sup>&emsp;New classification of the cobalamine riboswitch</p>
      </div>
     </timelineli>
         
 
     <timelineli class="day">
      <div class="events">
-       <p >Crystal structure of the atypical cobalamin riboswitch comprising the complete aptamer domain and a part of the expression platform</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/32544228/" target="_blank">2020</a><sup>[12]</sup></div>
+       <p ><a href="https://pubmed.ncbi.nlm.nih.gov/32544228/" target="_blank">2020</a><sup>[<a href="#ref12">12</a>]</sup>&emsp;Crystal structure of the atypical cobalamin riboswitch comprising the complete aptamer domain and a part of the expression platform</p>
      </div>
     </timelineli>
         
 
     <timelineli class="day">
      <div class="events">
-       <p >The conformational ensemble of the AdoCbl riboswitch for ligand recognition</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/33683130/" target="_blank">2021</a><sup>[13]</sup></div>
+       <p ><a href="https://pubmed.ncbi.nlm.nih.gov/33683130/" target="_blank">2021</a><sup>[<a href="#ref13">13</a>]</sup>&emsp;The conformational ensemble of the AdoCbl riboswitch for ligand recognition</p>
      </div>
     </timelineli>
         
 
     <timelineli class="day">
      <div class="events">
-       <p >The plasticity and selectivity of the cobalamine riboswitch to sense cobalamin derivatives</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/37094176/" target="_blank">2023</a><sup>[14]</sup></div>
+       <p ><a href="https://pubmed.ncbi.nlm.nih.gov/37094176/" target="_blank">2023</a><sup>[<a href="#ref14">14</a>]</sup>&emsp;The plasticity and selectivity of the cobalamine riboswitch to sense cobalamin derivatives</p>
      </div>
     </timelineli>
         
@@ -193,7 +181,7 @@ Cobalamin riboswitches are broadly classified by the identity of the aptamer, bu
              
 > Gene association
             
-<font><p>Biosynthetic pathways for adenosylcobalamin in bacteria. The anaerobic and aerobic Ado-CBL pathways are characterized by the early and late cobalt insertions, respectively<sup>[4]</sup>.</p></font>
+<font><p>Biosynthetic pathways for adenosylcobalamin in bacteria. The anaerobic and aerobic Ado-CBL pathways are characterized by the early and late cobalt insertions, respectively<sup>[<a href="#ref4">4</a>]</sup>.</p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;">
 <tr >
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
@@ -205,7 +193,7 @@ Cobalamin riboswitches are broadly classified by the identity of the aptamer, bu
                  
 > Gene regulation
                 
-<font><p>Transcription termination model of the cobalamine riboswitch. RNA is depicted with black lines; P2 and peripheral extensions in P6 are omitted. Complementary regions are in blue. KL denotes a kissing-loop (KL) interaction between L5 of the receptor and L13 of the regulatory domain that instructs the expression machinery<sup>[3,8]</sup>.</p></font>
+<font><p>Proposal mechanism of the AdoCbl riboswitch to regulate gene expression. Top: transcriptional attenuation (<i>Symbiobacterium thermophilum</i>), Bottom: translation initiation inhibition (proteobacteria and actinobacteria). RNA is depicted with black lines; P2 and peripheral extensions in P6 are omitted. Complementary regions are in blue. KL denotes a kissing-loop (KL) interaction between L5 of the receptor and L13 of the regulatory domain that instructs the expression machinery. RBS denotes ribosome binding site. We present the  prototypical mechanism, but not all possible mechanisms<sup>[<a href="#ref3">3</a>,<a href="#ref8">8</a>]</sup>.</p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
   <img src="/images/gene_regulation/AdoCbl_riboswitch_gene_regulation.svg" alt="drawing" style="width:1000px;margin-top: 0px;margin-bottom: 0px;" >
@@ -217,7 +205,10 @@ Cobalamin riboswitches are broadly classified by the identity of the aptamer, bu
 <p class="header_box" id="Structure and Ligand recognition">Structure and Ligand recognition</p>
 > 2D representation
         
-<font><p>Top: Consensus sequence and secondary structure model for the AdoCbl riboswitch. Bottom: Secondary structure depictions of the AdoCbl riboswitch according to PDB ID: 4GMA. AdoCbl is denoted in red. KL denotes a kissing-loop (KL) interaction between L5 of the receptor and L13 of the regulatory domain that instructs the expression machinery<sup>[4,7]</sup>.</p><br></font>
+<font><p>Top: Consensus sequence and secondary structure model for the AdoCbl riboswitch. Bottom: Secondary structure depictions of the <i>Symbiobacterium thermophilum</i> AdoCbl riboswitch according to PDB ID: 4GMA. AdoCbl is denoted in red. KL denotes a kissing-loop (KL) interaction between L5 of the receptor and L13 of the regulatory domain that instructs the expression machinery<sup>[<a href="#ref4">4</a>,<a href="#ref8">8</a>]</sup>.</p></font>
+<font><p>5'GGCGGCAGGUGCUCCCGACGUCGGGAGUUAAAAGGGAAGCCGGUGCAAGUCCGGCACGGUCCCGCCACUG
+UGACGGGGAGUCGCCCCUCGGGAUGUGCCACUGGCCGGCCGGGAAGGCGGAGGGGCGGCGAGGAUCCGGA
+GUCAGGAAACCUGCCUGCCGUC3' (Sequence from bottom structure )</p><br></font>
 <html>
 <div>
     <div class="entry-content clearfix" itemprop="articleBody description" style="overflow: auto;">
@@ -241,13 +232,13 @@ Cobalamin riboswitches are broadly classified by the identity of the aptamer, bu
                         <div class="image-wrapper" style="margin-bottom: 40px;">
                             <img id="image-a0" src="/images/2D/AdoCbl_riboswitch_2D1.svg" width="200" style="border: 1px solid black; cursor: zoom-in;margin-top: 0px;margin-bottom: 0px;" alt="big.png"/>
                             <div class="button-wrapper">
-                                <a class="btn " href="javascript:showImage0('/images/2D/AdoCbl_riboswitch_2D1.svg');">&lt;&lt; Show big</a>
+                                <a class="btn " href="javascript:showImage0('/images/2D/AdoCbl_riboswitch_2D1.svg');">&lt;&lt; Switch to</a>
                             </div>
                         </div>
                         <div class="image-wrapper" >
                             <img id="image-b" src="/images/2D/AdoCbl_riboswitch_2D2.svg" width="200" style="border: 1px solid black; cursor: zoom-in;margin-top: 0px;margin-bottom: 0px;" alt="down.png"/>
                             <div class="button-wrapper">
-                                <a class="btn " href="javascript:showImage0('/images/2D/AdoCbl_riboswitch_2D2.svg');">&lt;&lt; Show big</a>
+                                <a class="btn " href="javascript:showImage0('/images/2D/AdoCbl_riboswitch_2D2.svg');">&lt;&lt; Switch to</a>
                             </div>
                         </div>
                     </td>
@@ -338,7 +329,8 @@ Cobalamin riboswitches are broadly classified by the identity of the aptamer, bu
 </html>
  <p><br /></p>
                     
-<font><p>Top: Consensus sequence and secondary structure model for the AqCbll riboswitch. Bottom: Secondary structure depictions of the AqCbl riboswitch according to PDB ID: 4FRN. AqCbl is denoted in red. KL denotes a kissing-loop (KL) interaction between L5 of the receptor and L13 of the regulatory domain that instructs the expression machinery<sup>[5,7]</sup>.</p><br></font>
+<font><p>Top: Consensus sequence and secondary structure model for the AqCbll riboswitch. Bottom: Secondary structure depictions of the AqCbl riboswitch from environmental metagenomes of the ocean surface according to PDB ID: 4FRN. AqCbl is denoted in red. KL denotes a kissing-loop (KL) interaction between L5 of the receptor and L13 of the regulatory domain that instructs the expression machinery<sup>[<a href="#ref5">5</a>,<a href="#ref7">7</a>]</sup>.</p></font>
+<font><p>5'GGGCUAAAAGCAUGGUGGGAAAGUGACGUGUAAUUCGUCCACAUUACUUGAUACGGUUAUACUCCGAAUGCCACCUAGCCCAAAGUAGAGCAAGGAGACUCA3' (Sequence from bottom structure )</p><br></font>
 <html>
 <div>
     <div class="entry-content clearfix" itemprop="articleBody description" style="overflow: auto;">
@@ -362,13 +354,13 @@ Cobalamin riboswitches are broadly classified by the identity of the aptamer, bu
                         <div class="image-wrapper" style="margin-bottom: 40px;">
                             <img id="image-a1" src="/images/2D/AqCbl_riboswitch_2D1.svg" width="200" style="border: 1px solid black; cursor: zoom-in;margin-top: 0px;margin-bottom: 0px;" alt="big.png"/>
                             <div class="button-wrapper">
-                                <a class="btn " href="javascript:showImage1('/images/2D/AqCbl_riboswitch_2D1.svg');">&lt;&lt; Show big</a>
+                                <a class="btn " href="javascript:showImage1('/images/2D/AqCbl_riboswitch_2D1.svg');">&lt;&lt; Switch to</a>
                             </div>
                         </div>
                         <div class="image-wrapper" >
                             <img id="image-b" src="/images/2D/AqCbl_riboswitch_2D2.svg" width="200" style="border: 1px solid black; cursor: zoom-in;margin-top: 0px;margin-bottom: 0px;" alt="down.png"/>
                             <div class="button-wrapper">
-                                <a class="btn " href="javascript:showImage1('/images/2D/AqCbl_riboswitch_2D2.svg');">&lt;&lt; Show big</a>
+                                <a class="btn " href="javascript:showImage1('/images/2D/AqCbl_riboswitch_2D2.svg');">&lt;&lt; Switch to</a>
                             </div>
                         </div>
                     </td>
@@ -461,7 +453,7 @@ Cobalamin riboswitches are broadly classified by the identity of the aptamer, bu
                      
 > 3D visualisation
                 
-<font >The overall structure of the <i>Tte</i>AdoCbl riboswitch was generated from PDB ID: 4GMA at 3.94 Å resolution bound with AdoCbl. AdoCbl (shown in sticks) is colored in red. KL denotes a kissing-loop (KL) interaction between L5 of the receptor and L13 of the regulatory domain that instructs the expression machinery <sup>[7]</sup>.</font>
+<font >The overall structure of the <i>Symbiobacterium thermophilum</i> AdoCbl riboswitch was generated from PDB ID: 4GXY at 3.05 Å resolution bound with AdoCbl. AdoCbl (shown in sticks) is colored in red. Additional available structures that have been solved and detailed information are accessible on <i>Structures</i> page <sup>[<a href="#ref8">8</a>]</sup>.</font>
 <div ><font ><p style="text-align:right;margin-bottom: 0px;">(Clicking the "Settings/Controls info" to turn Spin off)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p></font>
   <table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
@@ -514,67 +506,49 @@ Cobalamin riboswitches are broadly classified by the identity of the aptamer, bu
             <button onclick="
               var selectSections1 = [
                 {
-  struct_asym_id: 'Z', 
-  start_residue_number:3, 
-  end_residue_number:17, 
-  color:{r:9,g:254,b:254}
+  struct_asym_id: 'A', 
+  start_residue_number:1, 
+  end_residue_number:10, 
+  color:{ r:255,g:170,b:220}
 },
 {
-  struct_asym_id: 'Z', 
-  start_residue_number:18, 
-  end_residue_number:24, 
-  color:{r:128,g:219,b:158}
+  struct_asym_id: 'A', 
+  start_residue_number:11, 
+  end_residue_number:34, 
+  color:{ r:194,g:194,b:255}
 },
 {
-  struct_asym_id: 'Z', 
-  start_residue_number:33, 
-  end_residue_number:46, 
-  color:{r:128,g:219,b:158}
+  struct_asym_id: 'A', 
+  start_residue_number:35, 
+  end_residue_number:44, 
+  color:{ r:128,g:219,b:158}
 },
 {
-  struct_asym_id: 'Z', 
-  start_residue_number:47, 
-  end_residue_number:72, 
-  color:{r:9,g:254,b:254}
+  struct_asym_id: 'A', 
+  start_residue_number:45, 
+  end_residue_number:62, 
+  color:{ r:255,g:135,b:10}
 },
 {
-  struct_asym_id: 'Z', 
-  start_residue_number:73, 
-  end_residue_number:82, 
-  color:{r:255,g:135,b:10}
+  struct_asym_id: 'A', 
+  start_residue_number:63, 
+  end_residue_number:155, 
+  color:{ r:9,g:254,b:254}
 },
 {
-  struct_asym_id: 'Z', 
-  start_residue_number:83, 
-  end_residue_number:89, 
-  color:{r:9,g:254,b:254}
+  struct_asym_id: 'A', 
+  start_residue_number:156, 
+  end_residue_number:162, 
+  color:{ r:128,g:219,b:158}
 },
 {
-  struct_asym_id: 'Z', 
-  start_residue_number:90, 
-  end_residue_number:106, 
-  color:{r:255,g:170,b:220}
+  struct_asym_id: 'A', 
+  start_residue_number:163, 
+  end_residue_number:172, 
+  color:{ r:255,g:170,b:220}
 },
 {
-  struct_asym_id: 'Z', 
-  start_residue_number:110, 
-  end_residue_number:153, 
-  color:{r:255,g:170,b:220}
-},
-{
-  struct_asym_id: 'Z', 
-  start_residue_number:154, 
-  end_residue_number:178, 
-  color:{r:9,g:254,b:254}
-},
-{
-  struct_asym_id: 'Z', 
-  start_residue_number:184, 
-  end_residue_number:210, 
-  color:{r:255,g:135,b:10}
-},
-{
-  struct_asym_id: 'Z', 
+  struct_asym_id: 'A', 
   start_residue_number:301, 
   end_residue_number:301, 
   color:{r:255,g:11,b:12}
@@ -591,7 +565,7 @@ Cobalamin riboswitches are broadly classified by the identity of the aptamer, bu
       var viewerInstance1 = new PDBeMolstarPlugin();
       var options1 = {
         customData:{
-        url:'/docs/pdbfiles/4GMA.pdb',
+        url:'/docs/pdbfiles/4GXY.pdb',
         format: 'pdb'},
         expanded: false,
         hideControls: true,
@@ -612,7 +586,7 @@ Cobalamin riboswitches are broadly classified by the identity of the aptamer, bu
   </div>
   <p><br /></p>
                 
-<font >The overall structure of the <i>env8</i>AqCbl riboswitch was generated from PDB ID: 4FRN at 3.43 Å resolution bound with AqCbl. AqCbl (shown in sticks) is colored in red. KL denotes a kissing-loop (KL) interaction between L5 of the receptor and L13 of the regulatory domain that instructs the expression machinery <sup>[7]</sup>.</font>
+<font >The overall structure of the <i>env8</i>AqCbl riboswitch from environmental metagenomes of the ocean surface was generated from PDB ID: 4FRN at 3.43 Å resolution bound with AqCbl. AqCbl (shown in sticks) is colored in red. KL denotes a kissing-loop (KL) interaction between L5 of the receptor and L13 of the regulatory domain that instructs the expression machinery. Additional available structures that have been solved and detailed information are accessible on <i>Structures</i> page <sup>[<a href="#ref7">7</a>]</sup>.</font>
 <div ><font ><p style="text-align:right;margin-bottom: 0px;">(Clicking the "Settings/Controls info" to turn Spin off)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p></font>
   <table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
@@ -753,7 +727,7 @@ Cobalamin riboswitches are broadly classified by the identity of the aptamer, bu
                  
 > Binding pocket
                     
-<font><p>Left: Surface representation of the binding pocket of the AdoCbl riboswitch generated from PDB ID: 4GMA. AdoCbl (shown in sticks) is colored in red. Right: Recognition of AdoCbl by the AdoCbl riboswitch. A162 pairs with the adenosyl base of AdoCbl<sup>[7]</sup>.</p></font>
+<font><p>Left: Surface representation of the binding pocket of the <i>Symbiobacterium thermophilum</i> AdoCbl riboswitch generated from PDB ID: 4GXY at 3.05 Å resolution. AdoCbl (shown in sticks) is colored in red. Right: Details of riboswitch-AdoCbl interactions. Putative intermolecular hydrogen bonds are shown as dashed lines. <sup>[<a href="#ref8">8</a>]</sup>.</p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;"><tr>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/AdoCbl_riboswitch_binding_pockets1.svg" alt="drawing" style="width:500px"  px="" /></td>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/AdoCbl_riboswitch_binding_pockets2.svg" alt="drawing" style="width:500px"  px="" /></td>
@@ -761,7 +735,7 @@ Cobalamin riboswitches are broadly classified by the identity of the aptamer, bu
 </table>
 <p><br /></p>
                     
-<font><p>Left: Surface representation of the binding pocket of the AqCbl riboswitch generated from PDB ID: 4FRN. AqCbl (shown in sticks) is colored in red. Right: Recognition of AqCbl by the AqCbl riboswitch<sup>[7]</sup>.</p></font>
+<font><p>Left: Surface representation of the binding pocket of the AqCbl riboswitch from environmental metagenomes of the ocean surface generated from PDB ID: 4FRN at 3.43 Å resolution. AqCbl (shown in sticks) is colored in red. Right: Recognition of AqCbl by the AqCbl riboswitch<sup>[<a href="#ref7">7</a>]</sup>.</p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;"><tr>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/AqCbl_riboswitch_binding_pockets1.svg" alt="drawing" style="width:500px"  px="" /></td>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/AqCbl_riboswitch_binding_pockets2.svg" alt="drawing" style="width:500px"  px="" /></td>
@@ -772,7 +746,7 @@ Cobalamin riboswitches are broadly classified by the identity of the aptamer, bu
 > Ligand recognition
                 
 
-<font><p>Chemical structures of cobalamin and its analogs. The apparent K<sub>D</sub> of each compound is shown on bottom. Cobalamins contain a corrin ring with a cobalt atom coordinated by an α-axial dimethylbenzimidazole (DMB) and by a variable β-axial group (R: adenosylcobalamin (AdoCbl, i), methylcobalamin (MeCbl, ii), aquocobalamin (AqCbl, iii), or cyanocobalamin (CNCbl, iv))<sup>[3,5,7]</sup>.</p></font>
+<font><p>Chemical structures of cobalamin and its analogs. The apparent K<sub>D</sub> of each compound is shown on bottom. Cobalamins contain a corrin ring with a cobalt atom coordinated by an α-axial dimethylbenzimidazole (DMB) and by a variable β-axial group (R: adenosylcobalamin (AdoCbl, i), methylcobalamin (MeCbl, ii), aquocobalamin (AqCbl, iii), or cyanocobalamin (CNCbl, iv)). Refer to the corresponding references for comprehensive details regarding reaction conditions and species information in measuring the dissociation constant displayed below<sup>[<a href="#ref3">3</a>,<a href="#ref5">5</a>,<a href="#ref7">7</a>]</sup>.</p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;">
 <tr>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
@@ -784,72 +758,72 @@ Cobalamin riboswitches are broadly classified by the identity of the aptamer, bu
                  
 <p class="header_box" id="references">References</p>
                 
-<font><strong>[1] Adenosylcobalamin inhibits ribosome binding to btuB RNA.</strong></font>
+<a id="ref1"></a><font><strong>[1] Adenosylcobalamin inhibits ribosome binding to btuB RNA.</strong></font><br />
 Nou, X. & Kadner, R. J.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/10852957/" target="_blank">Proc. Natl. Acad. Sci. U. S. A. 97, (2000).</a>
 <br />
                 
-<font><strong>[2] Genetic control by a metabolite binding mRNA.</strong></font>
+<a id="ref2"></a><font><strong>[2] Genetic control by a metabolite binding mRNA.</strong></font><br />
 Nahvi, A. et al.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/12323379/" target="_blank">Chem. Biol. 9, (2002).</a>
 <br />
                 
-<font><strong>[3] Regulation of the vitamin B12 metabolism and transport in bacteria by a conserved RNA structural element.</strong></font>
+<a id="ref3"></a><font><strong>[3] Regulation of the vitamin B12 metabolism and transport in bacteria by a conserved RNA structural element.</strong></font><br />
 Vitreschak, A. G., Rodionov, D. A., Mironov, A. A. & Gelfand, M. S.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/12923257/" target="_blank">RNA 9, (2003).</a>
 <br />
                 
-<font><strong>[4] Comparative genomics of the vitamin B12 metabolism and regulation in prokaryotes.</strong></font>
+<a id="ref4"></a><font><strong>[4] Comparative genomics of the vitamin B12 metabolism and regulation in prokaryotes.</strong></font><br />
 Rodionov, D. A., Vitreschak, A. G., Mironov, A. A. & Gelfand, M. S.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/12869542/" target="_blank">J. Biol. Chem. 278, (2003).</a>
 <br />
                 
-<font><strong>[5] Coenzyme B12 riboswitches are widespread genetic control elements in prokaryotes.</strong></font>
+<a id="ref5"></a><font><strong>[5] Coenzyme B12 riboswitches are widespread genetic control elements in prokaryotes.</strong></font><br />
 Nahvi, A., Barrick, J. E. & Breaker, R. R.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/14704351/" target="_blank">Nucleic Acids Res. 32, (2004).</a>
 <br />
                 
-<font><strong>[6] Comparative genomics reveals 104 candidate structured RNAs from bacteria, archaea, and their metagenomes.</strong></font>
+<a id="ref6"></a><font><strong>[6] Comparative genomics reveals 104 candidate structured RNAs from bacteria, archaea, and their metagenomes.</strong></font><br />
 Weinberg, Z. et al.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/20230605/" target="_blank">Genome Biol. 11, (2010).</a>
 <br />
                 
-<font><strong>[7] B12 cofactors directly stabilize an mRNA regulatory switch.</strong></font>
+<a id="ref7"></a><font><strong>[7] B12 cofactors directly stabilize an mRNA regulatory switch.</strong></font><br />
 Johnson, J. E., Reyes, F. E., Polaski, J. T. & Batey, R. T.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/23064232/" target="_blank">Nature 492, (2012).</a>
 <br />
                 
-<font><strong>[8] Structural insights into ligand binding and gene expression control by an adenosylcobalamin riboswitch.</strong></font>
+<a id="ref8"></a><font><strong>[8] Structural insights into ligand binding and gene expression control by an adenosylcobalamin riboswitch.</strong></font><br />
 Peselis, A. & Serganov, A.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/23064646/" target="_blank">Nat. Struct. Mol. Biol. 19, (2012).</a>
 <br />
                 
-<font><strong>[9] Mg<sup>2+</sup>-induced conformational changes in the btuB riboswitch from <i>E. coli</i>.</strong></font>
+<a id="ref9"></a><font><strong>[9] Mg<sup>2+</sup>-induced conformational changes in the btuB riboswitch from <i>E. coli</i>.</strong></font><br />
 Choudhary, P. K. & Sigel, R. K.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/24243114/" target="_blank">RNA 20, (2014).</a>
 <br />
                 
-<font><strong>[10] Tb(3+)-Cleavage Assays Reveal Specific Mg(2+) Binding Sites Necessary to Pre-fold the btuB Riboswitch for AdoCbl Binding.</strong></font>
+<a id="ref10"></a><font><strong>[10] Tb(3+)-Cleavage Assays Reveal Specific Mg(2+) Binding Sites Necessary to Pre-fold the btuB Riboswitch for AdoCbl Binding.</strong></font><br />
 Choudhary, P. K., Gallo, S. & Sigel, R. K.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/28377919/" target="_blank">Frontiers in chemistry 5, (2017).</a>
 <br />
                 
-<font><strong>[11] Cobalamin riboswitches exhibit a broad range of ability to discriminate between methylcobalamin and adenosylcobalamin.</strong></font>
+<a id="ref11"></a><font><strong>[11] Cobalamin riboswitches exhibit a broad range of ability to discriminate between methylcobalamin and adenosylcobalamin.</strong></font><br />
 Polaski, J. T., Webster, S. M., Johnson, J. E. & Batey, R. T.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/28483920/" target="_blank">J. Biol. Chem. 292, (2017).</a>
 <br />
                 
-<font><strong>[12] Crystal structure of an atypical cobalamin riboswitch reveals RNA structural adaptability as basis for promiscuous ligand binding.</strong></font>
+<a id="ref12"></a><font><strong>[12] Crystal structure of an atypical cobalamin riboswitch reveals RNA structural adaptability as basis for promiscuous ligand binding.</strong></font><br />
 Chan, C. W. & Mondragón, A.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/32544228/" target="_blank">Nucleic Acids Res. 48, (2020).</a>
 <br />
                 
-<font><strong>[13] Conformational Ensemble of AdoCbl Riboswitch Provides Stable Structural Elements for Conformation Selection and Population Shift in Cobalamin Recognition.</strong></font>
+<a id="ref13"></a><font><strong>[13] Conformational Ensemble of AdoCbl Riboswitch Provides Stable Structural Elements for Conformation Selection and Population Shift in Cobalamin Recognition.</strong></font><br />
 Ma, B., Bai, G., Nussinov, R., Ding, J. & Wang, Y.-X.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/33683130/" target="_blank">J. Phys. Chem. B 125, 2589–2596 (2021).</a>
 <br />
                 
-<font><strong>[14] Targeting Riboswitches with Beta-Axial-Substituted Cobalamins.</strong></font>
+<a id="ref14"></a><font><strong>[14] Targeting Riboswitches with Beta-Axial-Substituted Cobalamins.</strong></font><br />
 Lennon, S. R. et al.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/37094176/" target="_blank">ACS Chem. Biol. 18, 1136–1147 (2023).</a>
 <br />

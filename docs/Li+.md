@@ -80,16 +80,14 @@ permalink: /docs/Li/
           
     <timelineli class="day">
      <div class="events">
-       <p >Discovery of <i>nhaA</i>-I and <i>nhaA</i>-II motif</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/28977401/" target="_blank">2017</a><sup>[1]</sup></div>
+       <p ><a href="https://pubmed.ncbi.nlm.nih.gov/28977401/" target="_blank">2017</a><sup>[<a href="#ref1">1</a>]</sup>&emsp;Discovery of <i>nhaA</i>-I and <i>nhaA</i>-II motif</p>
      </div>
     </timelineli>
         
 
     <timelineli class="day">
      <div class="events">
-       <p >The experimental validation of two distinct classes of  Li<sup>+</sup> riboswitches</p>
-       <div class="date"><a href="https://pubmed.ncbi.nlm.nih.gov/36352003/" target="_blank">2022</a><sup>[2]</sup></div>
+       <p ><a href="https://pubmed.ncbi.nlm.nih.gov/36352003/" target="_blank">2022</a><sup>[<a href="#ref2">2</a>]</sup>&emsp;The experimental validation of two distinct classes of  Li<sup>+</sup> riboswitches</p>
      </div>
     </timelineli>
         
@@ -114,7 +112,7 @@ In 2022, Breaker et al. identified <i>nhaA</i>-I motif and <i>nhaA</i>-II motif 
              
 > Gene association
             
-<font><p>Annotated functions of proteins encoded by genes commonly associated with Li<sup>+</sup> riboswitches<sup>[2]</sup>.</p></font>
+<font><p>Annotated functions of proteins encoded by genes commonly associated with Li<sup>+</sup> riboswitches<sup>[<a href="#ref2">2</a>]</sup>.</p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;">
 <tr >
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
@@ -180,12 +178,12 @@ In 2022, Breaker et al. identified <i>nhaA</i>-I motif and <i>nhaA</i>-II motif 
                      
 <p class="header_box" id="references">References</p>
                 
-<font><strong>[1] Detection of 224 candidate structured RNAs by comparative analysis of specific subsets of intergenic regions.</strong></font>
+<a id="ref1"></a><font><strong>[1] Detection of 224 candidate structured RNAs by comparative analysis of specific subsets of intergenic regions.</strong></font><br />
 Weinberg, Z. et al.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/28977401/" target="_blank">Nucleic Acids Res. 45, 10811–10823 (2017).</a>
 <br />
                 
-<font><strong>[2] Lithium-sensing riboswitch classes regulate expression of bacterial cation transporter genes.</strong></font>
+<a id="ref2"></a><font><strong>[2] Lithium-sensing riboswitch classes regulate expression of bacterial cation transporter genes.</strong></font><br />
 White, N., Sadeeshkumar, H., Sun, A., Sudarsan, N. & Breaker, R. R.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/36352003/" target="_blank">Sci. Rep. 12, 19145 (2022).</a>
 <br />

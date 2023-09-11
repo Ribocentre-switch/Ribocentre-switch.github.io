@@ -119,7 +119,6 @@ permalink: /riboswitches/
       border-radius: 4px;
       width: 300px;
     }
-
     .button.clicked {
     background-color: #999;
 }
@@ -159,8 +158,8 @@ This section lists all the experimentally validated riboswitches.
     <option value="/downloads/riboswitches_page/Elemental_ions.xlsx">Elemental ions</option>
     <option value="/downloads/riboswitches_page/Amino_acids.xlsx">Amino acids</option>
     <option value="/downloads/riboswitches_page/Sugars.xlsx">Sugars</option>
-    <option value="/downloads/riboswitches_page/T-box.xlsx">T-box</option>
     <option value="/downloads/riboswitches_page/Others.xlsx">Others</option>
+    <option value="/downloads/riboswitches_page/T-box.xlsx">T-box</option>
     <option value="/downloads/riboswitches_page/All_tables.xlsx">all table in this page </option>
   </select>
   <!-- Download button -->
@@ -176,8 +175,8 @@ This section lists all the experimentally validated riboswitches.
       <button class="button" onclick="showSheet('sheet5')">Elemental ions</button>
       <button class="button" onclick="showSheet('sheet6')">Amino acids</button>
       <button class="button" onclick="showSheet('sheet7')">Sugars</button>
-      <button class="button" onclick="showSheet('sheet8')">T-box</button>
-      <button class="button" onclick="showSheet('sheet9')">Others</button>
+      <button class="button" onclick="showSheet('sheet8')">Others</button>
+      <button class="button" onclick="showSheet('sheet9')">T-box</button>
   </div>
         
 <div id="sheet1" class="sheet">
@@ -859,7 +858,7 @@ RF03170</td>
     </table>
 </div>        
         
-<div id="sheet8" class="sheet">
+<div id="sheet9" class="sheet">
     <h2>T-box</h2>
     <table id="tboxtable">
       <thead>
@@ -888,7 +887,7 @@ RF03170</td>
     </table>
 </div>
 
-<div id="sheet9" class="sheet">
+<div id="sheet8" class="sheet">
     <h2>Others</h2>
     <table id="othtable">
       <thead>
@@ -1061,9 +1060,7 @@ function downloadExcel() {
 }
 	
 	
-	
-
-function showSheet(sheetId) {
+	function showSheet(sheetId) {
     // Hide the current sheet
     if (currentSheet) {
         var currentSheetElement = document.getElementById(currentSheet);
@@ -1088,7 +1085,6 @@ function showSheet(sheetId) {
     // Add clicked class to the clicked button using event.target
     event.target.classList.add('clicked');
 }
-
 
   function hideAllSheetsExcept(sheetId) {
     var sheets = document.getElementsByClassName('sheet');
@@ -1145,9 +1141,6 @@ function showSheet(sheetId) {
       }
     }
   }  
-
-
-  
   </script>
         
     </body>
