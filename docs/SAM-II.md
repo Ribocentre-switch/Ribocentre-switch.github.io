@@ -87,7 +87,7 @@ permalink: /docs/SAM-II_clan/
 
     <timelineli class="day">
      <div class="events">
-       <p ><a href="https://pubmed.ncbi.nlm.nih.gov/18204466/" target="_blank">2008</a><sup>[<a href="#ref3">3</a>]</sup>&emsp;Crystal structure of the SAM-II riboswitch</p>
+       <p >Crystal structure of the SAM-II riboswitch&emsp;<a href="https://pubmed.ncbi.nlm.nih.gov/18204466/" target="_blank">2008</a><sup>[<a href="#ref3">3</a>]</sup></p>
      </div>
     </timelineli>
         
@@ -101,7 +101,7 @@ permalink: /docs/SAM-II_clan/
 
     <timelineli class="day">
      <div class="events">
-       <p ><a href="https://pubmed.ncbi.nlm.nih.gov/19776155/" target="_blank">2009</a><sup>[<a href="#ref5">5</a>]</sup>&emsp;The consensus sequence and structure of SAM-V show some similarities to that of the SAM-II riboswitch</p>
+       <p >The consensus sequence and structure of SAM-V show some similarities to that of the SAM-II riboswitch&emsp;<a href="https://pubmed.ncbi.nlm.nih.gov/19776155/" target="_blank">2009</a><sup>[<a href="#ref5">5</a>]</sup></p>
      </div>
     </timelineli>
         
@@ -115,7 +115,7 @@ permalink: /docs/SAM-II_clan/
 
     <timelineli class="day">
      <div class="events">
-       <p ><a href="https://pubmed.ncbi.nlm.nih.gov/21678902/" target="_blank">2011</a><sup>[<a href="#ref7">7</a>]</sup>&emsp;Discussing a recent smFRET study on the SAM-II riboswitch</p>
+       <p >Discussing a recent smFRET study on the SAM-II riboswitch&emsp;<a href="https://pubmed.ncbi.nlm.nih.gov/21678902/" target="_blank">2011</a><sup>[<a href="#ref7">7</a>]</sup></p>
      </div>
     </timelineli>
         
@@ -129,7 +129,7 @@ permalink: /docs/SAM-II_clan/
 
     <timelineli class="day">
      <div class="events">
-       <p ><a href="https://pubmed.ncbi.nlm.nih.gov/22194311/" target="_blank">2012</a><sup>[<a href="#ref9">9</a>]</sup>&emsp;Metabolite recognition and specificity of the SAM-II riboswitch</p>
+       <p >Metabolite recognition and specificity of the SAM-II riboswitch&emsp;<a href="https://pubmed.ncbi.nlm.nih.gov/22194311/" target="_blank">2012</a><sup>[<a href="#ref9">9</a>]</sup></p>
      </div>
     </timelineli>
         
@@ -143,7 +143,7 @@ permalink: /docs/SAM-II_clan/
 
     <timelineli class="day">
      <div class="events">
-       <p ><a href="https://pubmed.ncbi.nlm.nih.gov/26800479/" target="_blank">2016</a><sup>[<a href="#ref12">12</a>]</sup>&emsp;SAM-II riboswitch samples at least two conformations in solution</p>
+       <p >SAM-II riboswitch samples at least two conformations in solution&emsp;<a href="https://pubmed.ncbi.nlm.nih.gov/26800479/" target="_blank">2016</a><sup>[<a href="#ref12">12</a>]</sup></p>
      </div>
     </timelineli>
         
@@ -157,7 +157,7 @@ permalink: /docs/SAM-II_clan/
 
     <timelineli class="day">
      <div class="events">
-       <p ><a href="https://pubmed.ncbi.nlm.nih.gov/29931337/" target="_blank">2018</a><sup>[<a href="#ref14">14</a>]</sup>&emsp;Solved the X-ray structure of SAM-V riboswitch</p>
+       <p >Solved the X-ray structure of SAM-V riboswitch&emsp;<a href="https://pubmed.ncbi.nlm.nih.gov/29931337/" target="_blank">2018</a><sup>[<a href="#ref14">14</a>]</sup></p>
      </div>
     </timelineli>
         

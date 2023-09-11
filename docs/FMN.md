@@ -86,7 +86,7 @@ permalink: /docs/FMN/
 
     <timelineli class="day">
      <div class="events">
-       <p ><a href="https://pubmed.ncbi.nlm.nih.gov/12136096/" target="_blank">2002</a><sup>[<a href="#ref2">2</a>]</sup>&emsp;The model of the RFN element to regulate riboflavin metabolism and transportation</p>
+       <p >The model of the RFN element to regulate riboflavin metabolism and transportation&emsp;<a href="https://pubmed.ncbi.nlm.nih.gov/12136096/" target="_blank">2002</a><sup>[<a href="#ref2">2</a>]</sup></p>
      </div>
     </timelineli>
         
@@ -100,7 +100,7 @@ permalink: /docs/FMN/
 
     <timelineli class="day">
      <div class="events">
-       <p ><a href="https://pubmed.ncbi.nlm.nih.gov/15808508/" target="_blank">2005</a><sup>[<a href="#ref4">4</a>]</sup>&emsp;Assessment of the kinetics of FMN binding to the mRNA  by smFRET</p>
+       <p >Assessment of the kinetics of FMN binding to the mRNA  by smFRET&emsp;<a href="https://pubmed.ncbi.nlm.nih.gov/15808508/" target="_blank">2005</a><sup>[<a href="#ref4">4</a>]</sup></p>
      </div>
     </timelineli>
         
@@ -114,7 +114,7 @@ permalink: /docs/FMN/
 
     <timelineli class="day">
      <div class="events">
-       <p ><a href="https://pubmed.ncbi.nlm.nih.gov/19246992/" target="_blank">2009</a><sup>[<a href="#ref6">6</a>]</sup>&emsp;Roseoflavin a natural antibiotic directly binds to FMN riboswitch and regulates gene expression</p>
+       <p >Roseoflavin a natural antibiotic directly binds to FMN riboswitch and regulates gene expression&emsp;<a href="https://pubmed.ncbi.nlm.nih.gov/19246992/" target="_blank">2009</a><sup>[<a href="#ref6">6</a>]</sup></p>
      </div>
     </timelineli>
         
@@ -128,7 +128,7 @@ permalink: /docs/FMN/
 
     <timelineli class="day">
      <div class="events">
-       <p ><a href="https://pubmed.ncbi.nlm.nih.gov/26169403/" target="_blank">2015</a><sup>[<a href="#ref8">8</a>]</sup>&emsp;Discovery of 5FDQD bound to FMN riboswitch</p>
+       <p >Discovery of 5FDQD bound to FMN riboswitch&emsp;<a href="https://pubmed.ncbi.nlm.nih.gov/26169403/" target="_blank">2015</a><sup>[<a href="#ref8">8</a>]</sup></p>
      </div>
     </timelineli>
         
@@ -142,7 +142,7 @@ permalink: /docs/FMN/
 
     <timelineli class="day">
      <div class="events">
-       <p ><a href="https://pubmed.ncbi.nlm.nih.gov/28265071/" target="_blank">2017</a><sup>[<a href="#ref11">11</a>]</sup>&emsp;Discovery of the variants of the FMN riboswitch</p>
+       <p >Discovery of the variants of the FMN riboswitch&emsp;<a href="https://pubmed.ncbi.nlm.nih.gov/28265071/" target="_blank">2017</a><sup>[<a href="#ref11">11</a>]</sup></p>
      </div>
     </timelineli>
         
@@ -156,7 +156,7 @@ permalink: /docs/FMN/
 
     <timelineli class="day">
      <div class="events">
-       <p ><a href="https://pubmed.ncbi.nlm.nih.gov/34242760/" target="_blank">2021</a><sup>[<a href="#ref15">15</a>]</sup>&emsp;New compounds target the FMN riboswitch for antimycobacterial therapy</p>
+       <p >New compounds target the FMN riboswitch for antimycobacterial therapy&emsp;<a href="https://pubmed.ncbi.nlm.nih.gov/34242760/" target="_blank">2021</a><sup>[<a href="#ref15">15</a>]</sup></p>
      </div>
     </timelineli>
         

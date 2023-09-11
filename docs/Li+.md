@@ -87,7 +87,7 @@ permalink: /docs/Li/
 
     <timelineli class="day">
      <div class="events">
-       <p ><a href="https://pubmed.ncbi.nlm.nih.gov/36352003/" target="_blank">2022</a><sup>[<a href="#ref2">2</a>]</sup>&emsp;The experimental validation of two distinct classes of  Li<sup>+</sup> riboswitches</p>
+       <p >The experimental validation of two distinct classes of  Li<sup>+</sup> riboswitches&emsp;<a href="https://pubmed.ncbi.nlm.nih.gov/36352003/" target="_blank">2022</a><sup>[<a href="#ref2">2</a>]</sup></p>
      </div>
     </timelineli>
         

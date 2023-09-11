@@ -86,7 +86,7 @@ permalink: /docs/Xanthine/
 
     <timelineli class="day">
      <div class="events">
-       <p ><a href="https://pubmed.ncbi.nlm.nih.gov/32345632/" target="_blank">2020</a><sup>[<a href="#ref2">2</a>]</sup>&emsp;Demonstration that NMT1 motif is xanthine-I riboswitch</p>
+       <p >Demonstration that NMT1 motif is xanthine-I riboswitch&emsp;<a href="https://pubmed.ncbi.nlm.nih.gov/32345632/" target="_blank">2020</a><sup>[<a href="#ref2">2</a>]</sup></p>
      </div>
     </timelineli>
         
@@ -100,7 +100,7 @@ permalink: /docs/Xanthine/
 
     <timelineli class="day">
      <div class="events">
-       <p ><a href="https://pubmed.ncbi.nlm.nih.gov/35622895/" target="_blank">2022</a><sup>[<a href="#ref4">4</a>]</sup>&emsp;Discovery of xanthine-II riboswitch</p>
+       <p >Discovery of xanthine-II riboswitch&emsp;<a href="https://pubmed.ncbi.nlm.nih.gov/35622895/" target="_blank">2022</a><sup>[<a href="#ref4">4</a>]</sup></p>
      </div>
     </timelineli>
         

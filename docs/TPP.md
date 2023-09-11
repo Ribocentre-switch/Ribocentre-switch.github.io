@@ -86,7 +86,7 @@ permalink: /docs/TPP/
 
     <timelineli class="day">
      <div class="events">
-       <p ><a href="https://pubmed.ncbi.nlm.nih.gov/12410317/" target="_blank">2002</a><sup>[<a href="#ref3">3</a>]</sup>&emsp;Validation of TPP riboswitch in <i>Escherichia coli</i></p>
+       <p >Validation of TPP riboswitch in <i>Escherichia coli</i>&emsp;<a href="https://pubmed.ncbi.nlm.nih.gov/12410317/" target="_blank">2002</a><sup>[<a href="#ref3">3</a>]</sup></p>
      </div>
     </timelineli>
         
@@ -100,7 +100,7 @@ permalink: /docs/TPP/
 
     <timelineli class="day">
      <div class="events">
-       <p ><a href="https://pubmed.ncbi.nlm.nih.gov/14675766/" target="_blank">2003</a><sup>[<a href="#ref6">6</a>]</sup>&emsp;TPP riboswitch regulates intron splicing to control gene expression in <i>Aspergillus oryzae</i></p>
+       <p >TPP riboswitch regulates intron splicing to control gene expression in <i>Aspergillus oryzae</i>&emsp;<a href="https://pubmed.ncbi.nlm.nih.gov/14675766/" target="_blank">2003</a><sup>[<a href="#ref6">6</a>]</sup></p>
      </div>
     </timelineli>
         
@@ -114,7 +114,7 @@ permalink: /docs/TPP/
 
     <timelineli class="day">
      <div class="events">
-       <p ><a href="https://pubmed.ncbi.nlm.nih.gov/16356850/" target="_blank">2005</a><sup>[<a href="#ref8">8</a>]</sup>&emsp;TPP riboswitches are targets for the antimicrobial compound pyrithiamine</p>
+       <p >TPP riboswitches are targets for the antimicrobial compound pyrithiamine&emsp;<a href="https://pubmed.ncbi.nlm.nih.gov/16356850/" target="_blank">2005</a><sup>[<a href="#ref8">8</a>]</sup></p>
      </div>
     </timelineli>
         
@@ -128,7 +128,7 @@ permalink: /docs/TPP/
 
     <timelineli class="day">
      <div class="events">
-       <p ><a href="https://pubmed.ncbi.nlm.nih.gov/16728979/" target="_blank">2006</a><sup>[<a href="#ref10">10</a>]</sup>&emsp;Crystal structure of the prokaryotic TPP riboswitch</p>
+       <p >Crystal structure of the prokaryotic TPP riboswitch&emsp;<a href="https://pubmed.ncbi.nlm.nih.gov/16728979/" target="_blank">2006</a><sup>[<a href="#ref10">10</a>]</sup></p>
      </div>
     </timelineli>
         
@@ -142,8 +142,8 @@ permalink: /docs/TPP/
 
     <timelineli class="day">
      <div class="events">
-       <p ><a href="https://pubmed.ncbi.nlm.nih.gov/17468745/" target="_blank">2007</a><sup>[<a href="#ref13">13</a>]</sup>&emsp;Mechanism of the TPP riboswitch controlling gene
-expression in  the filamentous fungus</p>
+       <p >Mechanism of the TPP riboswitch controlling gene
+expression in  the filamentous fungus&emsp;<a href="https://pubmed.ncbi.nlm.nih.gov/17468745/" target="_blank">2007</a><sup>[<a href="#ref13">13</a>]</sup></p>
      </div>
     </timelineli>
         
@@ -158,7 +158,7 @@ expression in  plants</p>
 
     <timelineli class="day">
      <div class="events">
-       <p ><a href="https://pubmed.ncbi.nlm.nih.gov/18533652/" target="_blank">2008</a><sup>[<a href="#ref15">15</a>]</sup>&emsp;Crystal structures of the eukaryotic TPP riboswitch bound to OTPP and PTPP</p>
+       <p >Crystal structures of the eukaryotic TPP riboswitch bound to OTPP and PTPP&emsp;<a href="https://pubmed.ncbi.nlm.nih.gov/18533652/" target="_blank">2008</a><sup>[<a href="#ref15">15</a>]</sup></p>
      </div>
     </timelineli>
         
@@ -172,7 +172,7 @@ expression in  plants</p>
 
     <timelineli class="day">
      <div class="events">
-       <p ><a href="https://pubmed.ncbi.nlm.nih.gov/35561226/" target="_blank">2022</a><sup>[<a href="#ref24">24</a>]</sup>&emsp;Small molecule fragments discovery and linked-fragment ligand design in TPP riboswitch</p>
+       <p >Small molecule fragments discovery and linked-fragment ligand design in TPP riboswitch&emsp;<a href="https://pubmed.ncbi.nlm.nih.gov/35561226/" target="_blank">2022</a><sup>[<a href="#ref24">24</a>]</sup></p>
      </div>
     </timelineli>
         

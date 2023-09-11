@@ -86,7 +86,7 @@ permalink: /docs/SAM-SAH/
 
     <timelineli class="day">
      <div class="events">
-       <p ><a href="https://pubmed.ncbi.nlm.nih.gov/30051308/" target="_blank">2018</a><sup>[<a href="#ref3">3</a>]</sup>&emsp;The NMR resonance assignment of the SAM/SAH binding riboswitch (env9b) in complex with SAH</p>
+       <p >The NMR resonance assignment of the SAM/SAH binding riboswitch (env9b) in complex with SAH&emsp;<a href="https://pubmed.ncbi.nlm.nih.gov/30051308/" target="_blank">2018</a><sup>[<a href="#ref3">3</a>]</sup></p>
      </div>
     </timelineli>
         
@@ -100,7 +100,7 @@ permalink: /docs/SAM-SAH/
 
     <timelineli class="day">
      <div class="events">
-       <p ><a href="https://pubmed.ncbi.nlm.nih.gov/32520325/" target="_blank">2020</a><sup>[<a href="#ref5">5</a>]</sup>&emsp;Crystal structure of the SAM/SAH riboswitch</p>
+       <p >Crystal structure of the SAM/SAH riboswitch&emsp;<a href="https://pubmed.ncbi.nlm.nih.gov/32520325/" target="_blank">2020</a><sup>[<a href="#ref5">5</a>]</sup></p>
      </div>
     </timelineli>
         
@@ -114,7 +114,7 @@ permalink: /docs/SAM-SAH/
 
     <timelineli class="day">
      <div class="events">
-       <p ><a href="https://pubmed.ncbi.nlm.nih.gov/36459353/" target="_blank">2023</a><sup>[<a href="#ref7">7</a>]</sup>&emsp;This review summarizes the current research progress on these SAM-related riboswitch families</p>
+       <p >This review summarizes the current research progress on these SAM-related riboswitch families&emsp;<a href="https://pubmed.ncbi.nlm.nih.gov/36459353/" target="_blank">2023</a><sup>[<a href="#ref7">7</a>]</sup></p>
      </div>
     </timelineli>
         

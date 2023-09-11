@@ -86,7 +86,7 @@ permalink: /docs/MoCo&Wco/
 
     <timelineli class="day">
      <div class="events">
-       <p ><a href="https://pubmed.ncbi.nlm.nih.gov/18363797/" target="_blank">2008</a><sup>[<a href="#ref3">3</a>]</sup>&emsp;Biochemical validation of the MoCo and Wco riboswitch</p>
+       <p >Biochemical validation of the MoCo and Wco riboswitch&emsp;<a href="https://pubmed.ncbi.nlm.nih.gov/18363797/" target="_blank">2008</a><sup>[<a href="#ref3">3</a>]</sup></p>
      </div>
     </timelineli>
         
@@ -100,7 +100,7 @@ permalink: /docs/MoCo&Wco/
 
     <timelineli class="day">
      <div class="events">
-       <p ><a href="https://pubmed.ncbi.nlm.nih.gov/23201473/" target="_blank">2013</a><sup>[<a href="#ref5">5</a>]</sup>&emsp;Molybdenum cofactor biosynthesis pathway in <i>E. coli</i></p>
+       <p >Molybdenum cofactor biosynthesis pathway in <i>E. coli</i>&emsp;<a href="https://pubmed.ncbi.nlm.nih.gov/23201473/" target="_blank">2013</a><sup>[<a href="#ref5">5</a>]</sup></p>
      </div>
     </timelineli>
         
@@ -114,7 +114,7 @@ permalink: /docs/MoCo&Wco/
 
     <timelineli class="day">
      <div class="events">
-       <p ><a href="https://pubmed.ncbi.nlm.nih.gov/36774787/" target="_blank">2023</a><sup>[<a href="#ref8">8</a>]</sup>&emsp;The ion-dependent folding and secondary structural features of the ligand-free MoCo riboswitch</p>
+       <p >The ion-dependent folding and secondary structural features of the ligand-free MoCo riboswitch&emsp;<a href="https://pubmed.ncbi.nlm.nih.gov/36774787/" target="_blank">2023</a><sup>[<a href="#ref8">8</a>]</sup></p>
      </div>
     </timelineli>
         

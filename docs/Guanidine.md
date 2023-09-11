@@ -88,7 +88,7 @@ permalink: /docs/Guanidine/
 
     <timelineli class="day">
      <div class="events">
-       <p ><a href="https://pubmed.ncbi.nlm.nih.gov/28001368/" target="_blank">2017</a><sup>[<a href="#ref2">2</a>]</sup>&emsp;Discovery of guanidine-II riboswitch</p>
+       <p >Discovery of guanidine-II riboswitch&emsp;<a href="https://pubmed.ncbi.nlm.nih.gov/28001368/" target="_blank">2017</a><sup>[<a href="#ref2">2</a>]</sup></p>
      </div>
     </timelineli>
         
@@ -102,7 +102,7 @@ permalink: /docs/Guanidine/
 
     <timelineli class="day">
      <div class="events">
-       <p ><a href="https://pubmed.ncbi.nlm.nih.gov/28017522/" target="_blank">2017</a><sup>[<a href="#ref4">4</a>]</sup>&emsp;Crystal structure of guanidine-I riboswitch</p>
+       <p >Crystal structure of guanidine-I riboswitch&emsp;<a href="https://pubmed.ncbi.nlm.nih.gov/28017522/" target="_blank">2017</a><sup>[<a href="#ref4">4</a>]</sup></p>
      </div>
     </timelineli>
         
@@ -116,7 +116,7 @@ permalink: /docs/Guanidine/
 
     <timelineli class="day">
      <div class="events">
-       <p ><a href="https://pubmed.ncbi.nlm.nih.gov/28529131/" target="_blank">2017</a><sup>[<a href="#ref6">6</a>]</sup>&emsp;Crystal structure of guanidine-II riboswitch</p>
+       <p >Crystal structure of guanidine-II riboswitch&emsp;<a href="https://pubmed.ncbi.nlm.nih.gov/28529131/" target="_blank">2017</a><sup>[<a href="#ref6">6</a>]</sup></p>
      </div>
     </timelineli>
         
@@ -130,7 +130,7 @@ permalink: /docs/Guanidine/
 
     <timelineli class="day">
      <div class="events">
-       <p ><a href="https://pubmed.ncbi.nlm.nih.gov/28988949/" target="_blank">2017</a><sup>[<a href="#ref8">8</a>]</sup>&emsp;Crystal structure of guanidine-III riboswitch</p>
+       <p >Crystal structure of guanidine-III riboswitch&emsp;<a href="https://pubmed.ncbi.nlm.nih.gov/28988949/" target="_blank">2017</a><sup>[<a href="#ref8">8</a>]</sup></p>
      </div>
     </timelineli>
         
@@ -144,7 +144,7 @@ permalink: /docs/Guanidine/
 
     <timelineli class="day">
      <div class="events">
-       <p ><a href="https://pubmed.ncbi.nlm.nih.gov/32857846/" target="_blank">2020</a><sup>[<a href="#ref10">10</a>]</sup>&emsp;P1 and P2 hairpins of the guanidine-II riboswitch interact</p>
+       <p >P1 and P2 hairpins of the guanidine-II riboswitch interact&emsp;<a href="https://pubmed.ncbi.nlm.nih.gov/32857846/" target="_blank">2020</a><sup>[<a href="#ref10">10</a>]</sup></p>
      </div>
     </timelineli>
         
@@ -158,7 +158,7 @@ permalink: /docs/Guanidine/
 
     <timelineli class="day">
      <div class="events">
-       <p ><a href="https://pubmed.ncbi.nlm.nih.gov/33237283/" target="_blank">2020</a><sup>[<a href="#ref12">12</a>]</sup>&emsp;Discovery of guanidine-IV riboswitch</p>
+       <p >Discovery of guanidine-IV riboswitch&emsp;<a href="https://pubmed.ncbi.nlm.nih.gov/33237283/" target="_blank">2020</a><sup>[<a href="#ref12">12</a>]</sup></p>
      </div>
     </timelineli>
         
@@ -172,7 +172,7 @@ permalink: /docs/Guanidine/
 
     <timelineli class="day">
      <div class="events">
-       <p ><a href="https://pubmed.ncbi.nlm.nih.gov/35573739/" target="_blank">2022</a><sup>[<a href="#ref14">14</a>]</sup>&emsp;Three-state folding model of the guanidine-II riboswitch</p>
+       <p >Three-state folding model of the guanidine-II riboswitch&emsp;<a href="https://pubmed.ncbi.nlm.nih.gov/35573739/" target="_blank">2022</a><sup>[<a href="#ref14">14</a>]</sup></p>
      </div>
     </timelineli>
         

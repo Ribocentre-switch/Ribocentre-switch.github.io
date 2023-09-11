@@ -86,7 +86,7 @@ permalink: /docs/SAM-III/
 
     <timelineli class="day">
      <div class="events">
-       <p ><a href="https://pubmed.ncbi.nlm.nih.gov/17360376/" target="_blank">2007</a><sup>[<a href="#ref2">2</a>]</sup>&emsp;Translation control mechanism about S(MK)/SAM-III riboswitch</p>
+       <p >Translation control mechanism about S(MK)/SAM-III riboswitch&emsp;<a href="https://pubmed.ncbi.nlm.nih.gov/17360376/" target="_blank">2007</a><sup>[<a href="#ref2">2</a>]</sup></p>
      </div>
     </timelineli>
         
@@ -100,7 +100,7 @@ permalink: /docs/SAM-III/
 
     <timelineli class="day">
      <div class="events">
-       <p ><a href="https://pubmed.ncbi.nlm.nih.gov/20614931/" target="_blank">2010</a><sup>[<a href="#ref4">4</a>]</sup>&emsp;Atomic level understanding of the ligand recognition mechanism of SAM-III riboswitch</p>
+       <p >Atomic level understanding of the ligand recognition mechanism of SAM-III riboswitch&emsp;<a href="https://pubmed.ncbi.nlm.nih.gov/20614931/" target="_blank">2010</a><sup>[<a href="#ref4">4</a>]</sup></p>
      </div>
     </timelineli>
         
@@ -114,7 +114,7 @@ permalink: /docs/SAM-III/
 
     <timelineli class="day">
      <div class="events">
-       <p ><a href="https://pubmed.ncbi.nlm.nih.gov/21549712/" target="_blank">2011</a><sup>[<a href="#ref6">6</a>]</sup>&emsp;Probe the ligand-induced conformational switching mechanism of SAM-III riboswitch</p>
+       <p >Probe the ligand-induced conformational switching mechanism of SAM-III riboswitch&emsp;<a href="https://pubmed.ncbi.nlm.nih.gov/21549712/" target="_blank">2011</a><sup>[<a href="#ref6">6</a>]</sup></p>
      </div>
     </timelineli>
         
@@ -128,7 +128,7 @@ permalink: /docs/SAM-III/
 
     <timelineli class="day">
      <div class="events">
-       <p ><a href="https://pubmed.ncbi.nlm.nih.gov/36440874/" target="_blank">2022</a><sup>[<a href="#ref10">10</a>]</sup>&emsp;Gaussian-accelerated molecular dynamics simulations were performed to decipher the identification mechanisms of SAM-III (SMK) on ligands SAM, SAH, and EEM</p>
+       <p >Gaussian-accelerated molecular dynamics simulations were performed to decipher the identification mechanisms of SAM-III (SMK) on ligands SAM, SAH, and EEM&emsp;<a href="https://pubmed.ncbi.nlm.nih.gov/36440874/" target="_blank">2022</a><sup>[<a href="#ref10">10</a>]</sup></p>
      </div>
     </timelineli>
         

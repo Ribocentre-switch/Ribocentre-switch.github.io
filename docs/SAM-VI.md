@@ -86,7 +86,7 @@ permalink: /docs/SAM-VI/
 
     <timelineli class="day">
      <div class="events">
-       <p ><a href="https://pubmed.ncbi.nlm.nih.gov/31844059/" target="_blank">2019</a><sup>[<a href="#ref2">2</a>]</sup>&emsp;Crystal structure of SAM-VI riboswitch</p>
+       <p >Crystal structure of SAM-VI riboswitch&emsp;<a href="https://pubmed.ncbi.nlm.nih.gov/31844059/" target="_blank">2019</a><sup>[<a href="#ref2">2</a>]</sup></p>
      </div>
     </timelineli>
         
@@ -100,7 +100,7 @@ permalink: /docs/SAM-VI/
 
     <timelineli class="day">
      <div class="events">
-       <p ><a href="https://pubmed.ncbi.nlm.nih.gov/36459353/" target="_blank">2023</a><sup>[<a href="#ref4">4</a>]</sup>&emsp;This review summarizes the current research progress on these SAM-related riboswitch families</p>
+       <p >This review summarizes the current research progress on these SAM-related riboswitch families&emsp;<a href="https://pubmed.ncbi.nlm.nih.gov/36459353/" target="_blank">2023</a><sup>[<a href="#ref4">4</a>]</sup></p>
      </div>
     </timelineli>
         

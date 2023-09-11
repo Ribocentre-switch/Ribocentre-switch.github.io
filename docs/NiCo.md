@@ -86,7 +86,7 @@ permalink: /docs/NiCo/
 
     <timelineli class="day">
      <div class="events">
-       <p ><a href="https://pubmed.ncbi.nlm.nih.gov/32250107/" target="_blank">2020</a><sup>[<a href="#ref2">2</a>]</sup>&emsp;The NiCo riboswitch can respond to multiple divalent transition metals, including Fe<sup>II</sup></p>
+       <p >The NiCo riboswitch can respond to multiple divalent transition metals, including Fe<sup>II</sup>&emsp;<a href="https://pubmed.ncbi.nlm.nih.gov/32250107/" target="_blank">2020</a><sup>[<a href="#ref2">2</a>]</sup></p>
      </div>
     </timelineli>
         
@@ -100,7 +100,7 @@ permalink: /docs/NiCo/
 
     <timelineli class="day">
      <div class="events">
-       <p ><a href="https://pubmed.ncbi.nlm.nih.gov/35427920/" target="_blank">2022</a><sup>[<a href="#ref4">4</a>]</sup>&emsp;To review the evidence that the primary function of the NiCo riboswitch is response to iron</p>
+       <p >To review the evidence that the primary function of the NiCo riboswitch is response to iron&emsp;<a href="https://pubmed.ncbi.nlm.nih.gov/35427920/" target="_blank">2022</a><sup>[<a href="#ref4">4</a>]</sup></p>
      </div>
     </timelineli>
         

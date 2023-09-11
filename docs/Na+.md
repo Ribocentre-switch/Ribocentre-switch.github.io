@@ -86,7 +86,7 @@ permalink: /docs/Na/
 
     <timelineli class="day">
      <div class="events">
-       <p ><a href="https://pubmed.ncbi.nlm.nih.gov/35879547/" target="_blank">2022</a><sup>[<a href="#ref2">2</a>]</sup>&emsp;Identify the DUF1646 motif as a Na+ riboswitch</p>
+       <p >Identify the DUF1646 motif as a Na+ riboswitch&emsp;<a href="https://pubmed.ncbi.nlm.nih.gov/35879547/" target="_blank">2022</a><sup>[<a href="#ref2">2</a>]</sup></p>
      </div>
     </timelineli>
         
