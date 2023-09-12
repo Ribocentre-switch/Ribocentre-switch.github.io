@@ -1,0 +1,504 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>HMP-PP</title>
+  <meta name="description" content="Ribo centre is a database of ribozymes.
+">
+  <!--<link rel="stylesheet" href="http://localhost:4003/css/main.css>-->
+  <link rel="stylesheet" href="/css/main.css">
+  <link rel="canonical" href="http://localhost:4003/docs/HMP-PP/">
+  <link rel="shortcut icon" type ="image/x-icon" href="http://localhost:4003/images/favicon.ico">
+
+
+
+</head>
+
+
+  <body>
+    
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  
+<div class="navbar navbar-default navbar-fixed-top" role="navigation">
+  <style>
+		.navbar-default .navbar-brand {
+    color: #ffffff;
+		}
+        .navbar {
+            background-color: #005826;
+        }
+		#now a{
+			color:#fff;
+			font-size: 20px;
+		}
+		#now a:hover{
+			font-size: 20px;
+		}
+	
+		
+	li {
+		float: left;
+	}
+
+	li a {
+		display: block;
+		color: rgb(254, 247, 247);
+		text-align: center;
+		padding: 14px 16px;
+		text-decoration: none;
+	}
+
+	li a:hover:not(.active) {
+		background-color: #005826;
+	}
+
+	li a.active {
+		background-color: #000000;
+}
+
+</style>
+
+
+
+  <div class="container-fluid2">
+	<div class="navbar-header">
+	  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse-1" aria-expanded="false">
+		<span class="sr-only">Toggle navigation</span>
+		<span class="icon-bar"></span>
+		<span class="icon-bar"></span>
+		<span class="icon-bar"></span>
+	  </button>
+	
+    <a class="navbar-brand" href="https://riboswitch.ribocentre.org/">
+		
+		<img class="navbar-brand" src="/images/Riboswitch_logo_bggreen.png" style='height:50px;margin-top:-14px;margin-bottom:0;padding:0;font-size: 20px; ' alt="logo">
+		&nbsp;Ribocentre-switch 
+	</a>
+	</div>
+	<div class="collapse navbar-collapse" id="navbar-collapse-1">
+	  <ul class="nav navbar-nav navbar-right" style="margin-right: 0px;">
+		<li id="now" ><a href="http://localhost:4003/">Home</a></li>
+		<li id="now"><a href="http://localhost:4003/riboswitches/">Riboswitches</a></li>
+		<li id="now"><a href="http://localhost:4003/tandom_riboswitches/">Tandem RS</a></li>
+		<li id="now"><a href="http://localhost:4003/orphan_riboswitch/">Orphan RS</a></li>
+		<li id="now"><a href="http://localhost:4003/sequences/">Sequences</a></li>
+		<li id="now"><a href="http://localhost:4003/structures/">Structures</a></li>
+		<li id="now"><a href="http://localhost:4003/binding_pockets/">Binding pockets</a></li>
+		<li id="now"><a href="http://localhost:4003/applications/">Applications</a></li>
+		<li id="now"><a href="http://localhost:4003/publications/">Publications</a></li>
+		<li id="now"><a href="http://localhost:4003/helps/">Help</a></li>
+	  </ul>
+	  <script>
+		window.addEventListener("DOMContentLoaded", function() {
+		  // 获取当前页面的URL
+		  var currentURL = window.location.href;
+		  
+		  // 获取所有导航按钮
+		  var navButtons = document.querySelectorAll("li a");
+		  
+		  // 遍历导航按钮
+		  navButtons.forEach(function(button) {
+				// 获取按钮的链接
+				var buttonURL = button.href;
+				
+				// 比较URL是否与当前页面的URL匹配
+				if (currentURL === buttonURL) {
+				  // 设置匹配的按钮为激活状态
+				  button.classList.add("active");
+				}
+		  });
+		});
+		</script>
+	  
+				
+   </div>
+  </div>
+</div>
+    
+      <div class="container-fluid">
+        <div class="row">
+          <style>
+  .box_style{
+    background: #f4f4f4;
+  }
+  .wrapper {
+    display: block;
+    position: relative;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    text-align: left;
+    word-wrap: break-word;
+    }
+  .sectiontitle {
+    display: block;
+    max-width: 71%;
+    margin: 0 auto ;
+    text-align: left;
+    background :#fff;
+    }
+</style>
+<div class="wrapper box_style" >
+  <section class="sectiontitle"> 
+    <article class="post" itemscope itemtype="http://schema.org/BlogPosting" >
+    <div class="well" style="border: 1px solid #C9C9C9; background-color: #fff;">
+      <div class="post-content" itemprop="articleBody">
+        <header class="post-header">
+          <h1 class="post-title" itemprop="name headline">HMP-PP</h1>
+          <p class="post-meta"><time datetime="2023-03-19T08:00:00+08:00" itemprop="datePublished">Mar 19, 2023</time> • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">Xiaowei Lin, Yuanyin Huang</span></span></p>
+        </header>
+      
+        <p style="font-size: 24px"><strong>Rfam ID: <a href="https://rfam.xfam.org/family/nan" target="_blank">nan</a></strong> (nan)<br /></p>
+
+<p><br /></p>
+<html>
+<head>
+  <title>横向排列的点击按钮</title>
+  <style>
+    /* 按钮容器样式 */
+    .button-container {
+      display: flex;
+      justify-content: left;
+      align-items: center;
+      height: 50px;
+    }
+    
+    /* 按钮样式 */
+    .button {
+      display: block;
+      padding: 10px;
+      font-size:24px;
+      margin-right: 10px;
+      text-align: center;
+      background-color: #efefef;
+      color: #005826;
+      text-decoration: none;
+      border: 1px solid #005826;
+      border-radius: 5px;
+    }
+    
+    /* 鼠标悬停样式 */
+    .button:hover {
+      background-color: #999;
+      cursor: pointer;
+    }
+  </style>
+</head>
+<body>
+  <p style="font-size: 16px">Click the buttons to navigate to different sections:</p>
+  
+  <div class="button-container">
+    <a class="button" href="#timeline">Timeline</a>
+    <a class="button" href="#description">Description</a>
+    <a class="button" href="#Structure and Ligand recognition">Structure&amp;recognition</a>
+    <a class="button" href="#references">References</a>
+  </div>
+</body>
+</html>
+
+<html lang="zh-cn">
+<head>
+<meta charset="utf-8" /> 
+<style>
+  .header_box {
+    border: none;
+    background: #efefef;
+    font-size:24px
+  }
+  blockquote {
+  margin: 0 0 0px;
+  }
+</style>
+</head>
+<p><br /></p>
+<p class="header_box" id="timeline">Timeline</p>
+<div class="timeline">
+  <div class="year">
+    <div class="inner">
+      <span>Start</span>
+    </div>
+  </div>
+  <ul class="days">
+          
+    <timelineli class="day">
+     <div class="events">
+       <p><a href="https://pubmed.ncbi.nlm.nih.gov/30902049/" target="_blank">2019</a><sup>[<a href="#ref2">2</a>]</sup>&emsp;Discovery of HMP-PP riboswitch</p>
+     </div>
+    </timelineli>
+        
+
+    <timelineli class="day">
+     <div class="events">
+       <p>Bioinformatic and biochemical validation of the ligand for the HMP-PP riboswitch&emsp;<a href="https://pubmed.ncbi.nlm.nih.gov/30950790/" target="_blank">2019</a><sup>[<a href="#ref3">3</a>]</sup></p>
+     </div>
+    </timelineli>
+        
+
+  </ul>
+  <div class="year year--end">
+    <div class="inner">
+      <span>2023...</span>
+    </div>
+  </div>
+</div>
+</html>
+<p><br /><br /></p>
+
+<font><p class="header_box" id="description">Description</p></font>
+<font>HMP-PP riboswitches are a class of homologous RNAs in certain bacteria that function as sensors of the thiamin precursor HMP-PP, which is fused with HET-P ultimately to form the final active coenzyme thiamin pyrophosphate (TPP). The HMP-PP riboswitch was initially named as the ‘thiS motif' because of its frequent association with a gene coding for the ThiS protein, which delivers sulfur to form the thiazole moiety of the thiamin precursor HET-P, which was firstly reported by using a computational approach to identify new riboswitches in bacteria in 2019. Unlike with many other riboswitches,the small ligand sensing aptamer of the HMP-PP riboswitch was embedded within a terminator, rather than being a separate entity. The 3D structure of the HMP-PP riboswitch has not been solved yet<sup>[<a href="#ref2">2</a>-<a href="#ref3">3</a>]</sup>.</font>
+<p><br /></p>
+
+<blockquote>
+  <p>Gene association</p>
+</blockquote>
+
+<font><p>Typical biosynthetic pathways of <i>Clostridium</i> species for the pyrimidine and thiazole moieties of thiamin, and their eventual conversion into the enzyme cofactor thiamin pyrophosphate (TPP). Genes coding for the enzymes involved in HET transport and catalysis of various biosynthetic steps are showed. The genes colored in red are associated with the HMP-PP riboswitch<sup>[<a href="#ref1">1</a>-<a href="#ref3">3</a>]</sup>.</p></font>
+<table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;">
+<tr>
+<td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
+  <img src="/images/gene_association/HMP-PP_riboswitch_gene_association.svg" alt="drawing" style="width:1000px;margin-top: 0px;margin-bottom: 0px;" />
+</td>
+</tr>
+</table>
+<p><br /></p>
+
+<blockquote>
+  <p>Gene regulation</p>
+</blockquote>
+
+<font><p>Potential mechanism of transcription termination regulation for the <i>Clostridium</i> species HMP-PP riboswitch. The shaded nucleotides highlight possible base-pairs of the predicted pseudoknot. Complementary sequences and alternate base-pairing are shown in blue. We present the  prototypical mechanism, but not all possible mechanisms<sup>[<a href="#ref3">3</a>]</sup>.</p></font>
+<table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;"><tr>
+  <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
+  <img src="/images/gene_regulation/HMP-PP_riboswitch_gene_regulation.svg" alt="drawing" style="width:1000px;margin-top: 0px;margin-bottom: 0px;" />
+  </td>
+</tr>
+</table>
+<p><br /><br /></p>
+
+<p class="header_box" id="Structure and Ligand recognition">Structure and Ligand recognition</p>
+<blockquote>
+  <p>2D representation</p>
+</blockquote>
+
+<font><p>Top: The consensus models and two possible secondary structure models based on 400 representatives for the HMP-PP riboswitch. Bottom: Sequence and predicted secondary structure of the HMP-PP riboswitch of <i>Clostridium</i> species. The structural model is depicted in its presumed ‘ON' state, where the shaded nucleotides highlight possible base-pairs of the predicted pseudoknot. Red nucleotides are &gt;97% conserved as depicted in the HMP-PP riboswitch consensus model<sup>[<a href="#ref2">2</a>-<a href="#ref3">3</a>]</sup>.</p></font>
+<font><p>nan (Sequence from bottom structure )</p><br /></font>
+<html>
+<div>
+    <div class="entry-content clearfix" itemprop="articleBody description" style="overflow: auto;">
+        <div style="display: flex; justify-content: center;">
+        <div>
+        <div id="image-caption" style="text-align: left; margin-left: 20px;"></div>
+            <table class="clear" cellspacing="5" style="border-spacing: 0; margin: 0 auto;">
+                <tr>
+                    <td style="border: 1px solid black;width:800px">
+                        <div id="layer_pdb" style="display: block">
+                            <a id="image-link0" href="#" title="">
+                                <div id="zoom-wrapper0" class="zoom-wrapper0">
+                                    <div id="zoom-area0" class="zoom-area0">
+                                        <img id="image-preview0" src="#" height="500" />
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                    </td>
+                    <td class="left" style="border: none; padding: 0; vertical-align: top">
+                        <div class="image-wrapper" style="margin-bottom: 40px;">
+                            <img id="image-a0" src="/images/2D/HMP-PP_riboswitch_2D1.svg" width="200" style="border: 1px solid black; cursor: zoom-in;margin-top: 0px;margin-bottom: 0px;" alt="big.png" />
+                            <div class="button-wrapper">
+                                <a class="btn " href="javascript:showImage0('/images/2D/HMP-PP_riboswitch_2D1.svg');">&lt;&lt; Switch to</a>
+                            </div>
+                        </div>
+                        <div class="image-wrapper">
+                            <img id="image-b" src="/images/2D/HMP-PP_riboswitch_2D2.svg" width="200" style="border: 1px solid black; cursor: zoom-in;margin-top: 0px;margin-bottom: 0px;" alt="down.png" />
+                            <div class="button-wrapper">
+                                <a class="btn " href="javascript:showImage0('/images/2D/HMP-PP_riboswitch_2D2.svg');">&lt;&lt; Switch to</a>
+                            </div>
+                        </div>
+                    </td>
+                </tr>
+            </table>
+        </div>
+        </div>
+    </div>
+</div>
+
+<style>
+    .image-wrapper {
+        display: block;
+        text-align: center;
+        margin-bottom: 20px;
+    }
+
+    .button-wrapper {
+        text-align: left;
+    }
+
+    .btn {
+      
+      padding: 10px;
+      font-size:16px;
+      margin-right: 10px;
+      text-align: left;
+      background-color: #efefef;
+      color: #005826;
+      text-decoration: none;
+      font-weight: bold;
+      border: 1px solid #005826;
+      border-radius: 5px;
+      
+    }
+    /* 鼠标悬停样式 */
+    .btn:hover {
+      color: #005826;
+      background-color: #999;
+      cursor: pointer;
+    }
+    
+    
+
+    .zoom-wrapper0 {
+        width: 800px;
+        border: 1px solid #fff;
+        overflow: hidden;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    
+</style>
+
+<script src="https://www.ribocentre.org/js/panzoom.js"></script>
+<script type="text/javascript">
+    function showImage0(imageUrl) {
+        var imagePreview = document.getElementById("image-preview0");
+        var imageLink = document.getElementById("image-link0");
+        var imageCaption = document.getElementById("image-caption");
+
+        imagePreview.src = imageUrl;
+        imageLink.href = imageUrl;
+
+       
+    }
+
+    window.addEventListener('DOMContentLoaded', (event) => {
+        var imagePreview = document.getElementById("image-preview0");
+        var imageLink = document.getElementById("image-link0");
+        var rightImage = document.getElementById("image-a0");
+
+        imagePreview.src = rightImage.src;
+        imageLink.href = rightImage.src;
+        
+        var zoomArea = document.getElementById("zoom-area0");
+        var panzoom = Panzoom(zoomArea, {
+            maxScale: 6,
+        });
+        zoomArea.addEventListener("wheel", function(e) {
+            e.preventDefault();
+            panzoom.zoomWithWheel(e);
+        });
+        panzoom.zoom(0.8);
+    });
+</script>
+</html>
+<p><br /></p>
+
+<blockquote>
+  <p>Ligand recognition</p>
+</blockquote>
+
+<font><p>Chemical structures of hydroxymethyl-pyrimidine pyrophosphate (HMP-PP) and its precursors. The apparent K<sub>D</sub>  of each compound is shown on bottom. Refer to the corresponding references for comprehensive details regarding reaction conditions and species information in measuring the dissociation constant displayed below. Refer to the corresponding references for comprehensive details regarding reaction conditions and species information in measuring the dissociation constant displayed below<sup>[<a href="#ref3">3</a>]</sup>.</p></font>
+<table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;">
+<tr>
+<td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
+  <img src="/images/ligand_recognition/HMP-PP_riboswitch_ligand_recognition.svg" alt="drawing" style="width:1000px;margin-top: 0px;margin-bottom: 0px;" />
+</td>
+</tr>
+</table>
+<p><br /><br /></p>
+
+<p class="header_box" id="references">References</p>
+
+<p><a id="ref1"></a><font><strong>[1] Thiamin biosynthesis in prokaryotes.</strong></font><br />
+Begley, T. P. et al.<br />
+<a href="https://pubmed.ncbi.nlm.nih.gov/10382260/" target="_blank">Arch. Microbiol. 171, (1999).</a>
+<br /></p>
+
+<p><a id="ref2"></a><font><strong>[2] Genome-wide discovery of structured noncoding RNAs in bacteria.</strong></font><br />
+Stav, S. et al.<br />
+<a href="https://pubmed.ncbi.nlm.nih.gov/30902049/" target="_blank">BMC Microbiol. 19, (2019).</a>
+<br /></p>
+
+<p><a id="ref3"></a><font><strong>[3] A bacterial riboswitch class for the thiamin precursor HMP-PP employs a terminator-embedded aptamer.</strong></font><br />
+Atilho, R. M., Mirihana, A. G., Greenlee, E. B., Knecht, K. M. &amp; Breaker, R. R.<br />
+<a href="https://pubmed.ncbi.nlm.nih.gov/30950790/" target="_blank">Elife 8, (2019).</a>
+<br /></p>
+
+
+      </div>
+    </div>
+    </article>
+  </section>
+</div>
+<script>
+  // Use JavaScript to detect device type and adjust page zoom
+  if (/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)) {
+    var viewport = document.querySelector('meta[name="viewport"]');
+    viewport.setAttribute('content', 'width=device-width, initial-scale=0.5, maximum-scale=1.0, user-scalable=yes');
+    document.body.style.zoom = "50%";
+  }
+</script>
+
+
+
+
+        </div>
+      </div>
+    <div id="footer" class="panel">
+  <div class="panel-footer">
+	<!--<div class="container-fluid2">-->
+	<div class="container-fluid2">
+	  <div class="row">
+		<div class="col-sm-4">
+			
+		  <p>&copy 2023 Ribocentre. Site made with <a href="https://jekyllrb.com">Jekyll</a>;  <a href="https://www.ribocentre.org/aboutwebsite.html">copy and  modify it for your own research group.</a></p>
+              <p>We are part of the <a href="https://gzlab.ac.cn">Guangzhou Laboratory</a> and <a href="http://www.gzsys.org.cn/">Sun Yat-sen Memorial Hospital of Sun Yat-sen University</a>.</p>
+            
+
+		   <p>  </p><p>
+            		  
+            
+		</div>
+		<div class="col-sm-4">
+		  Funding:<br />
+		  - <a href="https://www.nsfc.gov.cn/">NSFC</a> <br />
+		  - <a href="http://www.most.gov.cn/">MOST IT+BT project</a> <br />
+          - <a href="https://gzlab.ac.cn">GZlab starting grant</a><br />
+		  <br>
+		  <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+		  <!--<span class="glyphicon glyphicon-user"></span>&nbsp;&nbsp;<span id="busuanzi_container_site_uv"><strong>: <a href=""><span id="busuanzi_value_site_uv"></span></strong></a> </span> &nbsp;&nbsp;
+		  !--><span class="glyphicon glyphicon-eye-open"></span>&nbsp;&nbsp;<span id="busuanzi_container_site_pv"><strong>: <a href=""><span id="busuanzi_value_site_pv"></span></strong></a> </span>
+
+		</div>
+		<div class="col-sm-4">
+		  Contact:<br />
+		  Building B2, Guangzhou Laboratory<br />
+		  96 Xingdao South Road, Guangzhou International Bio Island, <br />
+		  Haizhu District, Guangzhou, Guangdong,<br />
+		  China. <br />
+          (<a href="https://goo.gl/maps/hDLr6siEAS2Eaypt8">Maps</a>)
+		</div>
+	  </div>
+	</div>
+  </div>
+</div>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<script src="https://www.ribocentre.org/js/bootstrap.min.js"></script>
+
+
+  </body>
+
+</html>
