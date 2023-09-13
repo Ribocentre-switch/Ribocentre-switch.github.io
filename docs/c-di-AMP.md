@@ -86,56 +86,56 @@ permalink: /docs/c-di-AMP/
 
     <timelineli class="day">
      <div class="events">
-       <p >Crystal Structure of the G20A/C92U mutant c-di-GMP riboswith bound to c-di-AMP&emsp;<a href="https://pubmed.ncbi.nlm.nih.gov/20690679/" target="_blank">2010</a><sup>[<a href="#ref2">2</a>]</sup></p>
+       <p >The ydaO motif specifically bound ATP&emsp;<a href="https://pubmed.ncbi.nlm.nih.gov/23086297/" target="_blank">2012</a><sup>[<a href="#ref3">3</a>]</sup></p>
      </div>
     </timelineli>
         
 
     <timelineli class="day">
      <div class="events">
-       <p ><a href="https://pubmed.ncbi.nlm.nih.gov/23086297/" target="_blank">2012</a><sup>[<a href="#ref3">3</a>]</sup>&emsp;The ydaO motif specifically bound ATP</p>
+       <p ><a href="https://pubmed.ncbi.nlm.nih.gov/24141192/" target="_blank">2013</a><sup>[<a href="#ref4">4</a>]</sup>&emsp;c-di-AMP is the real ligand of ydaO motif</p>
      </div>
     </timelineli>
         
 
     <timelineli class="day">
      <div class="events">
-       <p >c-di-AMP is the real ligand of ydaO motif&emsp;<a href="https://pubmed.ncbi.nlm.nih.gov/24141192/" target="_blank">2013</a><sup>[<a href="#ref4">4</a>]</sup></p>
+       <p >Crystal structure of the <i>Thermoanaerobacter tengcongensis</i> c-di-AMP riboswitch binding with c-di-AMP&emsp;<a href="https://pubmed.ncbi.nlm.nih.gov/25086509/" target="_blank">2014</a><sup>[<a href="#ref5">5</a>]</sup></p>
      </div>
     </timelineli>
         
 
     <timelineli class="day">
      <div class="events">
-       <p ><a href="https://pubmed.ncbi.nlm.nih.gov/25086509/" target="_blank">2014</a><sup>[<a href="#ref5">5</a>]</sup>&emsp;Structure of ydao riboswitch binding with c-di-AMP</p>
+       <p ><a href="https://pubmed.ncbi.nlm.nih.gov/25086507/" target="_blank">2014</a><sup>[<a href="#ref6">6</a>]</sup>&emsp;Crystal structures of the c-di-AMP riboswitch from <i>Thermoanaerobacter pseudethanolicus</i> and <i>Thermovirga lienii</i></p>
      </div>
     </timelineli>
         
 
     <timelineli class="day">
      <div class="events">
-       <p >Thermoanaerobacter pseudethanolicus c-di-AMP riboswitch&emsp;<a href="https://pubmed.ncbi.nlm.nih.gov/25086507/" target="_blank">2014</a><sup>[<a href="#ref6">6</a>]</sup></p>
+       <p >Crystal structure of the  <i>Bacillus subtilis</i> c-di-AMP riboswitch&emsp;<a href="https://pubmed.ncbi.nlm.nih.gov/25271255/" target="_blank">2014</a><sup>[<a href="#ref7">7</a>]</sup></p>
      </div>
     </timelineli>
         
 
     <timelineli class="day">
      <div class="events">
-       <p ><a href="https://pubmed.ncbi.nlm.nih.gov/25271255/" target="_blank">2014</a><sup>[<a href="#ref7">7</a>]</sup>&emsp;Crystal structure of Bacillus subtilis c-di-AMP riboswitch ydaO</p>
+       <p ><a href="https://pubmed.ncbi.nlm.nih.gov/31044176/" target="_blank">2019</a><sup>[<a href="#ref8">8</a>]</sup>&emsp;The combination of c-di-AMP and riboswitch promotes the internal termination of blocking kdpFABC transcription</p>
      </div>
     </timelineli>
         
 
     <timelineli class="day">
      <div class="events">
-       <p >The combination of c-di-AMP and riboswitch promotes the internal termination of blocking kdpFABC transcription&emsp;<a href="https://pubmed.ncbi.nlm.nih.gov/31044176/" target="_blank">2019</a><sup>[<a href="#ref8">8</a>]</sup></p>
+       <p >Structure of Human pir-miRNA-202 Apical Loop and One-base-pair Fused to the c-di-AMP riboswitch Scaffold&emsp;<a href="https://doi.org/10.1101/2020.05.05.078014" target="_blank">2020</a><sup>[<a href="#ref9">9</a>]</sup></p>
      </div>
     </timelineli>
         
 
     <timelineli class="day">
      <div class="events">
-       <p ><a href="https://pubmed.ncbi.nlm.nih.gov/36838266/" target="_blank">2023</a><sup>[<a href="#ref9">9</a>]</sup>&emsp;c-di-AMP riboswitch may affect the translation of downstream genes</p>
+       <p ><a href="https://pubmed.ncbi.nlm.nih.gov/36838266/" target="_blank">2023</a><sup>[<a href="#ref10">10</a>]</sup>&emsp;c-di-AMP riboswitch may affect the translation of downstream genes</p>
      </div>
     </timelineli>
         
@@ -616,7 +616,12 @@ Wang, X. et al.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/31044176/" target="_blank">Commun Biol 2, 151 (2019).</a>
 <br />
                 
-<a id="ref9"></a><font><strong>[9] C-di-AMP Is a Second Messenger in Corynebacterium glutamicum That Regulates Expression of a Cell Wall-Related Peptidase via a Riboswitch.</strong></font><br />
+<a id="ref9"></a><font><strong>[9] Structures of microRNA-precursor apical junctions and loops reveal noncanonical base pairs important for processing</strong></font><br />
+Shoffner, G.M., Peng, Z., Guo, F.<br />
+<a href="https://doi.org/10.1101/2020.05.05.078014" target="_blank">bioRxiv; 2020.</a>
+<br />
+                
+<a id="ref10"></a><font><strong>[10] C-di-AMP Is a Second Messenger in Corynebacterium glutamicum That Regulates Expression of a Cell Wall-Related Peptidase via a Riboswitch.</strong></font><br />
 Reich, S. J. et al.<br />
 <a href="https://pubmed.ncbi.nlm.nih.gov/36838266/" target="_blank">Microorganisms 11, (2023).</a>
 <br />
