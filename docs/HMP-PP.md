@@ -79,7 +79,7 @@ permalink: /docs/HMP-PP/
           
     <timelineli class="day">
      <div class="events">
-       <p ><a href="https://pubmed.ncbi.nlm.nih.gov/30902049/" target="_blank">2019</a><sup>[<a href="#ref2">2</a>]</sup>&emsp;Discovery of HMP-PP riboswitch</p>
+       <p ><a href="https://pubmed.ncbi.nlm.nih.gov/30902049/" target="_blank">2019</a><sup>[<a href="#ref2">2</a>]</sup>&emsp;Discovery of HMP-PP riboswitch by genome-wide search</p>
      </div>
     </timelineli>
         

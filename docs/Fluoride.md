@@ -79,7 +79,7 @@ permalink: /docs/Fluoride/
           
     <timelineli class="day">
      <div class="events">
-       <p ><a href="https://pubmed.ncbi.nlm.nih.gov/20230605/" target="_blank">2010</a><sup>[<a href="#ref1">1</a>]</sup>&emsp;Discovery of <i>crcB</i> motif</p>
+       <p ><a href="https://pubmed.ncbi.nlm.nih.gov/20230605/" target="_blank">2010</a><sup>[<a href="#ref1">1</a>]</sup>&emsp;Discovery of <i>crcB</i> motif by comparative genomics-based approach</p>
      </div>
     </timelineli>
         

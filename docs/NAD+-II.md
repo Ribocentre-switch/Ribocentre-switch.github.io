@@ -79,7 +79,7 @@ permalink: /docs/NAD2/
           
     <timelineli class="day">
      <div class="events">
-       <p ><a href="https://pubmed.ncbi.nlm.nih.gov/33970790/" target="_blank">2021</a><sup>[<a href="#ref1">1</a>]</sup>&emsp;Discovery of NAD<sup>+</sup>-II riboswitch</p>
+       <p ><a href="https://pubmed.ncbi.nlm.nih.gov/33970790/" target="_blank">2021</a><sup>[<a href="#ref1">1</a>]</sup>&emsp;Discovery of NAD<sup>+</sup>-II riboswitch by comparative sequence analysis</p>
      </div>
     </timelineli>
         

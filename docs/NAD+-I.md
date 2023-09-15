@@ -79,7 +79,7 @@ permalink: /docs/NAD/
           
     <timelineli class="day">
      <div class="events">
-       <p ><a href="https://pubmed.ncbi.nlm.nih.gov/28977401/" target="_blank">2017</a><sup>[<a href="#ref1">1</a>]</sup>&emsp;Discovery of NAD<sup>+</sup>-I riboswitch</p>
+       <p ><a href="https://pubmed.ncbi.nlm.nih.gov/28977401/" target="_blank">2017</a><sup>[<a href="#ref1">1</a>]</sup>&emsp;Discovery of NAD<sup>+</sup>-I riboswitch by comparative genomics analyses</p>
      </div>
     </timelineli>
         

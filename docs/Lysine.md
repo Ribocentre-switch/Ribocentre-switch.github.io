@@ -217,7 +217,7 @@ permalink: /docs/Lysine/
                  
 > Gene regulation
                 
-<font><p>Potential mechanism of gene regulation by lysine riboswitch in <i>B. subtilis</i> (Top) and <i>E. coli</i> (Bottom). RBS denotes ribosome binding site. We present the  prototypical mechanism, but not all possible mechanisms<sup>[<a href="#ref2">2</a>]</sup>.</p></font>
+<font><p>Potential mechanism of translation regulation by lysine riboswitch in <i>B. subtilis</i> (Top) and <i>E. coli</i> (Bottom). RBS denotes ribosome binding site. We present the  prototypical mechanism, but not all possible mechanisms<sup>[<a href="#ref2">2</a>,<a href="#ref3">3</a>]</sup>.</p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
   <img src="/images/gene_regulation/Lysine_riboswitch_gene_regulation.svg" alt="drawing" style="width:1000px;margin-top: 0px;margin-bottom: 0px;" >
@@ -229,7 +229,7 @@ permalink: /docs/Lysine/
 <p class="header_box" id="Structure and Ligand recognition">Structure and Ligand recognition</p>
 > 2D representation
         
-<font><p>Top: Consensus sequence and secondary structure model for lysine riboswitch. Bottom: Secondary structure depictions of lysine riboswitch in <i>T. maritima</i> according to PDB ID: 3DIL<sup>[<a href="#ref1">1</a>,<a href="#ref6">6</a>]</sup>.</p></font>
+<font><p>Top: Consensus sequence and secondary structure model for lysine riboswitch. Bottom: Secondary structure depictions of lysine riboswitch in <i>T. maritima</i> according to PDB ID: 3DIL<sup>[<a href="#ref1">1</a>,<a href="#ref7">7</a>]</sup>.</p></font>
 <font><p>5'GGCCGACGGAGGCGCGCCCGAGAUGAGUAGGCUGUCCCAUCAGGGGAGGAAUCGGGGACGGCUGAAAGGCGAGGGCGCCGAAGGGUGCAGAGUUCCUCCCGCUCUGCAUGCCUGGGGGUAUGGGGAAUACCCAUACCACUGUCACGGAGGUCUCUCCGUGGAGAGCCGUCGGUC3' (Sequence from bottom structure )</p><br></font>
 <html>
 <div>
@@ -353,7 +353,7 @@ permalink: /docs/Lysine/
                      
 > 3D visualisation
                 
-<font >The overall structure of lysine riboswitch in <i>T. maritima</i> was generated from PDB ID: 3DIL at 1.90 Å resolution bound with lysine. Lysine (shown in sticks) is labeled in red. Additional available structures that have been solved and detailed information are accessible on <i>Structures</i> page <sup>[<a href="#ref6">6</a>]</sup>.</font>
+<font >The overall structure of lysine riboswitch in <i>T. maritima</i> was generated from PDB ID: 3DIL at 1.90 Å resolution bound with lysine. Lysine (shown in sticks) is labeled in red. Additional available structures that have been solved and detailed information are accessible on <i>Structures</i> page <sup>[<a href="#ref7">7</a>]</sup>.</font>
 <div ><font ><p style="text-align:right;margin-bottom: 0px;">(Clicking the "Settings/Controls info" to turn Spin off)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p></font>
   <table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
@@ -482,7 +482,7 @@ permalink: /docs/Lysine/
                  
 > Binding pocket
                     
-<font><p>(Left) Surface representation of the binding pocket of lysine riboswitch in <i>T. maritima</i> generated from PDB ID: 3DIL at 1.90 Å. Lysine (shown in sticks) is labeled in red. (Right) The hydrogen bonds of the binding site of lysine riboswitch bound with lysine<sup>[<a href="#ref6">6</a>]</sup>.</p></font>
+<font><p>(Left) Surface representation of the binding pocket of lysine riboswitch in <i>T. maritima</i> generated from PDB ID: 3DIL at 1.90 Å. Lysine (shown in sticks) is labeled in red. (Right) The hydrogen bonds of the binding site of lysine riboswitch bound with lysine<sup>[<a href="#ref7">7</a>]</sup>.</p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;"><tr>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/Lysine_riboswitch_binding_pockets1.svg" alt="drawing" style="width:500px"  px="" /></td>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/Lysine_riboswitch_binding_pockets2.svg" alt="drawing" style="width:500px"  px="" /></td>
@@ -493,7 +493,7 @@ permalink: /docs/Lysine/
 > Ligand recognition
                 
 
-<font><p>Chemical structures of lysine and its analogs. The apparent K<sub>D</sub> of each compound of lysine riboswitch is shown on bottom. Refer to the corresponding references for comprehensive details regarding reaction conditions and species information in measuring the dissociation constant displayed below<sup>[<a href="#ref1">1</a>,<a href="#ref4">4</a>]</sup>.</p></font>
+<font><p>Chemical structures of lysine and its analogs. The apparent K<sub>D</sub> of each compound of lysine riboswitch is shown on bottom. Refer to the corresponding references for comprehensive details regarding reaction conditions and species information in measuring the dissociation constant displayed below<sup>[<a href="#ref1">1</a>,<a href="#ref5">5</a>]</sup>.</p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;">
 <tr>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">

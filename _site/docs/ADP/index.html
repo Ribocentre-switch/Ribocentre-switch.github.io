@@ -1,0 +1,454 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>ADP</title>
+  <meta name="description" content="Ribo centre is a database of ribozymes.
+">
+  <!--<link rel="stylesheet" href="http://localhost:4003/css/main.css>-->
+  <link rel="stylesheet" href="/css/main.css">
+  <link rel="canonical" href="http://localhost:4003/docs/ADP/">
+  <link rel="shortcut icon" type ="image/x-icon" href="http://localhost:4003/images/favicon.ico">
+
+
+
+</head>
+
+
+  <body>
+    
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  
+<div class="navbar navbar-default navbar-fixed-top" role="navigation">
+  <style>
+		.navbar-default .navbar-brand {
+    color: #ffffff;
+		}
+        .navbar {
+            background-color: #005826;
+        }
+		#now a{
+			color:#fff;
+			font-size: 20px;
+		}
+		#now a:hover{
+			font-size: 20px;
+		}
+	
+		
+	li {
+		float: left;
+	}
+
+	li a {
+		display: block;
+		color: rgb(254, 247, 247);
+		text-align: center;
+		padding: 14px 16px;
+		text-decoration: none;
+	}
+
+	li a:hover:not(.active) {
+		background-color: #005826;
+	}
+
+	li a.active {
+		background-color: #000000;
+}
+
+</style>
+
+
+
+  <div class="container-fluid2">
+	<div class="navbar-header">
+	  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse-1" aria-expanded="false">
+		<span class="sr-only">Toggle navigation</span>
+		<span class="icon-bar"></span>
+		<span class="icon-bar"></span>
+		<span class="icon-bar"></span>
+	  </button>
+	
+    <a class="navbar-brand" href="https://riboswitch.ribocentre.org/">
+		
+		<img class="navbar-brand" src="/images/Riboswitch_logo_bggreen.png" style='height:50px;margin-top:-14px;margin-bottom:0;padding:0;font-size: 20px; ' alt="logo">
+		&nbsp;Ribocentre-switch 
+	</a>
+	</div>
+	<div class="collapse navbar-collapse" id="navbar-collapse-1">
+	  <ul class="nav navbar-nav navbar-right" style="margin-right: 0px;">
+		<li id="now" ><a href="http://localhost:4003/">Home</a></li>
+		<li id="now"><a href="http://localhost:4003/riboswitches/">Riboswitches</a></li>
+		<li id="now"><a href="http://localhost:4003/tandom_riboswitches/">Tandem RS</a></li>
+		<li id="now"><a href="http://localhost:4003/orphan_riboswitch/">Orphan RS</a></li>
+		<li id="now"><a href="http://localhost:4003/sequences/">Sequences</a></li>
+		<li id="now"><a href="http://localhost:4003/structures/">Structures</a></li>
+		<li id="now"><a href="http://localhost:4003/binding_pockets/">Binding pockets</a></li>
+		<li id="now"><a href="http://localhost:4003/applications/">Applications</a></li>
+		<li id="now"><a href="http://localhost:4003/publications/">Publications</a></li>
+		<li id="now"><a href="http://localhost:4003/helps/">Help</a></li>
+	  </ul>
+	  <script>
+		window.addEventListener("DOMContentLoaded", function() {
+		  // 获取当前页面的URL
+		  var currentURL = window.location.href;
+		  
+		  // 获取所有导航按钮
+		  var navButtons = document.querySelectorAll("li a");
+		  
+		  // 遍历导航按钮
+		  navButtons.forEach(function(button) {
+				// 获取按钮的链接
+				var buttonURL = button.href;
+				
+				// 比较URL是否与当前页面的URL匹配
+				if (currentURL === buttonURL) {
+				  // 设置匹配的按钮为激活状态
+				  button.classList.add("active");
+				}
+		  });
+		});
+		</script>
+	  
+				
+   </div>
+  </div>
+</div>
+    
+      <div class="container-fluid">
+        <div class="row">
+          <style>
+  .box_style{
+    background: #f4f4f4;
+  }
+  .wrapper {
+    display: block;
+    position: relative;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    text-align: left;
+    word-wrap: break-word;
+    }
+  .sectiontitle {
+    display: block;
+    max-width: 71%;
+    margin: 0 auto ;
+    text-align: left;
+    background :#fff;
+    }
+</style>
+<div class="wrapper box_style" >
+  <section class="sectiontitle"> 
+    <article class="post" itemscope itemtype="http://schema.org/BlogPosting" >
+    <div class="well" style="border: 1px solid #C9C9C9; background-color: #fff;">
+      <div class="post-content" itemprop="articleBody">
+        <header class="post-header">
+          <h1 class="post-title" itemprop="name headline">ADP</h1>
+          <p class="post-meta"><time datetime="2023-05-16T08:00:00+08:00" itemprop="datePublished">May 16, 2023</time> • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">Wenjian Liao, Zhizhong Lu</span></span></p>
+        </header>
+      
+        <p style="font-size: 24px"><strong>Rfam ID: <a href="https://rfam.xfam.org/family/nan" target="_blank">nan</a></strong> (nan)<br /></p>
+
+<p><br /></p>
+<html>
+<head>
+  <title>横向排列的点击按钮</title>
+  <style>
+    /* 按钮容器样式 */
+    .button-container {
+      display: flex;
+      justify-content: left;
+      align-items: center;
+      height: 50px;
+    }
+    
+    /* 按钮样式 */
+    .button {
+      display: block;
+      padding: 10px;
+      font-size:24px;
+      margin-right: 10px;
+      text-align: center;
+      background-color: #efefef;
+      color: #005826;
+      text-decoration: none;
+      border: 1px solid #005826;
+      border-radius: 5px;
+    }
+    
+    /* 鼠标悬停样式 */
+    .button:hover {
+      background-color: #999;
+      cursor: pointer;
+    }
+  </style>
+</head>
+<body>
+  <p style="font-size: 16px">Click the buttons to navigate to different sections:</p>
+  
+  <div class="button-container">
+    <a class="button" href="#timeline">Timeline</a>
+    <a class="button" href="#description">Description</a>
+    <a class="button" href="#Structure and Ligand recognition">Structure&amp;recognition</a>
+    <a class="button" href="#references">References</a>
+  </div>
+</body>
+</html>
+
+<html lang="zh-cn">
+<head>
+<meta charset="utf-8" /> 
+<style>
+  .header_box {
+    border: none;
+    background: #efefef;
+    font-size:24px
+  }
+  blockquote {
+  margin: 0 0 0px;
+  }
+</style>
+</head>
+<p><br /></p>
+<p class="header_box" id="timeline">Timeline</p>
+<div class="timeline">
+  <div class="year">
+    <div class="inner">
+      <span>Start</span>
+    </div>
+  </div>
+  <ul class="days">
+          
+    <timelineli class="day">
+     <div class="events">
+       <p><a href="https://pubmed.ncbi.nlm.nih.gov/15096624/" target="_blank">2004</a><sup>[<a href="#ref1">1</a>]</sup>&emsp;Identification of ykkC motif that exhibit characteristics of riboswitch function</p>
+     </div>
+    </timelineli>
+        
+
+    <timelineli class="day">
+     <div class="events">
+       <p>Separation of <i>ykkC</i> subtype 2&emsp;<a href="https://pubmed.ncbi.nlm.nih.gov/27989440/" target="_blank">2017</a><sup>[<a href="#ref2">2</a>]</sup></p>
+     </div>
+    </timelineli>
+        
+
+    <timelineli class="day">
+     <div class="events">
+       <p><a href="https://pubmed.ncbi.nlm.nih.gov/29504937/" target="_blank">2018</a><sup>[<a href="#ref3">3</a>]</sup>&emsp;Further classification of <i>ykkC</i> subtype 2 as subtypes 2a through 2d</p>
+     </div>
+    </timelineli>
+        
+
+    <timelineli class="day">
+     <div class="events">
+       <p>Identification of <i>ykkC</i> 2c RNAs as the ADP riboswitchs&emsp;<a href="https://pubmed.ncbi.nlm.nih.gov/30081631/" target="_blank">2019</a><sup>[<a href="#ref4">4</a>]</sup></p>
+     </div>
+    </timelineli>
+        
+
+  </ul>
+  <div class="year year--end">
+    <div class="inner">
+      <span>2023...</span>
+    </div>
+  </div>
+</div>
+</html>
+<p><br /><br /></p>
+
+<font><p class="header_box" id="description">Description</p></font>
+<font>The <i>ykkC</i> RNAs were initially found in 2004 and in 2017,<i>ykkC</i> subtype 2 RNAs were separated from <i>ykkC</i> RNAs. Further analysis of the RNA sequences and consensus models of <i>ykkC</i> subtype 2 RNAs, and the assessment of the diverse types of genes found downstream of these RNAs, revealed that there are probably at least four additional distinct riboswitch classes present within the <i>ykkC</i> subtype 2 collection, termed <i>ykkC</i> subtypes 2a-2d. At last, <i>ykkC</i> subtype 2c RNAs were proved to recognize adenosine and cytidine 5′-diphosphate molecules in either their ribose or deoxyribose forms (ADP, dADP, CDP, and dCDP)<sup>[<a href="#ref2">2</a>-<a href="#ref4">4</a>]</sup>.</font>
+<p><br /></p>
+
+<blockquote>
+  <p>Gene association</p>
+</blockquote>
+
+<font><p>Nearly all <i>ykkC</i> subtype 2c RNAs of phylum Firmicutes are located upstream of genes encoding nucleoside diphosphate linked to X (NUDIX) hydrolases. NUDIX hydrolases make up a broad family of proteins that cleave the phosphoester bond between the <i>α</i>- and <i>β</i>-phosphate moieties of various nucleotide substrates. Some nucleoside di- and triphosphate substrates can carry a ribose or a deoxyribose moiety (gray shading)<sup>[<a href="#ref4">4</a>]</sup>.</p></font>
+<table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;">
+<tr>
+<td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
+  <img src="/images/gene_association/ADP_riboswitch_gene_association.svg" alt="drawing" style="width:1000px;margin-top: 0px;margin-bottom: 0px;" />
+</td>
+</tr>
+</table>
+<p><br /></p>
+
+<blockquote>
+  <p>Gene regulation</p>
+</blockquote>
+
+<font><p>Putative mechanisms for regulation of gene expression by ADP riboswitches in phylum Firmicutes. We present the  prototypical mechanism, but not all possible mechanisms<sup>[<a href="#ref2">2</a>,<a href="#ref4">4</a>]</sup>.</p></font>
+<table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;"><tr>
+  <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
+  <img src="/images/gene_regulation/ADP_riboswitch_gene_regulation.svg" alt="drawing" style="width:1000px;margin-top: 0px;margin-bottom: 0px;" />
+  </td>
+</tr>
+</table>
+<p><br /><br /></p>
+
+<p class="header_box" id="Structure and Ligand recognition">Structure and Ligand recognition</p>
+<blockquote>
+  <p>2D representation</p>
+</blockquote>
+
+<font><p>Consensus sequence and secondary structure model for the PRA riboswitch<sup>[<a href="#ref4">4</a>]</sup>.</p></font>
+<p><br /></p>
+<table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;"><tr>
+  <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+</head>
+<style>
+   body {
+    width: 100%;
+    height: 100vh;
+}
+   button {
+   margin-right: 0px;
+}
+   .main-container {
+    display: flex;
+    align-items: left;
+    justify-content: center;
+    height: 100%;
+}
+   .zoom-wrapper1 {
+    width: 800px;
+    border: 1px solid #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+</style>
+    <div class="main-container">
+        <div class="zoom-wrapper1">
+            <div class="zoom-area1">
+                <img src="/images/2D/ADP_riboswitch_2D1.svg" alt="drawing" style="width:1000px" />
+            </div>
+        </div>
+    </div>
+    <script src="https://www.ribocentre.org/js/panzoom.js"></script>
+    <script type="text/javascript">
+      var zoomWraper1 = document.querySelector(".zoom-wrapper1");
+      var panzoom1 = Panzoom(document.querySelector(".zoom-area1"), {
+      maxScale: 6
+      });
+      zoomWraper1.addEventListener("wheel", panzoom1.zoomWithWheel);
+      panzoom1.zoom(0.8);
+      </script>
+</td>
+</tr></table>
+<p><br /></p>
+<p><br /></p>
+
+<blockquote>
+  <p>Ligand recognition</p>
+</blockquote>
+
+<font><p>Chemical structures of ADP (adenosine-5'-diphosphate), dADP (2'-deoxyadenosine-5'-diphosphate), CDP (cytidine-5'-diphosphate) and dCDP (2'-deoxycytidine-5'-diphosphate). The apparent K<sub>D</sub> of each compound is shown on bottom. Refer to the corresponding references for comprehensive details regarding reaction conditions and species information in measuring the dissociation constant displayed below<sup>[<a href="#ref4">4</a>]</sup>.</p></font>
+<table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;">
+<tr>
+<td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
+  <img src="/images/ligand_recognition/ADP_riboswitch_ligand_recognition.svg" alt="drawing" style="width:1000px;margin-top: 0px;margin-bottom: 0px;" />
+</td>
+</tr>
+</table>
+<p><br /><br /></p>
+
+<p class="header_box" id="references">References</p>
+
+<p><a id="ref1"></a><font><strong>[1] New RNA motifs suggest an expanded scope for riboswitches in bacterial genetic control.</strong></font><br />
+Barrick, J. E. et al.<br />
+<a href="https://pubmed.ncbi.nlm.nih.gov/15096624/" target="_blank">Proc. Natl. Acad. Sci. U. S. A. 101, 6421–6426 (2004).</a>
+<br /></p>
+
+<p><a id="ref2"></a><font><strong>[2] Metabolism of Free Guanidine in Bacteria Is Regulated by a Widespread Riboswitch Class.</strong></font><br />
+Nelson, J. W., Atilho, R. M., Sherlock, M. E., Stockbridge, R. B. &amp; Breaker, R. R.<br />
+<a href="https://pubmed.ncbi.nlm.nih.gov/27989440/" target="_blank">Mol. Cell 65, 220–230 (2017).</a>
+<br /></p>
+
+<p><a id="ref3"></a><font><strong>[3] Tandem riboswitches form a natural Boolean logic gate to control purine metabolism in bacteria.</strong></font><br />
+Sherlock, M. E., Sudarsan, N., Stav, S. &amp; Breaker, R. R.<br />
+<a href="https://pubmed.ncbi.nlm.nih.gov/29504937/" target="_blank">Elife 7, (2018).</a>
+<br /></p>
+
+<p><a id="ref4"></a><font><strong>[4] Variant Bacterial Riboswitches Associated with Nucleotide Hydrolase Genes Sense Nucleoside Diphosphates.</strong></font><br />
+Sherlock, M. E., Sadeeshkumar, H. &amp; Breaker, R. R.<br />
+<a href="https://pubmed.ncbi.nlm.nih.gov/30081631/" target="_blank">Biochemistry 58, 401–410 (2019).</a>
+<br /></p>
+
+
+      </div>
+    </div>
+    </article>
+  </section>
+</div>
+<script>
+  // Use JavaScript to detect device type and adjust page zoom
+  if (/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)) {
+    var viewport = document.querySelector('meta[name="viewport"]');
+    viewport.setAttribute('content', 'width=device-width, initial-scale=0.5, maximum-scale=1.0, user-scalable=yes');
+    document.body.style.zoom = "50%";
+  }
+</script>
+
+
+
+
+        </div>
+      </div>
+    <div id="footer" class="panel">
+  <div class="panel-footer">
+	<!--<div class="container-fluid2">-->
+	<div class="container-fluid2">
+	  <div class="row">
+		<div class="col-sm-4">
+			
+		  <p>&copy 2023 Ribocentre. Site made with <a href="https://jekyllrb.com">Jekyll</a>;  <a href="https://www.ribocentre.org/aboutwebsite.html">copy and  modify it for your own research group.</a></p>
+              <p>We are part of the <a href="https://gzlab.ac.cn">Guangzhou Laboratory</a> and <a href="http://www.gzsys.org.cn/">Sun Yat-sen Memorial Hospital of Sun Yat-sen University</a>.</p>
+            
+
+		   <p>  </p><p>
+            		  
+            
+		</div>
+		<div class="col-sm-4">
+		  Funding:<br />
+		  - <a href="https://www.nsfc.gov.cn/">NSFC</a> <br />
+		  - <a href="http://www.most.gov.cn/">MOST IT+BT project</a> <br />
+          - <a href="https://gzlab.ac.cn">GZlab starting grant</a><br />
+		  <br>
+		  <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+		  <!--<span class="glyphicon glyphicon-user"></span>&nbsp;&nbsp;<span id="busuanzi_container_site_uv"><strong>: <a href=""><span id="busuanzi_value_site_uv"></span></strong></a> </span> &nbsp;&nbsp;
+		  !--><span class="glyphicon glyphicon-eye-open"></span>&nbsp;&nbsp;<span id="busuanzi_container_site_pv"><strong>: <a href=""><span id="busuanzi_value_site_pv"></span></strong></a> </span>
+
+		</div>
+		<div class="col-sm-4">
+		  Contact:<br />
+		  Building B2, Guangzhou Laboratory<br />
+		  96 Xingdao South Road, Guangzhou International Bio Island, <br />
+		  Haizhu District, Guangzhou, Guangdong,<br />
+		  China. <br />
+          (<a href="https://goo.gl/maps/hDLr6siEAS2Eaypt8">Maps</a>)
+		</div>
+	  </div>
+	</div>
+  </div>
+</div>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<script src="https://www.ribocentre.org/js/bootstrap.min.js"></script>
+
+
+  </body>
+
+</html>

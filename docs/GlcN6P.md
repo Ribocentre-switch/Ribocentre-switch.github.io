@@ -192,7 +192,7 @@ Thus, when GlcN6P levels are high, the glmS ribozyme is activated and the mRNA t
              
 > Gene association
             
-<font><p>Inhibition of the synthesis of glucosamine-6-phosphate in <i>human pathogenic bacteria</i>. Three major routes are illustrated, the blocking of which would lead to inhibition of glucosamine-6-phosphate synthesis. In the simultaneous blocking of the GlmS and nagA, which is controlled by the GlcN6P riboswitch, blockade of GlcNc-6-P synthesis within the cell will be observed<sup>[<a href="#ref13">13</a>]</sup>.</p></font>
+<font><p>Inhibition of the synthesis of glucosamine-6-phosphate in <i>human pathogenic bacteria<i/>. Three major routes are illustrated, the blocking of which would lead to inhibition of glucosamine-6-phosphate synthesis. In the simultaneous blocking of the GlmS and nagA, which is controlled by the GlcN6P riboswitch, blockade of GlcNc-6-P synthesis within the cell will be observed<sup>[<a href="#ref13">13</a>]</sup>.</p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;">
 <tr >
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
@@ -216,7 +216,7 @@ Thus, when GlcN6P levels are high, the glmS ribozyme is activated and the mRNA t
 <p class="header_box" id="Structure and Ligand recognition">Structure and Ligand recognition</p>
 > 2D representation
         
-<font><p>Top: Consensus sequence and secondary structure model for the <i>thermoanaerobacter tengcongensis</i> GlcN6P riboswitch. Bottom: Secondary structure depictions of the <i>thermoanaerobacter tengcongensis</i> GlcN6P riboswitch according to PDB ID: 2H0Z<sup>[<a href="#ref6">6</a>]</sup>.</p></font>
+<font><p>Top: Consensus sequence and secondary structure model for the <i>thermoanaerobacter tengcongensis<i/> GlcN6P riboswitch. Bottom: Secondary structure depictions of the <i>thermoanaerobacter tengcongensis<i/> GlcN6P riboswitch according to PDB ID: 2H0Z<sup>[<a href="#ref6">6</a>]</sup>.</p></font>
 <font><p>5'AGCGCCUGGACUUAAAGCCAUUGCACU3'. 5'CCGGCUUUAAGUUGACGAGGGCAGGGUUUAUCGAGACAUCGGCGGGUGCCCUGCGGUCUUCCUGCGACCGUUAGAGGACUGGUAAAACCACAGGCGACUGUGGCAUAGAGCAGUCCGGGCAGGAA3' (Sequence from bottom structure )</p><br></font>
 <html>
 <div>
@@ -340,7 +340,7 @@ Thus, when GlcN6P levels are high, the glmS ribozyme is activated and the mRNA t
                      
 > 3D visualisation
                 
-<font >The overall structure of the <i>thermoanaerobacter tengcongensis</i> GlcN6P riboswitch was generated based on PDB ID: 2H0Z, which was resolved at 2.7 Å resolution and bound with glucose-6-phosphate (<i>G6P</i>) and Mg<sup>2+</sup>. In the structure model, glucose-6-phosphate (depicted in sticks) and Mg<sup>2+</sup> (depicted in sphere) were highlighted in red. Additional available structures that have been solved and detailed information are accessible on <i>Structures</i> page <sup>[<a href="#ref6">6</a>]</sup>.</font>
+<font >The overall structure of the <i>thermoanaerobacter tengcongensis<i/> GlcN6P riboswitch was generated based on PDB ID: 2H0Z, which was resolved at 2.7 Å resolution and bound with glucose-6-phosphate (<i>G6P</i>) and Mg<sup>2+</sup>. In the structure model, glucose-6-phosphate (depicted in sticks) and Mg<sup>2+</sup> (depicted in sphere) were highlighted in red. Additional available structures that have been solved and detailed information are accessible on <i>Structures</i> page <sup>[<a href="#ref6">6</a>]</sup>.</font>
 <div ><font ><p style="text-align:right;margin-bottom: 0px;">(Clicking the "Settings/Controls info" to turn Spin off)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p></font>
   <table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;"><tr>
   <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
@@ -495,7 +495,7 @@ Thus, when GlcN6P levels are high, the glmS ribozyme is activated and the mRNA t
                  
 > Binding pocket
                     
-<font><p>Left: Surface representation of the binding pocket of the <i>thermoanaerobacter tengcongensis</i> GlcN6P riboswitch generated from PDB ID: 2H0Z at 2.10 Å resolution. The glucose-6-phosphate (<i>G6P</i>, depicted in sticks) and Mg<sup>2+</sup> (M depicted in sphere) were highlighted in red. Right: The hydrogen bonds of the binding sites of the GlcN6P riboswitch bound with <i>G6P</i>, M<sup>[<a href="#ref6">6</a>]</sup>.</p></font>
+<font><p>Left: Surface representation of the binding pocket of the <i>thermoanaerobacter tengcongensis<i/> GlcN6P riboswitch generated from PDB ID: 2H0Z at 2.10 Å resolution. The glucose-6-phosphate (<i>G6P</i>, depicted in sticks) and Mg<sup>2+</sup> (M depicted in sphere) were highlighted in red. Right: The hydrogen bonds of the binding sites of the GlcN6P riboswitch bound with <i>G6P</i>, M<sup>[<a href="#ref6">6</a>]</sup>.</p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;"><tr>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/GlcN6P_riboswitch_binding_pockets1.svg" alt="drawing" style="width:500px"  px="" /></td>
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px"><img src="/images/binding_pockets/GlcN6P_riboswitch_binding_pockets2.svg" alt="drawing" style="width:500px"  px="" /></td>

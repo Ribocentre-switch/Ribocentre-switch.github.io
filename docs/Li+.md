@@ -80,7 +80,7 @@ permalink: /docs/Li/
           
     <timelineli class="day">
      <div class="events">
-       <p ><a href="https://pubmed.ncbi.nlm.nih.gov/28977401/" target="_blank">2017</a><sup>[<a href="#ref1">1</a>]</sup>&emsp;Discovery of <i>nhaA</i>-I and <i>nhaA</i>-II motif</p>
+       <p ><a href="https://pubmed.ncbi.nlm.nih.gov/28977401/" target="_blank">2017</a><sup>[<a href="#ref1">1</a>]</sup>&emsp;Discovery of <i>nhaA</i>-I and <i>nhaA</i>-II motif by comparative genomics analyses</p>
      </div>
     </timelineli>
         

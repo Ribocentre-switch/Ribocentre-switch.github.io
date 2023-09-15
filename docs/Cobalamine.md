@@ -206,7 +206,7 @@ Cobalamin riboswitches are broadly classified by the identity of the aptamer, bu
 > 2D representation
         
 <font><p>Top: Consensus sequence and secondary structure model for the AdoCbl riboswitch. Bottom: Secondary structure depictions of the <i>Symbiobacterium thermophilum</i> AdoCbl riboswitch according to PDB ID: 4GMA. AdoCbl is denoted in red. KL denotes a kissing-loop (KL) interaction between L5 of the receptor and L13 of the regulatory domain that instructs the expression machinery<sup>[<a href="#ref4">4</a>,<a href="#ref8">8</a>]</sup>.</p></font>
-<font><p>5'GGCGGCAGGUGCUCCCGACGUCGGGAGUUAAAAGGGAAGCCGGUGCAAGUCCGGCACGGUCCCGCCACUGUGACGGGGAGUCGCCCCUCGGGAUGUGCCACUGGCCGGCCGGGAAGGCGGAGGGGCGGCGAGGAUCCGGAGUCAGGAAACCUGCCUGCCGUC3' (Sequence from bottom structure )</p><br></font>
+<font><p>5'GGCGGCAGGUGCUCCCGACCCUGCGGUCGGGAGUUAAAAGGGAAGCCGGUGCAAGUCCGGCACGGUCCCGCCACUGUGACGGGGAGUCGCCCCUCGGGAUGUGCCACUGGCCCGAAGGCCGGGAAGGCGGAGGGGCGGCGAGGAUCCGGAGUCAGGAAACCUGCCUGCCGUC3' (Sequence from bottom structure )</p><br></font>
 <html>
 <div>
     <div class="entry-content clearfix" itemprop="articleBody description" style="overflow: auto;">
