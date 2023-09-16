@@ -1,0 +1,122 @@
+I"�<h1 class="post-title" itemprop="name headline">Tandem Riboswitches</h1>
+<p>Tandem riboswitches refer to the arrangement of aptamers or complete riboswitches in tandem, creating RNA systems with more complex gene regulatory functions. Various types of independent tandem riboswitches have been identified. We present three categories for discussing multi-ligand sensing and regulation by riboswitches and tandem riboswitches: ‘Single riboswitch sensing multiple ligand molecules’,’Tandem riboswitches sensing identical ligands’, and ‘Tandem riboswitches sensing multiple ligands’.
+<br /><br /></p>
+
+<html>
+<head>
+  <title>横向排列的点击按钮</title>
+  <style>
+    /* 按钮容器样式 */
+    .button-container {
+      display: flex;
+      justify-content: left;
+      align-items: center;
+      height: 50px;
+    }
+    
+    /* 按钮样式 */
+    .button {
+      display: block;
+      padding: 10px;
+      font-size:24px;
+      margin-right: 10px;
+      text-align: center;
+      background-color: #efefef;
+      color: #005826;
+      text-decoration: none;
+      border: 1px solid #005826;
+      border-radius: 5px;
+      
+    }
+    
+    
+    /* 鼠标悬停样式 */
+    .button:hover {
+      background-color: #999;
+      cursor: pointer;
+    }
+    .header_box {
+    border: none;
+    background: #efefef;
+    font-size:24px
+  }
+  blockquote {
+  margin: 0 0 0p}
+  </style>
+</head>
+<body>
+</body>
+</html>
+<p><br /></p>
+
+<p class="header_box">Single riboswitch sensing more than one molecules of ligands</p>
+<p>A single riboswitch not only can bind a single metabolite molecule, but also can sense two or more molecules of the ligand. Here shows three examples, the c-di-AMP riboswitch (A) from <i>Thermoanaerobacter tengcongensis</i>, the guanidine-II riboswitch (B) from <i>Pseudomonas aeruginosa</i> and the PreQ<sub>1</sub>-I type 1 riboswitch (C) from <i>Carnobacterium antarcticus</i>, describing how a single riboswitch sensing more than one molecules of ligands to regulate gene expression.</p>
+
+<div style="weight:400px;display:block;margin:0 auto;border:solid 1px;border-radius:0;">
+  <p><img src="/images/tandem/Tandem_RS_1.svg" alt="drawing" /></p>
+</div>
+<div style="display: flex; justify-content: center;">
+  <p><a href="/downloads/tandem/Tandem_RS_1.pdf" target="_blank" download="Tandem_RS_1.pdf"><button class="btn btn-secondary"><span class="glyphicon  glyphicon-download-alt"></span>  Download above picture</button></a></p>
+</div>
+<p><br /></p>
+
+<html>
+<head>
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no" />
+    <title>Ribozyme applications </title>
+    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.12.1/css/jquery.dataTables.min.css" />
+    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/buttons/2.2.3/css/buttons.dataTables.min.css" />
+</head>
+    <style>
+        th {background-color: #005826;
+        color: rgba(255,255,255,0.9);
+            cursor: pointer;
+        }
+    </style>
+  <script type="text/javascript" src="https://code.jquery.com/jquery-3.5.1.js"></script>
+    <script type="text/javascript" src="https://cdn.datatables.net/1.12.1/js/jquery.dataTables.min.js"></script>
+    <script type="text/javascript" src="https://cdn.datatables.net/buttons/2.2.3/js/dataTables.buttons.min.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.1.3/jszip.min.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.53/pdfmake.min.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.53/vfs_fonts.js"></script>
+    <script type="text/javascript" src="https://cdn.datatables.net/buttons/2.2.3/js/buttons.html5.min.js"></script>
+    <script type="text/javascript" src="https://cdn.datatables.net/buttons/2.2.3/js/buttons.print.min.js"></script>
+    <script type="text/javascript">
+
+        $(document).ready(function() {
+            $.noConflict();
+            $('#Dnatable').DataTable( {
+                dom: 'Bfrtip', 
+                buttons: [
+                    'copy', 'csv', 'excel', 'pdf', 
+                ]
+
+            } );
+        } );
+   </script>
+<table id="Dnatable" class="table table-striped table-bordered" cellspacing="0" width="100%">
+  <thead>
+  <tr>
+    <th>Riboswitch name</th>
+    <th>Species</th>
+    <th>Description </th>
+    <th>First author</th>
+    <th>Corresponding author</th>
+    <th>Time</th>
+    <th>Reference</th>
+    <th>Journal</th>
+  </tr>
+ </thead>
+ <tbody>
+        
+ Single riboswitch sensing more than one molecules of ligands
+
+
+    
+                    
+</tbody>
+</table>
+</html>
+
+:ET
