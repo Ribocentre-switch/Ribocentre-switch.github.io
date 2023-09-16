@@ -1,14 +1,6 @@
----
-title: "Ribocentre - TandemRS"
-layout: piclay
-excerpt: "Riboswitches: A riboswitch database"
-sitemap: True
-permalink: /tandom_riboswitches/
----
-
-<h1 class="post-title" itemprop="name headline">Tandem Riboswitches</h1>
-<font>Tandem riboswitches refer to the arrangement of aptamers or complete riboswitches in tandem, creating RNA systems with more complex gene regulatory functions. Various types of independent tandem riboswitches have been identified. We present three categories for discussing multi-ligand sensing and regulation by riboswitches and tandem riboswitches: 'Single riboswitch sensing multiple ligand molecules', 'Tandem riboswitches sensing identical ligands', and 'Tandem riboswitches sensing multiple ligands'.</font>
-<br><br>
+I"�<h1 class="post-title" itemprop="name headline">Tandem Riboswitches</h1>
+<p>Tandem riboswitches refer to the arrangement of aptamers or complete riboswitches in tandem, creating RNA systems with more complex gene regulatory functions. Various types of independent tandem riboswitches have been identified. We present three categories for discussing multi-ligand sensing and regulation by riboswitches and tandem riboswitches: ‘Single riboswitch sensing multiple ligand molecules’,’Tandem riboswitches sensing identical ligands’, and ‘Tandem riboswitches sensing multiple ligands’.
+<br /><br /></p>
 
 <html>
 <head>
@@ -16,10 +8,11 @@ permalink: /tandom_riboswitches/
   <style>
     /* 按钮容器样式 */
     .button-container {
-      display: flex;
-      justify-content: left;
-      align-items: center;
-      height: 50px;}
+  display: flex;
+  flex-direction: column;  /* 使内容垂直排列 */
+  align-items: flex-start; /* 使内容靠左对齐 */
+  
+}
 
     
     /* 按钮样式 */
@@ -34,7 +27,7 @@ permalink: /tandom_riboswitches/
       text-decoration: none;
       border: 1px solid #005826;
       border-radius: 5px;
-      
+      margin-bottom: 10px; 
       
     }
     
@@ -58,32 +51,32 @@ permalink: /tandom_riboswitches/
 
   <p style="font-size: 16px">Click the buttons to navigate to different sections:</p>
   <div class="button-container">
-    <a class="button" href="#Single riboswitch sensing multiple ligand molecules" >Single RS-multiple ligands</a>
+    <a class="button" href="#Single riboswitch sensing multiple ligand molecules">Single RS-multiple ligands</a>
     <a class="button" href="#Tandem riboswitches sensing identical ligands">Tandem RS-identical ligands</a>
     <a class="button" href="#Tandem riboswitches sensing multiple ligands">Tandem RS-multiple ligands</a>
   </div>
 </body>
 </html>
-<br>  
-        
-<p class="header_box" >Single riboswitch sensing more than one molecules of ligands</p>
-<font><p>A single riboswitch not only can bind a single metabolite molecule, but also can sense two or more molecules of the ligand. Here shows three examples, the c-di-AMP riboswitch (A) from <i>Thermoanaerobacter tengcongensis</i>, the guanidine-II riboswitch (B) from <i>Pseudomonas aeruginosa</i> and the PreQ<sub>1</sub>-I type 1 riboswitch (C) from <i>Carnobacterium antarcticus</i>, describing how a single riboswitch sensing more than one molecules of ligands to regulate gene expression.</p></font>    
-        
+<p><br /></p>
+
+<p class="header_box">Single riboswitch sensing more than one molecules of ligands</p>
+<p>A single riboswitch not only can bind a single metabolite molecule, but also can sense two or more molecules of the ligand. Here shows three examples, the c-di-AMP riboswitch (A) from <i>Thermoanaerobacter tengcongensis</i>, the guanidine-II riboswitch (B) from <i>Pseudomonas aeruginosa</i> and the PreQ<sub>1</sub>-I type 1 riboswitch (C) from <i>Carnobacterium antarcticus</i>, describing how a single riboswitch sensing more than one molecules of ligands to regulate gene expression.</p>
+
 <div style="weight:400px;display:block;margin:0 auto;border:solid 1px;border-radius:0;">
-<img src="/images/tandem/Tandem_RS_1.svg" alt="drawing" >
+  <p><img src="/images/tandem/Tandem_RS_1.svg" alt="drawing" /></p>
 </div>
 <div style="display: flex; justify-content: center;">
-<a href="/downloads/tandem/Tandem_RS_1.pdf" target="_blank" download="Tandem_RS_1.pdf"><button class="btn btn-secondary"><span class="glyphicon 
-glyphicon-download-alt"></span>&nbsp;&nbsp;Download above picture</button></a>
-</div><br>
-                                            
+  <p><a href="/downloads/tandem/Tandem_RS_1.pdf" target="_blank" download="Tandem_RS_1.pdf"><button class="btn btn-secondary"><span class="glyphicon  glyphicon-download-alt"></span>  Download above picture</button></a></p>
+</div>
+<p><br /></p>
+
 <html>
 <head>
-    <meta http-equiv="Content-type" content="text/html; charset=utf-8">
-    <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no">
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no" />
     <title>Ribozyme applications </title>
-    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.12.1/css/jquery.dataTables.min.css">
-    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/buttons/2.2.3/css/buttons.dataTables.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.12.1/css/jquery.dataTables.min.css" />
+    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/buttons/2.2.3/css/buttons.dataTables.min.css" />
 </head>
     <style>
         th {background-color: #005826;
@@ -91,14 +84,14 @@ glyphicon-download-alt"></span>&nbsp;&nbsp;Download above picture</button></a>
             cursor: pointer;
         }
     </style>
-  <script type="text/javascript"  src="https://code.jquery.com/jquery-3.5.1.js"></script>
-    <script type="text/javascript"  src="https://cdn.datatables.net/1.12.1/js/jquery.dataTables.min.js"></script>
-    <script type="text/javascript"  src="https://cdn.datatables.net/buttons/2.2.3/js/dataTables.buttons.min.js"></script>
-    <script type="text/javascript"  src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.1.3/jszip.min.js"></script>
-    <script type="text/javascript"  src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.53/pdfmake.min.js"></script>
-    <script type="text/javascript"  src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.53/vfs_fonts.js"></script>
+  <script type="text/javascript" src="https://code.jquery.com/jquery-3.5.1.js"></script>
+    <script type="text/javascript" src="https://cdn.datatables.net/1.12.1/js/jquery.dataTables.min.js"></script>
+    <script type="text/javascript" src="https://cdn.datatables.net/buttons/2.2.3/js/dataTables.buttons.min.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.1.3/jszip.min.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.53/pdfmake.min.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.53/vfs_fonts.js"></script>
     <script type="text/javascript" src="https://cdn.datatables.net/buttons/2.2.3/js/buttons.html5.min.js"></script>
-    <script type="text/javascript"  src="https://cdn.datatables.net/buttons/2.2.3/js/buttons.print.min.js"></script>
+    <script type="text/javascript" src="https://cdn.datatables.net/buttons/2.2.3/js/buttons.print.min.js"></script>
     <script type="text/javascript">
 
         $(document).ready(function() {
@@ -135,7 +128,7 @@ glyphicon-download-alt"></span>&nbsp;&nbsp;Download above picture</button></a>
     <td>Wade C. Winkler</td>
     <td>2007</td>
     <td>Structure and Mechanism of a Metal-Sensing Regulatory RNA</td>
-    <td><a href="https://pubmed.ncbi.nlm.nih.gov/17803910/"  target="_blank" ><b>cell</b></a></td>
+    <td><a href="https://pubmed.ncbi.nlm.nih.gov/17803910/" target="_blank"><b>cell</b></a></td>
   </tr>
     
                     
@@ -147,7 +140,7 @@ glyphicon-download-alt"></span>&nbsp;&nbsp;Download above picture</button></a>
     <td>Wade C. Winkler</td>
     <td>2009</td>
     <td>Multiple metal-binding cores are required for metalloregulation by M-box riboswitch RNAs</td>
-    <td><a href="https://pubmed.ncbi.nlm.nih.gov/19619558/"  target="_blank" ><b>J Mol Biol</b></a></td>
+    <td><a href="https://pubmed.ncbi.nlm.nih.gov/19619558/" target="_blank"><b>J Mol Biol</b></a></td>
   </tr>
     
                     
@@ -159,7 +152,7 @@ glyphicon-download-alt"></span>&nbsp;&nbsp;Download above picture</button></a>
     <td>Wade C. Winkler, Ronald R. Breaker </td>
     <td>2015</td>
     <td>Bacterial riboswitches cooperatively bind Ni(2+) or Co(2+) ions and control expression of heavy metal transporters</td>
-    <td><a href="https://pubmed.ncbi.nlm.nih.gov/25794617/"  target="_blank" ><b>Mol Cell</b></a></td>
+    <td><a href="https://pubmed.ncbi.nlm.nih.gov/25794617/" target="_blank"><b>Mol Cell</b></a></td>
   </tr>
     
                     
@@ -171,7 +164,7 @@ glyphicon-download-alt"></span>&nbsp;&nbsp;Download above picture</button></a>
     <td>Joseph A. Cotruvo Jr</td>
     <td>2020</td>
     <td>The czcD (NiCo) Riboswitch Responds to Iron(II)</td>
-    <td><a href="https://pubmed.ncbi.nlm.nih.gov/32250107/"  target="_blank" ><b>Biochemistry</b></a></td>
+    <td><a href="https://pubmed.ncbi.nlm.nih.gov/32250107/" target="_blank"><b>Biochemistry</b></a></td>
   </tr>
     
                     
@@ -183,7 +176,7 @@ glyphicon-download-alt"></span>&nbsp;&nbsp;Download above picture</button></a>
     <td>Robert T. Batey</td>
     <td>2011</td>
     <td>The structure of a tetrahydrofolate-sensing riboswitch reveals two ligand binding sites in a single aptamer</td>
-    <td><a href="https://pubmed.ncbi.nlm.nih.gov/21906956/"  target="_blank" ><b>Structure</b></a></td>
+    <td><a href="https://pubmed.ncbi.nlm.nih.gov/21906956/" target="_blank"><b>Structure</b></a></td>
   </tr>
     
                     
@@ -195,7 +188,7 @@ glyphicon-download-alt"></span>&nbsp;&nbsp;Download above picture</button></a>
     <td>Alexander Serganov</td>
     <td>2014</td>
     <td>Structural insights into recognition of c-di-AMP by the <i>ydaO</i> riboswitch</td>
-    <td><a href="https://pubmed.ncbi.nlm.nih.gov/25086507/"  target="_blank" ><b>Nat Chem Biol</b></a></td>
+    <td><a href="https://pubmed.ncbi.nlm.nih.gov/25086507/" target="_blank"><b>Nat Chem Biol</b></a></td>
   </tr>
     
                     
@@ -207,7 +200,7 @@ glyphicon-download-alt"></span>&nbsp;&nbsp;Download above picture</button></a>
     <td>Dinshaw J. Patel</td>
     <td>2014</td>
     <td>c-di-AMP binds the <i>ydaO</i> riboswitch in two pseudo-symmetry-related pockets</td>
-    <td><a href="https://pubmed.ncbi.nlm.nih.gov/25086509/"  target="_blank" ><b>Nat Chem Biol</b></a></td>
+    <td><a href="https://pubmed.ncbi.nlm.nih.gov/25086509/" target="_blank"><b>Nat Chem Biol</b></a></td>
   </tr>
     
                     
@@ -219,7 +212,7 @@ glyphicon-download-alt"></span>&nbsp;&nbsp;Download above picture</button></a>
     <td>Adrian R Ferré-D'Amaré</td>
     <td>2014</td>
     <td>Crystal structure of a c-di-AMP riboswitch reveals an internally pseudo-dimeric RNA</td>
-    <td><a href="https://pubmed.ncbi.nlm.nih.gov/25271255/"  target="_blank" ><b>EMBO J</b></a></td>
+    <td><a href="https://pubmed.ncbi.nlm.nih.gov/25271255/" target="_blank"><b>EMBO J</b></a></td>
   </tr>
     
                     
@@ -231,7 +224,7 @@ glyphicon-download-alt"></span>&nbsp;&nbsp;Download above picture</button></a>
     <td>Martha J. Fedor</td>
     <td>2011</td>
     <td>The glmS riboswitch integrates signals from activating and inhibitory metabolites in vivo</td>
-    <td><a href="https://pubmed.ncbi.nlm.nih.gov/21317896/"  target="_blank" ><b>Nat Struct Mol Biol</b></a></td>
+    <td><a href="https://pubmed.ncbi.nlm.nih.gov/21317896/" target="_blank"><b>Nat Struct Mol Biol</b></a></td>
   </tr>
     
                     
@@ -243,7 +236,7 @@ glyphicon-download-alt"></span>&nbsp;&nbsp;Download above picture</button></a>
     <td>Ronald R. Breaker</td>
     <td>2017</td>
     <td>Biochemical Validation of a Second Guanidine Riboswitch Class in Bacteria</td>
-    <td><a href="https://pubmed.ncbi.nlm.nih.gov/28001368/"  target="_blank" ><b>Biochemistry</b></a></td>
+    <td><a href="https://pubmed.ncbi.nlm.nih.gov/28001368/" target="_blank"><b>Biochemistry</b></a></td>
   </tr>
     
                     
@@ -255,7 +248,7 @@ glyphicon-download-alt"></span>&nbsp;&nbsp;Download above picture</button></a>
     <td>David M.J. Lilley</td>
     <td>2017</td>
     <td>The Structure of the Guanidine-II Riboswitch</td>
-    <td><a href="https://pubmed.ncbi.nlm.nih.gov/28529131/"  target="_blank" ><b>Cell Chem Biol</b></a></td>
+    <td><a href="https://pubmed.ncbi.nlm.nih.gov/28529131/" target="_blank"><b>Cell Chem Biol</b></a></td>
   </tr>
     
                     
@@ -267,7 +260,7 @@ glyphicon-download-alt"></span>&nbsp;&nbsp;Download above picture</button></a>
     <td>Scott A. Strobel</td>
     <td>2017</td>
     <td>Structural basis for ligand binding to the guanidine-II riboswitch</td>
-    <td><a href="https://pubmed.ncbi.nlm.nih.gov/28600356/"  target="_blank" ><b>RNA</b></a></td>
+    <td><a href="https://pubmed.ncbi.nlm.nih.gov/28600356/" target="_blank"><b>RNA</b></a></td>
   </tr>
     
                     
@@ -279,7 +272,7 @@ glyphicon-download-alt"></span>&nbsp;&nbsp;Download above picture</button></a>
     <td>Ronald R. Breaker</td>
     <td>2019</td>
     <td>Evidence that the <i>nadA</i> motif is a bacterial riboswitch for the ubiquitous enzyme cofactor NAD<sup>+</sup></td>
-    <td><a href="https://pubmed.ncbi.nlm.nih.gov/31467147/"  target="_blank" ><b>RNA</b></a></td>
+    <td><a href="https://pubmed.ncbi.nlm.nih.gov/31467147/" target="_blank"><b>RNA</b></a></td>
   </tr>
     
                     
@@ -291,7 +284,7 @@ glyphicon-download-alt"></span>&nbsp;&nbsp;Download above picture</button></a>
     <td>David M.J. Lilley</td>
     <td>2020</td>
     <td>Structure and ligand binding of the ADP-binding domain of the NAD<sup>+</sup> riboswitch</td>
-    <td><a href="https://pubmed.ncbi.nlm.nih.gov/32295864/"  target="_blank" ><b>RNA</b></a></td>
+    <td><a href="https://pubmed.ncbi.nlm.nih.gov/32295864/" target="_blank"><b>RNA</b></a></td>
   </tr>
     
                     
@@ -303,7 +296,7 @@ glyphicon-download-alt"></span>&nbsp;&nbsp;Download above picture</button></a>
     <td>Aiming Ren</td>
     <td>2020</td>
     <td>Structural distinctions between NAD<sup>+</sup> riboswitch domains 1 and 2 determine differential folding and ligand binding</td>
-    <td><a href="https://pubmed.ncbi.nlm.nih.gov/33170270/"  target="_blank" ><b>Nucleic Acids Res</b></a></td>
+    <td><a href="https://pubmed.ncbi.nlm.nih.gov/33170270/" target="_blank"><b>Nucleic Acids Res</b></a></td>
   </tr>
     
                     
@@ -315,7 +308,7 @@ glyphicon-download-alt"></span>&nbsp;&nbsp;Download above picture</button></a>
     <td>Joseph E. Wedekind</td>
     <td>2022</td>
     <td>A small RNA that cooperatively senses two stacked metabolites in one pocket for gene control</td>
-    <td><a href="https://pubmed.ncbi.nlm.nih.gov/35017488/"  target="_blank" ><b>Nat Commun</b></a></td>
+    <td><a href="https://pubmed.ncbi.nlm.nih.gov/35017488/" target="_blank"><b>Nat Commun</b></a></td>
   </tr>
     
                     
@@ -327,34 +320,34 @@ glyphicon-download-alt"></span>&nbsp;&nbsp;Download above picture</button></a>
     <td>Lin Huang</td>
     <td>2023</td>
     <td>Crystal structures of the NAD<sup>+</sup>-II riboswitch reveal two distinct ligand-binding pockets</td>
-    <td><a href="https://pubmed.ncbi.nlm.nih.gov/36840714/"  target="_blank" ><b>Nucleic Acids Res</b></a></td>
+    <td><a href="https://pubmed.ncbi.nlm.nih.gov/36840714/" target="_blank"><b>Nucleic Acids Res</b></a></td>
   </tr>
     
                     
 </tbody>
 </table>
 </html>
-            
+
 <p id="Tandem riboswitches sensing identical ligands"> </p>
-<br><br>        
-<p class="header_box" >Tandem riboswitches sensing identical ligands</p>
-<font>Some classes of riboswitches regulate gene expression by employing multiple aptamer domains, followed by a single expression platform for regulation. For instance, the majority of glycine riboswitches incorporate two aptamer domains that function cooperatively to closely mimic a two-state genetic switch. In the subsequent figure, we depict the tandem 'ON' glycine riboswitch (A) from <i>Bacillus subtilis</i>, alongside the tandem TPP riboswitch (B) from <i>Bacillus anthracis</i>.</font><br>      
-            
+<p><br /><br /></p>
+<p class="header_box">Tandem riboswitches sensing identical ligands</p>
+<p>Some classes of riboswitches regulate gene expression by employing multiple aptamer domains, followed by a single expression platform for regulation. For instance, the majority of glycine riboswitches incorporate two aptamer domains that function cooperatively to closely mimic a two-state genetic switch. In the subsequent figure, we depict the tandem ‘ON’ glycine riboswitch (A) from <i>Bacillus subtilis</i>, alongside the tandem TPP riboswitch (B) from <i>Bacillus anthracis</i>.<br /></p>
+
 <div style="weight:400px;display:block;margin:0 auto;border:solid 1px;border-radius:0;">
-<img src="/images/tandem/Tandem_RS_2.svg" alt="drawing" >
+  <p><img src="/images/tandem/Tandem_RS_2.svg" alt="drawing" /></p>
 </div>
 <div style="display: flex; justify-content: center;">
-<a href="/downloads/tandem/Tandem_RS_2.pdf" target="_blank" download="Tandem_RS_2.pdf"><button class="btn btn-secondary"><span class="glyphicon 
-glyphicon-download-alt"></span>&nbsp;&nbsp;Download above picture</button></a>
-</div><br>
-                                                    
+  <p><a href="/downloads/tandem/Tandem_RS_2.pdf" target="_blank" download="Tandem_RS_2.pdf"><button class="btn btn-secondary"><span class="glyphicon  glyphicon-download-alt"></span>  Download above picture</button></a></p>
+</div>
+<p><br /></p>
+
 <html>
 <head>
-    <meta http-equiv="Content-type" content="text/html; charset=utf-8">
-    <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no">
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no" />
     <title>Ribozyme applications </title>
-    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.12.1/css/jquery.dataTables.min.css">
-    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/buttons/2.2.3/css/buttons.dataTables.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.12.1/css/jquery.dataTables.min.css" />
+    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/buttons/2.2.3/css/buttons.dataTables.min.css" />
 </head>
     <style>
         th {background-color: #005826;
@@ -362,14 +355,14 @@ glyphicon-download-alt"></span>&nbsp;&nbsp;Download above picture</button></a>
             cursor: pointer;
         }
     </style>
-  <script type="text/javascript"  src="https://code.jquery.com/jquery-3.5.1.js"></script>
-    <script type="text/javascript"  src="https://cdn.datatables.net/1.12.1/js/jquery.dataTables.min.js"></script>
-    <script type="text/javascript"  src="https://cdn.datatables.net/buttons/2.2.3/js/dataTables.buttons.min.js"></script>
-    <script type="text/javascript"  src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.1.3/jszip.min.js"></script>
-    <script type="text/javascript"  src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.53/pdfmake.min.js"></script>
-    <script type="text/javascript"  src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.53/vfs_fonts.js"></script>
+  <script type="text/javascript" src="https://code.jquery.com/jquery-3.5.1.js"></script>
+    <script type="text/javascript" src="https://cdn.datatables.net/1.12.1/js/jquery.dataTables.min.js"></script>
+    <script type="text/javascript" src="https://cdn.datatables.net/buttons/2.2.3/js/dataTables.buttons.min.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.1.3/jszip.min.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.53/pdfmake.min.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.53/vfs_fonts.js"></script>
     <script type="text/javascript" src="https://cdn.datatables.net/buttons/2.2.3/js/buttons.html5.min.js"></script>
-    <script type="text/javascript"  src="https://cdn.datatables.net/buttons/2.2.3/js/buttons.print.min.js"></script>
+    <script type="text/javascript" src="https://cdn.datatables.net/buttons/2.2.3/js/buttons.print.min.js"></script>
     <script type="text/javascript">
 
         $(document).ready(function() {
@@ -406,7 +399,7 @@ glyphicon-download-alt"></span>&nbsp;&nbsp;Download above picture</button></a>
     <td>Ronald R. Breaker</td>
     <td>2004</td>
     <td>A glycine-dependent riboswitch that uses cooperative binding to control gene expression</td>
-    <td><a href="https://pubmed.ncbi.nlm.nih.gov/15472076/"  target="_blank" ><b>Science</b></a></td>
+    <td><a href="https://pubmed.ncbi.nlm.nih.gov/15472076/" target="_blank"><b>Science</b></a></td>
   </tr>
     
                     
@@ -418,7 +411,7 @@ glyphicon-download-alt"></span>&nbsp;&nbsp;Download above picture</button></a>
     <td>Dinshaw J. Patel</td>
     <td>2010</td>
     <td>Structural insights into ligand recognition by a sensing domain of the cooperative glycine riboswitch</td>
-    <td><a href="https://pubmed.ncbi.nlm.nih.gov/21145485/"  target="_blank" ><b>Mol Cell</b></a></td>
+    <td><a href="https://pubmed.ncbi.nlm.nih.gov/21145485/" target="_blank"><b>Mol Cell</b></a></td>
   </tr>
     
                     
@@ -430,7 +423,7 @@ glyphicon-download-alt"></span>&nbsp;&nbsp;Download above picture</button></a>
     <td>Scott A. Strobel</td>
     <td>2011</td>
     <td>Structural basis of cooperative ligand binding by the glycine riboswitch</td>
-    <td><a href="https://pubmed.ncbi.nlm.nih.gov/21439473/"  target="_blank" ><b>Chem Biol</b></a></td>
+    <td><a href="https://pubmed.ncbi.nlm.nih.gov/21439473/" target="_blank"><b>Chem Biol</b></a></td>
   </tr>
     
                     
@@ -442,7 +435,7 @@ glyphicon-download-alt"></span>&nbsp;&nbsp;Download above picture</button></a>
     <td>Scott A. Strobel</td>
     <td>2020</td>
     <td>The asymmetry and cooperativity of tandem glycine riboswitch aptamers</td>
-    <td><a href="https://pubmed.ncbi.nlm.nih.gov/31992591/"  target="_blank" ><b>RNA</b></a></td>
+    <td><a href="https://pubmed.ncbi.nlm.nih.gov/31992591/" target="_blank"><b>RNA</b></a></td>
   </tr>
     
                     
@@ -454,7 +447,7 @@ glyphicon-download-alt"></span>&nbsp;&nbsp;Download above picture</button></a>
     <td>Ronald R. Breaker</td>
     <td>2011</td>
     <td>Bacterial aptamers that selectively bind glutamine</td>
-    <td><a href="https://pubmed.ncbi.nlm.nih.gov/21282981/"  target="_blank" ><b>RNA Biol</b></a></td>
+    <td><a href="https://pubmed.ncbi.nlm.nih.gov/21282981/" target="_blank"><b>RNA Biol</b></a></td>
   </tr>
     
                     
@@ -466,7 +459,7 @@ glyphicon-download-alt"></span>&nbsp;&nbsp;Download above picture</button></a>
     <td>Hashim M. Al-Hashimi, Dinshaw J. Patel</td>
     <td>2015</td>
     <td>Structural and Dynamic Basis for Low-Affinity, High-Selectivity Binding of L-Glutamine by the Glutamine Riboswitch</td>
-    <td><a href="https://pubmed.ncbi.nlm.nih.gov/26655897/"  target="_blank" ><b>Cell Rep</b></a></td>
+    <td><a href="https://pubmed.ncbi.nlm.nih.gov/26655897/" target="_blank"><b>Cell Rep</b></a></td>
   </tr>
     
                     
@@ -478,19 +471,19 @@ glyphicon-download-alt"></span>&nbsp;&nbsp;Download above picture</button></a>
     <td>Ronald R. Breaker</td>
     <td>2007</td>
     <td>Ligand binding and gene control characteristics of tandem riboswitches in <i>Bacillus anthracis</i></td>
-    <td><a href="https://pubmed.ncbi.nlm.nih.gov/17307816/"  target="_blank" ><b>RNA</b></a></td>
+    <td><a href="https://pubmed.ncbi.nlm.nih.gov/17307816/" target="_blank"><b>RNA</b></a></td>
   </tr>
     
                     
    <tr>
-    <td><a href="https://ribocentre-switch.github.io/docs/MoCo&Wco" target="_blank"><b>MoCo & Wco riboswitch</b></a></td>
+    <td><a href="https://ribocentre-switch.github.io/docs/MoCo&amp;Wco" target="_blank"><b>MoCo &amp; Wco riboswitch</b></a></td>
     <td><i>Syntrophomonas wolfei</i> and <i>Moorella thermoacetica</i></td>
     <td>This paper identified a highly conserved RNA motif controling gene expression in response to molybdenum cofactor (Moco). Furthermore, the authors identify variants of this RNA that are likely to be triggered by the related tungsten cofactor (Tuco). Multiple arrangements these RNAs were both observed.</td>
     <td>Elizabeth E. Regulski</td>
     <td>Ronald R. Breaker</td>
     <td>2008</td>
     <td>A widespread riboswitch candidate that controls bacterial genes involved in molybdenum cofactor and tungsten cofactor metabolism</td>
-    <td><a href="https://pubmed.ncbi.nlm.nih.gov/18363797/"  target="_blank" ><b>Mol Microbiol</b></a></td>
+    <td><a href="https://pubmed.ncbi.nlm.nih.gov/18363797/" target="_blank"><b>Mol Microbiol</b></a></td>
   </tr>
     
                     
@@ -502,34 +495,34 @@ glyphicon-download-alt"></span>&nbsp;&nbsp;Download above picture</button></a>
     <td>Ronald R. Breaker</td>
     <td>2022</td>
     <td>Lithium-sensing riboswitch classes regulate expression of bacterial cation transporter genes</td>
-    <td><a href="https://pubmed.ncbi.nlm.nih.gov/36352003/"  target="_blank" ><b>Sci Rep</b></a></td>
+    <td><a href="https://pubmed.ncbi.nlm.nih.gov/36352003/" target="_blank"><b>Sci Rep</b></a></td>
   </tr>
     
                     
     </tbody>
     </table>
     </html>
-                
+
 <p id="Tandem riboswitches sensing multiple ligands"> </p>
-<br><br>
-<p class="header_box" >Tandem riboswitches sensing multiple ligands</p>
-<font>Among the remarkable discoveries in the field of riboswitches is the identification of riboswitches with distinct binding sites for various ligands. Occasionally, these riboswitches feature a single expression platform subsequent to the final aptamer domain. In other instances, riboswitches exhibit two distinct, independently functioning regulatory units arranged in tandem. To enhance comprehension of the genetic regulation mechanism of these tandem riboswitches, we illustrate this concept using two examples: Tandem SAM-I and AdoCbl riboswitch from <i>Bacillus clausii</i>, and Tandem Guanine and PRPP riboswitch from <i>Syntrophothermus lipocalidus</i>.</font><br>      
-            
+<p><br /><br /></p>
+<p class="header_box">Tandem riboswitches sensing multiple ligands</p>
+<p>Among the remarkable discoveries in the field of riboswitches is the identification of riboswitches with distinct binding sites for various ligands. Occasionally, these riboswitches feature a single expression platform subsequent to the final aptamer domain. In other instances, riboswitches exhibit two distinct, independently functioning regulatory units arranged in tandem. To enhance comprehension of the genetic regulation mechanism of these tandem riboswitches, we illustrate this concept using two examples: Tandem SAM-I and AdoCbl riboswitch from <i>Bacillus clausii</i>, and Tandem Guanine and PRPP riboswitch from <i>Syntrophothermus lipocalidus</i>.<br /></p>
+
 <div style="weight:400px;display:block;margin:0 auto;border:solid 1px;border-radius:0;">
-<img src="/images/tandem/Tandem_RS_3.svg" alt="drawing" >
+  <p><img src="/images/tandem/Tandem_RS_3.svg" alt="drawing" /></p>
 </div>
 <div style="display: flex; justify-content: center;">
-<a href="/downloads/tandem/Tandem_RS_3.pdf" target="_blank" download="Tandem_RS_3.pdf"><button class="btn btn-secondary"><span class="glyphicon 
-glyphicon-download-alt"></span>&nbsp;&nbsp;Download above picture</button></a>
-</div><br>
-                                                    
+  <p><a href="/downloads/tandem/Tandem_RS_3.pdf" target="_blank" download="Tandem_RS_3.pdf"><button class="btn btn-secondary"><span class="glyphicon  glyphicon-download-alt"></span>  Download above picture</button></a></p>
+</div>
+<p><br /></p>
+
 <html>
 <head>
-    <meta http-equiv="Content-type" content="text/html; charset=utf-8">
-    <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no">
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no" />
     <title>Ribozyme applications </title>
-    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.12.1/css/jquery.dataTables.min.css">
-    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/buttons/2.2.3/css/buttons.dataTables.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.12.1/css/jquery.dataTables.min.css" />
+    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/buttons/2.2.3/css/buttons.dataTables.min.css" />
 </head>
     <style>
         th {background-color: #005826;
@@ -537,14 +530,14 @@ glyphicon-download-alt"></span>&nbsp;&nbsp;Download above picture</button></a>
             cursor: pointer;
         }
     </style>
-  <script type="text/javascript"  src="https://code.jquery.com/jquery-3.5.1.js"></script>
-    <script type="text/javascript"  src="https://cdn.datatables.net/1.12.1/js/jquery.dataTables.min.js"></script>
-    <script type="text/javascript"  src="https://cdn.datatables.net/buttons/2.2.3/js/dataTables.buttons.min.js"></script>
-    <script type="text/javascript"  src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.1.3/jszip.min.js"></script>
-    <script type="text/javascript"  src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.53/pdfmake.min.js"></script>
-    <script type="text/javascript"  src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.53/vfs_fonts.js"></script>
+  <script type="text/javascript" src="https://code.jquery.com/jquery-3.5.1.js"></script>
+    <script type="text/javascript" src="https://cdn.datatables.net/1.12.1/js/jquery.dataTables.min.js"></script>
+    <script type="text/javascript" src="https://cdn.datatables.net/buttons/2.2.3/js/dataTables.buttons.min.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.1.3/jszip.min.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.53/pdfmake.min.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.53/vfs_fonts.js"></script>
     <script type="text/javascript" src="https://cdn.datatables.net/buttons/2.2.3/js/buttons.html5.min.js"></script>
-    <script type="text/javascript"  src="https://cdn.datatables.net/buttons/2.2.3/js/buttons.print.min.js"></script>
+    <script type="text/javascript" src="https://cdn.datatables.net/buttons/2.2.3/js/buttons.print.min.js"></script>
     <script type="text/javascript">
 
         $(document).ready(function() {
@@ -581,7 +574,7 @@ glyphicon-download-alt"></span>&nbsp;&nbsp;Download above picture</button></a>
     <td>Ronald R. Breaker</td>
     <td>2006</td>
     <td>Tandem riboswitch architectures exhibit complex gene control functions</td>
-    <td><a href="https://pubmed.ncbi.nlm.nih.gov/17038623/"  target="_blank" ><b>Science</b></a></td>
+    <td><a href="https://pubmed.ncbi.nlm.nih.gov/17038623/" target="_blank"><b>Science</b></a></td>
   </tr>
     
                     
@@ -593,7 +586,7 @@ glyphicon-download-alt"></span>&nbsp;&nbsp;Download above picture</button></a>
     <td>Ronald R. Breaker</td>
     <td>2009</td>
     <td>A variant riboswitch aptamer class for S-adenosylmethionine common in marine bacteria</td>
-    <td><a href="https://pubmed.ncbi.nlm.nih.gov/19776155/"  target="_blank" ><b>RNA</b></a></td>
+    <td><a href="https://pubmed.ncbi.nlm.nih.gov/19776155/" target="_blank"><b>RNA</b></a></td>
   </tr>
     
                     
@@ -605,7 +598,7 @@ glyphicon-download-alt"></span>&nbsp;&nbsp;Download above picture</button></a>
     <td>Ronald R. Breaker</td>
     <td>2010</td>
     <td>An allosteric self-splicing ribozyme triggered by a bacterial second messenger</td>
-    <td><a href="https://pubmed.ncbi.nlm.nih.gov/20705859/"  target="_blank" ><b>Science</b></a></td>
+    <td><a href="https://pubmed.ncbi.nlm.nih.gov/20705859/" target="_blank"><b>Science</b></a></td>
   </tr>
     
                     
@@ -617,7 +610,7 @@ glyphicon-download-alt"></span>&nbsp;&nbsp;Download above picture</button></a>
     <td>Ronald R. Breaker</td>
     <td>2011</td>
     <td>Mechanism for gene control by a natural allosteric group I ribozyme</td>
-    <td><a href="https://pubmed.ncbi.nlm.nih.gov/21960486/"  target="_blank" ><b>RNA</b></a></td>
+    <td><a href="https://pubmed.ncbi.nlm.nih.gov/21960486/" target="_blank"><b>RNA</b></a></td>
   </tr>
     
                     
@@ -629,7 +622,7 @@ glyphicon-download-alt"></span>&nbsp;&nbsp;Download above picture</button></a>
     <td>Ronald R. Breaker</td>
     <td>2010</td>
     <td>A eubacterial riboswitch class that senses the coenzyme tetrahydrofolate</td>
-    <td><a href="https://pubmed.ncbi.nlm.nih.gov/20659680/"  target="_blank" ><b>Chem Biol</b></a></td>
+    <td><a href="https://pubmed.ncbi.nlm.nih.gov/20659680/" target="_blank"><b>Chem Biol</b></a></td>
   </tr>
     
                     
@@ -641,7 +634,7 @@ glyphicon-download-alt"></span>&nbsp;&nbsp;Download above picture</button></a>
     <td>Ronald R. Breaker</td>
     <td>2018</td>
     <td>Riboswitches for the alarmone ppGpp expand the collection of RNA-based signaling systems</td>
-    <td><a href="https://pubmed.ncbi.nlm.nih.gov/29784782/"  target="_blank" ><b>Proc Natl Acad Sci U S A</b></a></td>
+    <td><a href="https://pubmed.ncbi.nlm.nih.gov/29784782/" target="_blank"><b>Proc Natl Acad Sci U S A</b></a></td>
   </tr>
     
                     
@@ -653,7 +646,7 @@ glyphicon-download-alt"></span>&nbsp;&nbsp;Download above picture</button></a>
     <td>Ronald R. Breaker</td>
     <td>2018</td>
     <td>Tandem riboswitches form a natural Boolean logic gate to control purine metabolism in bacteria</td>
-    <td><a href="https://pubmed.ncbi.nlm.nih.gov/29504937/"  target="_blank" ><b>Elife</b></a></td>
+    <td><a href="https://pubmed.ncbi.nlm.nih.gov/29504937/" target="_blank"><b>Elife</b></a></td>
   </tr>
     
                     
@@ -665,7 +658,7 @@ glyphicon-download-alt"></span>&nbsp;&nbsp;Download above picture</button></a>
     <td>Alexander Serganov</td>
     <td>2018</td>
     <td>ykkC riboswitches employ an add-on helix to adjust specificity for polyanionic ligands</td>
-    <td><a href="https://pubmed.ncbi.nlm.nih.gov/30120360/"  target="_blank" ><b>Nat Chem Biol</b></a></td>
+    <td><a href="https://pubmed.ncbi.nlm.nih.gov/30120360/" target="_blank"><b>Nat Chem Biol</b></a></td>
   </tr>
     
                     
@@ -677,7 +670,7 @@ glyphicon-download-alt"></span>&nbsp;&nbsp;Download above picture</button></a>
     <td>Scott A. Strobel</td>
     <td>2018</td>
     <td>Structures of two aptamers with differing ligand specificity reveal ruggedness in the functional landscape of RNA</td>
-    <td><a href="https://pubmed.ncbi.nlm.nih.gov/29877798/"  target="_blank" ><b>Elife</b></a></td>
+    <td><a href="https://pubmed.ncbi.nlm.nih.gov/29877798/" target="_blank"><b>Elife</b></a></td>
   </tr>
     
                     
@@ -689,7 +682,7 @@ glyphicon-download-alt"></span>&nbsp;&nbsp;Download above picture</button></a>
     <td>Ronald R. Breaker</td>
     <td>2019</td>
     <td>A bacterial riboswitch class for the thiamin precursor HMP-PP employs a terminator-embedded aptamer</td>
-    <td><a href="https://pubmed.ncbi.nlm.nih.gov/30950790/"  target="_blank" ><b>Elife</b></a></td>
+    <td><a href="https://pubmed.ncbi.nlm.nih.gov/30950790/" target="_blank"><b>Elife</b></a></td>
   </tr>
     
                     
@@ -701,11 +694,12 @@ glyphicon-download-alt"></span>&nbsp;&nbsp;Download above picture</button></a>
     <td>Hongzhou Gu, Ji-Liang Tang</td>
     <td>2020</td>
     <td>A SAM-I riboswitch with the ability to sense and respond to uncharged initiator tRNA</td>
-    <td><a href="https://pubmed.ncbi.nlm.nih.gov/32493973/"  target="_blank" ><b>Nat Commun</b></a></td>
+    <td><a href="https://pubmed.ncbi.nlm.nih.gov/32493973/" target="_blank"><b>Nat Commun</b></a></td>
   </tr>
     
                     
     </tbody>
     </table>
     </html>
-                
+
+:ET
