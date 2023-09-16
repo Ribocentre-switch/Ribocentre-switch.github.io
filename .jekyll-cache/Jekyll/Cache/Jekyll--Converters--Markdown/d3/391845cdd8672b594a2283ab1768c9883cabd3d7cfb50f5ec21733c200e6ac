@@ -1,160 +1,4 @@
-<!DOCTYPE html>
-<html>
-
-  <head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Ribocentre - TandemRS</title>
-  <meta name="description" content="Riboswitches: A riboswitch database">
-  <!--<link rel="stylesheet" href="http://localhost:4003/css/main.css>-->
-  <link rel="stylesheet" href="/css/main.css">
-  <link rel="canonical" href="http://localhost:4003/tandom_riboswitches/">
-  <link rel="shortcut icon" type ="image/x-icon" href="http://localhost:4003/images/favicon.ico">
-
-
-
-</head>
-
-
-  <body>
-    
-	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-  
-<div class="navbar navbar-default navbar-fixed-top" role="navigation">
-  <style>
-		.navbar-default .navbar-brand {
-    color: #ffffff;
-		}
-        .navbar {
-            background-color: #005826;
-        }
-		#now a{
-			color:#fff;
-			font-size: 20px;
-		}
-		#now a:hover{
-			font-size: 20px;
-		}
-	
-		
-	li {
-		float: left;
-	}
-
-	li a {
-		display: block;
-		color: rgb(254, 247, 247);
-		text-align: center;
-		padding: 14px 16px;
-		text-decoration: none;
-	}
-
-	li a:hover:not(.active) {
-		background-color: #005826;
-	}
-
-	li a.active {
-		background-color: #000000;
-}
-
-</style>
-
-
-
-  <div class="container-fluid2">
-	<div class="navbar-header">
-	  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse-1" aria-expanded="false">
-		<span class="sr-only">Toggle navigation</span>
-		<span class="icon-bar"></span>
-		<span class="icon-bar"></span>
-		<span class="icon-bar"></span>
-	  </button>
-	
-    <a class="navbar-brand" href="https://riboswitch.ribocentre.org/">
-		
-		<img class="navbar-brand" src="/images/Riboswitch_logo_bggreen.png" style='height:50px;margin-top:-14px;margin-bottom:0;padding:0;font-size: 20px; ' alt="logo">
-		&nbsp;Ribocentre-switch 
-	</a>
-	</div>
-	<div class="collapse navbar-collapse" id="navbar-collapse-1">
-	  <ul class="nav navbar-nav navbar-right" style="margin-right: 0px;">
-		<li id="now" ><a href="http://localhost:4003/">Home</a></li>
-		<li id="now"><a href="http://localhost:4003/riboswitches/">Riboswitches</a></li>
-		<li id="now"><a href="http://localhost:4003/tandom_riboswitches/">Tandem RS</a></li>
-		<li id="now"><a href="http://localhost:4003/orphan_riboswitch/">Orphan RS</a></li>
-		<li id="now"><a href="http://localhost:4003/sequences/">Sequences</a></li>
-		<li id="now"><a href="http://localhost:4003/structures/">Structures</a></li>
-		<li id="now"><a href="http://localhost:4003/binding_pockets/">Binding pockets</a></li>
-		<li id="now"><a href="http://localhost:4003/applications/">Applications</a></li>
-		<li id="now"><a href="http://localhost:4003/publications/">Publications</a></li>
-		<li id="now"><a href="http://localhost:4003/helps/">Help</a></li>
-	  </ul>
-	  <script>
-		window.addEventListener("DOMContentLoaded", function() {
-		  // 获取当前页面的URL
-		  var currentURL = window.location.href;
-		  
-		  // 获取所有导航按钮
-		  var navButtons = document.querySelectorAll("li a");
-		  
-		  // 遍历导航按钮
-		  navButtons.forEach(function(button) {
-				// 获取按钮的链接
-				var buttonURL = button.href;
-				
-				// 比较URL是否与当前页面的URL匹配
-				if (currentURL === buttonURL) {
-				  // 设置匹配的按钮为激活状态
-				  button.classList.add("active");
-				}
-		  });
-		});
-		</script>
-	  
-				
-   </div>
-  </div>
-</div>
-    
-      <div class="container-fluid">
-        <div class="row">
-          <style>
-  .box_style{
-    background: #f4f4f4;
-  }
-  .well {
-    max-width: 70%;
-    margin: 0 auto;
-    border-top: 3px solid black;
-    }
-  .wrapper {
-    display: block;
-    position: relative;
-    width: 100%;
-    margin: 0;
-    padding: 0;
-    text-align: left;
-    word-wrap: break-word;
-    }
-  .sectiontitle {
-    display: block;
-    max-width: 100%;
-    margin: 0 auto ;
-    text-align: left;
-    background :#fff;
-    }
-    body {
-    padding-top: 70px;
-  }
-</style>
-
-  <div class="wrapper box_style " >
-    <br>
-    <div class="well" style="border: 1px solid #C9C9C9; background-color: #fff;">
-      <section class="sectiontitle"> 
-     
-       <h1 class="post-title" itemprop="name headline">Tandem Riboswitches</h1>
+I"̟<h1 class="post-title" itemprop="name headline">Tandem Riboswitches</h1>
 <p>Tandem riboswitches refer to the arrangement of aptamers or complete riboswitches in tandem, creating RNA systems with more complex gene regulatory functions. Various types of independent tandem riboswitches have been identified. We present three categories for discussing multi-ligand sensing and regulation by riboswitches and tandem riboswitches: ‘Single riboswitch sensing multiple ligand molecules’,’Tandem riboswitches sensing identical ligands’, and ‘Tandem riboswitches sensing multiple ligands’.
 <br /><br /></p>
 
@@ -164,12 +8,11 @@
   <style>
     /* 按钮容器样式 */
     .button-container {
-  display: flex;
-  flex-direction: column;  /* 使内容垂直排列 */
-  align-items: flex-start; /* 使内容靠左对齐 */
-  
-}
-
+      display: flex;
+      justify-content: left;
+      align-items: center;
+      height: 50px;
+    }
     
     /* 按钮样式 */
     .button {
@@ -183,7 +26,6 @@
       text-decoration: none;
       border: 1px solid #005826;
       border-radius: 5px;
-      margin-bottom: 10px; 
       
     }
     
@@ -203,14 +45,6 @@
   </style>
 </head>
 <body>
-<p id="Single riboswitch sensing multiple ligand molecules"> </p>
-
-  <p style="font-size: 16px">Click the buttons to navigate to different sections:</p>
-  <div class="button-container">
-    <a class="button" href="#Single riboswitch sensing multiple ligand molecules">Single riboswitch sensing multiple ligand molecules</a>
-    <a class="button" href="#Tandem riboswitches sensing identical ligands">Tandem riboswitches sensing identical ligands</a>
-    <a class="button" href="#Tandem riboswitches sensing multiple ligands">Tandem riboswitches sensing multiple ligands</a>
-  </div>
 </body>
 </html>
 <p><br /></p>
@@ -484,7 +318,6 @@
 </table>
 </html>
 
-<p id="Tandem riboswitches sensing identical ligands"> </p>
 <p><br /><br /></p>
 <p class="header_box">Tandem riboswitches sensing identical ligands</p>
 <p>Some classes of riboswitches regulate gene expression by employing multiple aptamer domains, followed by a single expression platform for regulation. For instance, the majority of glycine riboswitches incorporate two aptamer domains that function cooperatively to closely mimic a two-state genetic switch. In the subsequent figure, we depict the tandem ‘ON’ glycine riboswitch (A) from <i>Bacillus subtilis</i>, alongside the tandem TPP riboswitch (B) from <i>Bacillus anthracis</i>.<br /></p>
@@ -659,7 +492,6 @@
     </table>
     </html>
 
-<p id="Tandem riboswitches sensing multiple ligands"> </p>
 <p><br /><br /></p>
 <p class="header_box">Tandem riboswitches sensing multiple ligands</p>
 <p>Among the remarkable discoveries in the field of riboswitches is the identification of riboswitches with distinct binding sites for various ligands. Occasionally, these riboswitches feature a single expression platform subsequent to the final aptamer domain. In other instances, riboswitches exhibit two distinct, independently functioning regulatory units arranged in tandem. To enhance comprehension of the genetic regulation mechanism of these tandem riboswitches, we illustrate this concept using two examples: Tandem SAM-I and AdoCbl riboswitch from <i>Bacillus clausii</i>, and Tandem Guanine and PRPP riboswitch from <i>Syntrophothermus lipocalidus</i>.<br /></p>
@@ -723,7 +555,7 @@
  <tbody>
             
    <tr>
-    <td><b>Tandem SAM-I and AdoCbl riboswitch</b></td>
+    <td><b>Tandem SAM-I and AdoCbl riboswitch</b>&lt;/a&gt;</td>
     <td><i>Bacillus clausii</i></td>
     <td>This study found that the 5' region of the <i>metE</i> gene from <i>Bacillus clausii</i> carries sequences and structures that conform respectively to SAM-I riboswitch and AdoCbl riboswitch, suggesting that the two ligands can independently repress <i>metE</i>. Thus, the tandem SAM-I and AdoCbl riboswitch arrangement is expected to function as a natural Boolean NOR logic gate.</td>
     <td>Narasimhan Sudarsan</td>
@@ -735,7 +567,7 @@
     
                     
    <tr>
-    <td><b>Tandem SAM-II and SAM-V riboswitch</b></td>
+    <td><b>Tandem SAM-II and SAM-V riboswitch</b>&lt;/a&gt;</td>
     <td><i>Candidatus Pelagibacter ubique</i></td>
     <td>The authors described a fifth class of SAM binding aptamer, termed SAM-V and  identified numerous examples of a tandem SAM-II/SAM-V aptamer architecture, where the SAM-II aptamer is always positioned 5' of the SAM-V aptamer. The SAM-II aptamer always occurs first, followed by an apparent intrinsic transcription terminator stem, and the SAM-V aptamer contains an SD sequence. It is speculated that the two aptamers independently function as riboswitches at two different stages of the gene expression pathway.</td>
     <td>Elena Poiata</td>
@@ -747,7 +579,7 @@
     
                     
    <tr>
-    <td><b>Tandem c-di-GMP riboswitch and group I self-splicing intron</b></td>
+    <td><b>Tandem c-di-GMP riboswitch and group I self-splicing intron</b>&lt;/a&gt;</td>
     <td><i>Clostridium difficile</i></td>
     <td>This paper identified a tandem RNA sensory system consisting of a c-di-GMP riboswitch and a group I self-splicing intron, wherein self-splicing is regulated by upstream c-di-GMP riboswitch. The findings indicated that some self-splicing ribozymes are harnessed by cells as metabolite sensors and genetic regulators.</td>
     <td>Elaine R. Lee, Jenny L. Baker</td>
@@ -759,7 +591,7 @@
     
                     
    <tr>
-    <td><b>Tandem c-di-GMP riboswitch and group I self-splicing intron</b></td>
+    <td><b>Tandem c-di-GMP riboswitch and group I self-splicing intron</b>&lt;/a&gt;</td>
     <td><i>Clostridium difficile</i></td>
     <td>This study found that the tandem c-di-GMP riboswitch and group I self-splicing intron architecture provides the riboswitch with a mechanism for extended regulation after splicing has occurred or as a backup mechanism for suppression of translation in the event of misregulated splicing.</td>
     <td>Andy G.Y. Chen</td>
@@ -771,7 +603,7 @@
     
                     
    <tr>
-    <td><b>Tandem THF-I and ZTP riboswitch</b></td>
+    <td><b>Tandem THF-I and ZTP riboswitch</b>&lt;/a&gt;</td>
     <td><i>Clostridium kluyveri</i></td>
     <td>This study identified a new-found RNA class as THF-I riboswitch, which was found to be located immediately downstream of a <i>pfl</i> RNA representative (ZTP riboswitch) in <i>Clostridium kluyveri</i>.</td>
     <td>Tyler D. Ames</td>
@@ -783,7 +615,7 @@
     
                     
    <tr>
-    <td><b>Tandem ppGpp and T-box riboswitch</b></td>
+    <td><b>Tandem ppGpp and T-box riboswitch</b>&lt;/a&gt;</td>
     <td>Phylum Firmicutes</td>
     <td>This paper reported the discovery and biochemical validation of a natural riboswitch class that selectively binds guanosine tetraphosphate (ppGpp), and found that in ∼40% of the instances when the ppGpp riboswitch is found in the 5′UTR of branched-chain amino acid biosynthesis genes, a leucine T-box RNA is found either directly upstream or downstream of the riboswitch in the same UTR.</td>
     <td>Madeline E. Sherlock</td>
@@ -795,7 +627,7 @@
     
                     
    <tr>
-    <td><b>Tandem Guuanine and PRPP riboswitch</b></td>
+    <td><b>Tandem Guuanine and PRPP riboswitch</b>&lt;/a&gt;</td>
     <td><i>Bacillus megaterium</i></td>
     <td>This paper reported the discovery of riboswitch aptamers for phosphoribosyl pyrophosphate (PRPP) that naturally exist either in singlet arrangements, or occur in tandem with guanine aptamers. Tandem guanine-PRPP riboswitches can bind the target ligands, either independently or in combination, to approximate the function expected for an IMPLY Boolean logic gate to regulate transcription of messenger RNAs for <i>de novo</i> purine biosynthesis in bacteria.</td>
     <td>Madeline E. Sherlock</td>
@@ -807,7 +639,7 @@
     
                     
    <tr>
-    <td><b>Tandem Guuanine and PRPP riboswitch</b></td>
+    <td><b>Tandem Guuanine and PRPP riboswitch</b>&lt;/a&gt;</td>
     <td><i>Syntrophothermus lipocalidus</i></td>
     <td>This paper showed the crystal structure of PRPP (phosphoribosyl pyrophosphate) riboswitch in the presence or absence of PRPP and  provided a clue on the mechanism of the IMPLY logic gate of the tandem guanine-PRPP riboswitches, wherein transcription proceeds in all cases except when guanine is present and PRPP is not.</td>
     <td>Alla Peselis</td>
@@ -819,7 +651,7 @@
     
                     
    <tr>
-    <td><b>Tandem Guuanine and PRPP riboswitch</b></td>
+    <td><b>Tandem Guuanine and PRPP riboswitch</b>&lt;/a&gt;</td>
     <td><i>Thermoanaerobacter mathranii</i></td>
     <td>This paper also solved the crystal structure of PRPP (phosphoribosyl pyrophosphate) riboswitch bound to PRPP at 2.5 Å, and the present structural data shed additional light on the potential mechanism of switching in tandem guanine-PRPP riboswitches that PRPP binding stabilizes P0 and disrupts the P1 helix of the guanine aptamer.</td>
     <td>Andrew John Knappenberger, Caroline Wetherington Reiss</td>
@@ -831,7 +663,7 @@
     
                     
    <tr>
-    <td><b>Tandem TPP and HMP-PP riboswitch</b></td>
+    <td><b>Tandem TPP and HMP-PP riboswitch</b>&lt;/a&gt;</td>
     <td><i>Bacillus subtilis</i></td>
     <td>This study demonstrated that thiS motif RNAs function as sensors of the thiamin precursor HMP-PP, and found that approximately 30% of the representatives of HMP-PP riboswitches reside in tandem with TPP riboswitches. Both riboswitches carries their own intrinsic terminator expression platform.</td>
     <td>Ruben M Atilho</td>
@@ -843,7 +675,7 @@
     
                     
    <tr>
-    <td><b>Tandem SAM-I riboswitch and Met tRNA-binding site </b></td>
+    <td><b>Tandem SAM-I riboswitch and Met tRNA-binding site </b>&lt;/a&gt;</td>
     <td><i>Xanthomonas campestris</i></td>
     <td>This study characterized a SAM-I riboswitch (SAM-IXcc) from the Xanthomonas campestris, whose expression platform not only can repress gene expression in response to SAM binding to SAM-IXcc aptamer but also can sense and bind uncharged initiator Met tRNA.</td>
     <td>Dong-Jie Tang, Xinyu Du, Qiang Shi, Jian-Ling Zhang</td>
@@ -858,68 +690,4 @@
     </table>
     </html>
 
-
-      
-      </section>
-      
-    </div>
-    <br>
-  </div>
-  <br>
-  <script>
-    // Use JavaScript to detect device type and adjust page zoom
-    if (/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)) {
-      var viewport = document.querySelector('meta[name="viewport"]');
-      viewport.setAttribute('content', 'width=device-width, initial-scale=0.5, maximum-scale=1.0, user-scalable=yes');
-      document.body.style.zoom = "50%";
-    }
-  </script>
-  
-        </div>
-      </div>
-    <div id="footer" class="panel">
-  <div class="panel-footer">
-	<!--<div class="container-fluid2">-->
-	<div class="container-fluid2">
-	  <div class="row">
-		<div class="col-sm-4">
-			
-		  <p>&copy 2023 Ribocentre. Site made with <a href="https://jekyllrb.com">Jekyll</a>;  <a href="https://www.ribocentre.org/aboutwebsite.html">copy and  modify it for your own research group.</a></p>
-              <p>We are part of the <a href="https://gzlab.ac.cn">Guangzhou Laboratory</a> and <a href="http://www.gzsys.org.cn/">Sun Yat-sen Memorial Hospital of Sun Yat-sen University</a>.</p>
-            
-
-		   <p>  </p><p>
-            		  
-            
-		</div>
-		<div class="col-sm-4">
-		  Funding:<br />
-		  - <a href="https://www.nsfc.gov.cn/">NSFC</a> <br />
-		  - <a href="http://www.most.gov.cn/">MOST IT+BT project</a> <br />
-          - <a href="https://gzlab.ac.cn">GZlab starting grant</a><br />
-		  <br>
-		  <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
-		  <!--<span class="glyphicon glyphicon-user"></span>&nbsp;&nbsp;<span id="busuanzi_container_site_uv"><strong>: <a href=""><span id="busuanzi_value_site_uv"></span></strong></a> </span> &nbsp;&nbsp;
-		  !--><span class="glyphicon glyphicon-eye-open"></span>&nbsp;&nbsp;<span id="busuanzi_container_site_pv"><strong>: <a href=""><span id="busuanzi_value_site_pv"></span></strong></a> </span>
-
-		</div>
-		<div class="col-sm-4">
-		  Contact:<br />
-		  Building B2, Guangzhou Laboratory<br />
-		  96 Xingdao South Road, Guangzhou International Bio Island, <br />
-		  Haizhu District, Guangzhou, Guangdong,<br />
-		  China. <br />
-          (<a href="https://goo.gl/maps/hDLr6siEAS2Eaypt8">Maps</a>)
-		</div>
-	  </div>
-	</div>
-  </div>
-</div>
-
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-<script src="https://www.ribocentre.org/js/bootstrap.min.js"></script>
-
-
-  </body>
-
-</html>
+:ET

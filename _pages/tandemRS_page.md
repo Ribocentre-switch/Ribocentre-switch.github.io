@@ -16,11 +16,12 @@ Tandem riboswitches refer to the arrangement of aptamers or complete riboswitche
   <style>
     /* 按钮容器样式 */
     .button-container {
-      display: flex;
-      justify-content: left;
-      align-items: center;
-      height: 50px;
-    }
+  display: flex;
+  flex-direction: column;  /* 使内容垂直排列 */
+  align-items: flex-start; /* 使内容靠左对齐 */
+  
+}
+
     
     /* 按钮样式 */
     .button {
@@ -34,6 +35,7 @@ Tandem riboswitches refer to the arrangement of aptamers or complete riboswitche
       text-decoration: none;
       border: 1px solid #005826;
       border-radius: 5px;
+      margin-bottom: 10px; 
       
     }
     
@@ -53,6 +55,14 @@ Tandem riboswitches refer to the arrangement of aptamers or complete riboswitche
   </style>
 </head>
 <body>
+<p id="Single riboswitch sensing multiple ligand molecules"> </p>
+
+  <p style="font-size: 16px">Click the buttons to navigate to different sections:</p>
+  <div class="button-container">
+    <a class="button" href="#Single riboswitch sensing multiple ligand molecules" >Single riboswitch sensing multiple ligand molecules</a>
+    <a class="button" href="#Tandem riboswitches sensing identical ligands">Tandem riboswitches sensing identical ligands</a>
+    <a class="button" href="#Tandem riboswitches sensing multiple ligands">Tandem riboswitches sensing multiple ligands</a>
+  </div>
 </body>
 </html>
 <br>  
@@ -326,6 +336,8 @@ glyphicon-download-alt"></span>&nbsp;&nbsp;Download above picture</button></a>
 </table>
 </html>
             
+<p id="Tandem riboswitches sensing identical ligands"> </p>
+<br><br>        
 <p class="header_box" >Tandem riboswitches sensing identical ligands</p>
 Some classes of riboswitches regulate gene expression by employing multiple aptamer domains, followed by a single expression platform for regulation. For instance, the majority of glycine riboswitches incorporate two aptamer domains that function cooperatively to closely mimic a two-state genetic switch. In the subsequent figure, we depict the tandem 'ON' glycine riboswitch (A) from <i>Bacillus subtilis</i>, alongside the tandem TPP riboswitch (B) from <i>Bacillus anthracis</i>.<br>      
             
@@ -499,6 +511,8 @@ glyphicon-download-alt"></span>&nbsp;&nbsp;Download above picture</button></a>
     </table>
     </html>
                 
+<p id="Tandem riboswitches sensing multiple ligands"> </p>
+<br><br>
 <p class="header_box" >Tandem riboswitches sensing multiple ligands</p>
 Among the remarkable discoveries in the field of riboswitches is the identification of riboswitches with distinct binding sites for various ligands. Occasionally, these riboswitches feature a single expression platform subsequent to the final aptamer domain. In other instances, riboswitches exhibit two distinct, independently functioning regulatory units arranged in tandem. To enhance comprehension of the genetic regulation mechanism of these tandem riboswitches, we illustrate this concept using two examples: Tandem SAM-I and AdoCbl riboswitch from <i>Bacillus clausii</i>, and Tandem Guanine and PRPP riboswitch from <i>Syntrophothermus lipocalidus</i>.<br>      
             
@@ -561,7 +575,7 @@ glyphicon-download-alt"></span>&nbsp;&nbsp;Download above picture</button></a>
  <tbody>
             
    <tr>
-    <td><b>Tandem SAM-I and AdoCbl riboswitch</b></a></td>
+    <td><b>Tandem SAM-I and AdoCbl riboswitch</b></td>
     <td><i>Bacillus clausii</i></td>
     <td>This study found that the 5' region of the <i>metE</i> gene from <i>Bacillus clausii</i> carries sequences and structures that conform respectively to SAM-I riboswitch and AdoCbl riboswitch, suggesting that the two ligands can independently repress <i>metE</i>. Thus, the tandem SAM-I and AdoCbl riboswitch arrangement is expected to function as a natural Boolean NOR logic gate.</td>
     <td>Narasimhan Sudarsan</td>
@@ -573,7 +587,7 @@ glyphicon-download-alt"></span>&nbsp;&nbsp;Download above picture</button></a>
     
                     
    <tr>
-    <td><b>Tandem SAM-II and SAM-V riboswitch</b></a></td>
+    <td><b>Tandem SAM-II and SAM-V riboswitch</b></td>
     <td><i>Candidatus Pelagibacter ubique</i></td>
     <td>The authors described a fifth class of SAM binding aptamer, termed SAM-V and  identified numerous examples of a tandem SAM-II/SAM-V aptamer architecture, where the SAM-II aptamer is always positioned 5' of the SAM-V aptamer. The SAM-II aptamer always occurs first, followed by an apparent intrinsic transcription terminator stem, and the SAM-V aptamer contains an SD sequence. It is speculated that the two aptamers independently function as riboswitches at two different stages of the gene expression pathway.</td>
     <td>Elena Poiata</td>
@@ -585,7 +599,7 @@ glyphicon-download-alt"></span>&nbsp;&nbsp;Download above picture</button></a>
     
                     
    <tr>
-    <td><b>Tandem c-di-GMP riboswitch and group I self-splicing intron</b></a></td>
+    <td><b>Tandem c-di-GMP riboswitch and group I self-splicing intron</b></td>
     <td><i>Clostridium difficile</i></td>
     <td>This paper identified a tandem RNA sensory system consisting of a c-di-GMP riboswitch and a group I self-splicing intron, wherein self-splicing is regulated by upstream c-di-GMP riboswitch. The findings indicated that some self-splicing ribozymes are harnessed by cells as metabolite sensors and genetic regulators.</td>
     <td>Elaine R. Lee, Jenny L. Baker</td>
@@ -597,7 +611,7 @@ glyphicon-download-alt"></span>&nbsp;&nbsp;Download above picture</button></a>
     
                     
    <tr>
-    <td><b>Tandem c-di-GMP riboswitch and group I self-splicing intron</b></a></td>
+    <td><b>Tandem c-di-GMP riboswitch and group I self-splicing intron</b></td>
     <td><i>Clostridium difficile</i></td>
     <td>This study found that the tandem c-di-GMP riboswitch and group I self-splicing intron architecture provides the riboswitch with a mechanism for extended regulation after splicing has occurred or as a backup mechanism for suppression of translation in the event of misregulated splicing.</td>
     <td>Andy G.Y. Chen</td>
@@ -609,7 +623,7 @@ glyphicon-download-alt"></span>&nbsp;&nbsp;Download above picture</button></a>
     
                     
    <tr>
-    <td><b>Tandem THF-I and ZTP riboswitch</b></a></td>
+    <td><b>Tandem THF-I and ZTP riboswitch</b></td>
     <td><i>Clostridium kluyveri</i></td>
     <td>This study identified a new-found RNA class as THF-I riboswitch, which was found to be located immediately downstream of a <i>pfl</i> RNA representative (ZTP riboswitch) in <i>Clostridium kluyveri</i>.</td>
     <td>Tyler D. Ames</td>
@@ -621,7 +635,7 @@ glyphicon-download-alt"></span>&nbsp;&nbsp;Download above picture</button></a>
     
                     
    <tr>
-    <td><b>Tandem ppGpp and T-box riboswitch</b></a></td>
+    <td><b>Tandem ppGpp and T-box riboswitch</b></td>
     <td>Phylum Firmicutes</td>
     <td>This paper reported the discovery and biochemical validation of a natural riboswitch class that selectively binds guanosine tetraphosphate (ppGpp), and found that in ∼40% of the instances when the ppGpp riboswitch is found in the 5′UTR of branched-chain amino acid biosynthesis genes, a leucine T-box RNA is found either directly upstream or downstream of the riboswitch in the same UTR.</td>
     <td>Madeline E. Sherlock</td>
@@ -633,7 +647,7 @@ glyphicon-download-alt"></span>&nbsp;&nbsp;Download above picture</button></a>
     
                     
    <tr>
-    <td><b>Tandem Guuanine and PRPP riboswitch</b></a></td>
+    <td><b>Tandem Guuanine and PRPP riboswitch</b></td>
     <td><i>Bacillus megaterium</i></td>
     <td>This paper reported the discovery of riboswitch aptamers for phosphoribosyl pyrophosphate (PRPP) that naturally exist either in singlet arrangements, or occur in tandem with guanine aptamers. Tandem guanine-PRPP riboswitches can bind the target ligands, either independently or in combination, to approximate the function expected for an IMPLY Boolean logic gate to regulate transcription of messenger RNAs for <i>de novo</i> purine biosynthesis in bacteria.</td>
     <td>Madeline E. Sherlock</td>
@@ -645,7 +659,7 @@ glyphicon-download-alt"></span>&nbsp;&nbsp;Download above picture</button></a>
     
                     
    <tr>
-    <td><b>Tandem Guuanine and PRPP riboswitch</b></a></td>
+    <td><b>Tandem Guuanine and PRPP riboswitch</b></td>
     <td><i>Syntrophothermus lipocalidus</i></td>
     <td>This paper showed the crystal structure of PRPP (phosphoribosyl pyrophosphate) riboswitch in the presence or absence of PRPP and  provided a clue on the mechanism of the IMPLY logic gate of the tandem guanine-PRPP riboswitches, wherein transcription proceeds in all cases except when guanine is present and PRPP is not.</td>
     <td>Alla Peselis</td>
@@ -657,7 +671,7 @@ glyphicon-download-alt"></span>&nbsp;&nbsp;Download above picture</button></a>
     
                     
    <tr>
-    <td><b>Tandem Guuanine and PRPP riboswitch</b></a></td>
+    <td><b>Tandem Guuanine and PRPP riboswitch</b></td>
     <td><i>Thermoanaerobacter mathranii</i></td>
     <td>This paper also solved the crystal structure of PRPP (phosphoribosyl pyrophosphate) riboswitch bound to PRPP at 2.5 Å, and the present structural data shed additional light on the potential mechanism of switching in tandem guanine-PRPP riboswitches that PRPP binding stabilizes P0 and disrupts the P1 helix of the guanine aptamer.</td>
     <td>Andrew John Knappenberger, Caroline Wetherington Reiss</td>
@@ -669,7 +683,7 @@ glyphicon-download-alt"></span>&nbsp;&nbsp;Download above picture</button></a>
     
                     
    <tr>
-    <td><b>Tandem TPP and HMP-PP riboswitch</b></a></td>
+    <td><b>Tandem TPP and HMP-PP riboswitch</b></td>
     <td><i>Bacillus subtilis</i></td>
     <td>This study demonstrated that thiS motif RNAs function as sensors of the thiamin precursor HMP-PP, and found that approximately 30% of the representatives of HMP-PP riboswitches reside in tandem with TPP riboswitches. Both riboswitches carries their own intrinsic terminator expression platform.</td>
     <td>Ruben M Atilho</td>
@@ -681,7 +695,7 @@ glyphicon-download-alt"></span>&nbsp;&nbsp;Download above picture</button></a>
     
                     
    <tr>
-    <td><b>Tandem SAM-I riboswitch and Met tRNA-binding site </b></a></td>
+    <td><b>Tandem SAM-I riboswitch and Met tRNA-binding site </b></td>
     <td><i>Xanthomonas campestris</i></td>
     <td>This study characterized a SAM-I riboswitch (SAM-IXcc) from the Xanthomonas campestris, whose expression platform not only can repress gene expression in response to SAM binding to SAM-IXcc aptamer but also can sense and bind uncharged initiator Met tRNA.</td>
     <td>Dong-Jie Tang, Xinyu Du, Qiang Shi, Jian-Ling Zhang</td>
