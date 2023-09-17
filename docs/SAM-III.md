@@ -151,7 +151,7 @@ permalink: /docs/SAM-III/
 <br><br>
          
 <font ><p class="header_box" id="description">Description</p></font>
-<font >The S<sub>MK</sub>box riboswitch (also known as SAM-III) is an RNA element that regulates gene expression in bacteria. The S<sub>MK</sub> box riboswitch is found in the 5' UTR of the <i>MetK</i> gene in lactic acid bacteria. The structure of this element changes upon binding to S-adenosyl methionine (SAM) to a conformation that blocks the shine-dalgarno sequence and blocks translation of the gene. There are other known SAM-binding riboswitches such as SAM-I and SAM-II, but these appear to share no similarity in sequence or structure to SAM-III. (from WiKi)<sup></sup>.</font>
+<font >The S<sub>MK</sub>box riboswitch (also known as SAM-III) is an RNA element that regulates gene expression in bacteria. The S<sub>MK</sub> box riboswitch is found in the 5' UTR of the <i>MetK</i> gene in lactic acid bacteria. The structure of this element changes upon binding to S-adenosyl methionine (SAM) to a conformation that blocks the shine-dalgarno sequence and blocks translation of the gene. There are other known SAM-binding riboswitches such as SAM-I and SAM-II, but these appear to share no similarity in sequence or structure to SAM-III (from WiKi)<sup></sup>.</font>
 <p><br /></p>
              
 > Gene association

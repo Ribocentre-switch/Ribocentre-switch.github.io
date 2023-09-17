@@ -116,7 +116,7 @@ permalink: /docs/SAM-VI/
 <br><br>
          
 <font ><p class="header_box" id="description">Description</p></font>
-<font >SAM-VI is a member of the riboswitch family. It is predominantly found in Bifidobacterium and exhibits some similarities to the SAM-III (Smk box) riboswitch class, but lacks most of the highly conserved nucleotides of SAM-III class. SAM-VI aptamers bind the cofactor S-adenosylmethinine SAM (a key metabolite in sulphur metabolism) and discriminate strongly against S-adenosylhomocysteine SAH. The class was discovered by further analysis of Bifido-meK motif RNAs. (from WiKi)<sup></sup>.</font>
+<font >SAM-VI is a member of the riboswitch family. It is predominantly found in Bifidobacterium and exhibits some similarities to the SAM-III (Smk box) riboswitch class, but lacks most of the highly conserved nucleotides of SAM-III class. SAM-VI aptamers bind the cofactor S-adenosylmethinine SAM (a key metabolite in sulphur metabolism) and discriminate strongly against S-adenosylhomocysteine SAH. The class was discovered by further analysis of Bifido-meK motif RNAs (from WiKi)<sup></sup>.</font>
 <p><br /></p>
              
 > Gene association

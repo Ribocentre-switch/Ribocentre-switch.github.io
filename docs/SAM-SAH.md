@@ -130,7 +130,7 @@ permalink: /docs/SAM-SAH/
 <br><br>
          
 <font ><p class="header_box" id="description">Description</p></font>
-<font >The SAM–SAH riboswitch is a conserved RNA structure in certain bacteria that binds S-adenosylmethionine (SAM) and S-adenosylhomocysteine (SAH) and is therefore presumed to be a riboswitch. SAM–SAH riboswitches do not share any apparent structural resemblance to known riboswitches that bind SAM or SAH. The binding affinities for both compounds are similar, but binding for SAH is at least somewhat stronger. SAM–SAH riboswitches are exclusively found in Rhodobacterales, an order of alphaproteobacteria. They are always found in the apparent 5' untranslated regions of <i>metK</i> genes, which encode the enzyme (Methionine adenosyltransferase) that synthesizes SAM. (from WIKi)<sup></sup>.</font>
+<font >The SAM–SAH riboswitch is a conserved RNA structure in certain bacteria that binds S-adenosylmethionine (SAM) and S-adenosylhomocysteine (SAH) and is therefore presumed to be a riboswitch. SAM–SAH riboswitches do not share any apparent structural resemblance to known riboswitches that bind SAM or SAH. The binding affinities for both compounds are similar, but binding for SAH is at least somewhat stronger. SAM–SAH riboswitches are exclusively found in Rhodobacterales, an order of alphaproteobacteria. They are always found in the apparent 5' untranslated regions of <i>metK</i> genes, which encode the enzyme (Methionine adenosyltransferase) that synthesizes SAM (from WIKi)<sup></sup>.</font>
 <p><br /></p>
              
 > Gene association
@@ -160,7 +160,7 @@ permalink: /docs/SAM-SAH/
 > 2D representation
         
 <font><p>Top: Consensus sequence and secondary structure model for the SAM-SAH riboswitch. Bottom: Secondary structure depictions of the <i>Roseobacter</i> sp. SK209-2-6 SAM-SAH riboswitch according to PDB ID: 6YMM<sup>[<a href="#ref5">5</a>]</sup>.</p></font>
-<font><p>5'GGUCACAACGGCUUCCUGGCGUGACC3'.5'AUUGGAGCA3' (Sequence from bottom structure )</p><br></font>
+<font><p>5'GGUCACAACGGCUUCCUGGCGUGACC3'.   5'AUUGGAGCA3' (Sequence from bottom structure )</p><br></font>
 <html>
 <div>
     <div class="entry-content clearfix" itemprop="articleBody description" style="overflow: auto;">

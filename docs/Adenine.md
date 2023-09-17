@@ -163,7 +163,7 @@ permalink: /docs/Adenine/
              
 > Gene association
             
-<font><p>Purine salvage, interconversion, and catabolic pathways in <i>Bacillus subtilis</i>. It has been demonstrated that the <i>ydhL</i> gene, encoding for the putative purine efflux pump, and the <i>add</i> gene, encoding for adenine deaminase<sup>[<a href="#ref1">1</a>-<a href="#ref4"></a>]</sup>.</p></font>
+<font><p>Purine salvage, interconversion, and catabolic pathways in <i>Bacillus subtilis</i>. It has been demonstrated that the <i>ydhL</i> gene, encoding for the putative purine efflux pump, and the <i>add</i> gene, encoding for adenine deaminase<sup>[<a href="#ref1">1</a>-<a href="#ref4">4</a>]</sup>.</p></font>
 <table class="table table-bordered" style="table-layout:fixed;width:1000px;margin-left:auto;margin-right:auto;">
 <tr >
 <td style="text-align:center;padding-bottom: 0px;padding-left: 0px;padding-top: 0px;padding-right: 0px">
@@ -191,7 +191,7 @@ permalink: /docs/Adenine/
 > 2D representation
         
 <font><p>Top: Consensus sequence and secondary structure model for the adenine riboswitch. Bottom: Secondary structure depictions of the adenine riboswitch in <i>Bacillus subtilis</i> according to PDB ID: 1Y26<sup>[<a href="#ref4">4</a>]</sup>.</p></font>
-<font><p>CGCUUCAUAUAAUCCUAAUGAUAUGGUUUGGGAGUUUCUACCAAGAGCCUUAAACUCUUGAUUAUGAAGUG (Sequence from bottom structure )</p><br></font>
+<font><p>5' CGCUUCAUAUAAUCCUAAUGAUAUGGUUUGGGAGUUUCUACCAAGAGCCUUAAACUCUUGAUUAUGAAGUG 3' (Sequence from bottom structure )</p><br></font>
 <html>
 <div>
     <div class="entry-content clearfix" itemprop="articleBody description" style="overflow: auto;">

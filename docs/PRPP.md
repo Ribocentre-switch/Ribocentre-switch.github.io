@@ -153,7 +153,7 @@ permalink: /docs/PRPP/
 > 2D representation
         
 <font><p>Top: Consensus sequence and secondary structure model for the PRPP riboswitch. Bottom: Secondary structure depictions of the <i>Thermoanaerobacter mathranii</i> PRPP riboswitch according to PDB ID: 6CK5<sup>[<a href="#ref4">4</a>]</sup>.</p></font>
-<font><p>5'GUGAAAGUGUACCUAGGGUUCCAGCCUAUUUGUAGGUGUUCGGACCGAGCGGUACAGGUAUAUUUUUAUAUACCACACCUUAGGGACAAAAGCCCGGGAGGAUAGGUUUCACUCGUA3' (Sequence from bottom structure )</p><br></font>
+<font><p>5' GUGAAAGUGUACCUAGGGUUCCAGCCUAUUUGUAGGUGUUCGGACCGAGCGGUACAGGUAUAUUUUUAUAUACCACACCUUAGGGACAAAAGCCCGGGAGGAUAGGUUUCACUCGUA 3' (Sequence from bottom structure )</p><br></font>
 <html>
 <div>
     <div class="entry-content clearfix" itemprop="articleBody description" style="overflow: auto;">
