@@ -437,7 +437,7 @@ glyphicon-download-alt"></span>&nbsp;&nbsp;Download above picture</button></a>
    <tr>
     <td><a href="https://ribocentre-switch.github.io/docs/Guanine" target="_blank"><b>glycine riboswitch</b></a></td>
     <td><i>Vibrio cholerae</i>, <i>Bacillus subtilis</i></td>
-    <td>The authors applied a sequencing-based high-throughput technique to study the wild-type (WT) tandem ON switch from <i>Bacillus subtilis</i> and compared it with the tandem OFF switch variant from <i>Vibrio cholerae</i>. They found that the two binding pockets are differentially conserved between ON and OFF switches, which showed the versatility of genetic switches.</td>
+    <td>The authors applied a sequencing-based high-throughput technique to study the wild-type (WT) tandem ON switch from <i>Bacillus subtilis</i> and compared it with the tandem OFF switch variant from <i>Streptococcus pyogenes</i>. They found that the two binding pockets are differentially conserved between ON and OFF switches, which showed the versatility of genetic switches.</td>
     <td>Chad D. Torgerson</td>
     <td>Scott A. Strobel</td>
     <td>2020</td>
