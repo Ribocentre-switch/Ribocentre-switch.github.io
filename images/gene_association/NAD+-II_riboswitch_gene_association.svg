@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="800px" height="192px" viewBox="0 0 800 192" enable-background="new 0 0 800 192" xml:space="preserve">
+<g>
+	<g>
+		<line fill="none" stroke="#000000" stroke-width="5" stroke-miterlimit="10" x1="312.5" y1="44.668" x2="312.5" y2="138.953"/>
+		<g>
+			<polygon points="304.023,128.994 312.5,137.477 320.976,128.994 320.976,136.191 312.5,144.668 304.023,136.191 			"/>
+		</g>
+	</g>
+</g>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="262.002" y1="75.668" x2="542.003" y2="75.668"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="262.002" y1="110.668" x2="542.003" y2="110.668"/>
+<ellipse fill="#3A3938" cx="313" cy="92.168" rx="10.5" ry="32.5"/>
+<text transform="matrix(1 0 0 1 329.5002 99.832)" font-family="'ArialMT'" font-size="18">PnuC</text>
+<text transform="matrix(1 0 0 1 301.0002 38.666)" font-family="'ArialMT'" font-size="18">NR</text>
+<text transform="matrix(1 0 0 1 301.0002 162.998)" font-family="'ArialMT'" font-size="18">NR</text>
+<text transform="matrix(1 0 0 1 335.4998 162.998)" font-family="'ArialMT'" font-size="18">+</text>
+<text transform="matrix(1 0 0 1 357.0002 162.998)" font-family="'ArialMT'" font-size="18">2 ATP</text>
+<g>
+	<g>
+		<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="415.5" y1="155.668" x2="450.215" y2="155.668"/>
+		<g>
+			<polygon points="446.23,159.059 449.623,155.668 446.23,152.277 449.109,152.277 452.5,155.668 449.109,159.059 			"/>
+		</g>
+	</g>
+</g>
+<text transform="matrix(1 0 0 1 463.9998 163.998)" font-family="'ArialMT'" font-size="18">NAD</text>
+<text transform="matrix(1 0 0 1 502.0037 158.0039)" font-family="'ArialMT'" font-size="10.494">+</text>
+<text transform="matrix(1 0 0 1 230.0002 99.832)" font-family="'ArialMT'" font-size="18">IM</text>
+</svg>

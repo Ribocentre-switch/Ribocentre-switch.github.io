@@ -1,0 +1,110 @@
+
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  
+<div class="navbar navbar-default navbar-fixed-top" role="navigation" >
+  <style>
+		.navbar-default .navbar-brand {
+    color: #ffffff;
+		}
+        .navbar {
+            background-color: #005826;
+        }
+		#now a{
+			color:#fff;
+			font-size: 20px;
+		}
+		#now a:hover{
+			font-size: 20px;
+		}
+	
+		
+	li {
+		float: left;
+	}
+
+	li a {
+		display: block;
+		color: rgb(254, 247, 247);
+		text-align: center;
+		padding: 14px 16px;
+		text-decoration: none;
+	}
+
+	li a:hover:not(.active) {
+		background-color: #005826;
+	}
+
+	li a.active {
+		background-color: #000000;
+		padding-bottom: 2px;
+}
+#left {
+    height: 84px;
+    float: left;}
+#right {
+    height: 84px;
+    float: left;
+}
+</style>
+
+
+<!--<div class="container-fluid2">-->>
+  <div class="container-fluid2">
+	<div id="left">
+	<div class="navbar-header">
+	  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse-1" aria-expanded="false">
+		<span class="sr-only">Toggle navigation</span>
+		<span class="icon-bar"></span>
+		<span class="icon-bar"></span>
+		<span class="icon-bar"></span>
+	  </button>
+	
+    <a class="navbar-brand" href="https://riboswitch.ribocentre.org/">
+		
+		<img class="navbar-brand" src="/images/Riboswitch_logo_bggreen.png" style='height:70px;margin-top:-2px;margin-bottom:0;padding:0;font-size: 20px; ' alt="logo">
+	</a>
+	</div>
+	</div>
+	<div id="right" >
+	<div style='height:45px; font-size: 25px; font-family: Arial;color: #fff;padding-left: 15px;padding-top: 15px;'>
+		A database of Riboswitches
+	</div>
+	<div class="collapse navbar-collapse" id="navbar-collapse-1">
+	  <ul class="nav navbar-nav navbar-right">
+		<li id="now" ><a href="{{ site.url }}{{ site.baseurl }}/">Home</a></li>
+		<li id="now"><a href="{{ site.url }}{{ site.baseurl }}/riboswitches/">Riboswitches</a></li>
+		<li id="now"><a href="{{ site.url }}{{ site.baseurl }}/orphan_riboswitch/">Orphan riboswitches</a></li>
+		<li id="now"><a href="{{ site.url }}{{ site.baseurl }}/sequences/">Sequences</a></li>
+		<li id="now"><a href="{{ site.url }}{{ site.baseurl }}/structures/">Structures</a></li>
+		<li id="now"><a href="{{ site.url }}{{ site.baseurl }}/binding_pockets/">Binding pockets</a></li>
+		<li id="now"><a href="{{ site.url }}{{ site.baseurl }}/applications/">Applications</a></li>
+		<li id="now"><a href="{{ site.url }}{{ site.baseurl }}/publications/">Publications</a></li>
+		<li id="now"><a href="{{ site.url }}{{ site.baseurl }}/helps/">Help</a></li>
+	  </ul>
+	  </div>
+	  <script>
+		window.addEventListener("DOMContentLoaded", function() {
+		  // 获取当前页面的URL
+		  var currentURL = window.location.href;
+		  
+		  // 获取所有导航按钮
+		  var navButtons = document.querySelectorAll("li a");
+		  
+		  // 遍历导航按钮
+		  navButtons.forEach(function(button) {
+				// 获取按钮的链接
+				var buttonURL = button.href;
+				
+				// 比较URL是否与当前页面的URL匹配
+				if (currentURL === buttonURL) {
+				  // 设置匹配的按钮为激活状态
+				  button.classList.add("active");
+				}
+		  });
+		});
+		</script>
+	  
+				
+   </div>
+  </div>
+</div>

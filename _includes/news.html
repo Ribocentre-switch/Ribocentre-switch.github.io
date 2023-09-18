@@ -1,0 +1,57 @@
+
+
+ <div class="well" style="margin-top:24px;" >
+    <h4>News: </h4>
+    
+    {% for article in site.data.news limit:9 %}
+    <p>{{ article.date }}<br>{{ article.headline | markdownify}}</p>
+    {% endfor %}
+    
+    <h4><a href="{{ site.url }}{{ site.baseurl }}/allnews.html">... see all News</a></h4>
+    
+        </div>
+
+        <div class="well">
+          <h4>Visualization: </h4>
+      
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+      <head>
+      </head>
+      <style type="text/css">
+      </style>
+        
+        <p>&nbsp;
+          <a href="https://www.ribocentre.org/docs/twister.html"><img src="https://www.ribocentre.org/images/homepic/4OJI.png" width="" height="100px"></a>&nbsp;&nbsp;
+          <a href="https://www.ribocentre.org/docs/VS-ribozyme.html"><img src="https://www.ribocentre.org/images/homepic/4R4V.png" width="" height="100px"></a><br>
+          <a href="https://www.ribocentre.org/docs/hammer.html"><img src="https://www.ribocentre.org/images/homepic/3ZD5.png" width="" height="100px"></a>
+          <a href="https://www.ribocentre.org/docs/groupII.html"><img src="https://www.ribocentre.org/images/homepic/4FAR.png" width="" height="100px"></a><br>
+          <a href="https://www.ribocentre.org/docs/glms.html"><img src="https://www.ribocentre.org/images/homepic/2HO7.png" width="" height="100px"></a>
+          <a href="https://www.ribocentre.org/docs/HDV.html"><img src="https://www.ribocentre.org/images/homepic/1DRZ.png" width="" height="100px"></a><br>
+          
+      </p> (Representative Data. Full list found at <a href="https://www.ribocentre.org/ribozyme/"><strong>here</strong></a>)</div>
+      <div class="well">
+        <h4>Submit/Feedback : </h4>
+        <a href="https://www.ribocentre.org/Helps" target="_blank"><button>Clink here</button></a><br>
+
+      </div>
+
+
+        <div class="well">
+          <h4>Related websites:</h4>
+      
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+      <head>
+      </head>
+      <style type="text/css">
+      </style>
+        
+        <p>&nbsp;
+          <a href="http://rna.tbi.univie.ac.at/forna/"><img src="https://www.ribocentre.org/images/forna.png" width="" height="60px"></a>&nbsp;&nbsp;
+          <a href="https://molstar.org/"><img src="https://molstar.org/img/molstar-logo.png" width="" height="50px"></a><br>
+          <a href="https://www.rcsb.org/"><img src="https://cdn.rcsb.org/rcsb-pdb/v2/common/images/rcsb_logo.png" width="" height="40px"></a><br>
+          <a href="https://rfam.xfam.org/"><img src="https://rfam.xfam.org/static/images/rfam_logo.svg" width="" height="40px"></a>
+          
+          
+      </p></div>
+      
+    
