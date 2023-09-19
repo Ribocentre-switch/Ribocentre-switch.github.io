@@ -175,8 +175,8 @@ This section lists all the experimentally validated riboswitches.
       <button class="button" onclick="showSheet('sheet5')">Elemental ions</button>
       <button class="button" onclick="showSheet('sheet6')">Amino acids</button>
       <button class="button" onclick="showSheet('sheet7')">Sugars</button>
-      <button class="button" onclick="showSheet('sheet8')">Others</button>
-      <button class="button" onclick="showSheet('sheet9')">T-box</button>
+      <button class="button" onclick="showSheet('sheet8')">T-box</button>
+      <button class="button" onclick="showSheet('sheet9')">Others</button>
   </div>
         
 <div id="sheet1" class="sheet">

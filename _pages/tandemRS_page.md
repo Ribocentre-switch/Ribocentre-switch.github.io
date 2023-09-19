@@ -7,7 +7,7 @@ permalink: /tandom_riboswitches/
 ---
 
 <h1 class="post-title" itemprop="name headline">Tandem Riboswitches</h1>
-<font>Tandem riboswitches refer to the arrangement of aptamers or complete riboswitches in tandem, creating RNA systems with more complex gene regulatory functions. Various types of independent tandem riboswitches have been identified. We present three categories for discussing multi-ligand sensing and regulation by riboswitches and tandem riboswitches: 'Single riboswitch sensing multiple ligand molecules', 'Tandem riboswitches sensing identical ligands', and 'Tandem riboswitches sensing multiple ligands'.</font>
+<font>Tandem riboswitches refer to the arrangement of aptamers or complete riboswitches in tandem, creating RNA systems with more complex gene regulatory functions. Various types of independent tandem riboswitches have been identified. We present three categories for discussing multi-ligand sensing and regulation by riboswitches and tandem riboswitches: 'Single riboswitch sensing multiple ligand molecules', 'Tandem riboswitches sensing identical ligands', and 'Tandem riboswitches sensing multiple ligands'. (Ascensión Ariza-Mateos, et al. <i>Biochemistry. Biokhimiia</i>. 2021 & Madeline E Sherlock, et al. <i>RNA biology</i>. 2022)</font>
 <br><br>
 
 <html>
@@ -513,7 +513,7 @@ glyphicon-download-alt"></span>&nbsp;&nbsp;Download above picture</button></a>
 <p id="Tandem riboswitches sensing multiple ligands"> </p>
 <br><br>
 <p class="header_box" >Tandem riboswitches sensing multiple ligands</p>
-<font>Among the remarkable discoveries in the field of riboswitches is the identification of riboswitches with distinct binding sites for various ligands. Occasionally, these riboswitches feature a single expression platform subsequent to the final aptamer domain. In other instances, riboswitches exhibit two distinct, independently functioning regulatory units arranged in tandem. To enhance comprehension of the genetic regulation mechanism of these tandem riboswitches, we illustrate this concept using two examples: Tandem SAM-I and AdoCbl riboswitch from <i>Bacillus clausii</i>, and Tandem Guanine and PRPP riboswitch from <i>Syntrophothermus lipocalidus</i>.</font><br>      
+<font>Among the remarkable discoveries in the field of riboswitches is the identification of riboswitches with distinct binding sites for various ligands. Occasionally, these riboswitches feature a single expression platform subsequent to the final aptamer domain. In other instances, riboswitches exhibit two distinct, independently functioning regulatory units arranged in tandem. To enhance comprehension of the genetic regulation mechanism of these tandem riboswitches, we illustrate this concept using two examples: Tandem SAM-I and AdoCbl riboswitch (A) from <i>Bacillus clausii</i>, and Tandem Guanine and PRPP riboswitch (B) from <i>Syntrophothermus lipocalidus</i>.</font><br>      
             
 <div style="weight:400px;display:block;margin:0 auto;border:solid 1px;border-radius:0;">
 <img src="/images/tandem/Tandem_RS_3.svg" alt="drawing" >

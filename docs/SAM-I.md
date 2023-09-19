@@ -704,7 +704,7 @@ SAM-IV riboswitches are a kind of riboswitch that specifically binds S-adenosylm
 {
   struct_asym_id: 'A', 
   start_residue_number:86, 
-  end_residue_number:93, 
+  end_residue_number:94, 
   color:{r:128,g:219,b:158}
 },
 {

@@ -77,7 +77,7 @@ For any inquiries or concerns regarding the database, please reach out to <code 
   <p>Search channels</p>
 </blockquote>
 On <code class="language-plaintext highlighter-rouge"><font color=Gray><a href="https://www.ribocentre.org/">Home</a></font></code> page, we borrow the introduction from wikipedia, hoping you could get some basic concepts of Riboswitches. There are two search channels available in the home page, as shown below, you can switch to the Riboswitche, Binding pockets, Application, or Publication page by using the navigation bar. You can switch to a specific page by searching for keywords or sequences.
-<img src="/images/help_page/usage1.svg" alt="drawing" style="width:1000px;display:block;margin:0 auto;border: 1px solid #000;border-radius: 0%">
+<img src="/images/help_page/usage1.png" alt="drawing" style="width:1000px;display:block;margin:0 auto;border: 1px solid #000;border-radius: 0%">
 <br>
 <blockquote>
   <p>Interactive visualisation</p>
