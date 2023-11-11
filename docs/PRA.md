@@ -5,7 +5,7 @@ date:   2023-05-15 00:00:00
 author: Wenjian Liao
 permalink: /docs/PRA/
 ---
-<p style="font-size: 24px"><strong>Rfam ID: <a href="https://rfam.xfam.org/family/RF02974" target="_blank">RF02974</a></strong> (<i>Fibro-purF</i> RNA)<br /></p>
+<p style="font-size: 24px"><strong>Rfam ID: <a href="https://rfam.org/family/RF02974" target="_blank">RF02974</a></strong> (<i>Fibro-purF</i> RNA)<br /></p>
  
 <br />
 <html>

@@ -5,7 +5,7 @@ date:   2023-05-28 00:00:00
 author: Yuhang Luo, Yuanlin He
 permalink: /docs/ppGpp/
 ---
-<p style="font-size: 24px"><strong>Rfam ID: <a href="https://rfam.xfam.org/family/nan" target="_blank">nan</a></strong> (nan)<br /></p>
+<p style="font-size: 24px"><strong>Rfam ID: <a href="https://rfam.org/family/nan" target="_blank">nan</a></strong> (nan)<br /></p>
  
 <br />
 <html>

@@ -191,8 +191,9 @@ permalink: /
 
         The original definition of the term "riboswitch" specified that they directly sense small-molecule metabolite concentrations. Although this definition remains in common use, some biologists have used a broader definition that includes other cis-regulatory RNAs. However, this article will discuss only metabolite-binding riboswitches.
 
-        Most known riboswitches occur in bacteria, but functional riboswitches of one type (the TPP riboswitch) have been discovered in archaea, plants and certain fungi. TPP riboswitches have also been found in eukaryotes eukaryotes that function via alternative splicing of mRNA <a href="https://en.wikipedia.org/wiki/Riboswitch " target="_blank" > (Adapted from Wiki).</a><br>
-      
+        Most known riboswitches occur in bacteria, but functional riboswitches of one type (the TPP riboswitch) have been discovered in archaea, plants and certain fungi. TPP riboswitches have also been found in eukaryotes eukaryotes that function via alternative splicing of mRNA <a href="https://en.wikipedia.org/wiki/Riboswitch " target="_blank" > (Adapted from Wiki).</a><br><br>
+
+<strong style="color:#005826;font-weight: bold">Ribocentre</strong>  is designed to contain comprehensive information of all natural ribozymes. Ribozymes are good systems for understanding the ‘sequence - structure - function’ relationship of RNA molecules, since ribozymes are found in the genomes of species from all kingdoms of life and play a role in important reactions such as peptide-bond formation, RNA splicing, transfer RNA biosynthesis, and viral replication. This is therefore an excellent time to summarise these properties, and our new web-based database will make this generally accessible<a href="https://www.ribocentre.org/" target="_blank" > (Accessing the Ribocentre).</a>
 </div>
 <br>
 <br>
@@ -238,6 +239,20 @@ permalink: /
 </p>
 </div>
 </div>
+<br>
+<br>
+
+<div class="sectiontitle" style="border: 1px solid #C9C9C9; background-color: #fff;">
+<p class="header_box">Cite us</p>
+<div class="left-aligned" style="width: 82%;">
+Fan Bu, Xiaowei Lin, Wenjian Liao, Zhizhong Lu, Yuanlin He, Yuhang Luo, Xuemei Peng, Mengxiao Li, Yuanyin Huang, Xiaoxue Chen, Bowen Xiao, Jiuhong Jiang, Jie Deng, Jian Huang, Tianxin Lin, Zhichao Miao, Lin Huang <br>
+<strong style="color:#005826;font-weight: bold">Ribocentre-switch: a database of riboswitches.</strong><br>
+<a href="https://pubmed.ncbi.nlm.nih.gov/37855663/" target="_blank" > Nucleic Acids Res. gkad891 (2023).https://pubmed.ncbi.nlm.nih.gov/37855663/</a>
+</div>
+</div>
+<br>
+
+
 <script>
         // 打开弹窗
         function openPopup() {

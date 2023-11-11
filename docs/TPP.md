@@ -5,7 +5,7 @@ date:   2023-04-05 00:00:00
 author: Xiaowei Lin, Yuanyin Huang
 permalink: /docs/TPP/
 ---
-<p style="font-size: 24px"><strong>Rfam ID: <a href="https://rfam.xfam.org/family/RF00059" target="_blank">RF00059</a></strong> (TPP riboswitch (THI element))<br /></p>
+<p style="font-size: 24px"><strong>Rfam ID: <a href="https://rfam.org/family/RF00059" target="_blank">RF00059</a></strong> (TPP riboswitch (THI element))<br /></p>
  
 <br />
 <html>

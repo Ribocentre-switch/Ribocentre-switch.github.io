@@ -5,7 +5,7 @@ date:   2023-05-02 00:00:00
 author: Wenjian Liao
 permalink: /docs/Guanine/
 ---
-<p style="font-size: 24px"><strong>Rfam ID: <a href="https://rfam.xfam.org/family/RF00167" target="_blank">RF00167</a></strong> (Purine riboswitch)<br /></p>
+<p style="font-size: 24px"><strong>Rfam ID: <a href="https://rfam.org/family/RF00167" target="_blank">RF00167</a></strong> (Purine riboswitch)<br /></p>
  
 <br />
 <html>

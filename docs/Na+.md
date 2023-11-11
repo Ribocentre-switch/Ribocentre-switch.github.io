@@ -5,7 +5,7 @@ date:   2023-05-23 00:00:00
 author: Yuanlin He, Xiaowei Lin
 permalink: /docs/Na/
 ---
-<p style="font-size: 24px"><strong>Rfam ID: <a href="https://rfam.xfam.org/family/RF03071" target="_blank">RF03071</a></strong> (Na+ riboswitch (DUF1646 RNA))<br /></p>
+<p style="font-size: 24px"><strong>Rfam ID: <a href="https://rfam.org/family/RF03071" target="_blank">RF03071</a></strong> (Na+ riboswitch (DUF1646 RNA))<br /></p>
  
 <br />
 <html>

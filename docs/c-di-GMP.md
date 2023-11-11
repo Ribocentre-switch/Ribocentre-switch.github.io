@@ -5,12 +5,12 @@ date:   2023-04-20 00:00:00
 author: Jie Deng,Yuhang Luo
 permalink: /docs/c-di-GMP/
 ---
-<p style="font-size: 24px"><strong>Rfam ID: <a href="https://rfam.xfam.org/family/RF01051" target="_blank">RF01051</a></strong> (Cyclic di-GMP-I riboswitch)<br /></p>
-<p style="font-size: 24px"><strong>&emsp;&emsp;&emsp;&emsp;<a href="https://rfam.xfam.org/family/RF03167" target="_blank">RF03167</a></strong> (c-di-GMP-I-GGC riboswitch) <br /></p>
-<p style="font-size: 24px"><strong>&emsp;&emsp;&emsp;&emsp;<a href="https://rfam.xfam.org/family/RF03168" target="_blank">RF03168</a></strong> (c-di-GMP-I-UAU riboswitch) <br /></p>
-<p style="font-size: 24px"><strong>&emsp;&emsp;&emsp;&emsp;<a href="https://rfam.xfam.org/family/RF01786" target="_blank">RF01786</a></strong> (Cyclic di-GMP-II riboswitch) <br /></p>
-<p style="font-size: 24px"><strong>&emsp;&emsp;&emsp;&emsp;<a href="https://rfam.xfam.org/family/RF03169" target="_blank">RF03169</a></strong> (c-di-GMP-II-GAG riboswitch) <br /></p>
-<p style="font-size: 24px"><strong>&emsp;&emsp;&emsp;&emsp;<a href="https://rfam.xfam.org/family/RF03170" target="_blank">RF03170</a></strong> (c-di-GMP-II-GCG riboswitch) <br /></p>
+<p style="font-size: 24px"><strong>Rfam ID: <a href="https://rfam.org/family/RF01051" target="_blank">RF01051</a></strong> (Cyclic di-GMP-I riboswitch)<br /></p>
+<p style="font-size: 24px"><strong>&emsp;&emsp;&emsp;&emsp;<a href="https://rfam.org/family/RF03167" target="_blank">RF03167</a></strong> (c-di-GMP-I-GGC riboswitch) <br /></p>
+<p style="font-size: 24px"><strong>&emsp;&emsp;&emsp;&emsp;<a href="https://rfam.org/family/RF03168" target="_blank">RF03168</a></strong> (c-di-GMP-I-UAU riboswitch) <br /></p>
+<p style="font-size: 24px"><strong>&emsp;&emsp;&emsp;&emsp;<a href="https://rfam.org/family/RF01786" target="_blank">RF01786</a></strong> (Cyclic di-GMP-II riboswitch) <br /></p>
+<p style="font-size: 24px"><strong>&emsp;&emsp;&emsp;&emsp;<a href="https://rfam.org/family/RF03169" target="_blank">RF03169</a></strong> (c-di-GMP-II-GAG riboswitch) <br /></p>
+<p style="font-size: 24px"><strong>&emsp;&emsp;&emsp;&emsp;<a href="https://rfam.org/family/RF03170" target="_blank">RF03170</a></strong> (c-di-GMP-II-GCG riboswitch) <br /></p>
  
 <br />
 <html>

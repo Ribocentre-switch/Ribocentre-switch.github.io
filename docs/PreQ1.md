@@ -5,9 +5,9 @@ date:   2023-05-12 00:00:00
 author: Wenjian Liao, Zhizhong Lu
 permalink: /docs/PreQ/
 ---
-<p style="font-size: 24px"><strong>Rfam ID: <a href="https://rfam.xfam.org/family/RF00522" target="_blank">RF00522</a></strong> (PreQ1 riboswitch)<br /></p>
-<p style="font-size: 24px"><strong>&emsp;&emsp;&emsp;&emsp;<a href="https://rfam.xfam.org/family/RF01054" target="_blank">RF01054</a></strong> (preQ1-II (pre queuosine) riboswitch ) <br /></p>
-<p style="font-size: 24px"><strong>&emsp;&emsp;&emsp;&emsp;<a href="https://rfam.xfam.org/family/RF02680" target="_blank">RF02680</a></strong> (PreQ1-III riboswitch) <br /></p>
+<p style="font-size: 24px"><strong>Rfam ID: <a href="https://rfam.org/family/RF00522" target="_blank">RF00522</a></strong> (PreQ1 riboswitch)<br /></p>
+<p style="font-size: 24px"><strong>&emsp;&emsp;&emsp;&emsp;<a href="https://rfam.org/family/RF01054" target="_blank">RF01054</a></strong> (preQ1-II (pre queuosine) riboswitch ) <br /></p>
+<p style="font-size: 24px"><strong>&emsp;&emsp;&emsp;&emsp;<a href="https://rfam.org/family/RF02680" target="_blank">RF02680</a></strong> (PreQ1-III riboswitch) <br /></p>
  
 <br />
 <html>

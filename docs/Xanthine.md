@@ -5,7 +5,7 @@ date:   20230403
 author: Mengxiao Li, Xuemei Peng
 permalink: /docs/Xanthine/
 ---
-<p style="font-size: 24px"><strong>Rfam ID: <a href="https://rfam.xfam.org/family/RF03054" target="_blank">RF03054</a></strong> (Xanthine riboswitch (NMT1 RNA))<br /></p>
+<p style="font-size: 24px"><strong>Rfam ID: <a href="https://rfam.org/family/RF03054" target="_blank">RF03054</a></strong> (Xanthine riboswitch (NMT1 RNA))<br /></p>
  
 <br />
 <html>

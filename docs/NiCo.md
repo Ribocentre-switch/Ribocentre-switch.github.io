@@ -5,7 +5,7 @@ date:   2023-04-27 00:00:00
 author: Yuanlin He, Xiaowei Lin
 permalink: /docs/NiCo/
 ---
-<p style="font-size: 24px"><strong>Rfam ID: <a href="https://rfam.xfam.org/family/RF02683" target="_blank">RF02683</a></strong> (NiCo riboswitch)<br /></p>
+<p style="font-size: 24px"><strong>Rfam ID: <a href="https://rfam.org/family/RF02683" target="_blank">RF02683</a></strong> (NiCo riboswitch)<br /></p>
  
 <br />
 <html>
