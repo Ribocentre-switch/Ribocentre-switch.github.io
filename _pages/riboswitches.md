@@ -27,7 +27,7 @@ permalink: /riboswitches/
     font-size:20px;
     font-weight: bold;
   }
-/* 按钮容器样式 */
+/* Button Container Styles */
     .button-container {
       display: flex;
       justify-content: left;
@@ -35,7 +35,7 @@ permalink: /riboswitches/
       height: 50px;
       overflow:auto
     }
-    /* 按钮样式 */
+    /* Button Style */
     .button {
       display: block;
       padding: 10px;
@@ -49,7 +49,7 @@ permalink: /riboswitches/
       border-radius: 5px;
 
     }
-    /* 鼠标悬停样式 */
+    /* Mouse Hover Style */
     .button:hover {
       background-color: #999;
       cursor: pointer;

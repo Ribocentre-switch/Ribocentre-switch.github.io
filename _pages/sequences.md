@@ -18,7 +18,7 @@ Shows the sequence of Riboswitch (Rfam ID for fasta file download). We keep the 
   h2{
     font-size:20px
   }
-    /* 样式表格 */
+    /* tabel style */
     table {
         border: 2px solid #f8f8ff;
         border: 2px solid #767676;

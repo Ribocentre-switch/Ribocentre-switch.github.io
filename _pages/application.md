@@ -12,9 +12,9 @@ This page shows some of the applications of the collected riboswitches. We liste
 
 <html>
 <head>
-  <title>横向排列的点击按钮</title>
+  <title>Horizontal Navigation Bar</title>
   <style>
-    /* 按钮容器样式 */
+    /* button container style */
     .button-container {
       display: flex;
       justify-content: left;
@@ -22,7 +22,7 @@ This page shows some of the applications of the collected riboswitches. We liste
       height: 50px;
     }
     
-    /* 按钮样式 */
+    /* button style */
     .button {
       display: block;
       padding: 10px;
@@ -38,7 +38,7 @@ This page shows some of the applications of the collected riboswitches. We liste
     }
     
     
-    /* 鼠标悬停样式 */
+    /* mouse hover effect */
     .button:hover {
       background-color: #999;
       cursor: pointer;

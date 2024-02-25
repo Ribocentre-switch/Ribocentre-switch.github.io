@@ -27,14 +27,14 @@ permalink: /publications/
     font-size:20px;
     font-weight: bold
   }
-/* 按钮容器样式 */
+/* button container style */
     .button-container {
       display: flex;
       justify-content: left;
       align-items: center;
       height: 50px;
     }
-    /* 按钮样式 */
+    /* button style */
     .button {
       display: block;
       padding: 10px;
@@ -48,7 +48,7 @@ permalink: /publications/
       border-radius: 5px;
 
     }
-    /* 鼠标悬停样式 */
+    /* mource button style */
     .button:hover {
       background-color: #999;
       cursor: pointer;
@@ -78,7 +78,7 @@ permalink: /publications/
 
 		  padding: 10px 10px;
 		}
-    /* 隐藏所有 sheet */
+    /* hide all sheet */
     .sheet {
       display: none;
     }
@@ -99,7 +99,7 @@ permalink: /publications/
   #searchBox::placeholder {
     font-size: 16px;
   }
-  /* 搜索框和下载框水平布局 */
+  /* Horizontal layout of search box and download box */
     .form-container {
       display: flex;
       align-items: center;
@@ -108,7 +108,7 @@ permalink: /publications/
     .form-container input {
       margin-right: 10px;
     }
-    /* 下载框位置设置 */
+    /* Download box position setting */
     .form-container select {
       margin-left: auto;
       padding: 10px;
@@ -131,7 +131,7 @@ This page list the reviews and articles about riboswitches.
 Click into different sections:
 <br><br><br>
 <div class="form-container">
-  <!-- 搜索框 -->
+  <!-- search box -->
   <input type="text" id="searchBox" placeholder="Search by keyword..." onfocus="showAllSheets()" oninput="searchTables()"><br><br>
   <select id="downloadOptions">
     <option value="" disabled selected>Select an option</option>
@@ -143,7 +143,7 @@ Click into different sections:
   <button class="button" onclick="downloadExcel()">Download</button>
 </div>
 <br>
-  <!-- 按钮 -->
+  <!-- button -->
   <div class="button-container">
       <button class="button" onclick="showSheet('sheet1')">Reviews</button>
       <button class="button" onclick="showSheet('sheet2')">Articles</button>

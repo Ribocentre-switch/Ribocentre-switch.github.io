@@ -11,9 +11,9 @@ permalink: /docs/THF/
 <br />
 <html>
 <head>
-  <title>横向排列的点击按钮</title>
+  <title>Horizontally arranged click buttons</title>
   <style>
-    /* 按钮容器样式 */
+    /* Button Container Styles */
     .button-container {
       display: flex;
       justify-content: left;
@@ -21,7 +21,7 @@ permalink: /docs/THF/
       height: 50px;
     }
     
-    /* 按钮样式 */
+    /* Button Style */
     .button {
       display: block;
       padding: 10px;
@@ -35,7 +35,7 @@ permalink: /docs/THF/
       border-radius: 5px;
     }
     
-    /* 鼠标悬停样式 */
+    /* Mouse Hover Style */
     .button:hover {
       background-color: #999;
       cursor: pointer;
@@ -251,7 +251,7 @@ The <i>folE</i> RNA motif, now known as the THF-II riboswitch, is a conserved RN
       border-radius: 5px;
       
     }
-    /* 鼠标悬停样式 */
+    /* Mouse Hover Style */
     .btn:hover {
       color: #005826;
       background-color: #999;
@@ -373,7 +373,7 @@ The <i>folE</i> RNA motif, now known as the THF-II riboswitch, is a conserved RN
       border-radius: 5px;
       
     }
-    /* 鼠标悬停样式 */
+    /* Mouse Hover Style */
     .btn:hover {
       color: #005826;
       background-color: #999;

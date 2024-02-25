@@ -13,9 +13,9 @@ This page shows some of the comparisons of the binding pockets from different ri
 
 <html>
 <head>
-  <title>横向排列的点击按钮</title>
+  <title>Horizontally arranged click buttons</title>
   <style>
-    /* 按钮容器样式 */
+    /* Button Container Styles */
     .button-container {
       display: flex;
       justify-content: left;
@@ -23,7 +23,7 @@ This page shows some of the comparisons of the binding pockets from different ri
       height: 50px;
     }
     
-    /* 按钮样式 */
+    /* button styles */
     .button {
       display: block;
       padding: 10px;
@@ -39,7 +39,7 @@ This page shows some of the comparisons of the binding pockets from different ri
     }
     
     
-    /* 鼠标悬停样式 */
+    /* mouseover button styles */
     .button:hover {
       background-color: #999;
       cursor: pointer;
@@ -54,7 +54,7 @@ This page shows some of the comparisons of the binding pockets from different ri
   
 
   [id]:target {
-  scroll-margin-top: 80px; /* 根据你的导航栏的高度调整 */
+  scroll-margin-top: 80px; /* Adjust to the height of your navigation bar */
 }
 
   </style>
