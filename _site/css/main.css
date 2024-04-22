@@ -2585,7 +2585,7 @@ a.list-group-item-danger.active:hover, a.list-group-item-danger.active:focus { b
 
 img { margin-bottom: 24px; margin-top: 17px; border-radius: 2%; }
 
-body { padding-top: 70px; }
+body { padding-top: 0px; }
 
 figcaption { text-align: right; margin-top: -20px; margin-bottom: 20px; }
 
@@ -2669,5 +2669,17 @@ img { max-width: 100%; }
 .timeline .days .day:nth-child(odd) .events .day__img img { float: left; }
 
 .timeline .days .day:nth-child(odd) .events .day__img .caption { right: auto; left: 0; }
+
+/* Add this CSS to override Bootstrap's default link styles */
+.nav-link-0 { color: white; /* Set default font color to white */ margin: 15px 10px; }
+
+/* Add this CSS to change link color on hover */
+.nav-link-0:hover { color: black; /* Change font color to black on hover */ }
+
+/* Add this CSS to change SVG color on hover */
+.nav-link-0:hover > img { filter: brightness(90%) invert(1); /* Invert SVG color to black on hover */ }
+
+/* Add this CSS to override Bootstrap's default link styles */
+.nav-link-1 { color: white; /* Set default font color to white */ font-size: 23px; }
 
 /*# sourceMappingURL=main.css.map */

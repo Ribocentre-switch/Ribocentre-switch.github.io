@@ -3,7 +3,7 @@ title: "Ribocentre - Orphan_riboswitch"
 layout: piclay
 excerpt: "Riboswitches: A riboswitch database"
 sitemap: True
-permalink: /orphan_riboswitch/
+permalink: /orphan_riboswitches/
 ---
 
 <h1 class="post-title" itemprop="name headline">Orphan riboswitches</h1>

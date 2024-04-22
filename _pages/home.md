@@ -41,7 +41,7 @@ permalink: /
     background :#fff;
     }
   body {
-    padding-top: 70px;
+    padding-top: 0px;
   }
   .well {
     max-width: 70%;
@@ -185,6 +185,7 @@ permalink: /
     <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
     <span class="sr-only">Next</span>
   </a>
+
 </div>
 <br>
 <strong style="color:#005826;font-weight: bold">Riboswitch</strong>  is a regulatory segment of a messenger RNA molecule that binds a small molecule, resulting in a change in production of the proteins encoded by the mRNA. Thus, an mRNA that contains a riboswitch is directly involved in regulating its own activity, in response to the concentrations of its effector molecule. The discovery that modern organisms use RNA to bind small molecules, and discriminate against closely related analogs, expanded the known natural capabilities of RNA beyond its ability to code for proteins, catalyze reactions, or to bind other RNA or protein macromolecules.
@@ -251,16 +252,16 @@ Fan Bu, Xiaowei Lin, Wenjian Liao, Zhizhong Lu, Yuanlin He, Yuhang Luo, Xuemei P
 </div>
 </div>
 <br>
-
+<br>
 
 <div class="sectiontitle" style="border: 1px solid #C9C9C9; background-color: #fff;">
 <p class="header_box">Related database</p>
 <div class="left-aligned" style="width: 82%;">
 <a href="https://www.ribocentre.org/" target="_blank"><img src="/images/Ribo_centre_logo.jpg" alt="drawing" style="width:150px;margin:0 auto;"></a>
 </div>
+
 </div>
 <br>
-
 
 <script>
         // 打开弹窗
@@ -288,7 +289,8 @@ Fan Bu, Xiaowei Lin, Wenjian Liao, Zhizhong Lu, Yuanlin He, Yuhang Luo, Xuemei P
 
    
     </script>
-<br>
+   
+
 
 
 

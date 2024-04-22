@@ -39,7 +39,7 @@ permalink: /helps/
     background :#fff;
     }
   body {
-    padding-top: 70px;
+    padding-top: 0px;
   }
   .well {
     max-width: 70%;

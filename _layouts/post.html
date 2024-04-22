@@ -23,9 +23,12 @@ layout: default
     }
 </style>
 <div class="wrapper box_style" >
+  <!--导航栏和内容之间存在gap-->
+  <br>
   <section class="sectiontitle"> 
     <article class="post" itemscope itemtype="http://schema.org/BlogPosting" >
-    <div class="well" style="border: 1px solid #C9C9C9; background-color: #fff;">
+      <!--内容和footer之间存在gap,需要margin-bottom: 0px填入下面的style,将margin-bottom设置为0-->
+    <div class="well" style="border: 1px solid #C9C9C9; background-color: #fff;margin-bottom: 0px;">
       <div class="post-content" itemprop="articleBody">
         <header class="post-header">
           <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
@@ -37,6 +40,8 @@ layout: default
     </div>
     </article>
   </section>
+  <!--内容和footer之间存在gap,所以使用gap进行间隔-->
+  <br>
 </div>
 <script>
   // Use JavaScript to detect device type and adjust page zoom

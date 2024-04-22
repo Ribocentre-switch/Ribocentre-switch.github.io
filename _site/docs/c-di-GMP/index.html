@@ -8,10 +8,10 @@
   <title>c-di-GMP</title>
   <meta name="description" content="Ribo centre is a database of ribozymes.
 ">
-  <!--<link rel="stylesheet" href="http://localhost:4001/css/main.css>-->
+  <!--<link rel="stylesheet" href="http://localhost:4002/css/main.css>-->
   <link rel="stylesheet" href="/css/main.css">
-  <link rel="canonical" href="http://localhost:4001/docs/c-di-GMP/">
-  <link rel="shortcut icon" type ="image/x-icon" href="http://localhost:4001/images/favicon.ico">
+  <link rel="canonical" href="http://localhost:4002/docs/c-di-GMP/">
+  <link rel="shortcut icon" type ="image/x-icon" href="http://localhost:4002/images/favicon.ico">
 
 
 
@@ -19,106 +19,78 @@
 
 
   <body>
-    
-	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-  
-<div class="navbar navbar-default navbar-fixed-top" role="navigation">
-  <style>
-		.navbar-default .navbar-brand {
-    color: #ffffff;
-		}
-        .navbar {
-            background-color: #005826;
-        }
-		#now a{
-			color:#fff;
-			font-size: 20px;
-		}
-		#now a:hover{
-			font-size: 20px;
-		}
-	
-		
-	li {
-		float: left;
-	}
-
-	li a {
-		display: block;
-		color: rgb(254, 247, 247);
-		text-align: center;
-		padding: 14px 16px;
-		text-decoration: none;
-	}
-
-	li a:hover:not(.active) {
-		background-color: #005826;
-	}
-
-	li a.active {
-		background-color: #000000;
-}
-
-</style>
-
-
-
-  <div class="container-fluid2">
-	<div class="navbar-header">
-	  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse-1" aria-expanded="false">
-		<span class="sr-only">Toggle navigation</span>
-		<span class="icon-bar"></span>
-		<span class="icon-bar"></span>
-		<span class="icon-bar"></span>
-	  </button>
-	
-    <a class="navbar-brand" href="https://riboswitch.ribocentre.org/">
-		
-		<img class="navbar-brand" src="/images/Riboswitch_logo_bggreen.png" style='height:50px;margin-top:-14px;margin-bottom:0;padding:0;font-size: 20px; ' alt="logo">
-		&nbsp;Ribocentre-switch 
-	</a>
+    <div class="navbar-expand-lg navbar-dark" style='background-color: #333333; border-radius: 0; margin-bottom: 0; border: 0; height: 30px;' role="navigation">
+	<div class="container-fluid" style='height: 30px; max-width: 1000px;'>
+		<ul class="nav navbar-nav navbar-right" style='height: 30px;'>
+		  <li><a style='display: inline; padding: 15px 15px 5px 5px; line-height: 30px;' class="nav-link-0" href="https://www.gznl.org/">
+			  <img src="http://localhost:4002/images/header/home.svg" style='height: 20px; width: auto; margin: 0;'>
+			  Home</a></li>
+		  <li><a style='display: inline; padding: 15px 15px 5px 5px; line-height: 30px;' class="nav-link-0" href="https://www.gznl.org/database/">
+			  <img src="http://localhost:4002/images/header/database.svg" style='height: 20px; width: auto; margin: 0;'>
+			  Database</a></li>
+		  <li><a style='display: inline; padding: 15px 15px 5px 5px; line-height: 30px;' class="nav-link-0" href="https://www.gznl.org/research/">
+			  <img src="http://localhost:4002/images/header/research.svg" style='height: 20px; width: auto; margin: 0;'>
+			  Research</a></li>
+		  <li><a style='display: inline; padding: 15px 15px 5px 5px; line-height: 30px;' class="nav-link-0" href="https://www.gznl.org/aboutus/">
+			  <img src="http://localhost:4002/images/header/aboutus.svg" style='height: 20px; width: auto; margin: 0;'>
+			  About us</a></li>
+		  <li><a style='display: inline; padding: 15px 15px 5px 5px; line-height: 30px;' class="nav-link-0" href="https://gzlab.ac.cn/">
+			  GZNL-RDC
+			  <img src="http://localhost:4002/images/header/gznl2.svg" style='height: 20px; width: auto; margin: 0;'>
+			  </a></li>
+		</ul>
 	</div>
-	<div class="collapse navbar-collapse" id="navbar-collapse-1">
-	  <ul class="nav navbar-nav navbar-right" style="margin-right: 0px;">
-		<li id="now" ><a href="http://localhost:4001/">Home</a></li>
-		<li id="now"><a href="http://localhost:4001/riboswitches/">Riboswitches</a></li>
-		<li id="now"><a href="http://localhost:4001/tandom_riboswitches/">Tandem RS</a></li>
-		<li id="now"><a href="http://localhost:4001/orphan_riboswitch/">Orphan RS</a></li>
-		<li id="now"><a href="http://localhost:4001/sequences/">Sequences</a></li>
-		<li id="now"><a href="http://localhost:4001/structures/">Structures</a></li>
-		<li id="now"><a href="http://localhost:4001/binding_pockets/">Binding pockets</a></li>
-		<li id="now"><a href="http://localhost:4001/applications/">Applications</a></li>
-		<li id="now"><a href="http://localhost:4001/publications/">Publications</a></li>
-		<li id="now"><a href="http://localhost:4001/helps/">Help</a></li>
-	  </ul>
-	  <script>
-		window.addEventListener("DOMContentLoaded", function() {
-		  // 获取当前页面的URL
-		  var currentURL = window.location.href;
-		  
-		  // 获取所有导航按钮
-		  var navButtons = document.querySelectorAll("li a");
-		  
-		  // 遍历导航按钮
-		  navButtons.forEach(function(button) {
-				// 获取按钮的链接
-				var buttonURL = button.href;
-				
-				// 比较URL是否与当前页面的URL匹配
-				if (currentURL === buttonURL) {
-				  // 设置匹配的按钮为激活状态
-				  button.classList.add("active");
-				}
-		  });
-		});
-		</script>
-	  
-				
-   </div>
   </div>
-</div>
+
+
+
+  <div class="full-width-image">
+	<img src="http://localhost:4002/images/homepicture.jpeg" class="img-fluid" alt="Responsive image" style='width: 100%; border-radius: 0; margin-top: 0; margin-bottom: 0;'>
+  </div>
+
+
+  <div class="navbar navbar-expand-lg navbar-dark bg-primary" style='border-radius: 0; border: 0;margin-bottom: 0px' role="navigation">
+  
+	<div class="container-fluid" style='max-width: 75%;'>
+	  <div class="navbar-header">
+		<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse-1" aria-expanded="false">
+		  <span class="sr-only">Toggle navigation</span>
+		  <span class="icon-bar"></span>
+		  <span class="icon-bar"></span>
+		  <span class="icon-bar"></span>
+		</button>
+	  <a class="navbar-brand" href="http://localhost:4002/">
+		  
+		  <img class="navbar-brand" src="http://localhost:4002/images/Riboswitch_logo_bggreen.png" style='height:50px;margin-top:-14px;margin-bottom:0;padding:2px 2px;border-radius: 0;' alt="logo">
+		  <!--b style='font-size: 32px; color: #eeeeee;'>Ribocentre-switch</b-->
+	  </a>
+	  </div>
+	  <div class="collapse navbar-collapse" id="navbar-collapse-1">
+		<ul class="nav navbar-nav navbar-right">
+		  <li><a class="nav-link-1" href="http://localhost:4002/">Home</a></li>
+		  <li class="dropdown">
+			<a href="#" class="dropdown-toggle nav-link-1" data-toggle="dropdown">
+				Riboswitches <span class="caret"></span>
+			</a>
+			<ul class="dropdown-menu">
+				<li><a class="nav-link-1" href="http://localhost:4002/riboswitches" style="font-size: 20px;">Riboswitches</a></li>
+				<li><a class="nav-link-1" href="http://localhost:4002/tandom_riboswitches" style="font-size: 20px">Tandem RS</a></li>
+				<li><a class="nav-link-1" href="http://localhost:4002/orphan_riboswitches" style="font-size: 20px">Orphan RS</a></li>
+			</ul>
+          <li><a class="nav-link-1" href="http://localhost:4002/sequences/" style="font-size: 20px">Sequences</a></li>
+          <li><a class="nav-link-1" href="http://localhost:4002/structures/" style="font-size: 20px">Structures</a></li>
+		  <li><a class="nav-link-1" href="http://localhost:4002/binding_pockets/" style="font-size: 20px">Binding pockets</a></li>
+          <li><a class="nav-link-1" href="http://localhost:4002/applications/" style="font-size: 20px">Applications</a></li>
+          <li><a class="nav-link-1" href="http://localhost:4002/publications/" style="font-size: 20px">Publications</a></li>
+          <li><a class="nav-link-1" href="http://localhost:4002/helps/" style="font-size: 20px">Help</a></li>
+		</ul>
+	  </div>
+	</div>
+  </div>
+  
     
       <div class="container-fluid">
+        
         <div class="row">
           <style>
   .box_style{
@@ -142,9 +114,12 @@
     }
 </style>
 <div class="wrapper box_style" >
+  <!--导航栏和内容之间存在gap-->
+  <br>
   <section class="sectiontitle"> 
     <article class="post" itemscope itemtype="http://schema.org/BlogPosting" >
-    <div class="well" style="border: 1px solid #C9C9C9; background-color: #fff;">
+      <!--内容和footer之间存在gap,需要margin-bottom: 0px填入下面的style,将margin-bottom设置为0-->
+    <div class="well" style="border: 1px solid #C9C9C9; background-color: #fff;margin-bottom: 0px;">
       <div class="post-content" itemprop="articleBody">
         <header class="post-header">
           <h1 class="post-title" itemprop="name headline">c-di-GMP</h1>
@@ -960,6 +935,8 @@ Inuzuka, S. et al.<br />
     </div>
     </article>
   </section>
+  <!--内容和footer之间存在gap,所以使用gap进行间隔-->
+  <br>
 </div>
 <script>
   // Use JavaScript to detect device type and adjust page zoom
@@ -976,46 +953,75 @@ Inuzuka, S. et al.<br />
         </div>
       </div>
     <div id="footer" class="panel">
-  <div class="panel-footer">
-	<!--<div class="container-fluid2">-->
-	<div class="container-fluid2">
-	  <div class="row">
-		<div class="col-sm-4">
-			
-		  <p>&copy 2023 Ribocentre. Site made with <a href="https://jekyllrb.com">Jekyll</a>;  <a href="https://www.ribocentre.org/aboutwebsite.html">copy and  modify it for your own research group.</a></p>
-              <p>We are part of the <a href="https://gzlab.ac.cn">Guangzhou Laboratory</a> and <a href="http://www.gzsys.org.cn/">Sun Yat-sen Memorial Hospital of Sun Yat-sen University</a>.</p>
-            
-
-		   <p>  </p><p>
-            		  
-            
-		</div>
-		<div class="col-sm-4">
-		  Funding:<br />
-		  - <a href="https://www.nsfc.gov.cn/">NSFC</a> <br />
-		  - <a href="http://www.most.gov.cn/">MOST IT+BT project</a> <br />
-          - <a href="https://gzlab.ac.cn">GZlab starting grant</a><br />
-		  <br>
+	<div class="panel-footer" style='background-color: #333333; color: #eeeeee;'>
+	  <div class="container-fluidmiao">
+		<div class="row">
+		  <div class="col-sm-4">
+			  
+			<p>&copy 2024 GZNL-RDC. </p>
+			<p>We are part of the <a href="https://gzlab.ac.cn" style="color:#669966">Guangzhou Laboratory</a>, <a href="http://www.rnacentre.org/" style="color:#669966">RNAcentre</a> and <a href="http://www.gzsys.org.cn/" style="color:#669966">Sun Yat-sen University</a>.</p>
+			<p>Site made with <a href="https://jekyllrb.com" style="color:#669966">Jekyll</a>;  <a href="http://localhost:4002/aboutwebsite.html" style="color:#669966">copy and  modify it for your own research group.</a></p>
+			<p>  </p>
+			<p>  </p>
+		  </div>
+		  
+		  <div class="col-sm-4">
+			Funding:<br />
+			- <a href="https://gzlab.ac.cn" style="color:#669966">R&D Programs of Guangzhou Laboratory</a><br />
+			- <a href="http://www.most.gov.cn/" style="color:#669966">MOST IT+BT projects</a> <br />
+			- <a href="https://www.nsfc.gov.cn/" style="color:#669966">NSFC</a> <br />	  
+			<br>
 		  <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 		  <!--<span class="glyphicon glyphicon-user"></span>&nbsp;&nbsp;<span id="busuanzi_container_site_uv"><strong>: <a href=""><span id="busuanzi_value_site_uv"></span></strong></a> </span> &nbsp;&nbsp;
-		  !--><span class="glyphicon glyphicon-eye-open"></span>&nbsp;&nbsp;<span id="busuanzi_container_site_pv"><strong>: <a href=""><span id="busuanzi_value_site_pv"></span></strong></a> </span>
-
-		</div>
-		<div class="col-sm-4">
-		  Contact:<br />
-		  Building B2, Guangzhou Laboratory<br />
-		  96 Xingdao South Road, Guangzhou International Bio Island, <br />
-		  Haizhu District, Guangzhou, Guangdong,<br />
-		  China. <br />
-          (<a href="https://goo.gl/maps/hDLr6siEAS2Eaypt8">Maps</a>)
+		  !--><span class="glyphicon glyphicon-eye-open"></span>&nbsp;&nbsp;<span id="busuanzi_container_site_pv"><strong>: <a href="" style="color:#669966"><span id="busuanzi_value_site_pv"></span></strong></a> </span>
+		  </div>
+		  
+		  <div class="col-sm-4">
+			Contact:<br />
+			Building B2, Guangzhou National Laboratory<br />
+			96 Xingdao South Road, Guangzhou International Bio Island, <br />
+			Haizhu District, Guangzhou, Guangdong, China.<br />
+			(<a href="https://goo.gl/maps/hDLr6siEAS2Eaypt8" style="color:#669966">Maps</a>)
+		  </div>
 		</div>
 	  </div>
 	</div>
   </div>
-</div>
+  
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+  <script src="http://localhost:4002/js/bootstrap.min.js"></script>
 
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-<script src="https://www.ribocentre.org/js/bootstrap.min.js"></script>
+  
+<style>
+  .panel {
+    border: 1px solid #e7e7e7;
+    border-width: 0 1px 4px 1px
+}
+
+.container-fluidmiao {
+    margin-right: auto;
+    margin-left: auto;
+    max-width: 75%
+}
+
+.col-sm-1,.col-sm-2,.col-sm-3,.col-sm-5,.col-sm-6,.col-sm-7,.col-sm-8,.col-sm-9,.col-sm-10,.col-sm-11,.col-sm-12 {
+    padding-left: 16px;
+    padding-right: 16px
+}
+
+.col-sm-4 {
+    padding-left: 26px;
+    padding-right: 26px
+}
+
+.carousel {
+    border-radius: 3px 3px 3px 3px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    margin-left: 30px;
+    margin-right: 30px
+}
+</style>
 
 
   </body>

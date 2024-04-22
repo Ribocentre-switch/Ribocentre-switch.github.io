@@ -10,7 +10,7 @@ img { margin-bottom: 24px;
 
 
 body {
-	padding-top: 70px;
+	padding-top: 0px;
 }
 
 figcaption {
@@ -244,9 +244,29 @@ html {
 	  }
 	}
   }
+ 
 
-
-
+/* Add this CSS to override Bootstrap's default link styles */
+.nav-link-0 {
+	color: white; /* Set default font color to white */
+	margin: 15px 10px;
+  }
+  
+  /* Add this CSS to change link color on hover */
+  .nav-link-0:hover {
+	color: black; /* Change font color to black on hover */
+  } 
+  
+  /* Add this CSS to change SVG color on hover */
+  .nav-link-0:hover > img{
+	filter: brightness(90%) invert(1); /* Invert SVG color to black on hover */
+  }
+  
+  /* Add this CSS to override Bootstrap's default link styles */
+  .nav-link-1 {
+	color: white; /* Set default font color to white */
+	font-size: 23px;
+  }
 
 
   
