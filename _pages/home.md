@@ -250,7 +250,7 @@ Fan Bu, Xiaowei Lin, Wenjian Liao, Zhizhong Lu, Yuanlin He, Yuhang Luo, Xuemei P
 </div>
 </div>
 <br>
-
+<br>
 
 <div class="sectiontitle" style="border: 1px solid #C9C9C9; background-color: #fff;">
 <p class="header_box">Related database</p>
@@ -259,7 +259,6 @@ Fan Bu, Xiaowei Lin, Wenjian Liao, Zhizhong Lu, Yuanlin He, Yuhang Luo, Xuemei P
 <a href="https://aptamer.ribocentre.org/" target="_blank"><img src="/images/riboaptamer.svg" alt="drawing" style="width:120px;margin:0 auto;"></a>
 </div>
 </div>
-<br>
 
 
 <script>
