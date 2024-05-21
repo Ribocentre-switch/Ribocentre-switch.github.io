@@ -135,10 +135,9 @@ permalink: /
   <!-- 弹窗内容结束 -->
  
 <div class="wrapper box_style" >
-<br>
   <div class="well" style="border: 1px solid #C9C9C9; background-color: #fff;">
     <section class="sectiontitle"> 
-    <h1 class="post-title" itemprop="name headline"><strong>Welcome to Ribocentre-switch</strong></h1>
+    <!--h1 class="post-title" itemprop="name headline"><strong>Welcome to Ribocentre-switch</strong></h1-->
     <div>
     <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
